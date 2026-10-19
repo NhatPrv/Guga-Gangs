@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-desu",
+  "level": "N5",
+  "pattern": "〜です",
+  "title": "〜です",
+  "meaning": "Là; là; là (copula lịch sự)",
+  "meaningVi": "Là; là; là (copula lịch sự)",
+  "connection": "Danh từ (N) + です / na-Adj + です / i-Adj + です",
+  "usageNotes": "Các hình thức: です, ではありません, でした, ではありませんでした. Sau tính từ い, です chỉ thêm tính lịch sự: 高いです.",
+  "examples": [
+    {
+      "ja": "私はマリアです。",
+      "furigana": "{私|わたし}はマリアです。",
+      "en": "I'm Maria.",
+      "vi": "Tôi là Maria."
+    },
+    {
+      "ja": "今日は月曜日です。",
+      "furigana": "{今日|きょう}は{月曜日|げつようび}です。",
+      "en": "Today is Monday.",
+      "vi": "Hôm nay là thứ Hai."
+    },
+    {
+      "ja": "この部屋はとても静かです。",
+      "furigana": "この{部屋|へや}はとても{静|しず}かです。",
+      "en": "This room is very quiet.",
+      "vi": "Căn phòng này rất yên tĩnh."
+    }
+  ],
+  "tags": [
+    "copula",
+    "politeness"
+  ],
+  "unitId": "grammar-n5-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n5-desu-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私はマリアです。",
+      "sentenceVi": "Tôi là Maria.",
+      "targetGrammar": "〜です",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Là; là; là (copula lịch sự)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜です」 mang ý nghĩa: \"Là; là; là (copula lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n5-desu-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は月曜日です。",
+      "sentenceVi": "Hôm nay là thứ Hai.",
+      "targetGrammar": "〜です",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜です"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Hôm nay là thứ Hai.\", ta sử dụng mẫu 「〜です」."
+    },
+    {
+      "id": "bunpou-n5-desu-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この部屋はとても静かです。",
+      "sentenceVi": "Căn phòng này rất yên tĩnh.",
+      "targetGrammar": "〜です",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Là; là; là (copula lịch sự)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜です」 mang ý nghĩa: \"Là; là; là (copula lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n5-desu-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私はマリアです。",
+      "sentenceVi": "Tôi là Maria.",
+      "targetGrammar": "〜です",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Là; là; là (copula lịch sự)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜です",
+        "〜と（and）",
+        "〜で（means）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜です」."
+    },
+    {
+      "id": "bunpou-n5-desu-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私はマリアです。",
+      "sentenceVi": "Tôi là Maria.",
+      "targetGrammar": "〜です",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜です」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Là; là; là (copula lịch sự)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜です」 có nghĩa là: Là; là; là (copula lịch sự)."
+    }
+  ]
+}

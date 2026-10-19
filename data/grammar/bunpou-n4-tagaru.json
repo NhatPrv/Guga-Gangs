@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-tagaru",
+  "level": "N4",
+  "pattern": "〜たがる",
+  "title": "〜たがる",
+  "meaning": "(người khác) muốn",
+  "meaningVi": "(người khác) muốn",
+  "connection": "Động từ (V)-stem + たがる",
+  "usageNotes": "Dùng cho người khác, vì bạn không thể trực tiếp biết được mong muốn của họ. Mong muốn hiện tại thường được thể hiện bằng 〜たがっている.",
+  "examples": [
+    {
+      "ja": "子どもたちは外で遊びたがっている。",
+      "furigana": "{子|こ}どもたちは{外|そと}で{遊|あそ}びたがっている。",
+      "en": "The children want to play outside.",
+      "vi": "Bọn trẻ muốn chơi bên ngoài."
+    },
+    {
+      "ja": "弟はいつも私のゲームをやりたがる。",
+      "furigana": "{弟|おとうと}はいつも{私|わたし}のゲームをやりたがる。",
+      "en": "My little brother always wants to play my games.",
+      "vi": "Em trai tôi luôn muốn chơi trò chơi của tôi."
+    },
+    {
+      "ja": "犬が散歩に行きたがっています。",
+      "furigana": "{犬|いぬ}が{散歩|さんぽ}に{行|い}きたがっています。",
+      "en": "The dog wants to go for a walk.",
+      "vi": "Con chó muốn đi dạo."
+    }
+  ],
+  "tags": [
+    "desire"
+  ],
+  "unitId": "grammar-n4-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n4-tagaru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子どもたちは外で遊びたがっている。",
+      "sentenceVi": "Bọn trẻ muốn chơi bên ngoài.",
+      "targetGrammar": "〜たがる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "(người khác) muốn",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜たがる」 mang ý nghĩa: \"(người khác) muốn\"."
+    },
+    {
+      "id": "bunpou-n4-tagaru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "弟はいつも私のゲームをやりたがる。",
+      "sentenceVi": "Em trai tôi luôn muốn chơi trò chơi của tôi.",
+      "targetGrammar": "〜たがる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜たがる",
+        "〜ていく",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Em trai tôi luôn muốn chơi trò chơi của tôi.\", ta sử dụng mẫu 「〜たがる」."
+    },
+    {
+      "id": "bunpou-n4-tagaru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "犬が散歩に行きたがっています。",
+      "sentenceVi": "Con chó muốn đi dạo.",
+      "targetGrammar": "〜たがる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "(người khác) muốn",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜たがる」 mang ý nghĩa: \"(người khác) muốn\"."
+    },
+    {
+      "id": "bunpou-n4-tagaru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "子どもたちは外で遊びたがっている。",
+      "sentenceVi": "Bọn trẻ muốn chơi bên ngoài.",
+      "targetGrammar": "〜たがる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"(người khác) muốn\":",
+      "options": [
+        "〜とき",
+        "〜てみる",
+        "〜てある",
+        "〜たがる"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜たがる」."
+    },
+    {
+      "id": "bunpou-n4-tagaru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子どもたちは外で遊びたがっている。",
+      "sentenceVi": "Bọn trẻ muốn chơi bên ngoài.",
+      "targetGrammar": "〜たがる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜たがる」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "(người khác) muốn",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜たがる」 có nghĩa là: (người khác) muốn."
+    }
+  ]
+}

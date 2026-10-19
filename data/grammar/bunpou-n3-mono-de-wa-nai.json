@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-mono-de-wa-nai",
+  "level": "N3",
+  "pattern": "〜ものではない",
+  "title": "〜ものではない",
+  "meaning": "Người ta không nên; điều đó không đúng",
+  "meaningVi": "Người ta không nên; điều đó không đúng",
+  "connection": "Động từ (V)-dict + ものではない",
+  "usageNotes": "Lời khuyên dựa trên lẽ thường hoặc chuẩn mực xã hội, thường là từ người lớn tuổi. Bình thường: 〜もんじゃない. Nghe có vẻ giống sự hiểu biết thông thường hơn là 〜べきではない.",
+  "examples": [
+    {
+      "ja": "人の失敗を笑うものではない。",
+      "furigana": "{人|ひと}の{失敗|しっぱい}を{笑|わら}うものではない。",
+      "en": "You shouldn't laugh at other people's mistakes.",
+      "vi": "Bạn không nên cười nhạo lỗi lầm của người khác."
+    },
+    {
+      "ja": "出された食べ物を残すものじゃないよ。",
+      "furigana": "{出|だ}された{食|た}べ{物|もの}を{残|のこ}すものじゃないよ。",
+      "en": "You shouldn't leave food that's been served to you.",
+      "vi": "Bạn không nên để lại thức ăn đã được phục vụ cho bạn."
+    },
+    {
+      "ja": "夜遅くに人の家に電話をかけるものではありません。",
+      "furigana": "{夜|よる}{遅|おそ}くに{人|ひと}の{家|いえ}に{電話|でんわ}をかけるものではありません。",
+      "en": "One shouldn't phone someone's home late at night.",
+      "vi": "Người ta không nên gọi điện về nhà người khác vào đêm khuya."
+    }
+  ],
+  "tags": [
+    "advice",
+    "prohibition"
+  ],
+  "unitId": "grammar-n3-unit-02",
+  "questions": [
+    {
+      "id": "bunpou-n3-mono-de-wa-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "人の失敗を笑うものではない。",
+      "sentenceVi": "Bạn không nên cười nhạo lỗi lầm của người khác.",
+      "targetGrammar": "〜ものではない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Người ta không nên; điều đó không đúng",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ものではない」 mang ý nghĩa: \"Người ta không nên; điều đó không đúng\"."
+    },
+    {
+      "id": "bunpou-n3-mono-de-wa-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "出された食べ物を残すものじゃないよ。",
+      "sentenceVi": "Bạn không nên để lại thức ăn đã được phục vụ cho bạn.",
+      "targetGrammar": "〜ものではない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜もの / 〜もん"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn không nên để lại thức ăn đã được phục vụ cho bạn.\", ta sử dụng mẫu 「〜ものではない」."
+    },
+    {
+      "id": "bunpou-n3-mono-de-wa-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夜遅くに人の家に電話をかけるものではありません。",
+      "sentenceVi": "Người ta không nên gọi điện về nhà người khác vào đêm khuya.",
+      "targetGrammar": "〜ものではない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không cần phải làm vậy; không cần phải làm vậy",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Người ta không nên; điều đó không đúng",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ものではない」 mang ý nghĩa: \"Người ta không nên; điều đó không đúng\"."
+    },
+    {
+      "id": "bunpou-n3-mono-de-wa-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "人の失敗を笑うものではない。",
+      "sentenceVi": "Bạn không nên cười nhạo lỗi lầm của người khác.",
+      "targetGrammar": "〜ものではない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Người ta không nên; điều đó không đúng\":",
+      "options": [
+        "〜ものではない",
+        "〜ことになっている",
+        "〜こと（instruction）",
+        "〜ことにしている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ものではない」."
+    },
+    {
+      "id": "bunpou-n3-mono-de-wa-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "人の失敗を笑うものではない。",
+      "sentenceVi": "Bạn không nên cười nhạo lỗi lầm của người khác.",
+      "targetGrammar": "〜ものではない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ものではない」 là gì?",
+      "options": [
+        "Người ta không nên; điều đó không đúng",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Không thể ; không có vẻ như nó sẽ",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ものではない」 có nghĩa là: Người ta không nên; điều đó không đúng."
+    }
+  ]
+}

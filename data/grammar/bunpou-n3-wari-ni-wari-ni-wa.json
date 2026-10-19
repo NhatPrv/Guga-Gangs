@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-wari-ni-wari-ni-wa",
+  "level": "N3",
+  "pattern": "〜わりに / 〜わりには",
+  "title": "〜わりに / 〜わりには",
+  "meaning": "Xem xét; vì (bất ngờ)",
+  "meaningVi": "Xem xét; vì (bất ngờ)",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + わりに",
+  "usageNotes": "Kết quả không khớp với mức độ bạn mong đợi từ A (giá, tuổi, nỗ lực). Có thể theo sau tính từ, không giống như 〜にしては.",
+  "examples": [
+    {
+      "ja": "この店は値段のわりに、量が多くておいしい。",
+      "furigana": "この{店|みせ}は{値段|ねだん}のわりに、{量|りょう}が{多|おお}くておいしい。",
+      "en": "For the price, this restaurant gives you big, tasty portions.",
+      "vi": "Về giá cả, nhà hàng này mang đến cho bạn những phần ăn lớn và ngon."
+    },
+    {
+      "ja": "兄はよく食べるわりには、全然太らない。",
+      "furigana": "{兄|あに}はよく{食|た}べるわりには、{全然|ぜんぜん}{太|ふと}らない。",
+      "en": "Considering how much he eats, my older brother never gains weight.",
+      "vi": "Xét đến việc anh ấy ăn bao nhiêu thì anh trai tôi không bao giờ tăng cân."
+    },
+    {
+      "ja": "このホテルは駅から近いわりに、静かでよく眠れた。",
+      "furigana": "このホテルは{駅|えき}から{近|ちか}いわりに、{静|しず}かでよく{眠|ねむ}れた。",
+      "en": "Considering how close it is to the station, the hotel was quiet and I slept well.",
+      "vi": "Xem xét mức độ gần nhà ga, khách sạn yên tĩnh và tôi ngủ rất ngon."
+    }
+  ],
+  "tags": [
+    "contrast",
+    "degree"
+  ],
+  "unitId": "grammar-n3-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n3-wari-ni-wari-ni-wa-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この店は値段のわりに、量が多くておいしい。",
+      "sentenceVi": "Về giá cả, nhà hàng này mang đến cho bạn những phần ăn lớn và ngon.",
+      "targetGrammar": "〜わりに / 〜わりには",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Xem xét; vì (bất ngờ)",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜わりに / 〜わりには」 mang ý nghĩa: \"Xem xét; vì (bất ngờ)\"."
+    },
+    {
+      "id": "bunpou-n3-wari-ni-wari-ni-wa-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "兄はよく食べるわりには、全然太らない。",
+      "sentenceVi": "Xét đến việc anh ấy ăn bao nhiêu thì anh trai tôi không bao giờ tăng cân.",
+      "targetGrammar": "〜わりに / 〜わりには",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わりに / 〜わりには",
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜ものではない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Xét đến việc anh ấy ăn bao nhiêu thì anh trai tôi không bao giờ tăng cân.\", ta sử dụng mẫu 「〜わりに / 〜わりには」."
+    },
+    {
+      "id": "bunpou-n3-wari-ni-wari-ni-wa-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このホテルは駅から近いわりに、静かでよく眠れた。",
+      "sentenceVi": "Xem xét mức độ gần nhà ga, khách sạn yên tĩnh và tôi ngủ rất ngon.",
+      "targetGrammar": "〜わりに / 〜わりには",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Xem xét; vì (bất ngờ)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜わりに / 〜わりには」 mang ý nghĩa: \"Xem xét; vì (bất ngờ)\"."
+    },
+    {
+      "id": "bunpou-n3-wari-ni-wari-ni-wa-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この店は値段のわりに、量が多くておいしい。",
+      "sentenceVi": "Về giá cả, nhà hàng này mang đến cho bạn những phần ăn lớn và ngon.",
+      "targetGrammar": "〜わりに / 〜わりには",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Xem xét; vì (bất ngờ)\":",
+      "options": [
+        "〜ことになっている",
+        "〜わりに / 〜わりには",
+        "〜ことにしている",
+        "〜ことはない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜わりに / 〜わりには」."
+    },
+    {
+      "id": "bunpou-n3-wari-ni-wari-ni-wa-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この店は値段のわりに、量が多くておいしい。",
+      "sentenceVi": "Về giá cả, nhà hàng này mang đến cho bạn những phần ăn lớn và ngon.",
+      "targetGrammar": "〜わりに / 〜わりには",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜わりに / 〜わりには」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Xem xét; vì (bất ngờ)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜わりに / 〜わりには」 có nghĩa là: Xem xét; vì (bất ngờ)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-te-oku",
+  "level": "N4",
+  "pattern": "〜ておく",
+  "title": "〜ておく",
+  "meaning": "Làm sẵn gì đó trước (Chuẩn bị)",
+  "meaningVi": "Làm sẵn gì đó trước (Chuẩn bị)",
+  "connection": "Động từ (V)-te + おく",
+  "usageNotes": "Trong cách nói thông thường 〜ておく thường trở thành 〜とく (買っとく), và 〜でおく trở thành 〜どく (読んどく).",
+  "examples": [
+    {
+      "ja": "旅行の前に、ホテルを予約しておきます。",
+      "furigana": "{旅行|りょこう}の{前|まえ}に、ホテルを{予約|よやく}しておきます。",
+      "en": "I'll book the hotel before the trip.",
+      "vi": "Tôi sẽ đặt khách sạn trước chuyến đi."
+    },
+    {
+      "ja": "パーティーのために、飲み物を冷やしておいた。",
+      "furigana": "パーティーのために、{飲|の}み{物|もの}を{冷|ひ}やしておいた。",
+      "en": "I chilled the drinks for the party.",
+      "vi": "Tôi đã làm lạnh đồ uống cho bữa tiệc."
+    },
+    {
+      "ja": "エアコンはつけておいてください。",
+      "furigana": "エアコンはつけておいてください。",
+      "en": "Please leave the air conditioner on.",
+      "vi": "Vui lòng để máy điều hòa bật."
+    }
+  ],
+  "tags": [
+    "purpose",
+    "state"
+  ],
+  "unitId": "grammar-n4-unit-02",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-oku-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "旅行の前に、ホテルを予約しておきます。",
+      "sentenceVi": "Tôi sẽ đặt khách sạn trước chuyến đi.",
+      "targetGrammar": "〜ておく",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ておく」 mang ý nghĩa: \"Làm sẵn gì đó trước (Chuẩn bị)\"."
+    },
+    {
+      "id": "bunpou-n4-te-oku-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "パーティーのために、飲み物を冷やしておいた。",
+      "sentenceVi": "Tôi đã làm lạnh đồ uống cho bữa tiệc.",
+      "targetGrammar": "〜ておく",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜ていく",
+        "〜ておく",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đã làm lạnh đồ uống cho bữa tiệc.\", ta sử dụng mẫu 「〜ておく」."
+    },
+    {
+      "id": "bunpou-n4-te-oku-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "エアコンはつけておいてください。",
+      "sentenceVi": "Vui lòng để máy điều hòa bật.",
+      "targetGrammar": "〜ておく",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thử làm gì đó...",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ておく」 mang ý nghĩa: \"Làm sẵn gì đó trước (Chuẩn bị)\"."
+    },
+    {
+      "id": "bunpou-n4-te-oku-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "旅行の前に、ホテルを予約しておきます。",
+      "sentenceVi": "Tôi sẽ đặt khách sạn trước chuyến đi.",
+      "targetGrammar": "〜ておく",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm sẵn gì đó trước (Chuẩn bị)\":",
+      "options": [
+        "〜てある",
+        "〜間 / 〜間に",
+        "〜とき",
+        "〜ておく"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜ておく」."
+    },
+    {
+      "id": "bunpou-n4-te-oku-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "旅行の前に、ホテルを予約しておきます。",
+      "sentenceVi": "Tôi sẽ đặt khách sạn trước chuyến đi.",
+      "targetGrammar": "〜ておく",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ておく」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ておく」 có nghĩa là: Làm sẵn gì đó trước (Chuẩn bị)."
+    }
+  ]
+}

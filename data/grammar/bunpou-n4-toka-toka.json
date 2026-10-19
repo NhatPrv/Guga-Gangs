@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-toka-toka",
+  "level": "N4",
+  "pattern": "〜とか〜とか",
+  "title": "〜とか〜とか",
+  "meaning": "Những thứ như A và B; A, B, v.v. (thông thường)",
+  "meaningVi": "Những thứ như A và B; A, B, v.v. (thông thường)",
+  "connection": "Danh từ (N) + とか + Danh từ (N) + とか / Động từ (V)-dict + とか + Động từ (V)-dict + とか",
+  "usageNotes": "Bình thường hơn 〜や〜など, và nó cũng có thể liệt kê các động từ hoặc cả cụm từ.",
+  "examples": [
+    {
+      "ja": "冷蔵庫に卵とか牛乳とかが入っています。",
+      "furigana": "{冷蔵庫|れいぞうこ}に{卵|たまご}とか{牛乳|ぎゅうにゅう}とかが{入|はい}っています。",
+      "en": "There are things like eggs and milk in the fridge.",
+      "vi": "Có những thứ như trứng và sữa trong tủ lạnh."
+    },
+    {
+      "ja": "休みの日は、映画とか買い物とかに行きます。",
+      "furigana": "{休|やす}みの{日|ひ}は、{映画|えいが}とか{買|か}い{物|もの}とかに{行|い}きます。",
+      "en": "On my days off, I go to the movies, go shopping, that kind of thing.",
+      "vi": "Vào những ngày nghỉ, tôi đi xem phim, đi mua sắm, đại loại như vậy."
+    },
+    {
+      "ja": "健康のために、野菜を食べるとか運動するとか、何かしたほうがいい。",
+      "furigana": "{健康|けんこう}のために、{野菜|やさい}を{食|た}べるとか{運動|うんどう}するとか、{何|なに}かしたほうがいい。",
+      "en": "For your health, you should do something, like eating vegetables or exercising.",
+      "vi": "Vì sức khỏe của mình, bạn nên làm điều gì đó, như ăn rau hoặc tập thể dục."
+    }
+  ],
+  "tags": [
+    "example",
+    "casual"
+  ],
+  "unitId": "grammar-n4-unit-18",
+  "questions": [
+    {
+      "id": "bunpou-n4-toka-toka-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "冷蔵庫に卵とか牛乳とかが入っています。",
+      "sentenceVi": "Có những thứ như trứng và sữa trong tủ lạnh.",
+      "targetGrammar": "〜とか〜とか",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Những thứ như A và B; A, B, v.v. (thông thường)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜とか〜とか」 mang ý nghĩa: \"Những thứ như A và B; A, B, v.v. (thông thường)\"."
+    },
+    {
+      "id": "bunpou-n4-toka-toka-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "休みの日は、映画とか買い物とかに行きます。",
+      "sentenceVi": "Vào những ngày nghỉ, tôi đi xem phim, đi mua sắm, đại loại như vậy.",
+      "targetGrammar": "〜とか〜とか",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜ていく",
+        "〜とか〜とか"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Vào những ngày nghỉ, tôi đi xem phim, đi mua sắm, đại loại như vậy.\", ta sử dụng mẫu 「〜とか〜とか」."
+    },
+    {
+      "id": "bunpou-n4-toka-toka-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "健康のために、野菜を食べるとか運動するとか、何かしたほうがいい。",
+      "sentenceVi": "Vì sức khỏe của mình, bạn nên làm điều gì đó, như ăn rau hoặc tập thể dục.",
+      "targetGrammar": "〜とか〜とか",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Những thứ như A và B; A, B, v.v. (thông thường)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜とか〜とか」 mang ý nghĩa: \"Những thứ như A và B; A, B, v.v. (thông thường)\"."
+    },
+    {
+      "id": "bunpou-n4-toka-toka-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "冷蔵庫に卵とか牛乳とかが入っています。",
+      "sentenceVi": "Có những thứ như trứng và sữa trong tủ lạnh.",
+      "targetGrammar": "〜とか〜とか",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Những thứ như A và B; A, B, v.v. (thông thường)\":",
+      "options": [
+        "〜てみる",
+        "〜とか〜とか",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜とか〜とか」."
+    },
+    {
+      "id": "bunpou-n4-toka-toka-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "冷蔵庫に卵とか牛乳とかが入っています。",
+      "sentenceVi": "Có những thứ như trứng và sữa trong tủ lạnh.",
+      "targetGrammar": "〜とか〜とか",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜とか〜とか」 là gì?",
+      "options": [
+        "Những thứ như A và B; A, B, v.v. (thông thường)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜とか〜とか」 có nghĩa là: Những thứ như A và B; A, B, v.v. (thông thường)."
+    }
+  ]
+}

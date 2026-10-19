@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-eru-rareru-potential",
+  "level": "N4",
+  "pattern": "〜える / 〜られる（potential）",
+  "title": "〜える / 〜られる（potential）",
+  "meaning": "Có thể; có thể (dạng tiềm năng)",
+  "meaningVi": "Có thể; có thể (dạng tiềm năng)",
+  "connection": "Động từ (V)-dict (Group 1: final u → e) + る / Động từ (V)-nai stem + られる (Group 2)",
+  "usageNotes": "Bất quy tắc: する → できる, 来る → 来られる. Tân ngữ thường lấy が thay vì を. Trong lời nói thông thường, động từ Nhóm 2 thường bỏ ら (見れる).",
+  "examples": [
+    {
+      "ja": "私は漢字が二百ぐらい読めます。",
+      "furigana": "{私|わたし}は{漢字|かんじ}が{二|に}{百|ひゃく}ぐらい{読|よ}めます。",
+      "en": "I can read about two hundred kanji.",
+      "vi": "Tôi có thể đọc được khoảng hai trăm chữ kanji."
+    },
+    {
+      "ja": "兄は辛い料理が食べられない。",
+      "furigana": "{兄|あに}は{辛|から}い{料理|りょうり}が{食|た}べられない。",
+      "en": "My older brother can't eat spicy food.",
+      "vi": "Anh trai tôi không ăn được đồ cay."
+    },
+    {
+      "ja": "明日のパーティーに来られますか。",
+      "furigana": "{明日|あした}のパーティーに{来|こ}られますか。",
+      "en": "Can you come to the party tomorrow?",
+      "vi": "Bạn có thể đến dự bữa tiệc ngày mai được không?"
+    }
+  ],
+  "tags": [
+    "ability",
+    "conjugation"
+  ],
+  "unitId": "grammar-n4-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n4-eru-rareru-potential-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は漢字が二百ぐらい読めます。",
+      "sentenceVi": "Tôi có thể đọc được khoảng hai trăm chữ kanji.",
+      "targetGrammar": "〜える / 〜られる（potential）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Có thể; có thể (dạng tiềm năng)",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜える / 〜られる（potential）」 mang ý nghĩa: \"Có thể; có thể (dạng tiềm năng)\"."
+    },
+    {
+      "id": "bunpou-n4-eru-rareru-potential-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "兄は辛い料理が食べられない。",
+      "sentenceVi": "Anh trai tôi không ăn được đồ cay.",
+      "targetGrammar": "〜える / 〜られる（potential）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜える / 〜られる（potential）",
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜てもらう"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Anh trai tôi không ăn được đồ cay.\", ta sử dụng mẫu 「〜える / 〜られる（potential）」."
+    },
+    {
+      "id": "bunpou-n4-eru-rareru-potential-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日のパーティーに来られますか。",
+      "sentenceVi": "Bạn có thể đến dự bữa tiệc ngày mai được không?",
+      "targetGrammar": "〜える / 〜られる（potential）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Có thể; có thể (dạng tiềm năng)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜える / 〜られる（potential）」 mang ý nghĩa: \"Có thể; có thể (dạng tiềm năng)\"."
+    },
+    {
+      "id": "bunpou-n4-eru-rareru-potential-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私は漢字が二百ぐらい読めます。",
+      "sentenceVi": "Tôi có thể đọc được khoảng hai trăm chữ kanji.",
+      "targetGrammar": "〜える / 〜られる（potential）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có thể; có thể (dạng tiềm năng)\":",
+      "options": [
+        "〜てみる",
+        "〜てある",
+        "〜える / 〜られる（potential）",
+        "〜とき"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜える / 〜られる（potential）」."
+    },
+    {
+      "id": "bunpou-n4-eru-rareru-potential-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は漢字が二百ぐらい読めます。",
+      "sentenceVi": "Tôi có thể đọc được khoảng hai trăm chữ kanji.",
+      "targetGrammar": "〜える / 〜られる（potential）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜える / 〜られる（potential）」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Có thể; có thể (dạng tiềm năng)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜える / 〜られる（potential）」 có nghĩa là: Có thể; có thể (dạng tiềm năng)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-toki",
+  "level": "N4",
+  "pattern": "〜とき",
+  "title": "〜とき",
+  "meaning": "Khi nào; vào thời điểm khi",
+  "meaningVi": "Khi nào; vào thời điểm khi",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + とき",
+  "usageNotes": "Thì của động từ thể hiện thứ tự: 行くとき nghĩa là trước hoặc trên đường (việc đi vẫn chưa kết thúc); 行ったとき có nghĩa là sau khi đến nơi. Thường được viết 時 bằng chữ Hán.",
+  "examples": [
+    {
+      "ja": "子どものとき、よく川で泳ぎました。",
+      "furigana": "{子|こ}どものとき、よく{川|かわ}で{泳|およ}ぎました。",
+      "en": "When I was a child, I often swam in the river.",
+      "vi": "Khi tôi còn nhỏ, tôi thường bơi ở sông."
+    },
+    {
+      "ja": "日本へ行くとき、新しいかばんを買いました。",
+      "furigana": "{日本|にほん}へ{行|い}くとき、{新|あたら}しいかばんを{買|か}いました。",
+      "en": "I bought a new bag before my trip to Japan.",
+      "vi": "Tôi đã mua một chiếc túi mới trước chuyến đi Nhật Bản."
+    },
+    {
+      "ja": "日本へ行ったとき、友達にお土産を買いました。",
+      "furigana": "{日本|にほん}へ{行|い}ったとき、{友達|ともだち}にお{土産|みやげ}を{買|か}いました。",
+      "en": "When I went to Japan, I bought souvenirs for my friends there.",
+      "vi": "Khi tôi đến Nhật Bản, tôi đã mua quà lưu niệm cho bạn bè ở đó."
+    }
+  ],
+  "tags": [
+    "time",
+    "sequence"
+  ],
+  "unitId": "grammar-n4-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n4-toki-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子どものとき、よく川で泳ぎました。",
+      "sentenceVi": "Khi tôi còn nhỏ, tôi thường bơi ở sông.",
+      "targetGrammar": "〜とき",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Khi nào; vào thời điểm khi",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜とき」 mang ý nghĩa: \"Khi nào; vào thời điểm khi\"."
+    },
+    {
+      "id": "bunpou-n4-toki-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本へ行くとき、新しいかばんを買いました。",
+      "sentenceVi": "Tôi đã mua một chiếc túi mới trước chuyến đi Nhật Bản.",
+      "targetGrammar": "〜とき",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜とき",
+        "〜てくださる / 〜ていただく",
+        "〜ていく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đã mua một chiếc túi mới trước chuyến đi Nhật Bản.\", ta sử dụng mẫu 「〜とき」."
+    },
+    {
+      "id": "bunpou-n4-toki-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本へ行ったとき、友達にお土産を買いました。",
+      "sentenceVi": "Khi tôi đến Nhật Bản, tôi đã mua quà lưu niệm cho bạn bè ở đó.",
+      "targetGrammar": "〜とき",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Khi nào; vào thời điểm khi",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜とき」 mang ý nghĩa: \"Khi nào; vào thời điểm khi\"."
+    },
+    {
+      "id": "bunpou-n4-toki-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "子どものとき、よく川で泳ぎました。",
+      "sentenceVi": "Khi tôi còn nhỏ, tôi thường bơi ở sông.",
+      "targetGrammar": "〜とき",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Khi nào; vào thời điểm khi\":",
+      "options": [
+        "〜とき",
+        "〜てみる",
+        "〜間 / 〜間に",
+        "〜てある"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜とき」."
+    },
+    {
+      "id": "bunpou-n4-toki-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子どものとき、よく川で泳ぎました。",
+      "sentenceVi": "Khi tôi còn nhỏ, tôi thường bơi ở sông.",
+      "targetGrammar": "〜とき",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜とき」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Khi nào; vào thời điểm khi"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜とき」 có nghĩa là: Khi nào; vào thời điểm khi."
+    }
+  ]
+}

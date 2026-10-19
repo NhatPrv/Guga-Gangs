@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-kurai-gurai",
+  "level": "N5",
+  "pattern": "〜くらい / 〜ぐらい（approximately）",
+  "title": "〜くらい / 〜ぐらい（approximately）",
+  "meaning": "Về ; khoảng (một lượng hoặc một khoảng thời gian)",
+  "meaningVi": "Về ; khoảng (một lượng hoặc một khoảng thời gian)",
+  "connection": "Danh từ (N) + くらい / Danh từ (N) + ぐらい",
+  "usageNotes": "Được sử dụng với số lượng và thời lượng. Đối với một thời điểm (khoảng ba giờ), hãy sử dụng ごろ: 3時ごろ.",
+  "examples": [
+    {
+      "ja": "駅まで歩いて10分ぐらいです。",
+      "furigana": "{駅|えき}まで{歩|ある}いて10{分|ぷん}ぐらいです。",
+      "en": "It's about a ten-minute walk to the station.",
+      "vi": "Mất khoảng mười phút đi bộ đến ga."
+    },
+    {
+      "ja": "毎日2時間くらい勉強します。",
+      "furigana": "{毎日|まいにち}2{時間|じかん}くらい{勉強|べんきょう}します。",
+      "en": "I study for about two hours every day.",
+      "vi": "Tôi học khoảng hai giờ mỗi ngày."
+    },
+    {
+      "ja": "このかばんは5000円ぐらいでした。",
+      "furigana": "このかばんは5000{円|えん}ぐらいでした。",
+      "en": "This bag was about 5,000 yen.",
+      "vi": "Chiếc túi này có giá khoảng 5.000 yên."
+    }
+  ],
+  "tags": [
+    "quantity",
+    "degree"
+  ],
+  "unitId": "grammar-n5-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n5-kurai-gurai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅まで歩いて10分ぐらいです。",
+      "sentenceVi": "Mất khoảng mười phút đi bộ đến ga.",
+      "targetGrammar": "〜くらい / 〜ぐらい（approximately）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Về ; khoảng (một lượng hoặc một khoảng thời gian)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜くらい / 〜ぐらい（approximately）」 mang ý nghĩa: \"Về ; khoảng (một lượng hoặc một khoảng thời gian)\"."
+    },
+    {
+      "id": "bunpou-n5-kurai-gurai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "毎日2時間くらい勉強します。",
+      "sentenceVi": "Tôi học khoảng hai giờ mỗi ngày.",
+      "targetGrammar": "〜くらい / 〜ぐらい（approximately）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜くらい / 〜ぐらい（approximately）",
+        "〜に（place of existence）",
+        "〜に（destination）",
+        "〜に（time）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi học khoảng hai giờ mỗi ngày.\", ta sử dụng mẫu 「〜くらい / 〜ぐらい（approximately）」."
+    },
+    {
+      "id": "bunpou-n5-kurai-gurai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このかばんは5000円ぐらいでした。",
+      "sentenceVi": "Chiếc túi này có giá khoảng 5.000 yên.",
+      "targetGrammar": "〜くらい / 〜ぐらい（approximately）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Về ; khoảng (một lượng hoặc một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜くらい / 〜ぐらい（approximately）」 mang ý nghĩa: \"Về ; khoảng (một lượng hoặc một khoảng thời gian)\"."
+    },
+    {
+      "id": "bunpou-n5-kurai-gurai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "駅まで歩いて10分ぐらいです。",
+      "sentenceVi": "Mất khoảng mười phút đi bộ đến ga.",
+      "targetGrammar": "〜くらい / 〜ぐらい（approximately）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Về ; khoảng (một lượng hoặc một khoảng thời gian)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜と（and）",
+        "〜くらい / 〜ぐらい（approximately）",
+        "〜で（means）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜くらい / 〜ぐらい（approximately）」."
+    },
+    {
+      "id": "bunpou-n5-kurai-gurai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅まで歩いて10分ぐらいです。",
+      "sentenceVi": "Mất khoảng mười phút đi bộ đến ga.",
+      "targetGrammar": "〜くらい / 〜ぐらい（approximately）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜くらい / 〜ぐらい（approximately）」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Về ; khoảng (một lượng hoặc một khoảng thời gian)",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜くらい / 〜ぐらい（approximately）」 có nghĩa là: Về ; khoảng (một lượng hoặc một khoảng thời gian)."
+    }
+  ]
+}

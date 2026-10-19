@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-reru-rareru-passive",
+  "level": "N4",
+  "pattern": "〜れる / 〜られる（passive）",
+  "title": "〜れる / 〜られる（passive）",
+  "meaning": "Được thực hiện (bởi ai đó); giọng nói thụ động",
+  "meaningVi": "Được thực hiện (bởi ai đó); giọng nói thụ động",
+  "connection": "Động từ (V)-nai stem + れる (Group 1) / Động từ (V)-nai stem + られる (Group 2)",
+  "usageNotes": "Bất quy tắc: する → される, 来る → 来られる. Người thực hiện được đánh dấu bằng に. Thường thể hiện rằng đối tượng gặp rắc rối trước hành động của ai đó (雨に降られた).",
+  "examples": [
+    {
+      "ja": "先生に作文をほめられました。",
+      "furigana": "{先生|せんせい}に{作文|さくぶん}をほめられました。",
+      "en": "My essay was praised by my teacher.",
+      "vi": "Bài luận của tôi được giáo viên khen ngợi."
+    },
+    {
+      "ja": "電車の中で足を踏まれた。",
+      "furigana": "{電車|でんしゃ}の{中|なか}で{足|あし}を{踏|ふ}まれた。",
+      "en": "Someone stepped on my foot on the train.",
+      "vi": "Ai đó đã dẫm lên chân tôi trên tàu."
+    },
+    {
+      "ja": "この寺は六百年前に建てられました。",
+      "furigana": "この{寺|てら}は{六百|ろっぴゃく}{年|ねん}{前|まえ}に{建|た}てられました。",
+      "en": "This temple was built six hundred years ago.",
+      "vi": "Ngôi chùa này được xây dựng cách đây sáu trăm năm."
+    }
+  ],
+  "tags": [
+    "voice",
+    "conjugation"
+  ],
+  "unitId": "grammar-n4-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n4-reru-rareru-passive-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "先生に作文をほめられました。",
+      "sentenceVi": "Bài luận của tôi được giáo viên khen ngợi.",
+      "targetGrammar": "〜れる / 〜られる（passive）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Được thực hiện (bởi ai đó); giọng nói thụ động",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜れる / 〜られる（passive）」 mang ý nghĩa: \"Được thực hiện (bởi ai đó); giọng nói thụ động\"."
+    },
+    {
+      "id": "bunpou-n4-reru-rareru-passive-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "電車の中で足を踏まれた。",
+      "sentenceVi": "Ai đó đã dẫm lên chân tôi trên tàu.",
+      "targetGrammar": "〜れる / 〜られる（passive）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜れる / 〜られる（passive）",
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜てもらう"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Ai đó đã dẫm lên chân tôi trên tàu.\", ta sử dụng mẫu 「〜れる / 〜られる（passive）」."
+    },
+    {
+      "id": "bunpou-n4-reru-rareru-passive-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この寺は六百年前に建てられました。",
+      "sentenceVi": "Ngôi chùa này được xây dựng cách đây sáu trăm năm.",
+      "targetGrammar": "〜れる / 〜られる（passive）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Được thực hiện (bởi ai đó); giọng nói thụ động"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜れる / 〜られる（passive）」 mang ý nghĩa: \"Được thực hiện (bởi ai đó); giọng nói thụ động\"."
+    },
+    {
+      "id": "bunpou-n4-reru-rareru-passive-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "先生に作文をほめられました。",
+      "sentenceVi": "Bài luận của tôi được giáo viên khen ngợi.",
+      "targetGrammar": "〜れる / 〜られる（passive）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Được thực hiện (bởi ai đó); giọng nói thụ động\":",
+      "options": [
+        "〜れる / 〜られる（passive）",
+        "〜てある",
+        "〜てみる",
+        "〜とき"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜れる / 〜られる（passive）」."
+    },
+    {
+      "id": "bunpou-n4-reru-rareru-passive-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "先生に作文をほめられました。",
+      "sentenceVi": "Bài luận của tôi được giáo viên khen ngợi.",
+      "targetGrammar": "〜れる / 〜られる（passive）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜れる / 〜られる（passive）」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Được thực hiện (bởi ai đó); giọng nói thụ động"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜れる / 〜られる（passive）」 có nghĩa là: Được thực hiện (bởi ai đó); giọng nói thụ động."
+    }
+  ]
+}

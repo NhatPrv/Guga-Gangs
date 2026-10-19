@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-hazu-ga-nai",
+  "level": "N4",
+  "pattern": "〜はずがない",
+  "title": "〜はずがない",
+  "meaning": "Không thể được; không có cách nào đó",
+  "meaningVi": "Không thể được; không có cách nào đó",
+  "connection": "Động từ (V)-plain / i-Adj + はずがない / na-Adj + な + はずがない / Danh từ (N) + の + はずがない",
+  "usageNotes": "Phủ nhận mạnh mẽ dựa trên lý luận. 〜ないはずだ ('không nên') là một sự mong đợi nhẹ nhàng hơn.",
+  "examples": [
+    {
+      "ja": "あんなにまじめな人がうそをつくはずがない。",
+      "furigana": "あんなにまじめな{人|ひと}がうそをつくはずがない。",
+      "en": "There's no way someone that earnest would lie.",
+      "vi": "Không đời nào một người nghiêm túc như vậy lại có thể nói dối được."
+    },
+    {
+      "ja": "今日は日曜日だから、銀行が開いているはずがない。",
+      "furigana": "{今日|きょう}は{日曜日|にちようび}だから、{銀行|ぎんこう}が{開|あ}いているはずがない。",
+      "en": "It's Sunday, so the bank can't be open.",
+      "vi": "Hôm nay là chủ nhật nên ngân hàng không mở cửa được."
+    },
+    {
+      "ja": "かぎはちゃんとかけたから、ドアが開いているはずがない。",
+      "furigana": "かぎはちゃんとかけたから、ドアが{開|あ}いているはずがない。",
+      "en": "I definitely locked it, so there's no way the door is open.",
+      "vi": "Tôi chắc chắn đã khóa nó, nên không thể nào cửa mở được."
+    }
+  ],
+  "tags": [
+    "conjecture",
+    "negation"
+  ],
+  "unitId": "grammar-n4-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n4-hazu-ga-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "あんなにまじめな人がうそをつくはずがない。",
+      "sentenceVi": "Không đời nào một người nghiêm túc như vậy lại có thể nói dối được.",
+      "targetGrammar": "〜はずがない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Không thể được; không có cách nào đó",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜はずがない」 mang ý nghĩa: \"Không thể được; không có cách nào đó\"."
+    },
+    {
+      "id": "bunpou-n4-hazu-ga-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は日曜日だから、銀行が開いているはずがない。",
+      "sentenceVi": "Hôm nay là chủ nhật nên ngân hàng không mở cửa được.",
+      "targetGrammar": "〜はずがない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜はずがない"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Hôm nay là chủ nhật nên ngân hàng không mở cửa được.\", ta sử dụng mẫu 「〜はずがない」."
+    },
+    {
+      "id": "bunpou-n4-hazu-ga-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "かぎはちゃんとかけたから、ドアが開いているはずがない。",
+      "sentenceVi": "Tôi chắc chắn đã khóa nó, nên không thể nào cửa mở được.",
+      "targetGrammar": "〜はずがない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Không thể được; không có cách nào đó",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜はずがない」 mang ý nghĩa: \"Không thể được; không có cách nào đó\"."
+    },
+    {
+      "id": "bunpou-n4-hazu-ga-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "あんなにまじめな人がうそをつくはずがない。",
+      "sentenceVi": "Không đời nào một người nghiêm túc như vậy lại có thể nói dối được.",
+      "targetGrammar": "〜はずがない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không thể được; không có cách nào đó\":",
+      "options": [
+        "〜はずがない",
+        "〜てみる",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜はずがない」."
+    },
+    {
+      "id": "bunpou-n4-hazu-ga-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "あんなにまじめな人がうそをつくはずがない。",
+      "sentenceVi": "Không đời nào một người nghiêm túc như vậy lại có thể nói dối được.",
+      "targetGrammar": "〜はずがない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜はずがない」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Không thể được; không có cách nào đó",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜はずがない」 có nghĩa là: Không thể được; không có cách nào đó."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-wa",
+  "level": "N5",
+  "pattern": "〜は",
+  "title": "〜は",
+  "meaning": "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+  "meaningVi": "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+  "connection": "Danh từ (N) + は",
+  "usageNotes": "Viết は nhưng phát âm là 'wa'. Nó thiết lập nội dung câu nói; thông tin quan trọng sẽ xuất hiện sau nó.",
+  "examples": [
+    {
+      "ja": "私は学生です。",
+      "furigana": "{私|わたし}は{学生|がくせい}です。",
+      "en": "I am a student.",
+      "vi": "Tôi là một sinh viên."
+    },
+    {
+      "ja": "今日は天気がいいです。",
+      "furigana": "{今日|きょう}は{天気|てんき}がいいです。",
+      "en": "The weather is nice today.",
+      "vi": "Thời tiết hôm nay đẹp."
+    },
+    {
+      "ja": "この本はおもしろいです。",
+      "furigana": "この{本|ほん}はおもしろいです。",
+      "en": "This book is interesting.",
+      "vi": "Cuốn sách này rất thú vị."
+    }
+  ],
+  "tags": [
+    "particle",
+    "topic"
+  ],
+  "unitId": "grammar-n5-unit-01",
+  "questions": [
+    {
+      "id": "bunpou-n5-wa-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は学生です。",
+      "sentenceVi": "Tôi là một sinh viên.",
+      "targetGrammar": "〜は",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Vào lúc... (Chỉ mốc thời gian cụ thể)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜は」 mang ý nghĩa: \"Thì, là... (Trợ từ biểu thị chủ đề câu nói)\"."
+    },
+    {
+      "id": "bunpou-n5-wa-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は天気がいいです。",
+      "sentenceVi": "Thời tiết hôm nay đẹp.",
+      "targetGrammar": "〜は",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜は",
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜に（indirect object）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Thời tiết hôm nay đẹp.\", ta sử dụng mẫu 「〜は」."
+    },
+    {
+      "id": "bunpou-n5-wa-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この本はおもしろいです。",
+      "sentenceVi": "Cuốn sách này rất thú vị.",
+      "targetGrammar": "〜は",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tại, ở... (Chỉ nơi diễn ra hành động)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜は」 mang ý nghĩa: \"Thì, là... (Trợ từ biểu thị chủ đề câu nói)\"."
+    },
+    {
+      "id": "bunpou-n5-wa-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私は学生です。",
+      "sentenceVi": "Tôi là một sinh viên.",
+      "targetGrammar": "〜は",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thì, là... (Trợ từ biểu thị chủ đề câu nói)\":",
+      "options": [
+        "〜で（means）",
+        "〜と（with）",
+        "〜は",
+        "〜と（and）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜は」."
+    },
+    {
+      "id": "bunpou-n5-wa-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は学生です。",
+      "sentenceVi": "Tôi là một sinh viên.",
+      "targetGrammar": "〜は",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜は」 là gì?",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Cũng... (Biểu thị sự tương tự)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜は」 có nghĩa là: Thì, là... (Trợ từ biểu thị chủ đề câu nói)."
+    }
+  ]
+}

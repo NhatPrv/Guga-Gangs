@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-ni-yoru-to-ni-yoreba",
+  "level": "N3",
+  "pattern": "〜によると / 〜によれば",
+  "title": "〜によると / 〜によれば",
+  "meaning": "Theo",
+  "meaningVi": "Theo",
+  "connection": "Danh từ (N) + によると / Danh từ (N) + によれば",
+  "usageNotes": "Nêu tên nguồn thông tin. Câu thường kết thúc bằng cách diễn đạt tin đồn như 〜そうだ, 〜らしい hoặc 〜ということだ.",
+  "examples": [
+    {
+      "ja": "天気予報によると、週末は大雪になるそうだ。",
+      "furigana": "{天気|てんき}{予報|よほう}によると、{週末|しゅうまつ}は{大雪|おおゆき}になるそうだ。",
+      "en": "According to the weather forecast, there's going to be heavy snow this weekend.",
+      "vi": "Theo dự báo thời tiết, cuối tuần này sẽ có tuyết rơi dày đặc."
+    },
+    {
+      "ja": "ニュースによれば、事故の原因はまだ分かっていないらしい。",
+      "furigana": "ニュースによれば、{事故|じこ}の{原因|げんいん}はまだ{分|わ}かっていないらしい。",
+      "en": "According to the news, the cause of the accident still isn't known.",
+      "vi": "Theo tin tức, nguyên nhân vụ tai nạn vẫn chưa được biết."
+    },
+    {
+      "ja": "姉の話によると、あのレストランは予約がないと入れないということだ。",
+      "furigana": "{姉|あね}の{話|はなし}によると、あのレストランは{予約|よやく}がないと{入|はい}れないということだ。",
+      "en": "According to my sister, you can't get into that restaurant without a reservation.",
+      "vi": "Theo chị tôi, bạn không thể vào nhà hàng đó nếu không đặt trước."
+    }
+  ],
+  "tags": [
+    "hearsay"
+  ],
+  "unitId": "grammar-n3-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-yoru-to-ni-yoreba-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "天気予報によると、週末は大雪になるそうだ。",
+      "sentenceVi": "Theo dự báo thời tiết, cuối tuần này sẽ có tuyết rơi dày đặc.",
+      "targetGrammar": "〜によると / 〜によれば",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Theo",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜によると / 〜によれば」 mang ý nghĩa: \"Theo\"."
+    },
+    {
+      "id": "bunpou-n3-ni-yoru-to-ni-yoreba-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "ニュースによれば、事故の原因はまだ分かっていないらしい。",
+      "sentenceVi": "Theo tin tức, nguyên nhân vụ tai nạn vẫn chưa được biết.",
+      "targetGrammar": "〜によると / 〜によれば",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜によると / 〜によれば",
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜ものではない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Theo tin tức, nguyên nhân vụ tai nạn vẫn chưa được biết.\", ta sử dụng mẫu 「〜によると / 〜によれば」."
+    },
+    {
+      "id": "bunpou-n3-ni-yoru-to-ni-yoreba-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "姉の話によると、あのレストランは予約がないと入れないということだ。",
+      "sentenceVi": "Theo chị tôi, bạn không thể vào nhà hàng đó nếu không đặt trước.",
+      "targetGrammar": "〜によると / 〜によれば",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Theo",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜によると / 〜によれば」 mang ý nghĩa: \"Theo\"."
+    },
+    {
+      "id": "bunpou-n3-ni-yoru-to-ni-yoreba-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "天気予報によると、週末は大雪になるそうだ。",
+      "sentenceVi": "Theo dự báo thời tiết, cuối tuần này sẽ có tuyết rơi dày đặc.",
+      "targetGrammar": "〜によると / 〜によれば",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Theo\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことはない",
+        "〜によると / 〜によれば",
+        "〜ことになっている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜によると / 〜によれば」."
+    },
+    {
+      "id": "bunpou-n3-ni-yoru-to-ni-yoreba-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "天気予報によると、週末は大雪になるそうだ。",
+      "sentenceVi": "Theo dự báo thời tiết, cuối tuần này sẽ có tuyết rơi dày đặc.",
+      "targetGrammar": "〜によると / 〜によれば",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜によると / 〜によれば」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Theo",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜によると / 〜によれば」 có nghĩa là: Theo."
+    }
+  ]
+}

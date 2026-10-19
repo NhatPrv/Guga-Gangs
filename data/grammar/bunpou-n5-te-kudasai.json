@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-te-kudasai",
+  "level": "N5",
+  "pattern": "〜てください",
+  "title": "〜てください",
+  "meaning": "Xin hãy... / Vui lòng làm gì đó",
+  "meaningVi": "Xin hãy... / Vui lòng làm gì đó",
+  "connection": "Động từ (V)-te + ください",
+  "usageNotes": "Lịch sự nhưng vẫn là một lời chỉ dẫn mà người nói mong muốn được tuân theo. Yêu cầu nhẹ nhàng hơn sử dụng 〜てくれませんか (N4).",
+  "examples": [
+    {
+      "ja": "もう少しゆっくり話してください。",
+      "furigana": "もう{少|すこ}しゆっくり{話|はな}してください。",
+      "en": "Please speak a little more slowly.",
+      "vi": "Xin hãy nói chậm lại một chút."
+    },
+    {
+      "ja": "ここでくつをぬいでください。",
+      "furigana": "ここでくつをぬいでください。",
+      "en": "Please take off your shoes here.",
+      "vi": "Hãy cởi giày của bạn ở đây."
+    },
+    {
+      "ja": "すみません、駅までの道を教えてください。",
+      "furigana": "すみません、{駅|えき}までの{道|みち}を{教|おし}えてください。",
+      "en": "Excuse me, could you tell me the way to the station?",
+      "vi": "Xin lỗi, bạn có thể chỉ cho tôi đường đến nhà ga được không?"
+    }
+  ],
+  "tags": [
+    "request",
+    "politeness"
+  ],
+  "unitId": "grammar-n5-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n5-te-kudasai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "もう少しゆっくり話してください。",
+      "sentenceVi": "Xin hãy nói chậm lại một chút.",
+      "targetGrammar": "〜てください",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Xin hãy... / Vui lòng làm gì đó"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜てください」 mang ý nghĩa: \"Xin hãy... / Vui lòng làm gì đó\"."
+    },
+    {
+      "id": "bunpou-n5-te-kudasai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "ここでくつをぬいでください。",
+      "sentenceVi": "Hãy cởi giày của bạn ở đây.",
+      "targetGrammar": "〜てください",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜てください",
+        "〜に（destination）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Hãy cởi giày của bạn ở đây.\", ta sử dụng mẫu 「〜てください」."
+    },
+    {
+      "id": "bunpou-n5-te-kudasai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "すみません、駅までの道を教えてください。",
+      "sentenceVi": "Xin lỗi, bạn có thể chỉ cho tôi đường đến nhà ga được không?",
+      "targetGrammar": "〜てください",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Xin hãy... / Vui lòng làm gì đó",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜てください」 mang ý nghĩa: \"Xin hãy... / Vui lòng làm gì đó\"."
+    },
+    {
+      "id": "bunpou-n5-te-kudasai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "もう少しゆっくり話してください。",
+      "sentenceVi": "Xin hãy nói chậm lại một chút.",
+      "targetGrammar": "〜てください",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Xin hãy... / Vui lòng làm gì đó\":",
+      "options": [
+        "〜てください",
+        "〜で（means）",
+        "〜と（and）",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜てください」."
+    },
+    {
+      "id": "bunpou-n5-te-kudasai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "もう少しゆっくり話してください。",
+      "sentenceVi": "Xin hãy nói chậm lại một chút.",
+      "targetGrammar": "〜てください",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てください」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Xin hãy... / Vui lòng làm gì đó",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜てください」 có nghĩa là: Xin hãy... / Vui lòng làm gì đó."
+    }
+  ]
+}

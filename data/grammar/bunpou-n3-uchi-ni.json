@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-uchi-ni",
+  "level": "N3",
+  "pattern": "〜うちに",
+  "title": "〜うちに",
+  "meaning": "Trong khi còn... / Nhân lúc còn...",
+  "meaningVi": "Trong khi còn... / Nhân lúc còn...",
+  "connection": "Động từ (V)-dict / Động từ (V)-te + いる / Động từ (V)-nai / i-Adj / na-Adj + な / Danh từ (N) + の + うちに",
+  "usageNotes": "Hãy làm điều gì đó khi điều kiện còn tồn tại, trước khi nó thay đổi; hoặc một sự thay đổi xảy ra mà không được chú ý trong một hoạt động. So sánh 〜間に, đánh dấu một khoảng thời gian cố định mà không có tính khẩn cấp.",
+  "examples": [
+    {
+      "ja": "若いうちに、いろいろな国を旅行したほうがいい。",
+      "furigana": "{若|わか}いうちに、いろいろな{国|くに}を{旅行|りょこう}したほうがいい。",
+      "en": "You should travel to lots of countries while you're young.",
+      "vi": "Bạn nên đi du lịch đến nhiều nước khi còn trẻ."
+    },
+    {
+      "ja": "スープが冷めないうちに、どうぞ召し上がってください。",
+      "furigana": "スープが{冷|さ}めないうちに、どうぞ{召|め}し{上|あ}がってください。",
+      "en": "Please have your soup before it gets cold.",
+      "vi": "Hãy ăn súp trước khi trời nguội."
+    },
+    {
+      "ja": "音楽を聞いているうちに、いつの間にか眠ってしまった。",
+      "furigana": "{音楽|おんがく}を{聞|き}いているうちに、いつの{間|ま}にか{眠|ねむ}ってしまった。",
+      "en": "While I was listening to music, I fell asleep before I knew it.",
+      "vi": "Trong khi tôi đang nghe nhạc, tôi ngủ thiếp đi trước khi tôi biết điều đó."
+    }
+  ],
+  "tags": [
+    "time",
+    "simultaneity"
+  ],
+  "unitId": "grammar-n3-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n3-uchi-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "若いうちに、いろいろな国を旅行したほうがいい。",
+      "sentenceVi": "Bạn nên đi du lịch đến nhiều nước khi còn trẻ.",
+      "targetGrammar": "〜うちに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Trong khi còn... / Nhân lúc còn...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜うちに」 mang ý nghĩa: \"Trong khi còn... / Nhân lúc còn...\"."
+    },
+    {
+      "id": "bunpou-n3-uchi-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "スープが冷めないうちに、どうぞ召し上がってください。",
+      "sentenceVi": "Hãy ăn súp trước khi trời nguội.",
+      "targetGrammar": "〜うちに",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜うちに"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Hãy ăn súp trước khi trời nguội.\", ta sử dụng mẫu 「〜うちに」."
+    },
+    {
+      "id": "bunpou-n3-uchi-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "音楽を聞いているうちに、いつの間にか眠ってしまった。",
+      "sentenceVi": "Trong khi tôi đang nghe nhạc, tôi ngủ thiếp đi trước khi tôi biết điều đó.",
+      "targetGrammar": "〜うちに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Trong khi còn... / Nhân lúc còn...",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜うちに」 mang ý nghĩa: \"Trong khi còn... / Nhân lúc còn...\"."
+    },
+    {
+      "id": "bunpou-n3-uchi-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "若いうちに、いろいろな国を旅行したほうがいい。",
+      "sentenceVi": "Bạn nên đi du lịch đến nhiều nước khi còn trẻ.",
+      "targetGrammar": "〜うちに",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong khi còn... / Nhân lúc còn...\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことはない",
+        "〜ことにしている",
+        "〜うちに"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜うちに」."
+    },
+    {
+      "id": "bunpou-n3-uchi-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "若いうちに、いろいろな国を旅行したほうがいい。",
+      "sentenceVi": "Bạn nên đi du lịch đến nhiều nước khi còn trẻ.",
+      "targetGrammar": "〜うちに",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜うちに」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Trong khi còn... / Nhân lúc còn...",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜うちに」 có nghĩa là: Trong khi còn... / Nhân lúc còn...."
+    }
+  ]
+}

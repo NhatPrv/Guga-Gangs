@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-furi-o-suru",
+  "level": "N3",
+  "pattern": "〜ふりをする",
+  "title": "〜ふりをする",
+  "meaning": "Giả vờ ; hành động như thể",
+  "meaningVi": "Giả vờ ; hành động như thể",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + ふりをする",
+  "usageNotes": "Cố tình tạo ấn tượng sai. Động từ-ta phổ biến: 寝たふり, 死んだふり.",
+  "examples": [
+    {
+      "ja": "母に呼ばれたが、聞こえないふりをしてゲームを続けた。",
+      "furigana": "{母|はは}に{呼|よ}ばれたが、{聞|き}こえないふりをしてゲームを{続|つづ}けた。",
+      "en": "My mother called me, but I pretended not to hear and kept playing my game.",
+      "vi": "Mẹ gọi cho tôi nhưng tôi giả vờ như không nghe thấy và tiếp tục chơi game."
+    },
+    {
+      "ja": "彼は本当は知っているのに、知らないふりをしている。",
+      "furigana": "{彼|かれ}は{本当|ほんとう}は{知|し}っているのに、{知|し}らないふりをしている。",
+      "en": "He actually knows, but he's pretending not to.",
+      "vi": "Thực ra anh ấy biết nhưng lại giả vờ như không biết."
+    },
+    {
+      "ja": "電車の中で、寝たふりをして席を譲らない人がいる。",
+      "furigana": "{電車|でんしゃ}の{中|なか}で、{寝|ね}たふりをして{席|せき}を{譲|ゆず}らない{人|ひと}がいる。",
+      "en": "Some people on the train pretend to be asleep so they don't have to give up their seats.",
+      "vi": "Một số người trên tàu giả vờ ngủ để không phải nhường ghế."
+    }
+  ],
+  "tags": [
+    "appearance",
+    "manner"
+  ],
+  "unitId": "grammar-n3-unit-17",
+  "questions": [
+    {
+      "id": "bunpou-n3-furi-o-suru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "母に呼ばれたが、聞こえないふりをしてゲームを続けた。",
+      "sentenceVi": "Mẹ gọi cho tôi nhưng tôi giả vờ như không nghe thấy và tiếp tục chơi game.",
+      "targetGrammar": "〜ふりをする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Giả vờ ; hành động như thể",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ふりをする」 mang ý nghĩa: \"Giả vờ ; hành động như thể\"."
+    },
+    {
+      "id": "bunpou-n3-furi-o-suru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "彼は本当は知っているのに、知らないふりをしている。",
+      "sentenceVi": "Thực ra anh ấy biết nhưng lại giả vờ như không biết.",
+      "targetGrammar": "〜ふりをする",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜ふりをする"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Thực ra anh ấy biết nhưng lại giả vờ như không biết.\", ta sử dụng mẫu 「〜ふりをする」."
+    },
+    {
+      "id": "bunpou-n3-furi-o-suru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "電車の中で、寝たふりをして席を譲らない人がいる。",
+      "sentenceVi": "Một số người trên tàu giả vờ ngủ để không phải nhường ghế.",
+      "targetGrammar": "〜ふりをする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Giả vờ ; hành động như thể",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ふりをする」 mang ý nghĩa: \"Giả vờ ; hành động như thể\"."
+    },
+    {
+      "id": "bunpou-n3-furi-o-suru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "母に呼ばれたが、聞こえないふりをしてゲームを続けた。",
+      "sentenceVi": "Mẹ gọi cho tôi nhưng tôi giả vờ như không nghe thấy và tiếp tục chơi game.",
+      "targetGrammar": "〜ふりをする",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Giả vờ ; hành động như thể\":",
+      "options": [
+        "〜ふりをする",
+        "〜ことになっている",
+        "〜ことにしている",
+        "〜ことはない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ふりをする」."
+    },
+    {
+      "id": "bunpou-n3-furi-o-suru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "母に呼ばれたが、聞こえないふりをしてゲームを続けた。",
+      "sentenceVi": "Mẹ gọi cho tôi nhưng tôi giả vờ như không nghe thấy và tiếp tục chơi game.",
+      "targetGrammar": "〜ふりをする",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ふりをする」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Giả vờ ; hành động như thể",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ふりをする」 có nghĩa là: Giả vờ ; hành động như thể."
+    }
+  ]
+}

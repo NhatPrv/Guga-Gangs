@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ku-naru-ni-naru",
+  "level": "N5",
+  "pattern": "〜くなる / 〜になる",
+  "title": "〜くなる / 〜になる",
+  "meaning": "Trở nên; lấy; rẽ",
+  "meaningVi": "Trở nên; lấy; rẽ",
+  "connection": "i-Adj-ku + なる / na-Adj + になる / Danh từ (N) + になる",
+  "usageNotes": "いい trở thành よくなる. Thường được dùng trong quá khứ để mô tả một sự thay đổi đã xảy ra: 大きくなりました.",
+  "examples": [
+    {
+      "ja": "あたたかくなりましたね。",
+      "furigana": "あたたかくなりましたね。",
+      "en": "It's gotten warmer, hasn't it?",
+      "vi": "Trời đã ấm hơn rồi phải không?"
+    },
+    {
+      "ja": "部屋がきれいになりました。",
+      "furigana": "{部屋|へや}がきれいになりました。",
+      "en": "The room has become clean.",
+      "vi": "Căn phòng đã trở nên sạch sẽ."
+    },
+    {
+      "ja": "兄は来年、医者になります。",
+      "furigana": "{兄|あに}は{来年|らいねん}、{医者|いしゃ}になります。",
+      "en": "My older brother will become a doctor next year.",
+      "vi": "Anh trai tôi sẽ trở thành bác sĩ vào năm tới."
+    }
+  ],
+  "tags": [
+    "change"
+  ],
+  "unitId": "grammar-n5-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n5-ku-naru-ni-naru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "あたたかくなりましたね。",
+      "sentenceVi": "Trời đã ấm hơn rồi phải không?",
+      "targetGrammar": "〜くなる / 〜になる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Trở nên; lấy; rẽ",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜くなる / 〜になる」 mang ý nghĩa: \"Trở nên; lấy; rẽ\"."
+    },
+    {
+      "id": "bunpou-n5-ku-naru-ni-naru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "部屋がきれいになりました。",
+      "sentenceVi": "Căn phòng đã trở nên sạch sẽ.",
+      "targetGrammar": "〜くなる / 〜になる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜くなる / 〜になる",
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜に（time）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Căn phòng đã trở nên sạch sẽ.\", ta sử dụng mẫu 「〜くなる / 〜になる」."
+    },
+    {
+      "id": "bunpou-n5-ku-naru-ni-naru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "兄は来年、医者になります。",
+      "sentenceVi": "Anh trai tôi sẽ trở thành bác sĩ vào năm tới.",
+      "targetGrammar": "〜くなる / 〜になる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Trở nên; lấy; rẽ",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜くなる / 〜になる」 mang ý nghĩa: \"Trở nên; lấy; rẽ\"."
+    },
+    {
+      "id": "bunpou-n5-ku-naru-ni-naru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "あたたかくなりましたね。",
+      "sentenceVi": "Trời đã ấm hơn rồi phải không?",
+      "targetGrammar": "〜くなる / 〜になる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trở nên; lấy; rẽ\":",
+      "options": [
+        "〜で（means）",
+        "〜くなる / 〜になる",
+        "〜と（and）",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜くなる / 〜になる」."
+    },
+    {
+      "id": "bunpou-n5-ku-naru-ni-naru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "あたたかくなりましたね。",
+      "sentenceVi": "Trời đã ấm hơn rồi phải không?",
+      "targetGrammar": "〜くなる / 〜になる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜くなる / 〜になる」 là gì?",
+      "options": [
+        "Trở nên; lấy; rẽ",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜くなる / 〜になる」 có nghĩa là: Trở nên; lấy; rẽ."
+    }
+  ]
+}

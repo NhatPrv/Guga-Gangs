@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-tokoro-ni-tokoro-e-tokoro-o",
+  "level": "N3",
+  "pattern": "〜ところに / 〜ところへ / 〜ところを",
+  "title": "〜ところに / 〜ところへ / 〜ところを",
+  "meaning": "Đúng lúc; vào lúc này (ai đó đến hoặc có gì đó làm gián đoạn)",
+  "meaningVi": "Đúng lúc; vào lúc này (ai đó đến hoặc có gì đó làm gián đoạn)",
+  "connection": "Động từ (V)-dict / Động từ (V)-te + いる / Động từ (V)-ta + ところに / ところへ / ところを",
+  "usageNotes": "ところに/へ: có chuyện gì đó xảy ra hoặc có người đến đúng lúc, thường làm gián đoạn. ところを: cảnh là tân ngữ của động từ như 見る, 見つかる, 助ける. Đặt cụm từ: お忙しいところを.",
+  "examples": [
+    {
+      "ja": "出かけようとしているところに、友達から電話がかかってきた。",
+      "furigana": "{出|で}かけようとしているところに、{友達|ともだち}から{電話|でんわ}がかかってきた。",
+      "en": "Just as I was about to go out, a friend called.",
+      "vi": "Khi tôi vừa định ra ngoài thì một người bạn gọi đến."
+    },
+    {
+      "ja": "みんなで君の話をしているところへ、ちょうど君が来た。",
+      "furigana": "みんなで{君|きみ}の{話|はなし}をしているところへ、ちょうど{君|きみ}が{来|き}た。",
+      "en": "Just as we were all talking about you, you showed up.",
+      "vi": "Ngay khi chúng tôi đang nói về bạn, bạn đã xuất hiện."
+    },
+    {
+      "ja": "授業中にスマホを見ているところを、先生に見られてしまった。",
+      "furigana": "{授業|じゅぎょう}{中|ちゅう}にスマホを{見|み}ているところを、{先生|せんせい}に{見|み}られてしまった。",
+      "en": "The teacher caught me looking at my phone during class.",
+      "vi": "Giáo viên bắt gặp tôi đang xem điện thoại trong giờ học."
+    }
+  ],
+  "tags": [
+    "time"
+  ],
+  "unitId": "grammar-n3-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n3-tokoro-ni-tokoro-e-tokoro-o-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "出かけようとしているところに、友達から電話がかかってきた。",
+      "sentenceVi": "Khi tôi vừa định ra ngoài thì một người bạn gọi đến.",
+      "targetGrammar": "〜ところに / 〜ところへ / 〜ところを",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Đúng lúc; vào lúc này (ai đó đến hoặc có gì đó làm gián đoạn)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ところに / 〜ところへ / 〜ところを」 mang ý nghĩa: \"Đúng lúc; vào lúc này (ai đó đến hoặc có gì đó làm gián đoạn)\"."
+    },
+    {
+      "id": "bunpou-n3-tokoro-ni-tokoro-e-tokoro-o-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "みんなで君の話をしているところへ、ちょうど君が来た。",
+      "sentenceVi": "Ngay khi chúng tôi đang nói về bạn, bạn đã xuất hiện.",
+      "targetGrammar": "〜ところに / 〜ところへ / 〜ところを",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜ものだ",
+        "〜ところに / 〜ところへ / 〜ところを",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Ngay khi chúng tôi đang nói về bạn, bạn đã xuất hiện.\", ta sử dụng mẫu 「〜ところに / 〜ところへ / 〜ところを」."
+    },
+    {
+      "id": "bunpou-n3-tokoro-ni-tokoro-e-tokoro-o-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "授業中にスマホを見ているところを、先生に見られてしまった。",
+      "sentenceVi": "Giáo viên bắt gặp tôi đang xem điện thoại trong giờ học.",
+      "targetGrammar": "〜ところに / 〜ところへ / 〜ところを",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Đúng lúc; vào lúc này (ai đó đến hoặc có gì đó làm gián đoạn)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ところに / 〜ところへ / 〜ところを」 mang ý nghĩa: \"Đúng lúc; vào lúc này (ai đó đến hoặc có gì đó làm gián đoạn)\"."
+    },
+    {
+      "id": "bunpou-n3-tokoro-ni-tokoro-e-tokoro-o-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "出かけようとしているところに、友達から電話がかかってきた。",
+      "sentenceVi": "Khi tôi vừa định ra ngoài thì một người bạn gọi đến.",
+      "targetGrammar": "〜ところに / 〜ところへ / 〜ところを",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đúng lúc; vào lúc này (ai đó đến hoặc có gì đó làm gián đoạn)\":",
+      "options": [
+        "〜ことはない",
+        "〜ことにしている",
+        "〜ところに / 〜ところへ / 〜ところを",
+        "〜ことになっている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ところに / 〜ところへ / 〜ところを」."
+    },
+    {
+      "id": "bunpou-n3-tokoro-ni-tokoro-e-tokoro-o-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "出かけようとしているところに、友達から電話がかかってきた。",
+      "sentenceVi": "Khi tôi vừa định ra ngoài thì một người bạn gọi đến.",
+      "targetGrammar": "〜ところに / 〜ところへ / 〜ところを",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ところに / 〜ところへ / 〜ところを」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Đúng lúc; vào lúc này (ai đó đến hoặc có gì đó làm gián đoạn)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ところに / 〜ところへ / 〜ところを」 có nghĩa là: Đúng lúc; vào lúc này (ai đó đến hoặc có gì đó làm gián đoạn)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-ki-ga-suru",
+  "level": "N3",
+  "pattern": "〜気がする",
+  "title": "〜気がする",
+  "meaning": "Có cảm giác rằng; cảm thấy như",
+  "meaningVi": "Có cảm giác rằng; cảm thấy như",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な + 気がする / Động từ (V)-plain / Danh từ (N) + の + ような + 気がする",
+  "usageNotes": "Một ấn tượng trực quan, mơ hồ hơn là một phán đoán chắc chắn; ような気がする thậm chí còn nhẹ nhàng hơn. Khác với N4 〜がする (mùi, âm thanh hoặc vị).",
+  "examples": [
+    {
+      "ja": "この人とは、どこかで会ったことがある気がする。",
+      "furigana": "この{人|ひと}とは、どこかで{会|あ}ったことがある{気|き}がする。",
+      "en": "I feel like I've met this person somewhere before.",
+      "vi": "Tôi có cảm giác như đã gặp người này ở đâu rồi."
+    },
+    {
+      "ja": "今日は何か、いいことがありそうな気がする。",
+      "furigana": "{今日|きょう}は{何|なに}か、いいことがありそうな{気|き}がする。",
+      "en": "I have a feeling something good is going to happen today.",
+      "vi": "Tôi có cảm giác hôm nay sẽ có điều gì đó tốt lành xảy ra."
+    },
+    {
+      "ja": "ドアの鍵をかけ忘れたような気がして、家に戻った。",
+      "furigana": "ドアの{鍵|かぎ}をかけ{忘|わす}れたような{気|き}がして、{家|いえ}に{戻|もど}った。",
+      "en": "I had a feeling I'd forgotten to lock the door, so I went back home.",
+      "vi": "Tôi có cảm giác mình quên khóa cửa nên quay về nhà."
+    }
+  ],
+  "tags": [
+    "conjecture",
+    "emotion"
+  ],
+  "unitId": "grammar-n3-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n3-ki-ga-suru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この人とは、どこかで会ったことがある気がする。",
+      "sentenceVi": "Tôi có cảm giác như đã gặp người này ở đâu rồi.",
+      "targetGrammar": "〜気がする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Có cảm giác rằng; cảm thấy như",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜気がする」 mang ý nghĩa: \"Có cảm giác rằng; cảm thấy như\"."
+    },
+    {
+      "id": "bunpou-n3-ki-ga-suru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は何か、いいことがありそうな気がする。",
+      "sentenceVi": "Tôi có cảm giác hôm nay sẽ có điều gì đó tốt lành xảy ra.",
+      "targetGrammar": "〜気がする",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜気がする",
+        "〜ものだ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi có cảm giác hôm nay sẽ có điều gì đó tốt lành xảy ra.\", ta sử dụng mẫu 「〜気がする」."
+    },
+    {
+      "id": "bunpou-n3-ki-ga-suru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ドアの鍵をかけ忘れたような気がして、家に戻った。",
+      "sentenceVi": "Tôi có cảm giác mình quên khóa cửa nên quay về nhà.",
+      "targetGrammar": "〜気がする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Có cảm giác rằng; cảm thấy như",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜気がする」 mang ý nghĩa: \"Có cảm giác rằng; cảm thấy như\"."
+    },
+    {
+      "id": "bunpou-n3-ki-ga-suru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この人とは、どこかで会ったことがある気がする。",
+      "sentenceVi": "Tôi có cảm giác như đã gặp người này ở đâu rồi.",
+      "targetGrammar": "〜気がする",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có cảm giác rằng; cảm thấy như\":",
+      "options": [
+        "〜ことはない",
+        "〜ことにしている",
+        "〜気がする",
+        "〜ことになっている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜気がする」."
+    },
+    {
+      "id": "bunpou-n3-ki-ga-suru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この人とは、どこかで会ったことがある気がする。",
+      "sentenceVi": "Tôi có cảm giác như đã gặp người này ở đâu rồi.",
+      "targetGrammar": "〜気がする",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜気がする」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Có cảm giác rằng; cảm thấy như",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜気がする」 có nghĩa là: Có cảm giác rằng; cảm thấy như."
+    }
+  ]
+}

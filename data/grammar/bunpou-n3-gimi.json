@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-gimi",
+  "level": "N3",
+  "pattern": "〜気味",
+  "title": "〜気味",
+  "meaning": "Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)",
+  "meaningVi": "Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)",
+  "connection": "Danh từ (N) / Động từ (V)-stem + 気味",
+  "usageNotes": "Một dấu hiệu nhẹ của tình trạng (thường là tiêu cực) hiện tại. So sánh 〜がち, có nghĩa là việc gì đó xảy ra thường xuyên.",
+  "examples": [
+    {
+      "ja": "少し風邪気味なので、今日は早めに帰ります。",
+      "furigana": "{少|すこ}し{風邪|かぜ}{気味|ぎみ}なので、{今日|きょう}は{早|はや}めに{帰|かえ}ります。",
+      "en": "I have a bit of a cold, so I'll head home early today.",
+      "vi": "Tôi hơi bị cảm nên hôm nay tôi sẽ về nhà sớm."
+    },
+    {
+      "ja": "最近、仕事が忙しくて疲れ気味だ。",
+      "furigana": "{最近|さいきん}、{仕事|しごと}が{忙|いそが}しくて{疲|つか}れ{気味|ぎみ}だ。",
+      "en": "Work has been busy lately, and I'm feeling a little worn out.",
+      "vi": "Gần đây công việc bận rộn, tôi cảm thấy hơi mệt mỏi."
+    },
+    {
+      "ja": "人手が足りず、工事は予定より遅れ気味だ。",
+      "furigana": "{人手|ひとで}が{足|た}りず、{工事|こうじ}は{予定|よてい}より{遅|おく}れ{気味|ぎみ}だ。",
+      "en": "They're short-handed, so the construction is running a little behind schedule.",
+      "vi": "Họ đang thiếu người nên việc xây dựng đang chậm tiến độ một chút."
+    }
+  ],
+  "tags": [
+    "tendency",
+    "degree",
+    "state"
+  ],
+  "unitId": "grammar-n3-unit-18",
+  "questions": [
+    {
+      "id": "bunpou-n3-gimi-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "少し風邪気味なので、今日は早めに帰ります。",
+      "sentenceVi": "Tôi hơi bị cảm nên hôm nay tôi sẽ về nhà sớm.",
+      "targetGrammar": "〜気味",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜気味」 mang ý nghĩa: \"Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)\"."
+    },
+    {
+      "id": "bunpou-n3-gimi-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "最近、仕事が忙しくて疲れ気味だ。",
+      "sentenceVi": "Gần đây công việc bận rộn, tôi cảm thấy hơi mệt mỏi.",
+      "targetGrammar": "〜気味",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜気味"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Gần đây công việc bận rộn, tôi cảm thấy hơi mệt mỏi.\", ta sử dụng mẫu 「〜気味」."
+    },
+    {
+      "id": "bunpou-n3-gimi-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "人手が足りず、工事は予定より遅れ気味だ。",
+      "sentenceVi": "Họ đang thiếu người nên việc xây dựng đang chậm tiến độ một chút.",
+      "targetGrammar": "〜気味",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜気味」 mang ý nghĩa: \"Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)\"."
+    },
+    {
+      "id": "bunpou-n3-gimi-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "少し風邪気味なので、今日は早めに帰ります。",
+      "sentenceVi": "Tôi hơi bị cảm nên hôm nay tôi sẽ về nhà sớm.",
+      "targetGrammar": "〜気味",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことにしている",
+        "〜ことはない",
+        "〜気味"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜気味」."
+    },
+    {
+      "id": "bunpou-n3-gimi-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "少し風邪気味なので、今日は早めに帰ります。",
+      "sentenceVi": "Tôi hơi bị cảm nên hôm nay tôi sẽ về nhà sớm.",
+      "targetGrammar": "〜気味",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜気味」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜気味」 có nghĩa là: Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)."
+    }
+  ]
+}

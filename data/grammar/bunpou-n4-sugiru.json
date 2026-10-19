@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-sugiru",
+  "level": "N4",
+  "pattern": "〜すぎる",
+  "title": "〜すぎる",
+  "meaning": "Quá... (Vượt quá mức bình thường)",
+  "meaningVi": "Quá... (Vượt quá mức bình thường)",
+  "connection": "Động từ (V)-stem / i-Adj stem / na-Adj + すぎる",
+  "usageNotes": "Liên hợp như động từ Nhóm 2 (すぎた, すぎて). いい → よすぎる và tính từ ない → なさすぎる.",
+  "examples": [
+    {
+      "ja": "ゆうべ飲みすぎて、頭が痛い。",
+      "furigana": "ゆうべ{飲|の}みすぎて、{頭|あたま}が{痛|いた}い。",
+      "en": "I drank too much last night, and now I have a headache.",
+      "vi": "Đêm qua tôi đã uống quá nhiều và bây giờ tôi bị đau đầu."
+    },
+    {
+      "ja": "この靴は私には大きすぎます。",
+      "furigana": "この{靴|くつ}は{私|わたし}には{大|おお}きすぎます。",
+      "en": "These shoes are too big for me.",
+      "vi": "Đôi giày này quá lớn đối với tôi."
+    },
+    {
+      "ja": "この問題は簡単すぎて、つまらない。",
+      "furigana": "この{問題|もんだい}は{簡単|かんたん}すぎて、つまらない。",
+      "en": "This question is too easy, so it's boring.",
+      "vi": "Câu hỏi này quá dễ nên nhàm chán."
+    }
+  ],
+  "tags": [
+    "degree"
+  ],
+  "unitId": "grammar-n4-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n4-sugiru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ゆうべ飲みすぎて、頭が痛い。",
+      "sentenceVi": "Đêm qua tôi đã uống quá nhiều và bây giờ tôi bị đau đầu.",
+      "targetGrammar": "〜すぎる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Quá... (Vượt quá mức bình thường)",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜すぎる」 mang ý nghĩa: \"Quá... (Vượt quá mức bình thường)\"."
+    },
+    {
+      "id": "bunpou-n4-sugiru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この靴は私には大きすぎます。",
+      "sentenceVi": "Đôi giày này quá lớn đối với tôi.",
+      "targetGrammar": "〜すぎる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜すぎる"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Đôi giày này quá lớn đối với tôi.\", ta sử dụng mẫu 「〜すぎる」."
+    },
+    {
+      "id": "bunpou-n4-sugiru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この問題は簡単すぎて、つまらない。",
+      "sentenceVi": "Câu hỏi này quá dễ nên nhàm chán.",
+      "targetGrammar": "〜すぎる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Quá... (Vượt quá mức bình thường)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜すぎる」 mang ý nghĩa: \"Quá... (Vượt quá mức bình thường)\"."
+    },
+    {
+      "id": "bunpou-n4-sugiru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "ゆうべ飲みすぎて、頭が痛い。",
+      "sentenceVi": "Đêm qua tôi đã uống quá nhiều và bây giờ tôi bị đau đầu.",
+      "targetGrammar": "〜すぎる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Quá... (Vượt quá mức bình thường)\":",
+      "options": [
+        "〜てある",
+        "〜とき",
+        "〜てみる",
+        "〜すぎる"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜すぎる」."
+    },
+    {
+      "id": "bunpou-n4-sugiru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ゆうべ飲みすぎて、頭が痛い。",
+      "sentenceVi": "Đêm qua tôi đã uống quá nhiều và bây giờ tôi bị đau đầu.",
+      "targetGrammar": "〜すぎる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜すぎる」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Quá... (Vượt quá mức bình thường)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜すぎる」 có nghĩa là: Quá... (Vượt quá mức bình thường)."
+    }
+  ]
+}

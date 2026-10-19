@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-masen-ka",
+  "level": "N5",
+  "pattern": "〜ませんか",
+  "title": "〜ませんか",
+  "meaning": "Phải không...?; bạn có muốn...? (lời mời lịch sự)",
+  "meaningVi": "Phải không...?; bạn có muốn...? (lời mời lịch sự)",
+  "connection": "Động từ (V)-stem + ませんか",
+  "usageNotes": "Nhẹ nhàng hơn 〜ましょう vì nó khiến không gian người nghe bị suy giảm. Chấp nhận với ええ、〜ましょう.",
+  "examples": [
+    {
+      "ja": "いっしょに昼ご飯を食べませんか。",
+      "furigana": "いっしょに{昼|ひる}ご{飯|はん}を{食|た}べませんか。",
+      "en": "Would you like to have lunch together?",
+      "vi": "Bạn có muốn ăn trưa cùng nhau không?"
+    },
+    {
+      "ja": "日曜日にテニスをしませんか。",
+      "furigana": "{日曜日|にちようび}にテニスをしませんか。",
+      "en": "Would you like to play tennis on Sunday?",
+      "vi": "Bạn có muốn chơi quần vợt vào Chủ nhật không?"
+    },
+    {
+      "ja": "明日、公園を散歩しませんか。",
+      "furigana": "{明日|あした}、{公園|こうえん}を{散歩|さんぽ}しませんか。",
+      "en": "How about a walk in the park tomorrow?",
+      "vi": "Ngày mai đi dạo trong công viên thì thế nào?"
+    }
+  ],
+  "tags": [
+    "invitation"
+  ],
+  "unitId": "grammar-n5-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n5-masen-ka-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "いっしょに昼ご飯を食べませんか。",
+      "sentenceVi": "Bạn có muốn ăn trưa cùng nhau không?",
+      "targetGrammar": "〜ませんか",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Phải không...?; bạn có muốn...? (lời mời lịch sự)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ませんか」 mang ý nghĩa: \"Phải không...?; bạn có muốn...? (lời mời lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n5-masen-ka-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日曜日にテニスをしませんか。",
+      "sentenceVi": "Bạn có muốn chơi quần vợt vào Chủ nhật không?",
+      "targetGrammar": "〜ませんか",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜ませんか",
+        "〜に（destination）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn có muốn chơi quần vợt vào Chủ nhật không?\", ta sử dụng mẫu 「〜ませんか」."
+    },
+    {
+      "id": "bunpou-n5-masen-ka-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日、公園を散歩しませんか。",
+      "sentenceVi": "Ngày mai đi dạo trong công viên thì thế nào?",
+      "targetGrammar": "〜ませんか",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Phải không...?; bạn có muốn...? (lời mời lịch sự)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ませんか」 mang ý nghĩa: \"Phải không...?; bạn có muốn...? (lời mời lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n5-masen-ka-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "いっしょに昼ご飯を食べませんか。",
+      "sentenceVi": "Bạn có muốn ăn trưa cùng nhau không?",
+      "targetGrammar": "〜ませんか",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Phải không...?; bạn có muốn...? (lời mời lịch sự)\":",
+      "options": [
+        "〜ませんか",
+        "〜で（means）",
+        "〜で（place of action）",
+        "〜と（and）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ませんか」."
+    },
+    {
+      "id": "bunpou-n5-masen-ka-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "いっしょに昼ご飯を食べませんか。",
+      "sentenceVi": "Bạn có muốn ăn trưa cùng nhau không?",
+      "targetGrammar": "〜ませんか",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ませんか」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Phải không...?; bạn có muốn...? (lời mời lịch sự)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ませんか」 có nghĩa là: Phải không...?; bạn có muốn...? (lời mời lịch sự)."
+    }
+  ]
+}

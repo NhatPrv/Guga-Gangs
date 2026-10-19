@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-tara",
+  "level": "N4",
+  "pattern": "〜たら",
+  "title": "〜たら",
+  "meaning": "Nếu / Sau khi... (Điều kiện giả định thể Tara)",
+  "meaningVi": "Nếu / Sau khi... (Điều kiện giả định thể Tara)",
+  "connection": "Động từ (V)-ta + ら / i-Adj stem + かったら / na-Adj + だったら / Danh từ (N) + だったら",
+  "usageNotes": "Câu điều kiện linh hoạt nhất và rất phổ biến trong lời nói. Với những sự kiện chắc chắn sẽ xảy ra, nó có nghĩa là 'khi/sau'.",
+  "examples": [
+    {
+      "ja": "駅に着いたら、電話してください。",
+      "furigana": "{駅|えき}に{着|つ}いたら、{電話|でんわ}してください。",
+      "en": "Please call me when you get to the station.",
+      "vi": "Hãy gọi cho tôi khi bạn đến ga."
+    },
+    {
+      "ja": "もし明日雨だったら、家で映画を見よう。",
+      "furigana": "もし{明日|あした}{雨|あめ}だったら、{家|いえ}で{映画|えいが}を{見|み}よう。",
+      "en": "If it rains tomorrow, let's watch a movie at home.",
+      "vi": "Nếu ngày mai trời mưa thì chúng ta hãy xem phim ở nhà."
+    },
+    {
+      "ja": "暑かったら、窓を開けてもいいですよ。",
+      "furigana": "{暑|あつ}かったら、{窓|まど}を{開|あ}けてもいいですよ。",
+      "en": "If you're hot, feel free to open the window.",
+      "vi": "Nếu bạn nóng, hãy thoải mái mở cửa sổ."
+    }
+  ],
+  "tags": [
+    "condition",
+    "time"
+  ],
+  "unitId": "grammar-n4-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n4-tara-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅に着いたら、電話してください。",
+      "sentenceVi": "Hãy gọi cho tôi khi bạn đến ga.",
+      "targetGrammar": "〜たら",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Nếu / Sau khi... (Điều kiện giả định thể Tara)",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜たら」 mang ý nghĩa: \"Nếu / Sau khi... (Điều kiện giả định thể Tara)\"."
+    },
+    {
+      "id": "bunpou-n4-tara-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "もし明日雨だったら、家で映画を見よう。",
+      "sentenceVi": "Nếu ngày mai trời mưa thì chúng ta hãy xem phim ở nhà.",
+      "targetGrammar": "〜たら",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜たら",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Nếu ngày mai trời mưa thì chúng ta hãy xem phim ở nhà.\", ta sử dụng mẫu 「〜たら」."
+    },
+    {
+      "id": "bunpou-n4-tara-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "暑かったら、窓を開けてもいいですよ。",
+      "sentenceVi": "Nếu bạn nóng, hãy thoải mái mở cửa sổ.",
+      "targetGrammar": "〜たら",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Nếu / Sau khi... (Điều kiện giả định thể Tara)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜たら」 mang ý nghĩa: \"Nếu / Sau khi... (Điều kiện giả định thể Tara)\"."
+    },
+    {
+      "id": "bunpou-n4-tara-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "駅に着いたら、電話してください。",
+      "sentenceVi": "Hãy gọi cho tôi khi bạn đến ga.",
+      "targetGrammar": "〜たら",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nếu / Sau khi... (Điều kiện giả định thể Tara)\":",
+      "options": [
+        "〜たら",
+        "〜てみる",
+        "〜とき",
+        "〜てある"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜たら」."
+    },
+    {
+      "id": "bunpou-n4-tara-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅に着いたら、電話してください。",
+      "sentenceVi": "Hãy gọi cho tôi khi bạn đến ga.",
+      "targetGrammar": "〜たら",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜たら」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nếu / Sau khi... (Điều kiện giả định thể Tara)",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜たら」 có nghĩa là: Nếu / Sau khi... (Điều kiện giả định thể Tara)."
+    }
+  ]
+}

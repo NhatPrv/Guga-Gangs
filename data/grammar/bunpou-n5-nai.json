@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n5-nai",
+  "level": "N5",
+  "pattern": "〜ない",
+  "title": "〜ない",
+  "meaning": "Không; sẽ không (phủ định rõ ràng của động từ)",
+  "meaningVi": "Không; sẽ không (phủ định rõ ràng của động từ)",
+  "connection": "Động từ (V)-nai stem + ない",
+  "usageNotes": "Động từ う đổi âm -u cuối thành -a: 書く→書かない, 買う→買わない. る-động từ thả る: 食べない. する→しない, 来る→こない, ある→ない. Quá khứ: 〜なかった.",
+  "examples": [
+    {
+      "ja": "今日は学校へ行かない。",
+      "furigana": "{今日|きょう}は{学校|がっこう}へ{行|い}かない。",
+      "en": "I'm not going to school today.",
+      "vi": "Hôm nay tôi không đi học."
+    },
+    {
+      "ja": "兄は肉を食べない。",
+      "furigana": "{兄|あに}は{肉|にく}を{食|た}べない。",
+      "en": "My older brother doesn't eat meat.",
+      "vi": "Anh trai tôi không ăn thịt."
+    },
+    {
+      "ja": "「コーヒー、飲む？」「ううん、飲まない。」",
+      "furigana": "「コーヒー、{飲|の}む？」「ううん、{飲|の}まない。」",
+      "en": "\"Are you having coffee?\" \"No, I'm not.\"",
+      "vi": "\"Anh đang uống cà phê à?\" \"Không, tôi không.\""
+    }
+  ],
+  "tags": [
+    "conjugation",
+    "negation",
+    "casual"
+  ],
+  "unitId": "grammar-n5-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n5-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は学校へ行かない。",
+      "sentenceVi": "Hôm nay tôi không đi học.",
+      "targetGrammar": "〜ない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không; sẽ không (phủ định rõ ràng của động từ)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ない」 mang ý nghĩa: \"Không; sẽ không (phủ định rõ ràng của động từ)\"."
+    },
+    {
+      "id": "bunpou-n5-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "兄は肉を食べない。",
+      "sentenceVi": "Anh trai tôi không ăn thịt.",
+      "targetGrammar": "〜ない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜に（destination）",
+        "〜ない"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Anh trai tôi không ăn thịt.\", ta sử dụng mẫu 「〜ない」."
+    },
+    {
+      "id": "bunpou-n5-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「コーヒー、飲む？」「ううん、飲まない。」",
+      "sentenceVi": "\"Anh đang uống cà phê à?\" \"Không, tôi không.\"",
+      "targetGrammar": "〜ない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không; sẽ không (phủ định rõ ràng của động từ)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ない」 mang ý nghĩa: \"Không; sẽ không (phủ định rõ ràng của động từ)\"."
+    },
+    {
+      "id": "bunpou-n5-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は学校へ行かない。",
+      "sentenceVi": "Hôm nay tôi không đi học.",
+      "targetGrammar": "〜ない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không; sẽ không (phủ định rõ ràng của động từ)\":",
+      "options": [
+        "〜ない",
+        "〜で（place of action）",
+        "〜で（means）",
+        "〜と（and）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ない」."
+    },
+    {
+      "id": "bunpou-n5-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は学校へ行かない。",
+      "sentenceVi": "Hôm nay tôi không đi học.",
+      "targetGrammar": "〜ない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ない」 là gì?",
+      "options": [
+        "Không; sẽ không (phủ định rõ ràng của động từ)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ない」 có nghĩa là: Không; sẽ không (phủ định rõ ràng của động từ)."
+    }
+  ]
+}

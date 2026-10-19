@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-kono-sono-ano-dono",
+  "level": "N5",
+  "pattern": "この / その / あの / どの",
+  "title": "この / その / あの / どの",
+  "meaning": "Cái này; cái đó (gần bạn); cái đó... đằng kia; cái nào (trước danh từ)",
+  "meaningVi": "Cái này; cái đó (gần bạn); cái đó... đằng kia; cái nào (trước danh từ)",
+  "connection": "この / その / あの / どの + Danh từ (N)",
+  "usageNotes": "Luôn theo sau bởi một danh từ: この本, không bao giờ この đứng một mình. これ / それ / あれ / どれ được sử dụng khi không có danh từ.",
+  "examples": [
+    {
+      "ja": "このケーキはおいしいです。",
+      "furigana": "このケーキはおいしいです。",
+      "en": "This cake is delicious.",
+      "vi": "Bánh này ngon lắm."
+    },
+    {
+      "ja": "その本はだれのですか。",
+      "furigana": "その{本|ほん}はだれのですか。",
+      "en": "Whose book is that?",
+      "vi": "Cuốn sách đó là của ai?"
+    },
+    {
+      "ja": "「どの人が先生ですか。」「あの人です。」",
+      "furigana": "「どの{人|ひと}が{先生|せんせい}ですか。」「あの{人|ひと}です。」",
+      "en": "\"Which person is the teacher?\" \"That person over there.\"",
+      "vi": "“Thầy là người nào?” “Người ở đằng kia.”"
+    }
+  ],
+  "tags": [
+    "demonstrative"
+  ],
+  "unitId": "grammar-n5-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n5-kono-sono-ano-dono-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このケーキはおいしいです。",
+      "sentenceVi": "Bánh này ngon lắm.",
+      "targetGrammar": "この / その / あの / どの",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Cái này; cái đó (gần bạn); cái đó... đằng kia; cái nào (trước danh từ)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「この / その / あの / どの」 mang ý nghĩa: \"Cái này; cái đó (gần bạn); cái đó... đằng kia; cái nào (trước danh từ)\"."
+    },
+    {
+      "id": "bunpou-n5-kono-sono-ano-dono-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "その本はだれのですか。",
+      "sentenceVi": "Cuốn sách đó là của ai?",
+      "targetGrammar": "この / その / あの / どの",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "この / その / あの / どの",
+        "〜に（place of existence）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Cuốn sách đó là của ai?\", ta sử dụng mẫu 「この / その / あの / どの」."
+    },
+    {
+      "id": "bunpou-n5-kono-sono-ano-dono-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「どの人が先生ですか。」「あの人です。」",
+      "sentenceVi": "“Thầy là người nào?” “Người ở đằng kia.”",
+      "targetGrammar": "この / その / あの / どの",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Cái này; cái đó (gần bạn); cái đó... đằng kia; cái nào (trước danh từ)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「この / その / あの / どの」 mang ý nghĩa: \"Cái này; cái đó (gần bạn); cái đó... đằng kia; cái nào (trước danh từ)\"."
+    },
+    {
+      "id": "bunpou-n5-kono-sono-ano-dono-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このケーキはおいしいです。",
+      "sentenceVi": "Bánh này ngon lắm.",
+      "targetGrammar": "この / その / あの / どの",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cái này; cái đó (gần bạn); cái đó... đằng kia; cái nào (trước danh từ)\":",
+      "options": [
+        "〜で（means）",
+        "〜で（place of action）",
+        "この / その / あの / どの",
+        "〜と（and）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「この / その / あの / どの」."
+    },
+    {
+      "id": "bunpou-n5-kono-sono-ano-dono-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このケーキはおいしいです。",
+      "sentenceVi": "Bánh này ngon lắm.",
+      "targetGrammar": "この / その / あの / どの",
+      "prompt": "Ý nghĩa chính của cấu trúc 「この / その / あの / どの」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Cái này; cái đó (gần bạn); cái đó... đằng kia; cái nào (trước danh từ)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「この / その / あの / どの」 có nghĩa là: Cái này; cái đó (gần bạn); cái đó... đằng kia; cái nào (trước danh từ)."
+    }
+  ]
+}

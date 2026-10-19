@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-koto-ni-shite-iru",
+  "level": "N3",
+  "pattern": "〜ことにしている",
+  "title": "〜ことにしている",
+  "meaning": "Biến nó thành một quy tắc; đưa ra quan điểm",
+  "meaningVi": "Biến nó thành một quy tắc; đưa ra quan điểm",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + ことにしている",
+  "usageNotes": "Một quy tắc cá nhân mà người nói (hoặc chủ đề) đã quyết định và tuân theo. So sánh 〜ことになっている, một quy tắc hoặc kế hoạch do người khác đặt ra.",
+  "examples": [
+    {
+      "ja": "健康のために、週に三回はジムに通うことにしている。",
+      "furigana": "{健康|けんこう}のために、{週|しゅう}に{三|さん}{回|かい}はジムに{通|かよ}うことにしている。",
+      "en": "For my health, I make it a rule to go to the gym at least three times a week.",
+      "vi": "Vì sức khỏe của mình, tôi đặt ra quy tắc là đến phòng tập thể dục ít nhất ba lần một tuần."
+    },
+    {
+      "ja": "夜十時以降は、スマホを見ないことにしています。",
+      "furigana": "{夜|よる}{十|じゅう}{時|じ}{以降|いこう}は、スマホを{見|み}ないことにしています。",
+      "en": "I make a point of not looking at my phone after 10 p.m.",
+      "vi": "Tôi quyết tâm không nhìn vào điện thoại của mình sau 10 giờ tối."
+    },
+    {
+      "ja": "父は、給料日には家族を外食に連れていくことにしている。",
+      "furigana": "{父|ちち}は、{給料|きゅうりょう}{日|び}には{家族|かぞく}を{外食|がいしょく}に{連|つ}れていくことにしている。",
+      "en": "My dad makes a point of taking the family out to eat on payday.",
+      "vi": "Bố tôi có ý định đưa cả gia đình đi ăn vào ngày lãnh lương."
+    }
+  ],
+  "tags": [
+    "decision",
+    "tendency"
+  ],
+  "unitId": "grammar-n3-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n3-koto-ni-shite-iru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "健康のために、週に三回はジムに通うことにしている。",
+      "sentenceVi": "Vì sức khỏe của mình, tôi đặt ra quy tắc là đến phòng tập thể dục ít nhất ba lần một tuần.",
+      "targetGrammar": "〜ことにしている",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Biến nó thành một quy tắc; đưa ra quan điểm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ことにしている」 mang ý nghĩa: \"Biến nó thành một quy tắc; đưa ra quan điểm\"."
+    },
+    {
+      "id": "bunpou-n3-koto-ni-shite-iru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "夜十時以降は、スマホを見ないことにしています。",
+      "sentenceVi": "Tôi quyết tâm không nhìn vào điện thoại của mình sau 10 giờ tối.",
+      "targetGrammar": "〜ことにしている",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ことにしている",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi quyết tâm không nhìn vào điện thoại của mình sau 10 giờ tối.\", ta sử dụng mẫu 「〜ことにしている」."
+    },
+    {
+      "id": "bunpou-n3-koto-ni-shite-iru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "父は、給料日には家族を外食に連れていくことにしている。",
+      "sentenceVi": "Bố tôi có ý định đưa cả gia đình đi ăn vào ngày lãnh lương.",
+      "targetGrammar": "〜ことにしている",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Biến nó thành một quy tắc; đưa ra quan điểm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ことにしている」 mang ý nghĩa: \"Biến nó thành một quy tắc; đưa ra quan điểm\"."
+    },
+    {
+      "id": "bunpou-n3-koto-ni-shite-iru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "健康のために、週に三回はジムに通うことにしている。",
+      "sentenceVi": "Vì sức khỏe của mình, tôi đặt ra quy tắc là đến phòng tập thể dục ít nhất ba lần một tuần.",
+      "targetGrammar": "〜ことにしている",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Biến nó thành một quy tắc; đưa ra quan điểm\":",
+      "options": [
+        "〜ことはない",
+        "〜ことになっている",
+        "〜ことにしている",
+        "〜こと（instruction）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ことにしている」."
+    },
+    {
+      "id": "bunpou-n3-koto-ni-shite-iru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "健康のために、週に三回はジムに通うことにしている。",
+      "sentenceVi": "Vì sức khỏe của mình, tôi đặt ra quy tắc là đến phòng tập thể dục ít nhất ba lần một tuần.",
+      "targetGrammar": "〜ことにしている",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ことにしている」 là gì?",
+      "options": [
+        "Không thể ; không có vẻ như nó sẽ",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Biến nó thành một quy tắc; đưa ra quan điểm",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ことにしている」 có nghĩa là: Biến nó thành một quy tắc; đưa ra quan điểm."
+    }
+  ]
+}

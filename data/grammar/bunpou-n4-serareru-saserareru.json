@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-serareru-saserareru",
+  "level": "N4",
+  "pattern": "〜せられる / 〜させられる",
+  "title": "〜せられる / 〜させられる",
+  "meaning": "Bị buộc phải làm (trái với ý muốn của ai đó)",
+  "meaningVi": "Bị buộc phải làm (trái với ý muốn của ai đó)",
+  "connection": "Động từ (V)-nai stem + せられる (Group 1; short form される) / Động từ (V)-nai stem + させられる (Group 2)",
+  "usageNotes": "Bất quy tắc: する → させられる, 来る → 来させられる. Dạng ngắn Nhóm 1 (待たされる) phổ biến trong lời nói, nhưng không phổ biến với các động từ kết thúc bằng す (話させられる).",
+  "examples": [
+    {
+      "ja": "子どものころ、母に毎日ピアノを練習させられた。",
+      "furigana": "{子|こ}どものころ、{母|はは}に{毎日|まいにち}ピアノを{練習|れんしゅう}させられた。",
+      "en": "When I was a child, my mother made me practice the piano every day.",
+      "vi": "Khi tôi còn nhỏ, mẹ tôi bắt tôi tập piano hàng ngày."
+    },
+    {
+      "ja": "駅で三十分も待たされました。",
+      "furigana": "{駅|えき}で{三十分|さんじゅっぷん}も{待|ま}たされました。",
+      "en": "I was kept waiting at the station for a whole thirty minutes.",
+      "vi": "Tôi phải đợi ở nhà ga suốt ba mươi phút."
+    },
+    {
+      "ja": "会社の飲み会で歌を歌わされた。",
+      "furigana": "{会社|かいしゃ}の{飲|の}み{会|かい}で{歌|うた}を{歌|うた}わされた。",
+      "en": "I was made to sing at the company drinking party.",
+      "vi": "Tôi bị bắt đi hát trong bữa tiệc rượu của công ty."
+    }
+  ],
+  "tags": [
+    "voice",
+    "conjugation"
+  ],
+  "unitId": "grammar-n4-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n4-serareru-saserareru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子どものころ、母に毎日ピアノを練習させられた。",
+      "sentenceVi": "Khi tôi còn nhỏ, mẹ tôi bắt tôi tập piano hàng ngày.",
+      "targetGrammar": "〜せられる / 〜させられる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bị buộc phải làm (trái với ý muốn của ai đó)",
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜せられる / 〜させられる」 mang ý nghĩa: \"Bị buộc phải làm (trái với ý muốn của ai đó)\"."
+    },
+    {
+      "id": "bunpou-n4-serareru-saserareru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "駅で三十分も待たされました。",
+      "sentenceVi": "Tôi phải đợi ở nhà ga suốt ba mươi phút.",
+      "targetGrammar": "〜せられる / 〜させられる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜せられる / 〜させられる",
+        "〜てもらう"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi phải đợi ở nhà ga suốt ba mươi phút.\", ta sử dụng mẫu 「〜せられる / 〜させられる」."
+    },
+    {
+      "id": "bunpou-n4-serareru-saserareru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "会社の飲み会で歌を歌わされた。",
+      "sentenceVi": "Tôi bị bắt đi hát trong bữa tiệc rượu của công ty.",
+      "targetGrammar": "〜せられる / 〜させられる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Bị buộc phải làm (trái với ý muốn của ai đó)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜せられる / 〜させられる」 mang ý nghĩa: \"Bị buộc phải làm (trái với ý muốn của ai đó)\"."
+    },
+    {
+      "id": "bunpou-n4-serareru-saserareru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "子どものころ、母に毎日ピアノを練習させられた。",
+      "sentenceVi": "Khi tôi còn nhỏ, mẹ tôi bắt tôi tập piano hàng ngày.",
+      "targetGrammar": "〜せられる / 〜させられる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bị buộc phải làm (trái với ý muốn của ai đó)\":",
+      "options": [
+        "〜てある",
+        "〜てみる",
+        "〜せられる / 〜させられる",
+        "〜とき"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜せられる / 〜させられる」."
+    },
+    {
+      "id": "bunpou-n4-serareru-saserareru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子どものころ、母に毎日ピアノを練習させられた。",
+      "sentenceVi": "Khi tôi còn nhỏ, mẹ tôi bắt tôi tập piano hàng ngày.",
+      "targetGrammar": "〜せられる / 〜させられる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜せられる / 〜させられる」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Bị buộc phải làm (trái với ý muốn của ai đó)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜せられる / 〜させられる」 có nghĩa là: Bị buộc phải làm (trái với ý muốn của ai đó)."
+    }
+  ]
+}

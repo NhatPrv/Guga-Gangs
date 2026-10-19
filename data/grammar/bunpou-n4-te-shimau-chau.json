@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n4-te-shimau-chau",
+  "level": "N4",
+  "pattern": "〜てしまう / 〜ちゃう",
+  "title": "〜てしまう / 〜ちゃう",
+  "meaning": "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+  "meaningVi": "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+  "connection": "Động từ (V)-te + しまう",
+  "usageNotes": "Trong lời nói, 〜てしまう hợp âm thành 〜ちゃう, và 〜でしまう thành 〜じゃう (飲んじゃう).",
+  "examples": [
+    {
+      "ja": "電車に傘を忘れてしまいました。",
+      "furigana": "{電車|でんしゃ}に{傘|かさ}を{忘|わす}れてしまいました。",
+      "en": "I left my umbrella on the train.",
+      "vi": "Tôi để quên chiếc ô của mình trên tàu."
+    },
+    {
+      "ja": "この本はおもしろくて、一晩で読んでしまった。",
+      "furigana": "この{本|ほん}はおもしろくて、{一晩|ひとばん}で{読|よ}んでしまった。",
+      "en": "This book was so interesting that I read the whole thing in one night.",
+      "vi": "Cuốn sách này thú vị đến mức tôi đã đọc hết trong một đêm."
+    },
+    {
+      "ja": "あ、ケーキを全部食べちゃった。",
+      "furigana": "あ、ケーキを{全部|ぜんぶ}{食|た}べちゃった。",
+      "en": "Oops, I ate all the cake.",
+      "vi": "Ôi, tôi đã ăn hết cái bánh rồi."
+    }
+  ],
+  "tags": [
+    "completion",
+    "regret",
+    "casual"
+  ],
+  "unitId": "grammar-n4-unit-02",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-shimau-chau-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "電車に傘を忘れてしまいました。",
+      "sentenceVi": "Tôi để quên chiếc ô của mình trên tàu.",
+      "targetGrammar": "〜てしまう / 〜ちゃう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜てしまう / 〜ちゃう」 mang ý nghĩa: \"Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)\"."
+    },
+    {
+      "id": "bunpou-n4-te-shimau-chau-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この本はおもしろくて、一晩で読んでしまった。",
+      "sentenceVi": "Cuốn sách này thú vị đến mức tôi đã đọc hết trong một đêm.",
+      "targetGrammar": "〜てしまう / 〜ちゃう",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜てしまう / 〜ちゃう",
+        "〜ていく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Cuốn sách này thú vị đến mức tôi đã đọc hết trong một đêm.\", ta sử dụng mẫu 「〜てしまう / 〜ちゃう」."
+    },
+    {
+      "id": "bunpou-n4-te-shimau-chau-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "あ、ケーキを全部食べちゃった。",
+      "sentenceVi": "Ôi, tôi đã ăn hết cái bánh rồi.",
+      "targetGrammar": "〜てしまう / 〜ちゃう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Thử làm gì đó...",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜てしまう / 〜ちゃう」 mang ý nghĩa: \"Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)\"."
+    },
+    {
+      "id": "bunpou-n4-te-shimau-chau-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "電車に傘を忘れてしまいました。",
+      "sentenceVi": "Tôi để quên chiếc ô của mình trên tàu.",
+      "targetGrammar": "〜てしまう / 〜ちゃう",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)\":",
+      "options": [
+        "〜てある",
+        "〜間 / 〜間に",
+        "〜とき",
+        "〜てしまう / 〜ちゃう"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜てしまう / 〜ちゃう」."
+    },
+    {
+      "id": "bunpou-n4-te-shimau-chau-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "電車に傘を忘れてしまいました。",
+      "sentenceVi": "Tôi để quên chiếc ô của mình trên tàu.",
+      "targetGrammar": "〜てしまう / 〜ちゃう",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てしまう / 〜ちゃう」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜てしまう / 〜ちゃう」 có nghĩa là: Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)."
+    }
+  ]
+}

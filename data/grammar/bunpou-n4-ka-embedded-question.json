@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-ka-embedded-question",
+  "level": "N4",
+  "pattern": "〜か（embedded question）",
+  "title": "〜か（embedded question）",
+  "meaning": "Câu hỏi nhúng (cái gì, ở đâu, ai, v.v.)",
+  "meaningVi": "Câu hỏi nhúng (cái gì, ở đâu, ai, v.v.)",
+  "connection": "Question word + ... + Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + か",
+  "usageNotes": "Sau danh từ hoặc tính từ na, だ bị lược bỏ (誰の傘か知らない).",
+  "examples": [
+    {
+      "ja": "会議が何時に始まるか、教えてください。",
+      "furigana": "{会議|かいぎ}が{何|なん}{時|じ}に{始|はじ}まるか、{教|おし}えてください。",
+      "en": "Please tell me what time the meeting starts.",
+      "vi": "Xin vui lòng cho tôi biết cuộc họp bắt đầu lúc mấy giờ."
+    },
+    {
+      "ja": "どこで財布をなくしたか、覚えていません。",
+      "furigana": "どこで{財布|さいふ}をなくしたか、{覚|おぼ}えていません。",
+      "en": "I don't remember where I lost my wallet.",
+      "vi": "Tôi không nhớ mình đã đánh rơi ví ở đâu."
+    },
+    {
+      "ja": "誰が窓を割ったか、知っていますか。",
+      "furigana": "{誰|だれ}が{窓|まど}を{割|わ}ったか、{知|し}っていますか。",
+      "en": "Do you know who broke the window?",
+      "vi": "Bạn có biết ai đã phá vỡ cửa sổ không?"
+    }
+  ],
+  "tags": [
+    "question"
+  ],
+  "unitId": "grammar-n4-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n4-ka-embedded-question-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "会議が何時に始まるか、教えてください。",
+      "sentenceVi": "Xin vui lòng cho tôi biết cuộc họp bắt đầu lúc mấy giờ.",
+      "targetGrammar": "〜か（embedded question）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Câu hỏi nhúng (cái gì, ở đâu, ai, v.v.)",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜か（embedded question）」 mang ý nghĩa: \"Câu hỏi nhúng (cái gì, ở đâu, ai, v.v.)\"."
+    },
+    {
+      "id": "bunpou-n4-ka-embedded-question-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "どこで財布をなくしたか、覚えていません。",
+      "sentenceVi": "Tôi không nhớ mình đã đánh rơi ví ở đâu.",
+      "targetGrammar": "〜か（embedded question）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜か（embedded question）",
+        "〜てくださる / 〜ていただく",
+        "〜ていく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi không nhớ mình đã đánh rơi ví ở đâu.\", ta sử dụng mẫu 「〜か（embedded question）」."
+    },
+    {
+      "id": "bunpou-n4-ka-embedded-question-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "誰が窓を割ったか、知っていますか。",
+      "sentenceVi": "Bạn có biết ai đã phá vỡ cửa sổ không?",
+      "targetGrammar": "〜か（embedded question）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Câu hỏi nhúng (cái gì, ở đâu, ai, v.v.)",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜か（embedded question）」 mang ý nghĩa: \"Câu hỏi nhúng (cái gì, ở đâu, ai, v.v.)\"."
+    },
+    {
+      "id": "bunpou-n4-ka-embedded-question-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "会議が何時に始まるか、教えてください。",
+      "sentenceVi": "Xin vui lòng cho tôi biết cuộc họp bắt đầu lúc mấy giờ.",
+      "targetGrammar": "〜か（embedded question）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Câu hỏi nhúng (cái gì, ở đâu, ai, v.v.)\":",
+      "options": [
+        "〜てみる",
+        "〜か（embedded question）",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜か（embedded question）」."
+    },
+    {
+      "id": "bunpou-n4-ka-embedded-question-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "会議が何時に始まるか、教えてください。",
+      "sentenceVi": "Xin vui lòng cho tôi biết cuộc họp bắt đầu lúc mấy giờ.",
+      "targetGrammar": "〜か（embedded question）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜か（embedded question）」 là gì?",
+      "options": [
+        "Câu hỏi nhúng (cái gì, ở đâu, ai, v.v.)",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜か（embedded question）」 có nghĩa là: Câu hỏi nhúng (cái gì, ở đâu, ai, v.v.)."
+    }
+  ]
+}

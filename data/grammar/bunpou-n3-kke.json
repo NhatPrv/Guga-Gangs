@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-kke",
+  "level": "N3",
+  "pattern": "〜っけ",
+  "title": "〜っけ",
+  "meaning": "Phải không?; tôi phải không?; (cố nhớ lại)",
+  "meaningVi": "Phải không?; tôi phải không?; (cố nhớ lại)",
+  "connection": "Động từ (V)-ta / Danh từ (N) + だ / Danh từ (N) + だった + っけ",
+  "usageNotes": "Kiểm tra điều gì đó bạn đã quên hoặc nhớ lại quá khứ một cách trìu mến (〜たっけ). Hình thức lịch sự: 〜でしたっけ, 〜ましたっけ.",
+  "examples": [
+    {
+      "ja": "あれ、会議って何時からだっけ？",
+      "furigana": "あれ、{会議|かいぎ}って{何|なん}{時|じ}からだっけ？",
+      "en": "Wait, what time does the meeting start again?",
+      "vi": "Chờ đã, mấy giờ cuộc họp lại bắt đầu?"
+    },
+    {
+      "ja": "すみません、お名前、何とおっしゃいましたっけ。",
+      "furigana": "すみません、お{名前|なまえ}、{何|なん}とおっしゃいましたっけ。",
+      "en": "I'm sorry, what did you say your name was?",
+      "vi": "Tôi xin lỗi, bạn vừa nói tên bạn là gì?"
+    },
+    {
+      "ja": "子どものころ、よくこの公園で遊んだっけ。",
+      "furigana": "{子|こ}どものころ、よくこの{公園|こうえん}で{遊|あそ}んだっけ。",
+      "en": "I used to play in this park a lot as a kid, didn't I.",
+      "vi": "Tôi đã từng chơi ở công viên này rất nhiều khi còn bé phải không."
+    }
+  ],
+  "tags": [
+    "question",
+    "recollection",
+    "casual"
+  ],
+  "unitId": "grammar-n3-unit-17",
+  "questions": [
+    {
+      "id": "bunpou-n3-kke-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "あれ、会議って何時からだっけ？",
+      "sentenceVi": "Chờ đã, mấy giờ cuộc họp lại bắt đầu?",
+      "targetGrammar": "〜っけ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Phải không?; tôi phải không?; (cố nhớ lại)",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜っけ」 mang ý nghĩa: \"Phải không?; tôi phải không?; (cố nhớ lại)\"."
+    },
+    {
+      "id": "bunpou-n3-kke-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "すみません、お名前、何とおっしゃいましたっけ。",
+      "sentenceVi": "Tôi xin lỗi, bạn vừa nói tên bạn là gì?",
+      "targetGrammar": "〜っけ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜っけ",
+        "〜ものだ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi xin lỗi, bạn vừa nói tên bạn là gì?\", ta sử dụng mẫu 「〜っけ」."
+    },
+    {
+      "id": "bunpou-n3-kke-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子どものころ、よくこの公園で遊んだっけ。",
+      "sentenceVi": "Tôi đã từng chơi ở công viên này rất nhiều khi còn bé phải không.",
+      "targetGrammar": "〜っけ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Phải không?; tôi phải không?; (cố nhớ lại)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜っけ」 mang ý nghĩa: \"Phải không?; tôi phải không?; (cố nhớ lại)\"."
+    },
+    {
+      "id": "bunpou-n3-kke-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "あれ、会議って何時からだっけ？",
+      "sentenceVi": "Chờ đã, mấy giờ cuộc họp lại bắt đầu?",
+      "targetGrammar": "〜っけ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Phải không?; tôi phải không?; (cố nhớ lại)\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことはない",
+        "〜っけ",
+        "〜ことにしている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜っけ」."
+    },
+    {
+      "id": "bunpou-n3-kke-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "あれ、会議って何時からだっけ？",
+      "sentenceVi": "Chờ đã, mấy giờ cuộc họp lại bắt đầu?",
+      "targetGrammar": "〜っけ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜っけ」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Phải không?; tôi phải không?; (cố nhớ lại)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜っけ」 có nghĩa là: Phải không?; tôi phải không?; (cố nhớ lại)."
+    }
+  ]
+}

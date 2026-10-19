@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-tara-ta",
+  "level": "N3",
+  "pattern": "〜たら〜た",
+  "title": "〜たら〜た",
+  "meaning": "Khi tôi làm A, (tôi đã tìm thấy) B; khi làm, tôi phát hiện ra",
+  "meaningVi": "Khi tôi làm A, (tôi đã tìm thấy) B; khi làm, tôi phát hiện ra",
+  "connection": "Động từ (V)-ta + ら ... Động từ (V)-ta",
+  "usageNotes": "Sau một hành động, người nói nhận thấy hoặc phát hiện ra điều gì đó. Mệnh đề thứ hai là quá khứ và nằm ngoài tầm kiểm soát của người nói. 〜と〜た là từ viết tương đương hơn.",
+  "examples": [
+    {
+      "ja": "窓を開けたら、外は一面の雪だった。",
+      "furigana": "{窓|まど}を{開|あ}けたら、{外|そと}は{一|いち}{面|めん}の{雪|ゆき}だった。",
+      "en": "When I opened the window, everything outside was covered in snow.",
+      "vi": "Khi tôi mở cửa sổ, mọi thứ bên ngoài đều bị tuyết bao phủ."
+    },
+    {
+      "ja": "久しぶりに実家に帰ったら、近所に大きなマンションが建っていた。",
+      "furigana": "{久|ひさ}しぶりに{実家|じっか}に{帰|かえ}ったら、{近所|きんじょ}に{大|おお}きなマンションが{建|た}っていた。",
+      "en": "When I went back to my parents' place for the first time in ages, I found a big apartment building had gone up nearby.",
+      "vi": "Khi tôi trở về nhà bố mẹ tôi lần đầu tiên sau nhiều năm, tôi thấy một tòa nhà chung cư lớn đã mọc lên gần đó."
+    },
+    {
+      "ja": "かばんの中を探してみたら、なくしたと思っていた鍵が出てきた。",
+      "furigana": "かばんの{中|なか}を{探|さが}してみたら、なくしたと{思|おも}っていた{鍵|かぎ}が{出|で}てきた。",
+      "en": "When I searched my bag, the key I thought I'd lost turned up.",
+      "vi": "Khi tôi lục túi, chiếc chìa khóa mà tôi tưởng đã đánh mất đã xuất hiện."
+    }
+  ],
+  "tags": [
+    "condition",
+    "surprise",
+    "sequence"
+  ],
+  "unitId": "grammar-n3-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n3-tara-ta-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "窓を開けたら、外は一面の雪だった。",
+      "sentenceVi": "Khi tôi mở cửa sổ, mọi thứ bên ngoài đều bị tuyết bao phủ.",
+      "targetGrammar": "〜たら〜た",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Khi tôi làm A, (tôi đã tìm thấy) B; khi làm, tôi phát hiện ra",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜たら〜た」 mang ý nghĩa: \"Khi tôi làm A, (tôi đã tìm thấy) B; khi làm, tôi phát hiện ra\"."
+    },
+    {
+      "id": "bunpou-n3-tara-ta-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "久しぶりに実家に帰ったら、近所に大きなマンションが建っていた。",
+      "sentenceVi": "Khi tôi trở về nhà bố mẹ tôi lần đầu tiên sau nhiều năm, tôi thấy một tòa nhà chung cư lớn đã mọc lên gần đó.",
+      "targetGrammar": "〜たら〜た",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜ものではない",
+        "〜たら〜た"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Khi tôi trở về nhà bố mẹ tôi lần đầu tiên sau nhiều năm, tôi thấy một tòa nhà chung cư lớn đã mọc lên gần đó.\", ta sử dụng mẫu 「〜たら〜た」."
+    },
+    {
+      "id": "bunpou-n3-tara-ta-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "かばんの中を探してみたら、なくしたと思っていた鍵が出てきた。",
+      "sentenceVi": "Khi tôi lục túi, chiếc chìa khóa mà tôi tưởng đã đánh mất đã xuất hiện.",
+      "targetGrammar": "〜たら〜た",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Khi tôi làm A, (tôi đã tìm thấy) B; khi làm, tôi phát hiện ra",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜たら〜た」 mang ý nghĩa: \"Khi tôi làm A, (tôi đã tìm thấy) B; khi làm, tôi phát hiện ra\"."
+    },
+    {
+      "id": "bunpou-n3-tara-ta-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "窓を開けたら、外は一面の雪だった。",
+      "sentenceVi": "Khi tôi mở cửa sổ, mọi thứ bên ngoài đều bị tuyết bao phủ.",
+      "targetGrammar": "〜たら〜た",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Khi tôi làm A, (tôi đã tìm thấy) B; khi làm, tôi phát hiện ra\":",
+      "options": [
+        "〜ことになっている",
+        "〜たら〜た",
+        "〜ことにしている",
+        "〜ことはない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜たら〜た」."
+    },
+    {
+      "id": "bunpou-n3-tara-ta-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "窓を開けたら、外は一面の雪だった。",
+      "sentenceVi": "Khi tôi mở cửa sổ, mọi thứ bên ngoài đều bị tuyết bao phủ.",
+      "targetGrammar": "〜たら〜た",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜たら〜た」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Khi tôi làm A, (tôi đã tìm thấy) B; khi làm, tôi phát hiện ra",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜たら〜た」 có nghĩa là: Khi tôi làm A, (tôi đã tìm thấy) B; khi làm, tôi phát hiện ra."
+    }
+  ]
+}

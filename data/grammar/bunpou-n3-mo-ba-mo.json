@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-mo-ba-mo",
+  "level": "N3",
+  "pattern": "〜も〜ば〜も",
+  "title": "〜も〜ば〜も",
+  "meaning": "Cả ... và ...; không chỉ ... mà còn",
+  "meaningVi": "Cả ... và ...; không chỉ ... mà còn",
+  "connection": "Danh từ (N) + も + Động từ (V)-ba + Danh từ (N) + も / Danh từ (N) + も + i-Adj stem + ければ + Danh từ (N) + も",
+  "usageNotes": "Liệt kê hai sự kiện cùng loại để nhấn mạnh; các cặp tương phản (いいときも悪いときも) rất phổ biến. So sánh 〜し, trong đó liệt kê lý do.",
+  "examples": [
+    {
+      "ja": "彼女は歌も歌えば、ピアノも弾く。",
+      "furigana": "{彼女|かのじょ}は{歌|うた}も{歌|うた}えば、ピアノも{弾|ひ}く。",
+      "en": "She both sings and plays the piano.",
+      "vi": "Cô vừa hát vừa chơi piano."
+    },
+    {
+      "ja": "この町には、海もあれば山もある。",
+      "furigana": "この{町|まち}には、{海|うみ}もあれば{山|やま}もある。",
+      "en": "This town has both the sea and the mountains.",
+      "vi": "Thị trấn này có cả biển và núi."
+    },
+    {
+      "ja": "人生には、いいときもあれば悪いときもある。",
+      "furigana": "{人生|じんせい}には、いいときもあれば{悪|わる}いときもある。",
+      "en": "In life there are good times and there are bad times.",
+      "vi": "Trong cuộc sống có những lúc tốt và có những lúc tồi tệ."
+    }
+  ],
+  "tags": [
+    "addition"
+  ],
+  "unitId": "grammar-n3-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n3-mo-ba-mo-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "彼女は歌も歌えば、ピアノも弾く。",
+      "sentenceVi": "Cô vừa hát vừa chơi piano.",
+      "targetGrammar": "〜も〜ば〜も",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Cả ... và ...; không chỉ ... mà còn",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜も〜ば〜も」 mang ý nghĩa: \"Cả ... và ...; không chỉ ... mà còn\"."
+    },
+    {
+      "id": "bunpou-n3-mo-ba-mo-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この町には、海もあれば山もある。",
+      "sentenceVi": "Thị trấn này có cả biển và núi.",
+      "targetGrammar": "〜も〜ば〜も",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜も〜ば〜も"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Thị trấn này có cả biển và núi.\", ta sử dụng mẫu 「〜も〜ば〜も」."
+    },
+    {
+      "id": "bunpou-n3-mo-ba-mo-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "人生には、いいときもあれば悪いときもある。",
+      "sentenceVi": "Trong cuộc sống có những lúc tốt và có những lúc tồi tệ.",
+      "targetGrammar": "〜も〜ば〜も",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Cả ... và ...; không chỉ ... mà còn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜も〜ば〜も」 mang ý nghĩa: \"Cả ... và ...; không chỉ ... mà còn\"."
+    },
+    {
+      "id": "bunpou-n3-mo-ba-mo-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "彼女は歌も歌えば、ピアノも弾く。",
+      "sentenceVi": "Cô vừa hát vừa chơi piano.",
+      "targetGrammar": "〜も〜ば〜も",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cả ... và ...; không chỉ ... mà còn\":",
+      "options": [
+        "〜ことになっている",
+        "〜も〜ば〜も",
+        "〜ことはない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜も〜ば〜も」."
+    },
+    {
+      "id": "bunpou-n3-mo-ba-mo-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "彼女は歌も歌えば、ピアノも弾く。",
+      "sentenceVi": "Cô vừa hát vừa chơi piano.",
+      "targetGrammar": "〜も〜ば〜も",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜も〜ば〜も」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Cả ... và ...; không chỉ ... mà còn"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜も〜ば〜も」 có nghĩa là: Cả ... và ...; không chỉ ... mà còn."
+    }
+  ]
+}

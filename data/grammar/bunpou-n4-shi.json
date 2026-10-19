@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-shi",
+  "level": "N4",
+  "pattern": "〜し",
+  "title": "〜し",
+  "meaning": "Và hơn thế nữa; và bên cạnh đó (liệt kê lý do)",
+  "meaningVi": "Và hơn thế nữa; và bên cạnh đó (liệt kê lý do)",
+  "connection": "Động từ (V)-plain / i-Adj + し / na-Adj + だ + し / Danh từ (N) + だ + し",
+  "usageNotes": "Liệt kê một số lý do hoặc điểm. Một chữ し gợi ý rằng còn có những lý do khác.",
+  "examples": [
+    {
+      "ja": "この部屋は広いし、駅から近いし、とても気に入っています。",
+      "furigana": "この{部屋|へや}は{広|ひろ}いし、{駅|えき}から{近|ちか}いし、とても{気|き}に{入|い}っています。",
+      "en": "This apartment is spacious and close to the station, so I really like it.",
+      "vi": "Căn hộ này rộng rãi và gần ga nên mình rất thích."
+    },
+    {
+      "ja": "今日は雨だし、疲れているし、どこにも行きたくない。",
+      "furigana": "{今日|きょう}は{雨|あめ}だし、{疲|つか}れているし、どこにも{行|い}きたくない。",
+      "en": "It's raining and I'm tired, so I don't want to go anywhere today.",
+      "vi": "Trời mưa và tôi mệt nên hôm nay tôi không muốn đi đâu cả."
+    },
+    {
+      "ja": "もう遅いし、そろそろ帰ろうか。",
+      "furigana": "もう{遅|おそ}いし、そろそろ{帰|かえ}ろうか。",
+      "en": "It's getting late, so shall we head home?",
+      "vi": "Cũng muộn rồi, chúng ta về nhà nhé?"
+    }
+  ],
+  "tags": [
+    "reason",
+    "addition"
+  ],
+  "unitId": "grammar-n4-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n4-shi-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この部屋は広いし、駅から近いし、とても気に入っています。",
+      "sentenceVi": "Căn hộ này rộng rãi và gần ga nên mình rất thích.",
+      "targetGrammar": "〜し",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Và hơn thế nữa; và bên cạnh đó (liệt kê lý do)",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜し」 mang ý nghĩa: \"Và hơn thế nữa; và bên cạnh đó (liệt kê lý do)\"."
+    },
+    {
+      "id": "bunpou-n4-shi-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は雨だし、疲れているし、どこにも行きたくない。",
+      "sentenceVi": "Trời mưa và tôi mệt nên hôm nay tôi không muốn đi đâu cả.",
+      "targetGrammar": "〜し",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜し"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Trời mưa và tôi mệt nên hôm nay tôi không muốn đi đâu cả.\", ta sử dụng mẫu 「〜し」."
+    },
+    {
+      "id": "bunpou-n4-shi-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "もう遅いし、そろそろ帰ろうか。",
+      "sentenceVi": "Cũng muộn rồi, chúng ta về nhà nhé?",
+      "targetGrammar": "〜し",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Và hơn thế nữa; và bên cạnh đó (liệt kê lý do)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜し」 mang ý nghĩa: \"Và hơn thế nữa; và bên cạnh đó (liệt kê lý do)\"."
+    },
+    {
+      "id": "bunpou-n4-shi-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この部屋は広いし、駅から近いし、とても気に入っています。",
+      "sentenceVi": "Căn hộ này rộng rãi và gần ga nên mình rất thích.",
+      "targetGrammar": "〜し",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Và hơn thế nữa; và bên cạnh đó (liệt kê lý do)\":",
+      "options": [
+        "〜てみる",
+        "〜てある",
+        "〜し",
+        "〜とき"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜し」."
+    },
+    {
+      "id": "bunpou-n4-shi-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この部屋は広いし、駅から近いし、とても気に入っています。",
+      "sentenceVi": "Căn hộ này rộng rãi và gần ga nên mình rất thích.",
+      "targetGrammar": "〜し",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜し」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Và hơn thế nữa; và bên cạnh đó (liệt kê lý do)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜し」 có nghĩa là: Và hơn thế nữa; và bên cạnh đó (liệt kê lý do)."
+    }
+  ]
+}

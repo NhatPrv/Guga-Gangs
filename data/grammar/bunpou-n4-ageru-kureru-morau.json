@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-ageru-kureru-morau",
+  "level": "N4",
+  "pattern": "あげる / くれる / もらう",
+  "title": "あげる / くれる / もらう",
+  "meaning": "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+  "meaningVi": "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+  "connection": "Danh từ (N) (receiver) + に + Danh từ (N) + を + あげる / Danh từ (N) (giver) + が + Danh từ (N) + を + くれる / Danh từ (N) (giver) + に + Danh từ (N) + を + もらう",
+  "usageNotes": "くれる chỉ được sử dụng khi người nhận là người nói hoặc ai đó trong nhóm người nói. Với もらう người tặng có thể được đánh dấu bằng に hoặc から.",
+  "examples": [
+    {
+      "ja": "私は弟に古いゲームをあげた。",
+      "furigana": "{私|わたし}は{弟|おとうと}に{古|ふる}いゲームをあげた。",
+      "en": "I gave my old game to my little brother.",
+      "vi": "Tôi đã đưa trò chơi cũ của mình cho em trai tôi."
+    },
+    {
+      "ja": "姉が誕生日にかわいいかばんをくれました。",
+      "furigana": "{姉|あね}が{誕生|たんじょう}{日|び}にかわいいかばんをくれました。",
+      "en": "My older sister gave me a cute bag for my birthday.",
+      "vi": "Chị gái tôi đã tặng tôi một chiếc túi dễ thương nhân dịp sinh nhật."
+    },
+    {
+      "ja": "友達から旅行のおみやげをもらった。",
+      "furigana": "{友達|ともだち}から{旅行|りょこう}のおみやげをもらった。",
+      "en": "I got a souvenir from my friend's trip.",
+      "vi": "Tôi có một món quà lưu niệm từ chuyến đi của bạn tôi."
+    }
+  ],
+  "tags": [
+    "giving-receiving"
+  ],
+  "unitId": "grammar-n4-unit-01",
+  "questions": [
+    {
+      "id": "bunpou-n4-ageru-kureru-morau-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は弟に古いゲームをあげた。",
+      "sentenceVi": "Tôi đã đưa trò chơi cũ của mình cho em trai tôi.",
+      "targetGrammar": "あげる / くれる / もらう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Được ai đó làm giúp cho việc gì...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「あげる / くれる / もらう」 mang ý nghĩa: \"Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được\"."
+    },
+    {
+      "id": "bunpou-n4-ageru-kureru-morau-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "姉が誕生日にかわいいかばんをくれました。",
+      "sentenceVi": "Chị gái tôi đã tặng tôi một chiếc túi dễ thương nhân dịp sinh nhật.",
+      "targetGrammar": "あげる / くれる / もらう",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "あげる / くれる / もらう",
+        "〜てくる",
+        "〜てくださる / 〜ていただく",
+        "〜ていく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Chị gái tôi đã tặng tôi một chiếc túi dễ thương nhân dịp sinh nhật.\", ta sử dụng mẫu 「あげる / くれる / もらう」."
+    },
+    {
+      "id": "bunpou-n4-ageru-kureru-morau-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "友達から旅行のおみやげをもらった。",
+      "sentenceVi": "Tôi có một món quà lưu niệm từ chuyến đi của bạn tôi.",
+      "targetGrammar": "あげる / くれる / もらう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Thử làm gì đó..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「あげる / くれる / もらう」 mang ý nghĩa: \"Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được\"."
+    },
+    {
+      "id": "bunpou-n4-ageru-kureru-morau-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私は弟に古いゲームをあげた。",
+      "sentenceVi": "Tôi đã đưa trò chơi cũ của mình cho em trai tôi.",
+      "targetGrammar": "あげる / くれる / もらう",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được\":",
+      "options": [
+        "〜てある",
+        "〜間 / 〜間に",
+        "あげる / くれる / もらう",
+        "〜とき"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「あげる / くれる / もらう」."
+    },
+    {
+      "id": "bunpou-n4-ageru-kureru-morau-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は弟に古いゲームをあげた。",
+      "sentenceVi": "Tôi đã đưa trò chơi cũ của mình cho em trai tôi.",
+      "targetGrammar": "あげる / くれる / もらう",
+      "prompt": "Ý nghĩa chính của cấu trúc 「あげる / くれる / もらう」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「あげる / くれる / もらう」 có nghĩa là: Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được."
+    }
+  ]
+}

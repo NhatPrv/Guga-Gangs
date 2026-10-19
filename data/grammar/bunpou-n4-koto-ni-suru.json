@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-koto-ni-suru",
+  "level": "N4",
+  "pattern": "〜ことにする",
+  "title": "〜ことにする",
+  "meaning": "Quyết định làm gì đó...",
+  "meaningVi": "Quyết định làm gì đó...",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + ことにする",
+  "usageNotes": "Một quyết định của người nói; so sánh 〜ことになる. 〜ことにしている (N3) có nghĩa là 'đặt nó thành quy tắc'.",
+  "examples": [
+    {
+      "ja": "健康のために、毎朝歩くことにした。",
+      "furigana": "{健康|けんこう}のために、{毎朝|まいあさ}{歩|ある}くことにした。",
+      "en": "I decided to walk every morning for my health.",
+      "vi": "Tôi quyết định đi bộ mỗi sáng vì sức khỏe của mình."
+    },
+    {
+      "ja": "高かったので、買わないことにしました。",
+      "furigana": "{高|たか}かったので、{買|か}わないことにしました。",
+      "en": "It was expensive, so I decided not to buy it.",
+      "vi": "Nó đắt nên tôi quyết định không mua."
+    },
+    {
+      "ja": "もう遅いから、タクシーで帰ることにしよう。",
+      "furigana": "もう{遅|おそ}いから、タクシーで{帰|かえ}ることにしよう。",
+      "en": "It's already late, so let's take a taxi home.",
+      "vi": "Bây giờ đã muộn rồi, hãy bắt taxi về nhà thôi."
+    }
+  ],
+  "tags": [
+    "decision"
+  ],
+  "unitId": "grammar-n4-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n4-koto-ni-suru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "健康のために、毎朝歩くことにした。",
+      "sentenceVi": "Tôi quyết định đi bộ mỗi sáng vì sức khỏe của mình.",
+      "targetGrammar": "〜ことにする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Quyết định làm gì đó...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ことにする」 mang ý nghĩa: \"Quyết định làm gì đó...\"."
+    },
+    {
+      "id": "bunpou-n4-koto-ni-suru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "高かったので、買わないことにしました。",
+      "sentenceVi": "Nó đắt nên tôi quyết định không mua.",
+      "targetGrammar": "〜ことにする",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜ことにする",
+        "〜てくださる / 〜ていただく",
+        "〜ていく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Nó đắt nên tôi quyết định không mua.\", ta sử dụng mẫu 「〜ことにする」."
+    },
+    {
+      "id": "bunpou-n4-koto-ni-suru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "もう遅いから、タクシーで帰ることにしよう。",
+      "sentenceVi": "Bây giờ đã muộn rồi, hãy bắt taxi về nhà thôi.",
+      "targetGrammar": "〜ことにする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Quyết định làm gì đó...",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ことにする」 mang ý nghĩa: \"Quyết định làm gì đó...\"."
+    },
+    {
+      "id": "bunpou-n4-koto-ni-suru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "健康のために、毎朝歩くことにした。",
+      "sentenceVi": "Tôi quyết định đi bộ mỗi sáng vì sức khỏe của mình.",
+      "targetGrammar": "〜ことにする",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Quyết định làm gì đó...\":",
+      "options": [
+        "〜てみる",
+        "〜とき",
+        "〜ことにする",
+        "〜てある"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ことにする」."
+    },
+    {
+      "id": "bunpou-n4-koto-ni-suru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "健康のために、毎朝歩くことにした。",
+      "sentenceVi": "Tôi quyết định đi bộ mỗi sáng vì sức khỏe của mình.",
+      "targetGrammar": "〜ことにする",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ことにする」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Quyết định làm gì đó..."
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ことにする」 có nghĩa là: Quyết định làm gì đó...."
+    }
+  ]
+}

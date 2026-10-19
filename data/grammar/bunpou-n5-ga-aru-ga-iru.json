@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ga-aru-ga-iru",
+  "level": "N5",
+  "pattern": "〜がある / 〜がいる",
+  "title": "〜がある / 〜がいる",
+  "meaning": "Có; có; có (ある cho đồ vật, いる cho người và động vật)",
+  "meaningVi": "Có; có; có (ある cho đồ vật, いる cho người và động vật)",
+  "connection": "Danh từ (N) + がある / Danh từ (N) + がいる",
+  "usageNotes": "ある dùng để chỉ đồ vật, thực vật và sự kiện; いる dành cho người và động vật. Phủ định: ない / いない (lịch sự: ありません / いません).",
+  "examples": [
+    {
+      "ja": "公園に大きい木があります。",
+      "furigana": "{公園|こうえん}に{大|おお}きい{木|き}があります。",
+      "en": "There is a big tree in the park.",
+      "vi": "Có một cái cây lớn trong công viên."
+    },
+    {
+      "ja": "私は妹が一人います。",
+      "furigana": "{私|わたし}は{妹|いもうと}が{一人|ひとり}います。",
+      "en": "I have one younger sister.",
+      "vi": "Tôi có một em gái."
+    },
+    {
+      "ja": "明日、日本語のテストがあります。",
+      "furigana": "{明日|あした}、{日本語|にほんご}のテストがあります。",
+      "en": "There's a Japanese test tomorrow.",
+      "vi": "Ngày mai có bài kiểm tra tiếng Nhật."
+    }
+  ],
+  "tags": [
+    "state"
+  ],
+  "unitId": "grammar-n5-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n5-ga-aru-ga-iru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "公園に大きい木があります。",
+      "sentenceVi": "Có một cái cây lớn trong công viên.",
+      "targetGrammar": "〜がある / 〜がいる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Có; có; có (ある cho đồ vật, いる cho người và động vật)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜がある / 〜がいる」 mang ý nghĩa: \"Có; có; có (ある cho đồ vật, いる cho người và động vật)\"."
+    },
+    {
+      "id": "bunpou-n5-ga-aru-ga-iru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私は妹が一人います。",
+      "sentenceVi": "Tôi có một em gái.",
+      "targetGrammar": "〜がある / 〜がいる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜に（time）",
+        "〜がある / 〜がいる",
+        "〜に（destination）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi có một em gái.\", ta sử dụng mẫu 「〜がある / 〜がいる」."
+    },
+    {
+      "id": "bunpou-n5-ga-aru-ga-iru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日、日本語のテストがあります。",
+      "sentenceVi": "Ngày mai có bài kiểm tra tiếng Nhật.",
+      "targetGrammar": "〜がある / 〜がいる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Có; có; có (ある cho đồ vật, いる cho người và động vật)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜がある / 〜がいる」 mang ý nghĩa: \"Có; có; có (ある cho đồ vật, いる cho người và động vật)\"."
+    },
+    {
+      "id": "bunpou-n5-ga-aru-ga-iru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "公園に大きい木があります。",
+      "sentenceVi": "Có một cái cây lớn trong công viên.",
+      "targetGrammar": "〜がある / 〜がいる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có; có; có (ある cho đồ vật, いる cho người và động vật)\":",
+      "options": [
+        "〜と（and）",
+        "〜で（means）",
+        "〜で（place of action）",
+        "〜がある / 〜がいる"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜がある / 〜がいる」."
+    },
+    {
+      "id": "bunpou-n5-ga-aru-ga-iru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "公園に大きい木があります。",
+      "sentenceVi": "Có một cái cây lớn trong công viên.",
+      "targetGrammar": "〜がある / 〜がいる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜がある / 〜がいる」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Có; có; có (ある cho đồ vật, いる cho người và động vật)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜がある / 〜がいる」 có nghĩa là: Có; có; có (ある cho đồ vật, いる cho người và động vật)."
+    }
+  ]
+}

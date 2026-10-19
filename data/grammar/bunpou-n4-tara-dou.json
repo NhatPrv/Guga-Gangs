@@ -1,0 +1,111 @@
+{
+  "id": "bunpou-n4-tara-dou",
+  "level": "N4",
+  "pattern": "〜たらどう",
+  "title": "〜たらどう",
+  "meaning": "Tại sao bạn không ...?; bạn nghĩ thế nào về ...?",
+  "meaningVi": "Tại sao bạn không ...?; bạn nghĩ thế nào về ...?",
+  "connection": "Động từ (V)-ta + らどう",
+  "usageNotes": "Thường được rút gọn thành 〜たら？. Có thể tỏ ra tự đề cao cấp trên; 〜たらいかがですか là phiên bản lịch sự.",
+  "examples": [
+    {
+      "ja": "疲れているなら、少し休んだらどう？",
+      "furigana": "{疲|つか}れているなら、{少|すこ}し{休|やす}んだらどう？",
+      "en": "If you're tired, why not rest a bit?",
+      "vi": "Nếu mệt mỏi, tại sao không nghỉ ngơi một chút?"
+    },
+    {
+      "ja": "分からなければ、先生に聞いてみたらどうですか。",
+      "furigana": "{分|わ}からなければ、{先生|せんせい}に{聞|き}いてみたらどうですか。",
+      "en": "If you don't understand, why don't you try asking the teacher?",
+      "vi": "Nếu bạn không hiểu, tại sao bạn không thử hỏi giáo viên?"
+    }
+  ],
+  "tags": [
+    "suggestion",
+    "advice"
+  ],
+  "unitId": "grammar-n4-unit-18",
+  "questions": [
+    {
+      "id": "bunpou-n4-tara-dou-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "疲れているなら、少し休んだらどう？",
+      "sentenceVi": "Nếu mệt mỏi, tại sao không nghỉ ngơi một chút?",
+      "targetGrammar": "〜たらどう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tại sao bạn không ...?; bạn nghĩ thế nào về ...?",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜たらどう」 mang ý nghĩa: \"Tại sao bạn không ...?; bạn nghĩ thế nào về ...?\"."
+    },
+    {
+      "id": "bunpou-n4-tara-dou-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "分からなければ、先生に聞いてみたらどうですか。",
+      "sentenceVi": "Nếu bạn không hiểu, tại sao bạn không thử hỏi giáo viên?",
+      "targetGrammar": "〜たらどう",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜たらどう",
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Nếu bạn không hiểu, tại sao bạn không thử hỏi giáo viên?\", ta sử dụng mẫu 「〜たらどう」."
+    },
+    {
+      "id": "bunpou-n4-tara-dou-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "疲れているなら、少し休んだらどう？",
+      "sentenceVi": "Nếu mệt mỏi, tại sao không nghỉ ngơi một chút?",
+      "targetGrammar": "〜たらどう",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜たらどう」 là gì?",
+      "options": [
+        "Tại sao bạn không ...?; bạn nghĩ thế nào về ...?",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜たらどう」 có nghĩa là: Tại sao bạn không ...?; bạn nghĩ thế nào về ...?."
+    },
+    {
+      "id": "bunpou-n4-tara-dou-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "疲れているなら、少し休んだらどう？",
+      "sentenceVi": "Nếu mệt mỏi, tại sao không nghỉ ngơi một chút?",
+      "targetGrammar": "〜たらどう",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tại sao bạn không ...?; bạn nghĩ thế nào về ...?\":",
+      "options": [
+        "〜てある",
+        "〜たらどう",
+        "〜てみる",
+        "〜とき"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜たらどう」."
+    },
+    {
+      "id": "bunpou-n4-tara-dou-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "疲れているなら、少し休んだらどう？",
+      "sentenceVi": "Nếu mệt mỏi, tại sao không nghỉ ngơi một chút?",
+      "targetGrammar": "〜たらどう",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜たらどう」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Tại sao bạn không ...?; bạn nghĩ thế nào về ...?",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜たらどう」 có nghĩa là: Tại sao bạn không ...?; bạn nghĩ thế nào về ...?."
+    }
+  ]
+}

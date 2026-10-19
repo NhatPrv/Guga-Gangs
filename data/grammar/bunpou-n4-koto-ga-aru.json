@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-koto-ga-aru",
+  "level": "N4",
+  "pattern": "〜ことがある",
+  "title": "〜ことがある",
+  "meaning": "Đôi khi; có những lúc",
+  "meaningVi": "Đôi khi; có những lúc",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + ことがある",
+  "usageNotes": "Sử dụng từ điển hoặc dạng ない. Với dạng quá khứ (〜たことがある) nó có nghĩa là 'đã từng làm trước đây'.",
+  "examples": [
+    {
+      "ja": "忙しいときは、朝ご飯を食べないことがあります。",
+      "furigana": "{忙|いそが}しいときは、{朝|あさ}ご{飯|はん}を{食|た}べないことがあります。",
+      "en": "When I'm busy, I sometimes skip breakfast.",
+      "vi": "Khi bận rộn, đôi khi tôi bỏ bữa sáng."
+    },
+    {
+      "ja": "この道は冬になると、雪で通れなくなることがある。",
+      "furigana": "この{道|みち}は{冬|ふゆ}になると、{雪|ゆき}で{通|とお}れなくなることがある。",
+      "en": "In winter, this road sometimes becomes impassable because of snow.",
+      "vi": "Vào mùa đông, con đường này đôi khi trở nên tắc nghẽn vì tuyết."
+    },
+    {
+      "ja": "週末は家族で料理をすることがある。",
+      "furigana": "{週末|しゅうまつ}は{家族|かぞく}で{料理|りょうり}をすることがある。",
+      "en": "On weekends, my family sometimes cooks together.",
+      "vi": "Vào cuối tuần, gia đình tôi thỉnh thoảng cùng nhau nấu ăn."
+    }
+  ],
+  "tags": [
+    "tendency",
+    "time"
+  ],
+  "unitId": "grammar-n4-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n4-koto-ga-aru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "忙しいときは、朝ご飯を食べないことがあります。",
+      "sentenceVi": "Khi bận rộn, đôi khi tôi bỏ bữa sáng.",
+      "targetGrammar": "〜ことがある",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Đôi khi; có những lúc"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ことがある」 mang ý nghĩa: \"Đôi khi; có những lúc\"."
+    },
+    {
+      "id": "bunpou-n4-koto-ga-aru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この道は冬になると、雪で通れなくなることがある。",
+      "sentenceVi": "Vào mùa đông, con đường này đôi khi trở nên tắc nghẽn vì tuyết.",
+      "targetGrammar": "〜ことがある",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜ことがある",
+        "〜てもらう",
+        "〜ていく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Vào mùa đông, con đường này đôi khi trở nên tắc nghẽn vì tuyết.\", ta sử dụng mẫu 「〜ことがある」."
+    },
+    {
+      "id": "bunpou-n4-koto-ga-aru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "週末は家族で料理をすることがある。",
+      "sentenceVi": "Vào cuối tuần, gia đình tôi thỉnh thoảng cùng nhau nấu ăn.",
+      "targetGrammar": "〜ことがある",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Đôi khi; có những lúc"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ことがある」 mang ý nghĩa: \"Đôi khi; có những lúc\"."
+    },
+    {
+      "id": "bunpou-n4-koto-ga-aru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "忙しいときは、朝ご飯を食べないことがあります。",
+      "sentenceVi": "Khi bận rộn, đôi khi tôi bỏ bữa sáng.",
+      "targetGrammar": "〜ことがある",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đôi khi; có những lúc\":",
+      "options": [
+        "〜てみる",
+        "〜とき",
+        "〜てある",
+        "〜ことがある"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜ことがある」."
+    },
+    {
+      "id": "bunpou-n4-koto-ga-aru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "忙しいときは、朝ご飯を食べないことがあります。",
+      "sentenceVi": "Khi bận rộn, đôi khi tôi bỏ bữa sáng.",
+      "targetGrammar": "〜ことがある",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ことがある」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Đôi khi; có những lúc",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ことがある」 có nghĩa là: Đôi khi; có những lúc."
+    }
+  ]
+}

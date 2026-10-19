@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n4-mitai",
+  "level": "N4",
+  "pattern": "〜みたい",
+  "title": "〜みたい",
+  "meaning": "Có vẻ như; trông giống như; thích (thông thường)",
+  "meaningVi": "Có vẻ như; trông giống như; thích (thông thường)",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + みたい",
+  "usageNotes": "Thông thường tương đương với ようだ. Nó gắn trực tiếp vào danh từ và tính từ na (静かみたい) mà không cần な hoặc の. Trước danh từ nó trở thành みたいな.",
+  "examples": [
+    {
+      "ja": "隣の部屋に誰か来たみたい。",
+      "furigana": "{隣|となり}の{部屋|へや}に{誰|だれ}か{来|き}たみたい。",
+      "en": "Sounds like someone has come to the room next door.",
+      "vi": "Hình như có người sang phòng bên cạnh."
+    },
+    {
+      "ja": "今日の彼女は元気がないみたいだね。",
+      "furigana": "{今日|きょう}の{彼女|かのじょ}は{元気|げんき}がないみたいだね。",
+      "en": "She doesn't seem very cheerful today, does she?",
+      "vi": "Hôm nay cô ấy có vẻ không vui lắm nhỉ?"
+    },
+    {
+      "ja": "このケーキ、お店のケーキみたい！",
+      "furigana": "このケーキ、お{店|みせ}のケーキみたい！",
+      "en": "This cake is just like a store-bought one!",
+      "vi": "Chiếc bánh này giống như một chiếc bánh mua ở cửa hàng!"
+    }
+  ],
+  "tags": [
+    "conjecture",
+    "appearance",
+    "casual"
+  ],
+  "unitId": "grammar-n4-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n4-mitai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "隣の部屋に誰か来たみたい。",
+      "sentenceVi": "Hình như có người sang phòng bên cạnh.",
+      "targetGrammar": "〜みたい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Có vẻ như; trông giống như; thích (thông thường)",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜みたい」 mang ý nghĩa: \"Có vẻ như; trông giống như; thích (thông thường)\"."
+    },
+    {
+      "id": "bunpou-n4-mitai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日の彼女は元気がないみたいだね。",
+      "sentenceVi": "Hôm nay cô ấy có vẻ không vui lắm nhỉ?",
+      "targetGrammar": "〜みたい",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜みたい",
+        "〜ていく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Hôm nay cô ấy có vẻ không vui lắm nhỉ?\", ta sử dụng mẫu 「〜みたい」."
+    },
+    {
+      "id": "bunpou-n4-mitai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このケーキ、お店のケーキみたい！",
+      "sentenceVi": "Chiếc bánh này giống như một chiếc bánh mua ở cửa hàng!",
+      "targetGrammar": "〜みたい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Có vẻ như; trông giống như; thích (thông thường)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜みたい」 mang ý nghĩa: \"Có vẻ như; trông giống như; thích (thông thường)\"."
+    },
+    {
+      "id": "bunpou-n4-mitai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "隣の部屋に誰か来たみたい。",
+      "sentenceVi": "Hình như có người sang phòng bên cạnh.",
+      "targetGrammar": "〜みたい",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có vẻ như; trông giống như; thích (thông thường)\":",
+      "options": [
+        "〜とき",
+        "〜てある",
+        "〜みたい",
+        "〜てみる"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜みたい」."
+    },
+    {
+      "id": "bunpou-n4-mitai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "隣の部屋に誰か来たみたい。",
+      "sentenceVi": "Hình như có người sang phòng bên cạnh.",
+      "targetGrammar": "〜みたい",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜みたい」 là gì?",
+      "options": [
+        "Có vẻ như; trông giống như; thích (thông thường)",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜みたい」 có nghĩa là: Có vẻ như; trông giống như; thích (thông thường)."
+    }
+  ]
+}

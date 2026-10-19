@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-okage-de",
+  "level": "N3",
+  "pattern": "〜おかげで",
+  "title": "〜おかげで",
+  "meaning": "Nhờ có... (Kết quả tốt đẹp)",
+  "meaningVi": "Nhờ có... (Kết quả tốt đẹp)",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + おかげで",
+  "usageNotes": "Nguyên nhân của một kết quả tốt đẹp, với một cảm giác biết ơn. Đôi khi dùng với ý mỉa mai khi mang lại kết quả xấu (君のおかげで遅刻したよ). So sánh 〜せいで (đổ lỗi).",
+  "examples": [
+    {
+      "ja": "先輩が手伝ってくれたおかげで、仕事が早く終わった。",
+      "furigana": "{先輩|せんぱい}が{手伝|てつだ}ってくれたおかげで、{仕事|しごと}が{早|はや}く{終|お}わった。",
+      "en": "Thanks to my senior colleague's help, the work was finished early.",
+      "vi": "Nhờ sự giúp đỡ của đồng nghiệp cấp trên nên công việc đã hoàn thành sớm."
+    },
+    {
+      "ja": "薬が効いたおかげで、熱が下がった。",
+      "furigana": "{薬|くすり}が{効|き}いたおかげで、{熱|ねつ}が{下|さ}がった。",
+      "en": "Thanks to the medicine, my fever went down.",
+      "vi": "Nhờ có thuốc mà cơn sốt của tôi đã giảm."
+    },
+    {
+      "ja": "駅が近いおかげで、雨の日も楽に通勤できる。",
+      "furigana": "{駅|えき}が{近|ちか}いおかげで、{雨|あめ}の{日|ひ}も{楽|らく}に{通勤|つうきん}できる。",
+      "en": "Because the station is close by, commuting is easy even on rainy days.",
+      "vi": "Vì gần nhà ga nên việc đi lại rất dễ dàng ngay cả trong những ngày mưa."
+    }
+  ],
+  "tags": [
+    "reason",
+    "result",
+    "emotion"
+  ],
+  "unitId": "grammar-n3-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n3-okage-de-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "先輩が手伝ってくれたおかげで、仕事が早く終わった。",
+      "sentenceVi": "Nhờ sự giúp đỡ của đồng nghiệp cấp trên nên công việc đã hoàn thành sớm.",
+      "targetGrammar": "〜おかげで",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Nhờ có... (Kết quả tốt đẹp)",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜おかげで」 mang ý nghĩa: \"Nhờ có... (Kết quả tốt đẹp)\"."
+    },
+    {
+      "id": "bunpou-n3-okage-de-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "薬が効いたおかげで、熱が下がった。",
+      "sentenceVi": "Nhờ có thuốc mà cơn sốt của tôi đã giảm.",
+      "targetGrammar": "〜おかげで",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜おかげで",
+        "〜ものだ",
+        "〜ものではない",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Nhờ có thuốc mà cơn sốt của tôi đã giảm.\", ta sử dụng mẫu 「〜おかげで」."
+    },
+    {
+      "id": "bunpou-n3-okage-de-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅が近いおかげで、雨の日も楽に通勤できる。",
+      "sentenceVi": "Vì gần nhà ga nên việc đi lại rất dễ dàng ngay cả trong những ngày mưa.",
+      "targetGrammar": "〜おかげで",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nhờ có... (Kết quả tốt đẹp)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜おかげで」 mang ý nghĩa: \"Nhờ có... (Kết quả tốt đẹp)\"."
+    },
+    {
+      "id": "bunpou-n3-okage-de-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "先輩が手伝ってくれたおかげで、仕事が早く終わった。",
+      "sentenceVi": "Nhờ sự giúp đỡ của đồng nghiệp cấp trên nên công việc đã hoàn thành sớm.",
+      "targetGrammar": "〜おかげで",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nhờ có... (Kết quả tốt đẹp)\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことになっている",
+        "〜ことはない",
+        "〜おかげで"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜おかげで」."
+    },
+    {
+      "id": "bunpou-n3-okage-de-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "先輩が手伝ってくれたおかげで、仕事が早く終わった。",
+      "sentenceVi": "Nhờ sự giúp đỡ của đồng nghiệp cấp trên nên công việc đã hoàn thành sớm.",
+      "targetGrammar": "〜おかげで",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜おかげで」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Nhờ có... (Kết quả tốt đẹp)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜おかげで」 có nghĩa là: Nhờ có... (Kết quả tốt đẹp)."
+    }
+  ]
+}

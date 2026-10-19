@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-de-mo-suggestion",
+  "level": "N4",
+  "pattern": "〜でも（suggestion）",
+  "title": "〜でも（suggestion）",
+  "meaning": "Hoặc cái gì đó (làm dịu đi một lời đề nghị)",
+  "meaningVi": "Hoặc cái gì đó (làm dịu đi một lời đề nghị)",
+  "connection": "Danh từ (N) + でも",
+  "usageNotes": "Đưa ra một ví dụ trong khi vẫn để ngỏ các tùy chọn khác, điều này làm cho lời mời và lời khuyên nghe có vẻ ít thuyết phục hơn.",
+  "examples": [
+    {
+      "ja": "ちょっと休んで、コーヒーでも飲みませんか。",
+      "furigana": "ちょっと{休|やす}んで、コーヒーでも{飲|の}みませんか。",
+      "en": "Why don't we take a break and have a coffee or something?",
+      "vi": "Sao chúng ta không nghỉ ngơi và uống cà phê hay gì đó nhỉ?"
+    },
+    {
+      "ja": "雨だから、家でゲームでもしよう。",
+      "furigana": "{雨|あめ}だから、{家|いえ}でゲームでもしよう。",
+      "en": "It's raining, so let's play a game or something at home.",
+      "vi": "Trời đang mưa nên chúng ta hãy chơi trò chơi hoặc trò gì đó ở nhà nhé."
+    },
+    {
+      "ja": "暇なら、本でも読んだら？",
+      "furigana": "{暇|ひま}なら、{本|ほん}でも{読|よ}んだら？",
+      "en": "If you're bored, why not read a book or something?",
+      "vi": "Nếu bạn buồn chán, tại sao không đọc một cuốn sách hay thứ gì đó?"
+    }
+  ],
+  "tags": [
+    "suggestion",
+    "example"
+  ],
+  "unitId": "grammar-n4-unit-18",
+  "questions": [
+    {
+      "id": "bunpou-n4-de-mo-suggestion-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ちょっと休んで、コーヒーでも飲みませんか。",
+      "sentenceVi": "Sao chúng ta không nghỉ ngơi và uống cà phê hay gì đó nhỉ?",
+      "targetGrammar": "〜でも（suggestion）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai...",
+        "Hoặc cái gì đó (làm dịu đi một lời đề nghị)",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜でも（suggestion）」 mang ý nghĩa: \"Hoặc cái gì đó (làm dịu đi một lời đề nghị)\"."
+    },
+    {
+      "id": "bunpou-n4-de-mo-suggestion-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "雨だから、家でゲームでもしよう。",
+      "sentenceVi": "Trời đang mưa nên chúng ta hãy chơi trò chơi hoặc trò gì đó ở nhà nhé.",
+      "targetGrammar": "〜でも（suggestion）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜でも（suggestion）",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Trời đang mưa nên chúng ta hãy chơi trò chơi hoặc trò gì đó ở nhà nhé.\", ta sử dụng mẫu 「〜でも（suggestion）」."
+    },
+    {
+      "id": "bunpou-n4-de-mo-suggestion-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "暇なら、本でも読んだら？",
+      "sentenceVi": "Nếu bạn buồn chán, tại sao không đọc một cuốn sách hay thứ gì đó?",
+      "targetGrammar": "〜でも（suggestion）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Hoặc cái gì đó (làm dịu đi một lời đề nghị)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜でも（suggestion）」 mang ý nghĩa: \"Hoặc cái gì đó (làm dịu đi một lời đề nghị)\"."
+    },
+    {
+      "id": "bunpou-n4-de-mo-suggestion-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "ちょっと休んで、コーヒーでも飲みませんか。",
+      "sentenceVi": "Sao chúng ta không nghỉ ngơi và uống cà phê hay gì đó nhỉ?",
+      "targetGrammar": "〜でも（suggestion）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hoặc cái gì đó (làm dịu đi một lời đề nghị)\":",
+      "options": [
+        "〜てみる",
+        "〜とき",
+        "〜でも（suggestion）",
+        "〜てある"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜でも（suggestion）」."
+    },
+    {
+      "id": "bunpou-n4-de-mo-suggestion-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ちょっと休んで、コーヒーでも飲みませんか。",
+      "sentenceVi": "Sao chúng ta không nghỉ ngơi và uống cà phê hay gì đó nhỉ?",
+      "targetGrammar": "〜でも（suggestion）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜でも（suggestion）」 là gì?",
+      "options": [
+        "Hoặc cái gì đó (làm dịu đi một lời đề nghị)",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜でも（suggestion）」 có nghĩa là: Hoặc cái gì đó (làm dịu đi một lời đề nghị)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-sasete-kudasai",
+  "level": "N4",
+  "pattern": "〜させてください",
+  "title": "〜させてください",
+  "meaning": "Xin vui lòng cho tôi (làm)",
+  "meaningVi": "Xin vui lòng cho tôi (làm)",
+  "connection": "Động từ (V)-nai stem + せてください (Group 1) / Động từ (V)-nai stem + させてください (Group 2)",
+  "usageNotes": "Được xây dựng trên thể nguyên nhân て (する → させて). 〜させていただけませんか thì lịch sự hơn.",
+  "examples": [
+    {
+      "ja": "少し考えさせてください。",
+      "furigana": "{少|すこ}し{考|かんが}えさせてください。",
+      "en": "Please let me think about it for a bit.",
+      "vi": "Xin hãy để tôi suy nghĩ về nó một chút."
+    },
+    {
+      "ja": "今日は私に払わせてください。",
+      "furigana": "{今日|きょう}は{私|わたし}に{払|はら}わせてください。",
+      "en": "Please let me pay today.",
+      "vi": "Hãy để tôi trả tiền ngay hôm nay."
+    },
+    {
+      "ja": "体の調子が悪いので、今日は早く帰らせてください。",
+      "furigana": "{体|からだ}の{調子|ちょうし}が{悪|わる}いので、{今日|きょう}は{早|はや}く{帰|かえ}らせてください。",
+      "en": "I'm not feeling well, so please let me go home early today.",
+      "vi": "Hôm nay tôi thấy không khỏe nên xin hãy cho tôi về nhà sớm hôm nay."
+    }
+  ],
+  "tags": [
+    "request",
+    "permission"
+  ],
+  "unitId": "grammar-n4-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n4-sasete-kudasai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "少し考えさせてください。",
+      "sentenceVi": "Xin hãy để tôi suy nghĩ về nó một chút.",
+      "targetGrammar": "〜させてください",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Xin vui lòng cho tôi (làm)",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜させてください」 mang ý nghĩa: \"Xin vui lòng cho tôi (làm)\"."
+    },
+    {
+      "id": "bunpou-n4-sasete-kudasai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は私に払わせてください。",
+      "sentenceVi": "Hãy để tôi trả tiền ngay hôm nay.",
+      "targetGrammar": "〜させてください",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜てもらう",
+        "〜させてください"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Hãy để tôi trả tiền ngay hôm nay.\", ta sử dụng mẫu 「〜させてください」."
+    },
+    {
+      "id": "bunpou-n4-sasete-kudasai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "体の調子が悪いので、今日は早く帰らせてください。",
+      "sentenceVi": "Hôm nay tôi thấy không khỏe nên xin hãy cho tôi về nhà sớm hôm nay.",
+      "targetGrammar": "〜させてください",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Xin vui lòng cho tôi (làm)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜させてください」 mang ý nghĩa: \"Xin vui lòng cho tôi (làm)\"."
+    },
+    {
+      "id": "bunpou-n4-sasete-kudasai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "少し考えさせてください。",
+      "sentenceVi": "Xin hãy để tôi suy nghĩ về nó một chút.",
+      "targetGrammar": "〜させてください",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Xin vui lòng cho tôi (làm)\":",
+      "options": [
+        "〜とき",
+        "〜てみる",
+        "〜させてください",
+        "〜てある"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜させてください」."
+    },
+    {
+      "id": "bunpou-n4-sasete-kudasai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "少し考えさせてください。",
+      "sentenceVi": "Xin hãy để tôi suy nghĩ về nó một chút.",
+      "targetGrammar": "〜させてください",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜させてください」 là gì?",
+      "options": [
+        "Xin vui lòng cho tôi (làm)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜させてください」 có nghĩa là: Xin vui lòng cho tôi (làm)."
+    }
+  ]
+}

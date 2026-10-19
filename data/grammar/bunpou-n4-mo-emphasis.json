@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-mo-emphasis",
+  "level": "N4",
+  "pattern": "〜も（emphasis）",
+  "title": "〜も（emphasis）",
+  "meaning": "Nhiều như vậy; nhiều như ; (với một phủ định) thậm chí không một",
+  "meaningVi": "Nhiều như vậy; nhiều như ; (với một phủ định) thậm chí không một",
+  "connection": "Danh từ (N) (number + counter) + も",
+  "usageNotes": "Cho thấy người nói cảm thấy số lượng lớn. Với 一 + counter và động từ phủ định, nó có nghĩa là 'thậm chí không một'.",
+  "examples": [
+    {
+      "ja": "昨日は十時間も寝てしまった。",
+      "furigana": "{昨日|きのう}は{十|じゅう}{時間|じかん}も{寝|ね}てしまった。",
+      "en": "I slept for a whole ten hours yesterday.",
+      "vi": "Hôm qua tôi đã ngủ suốt mười tiếng."
+    },
+    {
+      "ja": "このかばんは五万円もするんですか。",
+      "furigana": "このかばんは{五|ご}{万|まん}{円|えん}もするんですか。",
+      "en": "This bag costs as much as 50,000 yen?",
+      "vi": "Chiếc túi này có giá tới 50.000 yên?"
+    },
+    {
+      "ja": "財布の中に一円もない。",
+      "furigana": "{財布|さいふ}の{中|なか}に{一|いち}{円|えん}もない。",
+      "en": "I don't have a single yen in my wallet.",
+      "vi": "Tôi không còn một xu nào trong ví."
+    }
+  ],
+  "tags": [
+    "emphasis",
+    "quantity"
+  ],
+  "unitId": "grammar-n4-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n4-mo-emphasis-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "昨日は十時間も寝てしまった。",
+      "sentenceVi": "Hôm qua tôi đã ngủ suốt mười tiếng.",
+      "targetGrammar": "〜も（emphasis）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Nhiều như vậy; nhiều như ; (với một phủ định) thậm chí không một"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜も（emphasis）」 mang ý nghĩa: \"Nhiều như vậy; nhiều như ; (với một phủ định) thậm chí không một\"."
+    },
+    {
+      "id": "bunpou-n4-mo-emphasis-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このかばんは五万円もするんですか。",
+      "sentenceVi": "Chiếc túi này có giá tới 50.000 yên?",
+      "targetGrammar": "〜も（emphasis）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜も（emphasis）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Chiếc túi này có giá tới 50.000 yên?\", ta sử dụng mẫu 「〜も（emphasis）」."
+    },
+    {
+      "id": "bunpou-n4-mo-emphasis-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "財布の中に一円もない。",
+      "sentenceVi": "Tôi không còn một xu nào trong ví.",
+      "targetGrammar": "〜も（emphasis）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Nhiều như vậy; nhiều như ; (với một phủ định) thậm chí không một",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜も（emphasis）」 mang ý nghĩa: \"Nhiều như vậy; nhiều như ; (với một phủ định) thậm chí không một\"."
+    },
+    {
+      "id": "bunpou-n4-mo-emphasis-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "昨日は十時間も寝てしまった。",
+      "sentenceVi": "Hôm qua tôi đã ngủ suốt mười tiếng.",
+      "targetGrammar": "〜も（emphasis）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nhiều như vậy; nhiều như ; (với một phủ định) thậm chí không một\":",
+      "options": [
+        "〜とき",
+        "〜も（emphasis）",
+        "〜てある",
+        "〜てみる"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜も（emphasis）」."
+    },
+    {
+      "id": "bunpou-n4-mo-emphasis-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "昨日は十時間も寝てしまった。",
+      "sentenceVi": "Hôm qua tôi đã ngủ suốt mười tiếng.",
+      "targetGrammar": "〜も（emphasis）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜も（emphasis）」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Nhiều như vậy; nhiều như ; (với một phủ định) thậm chí không một",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜も（emphasis）」 có nghĩa là: Nhiều như vậy; nhiều như ; (với một phủ định) thậm chí không một."
+    }
+  ]
+}

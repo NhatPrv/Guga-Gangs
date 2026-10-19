@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ga-jouzu-ga-heta",
+  "level": "N5",
+  "pattern": "〜が上手 / 〜が下手",
+  "title": "〜が上手 / 〜が下手",
+  "meaning": "Giỏi ; tệ ở",
+  "meaningVi": "Giỏi ; tệ ở",
+  "connection": "Danh từ (N) + が上手 / Danh từ (N) + が下手",
+  "usageNotes": "Chủ yếu được sử dụng về người khác; tự gọi mình là 上手 nghe có vẻ giống như khoe khoang. Cả hai đều là tính từ な: 料理が上手な人.",
+  "examples": [
+    {
+      "ja": "姉はピアノが上手です。",
+      "furigana": "{姉|あね}はピアノが{上手|じょうず}です。",
+      "en": "My older sister is good at the piano.",
+      "vi": "Chị gái tôi chơi piano giỏi."
+    },
+    {
+      "ja": "私は歌が下手です。",
+      "furigana": "{私|わたし}は{歌|うた}が{下手|へた}です。",
+      "en": "I'm bad at singing.",
+      "vi": "Tôi hát dở lắm."
+    },
+    {
+      "ja": "マイクさんは日本語が上手ですね。",
+      "furigana": "マイクさんは{日本語|にほんご}が{上手|じょうず}ですね。",
+      "en": "Mike, your Japanese is really good.",
+      "vi": "Mike, tiếng Nhật của bạn thực sự tốt."
+    }
+  ],
+  "tags": [
+    "ability"
+  ],
+  "unitId": "grammar-n5-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n5-ga-jouzu-ga-heta-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "姉はピアノが上手です。",
+      "sentenceVi": "Chị gái tôi chơi piano giỏi.",
+      "targetGrammar": "〜が上手 / 〜が下手",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Giỏi ; tệ ở",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜が上手 / 〜が下手」 mang ý nghĩa: \"Giỏi ; tệ ở\"."
+    },
+    {
+      "id": "bunpou-n5-ga-jouzu-ga-heta-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私は歌が下手です。",
+      "sentenceVi": "Tôi hát dở lắm.",
+      "targetGrammar": "〜が上手 / 〜が下手",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜に（destination）",
+        "〜が上手 / 〜が下手"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi hát dở lắm.\", ta sử dụng mẫu 「〜が上手 / 〜が下手」."
+    },
+    {
+      "id": "bunpou-n5-ga-jouzu-ga-heta-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "マイクさんは日本語が上手ですね。",
+      "sentenceVi": "Mike, tiếng Nhật của bạn thực sự tốt.",
+      "targetGrammar": "〜が上手 / 〜が下手",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Giỏi ; tệ ở",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜が上手 / 〜が下手」 mang ý nghĩa: \"Giỏi ; tệ ở\"."
+    },
+    {
+      "id": "bunpou-n5-ga-jouzu-ga-heta-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "姉はピアノが上手です。",
+      "sentenceVi": "Chị gái tôi chơi piano giỏi.",
+      "targetGrammar": "〜が上手 / 〜が下手",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Giỏi ; tệ ở\":",
+      "options": [
+        "〜で（place of action）",
+        "〜が上手 / 〜が下手",
+        "〜と（and）",
+        "〜で（means）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜が上手 / 〜が下手」."
+    },
+    {
+      "id": "bunpou-n5-ga-jouzu-ga-heta-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "姉はピアノが上手です。",
+      "sentenceVi": "Chị gái tôi chơi piano giỏi.",
+      "targetGrammar": "〜が上手 / 〜が下手",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜が上手 / 〜が下手」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Giỏi ; tệ ở",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜が上手 / 〜が下手」 có nghĩa là: Giỏi ; tệ ở."
+    }
+  ]
+}

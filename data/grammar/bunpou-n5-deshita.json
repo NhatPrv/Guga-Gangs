@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n5-deshita",
+  "level": "N5",
+  "pattern": "〜でした",
+  "title": "〜でした",
+  "meaning": "Đã ; đã (copula quá khứ lịch sự)",
+  "meaningVi": "Đã ; đã (copula quá khứ lịch sự)",
+  "connection": "Danh từ (N) + でした / na-Adj + でした",
+  "usageNotes": "Quá khứ phủ định: ではありませんでした. Tính từ い không dùng でした: nói 高かったです, không dùng 高いでした.",
+  "examples": [
+    {
+      "ja": "きのうは私の誕生日でした。",
+      "furigana": "きのうは{私|わたし}の{誕生|たんじょう}{日|び}でした。",
+      "en": "Yesterday was my birthday.",
+      "vi": "Hôm qua là sinh nhật của tôi."
+    },
+    {
+      "ja": "子どものころ、野菜がきらいでした。",
+      "furigana": "{子|こ}どものころ、{野菜|やさい}がきらいでした。",
+      "en": "When I was a child, I didn't like vegetables.",
+      "vi": "Khi còn nhỏ, tôi không thích rau."
+    },
+    {
+      "ja": "テストはかんたんでした。",
+      "furigana": "テストはかんたんでした。",
+      "en": "The test was easy.",
+      "vi": "Bài kiểm tra rất dễ dàng."
+    }
+  ],
+  "tags": [
+    "copula",
+    "tense",
+    "politeness"
+  ],
+  "unitId": "grammar-n5-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n5-deshita-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "きのうは私の誕生日でした。",
+      "sentenceVi": "Hôm qua là sinh nhật của tôi.",
+      "targetGrammar": "〜でした",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đã ; đã (copula quá khứ lịch sự)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜でした」 mang ý nghĩa: \"Đã ; đã (copula quá khứ lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n5-deshita-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "子どものころ、野菜がきらいでした。",
+      "sentenceVi": "Khi còn nhỏ, tôi không thích rau.",
+      "targetGrammar": "〜でした",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜でした",
+        "〜に（place of existence）",
+        "〜に（time）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Khi còn nhỏ, tôi không thích rau.\", ta sử dụng mẫu 「〜でした」."
+    },
+    {
+      "id": "bunpou-n5-deshita-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "テストはかんたんでした。",
+      "sentenceVi": "Bài kiểm tra rất dễ dàng.",
+      "targetGrammar": "〜でした",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Đã ; đã (copula quá khứ lịch sự)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜でした」 mang ý nghĩa: \"Đã ; đã (copula quá khứ lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n5-deshita-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "きのうは私の誕生日でした。",
+      "sentenceVi": "Hôm qua là sinh nhật của tôi.",
+      "targetGrammar": "〜でした",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đã ; đã (copula quá khứ lịch sự)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜と（and）",
+        "〜でした",
+        "〜で（means）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜でした」."
+    },
+    {
+      "id": "bunpou-n5-deshita-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "きのうは私の誕生日でした。",
+      "sentenceVi": "Hôm qua là sinh nhật của tôi.",
+      "targetGrammar": "〜でした",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜でした」 là gì?",
+      "options": [
+        "Đã ; đã (copula quá khứ lịch sự)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜でした」 có nghĩa là: Đã ; đã (copula quá khứ lịch sự)."
+    }
+  ]
+}

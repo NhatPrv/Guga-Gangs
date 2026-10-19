@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ga-subject",
+  "level": "N5",
+  "pattern": "〜が（subject）",
+  "title": "〜が（subject）",
+  "meaning": "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+  "meaningVi": "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+  "connection": "Danh từ (N) + が",
+  "usageNotes": "Các từ để hỏi như だれ và 何 lấy が, không bao giờ lấy は khi chúng là chủ ngữ. が cũng được dùng với 好き, ほしい, 上手 và わかる để chỉ sự việc thích, mong muốn hoặc được hiểu.",
+  "examples": [
+    {
+      "ja": "雨が降っています。",
+      "furigana": "{雨|あめ}が{降|ふ}っています。",
+      "en": "It is raining.",
+      "vi": "Trời đang mưa."
+    },
+    {
+      "ja": "だれが窓を開けましたか。",
+      "furigana": "だれが{窓|まど}を{開|あ}けましたか。",
+      "en": "Who opened the window?",
+      "vi": "Ai đã mở cửa sổ?"
+    },
+    {
+      "ja": "私が行きます。",
+      "furigana": "{私|わたし}が{行|い}きます。",
+      "en": "I'll be the one to go.",
+      "vi": "Tôi sẽ là người phải đi."
+    }
+  ],
+  "tags": [
+    "particle"
+  ],
+  "unitId": "grammar-n5-unit-01",
+  "questions": [
+    {
+      "id": "bunpou-n5-ga-subject-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "雨が降っています。",
+      "sentenceVi": "Trời đang mưa.",
+      "targetGrammar": "〜が（subject）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Vào lúc... (Chỉ mốc thời gian cụ thể)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜が（subject）」 mang ý nghĩa: \"Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)\"."
+    },
+    {
+      "id": "bunpou-n5-ga-subject-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "だれが窓を開けましたか。",
+      "sentenceVi": "Ai đã mở cửa sổ?",
+      "targetGrammar": "〜が（subject）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜に（destination）",
+        "〜が（subject）",
+        "〜に（indirect object）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Ai đã mở cửa sổ?\", ta sử dụng mẫu 「〜が（subject）」."
+    },
+    {
+      "id": "bunpou-n5-ga-subject-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私が行きます。",
+      "sentenceVi": "Tôi sẽ là người phải đi.",
+      "targetGrammar": "〜が（subject）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tại, ở... (Chỉ nơi diễn ra hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜が（subject）」 mang ý nghĩa: \"Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)\"."
+    },
+    {
+      "id": "bunpou-n5-ga-subject-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "雨が降っています。",
+      "sentenceVi": "Trời đang mưa.",
+      "targetGrammar": "〜が（subject）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)\":",
+      "options": [
+        "〜で（means）",
+        "〜と（and）",
+        "〜と（with）",
+        "〜が（subject）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜が（subject）」."
+    },
+    {
+      "id": "bunpou-n5-ga-subject-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "雨が降っています。",
+      "sentenceVi": "Trời đang mưa.",
+      "targetGrammar": "〜が（subject）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜が（subject）」 là gì?",
+      "options": [
+        "Cũng... (Biểu thị sự tương tự)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜が（subject）」 có nghĩa là: Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)."
+    }
+  ]
+}

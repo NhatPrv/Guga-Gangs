@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-to-tomo-ni",
+  "level": "N3",
+  "pattern": "〜とともに",
+  "title": "〜とともに",
+  "meaning": "Cùng với ; cùng với ; BẰNG; cùng lúc với",
+  "meaningVi": "Cùng với ; cùng với ; BẰNG; cùng lúc với",
+  "connection": "Danh từ (N) + とともに / Động từ (V)-dict + とともに",
+  "usageNotes": "Phiên bản chính thức của 〜と一緒に. Đồng thời đánh dấu các sự kiện xảy ra cùng lúc hoặc thay đổi tỷ lệ như 〜につれて.",
+  "examples": [
+    {
+      "ja": "社長は、社員とともに新しい工場の完成を喜んだ。",
+      "furigana": "{社長|しゃちょう}は、{社員|しゃいん}とともに{新|あたら}しい{工場|こうじょう}の{完成|かんせい}を{喜|よろこ}んだ。",
+      "en": "The company president celebrated the completion of the new factory together with the staff.",
+      "vi": "Chủ tịch công ty đã tổ chức lễ hoàn thành nhà máy mới cùng với các nhân viên."
+    },
+    {
+      "ja": "経済の発展とともに、人々の生活も大きく変わった。",
+      "furigana": "{経済|けいざい}の{発展|はってん}とともに、{人々|ひとびと}の{生活|せいかつ}も{大|おお}きく{変|か}わった。",
+      "en": "Along with economic development, people's lives changed greatly too.",
+      "vi": "Cùng với sự phát triển kinh tế, đời sống của người dân cũng thay đổi rất nhiều."
+    },
+    {
+      "ja": "ベルが鳴るとともに、学生たちは教室を飛び出した。",
+      "furigana": "ベルが{鳴|な}るとともに、{学生|がくせい}たちは{教室|きょうしつ}を{飛|と}び{出|だ}した。",
+      "en": "The moment the bell rang, the students rushed out of the classroom.",
+      "vi": "Khi chuông reo, học sinh ùa ra khỏi lớp."
+    }
+  ],
+  "tags": [
+    "simultaneity",
+    "change",
+    "formal"
+  ],
+  "unitId": "grammar-n3-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n3-to-tomo-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "社長は、社員とともに新しい工場の完成を喜んだ。",
+      "sentenceVi": "Chủ tịch công ty đã tổ chức lễ hoàn thành nhà máy mới cùng với các nhân viên.",
+      "targetGrammar": "〜とともに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Cùng với ; cùng với ; BẰNG; cùng lúc với"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜とともに」 mang ý nghĩa: \"Cùng với ; cùng với ; BẰNG; cùng lúc với\"."
+    },
+    {
+      "id": "bunpou-n3-to-tomo-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "経済の発展とともに、人々の生活も大きく変わった。",
+      "sentenceVi": "Cùng với sự phát triển kinh tế, đời sống của người dân cũng thay đổi rất nhiều.",
+      "targetGrammar": "〜とともに",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜とともに",
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜ものだ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Cùng với sự phát triển kinh tế, đời sống của người dân cũng thay đổi rất nhiều.\", ta sử dụng mẫu 「〜とともに」."
+    },
+    {
+      "id": "bunpou-n3-to-tomo-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ベルが鳴るとともに、学生たちは教室を飛び出した。",
+      "sentenceVi": "Khi chuông reo, học sinh ùa ra khỏi lớp.",
+      "targetGrammar": "〜とともに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Cùng với ; cùng với ; BẰNG; cùng lúc với",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜とともに」 mang ý nghĩa: \"Cùng với ; cùng với ; BẰNG; cùng lúc với\"."
+    },
+    {
+      "id": "bunpou-n3-to-tomo-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "社長は、社員とともに新しい工場の完成を喜んだ。",
+      "sentenceVi": "Chủ tịch công ty đã tổ chức lễ hoàn thành nhà máy mới cùng với các nhân viên.",
+      "targetGrammar": "〜とともに",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cùng với ; cùng với ; BẰNG; cùng lúc với\":",
+      "options": [
+        "〜とともに",
+        "〜ことにしている",
+        "〜ことになっている",
+        "〜ことはない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜とともに」."
+    },
+    {
+      "id": "bunpou-n3-to-tomo-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "社長は、社員とともに新しい工場の完成を喜んだ。",
+      "sentenceVi": "Chủ tịch công ty đã tổ chức lễ hoàn thành nhà máy mới cùng với các nhân viên.",
+      "targetGrammar": "〜とともに",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜とともに」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Cùng với ; cùng với ; BẰNG; cùng lúc với",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜とともに」 có nghĩa là: Cùng với ; cùng với ; BẰNG; cùng lúc với."
+    }
+  ]
+}

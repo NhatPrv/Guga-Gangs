@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-e-ro",
+  "level": "N4",
+  "pattern": "〜え / 〜ろ",
+  "title": "〜え / 〜ろ",
+  "meaning": "Làm điều đó! (dạng mệnh lệnh; mệnh lệnh thẳng thừng)",
+  "meaningVi": "Làm điều đó! (dạng mệnh lệnh; mệnh lệnh thẳng thừng)",
+  "connection": "Động từ (V)-dict (Group 1: final u → e) / Động từ (V)-stem + ろ (Group 2)",
+  "usageNotes": "Bất quy tắc: する → しろ, 来る → 来い, くれる → くれ. Rất thẳng thừng; chủ yếu được nghe từ nam giới, trên các biển báo, trong trường hợp khẩn cấp và trong tiếng cổ vũ (がんばれ).",
+  "examples": [
+    {
+      "ja": "早く起きろ！遅刻するぞ。",
+      "furigana": "{早|はや}く{起|お}きろ！{遅刻|ちこく}するぞ。",
+      "en": "Get up already! You'll be late.",
+      "vi": "Đứng dậy đi! Bạn sẽ bị trễ."
+    },
+    {
+      "ja": "危ない！止まれ！",
+      "furigana": "{危|あぶ}ない！{止|と}まれ！",
+      "en": "Look out! Stop!",
+      "vi": "Hãy coi chừng! Dừng lại!"
+    },
+    {
+      "ja": "がんばれ！あと少しだ！",
+      "furigana": "がんばれ！あと{少|すこ}しだ！",
+      "en": "Go for it! Just a little more!",
+      "vi": "Đi cho nó! Chỉ một chút nữa thôi!"
+    }
+  ],
+  "tags": [
+    "command",
+    "conjugation"
+  ],
+  "unitId": "grammar-n4-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n4-e-ro-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "早く起きろ！遅刻するぞ。",
+      "sentenceVi": "Đứng dậy đi! Bạn sẽ bị trễ.",
+      "targetGrammar": "〜え / 〜ろ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều đó! (dạng mệnh lệnh; mệnh lệnh thẳng thừng)",
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜え / 〜ろ」 mang ý nghĩa: \"Làm điều đó! (dạng mệnh lệnh; mệnh lệnh thẳng thừng)\"."
+    },
+    {
+      "id": "bunpou-n4-e-ro-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "危ない！止まれ！",
+      "sentenceVi": "Hãy coi chừng! Dừng lại!",
+      "targetGrammar": "〜え / 〜ろ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜え / 〜ろ",
+        "〜ていく",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Hãy coi chừng! Dừng lại!\", ta sử dụng mẫu 「〜え / 〜ろ」."
+    },
+    {
+      "id": "bunpou-n4-e-ro-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "がんばれ！あと少しだ！",
+      "sentenceVi": "Đi cho nó! Chỉ một chút nữa thôi!",
+      "targetGrammar": "〜え / 〜ろ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm điều đó! (dạng mệnh lệnh; mệnh lệnh thẳng thừng)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜え / 〜ろ」 mang ý nghĩa: \"Làm điều đó! (dạng mệnh lệnh; mệnh lệnh thẳng thừng)\"."
+    },
+    {
+      "id": "bunpou-n4-e-ro-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "早く起きろ！遅刻するぞ。",
+      "sentenceVi": "Đứng dậy đi! Bạn sẽ bị trễ.",
+      "targetGrammar": "〜え / 〜ろ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm điều đó! (dạng mệnh lệnh; mệnh lệnh thẳng thừng)\":",
+      "options": [
+        "〜てある",
+        "〜とき",
+        "〜え / 〜ろ",
+        "〜てみる"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜え / 〜ろ」."
+    },
+    {
+      "id": "bunpou-n4-e-ro-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "早く起きろ！遅刻するぞ。",
+      "sentenceVi": "Đứng dậy đi! Bạn sẽ bị trễ.",
+      "targetGrammar": "〜え / 〜ろ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜え / 〜ろ」 là gì?",
+      "options": [
+        "Làm điều đó! (dạng mệnh lệnh; mệnh lệnh thẳng thừng)",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜え / 〜ろ」 có nghĩa là: Làm điều đó! (dạng mệnh lệnh; mệnh lệnh thẳng thừng)."
+    }
+  ]
+}

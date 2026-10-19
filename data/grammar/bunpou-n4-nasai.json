@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-nasai",
+  "level": "N4",
+  "pattern": "〜なさい",
+  "title": "〜なさい",
+  "meaning": "Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)",
+  "meaningVi": "Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)",
+  "connection": "Động từ (V)-stem + なさい",
+  "usageNotes": "Nhẹ nhàng hơn dạng mệnh lệnh nhưng vẫn mang tính chỉ dẫn chắc chắn; được phụ huynh, giáo viên và trong các buổi hướng dẫn thi cử, không bao giờ hướng tới cấp trên.",
+  "examples": [
+    {
+      "ja": "もう九時よ。早く寝なさい。",
+      "furigana": "もう{九|く}{時|じ}よ。{早|はや}く{寝|ね}なさい。",
+      "en": "It's already nine. Go to bed now.",
+      "vi": "Đã chín giờ rồi. Đi ngủ bây giờ."
+    },
+    {
+      "ja": "次の文を読んで、質問に答えなさい。",
+      "furigana": "{次|つぎ}の{文|ぶん}を{読|よ}んで、{質問|しつもん}に{答|こた}えなさい。",
+      "en": "Read the following passage and answer the questions.",
+      "vi": "Đọc đoạn văn sau và trả lời các câu hỏi."
+    },
+    {
+      "ja": "ご飯の前に手を洗いなさい。",
+      "furigana": "ご{飯|はん}の{前|まえ}に{手|て}を{洗|あら}いなさい。",
+      "en": "Wash your hands before eating.",
+      "vi": "Rửa tay trước khi ăn."
+    }
+  ],
+  "tags": [
+    "command"
+  ],
+  "unitId": "grammar-n4-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n4-nasai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "もう九時よ。早く寝なさい。",
+      "sentenceVi": "Đã chín giờ rồi. Đi ngủ bây giờ.",
+      "targetGrammar": "〜なさい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜なさい」 mang ý nghĩa: \"Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)\"."
+    },
+    {
+      "id": "bunpou-n4-nasai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "次の文を読んで、質問に答えなさい。",
+      "sentenceVi": "Đọc đoạn văn sau và trả lời các câu hỏi.",
+      "targetGrammar": "〜なさい",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜ていく",
+        "〜なさい",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Đọc đoạn văn sau và trả lời các câu hỏi.\", ta sử dụng mẫu 「〜なさい」."
+    },
+    {
+      "id": "bunpou-n4-nasai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ご飯の前に手を洗いなさい。",
+      "sentenceVi": "Rửa tay trước khi ăn.",
+      "targetGrammar": "〜なさい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜なさい」 mang ý nghĩa: \"Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)\"."
+    },
+    {
+      "id": "bunpou-n4-nasai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "もう九時よ。早く寝なさい。",
+      "sentenceVi": "Đã chín giờ rồi. Đi ngủ bây giờ.",
+      "targetGrammar": "〜なさい",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)\":",
+      "options": [
+        "〜てみる",
+        "〜なさい",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜なさい」."
+    },
+    {
+      "id": "bunpou-n4-nasai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "もう九時よ。早く寝なさい。",
+      "sentenceVi": "Đã chín giờ rồi. Đi ngủ bây giờ.",
+      "targetGrammar": "〜なさい",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜なさい」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜なさい」 có nghĩa là: Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)."
+    }
+  ]
+}

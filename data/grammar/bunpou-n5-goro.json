@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-goro",
+  "level": "N5",
+  "pattern": "〜ごろ",
+  "title": "〜ごろ",
+  "meaning": "Xung quanh; về (một thời điểm)",
+  "meaningVi": "Xung quanh; về (một thời điểm)",
+  "connection": "Danh từ (N) + ごろ",
+  "usageNotes": "Gắn vào đồng hồ thời gian, ngày tháng. に sau ごろ là tùy chọn: 7時ごろ(に)起きます.",
+  "examples": [
+    {
+      "ja": "毎晩11時ごろ寝ます。",
+      "furigana": "{毎晩|まいばん}11{時|じ}ごろ{寝|ね}ます。",
+      "en": "I go to bed around eleven every night.",
+      "vi": "Tôi đi ngủ vào khoảng mười một giờ mỗi đêm."
+    },
+    {
+      "ja": "4月ごろ、桜が咲きます。",
+      "furigana": "4{月|がつ}ごろ、{桜|さくら}が{咲|さ}きます。",
+      "en": "The cherry blossoms bloom around April.",
+      "vi": "Hoa anh đào nở vào khoảng tháng Tư."
+    },
+    {
+      "ja": "夕方6時ごろに家に帰ります。",
+      "furigana": "{夕方|ゆうがた}6{時|じ}ごろに{家|いえ}に{帰|かえ}ります。",
+      "en": "I get home around six in the evening.",
+      "vi": "Tôi về nhà vào khoảng sáu giờ tối."
+    }
+  ],
+  "tags": [
+    "time"
+  ],
+  "unitId": "grammar-n5-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n5-goro-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎晩11時ごろ寝ます。",
+      "sentenceVi": "Tôi đi ngủ vào khoảng mười một giờ mỗi đêm.",
+      "targetGrammar": "〜ごろ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Xung quanh; về (một thời điểm)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ごろ」 mang ý nghĩa: \"Xung quanh; về (một thời điểm)\"."
+    },
+    {
+      "id": "bunpou-n5-goro-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "4月ごろ、桜が咲きます。",
+      "sentenceVi": "Hoa anh đào nở vào khoảng tháng Tư.",
+      "targetGrammar": "〜ごろ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜ごろ",
+        "〜に（time）",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Hoa anh đào nở vào khoảng tháng Tư.\", ta sử dụng mẫu 「〜ごろ」."
+    },
+    {
+      "id": "bunpou-n5-goro-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夕方6時ごろに家に帰ります。",
+      "sentenceVi": "Tôi về nhà vào khoảng sáu giờ tối.",
+      "targetGrammar": "〜ごろ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Xung quanh; về (một thời điểm)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ごろ」 mang ý nghĩa: \"Xung quanh; về (một thời điểm)\"."
+    },
+    {
+      "id": "bunpou-n5-goro-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "毎晩11時ごろ寝ます。",
+      "sentenceVi": "Tôi đi ngủ vào khoảng mười một giờ mỗi đêm.",
+      "targetGrammar": "〜ごろ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Xung quanh; về (một thời điểm)\":",
+      "options": [
+        "〜ごろ",
+        "〜と（and）",
+        "〜で（place of action）",
+        "〜で（means）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ごろ」."
+    },
+    {
+      "id": "bunpou-n5-goro-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎晩11時ごろ寝ます。",
+      "sentenceVi": "Tôi đi ngủ vào khoảng mười một giờ mỗi đêm.",
+      "targetGrammar": "〜ごろ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ごろ」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Xung quanh; về (một thời điểm)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ごろ」 có nghĩa là: Xung quanh; về (một thời điểm)."
+    }
+  ]
+}

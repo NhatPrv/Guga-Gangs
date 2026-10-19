@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-ni-shitagatte",
+  "level": "N3",
+  "pattern": "〜に従って",
+  "title": "〜に従って",
+  "meaning": "Phù hợp với; tiếp theo; như ... (vì vậy ...)",
+  "meaningVi": "Phù hợp với; tiếp theo; như ... (vì vậy ...)",
+  "connection": "Danh từ (N) + に従って / Động từ (V)-dict + に従って",
+  "usageNotes": "Với những danh từ như quy tắc hay chỉ dẫn: 'theo sau, tuân theo'. Với Verb-dict: thay đổi tỷ lệ như 〜につれて, với giọng trang trọng hơn.",
+  "examples": [
+    {
+      "ja": "係の人の指示に従って、落ち着いて避難してください。",
+      "furigana": "{係|かかり}の{人|ひと}の{指示|しじ}に{従|したが}って、{落|お}ち{着|つ}いて{避難|ひなん}してください。",
+      "en": "Please evacuate calmly, following the staff's instructions.",
+      "vi": "Hãy sơ tán một cách bình tĩnh, làm theo hướng dẫn của nhân viên."
+    },
+    {
+      "ja": "高く登るに従って、気温が下がっていった。",
+      "furigana": "{高|たか}く{登|のぼ}るに{従|したが}って、{気温|きおん}が{下|さ}がっていった。",
+      "en": "The higher we climbed, the lower the temperature dropped.",
+      "vi": "Càng lên cao, nhiệt độ càng giảm."
+    },
+    {
+      "ja": "町が大きくなるに従って、交通の問題も増えてきた。",
+      "furigana": "{町|まち}が{大|おお}きくなるに{従|したが}って、{交通|こうつう}の{問題|もんだい}も{増|ふ}えてきた。",
+      "en": "As the town grew, traffic problems increased too.",
+      "vi": "Khi thị trấn phát triển, vấn đề giao thông cũng gia tăng."
+    }
+  ],
+  "tags": [
+    "relation",
+    "change"
+  ],
+  "unitId": "grammar-n3-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-shitagatte-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "係の人の指示に従って、落ち着いて避難してください。",
+      "sentenceVi": "Hãy sơ tán một cách bình tĩnh, làm theo hướng dẫn của nhân viên.",
+      "targetGrammar": "〜に従って",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Phù hợp với; tiếp theo; như ... (vì vậy ...)",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜に従って」 mang ý nghĩa: \"Phù hợp với; tiếp theo; như ... (vì vậy ...)\"."
+    },
+    {
+      "id": "bunpou-n3-ni-shitagatte-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "高く登るに従って、気温が下がっていった。",
+      "sentenceVi": "Càng lên cao, nhiệt độ càng giảm.",
+      "targetGrammar": "〜に従って",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に従って",
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Càng lên cao, nhiệt độ càng giảm.\", ta sử dụng mẫu 「〜に従って」."
+    },
+    {
+      "id": "bunpou-n3-ni-shitagatte-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "町が大きくなるに従って、交通の問題も増えてきた。",
+      "sentenceVi": "Khi thị trấn phát triển, vấn đề giao thông cũng gia tăng.",
+      "targetGrammar": "〜に従って",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Phù hợp với; tiếp theo; như ... (vì vậy ...)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜に従って」 mang ý nghĩa: \"Phù hợp với; tiếp theo; như ... (vì vậy ...)\"."
+    },
+    {
+      "id": "bunpou-n3-ni-shitagatte-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "係の人の指示に従って、落ち着いて避難してください。",
+      "sentenceVi": "Hãy sơ tán một cách bình tĩnh, làm theo hướng dẫn của nhân viên.",
+      "targetGrammar": "〜に従って",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Phù hợp với; tiếp theo; như ... (vì vậy ...)\":",
+      "options": [
+        "〜に従って",
+        "〜ことにしている",
+        "〜ことになっている",
+        "〜ことはない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜に従って」."
+    },
+    {
+      "id": "bunpou-n3-ni-shitagatte-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "係の人の指示に従って、落ち着いて避難してください。",
+      "sentenceVi": "Hãy sơ tán một cách bình tĩnh, làm theo hướng dẫn của nhân viên.",
+      "targetGrammar": "〜に従って",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜に従って」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Phù hợp với; tiếp theo; như ... (vì vậy ...)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜に従って」 có nghĩa là: Phù hợp với; tiếp theo; như ... (vì vậy ...)."
+    }
+  ]
+}

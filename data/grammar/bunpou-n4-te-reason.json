@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-te-reason",
+  "level": "N4",
+  "pattern": "〜て（reason）",
+  "title": "〜て（reason）",
+  "meaning": "Bởi vì ; vì vậy (gây ra một cảm giác hoặc trạng thái)",
+  "meaningVi": "Bởi vì ; vì vậy (gây ra một cảm giác hoặc trạng thái)",
+  "connection": "Động từ (V)-te / i-Adj stem + くて / na-Adj + で / Danh từ (N) + で",
+  "usageNotes": "Phần thứ hai thường là cảm giác, hình thức tiềm ẩn hoặc kết quả, không phải là yêu cầu hay ý định (dùng から hoặc ので cho những điều đó). Phủ định: 〜なくて (会えなくて寂しい).",
+  "examples": [
+    {
+      "ja": "ニュースを聞いて、びっくりしました。",
+      "furigana": "ニュースを{聞|き}いて、びっくりしました。",
+      "en": "I was surprised to hear the news.",
+      "vi": "Tôi rất ngạc nhiên khi nghe tin này."
+    },
+    {
+      "ja": "このスープは熱くて、飲めません。",
+      "furigana": "このスープは{熱|あつ}くて、{飲|の}めません。",
+      "en": "This soup is too hot to drink.",
+      "vi": "Món súp này quá nóng để uống."
+    },
+    {
+      "ja": "かぜで学校を休みました。",
+      "furigana": "かぜで{学校|がっこう}を{休|やす}みました。",
+      "en": "I stayed home from school with a cold.",
+      "vi": "Tôi phải nghỉ học ở nhà vì cảm lạnh."
+    }
+  ],
+  "tags": [
+    "reason"
+  ],
+  "unitId": "grammar-n4-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-reason-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ニュースを聞いて、びっくりしました。",
+      "sentenceVi": "Tôi rất ngạc nhiên khi nghe tin này.",
+      "targetGrammar": "〜て（reason）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Bởi vì ; vì vậy (gây ra một cảm giác hoặc trạng thái)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜て（reason）」 mang ý nghĩa: \"Bởi vì ; vì vậy (gây ra một cảm giác hoặc trạng thái)\"."
+    },
+    {
+      "id": "bunpou-n4-te-reason-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このスープは熱くて、飲めません。",
+      "sentenceVi": "Món súp này quá nóng để uống.",
+      "targetGrammar": "〜て（reason）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜て（reason）",
+        "〜てもらう",
+        "〜ていく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Món súp này quá nóng để uống.\", ta sử dụng mẫu 「〜て（reason）」."
+    },
+    {
+      "id": "bunpou-n4-te-reason-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "かぜで学校を休みました。",
+      "sentenceVi": "Tôi phải nghỉ học ở nhà vì cảm lạnh.",
+      "targetGrammar": "〜て（reason）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Bởi vì ; vì vậy (gây ra một cảm giác hoặc trạng thái)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜て（reason）」 mang ý nghĩa: \"Bởi vì ; vì vậy (gây ra một cảm giác hoặc trạng thái)\"."
+    },
+    {
+      "id": "bunpou-n4-te-reason-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "ニュースを聞いて、びっくりしました。",
+      "sentenceVi": "Tôi rất ngạc nhiên khi nghe tin này.",
+      "targetGrammar": "〜て（reason）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bởi vì ; vì vậy (gây ra một cảm giác hoặc trạng thái)\":",
+      "options": [
+        "〜てある",
+        "〜とき",
+        "〜て（reason）",
+        "〜てみる"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜て（reason）」."
+    },
+    {
+      "id": "bunpou-n4-te-reason-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ニュースを聞いて、びっくりしました。",
+      "sentenceVi": "Tôi rất ngạc nhiên khi nghe tin này.",
+      "targetGrammar": "〜て（reason）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜て（reason）」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Bởi vì ; vì vậy (gây ra một cảm giác hoặc trạng thái)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜て（reason）」 có nghĩa là: Bởi vì ; vì vậy (gây ra một cảm giác hoặc trạng thái)."
+    }
+  ]
+}

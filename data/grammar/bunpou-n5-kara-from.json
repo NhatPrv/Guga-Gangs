@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n5-kara-from",
+  "level": "N5",
+  "pattern": "〜から（from）",
+  "title": "〜から（from）",
+  "meaning": "Từ... (Chỉ điểm bắt đầu không gian, thời gian)",
+  "meaningVi": "Từ... (Chỉ điểm bắt đầu không gian, thời gian)",
+  "connection": "Danh từ (N) + から",
+  "usageNotes": "Thường kết hợp với まで: 月曜日から金曜日まで (từ thứ Hai đến thứ Sáu).",
+  "examples": [
+    {
+      "ja": "授業は9時からです。",
+      "furigana": "{授業|じゅぎょう}は9{時|じ}からです。",
+      "en": "Class starts at nine.",
+      "vi": "Lớp học bắt đầu lúc chín giờ."
+    },
+    {
+      "ja": "学校から駅まで歩きます。",
+      "furigana": "{学校|がっこう}から{駅|えき}まで{歩|ある}きます。",
+      "en": "I walk from school to the station.",
+      "vi": "Tôi đi bộ từ trường đến ga."
+    },
+    {
+      "ja": "私はブラジルから来ました。",
+      "furigana": "{私|わたし}はブラジルから{来|き}ました。",
+      "en": "I'm from Brazil.",
+      "vi": "Tôi đến từ Brazil."
+    }
+  ],
+  "tags": [
+    "particle",
+    "time",
+    "range"
+  ],
+  "unitId": "grammar-n5-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n5-kara-from-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "授業は9時からです。",
+      "sentenceVi": "Lớp học bắt đầu lúc chín giờ.",
+      "targetGrammar": "〜から（from）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Từ... (Chỉ điểm bắt đầu không gian, thời gian)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜から（from）」 mang ý nghĩa: \"Từ... (Chỉ điểm bắt đầu không gian, thời gian)\"."
+    },
+    {
+      "id": "bunpou-n5-kara-from-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "学校から駅まで歩きます。",
+      "sentenceVi": "Tôi đi bộ từ trường đến ga.",
+      "targetGrammar": "〜から（from）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜から（from）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đi bộ từ trường đến ga.\", ta sử dụng mẫu 「〜から（from）」."
+    },
+    {
+      "id": "bunpou-n5-kara-from-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私はブラジルから来ました。",
+      "sentenceVi": "Tôi đến từ Brazil.",
+      "targetGrammar": "〜から（from）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Từ... (Chỉ điểm bắt đầu không gian, thời gian)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜から（from）」 mang ý nghĩa: \"Từ... (Chỉ điểm bắt đầu không gian, thời gian)\"."
+    },
+    {
+      "id": "bunpou-n5-kara-from-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "授業は9時からです。",
+      "sentenceVi": "Lớp học bắt đầu lúc chín giờ.",
+      "targetGrammar": "〜から（from）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Từ... (Chỉ điểm bắt đầu không gian, thời gian)\":",
+      "options": [
+        "〜から（from）",
+        "〜で（means）",
+        "〜で（place of action）",
+        "〜と（and）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜から（from）」."
+    },
+    {
+      "id": "bunpou-n5-kara-from-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "授業は9時からです。",
+      "sentenceVi": "Lớp học bắt đầu lúc chín giờ.",
+      "targetGrammar": "〜から（from）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜から（from）」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Từ... (Chỉ điểm bắt đầu không gian, thời gian)",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜から（from）」 có nghĩa là: Từ... (Chỉ điểm bắt đầu không gian, thời gian)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-wake-da",
+  "level": "N3",
+  "pattern": "〜わけだ",
+  "title": "〜わけだ",
+  "meaning": "Thảo nào, hèn chi... / Đương nhiên là...",
+  "meaningVi": "Thảo nào, hèn chi... / Đương nhiên là...",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + という + わけだ",
+  "usageNotes": "Đưa ra kết luận một cách tự nhiên dựa trên những sự kiện đã biết, thường với cảm giác 'bây giờ tôi đã hiểu'. Thường đứng trước だから, それで hoặc どうりで.",
+  "examples": [
+    {
+      "ja": "三年も中国に住んでいたんですか。だから中国語が上手なわけですね。",
+      "furigana": "{三|さん}{年|ねん}も{中国|ちゅうごく}に{住|す}んでいたんですか。だから{中国|ちゅうごく}{語|ご}が{上手|じょうず}なわけですね。",
+      "en": "You lived in China for three years? That's why your Chinese is so good.",
+      "vi": "Bạn sống ở Trung Quốc được ba năm? Đó là lý do tại sao tiếng Trung của bạn rất tốt."
+    },
+    {
+      "ja": "窓が全部開いている。どうりで寒いわけだ。",
+      "furigana": "{窓|まど}が{全部|ぜんぶ}{開|あ}いている。どうりで{寒|さむ}いわけだ。",
+      "en": "All the windows are open. No wonder it's cold.",
+      "vi": "Tất cả các cửa sổ đều mở. Không có gì ngạc nhiên khi trời lạnh."
+    },
+    {
+      "ja": "この本は三百ページだから、一日に二十ページ読めば、十五日で読み終わるわけだ。",
+      "furigana": "この{本|ほん}は{三百|さんびゃく}ページだから、{一|いち}{日|にち}に{二|に}{十|じゅう}ページ{読|よ}めば、{十|じゅう}{五|ご}{日|にち}で{読|よ}み{終|お}わるわけだ。",
+      "en": "This book has 300 pages, so if I read twenty pages a day, that means I'll finish it in fifteen days.",
+      "vi": "Cuốn sách này có 300 trang, vì vậy nếu tôi đọc 20 trang một ngày, điều đó có nghĩa là tôi sẽ đọc xong nó trong mười lăm ngày."
+    }
+  ],
+  "tags": [
+    "reason",
+    "result"
+  ],
+  "unitId": "grammar-n3-unit-01",
+  "questions": [
+    {
+      "id": "bunpou-n3-wake-da-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "三年も中国に住んでいたんですか。だから中国語が上手なわけですね。",
+      "sentenceVi": "Bạn sống ở Trung Quốc được ba năm? Đó là lý do tại sao tiếng Trung của bạn rất tốt.",
+      "targetGrammar": "〜わけだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Không thể làm... (Vì lý do đạo đức, xã hội)",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜わけだ」 mang ý nghĩa: \"Thảo nào, hèn chi... / Đương nhiên là...\"."
+    },
+    {
+      "id": "bunpou-n3-wake-da-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "窓が全部開いている。どうりで寒いわけだ。",
+      "sentenceVi": "Tất cả các cửa sổ đều mở. Không có gì ngạc nhiên khi trời lạnh.",
+      "targetGrammar": "〜わけだ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜もの / 〜もん",
+        "〜ものだ",
+        "〜わけだ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Tất cả các cửa sổ đều mở. Không có gì ngạc nhiên khi trời lạnh.\", ta sử dụng mẫu 「〜わけだ」."
+    },
+    {
+      "id": "bunpou-n3-wake-da-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この本は三百ページだから、一日に二十ページ読めば、十五日で読み終わるわけだ。",
+      "sentenceVi": "Cuốn sách này có 300 trang, vì vậy nếu tôi đọc 20 trang một ngày, điều đó có nghĩa là tôi sẽ đọc xong nó trong mười lăm ngày.",
+      "targetGrammar": "〜わけだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không cần phải làm vậy; không cần phải làm vậy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜わけだ」 mang ý nghĩa: \"Thảo nào, hèn chi... / Đương nhiên là...\"."
+    },
+    {
+      "id": "bunpou-n3-wake-da-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "三年も中国に住んでいたんですか。だから中国語が上手なわけですね。",
+      "sentenceVi": "Bạn sống ở Trung Quốc được ba năm? Đó là lý do tại sao tiếng Trung của bạn rất tốt.",
+      "targetGrammar": "〜わけだ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thảo nào, hèn chi... / Đương nhiên là...\":",
+      "options": [
+        "〜わけだ",
+        "〜ことになっている",
+        "〜ことにしている",
+        "〜こと（instruction）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜わけだ」."
+    },
+    {
+      "id": "bunpou-n3-wake-da-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "三年も中国に住んでいたんですか。だから中国語が上手なわけですね。",
+      "sentenceVi": "Bạn sống ở Trung Quốc được ba năm? Đó là lý do tại sao tiếng Trung của bạn rất tốt.",
+      "targetGrammar": "〜わけだ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜わけだ」 là gì?",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Không thể ; không có vẻ như nó sẽ",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜わけだ」 có nghĩa là: Thảo nào, hèn chi... / Đương nhiên là...."
+    }
+  ]
+}

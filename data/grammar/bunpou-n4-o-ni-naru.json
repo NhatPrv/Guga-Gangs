@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-o-ni-naru",
+  "level": "N4",
+  "pattern": "お〜になる",
+  "title": "お〜になる",
+  "meaning": "(kính trọng) ai đó được kính trọng làm",
+  "meaningVi": "(kính trọng) ai đó được kính trọng làm",
+  "connection": "お + Động từ (V)-stem + になる",
+  "usageNotes": "Không dùng với gốc một âm tiết (見る, 寝る) hoặc động từ có dạng đặc biệt (行く → いらっしゃる). する-danh từ lấy ご + Danh từ + になる (ご利用になる).",
+  "examples": [
+    {
+      "ja": "先生はもうお帰りになりました。",
+      "furigana": "{先生|せんせい}はもうお{帰|かえ}りになりました。",
+      "en": "The teacher has already gone home.",
+      "vi": "Thầy đã về nhà rồi."
+    },
+    {
+      "ja": "この本をお読みになりましたか。",
+      "furigana": "この{本|ほん}をお{読|よ}みになりましたか。",
+      "en": "Have you read this book?",
+      "vi": "Bạn đã đọc cuốn sách này chưa?"
+    },
+    {
+      "ja": "社長はいつもこのホテルにお泊まりになります。",
+      "furigana": "{社長|しゃちょう}はいつもこのホテルにお{泊|と}まりになります。",
+      "en": "The company president always stays at this hotel.",
+      "vi": "Chủ tịch công ty luôn ở khách sạn này."
+    }
+  ],
+  "tags": [
+    "honorific"
+  ],
+  "unitId": "grammar-n4-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n4-o-ni-naru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "先生はもうお帰りになりました。",
+      "sentenceVi": "Thầy đã về nhà rồi.",
+      "targetGrammar": "お〜になる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "(kính trọng) ai đó được kính trọng làm",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「お〜になる」 mang ý nghĩa: \"(kính trọng) ai đó được kính trọng làm\"."
+    },
+    {
+      "id": "bunpou-n4-o-ni-naru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この本をお読みになりましたか。",
+      "sentenceVi": "Bạn đã đọc cuốn sách này chưa?",
+      "targetGrammar": "お〜になる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "お〜になる",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn đã đọc cuốn sách này chưa?\", ta sử dụng mẫu 「お〜になる」."
+    },
+    {
+      "id": "bunpou-n4-o-ni-naru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "社長はいつもこのホテルにお泊まりになります。",
+      "sentenceVi": "Chủ tịch công ty luôn ở khách sạn này.",
+      "targetGrammar": "お〜になる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "(kính trọng) ai đó được kính trọng làm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「お〜になる」 mang ý nghĩa: \"(kính trọng) ai đó được kính trọng làm\"."
+    },
+    {
+      "id": "bunpou-n4-o-ni-naru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "先生はもうお帰りになりました。",
+      "sentenceVi": "Thầy đã về nhà rồi.",
+      "targetGrammar": "お〜になる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"(kính trọng) ai đó được kính trọng làm\":",
+      "options": [
+        "〜てみる",
+        "〜てある",
+        "お〜になる",
+        "〜とき"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「お〜になる」."
+    },
+    {
+      "id": "bunpou-n4-o-ni-naru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "先生はもうお帰りになりました。",
+      "sentenceVi": "Thầy đã về nhà rồi.",
+      "targetGrammar": "お〜になる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「お〜になる」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "(kính trọng) ai đó được kính trọng làm"
+      ],
+      "correctIndex": 3,
+      "explanation": "「お〜になる」 có nghĩa là: (kính trọng) ai đó được kính trọng làm."
+    }
+  ]
+}

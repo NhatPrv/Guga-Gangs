@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-node",
+  "level": "N4",
+  "pattern": "〜ので",
+  "title": "〜ので",
+  "meaning": "Bởi vì ; kể từ khi",
+  "meaningVi": "Bởi vì ; kể từ khi",
+  "connection": "Động từ (V)-plain / i-Adj + ので / na-Adj + な + ので / Danh từ (N) + な + ので",
+  "usageNotes": "Nghe nhẹ nhàng và khách quan hơn から nên nó được ưa chuộng hơn khi đưa ra lý do một cách lịch sự hoặc khi xin lỗi.",
+  "examples": [
+    {
+      "ja": "頭が痛いので、今日は早く帰ります。",
+      "furigana": "{頭|あたま}が{痛|いた}いので、{今日|きょう}は{早|はや}く{帰|かえ}ります。",
+      "en": "I have a headache, so I'm going home early today.",
+      "vi": "Hôm nay tôi bị đau đầu nên về nhà sớm."
+    },
+    {
+      "ja": "明日はテストなので、今夜は勉強します。",
+      "furigana": "{明日|あした}はテストなので、{今夜|こんや}は{勉強|べんきょう}します。",
+      "en": "I have a test tomorrow, so I'm studying tonight.",
+      "vi": "Ngày mai tôi có bài kiểm tra nên tối nay tôi phải học."
+    },
+    {
+      "ja": "道がこんでいたので、少し遅れました。",
+      "furigana": "{道|みち}がこんでいたので、{少|すこ}し{遅|おく}れました。",
+      "en": "The roads were crowded, so I was a little late.",
+      "vi": "Đường đông đúc nên tôi đến hơi muộn."
+    }
+  ],
+  "tags": [
+    "reason"
+  ],
+  "unitId": "grammar-n4-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n4-node-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "頭が痛いので、今日は早く帰ります。",
+      "sentenceVi": "Hôm nay tôi bị đau đầu nên về nhà sớm.",
+      "targetGrammar": "〜ので",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Bởi vì ; kể từ khi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ので」 mang ý nghĩa: \"Bởi vì ; kể từ khi\"."
+    },
+    {
+      "id": "bunpou-n4-node-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "明日はテストなので、今夜は勉強します。",
+      "sentenceVi": "Ngày mai tôi có bài kiểm tra nên tối nay tôi phải học.",
+      "targetGrammar": "〜ので",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜ので"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Ngày mai tôi có bài kiểm tra nên tối nay tôi phải học.\", ta sử dụng mẫu 「〜ので」."
+    },
+    {
+      "id": "bunpou-n4-node-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "道がこんでいたので、少し遅れました。",
+      "sentenceVi": "Đường đông đúc nên tôi đến hơi muộn.",
+      "targetGrammar": "〜ので",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Bởi vì ; kể từ khi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ので」 mang ý nghĩa: \"Bởi vì ; kể từ khi\"."
+    },
+    {
+      "id": "bunpou-n4-node-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "頭が痛いので、今日は早く帰ります。",
+      "sentenceVi": "Hôm nay tôi bị đau đầu nên về nhà sớm.",
+      "targetGrammar": "〜ので",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bởi vì ; kể từ khi\":",
+      "options": [
+        "〜てみる",
+        "〜ので",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ので」."
+    },
+    {
+      "id": "bunpou-n4-node-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "頭が痛いので、今日は早く帰ります。",
+      "sentenceVi": "Hôm nay tôi bị đau đầu nên về nhà sớm.",
+      "targetGrammar": "〜ので",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ので」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Bởi vì ; kể từ khi",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ので」 có nghĩa là: Bởi vì ; kể từ khi."
+    }
+  ]
+}

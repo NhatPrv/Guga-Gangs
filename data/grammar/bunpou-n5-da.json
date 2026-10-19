@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-da",
+  "level": "N5",
+  "pattern": "〜だ",
+  "title": "〜だ",
+  "meaning": "Là; là; là (copula đơn giản)",
+  "meaningVi": "Là; là; là (copula đơn giản)",
+  "connection": "Danh từ (N) + だ / na-Adj + だ",
+  "usageNotes": "Các dạng: だ, じゃない, だった, じゃなかった. Không bao giờ dùng ngay sau tính từ い (高いだ là sai). Thường rơi vào các câu hỏi thông thường: 学生？",
+  "examples": [
+    {
+      "ja": "今日は日曜日だ。",
+      "furigana": "{今日|きょう}は{日曜日|にちようび}だ。",
+      "en": "Today is Sunday.",
+      "vi": "Hôm nay là chủ nhật."
+    },
+    {
+      "ja": "あの人は私の兄だ。",
+      "furigana": "あの{人|ひと}は{私|わたし}の{兄|あに}だ。",
+      "en": "That person is my older brother.",
+      "vi": "Người đó chính là anh trai tôi."
+    },
+    {
+      "ja": "明日は休みだから、ゆっくり寝る。",
+      "furigana": "{明日|あした}は{休|やす}みだから、ゆっくり{寝|ね}る。",
+      "en": "Tomorrow is a day off, so I'll sleep in.",
+      "vi": "Ngày mai là ngày nghỉ nên tôi sẽ ngủ nướng."
+    }
+  ],
+  "tags": [
+    "copula",
+    "casual"
+  ],
+  "unitId": "grammar-n5-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n5-da-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は日曜日だ。",
+      "sentenceVi": "Hôm nay là chủ nhật.",
+      "targetGrammar": "〜だ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Là; là; là (copula đơn giản)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜だ」 mang ý nghĩa: \"Là; là; là (copula đơn giản)\"."
+    },
+    {
+      "id": "bunpou-n5-da-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "あの人は私の兄だ。",
+      "sentenceVi": "Người đó chính là anh trai tôi.",
+      "targetGrammar": "〜だ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜だ",
+        "〜に（destination）",
+        "〜に（time）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Người đó chính là anh trai tôi.\", ta sử dụng mẫu 「〜だ」."
+    },
+    {
+      "id": "bunpou-n5-da-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日は休みだから、ゆっくり寝る。",
+      "sentenceVi": "Ngày mai là ngày nghỉ nên tôi sẽ ngủ nướng.",
+      "targetGrammar": "〜だ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Là; là; là (copula đơn giản)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜だ」 mang ý nghĩa: \"Là; là; là (copula đơn giản)\"."
+    },
+    {
+      "id": "bunpou-n5-da-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は日曜日だ。",
+      "sentenceVi": "Hôm nay là chủ nhật.",
+      "targetGrammar": "〜だ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Là; là; là (copula đơn giản)\":",
+      "options": [
+        "〜と（and）",
+        "〜で（place of action）",
+        "〜だ",
+        "〜で（means）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜だ」."
+    },
+    {
+      "id": "bunpou-n5-da-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は日曜日だ。",
+      "sentenceVi": "Hôm nay là chủ nhật.",
+      "targetGrammar": "〜だ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜だ」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Là; là; là (copula đơn giản)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜だ」 có nghĩa là: Là; là; là (copula đơn giản)."
+    }
+  ]
+}

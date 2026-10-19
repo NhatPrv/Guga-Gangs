@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-to-with",
+  "level": "N5",
+  "pattern": "〜と（with）",
+  "title": "〜と（with）",
+  "meaning": "Với ; cùng với (một đối tác trong một hành động)",
+  "meaningVi": "Với ; cùng với (một đối tác trong một hành động)",
+  "connection": "Danh từ (N) + と",
+  "usageNotes": "Thường theo sau là いっしょに. Với các động từ như 話す, 会う và 結婚する, と đánh dấu người khác.",
+  "examples": [
+    {
+      "ja": "週末、友達と映画を見ました。",
+      "furigana": "{週末|しゅうまつ}、{友達|ともだち}と{映画|えいが}を{見|み}ました。",
+      "en": "I saw a movie with a friend on the weekend.",
+      "vi": "Tôi đã xem một bộ phim với một người bạn vào cuối tuần."
+    },
+    {
+      "ja": "妹といっしょに買い物に行きます。",
+      "furigana": "{妹|いもうと}といっしょに{買|か}い{物|もの}に{行|い}きます。",
+      "en": "I'm going shopping with my younger sister.",
+      "vi": "Tôi đang đi mua sắm với em gái tôi."
+    },
+    {
+      "ja": "だれと昼ご飯を食べましたか。",
+      "furigana": "だれと{昼|ひる}ご{飯|はん}を{食|た}べましたか。",
+      "en": "Who did you have lunch with?",
+      "vi": "Bạn đã ăn trưa với ai?"
+    }
+  ],
+  "tags": [
+    "particle"
+  ],
+  "unitId": "grammar-n5-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n5-to-with-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "週末、友達と映画を見ました。",
+      "sentenceVi": "Tôi đã xem một bộ phim với một người bạn vào cuối tuần.",
+      "targetGrammar": "〜と（with）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜と（with）」 mang ý nghĩa: \"Với ; cùng với (một đối tác trong một hành động)\"."
+    },
+    {
+      "id": "bunpou-n5-to-with-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "妹といっしょに買い物に行きます。",
+      "sentenceVi": "Tôi đang đi mua sắm với em gái tôi.",
+      "targetGrammar": "〜と（with）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜と（with）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đang đi mua sắm với em gái tôi.\", ta sử dụng mẫu 「〜と（with）」."
+    },
+    {
+      "id": "bunpou-n5-to-with-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "だれと昼ご飯を食べましたか。",
+      "sentenceVi": "Bạn đã ăn trưa với ai?",
+      "targetGrammar": "〜と（with）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜と（with）」 mang ý nghĩa: \"Với ; cùng với (một đối tác trong một hành động)\"."
+    },
+    {
+      "id": "bunpou-n5-to-with-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "週末、友達と映画を見ました。",
+      "sentenceVi": "Tôi đã xem một bộ phim với một người bạn vào cuối tuần.",
+      "targetGrammar": "〜と（with）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Với ; cùng với (một đối tác trong một hành động)\":",
+      "options": [
+        "〜と（with）",
+        "〜と（and）",
+        "〜で（place of action）",
+        "〜で（means）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜と（with）」."
+    },
+    {
+      "id": "bunpou-n5-to-with-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "週末、友達と映画を見ました。",
+      "sentenceVi": "Tôi đã xem một bộ phim với một người bạn vào cuối tuần.",
+      "targetGrammar": "〜と（with）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜と（with）」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Cũng... (Biểu thị sự tương tự)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜と（with）」 có nghĩa là: Với ; cùng với (một đối tác trong một hành động)."
+    }
+  ]
+}

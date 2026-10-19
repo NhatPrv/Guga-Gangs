@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-au",
+  "level": "N3",
+  "pattern": "〜合う",
+  "title": "〜合う",
+  "meaning": "Làm với nhau; làm cùng nhau",
+  "meaningVi": "Làm với nhau; làm cùng nhau",
+  "connection": "Động từ (V)-stem + 合う",
+  "usageNotes": "Hành động tương hỗ hoặc chia sẻ. Nhiều từ ghép được tạo thành từ: 話し合う, 知り合う, 付き合う, 助け合う.",
+  "examples": [
+    {
+      "ja": "困ったときは、お互いに助け合いましょう。",
+      "furigana": "{困|こま}ったときは、お{互|たが}いに{助|たす}け{合|あ}いましょう。",
+      "en": "Let's help each other out when things get tough.",
+      "vi": "Hãy giúp đỡ lẫn nhau khi mọi việc trở nên khó khăn."
+    },
+    {
+      "ja": "旅行の計画について、家族で話し合った。",
+      "furigana": "{旅行|りょこう}の{計画|けいかく}について、{家族|かぞく}で{話|はな}し{合|あ}った。",
+      "en": "We talked over the travel plans as a family.",
+      "vi": "Chúng tôi đã nói chuyện về kế hoạch du lịch với tư cách là một gia đình."
+    },
+    {
+      "ja": "優勝が決まると、選手たちは抱き合って喜んだ。",
+      "furigana": "{優勝|ゆうしょう}が{決|き}まると、{選手|せんしゅ}たちは{抱|だ}き{合|あ}って{喜|よろこ}んだ。",
+      "en": "When their victory was confirmed, the players hugged each other in joy.",
+      "vi": "Khi chiến thắng được xác nhận, các cầu thủ đã ôm nhau vui mừng."
+    }
+  ],
+  "tags": [
+    "manner",
+    "relation"
+  ],
+  "unitId": "grammar-n3-unit-19",
+  "questions": [
+    {
+      "id": "bunpou-n3-au-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "困ったときは、お互いに助け合いましょう。",
+      "sentenceVi": "Hãy giúp đỡ lẫn nhau khi mọi việc trở nên khó khăn.",
+      "targetGrammar": "〜合う",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Làm với nhau; làm cùng nhau",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜合う」 mang ý nghĩa: \"Làm với nhau; làm cùng nhau\"."
+    },
+    {
+      "id": "bunpou-n3-au-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "旅行の計画について、家族で話し合った。",
+      "sentenceVi": "Chúng tôi đã nói chuyện về kế hoạch du lịch với tư cách là một gia đình.",
+      "targetGrammar": "〜合う",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜合う",
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜ものだ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Chúng tôi đã nói chuyện về kế hoạch du lịch với tư cách là một gia đình.\", ta sử dụng mẫu 「〜合う」."
+    },
+    {
+      "id": "bunpou-n3-au-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "優勝が決まると、選手たちは抱き合って喜んだ。",
+      "sentenceVi": "Khi chiến thắng được xác nhận, các cầu thủ đã ôm nhau vui mừng.",
+      "targetGrammar": "〜合う",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Làm với nhau; làm cùng nhau",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜合う」 mang ý nghĩa: \"Làm với nhau; làm cùng nhau\"."
+    },
+    {
+      "id": "bunpou-n3-au-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "困ったときは、お互いに助け合いましょう。",
+      "sentenceVi": "Hãy giúp đỡ lẫn nhau khi mọi việc trở nên khó khăn.",
+      "targetGrammar": "〜合う",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm với nhau; làm cùng nhau\":",
+      "options": [
+        "〜合う",
+        "〜ことはない",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜合う」."
+    },
+    {
+      "id": "bunpou-n3-au-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "困ったときは、お互いに助け合いましょう。",
+      "sentenceVi": "Hãy giúp đỡ lẫn nhau khi mọi việc trở nên khó khăn.",
+      "targetGrammar": "〜合う",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜合う」 là gì?",
+      "options": [
+        "Làm với nhau; làm cùng nhau",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜合う」 có nghĩa là: Làm với nhau; làm cùng nhau."
+    }
+  ]
+}

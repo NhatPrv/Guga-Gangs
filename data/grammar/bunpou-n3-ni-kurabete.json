@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-ni-kurabete",
+  "level": "N3",
+  "pattern": "〜に比べて",
+  "title": "〜に比べて",
+  "meaning": "So sánh với ; so với",
+  "meaningVi": "So sánh với ; so với",
+  "connection": "Danh từ (N) + に比べて / Động từ (V)-dict + のに比べて",
+  "usageNotes": "Ngoài ra còn có 〜と比べて, 〜に比べると và 〜に比べれば. Đặt hai thứ cạnh nhau rõ ràng hơn 〜より.",
+  "examples": [
+    {
+      "ja": "今年の夏は、去年に比べてずいぶん涼しい。",
+      "furigana": "{今年|ことし}の{夏|なつ}は、{去年|きょねん}に{比|くら}べてずいぶん{涼|すず}しい。",
+      "en": "This summer is much cooler compared to last year.",
+      "vi": "Mùa hè năm nay mát mẻ hơn nhiều so với năm ngoái."
+    },
+    {
+      "ja": "都会に比べて、田舎は家賃が安い。",
+      "furigana": "{都会|とかい}に{比|くら}べて、{田舎|いなか}は{家賃|やちん}が{安|やす}い。",
+      "en": "Compared to the city, rent in the countryside is cheap.",
+      "vi": "So với thành phố, giá thuê nhà ở nông thôn rẻ hơn."
+    },
+    {
+      "ja": "電車で行くのに比べて、車で行くと三十分ほど長くかかる。",
+      "furigana": "{電車|でんしゃ}で{行|い}くのに{比|くら}べて、{車|くるま}で{行|い}くと{三十分|さんじゅっぷん}ほど{長|なが}くかかる。",
+      "en": "Compared to going by train, driving takes about thirty minutes longer.",
+      "vi": "So với việc đi bằng tàu hỏa, lái xe mất khoảng ba mươi phút."
+    }
+  ],
+  "tags": [
+    "comparison"
+  ],
+  "unitId": "grammar-n3-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-kurabete-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今年の夏は、去年に比べてずいぶん涼しい。",
+      "sentenceVi": "Mùa hè năm nay mát mẻ hơn nhiều so với năm ngoái.",
+      "targetGrammar": "〜に比べて",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "So sánh với ; so với",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜に比べて」 mang ý nghĩa: \"So sánh với ; so với\"."
+    },
+    {
+      "id": "bunpou-n3-ni-kurabete-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "都会に比べて、田舎は家賃が安い。",
+      "sentenceVi": "So với thành phố, giá thuê nhà ở nông thôn rẻ hơn.",
+      "targetGrammar": "〜に比べて",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に比べて",
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"So với thành phố, giá thuê nhà ở nông thôn rẻ hơn.\", ta sử dụng mẫu 「〜に比べて」."
+    },
+    {
+      "id": "bunpou-n3-ni-kurabete-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "電車で行くのに比べて、車で行くと三十分ほど長くかかる。",
+      "sentenceVi": "So với việc đi bằng tàu hỏa, lái xe mất khoảng ba mươi phút.",
+      "targetGrammar": "〜に比べて",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "So sánh với ; so với",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜に比べて」 mang ý nghĩa: \"So sánh với ; so với\"."
+    },
+    {
+      "id": "bunpou-n3-ni-kurabete-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今年の夏は、去年に比べてずいぶん涼しい。",
+      "sentenceVi": "Mùa hè năm nay mát mẻ hơn nhiều so với năm ngoái.",
+      "targetGrammar": "〜に比べて",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"So sánh với ; so với\":",
+      "options": [
+        "〜に比べて",
+        "〜ことはない",
+        "〜ことにしている",
+        "〜ことになっている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜に比べて」."
+    },
+    {
+      "id": "bunpou-n3-ni-kurabete-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今年の夏は、去年に比べてずいぶん涼しい。",
+      "sentenceVi": "Mùa hè năm nay mát mẻ hơn nhiều so với năm ngoái.",
+      "targetGrammar": "〜に比べて",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜に比べて」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "So sánh với ; so với",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜に比べて」 có nghĩa là: So sánh với ; so với."
+    }
+  ]
+}

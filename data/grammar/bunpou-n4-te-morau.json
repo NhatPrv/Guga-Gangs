@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-te-morau",
+  "level": "N4",
+  "pattern": "〜てもらう",
+  "title": "〜てもらう",
+  "meaning": "Được ai đó làm giúp cho việc gì...",
+  "meaningVi": "Được ai đó làm giúp cho việc gì...",
+  "connection": "Động từ (V)-te + もらう",
+  "usageNotes": "Người nhận sự giúp đỡ là chủ ngữ và người thực hiện hành động được đánh dấu bằng に.",
+  "examples": [
+    {
+      "ja": "先輩にレポートを見てもらった。",
+      "furigana": "{先輩|せんぱい}にレポートを{見|み}てもらった。",
+      "en": "I had a senior student look over my report.",
+      "vi": "Tôi đã nhờ một sinh viên năm cuối xem qua báo cáo của tôi."
+    },
+    {
+      "ja": "友達に写真を撮ってもらった。",
+      "furigana": "{友達|ともだち}に{写真|しゃしん}を{撮|と}ってもらった。",
+      "en": "I had a friend take my picture.",
+      "vi": "Tôi nhờ một người bạn chụp ảnh cho tôi."
+    },
+    {
+      "ja": "分からないところを先生に説明してもらいました。",
+      "furigana": "{分|わ}からないところを{先生|せんせい}に{説明|せつめい}してもらいました。",
+      "en": "I had the teacher explain the parts I didn't understand.",
+      "vi": "Tôi đã được giáo viên giải thích những phần tôi không hiểu."
+    }
+  ],
+  "tags": [
+    "giving-receiving"
+  ],
+  "unitId": "grammar-n4-unit-01",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-morau-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "先輩にレポートを見てもらった。",
+      "sentenceVi": "Tôi đã nhờ một sinh viên năm cuối xem qua báo cáo của tôi.",
+      "targetGrammar": "〜てもらう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Được ai đó làm giúp cho việc gì..."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜てもらう」 mang ý nghĩa: \"Được ai đó làm giúp cho việc gì...\"."
+    },
+    {
+      "id": "bunpou-n4-te-morau-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "友達に写真を撮ってもらった。",
+      "sentenceVi": "Tôi nhờ một người bạn chụp ảnh cho tôi.",
+      "targetGrammar": "〜てもらう",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜てくる",
+        "〜ていく",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi nhờ một người bạn chụp ảnh cho tôi.\", ta sử dụng mẫu 「〜てもらう」."
+    },
+    {
+      "id": "bunpou-n4-te-morau-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "分からないところを先生に説明してもらいました。",
+      "sentenceVi": "Tôi đã được giáo viên giải thích những phần tôi không hiểu.",
+      "targetGrammar": "〜てもらう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Được ai đó làm giúp cho việc gì...",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Thử làm gì đó...",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜てもらう」 mang ý nghĩa: \"Được ai đó làm giúp cho việc gì...\"."
+    },
+    {
+      "id": "bunpou-n4-te-morau-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "先輩にレポートを見てもらった。",
+      "sentenceVi": "Tôi đã nhờ một sinh viên năm cuối xem qua báo cáo của tôi.",
+      "targetGrammar": "〜てもらう",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Được ai đó làm giúp cho việc gì...\":",
+      "options": [
+        "〜間 / 〜間に",
+        "〜てもらう",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜てもらう」."
+    },
+    {
+      "id": "bunpou-n4-te-morau-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "先輩にレポートを見てもらった。",
+      "sentenceVi": "Tôi đã nhờ một sinh viên năm cuối xem qua báo cáo của tôi.",
+      "targetGrammar": "〜てもらう",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てもらう」 là gì?",
+      "options": [
+        "Được ai đó làm giúp cho việc gì...",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜てもらう」 có nghĩa là: Được ai đó làm giúp cho việc gì...."
+    }
+  ]
+}

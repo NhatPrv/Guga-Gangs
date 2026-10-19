@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-sonkeigo",
+  "level": "N4",
+  "pattern": "尊敬語",
+  "title": "尊敬語",
+  "meaning": "Động từ kính ngữ; ngôn ngữ tôn trọng hành động của người khác",
+  "meaningVi": "Động từ kính ngữ; ngôn ngữ tôn trọng hành động của người khác",
+  "connection": "いらっしゃる（行く・来る・いる） / 召し上がる（食べる・飲む） / おっしゃる（言う） / なさる（する） / ご覧になる（見る） / くださる（くれる）",
+  "usageNotes": "Nâng cao hành động của những người bạn tôn trọng, chẳng hạn như khách hàng, giáo viên và cấp trên. Đừng bao giờ sử dụng nó cho hành động của riêng bạn.",
+  "examples": [
+    {
+      "ja": "社長は何時ごろいらっしゃいますか。",
+      "furigana": "{社長|しゃちょう}は{何|なん}{時|じ}ごろいらっしゃいますか。",
+      "en": "Around what time will the company president be here?",
+      "vi": "Chủ tịch công ty sẽ có mặt ở đây vào khoảng mấy giờ?"
+    },
+    {
+      "ja": "先生、どうぞ召し上がってください。",
+      "furigana": "{先生|せんせい}、どうぞ{召|め}し{上|あ}がってください。",
+      "en": "Please help yourself, sensei.",
+      "vi": "Xin hãy tự giúp mình, sensei."
+    },
+    {
+      "ja": "部長は会議でそうおっしゃいました。",
+      "furigana": "{部長|ぶちょう}は{会議|かいぎ}でそうおっしゃいました。",
+      "en": "The department manager said so at the meeting.",
+      "vi": "Giám đốc bộ phận đã nói như vậy tại cuộc họp."
+    }
+  ],
+  "tags": [
+    "honorific",
+    "politeness"
+  ],
+  "unitId": "grammar-n4-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n4-sonkeigo-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "社長は何時ごろいらっしゃいますか。",
+      "sentenceVi": "Chủ tịch công ty sẽ có mặt ở đây vào khoảng mấy giờ?",
+      "targetGrammar": "尊敬語",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Động từ kính ngữ; ngôn ngữ tôn trọng hành động của người khác"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「尊敬語」 mang ý nghĩa: \"Động từ kính ngữ; ngôn ngữ tôn trọng hành động của người khác\"."
+    },
+    {
+      "id": "bunpou-n4-sonkeigo-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "先生、どうぞ召し上がってください。",
+      "sentenceVi": "Xin hãy tự giúp mình, sensei.",
+      "targetGrammar": "尊敬語",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "尊敬語",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜ていく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Xin hãy tự giúp mình, sensei.\", ta sử dụng mẫu 「尊敬語」."
+    },
+    {
+      "id": "bunpou-n4-sonkeigo-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "部長は会議でそうおっしゃいました。",
+      "sentenceVi": "Giám đốc bộ phận đã nói như vậy tại cuộc họp.",
+      "targetGrammar": "尊敬語",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Động từ kính ngữ; ngôn ngữ tôn trọng hành động của người khác"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「尊敬語」 mang ý nghĩa: \"Động từ kính ngữ; ngôn ngữ tôn trọng hành động của người khác\"."
+    },
+    {
+      "id": "bunpou-n4-sonkeigo-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "社長は何時ごろいらっしゃいますか。",
+      "sentenceVi": "Chủ tịch công ty sẽ có mặt ở đây vào khoảng mấy giờ?",
+      "targetGrammar": "尊敬語",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Động từ kính ngữ; ngôn ngữ tôn trọng hành động của người khác\":",
+      "options": [
+        "〜とき",
+        "〜てある",
+        "尊敬語",
+        "〜てみる"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「尊敬語」."
+    },
+    {
+      "id": "bunpou-n4-sonkeigo-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "社長は何時ごろいらっしゃいますか。",
+      "sentenceVi": "Chủ tịch công ty sẽ có mặt ở đây vào khoảng mấy giờ?",
+      "targetGrammar": "尊敬語",
+      "prompt": "Ý nghĩa chính của cấu trúc 「尊敬語」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Động từ kính ngữ; ngôn ngữ tôn trọng hành động của người khác",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 1,
+      "explanation": "「尊敬語」 có nghĩa là: Động từ kính ngữ; ngôn ngữ tôn trọng hành động của người khác."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-deshou",
+  "level": "N5",
+  "pattern": "〜でしょう",
+  "title": "〜でしょう",
+  "meaning": "Có lẽ là... (Phỏng đoán lịch sự)",
+  "meaningVi": "Có lẽ là... (Phỏng đoán lịch sự)",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + でしょう",
+  "usageNotes": "Điển hình của dự báo thời tiết. Nói với ngữ điệu lên cao, nó yêu cầu người nghe đồng ý. Dạng thông thường: だろう (N4).",
+  "examples": [
+    {
+      "ja": "明日は雨が降るでしょう。",
+      "furigana": "{明日|あした}は{雨|あめ}が{降|ふ}るでしょう。",
+      "en": "It will probably rain tomorrow.",
+      "vi": "Có lẽ ngày mai trời sẽ mưa."
+    },
+    {
+      "ja": "山の上は寒いでしょう。",
+      "furigana": "{山|やま}の{上|うえ}は{寒|さむ}いでしょう。",
+      "en": "It's probably cold at the top of the mountain.",
+      "vi": "Chắc trên đỉnh núi lạnh lắm."
+    },
+    {
+      "ja": "このかばん、かわいいでしょう？",
+      "furigana": "このかばん、かわいいでしょう？",
+      "en": "This bag is cute, isn't it?",
+      "vi": "Chiếc túi này thật dễ thương phải không?"
+    }
+  ],
+  "tags": [
+    "conjecture"
+  ],
+  "unitId": "grammar-n5-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n5-deshou-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日は雨が降るでしょう。",
+      "sentenceVi": "Có lẽ ngày mai trời sẽ mưa.",
+      "targetGrammar": "〜でしょう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Có lẽ là... (Phỏng đoán lịch sự)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜でしょう」 mang ý nghĩa: \"Có lẽ là... (Phỏng đoán lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n5-deshou-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "山の上は寒いでしょう。",
+      "sentenceVi": "Chắc trên đỉnh núi lạnh lắm.",
+      "targetGrammar": "〜でしょう",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜でしょう",
+        "〜に（place of existence）",
+        "〜に（time）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Chắc trên đỉnh núi lạnh lắm.\", ta sử dụng mẫu 「〜でしょう」."
+    },
+    {
+      "id": "bunpou-n5-deshou-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このかばん、かわいいでしょう？",
+      "sentenceVi": "Chiếc túi này thật dễ thương phải không?",
+      "targetGrammar": "〜でしょう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Có lẽ là... (Phỏng đoán lịch sự)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜でしょう」 mang ý nghĩa: \"Có lẽ là... (Phỏng đoán lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n5-deshou-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "明日は雨が降るでしょう。",
+      "sentenceVi": "Có lẽ ngày mai trời sẽ mưa.",
+      "targetGrammar": "〜でしょう",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có lẽ là... (Phỏng đoán lịch sự)\":",
+      "options": [
+        "〜で（means）",
+        "〜と（and）",
+        "〜でしょう",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜でしょう」."
+    },
+    {
+      "id": "bunpou-n5-deshou-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日は雨が降るでしょう。",
+      "sentenceVi": "Có lẽ ngày mai trời sẽ mưa.",
+      "targetGrammar": "〜でしょう",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜でしょう」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Có lẽ là... (Phỏng đoán lịch sự)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜でしょう」 có nghĩa là: Có lẽ là... (Phỏng đoán lịch sự)."
+    }
+  ]
+}

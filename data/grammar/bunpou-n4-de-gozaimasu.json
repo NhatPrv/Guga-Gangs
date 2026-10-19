@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-de-gozaimasu",
+  "level": "N4",
+  "pattern": "〜でございます",
+  "title": "〜でございます",
+  "meaning": "Là; là; là (copula rất lịch sự)",
+  "meaningVi": "Là; là; là (copula rất lịch sự)",
+  "connection": "Danh từ (N) / na-Adj + でございます",
+  "usageNotes": "Phiên bản rất lịch sự của です, điển hình của nhân viên cửa hàng và khách sạn nói chuyện với khách hàng. ございます bản thân nó là hình thức lịch sự của あります.",
+  "examples": [
+    {
+      "ja": "お手洗いはあちらでございます。",
+      "furigana": "お{手洗|てあら}いはあちらでございます。",
+      "en": "The restroom is over there.",
+      "vi": "Nhà vệ sinh ở đằng kia."
+    },
+    {
+      "ja": "こちらが、お部屋のかぎでございます。",
+      "furigana": "こちらが、お{部屋|へや}のかぎでございます。",
+      "en": "Here is your room key.",
+      "vi": "Đây là chìa khóa phòng của bạn."
+    },
+    {
+      "ja": "はい、山田商店でございます。",
+      "furigana": "はい、{山田|やまだ}{商店|しょうてん}でございます。",
+      "en": "Hello, Yamada Shoten speaking.",
+      "vi": "Xin chào, Yamada Shoten đang phát biểu."
+    }
+  ],
+  "tags": [
+    "politeness",
+    "formal"
+  ],
+  "unitId": "grammar-n4-unit-17",
+  "questions": [
+    {
+      "id": "bunpou-n4-de-gozaimasu-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "お手洗いはあちらでございます。",
+      "sentenceVi": "Nhà vệ sinh ở đằng kia.",
+      "targetGrammar": "〜でございます",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Là; là; là (copula rất lịch sự)",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜でございます」 mang ý nghĩa: \"Là; là; là (copula rất lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n4-de-gozaimasu-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "こちらが、お部屋のかぎでございます。",
+      "sentenceVi": "Đây là chìa khóa phòng của bạn.",
+      "targetGrammar": "〜でございます",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜でございます",
+        "〜てくださる / 〜ていただく",
+        "〜ていく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Đây là chìa khóa phòng của bạn.\", ta sử dụng mẫu 「〜でございます」."
+    },
+    {
+      "id": "bunpou-n4-de-gozaimasu-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "はい、山田商店でございます。",
+      "sentenceVi": "Xin chào, Yamada Shoten đang phát biểu.",
+      "targetGrammar": "〜でございます",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Là; là; là (copula rất lịch sự)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜でございます」 mang ý nghĩa: \"Là; là; là (copula rất lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n4-de-gozaimasu-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "お手洗いはあちらでございます。",
+      "sentenceVi": "Nhà vệ sinh ở đằng kia.",
+      "targetGrammar": "〜でございます",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Là; là; là (copula rất lịch sự)\":",
+      "options": [
+        "〜でございます",
+        "〜とき",
+        "〜てみる",
+        "〜てある"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜でございます」."
+    },
+    {
+      "id": "bunpou-n4-de-gozaimasu-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "お手洗いはあちらでございます。",
+      "sentenceVi": "Nhà vệ sinh ở đằng kia.",
+      "targetGrammar": "〜でございます",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜でございます」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Là; là; là (copula rất lịch sự)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜でございます」 có nghĩa là: Là; là; là (copula rất lịch sự)."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-te-kureru",
+  "level": "N4",
+  "pattern": "〜てくれる",
+  "title": "〜てくれる",
+  "meaning": "Ai đó làm giúp việc gì cho mình...",
+  "meaningVi": "Ai đó làm giúp việc gì cho mình...",
+  "connection": "Động từ (V)-te + くれる",
+  "usageNotes": "Chủ ngữ là người làm việc giúp đỡ; người được lợi là người nói hoặc người thân thiết với họ.",
+  "examples": [
+    {
+      "ja": "友達が引っ越しを手伝ってくれた。",
+      "furigana": "{友達|ともだち}が{引|ひ}っ{越|こ}しを{手伝|てつだ}ってくれた。",
+      "en": "A friend helped me move.",
+      "vi": "Một người bạn đã giúp tôi di chuyển."
+    },
+    {
+      "ja": "父が駅まで車で送ってくれました。",
+      "furigana": "{父|ちち}が{駅|えき}まで{車|くるま}で{送|おく}ってくれました。",
+      "en": "My father drove me to the station.",
+      "vi": "Bố tôi chở tôi đến nhà ga."
+    },
+    {
+      "ja": "母が毎朝お弁当を作ってくれます。",
+      "furigana": "{母|はは}が{毎朝|まいあさ}お{弁当|べんとう}を{作|つく}ってくれます。",
+      "en": "My mother makes me a boxed lunch every morning.",
+      "vi": "Mẹ tôi làm cho tôi một hộp cơm trưa mỗi sáng."
+    }
+  ],
+  "tags": [
+    "giving-receiving"
+  ],
+  "unitId": "grammar-n4-unit-01",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-kureru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "友達が引っ越しを手伝ってくれた。",
+      "sentenceVi": "Một người bạn đã giúp tôi di chuyển.",
+      "targetGrammar": "〜てくれる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Được ai đó làm giúp cho việc gì..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜てくれる」 mang ý nghĩa: \"Ai đó làm giúp việc gì cho mình...\"."
+    },
+    {
+      "id": "bunpou-n4-te-kureru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "父が駅まで車で送ってくれました。",
+      "sentenceVi": "Bố tôi chở tôi đến nhà ga.",
+      "targetGrammar": "〜てくれる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てくれる",
+        "〜てくださる / 〜ていただく",
+        "〜てくる"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Bố tôi chở tôi đến nhà ga.\", ta sử dụng mẫu 「〜てくれる」."
+    },
+    {
+      "id": "bunpou-n4-te-kureru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "母が毎朝お弁当を作ってくれます。",
+      "sentenceVi": "Mẹ tôi làm cho tôi một hộp cơm trưa mỗi sáng.",
+      "targetGrammar": "〜てくれる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Thử làm gì đó...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜てくれる」 mang ý nghĩa: \"Ai đó làm giúp việc gì cho mình...\"."
+    },
+    {
+      "id": "bunpou-n4-te-kureru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "友達が引っ越しを手伝ってくれた。",
+      "sentenceVi": "Một người bạn đã giúp tôi di chuyển.",
+      "targetGrammar": "〜てくれる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ai đó làm giúp việc gì cho mình...\":",
+      "options": [
+        "〜とき",
+        "〜てくれる",
+        "〜てある",
+        "〜間 / 〜間に"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜てくれる」."
+    },
+    {
+      "id": "bunpou-n4-te-kureru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "友達が引っ越しを手伝ってくれた。",
+      "sentenceVi": "Một người bạn đã giúp tôi di chuyển.",
+      "targetGrammar": "〜てくれる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てくれる」 là gì?",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Rõ ràng; có vẻ như; tôi nghe thấy"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜てくれる」 có nghĩa là: Ai đó làm giúp việc gì cho mình...."
+    }
+  ]
+}

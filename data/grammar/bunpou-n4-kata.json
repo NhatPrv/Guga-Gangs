@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-kata",
+  "level": "N4",
+  "pattern": "〜方",
+  "title": "〜方",
+  "meaning": "Làm thế nào để; cách làm",
+  "meaningVi": "Làm thế nào để; cách làm",
+  "connection": "Động từ (V)-stem + 方",
+  "usageNotes": "Kết quả là một danh từ nên tân ngữ lấy の thay vì を (日本語の話し方). Với động từ する: 勉強のしかた.",
+  "examples": [
+    {
+      "ja": "この機械の使い方を教えてください。",
+      "furigana": "この{機械|きかい}の{使|つか}い{方|かた}を{教|おし}えてください。",
+      "en": "Please show me how to use this machine.",
+      "vi": "Xin chỉ cho tôi cách sử dụng chiếc máy này."
+    },
+    {
+      "ja": "この漢字の読み方が分かりません。",
+      "furigana": "この{漢字|かんじ}の{読|よ}み{方|かた}が{分|わ}かりません。",
+      "en": "I don't know how to read this kanji.",
+      "vi": "Tôi không biết đọc chữ kanji này như thế nào."
+    },
+    {
+      "ja": "祖母においしいみそ汁の作り方を習った。",
+      "furigana": "{祖母|そぼ}においしいみそ{汁|しる}の{作|つく}り{方|かた}を{習|なら}った。",
+      "en": "I learned how to make tasty miso soup from my grandmother.",
+      "vi": "Tôi đã học cách nấu súp miso ngon từ bà tôi."
+    }
+  ],
+  "tags": [
+    "manner",
+    "nominalization"
+  ],
+  "unitId": "grammar-n4-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n4-kata-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この機械の使い方を教えてください。",
+      "sentenceVi": "Xin chỉ cho tôi cách sử dụng chiếc máy này.",
+      "targetGrammar": "〜方",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm thế nào để; cách làm",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜方」 mang ý nghĩa: \"Làm thế nào để; cách làm\"."
+    },
+    {
+      "id": "bunpou-n4-kata-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この漢字の読み方が分かりません。",
+      "sentenceVi": "Tôi không biết đọc chữ kanji này như thế nào.",
+      "targetGrammar": "〜方",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜方",
+        "〜ていく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi không biết đọc chữ kanji này như thế nào.\", ta sử dụng mẫu 「〜方」."
+    },
+    {
+      "id": "bunpou-n4-kata-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "祖母においしいみそ汁の作り方を習った。",
+      "sentenceVi": "Tôi đã học cách nấu súp miso ngon từ bà tôi.",
+      "targetGrammar": "〜方",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm thế nào để; cách làm",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜方」 mang ý nghĩa: \"Làm thế nào để; cách làm\"."
+    },
+    {
+      "id": "bunpou-n4-kata-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この機械の使い方を教えてください。",
+      "sentenceVi": "Xin chỉ cho tôi cách sử dụng chiếc máy này.",
+      "targetGrammar": "〜方",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm thế nào để; cách làm\":",
+      "options": [
+        "〜てみる",
+        "〜てある",
+        "〜とき",
+        "〜方"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜方」."
+    },
+    {
+      "id": "bunpou-n4-kata-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この機械の使い方を教えてください。",
+      "sentenceVi": "Xin chỉ cho tôi cách sử dụng chiếc máy này.",
+      "targetGrammar": "〜方",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜方」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Làm thế nào để; cách làm",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜方」 có nghĩa là: Làm thế nào để; cách làm."
+    }
+  ]
+}

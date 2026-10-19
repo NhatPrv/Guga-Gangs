@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-na-prohibition",
+  "level": "N4",
+  "pattern": "〜な（prohibition）",
+  "title": "〜な（prohibition）",
+  "meaning": "Đừng! (cấm mạnh)",
+  "meaningVi": "Đừng! (cấm mạnh)",
+  "connection": "Động từ (V)-dict + な",
+  "usageNotes": "Rất mạnh mẽ và thẳng thừng. Đừng nhầm lẫn nó với đuôi câu な diễn tả cảm xúc (いいな).",
+  "examples": [
+    {
+      "ja": "危ないから、この川では泳ぐな。",
+      "furigana": "{危|あぶ}ないから、この{川|かわ}では{泳|およ}ぐな。",
+      "en": "It's dangerous, so don't swim in this river.",
+      "vi": "Nguy hiểm lắm, đừng bơi ở con sông này."
+    },
+    {
+      "ja": "もう泣くな。大丈夫だよ。",
+      "furigana": "もう{泣|な}くな。{大丈夫|だいじょうぶ}だよ。",
+      "en": "Don't cry anymore. It's all right.",
+      "vi": "Đừng khóc nữa. Không sao đâu."
+    },
+    {
+      "ja": "壁に「ここにごみを捨てるな」と書いてある。",
+      "furigana": "{壁|かべ}に「ここにごみを{捨|す}てるな」と{書|か}いてある。",
+      "en": "It says \"Don't dump garbage here\" on the wall.",
+      "vi": "Trên tường có dòng chữ \"Đừng đổ rác ở đây\"."
+    }
+  ],
+  "tags": [
+    "prohibition",
+    "command"
+  ],
+  "unitId": "grammar-n4-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n4-na-prohibition-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "危ないから、この川では泳ぐな。",
+      "sentenceVi": "Nguy hiểm lắm, đừng bơi ở con sông này.",
+      "targetGrammar": "〜な（prohibition）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Đừng! (cấm mạnh)",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜な（prohibition）」 mang ý nghĩa: \"Đừng! (cấm mạnh)\"."
+    },
+    {
+      "id": "bunpou-n4-na-prohibition-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "もう泣くな。大丈夫だよ。",
+      "sentenceVi": "Đừng khóc nữa. Không sao đâu.",
+      "targetGrammar": "〜な（prohibition）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜な（prohibition）",
+        "〜ていく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Đừng khóc nữa. Không sao đâu.\", ta sử dụng mẫu 「〜な（prohibition）」."
+    },
+    {
+      "id": "bunpou-n4-na-prohibition-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "壁に「ここにごみを捨てるな」と書いてある。",
+      "sentenceVi": "Trên tường có dòng chữ \"Đừng đổ rác ở đây\".",
+      "targetGrammar": "〜な（prohibition）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đừng! (cấm mạnh)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜な（prohibition）」 mang ý nghĩa: \"Đừng! (cấm mạnh)\"."
+    },
+    {
+      "id": "bunpou-n4-na-prohibition-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "危ないから、この川では泳ぐな。",
+      "sentenceVi": "Nguy hiểm lắm, đừng bơi ở con sông này.",
+      "targetGrammar": "〜な（prohibition）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đừng! (cấm mạnh)\":",
+      "options": [
+        "〜てある",
+        "〜てみる",
+        "〜とき",
+        "〜な（prohibition）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜な（prohibition）」."
+    },
+    {
+      "id": "bunpou-n4-na-prohibition-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "危ないから、この川では泳ぐな。",
+      "sentenceVi": "Nguy hiểm lắm, đừng bơi ở con sông này.",
+      "targetGrammar": "〜な（prohibition）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜な（prohibition）」 là gì?",
+      "options": [
+        "Đừng! (cấm mạnh)",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜な（prohibition）」 có nghĩa là: Đừng! (cấm mạnh)."
+    }
+  ]
+}

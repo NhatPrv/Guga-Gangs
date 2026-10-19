@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ni-iku",
+  "level": "N5",
+  "pattern": "〜に行く",
+  "title": "〜に行く",
+  "meaning": "Đi (nơi nào đó) để làm",
+  "meaningVi": "Đi (nơi nào đó) để làm",
+  "connection": "Động từ (V)-stem + に行く / Danh từ (N) + に行く",
+  "usageNotes": "来る và 帰る hoạt động giống nhau: 遊びに来る. Với danh từ する, danh từ có thể đi trực tiếp: 買い物に行く, 散歩に行く.",
+  "examples": [
+    {
+      "ja": "デパートへ服を買いに行きます。",
+      "furigana": "デパートへ{服|ふく}を{買|か}いに{行|い}きます。",
+      "en": "I'm going to the department store to buy clothes.",
+      "vi": "Tôi đang đi đến cửa hàng bách hóa để mua quần áo."
+    },
+    {
+      "ja": "週末、海へ泳ぎに行きました。",
+      "furigana": "{週末|しゅうまつ}、{海|うみ}へ{泳|およ}ぎに{行|い}きました。",
+      "en": "I went to the beach to swim on the weekend.",
+      "vi": "Tôi đã đi đến bãi biển để bơi vào cuối tuần."
+    },
+    {
+      "ja": "友達がうちへ遊びに来ました。",
+      "furigana": "{友達|ともだち}がうちへ{遊|あそ}びに{来|き}ました。",
+      "en": "A friend came over to my place to hang out.",
+      "vi": "Một người bạn đã đến chỗ tôi để đi chơi."
+    }
+  ],
+  "tags": [
+    "purpose"
+  ],
+  "unitId": "grammar-n5-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n5-ni-iku-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "デパートへ服を買いに行きます。",
+      "sentenceVi": "Tôi đang đi đến cửa hàng bách hóa để mua quần áo.",
+      "targetGrammar": "〜に行く",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Đi (nơi nào đó) để làm",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜に行く」 mang ý nghĩa: \"Đi (nơi nào đó) để làm\"."
+    },
+    {
+      "id": "bunpou-n5-ni-iku-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "週末、海へ泳ぎに行きました。",
+      "sentenceVi": "Tôi đã đi đến bãi biển để bơi vào cuối tuần.",
+      "targetGrammar": "〜に行く",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に行く",
+        "〜に（place of existence）",
+        "〜に（destination）",
+        "〜に（time）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đã đi đến bãi biển để bơi vào cuối tuần.\", ta sử dụng mẫu 「〜に行く」."
+    },
+    {
+      "id": "bunpou-n5-ni-iku-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "友達がうちへ遊びに来ました。",
+      "sentenceVi": "Một người bạn đã đến chỗ tôi để đi chơi.",
+      "targetGrammar": "〜に行く",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đi (nơi nào đó) để làm",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜に行く」 mang ý nghĩa: \"Đi (nơi nào đó) để làm\"."
+    },
+    {
+      "id": "bunpou-n5-ni-iku-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "デパートへ服を買いに行きます。",
+      "sentenceVi": "Tôi đang đi đến cửa hàng bách hóa để mua quần áo.",
+      "targetGrammar": "〜に行く",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đi (nơi nào đó) để làm\":",
+      "options": [
+        "〜に行く",
+        "〜と（and）",
+        "〜で（means）",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜に行く」."
+    },
+    {
+      "id": "bunpou-n5-ni-iku-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "デパートへ服を買いに行きます。",
+      "sentenceVi": "Tôi đang đi đến cửa hàng bách hóa để mua quần áo.",
+      "targetGrammar": "〜に行く",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜に行く」 là gì?",
+      "options": [
+        "Đi (nơi nào đó) để làm",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜に行く」 có nghĩa là: Đi (nơi nào đó) để làm."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ni-location",
+  "level": "N5",
+  "pattern": "〜に（place of existence）",
+  "title": "〜に（place of existence）",
+  "meaning": "Ở ; Tại; trên (nơi có ai đó hoặc cái gì đó)",
+  "meaningVi": "Ở ; Tại; trên (nơi có ai đó hoặc cái gì đó)",
+  "connection": "Danh từ (N) + に + ある / いる",
+  "usageNotes": "Dùng với ある, いる và 住む. Đối với nơi xảy ra hành động (ăn, học, chơi), thay vào đó hãy sử dụng で.",
+  "examples": [
+    {
+      "ja": "机の上に辞書があります。",
+      "furigana": "{机|つくえ}の{上|うえ}に{辞書|じしょ}があります。",
+      "en": "There is a dictionary on the desk.",
+      "vi": "Có một cuốn từ điển trên bàn."
+    },
+    {
+      "ja": "姉は東京に住んでいます。",
+      "furigana": "{姉|あね}は{東京|とうきょう}に{住|す}んでいます。",
+      "en": "My older sister lives in Tokyo.",
+      "vi": "Chị gái tôi sống ở Tokyo."
+    },
+    {
+      "ja": "猫は今どこにいますか。",
+      "furigana": "{猫|ねこ}は{今|いま}どこにいますか。",
+      "en": "Where is the cat now?",
+      "vi": "Bây giờ con mèo ở đâu?"
+    }
+  ],
+  "tags": [
+    "particle"
+  ],
+  "unitId": "grammar-n5-unit-02",
+  "questions": [
+    {
+      "id": "bunpou-n5-ni-location-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "机の上に辞書があります。",
+      "sentenceVi": "Có một cuốn từ điển trên bàn.",
+      "targetGrammar": "〜に（place of existence）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Ở ; Tại; trên (nơi có ai đó hoặc cái gì đó)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜に（place of existence）」 mang ý nghĩa: \"Ở ; Tại; trên (nơi có ai đó hoặc cái gì đó)\"."
+    },
+    {
+      "id": "bunpou-n5-ni-location-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "姉は東京に住んでいます。",
+      "sentenceVi": "Chị gái tôi sống ở Tokyo.",
+      "targetGrammar": "〜に（place of existence）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（indirect object）",
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Chị gái tôi sống ở Tokyo.\", ta sử dụng mẫu 「〜に（place of existence）」."
+    },
+    {
+      "id": "bunpou-n5-ni-location-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "猫は今どこにいますか。",
+      "sentenceVi": "Bây giờ con mèo ở đâu?",
+      "targetGrammar": "〜に（place of existence）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tại, ở... (Chỉ nơi diễn ra hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Ở ; Tại; trên (nơi có ai đó hoặc cái gì đó)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜に（place of existence）」 mang ý nghĩa: \"Ở ; Tại; trên (nơi có ai đó hoặc cái gì đó)\"."
+    },
+    {
+      "id": "bunpou-n5-ni-location-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "机の上に辞書があります。",
+      "sentenceVi": "Có một cuốn từ điển trên bàn.",
+      "targetGrammar": "〜に（place of existence）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ở ; Tại; trên (nơi có ai đó hoặc cái gì đó)\":",
+      "options": [
+        "〜に（place of existence）",
+        "〜と（with）",
+        "〜と（and）",
+        "〜で（means）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜に（place of existence）」."
+    },
+    {
+      "id": "bunpou-n5-ni-location-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "机の上に辞書があります。",
+      "sentenceVi": "Có một cuốn từ điển trên bàn.",
+      "targetGrammar": "〜に（place of existence）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜に（place of existence）」 là gì?",
+      "options": [
+        "Ở ; Tại; trên (nơi có ai đó hoặc cái gì đó)",
+        "Cũng... (Biểu thị sự tương tự)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜に（place of existence）」 có nghĩa là: Ở ; Tại; trên (nơi có ai đó hoặc cái gì đó)."
+    }
+  ]
+}

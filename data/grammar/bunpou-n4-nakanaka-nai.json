@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-nakanaka-nai",
+  "level": "N4",
+  "pattern": "なかなか〜ない",
+  "title": "なかなか〜ない",
+  "meaning": "Không dễ dàng; sẽ không; không dễ dàng",
+  "meaningVi": "Không dễ dàng; sẽ không; không dễ dàng",
+  "connection": "なかなか + Động từ (V)-nai",
+  "usageNotes": "Cho thấy điều gì đó không xảy ra nhanh chóng và dễ dàng như mong đợi. Với dạng khẳng định, なかなか có nghĩa là 'khá' (なかなかおいしい).",
+  "examples": [
+    {
+      "ja": "バスがなかなか来ない。",
+      "furigana": "バスがなかなか{来|こ}ない。",
+      "en": "The bus just isn't coming.",
+      "vi": "Xe buýt không đến."
+    },
+    {
+      "ja": "漢字がなかなか覚えられません。",
+      "furigana": "{漢字|かんじ}がなかなか{覚|おぼ}えられません。",
+      "en": "I just can't seem to memorize kanji.",
+      "vi": "Tôi dường như không thể ghi nhớ chữ Kanji."
+    },
+    {
+      "ja": "子どもがなかなか寝てくれない。",
+      "furigana": "{子|こ}どもがなかなか{寝|ね}てくれない。",
+      "en": "The kids just won't go to sleep.",
+      "vi": "Bọn trẻ sẽ không đi ngủ."
+    }
+  ],
+  "tags": [
+    "negation",
+    "degree"
+  ],
+  "unitId": "grammar-n4-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n4-nakanaka-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "バスがなかなか来ない。",
+      "sentenceVi": "Xe buýt không đến.",
+      "targetGrammar": "なかなか〜ない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Không dễ dàng; sẽ không; không dễ dàng"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「なかなか〜ない」 mang ý nghĩa: \"Không dễ dàng; sẽ không; không dễ dàng\"."
+    },
+    {
+      "id": "bunpou-n4-nakanaka-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "漢字がなかなか覚えられません。",
+      "sentenceVi": "Tôi dường như không thể ghi nhớ chữ Kanji.",
+      "targetGrammar": "なかなか〜ない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜てもらう",
+        "なかなか〜ない"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi dường như không thể ghi nhớ chữ Kanji.\", ta sử dụng mẫu 「なかなか〜ない」."
+    },
+    {
+      "id": "bunpou-n4-nakanaka-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子どもがなかなか寝てくれない。",
+      "sentenceVi": "Bọn trẻ sẽ không đi ngủ.",
+      "targetGrammar": "なかなか〜ない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không dễ dàng; sẽ không; không dễ dàng",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「なかなか〜ない」 mang ý nghĩa: \"Không dễ dàng; sẽ không; không dễ dàng\"."
+    },
+    {
+      "id": "bunpou-n4-nakanaka-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "バスがなかなか来ない。",
+      "sentenceVi": "Xe buýt không đến.",
+      "targetGrammar": "なかなか〜ない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không dễ dàng; sẽ không; không dễ dàng\":",
+      "options": [
+        "〜てみる",
+        "〜とき",
+        "なかなか〜ない",
+        "〜てある"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「なかなか〜ない」."
+    },
+    {
+      "id": "bunpou-n4-nakanaka-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "バスがなかなか来ない。",
+      "sentenceVi": "Xe buýt không đến.",
+      "targetGrammar": "なかなか〜ない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「なかなか〜ない」 là gì?",
+      "options": [
+        "Không dễ dàng; sẽ không; không dễ dàng",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 0,
+      "explanation": "「なかなか〜ない」 có nghĩa là: Không dễ dàng; sẽ không; không dễ dàng."
+    }
+  ]
+}

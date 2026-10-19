@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-mashou-ka",
+  "level": "N5",
+  "pattern": "〜ましょうか",
+  "title": "〜ましょうか",
+  "meaning": "Tôi có nên ...?; chúng ta sẽ...?",
+  "meaningVi": "Tôi có nên ...?; chúng ta sẽ...?",
+  "connection": "Động từ (V)-stem + ましょうか",
+  "usageNotes": "Đề nghị làm điều gì đó cho người nghe (tôi có nên làm không?) hoặc yêu cầu họ cùng nhau quyết định điều gì đó (chúng ta có làm không?).",
+  "examples": [
+    {
+      "ja": "窓を開けましょうか。",
+      "furigana": "{窓|まど}を{開|あ}けましょうか。",
+      "en": "Shall I open the window?",
+      "vi": "Tôi mở cửa sổ nhé?"
+    },
+    {
+      "ja": "荷物を持ちましょうか。",
+      "furigana": "{荷物|にもつ}を{持|も}ちましょうか。",
+      "en": "Shall I carry your bags?",
+      "vi": "Tôi xách túi cho bạn nhé?"
+    },
+    {
+      "ja": "何時に会いましょうか。",
+      "furigana": "{何|なん}{時|じ}に{会|あ}いましょうか。",
+      "en": "What time shall we meet?",
+      "vi": "Chúng ta sẽ gặp nhau lúc mấy giờ?"
+    }
+  ],
+  "tags": [
+    "suggestion",
+    "invitation"
+  ],
+  "unitId": "grammar-n5-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n5-mashou-ka-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "窓を開けましょうか。",
+      "sentenceVi": "Tôi mở cửa sổ nhé?",
+      "targetGrammar": "〜ましょうか",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Tôi có nên ...?; chúng ta sẽ...?",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ましょうか」 mang ý nghĩa: \"Tôi có nên ...?; chúng ta sẽ...?\"."
+    },
+    {
+      "id": "bunpou-n5-mashou-ka-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "荷物を持ちましょうか。",
+      "sentenceVi": "Tôi xách túi cho bạn nhé?",
+      "targetGrammar": "〜ましょうか",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜ましょうか",
+        "〜に（destination）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi xách túi cho bạn nhé?\", ta sử dụng mẫu 「〜ましょうか」."
+    },
+    {
+      "id": "bunpou-n5-mashou-ka-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "何時に会いましょうか。",
+      "sentenceVi": "Chúng ta sẽ gặp nhau lúc mấy giờ?",
+      "targetGrammar": "〜ましょうか",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tôi có nên ...?; chúng ta sẽ...?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ましょうか」 mang ý nghĩa: \"Tôi có nên ...?; chúng ta sẽ...?\"."
+    },
+    {
+      "id": "bunpou-n5-mashou-ka-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "窓を開けましょうか。",
+      "sentenceVi": "Tôi mở cửa sổ nhé?",
+      "targetGrammar": "〜ましょうか",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tôi có nên ...?; chúng ta sẽ...?\":",
+      "options": [
+        "〜と（and）",
+        "〜で（place of action）",
+        "〜ましょうか",
+        "〜で（means）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ましょうか」."
+    },
+    {
+      "id": "bunpou-n5-mashou-ka-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "窓を開けましょうか。",
+      "sentenceVi": "Tôi mở cửa sổ nhé?",
+      "targetGrammar": "〜ましょうか",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ましょうか」 là gì?",
+      "options": [
+        "Tôi có nên ...?; chúng ta sẽ...?",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ましょうか」 có nghĩa là: Tôi có nên ...?; chúng ta sẽ...?."
+    }
+  ]
+}

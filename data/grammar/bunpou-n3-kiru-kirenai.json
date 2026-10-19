@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-kiru-kirenai",
+  "level": "N3",
+  "pattern": "〜切る / 〜切れない",
+  "title": "〜切る / 〜切れない",
+  "meaning": "Làm hoàn toàn; kết thúc/không thể kết thúc; quá nhiều để",
+  "meaningVi": "Làm hoàn toàn; kết thúc/không thể kết thúc; quá nhiều để",
+  "connection": "Động từ (V)-stem + 切る / Động từ (V)-stem + 切れない",
+  "usageNotes": "Làm một việc gì đó cho đến tận cùng. Cũng mô tả một trạng thái hoàn toàn: 疲れ切る ('hoàn toàn kiệt sức'). Thường được viết bằng kana: 〜きる / 〜きれない.",
+  "examples": [
+    {
+      "ja": "三時間かけて、長い小説を最後まで読み切った。",
+      "furigana": "{三|さん}{時間|じかん}かけて、{長|なが}い{小説|しょうせつ}を{最後|さいご}まで{読|よ}み{切|き}った。",
+      "en": "It took three hours, but I read the long novel right to the end.",
+      "vi": "Phải mất ba tiếng đồng hồ nhưng tôi đã đọc hết cuốn tiểu thuyết dài này."
+    },
+    {
+      "ja": "注文しすぎて、料理を食べ切れなかった。",
+      "furigana": "{注文|ちゅうもん}しすぎて、{料理|りょうり}を{食|た}べ{切|き}れなかった。",
+      "en": "We ordered too much and couldn't finish all the food.",
+      "vi": "Chúng tôi đã gọi quá nhiều và không thể ăn hết đồ ăn."
+    },
+    {
+      "ja": "山の上では、数え���れないほどの星が見えた。",
+      "furigana": "{山|やま}の{上|うえ}では、{数|かぞ}え{切|き}れないほどの{星|ほし}が{見|み}えた。",
+      "en": "From the mountaintop we could see more stars than we could count.",
+      "vi": "Từ đỉnh núi chúng tôi có thể nhìn thấy nhiều ngôi sao hơn chúng tôi có thể đếm được."
+    }
+  ],
+  "tags": [
+    "completion",
+    "ability"
+  ],
+  "unitId": "grammar-n3-unit-18",
+  "questions": [
+    {
+      "id": "bunpou-n3-kiru-kirenai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "三時間かけて、長い小説を最後まで読み切った。",
+      "sentenceVi": "Phải mất ba tiếng đồng hồ nhưng tôi đã đọc hết cuốn tiểu thuyết dài này.",
+      "targetGrammar": "〜切る / 〜切れない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm hoàn toàn; kết thúc/không thể kết thúc; quá nhiều để",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜切る / 〜切れない」 mang ý nghĩa: \"Làm hoàn toàn; kết thúc/không thể kết thúc; quá nhiều để\"."
+    },
+    {
+      "id": "bunpou-n3-kiru-kirenai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "注文しすぎて、料理を食べ切れなかった。",
+      "sentenceVi": "Chúng tôi đã gọi quá nhiều và không thể ăn hết đồ ăn.",
+      "targetGrammar": "〜切る / 〜切れない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜ものだ",
+        "〜切る / 〜切れない"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Chúng tôi đã gọi quá nhiều và không thể ăn hết đồ ăn.\", ta sử dụng mẫu 「〜切る / 〜切れない」."
+    },
+    {
+      "id": "bunpou-n3-kiru-kirenai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "山の上では、数え���れないほどの星が見えた。",
+      "sentenceVi": "Từ đỉnh núi chúng tôi có thể nhìn thấy nhiều ngôi sao hơn chúng tôi có thể đếm được.",
+      "targetGrammar": "〜切る / 〜切れない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Làm hoàn toàn; kết thúc/không thể kết thúc; quá nhiều để"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜切る / 〜切れない」 mang ý nghĩa: \"Làm hoàn toàn; kết thúc/không thể kết thúc; quá nhiều để\"."
+    },
+    {
+      "id": "bunpou-n3-kiru-kirenai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "三時間かけて、長い小説を最後まで読み切った。",
+      "sentenceVi": "Phải mất ba tiếng đồng hồ nhưng tôi đã đọc hết cuốn tiểu thuyết dài này.",
+      "targetGrammar": "〜切る / 〜切れない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm hoàn toàn; kết thúc/không thể kết thúc; quá nhiều để\":",
+      "options": [
+        "〜ことになっている",
+        "〜切る / 〜切れない",
+        "〜ことにしている",
+        "〜ことはない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜切る / 〜切れない」."
+    },
+    {
+      "id": "bunpou-n3-kiru-kirenai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "三時間かけて、長い小説を最後まで読み切った。",
+      "sentenceVi": "Phải mất ba tiếng đồng hồ nhưng tôi đã đọc hết cuốn tiểu thuyết dài này.",
+      "targetGrammar": "〜切る / 〜切れない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜切る / 〜切れない」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Làm hoàn toàn; kết thúc/không thể kết thúc; quá nhiều để"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜切る / 〜切れない」 có nghĩa là: Làm hoàn toàn; kết thúc/không thể kết thúc; quá nhiều để."
+    }
+  ]
+}

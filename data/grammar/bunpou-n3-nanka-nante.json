@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-nanka-nante",
+  "level": "N3",
+  "pattern": "〜なんか / 〜なんて",
+  "title": "〜なんか / 〜なんて",
+  "meaning": "Những thứ như; thích (bác bỏ hoặc khiêm tốn); Làm sao ...! (sự ngạc nhiên)",
+  "meaningVi": "Những thứ như; thích (bác bỏ hoặc khiêm tốn); Làm sao ...! (sự ngạc nhiên)",
+  "connection": "Danh từ (N) + なんか / Danh từ (N) + なんて / Sentence + なんて",
+  "usageNotes": "Phiên bản thông thường của など với giọng điệu khinh miệt, khiêm tốn hoặc ngạc nhiên. なんか cũng làm dịu đi những gợi ý (お茶なんかどう？). Câu + なんて thể hiện sự ngạc nhiên hoặc không tin tưởng.",
+  "examples": [
+    {
+      "ja": "私なんか、まだまだ初心者です。",
+      "furigana": "{私|わたし}なんか、まだまだ{初心者|しょしんしゃ}です。",
+      "en": "Someone like me is still just a beginner.",
+      "vi": "Một người như tôi vẫn chỉ là người mới bắt đầu."
+    },
+    {
+      "ja": "幽霊なんて、いるわけがないよ。",
+      "furigana": "{幽霊|ゆうれい}なんて、いるわけがないよ。",
+      "en": "Ghosts? There's no way they exist.",
+      "vi": "Ma? Không có cách nào họ tồn tại."
+    },
+    {
+      "ja": "あの二人が結婚するなんて、びっくりした。",
+      "furigana": "あの{二人|ふたり}が{結婚|けっこん}するなんて、びっくりした。",
+      "en": "Those two are getting married? I was so surprised!",
+      "vi": "Hai người đó sắp kết hôn à? Tôi đã rất ngạc nhiên!"
+    }
+  ],
+  "tags": [
+    "emphasis",
+    "surprise",
+    "casual"
+  ],
+  "unitId": "grammar-n3-unit-21",
+  "questions": [
+    {
+      "id": "bunpou-n3-nanka-nante-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私なんか、まだまだ初心者です。",
+      "sentenceVi": "Một người như tôi vẫn chỉ là người mới bắt đầu.",
+      "targetGrammar": "〜なんか / 〜なんて",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Những thứ như; thích (bác bỏ hoặc khiêm tốn); Làm sao ...! (sự ngạc nhiên)",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜なんか / 〜なんて」 mang ý nghĩa: \"Những thứ như; thích (bác bỏ hoặc khiêm tốn); Làm sao ...! (sự ngạc nhiên)\"."
+    },
+    {
+      "id": "bunpou-n3-nanka-nante-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "幽霊なんて、いるわけがないよ。",
+      "sentenceVi": "Ma? Không có cách nào họ tồn tại.",
+      "targetGrammar": "〜なんか / 〜なんて",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜なんか / 〜なんて"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Ma? Không có cách nào họ tồn tại.\", ta sử dụng mẫu 「〜なんか / 〜なんて」."
+    },
+    {
+      "id": "bunpou-n3-nanka-nante-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "あの二人が結婚するなんて、びっくりした。",
+      "sentenceVi": "Hai người đó sắp kết hôn à? Tôi đã rất ngạc nhiên!",
+      "targetGrammar": "〜なんか / 〜なんて",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Những thứ như; thích (bác bỏ hoặc khiêm tốn); Làm sao ...! (sự ngạc nhiên)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜なんか / 〜なんて」 mang ý nghĩa: \"Những thứ như; thích (bác bỏ hoặc khiêm tốn); Làm sao ...! (sự ngạc nhiên)\"."
+    },
+    {
+      "id": "bunpou-n3-nanka-nante-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私なんか、まだまだ初心者です。",
+      "sentenceVi": "Một người như tôi vẫn chỉ là người mới bắt đầu.",
+      "targetGrammar": "〜なんか / 〜なんて",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Những thứ như; thích (bác bỏ hoặc khiêm tốn); Làm sao ...! (sự ngạc nhiên)\":",
+      "options": [
+        "〜ことはない",
+        "〜なんか / 〜なんて",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜なんか / 〜なんて」."
+    },
+    {
+      "id": "bunpou-n3-nanka-nante-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私なんか、まだまだ初心者です。",
+      "sentenceVi": "Một người như tôi vẫn chỉ là người mới bắt đầu.",
+      "targetGrammar": "〜なんか / 〜なんて",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜なんか / 〜なんて」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Những thứ như; thích (bác bỏ hoặc khiêm tốn); Làm sao ...! (sự ngạc nhiên)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜なんか / 〜なんて」 có nghĩa là: Những thứ như; thích (bác bỏ hoặc khiêm tốn); Làm sao ...! (sự ngạc nhiên)."
+    }
+  ]
+}

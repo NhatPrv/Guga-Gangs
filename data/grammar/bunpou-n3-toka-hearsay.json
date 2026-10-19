@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-toka-hearsay",
+  "level": "N3",
+  "pattern": "〜とか（hearsay）",
+  "title": "〜とか（hearsay）",
+  "meaning": "Tôi nghe thấy điều gì đó như; rõ ràng",
+  "meaningVi": "Tôi nghe thấy điều gì đó như; rõ ràng",
+  "connection": "Sentence + とか",
+  "usageNotes": "Tin đồn mơ hồ; nhẹ nhàng hơn và ít chắc chắn hơn 〜そうだ. Thường là 〜とかいう話だ, 〜とか聞いた, hoặc 〜とかで (đưa ra lý do được báo cáo). Khác với việc liệt kê 〜とか〜とか.",
+  "examples": [
+    {
+      "ja": "駅前の本屋、今月で閉店するとか。寂しくなりますね。",
+      "furigana": "{駅前|えきまえ}の{本屋|ほんや}、{今月|こんげつ}で{閉店|へいてん}するとか。{寂|さび}しくなりますね。",
+      "en": "I hear the bookstore by the station is closing at the end of this month. It'll be sad to see it go.",
+      "vi": "Tôi nghe nói hiệu sách gần nhà ga sẽ đóng cửa vào cuối tháng này. Sẽ rất buồn khi thấy nó biến mất."
+    },
+    {
+      "ja": "今年の冬は、例年より寒くなるとかいう話だよ。",
+      "furigana": "{今年|ことし}の{冬|ふゆ}は、{例年|れいねん}より{寒|さむ}くなるとかいう{話|はなし}だよ。",
+      "en": "Word is that this winter is going to be colder than usual.",
+      "vi": "Có tin mùa đông năm nay sẽ lạnh hơn thường lệ."
+    },
+    {
+      "ja": "部長は今日、熱があるとかで休んでいます。",
+      "furigana": "{部長|ぶちょう}は{今日|きょう}、{熱|ねつ}があるとかで{休|やす}んでいます。",
+      "en": "The department manager is off today; something about having a fever.",
+      "vi": "Hôm nay giám đốc bộ phận nghỉ việc; điều gì đó về việc bị sốt."
+    }
+  ],
+  "tags": [
+    "hearsay",
+    "casual"
+  ],
+  "unitId": "grammar-n3-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n3-toka-hearsay-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅前の本屋、今月で閉店するとか。寂しくなりますね。",
+      "sentenceVi": "Tôi nghe nói hiệu sách gần nhà ga sẽ đóng cửa vào cuối tháng này. Sẽ rất buồn khi thấy nó biến mất.",
+      "targetGrammar": "〜とか（hearsay）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Tôi nghe thấy điều gì đó như; rõ ràng"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜とか（hearsay）」 mang ý nghĩa: \"Tôi nghe thấy điều gì đó như; rõ ràng\"."
+    },
+    {
+      "id": "bunpou-n3-toka-hearsay-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今年の冬は、例年より寒くなるとかいう話だよ。",
+      "sentenceVi": "Có tin mùa đông năm nay sẽ lạnh hơn thường lệ.",
+      "targetGrammar": "〜とか（hearsay）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜とか（hearsay）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Có tin mùa đông năm nay sẽ lạnh hơn thường lệ.\", ta sử dụng mẫu 「〜とか（hearsay）」."
+    },
+    {
+      "id": "bunpou-n3-toka-hearsay-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "部長は今日、熱があるとかで休んでいます。",
+      "sentenceVi": "Hôm nay giám đốc bộ phận nghỉ việc; điều gì đó về việc bị sốt.",
+      "targetGrammar": "〜とか（hearsay）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Tôi nghe thấy điều gì đó như; rõ ràng"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜とか（hearsay）」 mang ý nghĩa: \"Tôi nghe thấy điều gì đó như; rõ ràng\"."
+    },
+    {
+      "id": "bunpou-n3-toka-hearsay-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "駅前の本屋、今月で閉店するとか。寂しくなりますね。",
+      "sentenceVi": "Tôi nghe nói hiệu sách gần nhà ga sẽ đóng cửa vào cuối tháng này. Sẽ rất buồn khi thấy nó biến mất.",
+      "targetGrammar": "〜とか（hearsay）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tôi nghe thấy điều gì đó như; rõ ràng\":",
+      "options": [
+        "〜ことはない",
+        "〜とか（hearsay）",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜とか（hearsay）」."
+    },
+    {
+      "id": "bunpou-n3-toka-hearsay-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅前の本屋、今月で閉店するとか。寂しくなりますね。",
+      "sentenceVi": "Tôi nghe nói hiệu sách gần nhà ga sẽ đóng cửa vào cuối tháng này. Sẽ rất buồn khi thấy nó biến mất.",
+      "targetGrammar": "〜とか（hearsay）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜とか（hearsay）」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Tôi nghe thấy điều gì đó như; rõ ràng"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜とか（hearsay）」 có nghĩa là: Tôi nghe thấy điều gì đó như; rõ ràng."
+    }
+  ]
+}

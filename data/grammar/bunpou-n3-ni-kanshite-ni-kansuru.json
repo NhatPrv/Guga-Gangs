@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-ni-kanshite-ni-kansuru",
+  "level": "N3",
+  "pattern": "〜に関して / 〜に関する",
+  "title": "〜に関して / 〜に関する",
+  "meaning": "Về ; liên quan đến; liên quan đến",
+  "meaningVi": "Về ; liên quan đến; liên quan đến",
+  "connection": "Danh từ (N) + に関して / Danh từ (N) + に関する + Danh từ (N)",
+  "usageNotes": "Trang trọng hơn 〜について; phổ biến trong kinh doanh, tin tức và văn bản. Trước danh từ, dùng に関する (hoặc に関しての).",
+  "examples": [
+    {
+      "ja": "新しいサービスに関してご質問がある方は、受付までどうぞ。",
+      "furigana": "{新|あたら}しいサービスに{関|かん}してご{質問|しつもん}がある{方|かた}は、{受付|うけつけ}までどうぞ。",
+      "en": "Anyone with questions regarding the new service, please come to the reception desk.",
+      "vi": "Mọi thắc mắc về dịch vụ mới vui lòng đến quầy lễ tân."
+    },
+    {
+      "ja": "彼は日本の歴史に関する本をたくさん持っている。",
+      "furigana": "{彼|かれ}は{日本|にほん}の{歴史|れきし}に{関|かん}する{本|ほん}をたくさん{持|も}っている。",
+      "en": "He owns a lot of books on Japanese history.",
+      "vi": "Ông sở hữu rất nhiều sách về lịch sử Nhật Bản."
+    },
+    {
+      "ja": "事故の原因に関しては、現在調査中です。",
+      "furigana": "{事故|じこ}の{原因|げんいん}に{関|かん}しては、{現在|げんざい}{調査|ちょうさ}{中|ちゅう}です。",
+      "en": "The cause of the accident is currently under investigation.",
+      "vi": "Nguyên nhân vụ tai nạn hiện đang được điều tra."
+    }
+  ],
+  "tags": [
+    "topic",
+    "formal"
+  ],
+  "unitId": "grammar-n3-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-kanshite-ni-kansuru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "新しいサービスに関してご質問がある方は、受付までどうぞ。",
+      "sentenceVi": "Mọi thắc mắc về dịch vụ mới vui lòng đến quầy lễ tân.",
+      "targetGrammar": "〜に関して / 〜に関する",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Về ; liên quan đến; liên quan đến",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜に関して / 〜に関する」 mang ý nghĩa: \"Về ; liên quan đến; liên quan đến\"."
+    },
+    {
+      "id": "bunpou-n3-ni-kanshite-ni-kansuru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "彼は日本の歴史に関する本をたくさん持っている。",
+      "sentenceVi": "Ông sở hữu rất nhiều sách về lịch sử Nhật Bản.",
+      "targetGrammar": "〜に関して / 〜に関する",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜に関して / 〜に関する",
+        "〜ものだ",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Ông sở hữu rất nhiều sách về lịch sử Nhật Bản.\", ta sử dụng mẫu 「〜に関して / 〜に関する」."
+    },
+    {
+      "id": "bunpou-n3-ni-kanshite-ni-kansuru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "事故の原因に関しては、現在調査中です。",
+      "sentenceVi": "Nguyên nhân vụ tai nạn hiện đang được điều tra.",
+      "targetGrammar": "〜に関して / 〜に関する",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Về ; liên quan đến; liên quan đến",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜に関して / 〜に関する」 mang ý nghĩa: \"Về ; liên quan đến; liên quan đến\"."
+    },
+    {
+      "id": "bunpou-n3-ni-kanshite-ni-kansuru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "新しいサービスに関してご質問がある方は、受付までどうぞ。",
+      "sentenceVi": "Mọi thắc mắc về dịch vụ mới vui lòng đến quầy lễ tân.",
+      "targetGrammar": "〜に関して / 〜に関する",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Về ; liên quan đến; liên quan đến\":",
+      "options": [
+        "〜ことにしている",
+        "〜に関して / 〜に関する",
+        "〜ことになっている",
+        "〜ことはない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜に関して / 〜に関する」."
+    },
+    {
+      "id": "bunpou-n3-ni-kanshite-ni-kansuru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "新しいサービスに関してご質問がある方は、受付までどうぞ。",
+      "sentenceVi": "Mọi thắc mắc về dịch vụ mới vui lòng đến quầy lễ tân.",
+      "targetGrammar": "〜に関して / 〜に関する",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜に関して / 〜に関する」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Về ; liên quan đến; liên quan đến",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜に関して / 〜に関する」 có nghĩa là: Về ; liên quan đến; liên quan đến."
+    }
+  ]
+}

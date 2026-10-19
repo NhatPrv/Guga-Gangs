@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-tari-tari-suru",
+  "level": "N5",
+  "pattern": "〜たり〜たりする",
+  "title": "〜たり〜たりする",
+  "meaning": "Nào là... nào là... / Lúc thì... lúc thì...",
+  "meaningVi": "Nào là... nào là... / Lúc thì... lúc thì...",
+  "connection": "Động từ (V)-ta + り + Động từ (V)-ta + りする",
+  "usageNotes": "Chọn ra một vài hành động từ nhiều hành động. Căng thẳng và lịch sự diễn ra ở phần cuối cùng する: 〜たりしました.",
+  "examples": [
+    {
+      "ja": "日曜日はそうじをしたり、洗濯をしたりします。",
+      "furigana": "{日曜日|にちようび}はそうじをしたり、{洗濯|せんたく}をしたりします。",
+      "en": "On Sundays I do things like cleaning and laundry.",
+      "vi": "Vào Chủ nhật, tôi làm những việc như dọn dẹp và giặt giũ."
+    },
+    {
+      "ja": "休みの日は本を読んだり、音楽を聞いたりします。",
+      "furigana": "{休|やす}みの{日|ひ}は{本|ほん}を{読|よ}んだり、{音楽|おんがく}を{聞|き}いたりします。",
+      "en": "On my days off I read books, listen to music and so on.",
+      "vi": "Vào những ngày nghỉ tôi đọc sách, nghe nhạc, v.v."
+    },
+    {
+      "ja": "夏休みは海で泳いだり、山に登ったりしました。",
+      "furigana": "{夏休|なつやす}みは{海|うみ}で{泳|およ}いだり、{山|やま}に{登|のぼ}ったりしました。",
+      "en": "During summer vacation I swam in the sea, climbed mountains and so on.",
+      "vi": "Trong kỳ nghỉ hè, tôi bơi ở biển, leo núi, v.v."
+    }
+  ],
+  "tags": [
+    "example"
+  ],
+  "unitId": "grammar-n5-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n5-tari-tari-suru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日曜日はそうじをしたり、洗濯をしたりします。",
+      "sentenceVi": "Vào Chủ nhật, tôi làm những việc như dọn dẹp và giặt giũ.",
+      "targetGrammar": "〜たり〜たりする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Nào là... nào là... / Lúc thì... lúc thì...",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜たり〜たりする」 mang ý nghĩa: \"Nào là... nào là... / Lúc thì... lúc thì...\"."
+    },
+    {
+      "id": "bunpou-n5-tari-tari-suru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "休みの日は本を読んだり、音楽を聞いたりします。",
+      "sentenceVi": "Vào những ngày nghỉ tôi đọc sách, nghe nhạc, v.v.",
+      "targetGrammar": "〜たり〜たりする",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜たり〜たりする",
+        "〜に（destination）",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Vào những ngày nghỉ tôi đọc sách, nghe nhạc, v.v.\", ta sử dụng mẫu 「〜たり〜たりする」."
+    },
+    {
+      "id": "bunpou-n5-tari-tari-suru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夏休みは海で泳いだり、山に登ったりしました。",
+      "sentenceVi": "Trong kỳ nghỉ hè, tôi bơi ở biển, leo núi, v.v.",
+      "targetGrammar": "〜たり〜たりする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nào là... nào là... / Lúc thì... lúc thì...",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜たり〜たりする」 mang ý nghĩa: \"Nào là... nào là... / Lúc thì... lúc thì...\"."
+    },
+    {
+      "id": "bunpou-n5-tari-tari-suru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日曜日はそうじをしたり、洗濯をしたりします。",
+      "sentenceVi": "Vào Chủ nhật, tôi làm những việc như dọn dẹp và giặt giũ.",
+      "targetGrammar": "〜たり〜たりする",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nào là... nào là... / Lúc thì... lúc thì...\":",
+      "options": [
+        "〜で（means）",
+        "〜と（and）",
+        "〜たり〜たりする",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜たり〜たりする」."
+    },
+    {
+      "id": "bunpou-n5-tari-tari-suru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日曜日はそうじをしたり、洗濯をしたりします。",
+      "sentenceVi": "Vào Chủ nhật, tôi làm những việc như dọn dẹp và giặt giũ.",
+      "targetGrammar": "〜たり〜たりする",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜たり〜たりする」 là gì?",
+      "options": [
+        "Nào là... nào là... / Lúc thì... lúc thì...",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜たり〜たりする」 có nghĩa là: Nào là... nào là... / Lúc thì... lúc thì...."
+    }
+  ]
+}

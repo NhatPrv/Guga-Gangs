@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-sou-da-appearance",
+  "level": "N4",
+  "pattern": "〜そうだ（appearance）",
+  "title": "〜そうだ（appearance）",
+  "meaning": "Trông giống như; có vẻ ; có vẻ sắp",
+  "meaningVi": "Trông giống như; có vẻ ; có vẻ sắp",
+  "connection": "Động từ (V)-stem / i-Adj stem / na-Adj + そうだ",
+  "usageNotes": "Một sự phán xét từ những gì bạn nhìn thấy. いい → よさそう, ない → なさそう. Không dùng với tính từ chỉ những đặc điểm rõ ràng (赤い, かわいい); かわいそう có nghĩa là 'đáng thương'.",
+  "examples": [
+    {
+      "ja": "そのカレー、辛そうだね。",
+      "furigana": "そのカレー、{辛|から}そうだね。",
+      "en": "That curry looks spicy.",
+      "vi": "Món cà ri đó có vẻ cay."
+    },
+    {
+      "ja": "空が暗いですね。雨が降りそうです。",
+      "furigana": "{空|そら}が{暗|くら}いですね。{雨|あめ}が{降|ふ}りそうです。",
+      "en": "The sky is dark. It looks like it's going to rain.",
+      "vi": "Bầu trời tối sầm. Có vẻ như trời sắp mưa."
+    },
+    {
+      "ja": "久しぶりに会った祖父は元気そうだった。",
+      "furigana": "{久|ひさ}しぶりに{会|あ}った{祖父|そふ}は{元気|げんき}そうだった。",
+      "en": "My grandfather, whom I hadn't seen in a while, looked well.",
+      "vi": "Ông tôi, người mà tôi đã lâu không gặp, trông vẫn khỏe mạnh."
+    }
+  ],
+  "tags": [
+    "appearance",
+    "conjecture"
+  ],
+  "unitId": "grammar-n4-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n4-sou-da-appearance-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "そのカレー、辛そうだね。",
+      "sentenceVi": "Món cà ri đó có vẻ cay.",
+      "targetGrammar": "〜そうだ（appearance）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜そうだ（appearance）」 mang ý nghĩa: \"Trông giống như; có vẻ ; có vẻ sắp\"."
+    },
+    {
+      "id": "bunpou-n4-sou-da-appearance-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "空が暗いですね。雨が降りそうです。",
+      "sentenceVi": "Bầu trời tối sầm. Có vẻ như trời sắp mưa.",
+      "targetGrammar": "〜そうだ（appearance）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜そうだ（appearance）",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Bầu trời tối sầm. Có vẻ như trời sắp mưa.\", ta sử dụng mẫu 「〜そうだ（appearance）」."
+    },
+    {
+      "id": "bunpou-n4-sou-da-appearance-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "久しぶりに会った祖父は元気そうだった。",
+      "sentenceVi": "Ông tôi, người mà tôi đã lâu không gặp, trông vẫn khỏe mạnh.",
+      "targetGrammar": "〜そうだ（appearance）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜そうだ（appearance）」 mang ý nghĩa: \"Trông giống như; có vẻ ; có vẻ sắp\"."
+    },
+    {
+      "id": "bunpou-n4-sou-da-appearance-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "そのカレー、辛そうだね。",
+      "sentenceVi": "Món cà ri đó có vẻ cay.",
+      "targetGrammar": "〜そうだ（appearance）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trông giống như; có vẻ ; có vẻ sắp\":",
+      "options": [
+        "〜てみる",
+        "〜そうだ（appearance）",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜そうだ（appearance）」."
+    },
+    {
+      "id": "bunpou-n4-sou-da-appearance-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "そのカレー、辛そうだね。",
+      "sentenceVi": "Món cà ri đó có vẻ cay.",
+      "targetGrammar": "〜そうだ（appearance）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜そうだ（appearance）」 là gì?",
+      "options": [
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜そうだ（appearance）」 có nghĩa là: Trông giống như; có vẻ ; có vẻ sắp."
+    }
+  ]
+}

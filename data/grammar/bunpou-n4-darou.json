@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-darou",
+  "level": "N4",
+  "pattern": "〜だろう",
+  "title": "〜だろう",
+  "meaning": "Có lẽ; Tôi cho rằng (dạng đơn giản của でしょう)",
+  "meaningVi": "Có lẽ; Tôi cho rằng (dạng đơn giản của でしょう)",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + だろう",
+  "usageNotes": "Phổ biến trong văn viết và lời nói thông thường của nam giới; でしょう là hình thức lịch sự. Thường dùng với たぶん hoặc きっと, hoặc như 〜だろうと思う.",
+  "examples": [
+    {
+      "ja": "明日はたぶん晴れるだろう。",
+      "furigana": "{明日|あした}はたぶん{晴|は}れるだろう。",
+      "en": "It will probably be sunny tomorrow.",
+      "vi": "Có lẽ ngày mai trời sẽ nắng."
+    },
+    {
+      "ja": "彼女はもう家に着いただろう。",
+      "furigana": "{彼女|かのじょ}はもう{家|いえ}に{着|つ}いただろう。",
+      "en": "She has probably gotten home by now.",
+      "vi": "Chắc giờ này cô ấy đã về đến nhà rồi."
+    },
+    {
+      "ja": "この問題は子どもには難しいだろうと思います。",
+      "furigana": "この{問題|もんだい}は{子|こ}どもには{難|むずか}しいだろうと{思|おも}います。",
+      "en": "I think this problem is probably too hard for children.",
+      "vi": "Tôi nghĩ vấn đề này có lẽ quá khó đối với trẻ em."
+    }
+  ],
+  "tags": [
+    "conjecture"
+  ],
+  "unitId": "grammar-n4-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n4-darou-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日はたぶん晴れるだろう。",
+      "sentenceVi": "Có lẽ ngày mai trời sẽ nắng.",
+      "targetGrammar": "〜だろう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Có lẽ; Tôi cho rằng (dạng đơn giản của でしょう)",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜だろう」 mang ý nghĩa: \"Có lẽ; Tôi cho rằng (dạng đơn giản của でしょう)\"."
+    },
+    {
+      "id": "bunpou-n4-darou-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "彼女はもう家に着いただろう。",
+      "sentenceVi": "Chắc giờ này cô ấy đã về đến nhà rồi.",
+      "targetGrammar": "〜だろう",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜だろう"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Chắc giờ này cô ấy đã về đến nhà rồi.\", ta sử dụng mẫu 「〜だろう」."
+    },
+    {
+      "id": "bunpou-n4-darou-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この問題は子どもには難しいだろうと思います。",
+      "sentenceVi": "Tôi nghĩ vấn đề này có lẽ quá khó đối với trẻ em.",
+      "targetGrammar": "〜だろう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Có lẽ; Tôi cho rằng (dạng đơn giản của でしょう)",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜だろう」 mang ý nghĩa: \"Có lẽ; Tôi cho rằng (dạng đơn giản của でしょう)\"."
+    },
+    {
+      "id": "bunpou-n4-darou-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "明日はたぶん晴れるだろう。",
+      "sentenceVi": "Có lẽ ngày mai trời sẽ nắng.",
+      "targetGrammar": "〜だろう",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có lẽ; Tôi cho rằng (dạng đơn giản của でしょう)\":",
+      "options": [
+        "〜てみる",
+        "〜てある",
+        "〜とき",
+        "〜だろう"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜だろう」."
+    },
+    {
+      "id": "bunpou-n4-darou-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日はたぶん晴れるだろう。",
+      "sentenceVi": "Có lẽ ngày mai trời sẽ nắng.",
+      "targetGrammar": "〜だろう",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜だろう」 là gì?",
+      "options": [
+        "Có lẽ; Tôi cho rằng (dạng đơn giản của でしょう)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜だろう」 có nghĩa là: Có lẽ; Tôi cho rằng (dạng đơn giản của でしょう)."
+    }
+  ]
+}

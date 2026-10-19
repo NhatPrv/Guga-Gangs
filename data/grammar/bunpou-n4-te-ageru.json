@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-te-ageru",
+  "level": "N4",
+  "pattern": "〜てあげる",
+  "title": "〜てあげる",
+  "meaning": "Làm gì đó giúp cho ai...",
+  "meaningVi": "Làm gì đó giúp cho ai...",
+  "connection": "Động từ (V)-te + あげる",
+  "usageNotes": "Nói thẳng với cấp trên nghe có vẻ trịch thượng; thay vào đó hãy sử dụng お〜しましょうか (お持ちしましょうか) khiêm tốn.",
+  "examples": [
+    {
+      "ja": "妹の宿題を手伝ってあげました。",
+      "furigana": "{妹|いもうと}の{宿題|しゅくだい}を{手伝|てつだ}ってあげました。",
+      "en": "I helped my little sister with her homework.",
+      "vi": "Tôi đã giúp em gái tôi làm bài tập về nhà."
+    },
+    {
+      "ja": "道に迷っている人に、駅までの行き方を教えてあげた。",
+      "furigana": "{道|みち}に{迷|まよ}っている{人|ひと}に、{駅|えき}までの{行|い}き{方|かた}を{教|おし}えてあげた。",
+      "en": "I showed someone who was lost how to get to the station.",
+      "vi": "Tôi chỉ cho một người bị lạc đường đến nhà ga."
+    },
+    {
+      "ja": "重そうだね。持ってあげようか。",
+      "furigana": "{重|おも}そうだね。{持|も}ってあげようか。",
+      "en": "That looks heavy. Want me to carry it for you?",
+      "vi": "Có vẻ nặng nề đấy. Muốn tôi xách nó cho anh không?"
+    }
+  ],
+  "tags": [
+    "giving-receiving"
+  ],
+  "unitId": "grammar-n4-unit-01",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-ageru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "妹の宿題を手伝ってあげました。",
+      "sentenceVi": "Tôi đã giúp em gái tôi làm bài tập về nhà.",
+      "targetGrammar": "〜てあげる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Được ai đó làm giúp cho việc gì...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜てあげる」 mang ý nghĩa: \"Làm gì đó giúp cho ai...\"."
+    },
+    {
+      "id": "bunpou-n4-te-ageru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "道に迷っている人に、駅までの行き方を教えてあげた。",
+      "sentenceVi": "Tôi chỉ cho một người bị lạc đường đến nhà ga.",
+      "targetGrammar": "〜てあげる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てあげる",
+        "〜ていく",
+        "〜てくる",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi chỉ cho một người bị lạc đường đến nhà ga.\", ta sử dụng mẫu 「〜てあげる」."
+    },
+    {
+      "id": "bunpou-n4-te-ageru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "重そうだね。持ってあげようか。",
+      "sentenceVi": "Có vẻ nặng nề đấy. Muốn tôi xách nó cho anh không?",
+      "targetGrammar": "〜てあげる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Thử làm gì đó...",
+        "Làm gì đó giúp cho ai...",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜てあげる」 mang ý nghĩa: \"Làm gì đó giúp cho ai...\"."
+    },
+    {
+      "id": "bunpou-n4-te-ageru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "妹の宿題を手伝ってあげました。",
+      "sentenceVi": "Tôi đã giúp em gái tôi làm bài tập về nhà.",
+      "targetGrammar": "〜てあげる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm gì đó giúp cho ai...\":",
+      "options": [
+        "〜とき",
+        "〜てあげる",
+        "〜間 / 〜間に",
+        "〜てある"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜てあげる」."
+    },
+    {
+      "id": "bunpou-n4-te-ageru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "妹の宿題を手伝ってあげました。",
+      "sentenceVi": "Tôi đã giúp em gái tôi làm bài tập về nhà.",
+      "targetGrammar": "〜てあげる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てあげる」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜てあげる」 có nghĩa là: Làm gì đó giúp cho ai...."
+    }
+  ]
+}

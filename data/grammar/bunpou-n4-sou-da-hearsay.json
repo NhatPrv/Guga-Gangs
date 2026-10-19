@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-sou-da-hearsay",
+  "level": "N4",
+  "pattern": "〜そうだ（hearsay）",
+  "title": "〜そうだ（hearsay）",
+  "meaning": "Nghe nói là... (Truyền đạt lại thông tin)",
+  "meaningVi": "Nghe nói là... (Truyền đạt lại thông tin)",
+  "connection": "Động từ (V)-plain / i-Adj + そうだ / na-Adj + だ + そうだ / Danh từ (N) + だ + そうだ",
+  "usageNotes": "Gắn vào các dạng đơn giản hoàn toàn, không giống như 'trông giống' そうだ, gắn vào thân cây. Nó không có hình thức quá khứ hoặc tiêu cực.",
+  "examples": [
+    {
+      "ja": "天気予報では、明日は雪が降るそうです。",
+      "furigana": "{天気|てんき}{予報|よほう}では、{明日|あした}は{雪|ゆき}が{降|ふ}るそうです。",
+      "en": "The weather forecast says it will snow tomorrow.",
+      "vi": "Dự báo thời tiết nói ngày mai sẽ có tuyết."
+    },
+    {
+      "ja": "駅前の本屋は来月なくなるそうだ。",
+      "furigana": "{駅前|えきまえ}の{本屋|ほんや}は{来月|らいげつ}なくなるそうだ。",
+      "en": "I heard the bookstore in front of the station is closing down next month.",
+      "vi": "Tôi nghe nói hiệu sách trước nhà ga sẽ đóng cửa vào tháng tới."
+    },
+    {
+      "ja": "リンさんのお兄さんは医者だそうです。",
+      "furigana": "リンさんのお{兄|にい}さんは{医者|いしゃ}だそうです。",
+      "en": "I hear Lin's older brother is a doctor.",
+      "vi": "Tôi nghe nói anh trai của Lin là bác sĩ."
+    }
+  ],
+  "tags": [
+    "hearsay"
+  ],
+  "unitId": "grammar-n4-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n4-sou-da-hearsay-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "天気予報では、明日は雪が降るそうです。",
+      "sentenceVi": "Dự báo thời tiết nói ngày mai sẽ có tuyết.",
+      "targetGrammar": "〜そうだ（hearsay）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai...",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜そうだ（hearsay）」 mang ý nghĩa: \"Nghe nói là... (Truyền đạt lại thông tin)\"."
+    },
+    {
+      "id": "bunpou-n4-sou-da-hearsay-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "駅前の本屋は来月なくなるそうだ。",
+      "sentenceVi": "Tôi nghe nói hiệu sách trước nhà ga sẽ đóng cửa vào tháng tới.",
+      "targetGrammar": "〜そうだ（hearsay）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜そうだ（hearsay）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi nghe nói hiệu sách trước nhà ga sẽ đóng cửa vào tháng tới.\", ta sử dụng mẫu 「〜そうだ（hearsay）」."
+    },
+    {
+      "id": "bunpou-n4-sou-da-hearsay-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "リンさんのお兄さんは医者だそうです。",
+      "sentenceVi": "Tôi nghe nói anh trai của Lin là bác sĩ.",
+      "targetGrammar": "〜そうだ（hearsay）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜そうだ（hearsay）」 mang ý nghĩa: \"Nghe nói là... (Truyền đạt lại thông tin)\"."
+    },
+    {
+      "id": "bunpou-n4-sou-da-hearsay-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "天気予報では、明日は雪が降るそうです。",
+      "sentenceVi": "Dự báo thời tiết nói ngày mai sẽ có tuyết.",
+      "targetGrammar": "〜そうだ（hearsay）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nghe nói là... (Truyền đạt lại thông tin)\":",
+      "options": [
+        "〜とき",
+        "〜てある",
+        "〜そうだ（hearsay）",
+        "〜てみる"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜そうだ（hearsay）」."
+    },
+    {
+      "id": "bunpou-n4-sou-da-hearsay-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "天気予報では、明日は雪が降るそうです。",
+      "sentenceVi": "Dự báo thời tiết nói ngày mai sẽ có tuyết.",
+      "targetGrammar": "〜そうだ（hearsay）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜そうだ（hearsay）」 là gì?",
+      "options": [
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜そうだ（hearsay）」 có nghĩa là: Nghe nói là... (Truyền đạt lại thông tin)."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-sae",
+  "level": "N3",
+  "pattern": "〜さえ",
+  "title": "〜さえ",
+  "meaning": "Thậm chí",
+  "meaningVi": "Thậm chí",
+  "connection": "Danh từ (N) + さえ / Danh từ (N) + でさえ / Danh từ (N) + にさえ",
+  "usageNotes": "Đưa ra một ví dụ cực đoan, ngụ ý 'tất nhiên những người khác cũng vậy'. Trang trọng hơn 〜も hoặc 〜でも theo nghĩa này. Là chủ ngữ: 〜でさえ. So sánh N1 〜すら.",
+  "examples": [
+    {
+      "ja": "忙しくて、昼ご飯を食べる時間さえなかった。",
+      "furigana": "{忙|いそが}しくて、{昼|ひる}ご{飯|はん}を{食|た}べる{時間|じかん}さえなかった。",
+      "en": "I was so busy I didn't even have time to eat lunch.",
+      "vi": "Tôi bận đến mức không có thời gian ăn trưa."
+    },
+    {
+      "ja": "こんな簡単な問題は、小学生でさえ解ける。",
+      "furigana": "こんな{簡単|かんたん}な{問題|もんだい}は、{小学生|しょうがくせい}でさえ{解|と}ける。",
+      "en": "Even an elementary school student could solve such an easy problem.",
+      "vi": "Ngay cả một học sinh tiểu học cũng có thể giải được một bài toán dễ như vậy."
+    },
+    {
+      "ja": "彼女は親友にさえ本当のことを話さなかった。",
+      "furigana": "{彼女|かのじょ}は{親友|しんゆう}にさえ{本当|ほんとう}のことを{話|はな}さなかった。",
+      "en": "She didn't tell the truth even to her best friend.",
+      "vi": "Cô ấy đã không nói sự thật ngay cả với người bạn thân nhất của mình."
+    }
+  ],
+  "tags": [
+    "emphasis"
+  ],
+  "unitId": "grammar-n3-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n3-sae-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "忙しくて、昼ご飯を食べる時間さえなかった。",
+      "sentenceVi": "Tôi bận đến mức không có thời gian ăn trưa.",
+      "targetGrammar": "〜さえ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thậm chí"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜さえ」 mang ý nghĩa: \"Thậm chí\"."
+    },
+    {
+      "id": "bunpou-n3-sae-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "こんな簡単な問題は、小学生でさえ解ける。",
+      "sentenceVi": "Ngay cả một học sinh tiểu học cũng có thể giải được một bài toán dễ như vậy.",
+      "targetGrammar": "〜さえ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜ものだ",
+        "〜さえ",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Ngay cả một học sinh tiểu học cũng có thể giải được một bài toán dễ như vậy.\", ta sử dụng mẫu 「〜さえ」."
+    },
+    {
+      "id": "bunpou-n3-sae-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "彼女は親友にさえ本当のことを話さなかった。",
+      "sentenceVi": "Cô ấy đã không nói sự thật ngay cả với người bạn thân nhất của mình.",
+      "targetGrammar": "〜さえ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Thậm chí",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜さえ」 mang ý nghĩa: \"Thậm chí\"."
+    },
+    {
+      "id": "bunpou-n3-sae-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "忙しくて、昼ご飯を食べる時間さえなかった。",
+      "sentenceVi": "Tôi bận đến mức không có thời gian ăn trưa.",
+      "targetGrammar": "〜さえ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thậm chí\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことはない",
+        "〜ことになっている",
+        "〜さえ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜さえ」."
+    },
+    {
+      "id": "bunpou-n3-sae-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "忙しくて、昼ご飯を食べる時間さえなかった。",
+      "sentenceVi": "Tôi bận đến mức không có thời gian ăn trưa.",
+      "targetGrammar": "〜さえ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜さえ」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Thậm chí",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜さえ」 có nghĩa là: Thậm chí."
+    }
+  ]
+}

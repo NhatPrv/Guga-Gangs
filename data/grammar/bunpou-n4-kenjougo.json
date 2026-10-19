@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-kenjougo",
+  "level": "N4",
+  "pattern": "謙譲語",
+  "title": "謙譲語",
+  "meaning": "Khiêm nhường ngữ (Hạ mình để tôn kính đối phương)",
+  "meaningVi": "Khiêm nhường ngữ (Hạ mình để tôn kính đối phương)",
+  "connection": "参る（行く・来る） / おる（いる） / いただく（食べる・飲む・もらう） / 申す（言う） / いたす（する） / 拝見する（見る） / 伺う（聞く・訪ねる）",
+  "usageNotes": "Giảm bớt hành động của chính bạn hoặc của nhóm bạn đối với người mà bạn tôn trọng. 参る, おる, 申す và いたす cũng làm cho lời nói nói chung có vẻ trang trọng.",
+  "examples": [
+    {
+      "ja": "明日の午後、そちらに伺います。",
+      "furigana": "{明日|あした}の{午後|ごご}、そちらに{伺|うかが}います。",
+      "en": "I'll come to your office tomorrow afternoon.",
+      "vi": "Tôi sẽ đến văn phòng của bạn vào chiều mai."
+    },
+    {
+      "ja": "初めまして。リンと申します。",
+      "furigana": "{初|はじ}めまして。リンと{申|もう}します。",
+      "en": "Nice to meet you. My name is Lin.",
+      "vi": "Rất vui được gặp bạn. Tên tôi là Lin."
+    },
+    {
+      "ja": "お手紙、拝見しました。",
+      "furigana": "お{手紙|てがみ}、{拝見|はいけん}しました。",
+      "en": "I have read your letter.",
+      "vi": "Tôi đã đọc thư của bạn."
+    }
+  ],
+  "tags": [
+    "humble",
+    "politeness"
+  ],
+  "unitId": "grammar-n4-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n4-kenjougo-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日の午後、そちらに伺います。",
+      "sentenceVi": "Tôi sẽ đến văn phòng của bạn vào chiều mai.",
+      "targetGrammar": "謙譲語",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Khiêm nhường ngữ (Hạ mình để tôn kính đối phương)",
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「謙譲語」 mang ý nghĩa: \"Khiêm nhường ngữ (Hạ mình để tôn kính đối phương)\"."
+    },
+    {
+      "id": "bunpou-n4-kenjougo-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "初めまして。リンと申します。",
+      "sentenceVi": "Rất vui được gặp bạn. Tên tôi là Lin.",
+      "targetGrammar": "謙譲語",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "謙譲語"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Rất vui được gặp bạn. Tên tôi là Lin.\", ta sử dụng mẫu 「謙譲語」."
+    },
+    {
+      "id": "bunpou-n4-kenjougo-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "お手紙、拝見しました。",
+      "sentenceVi": "Tôi đã đọc thư của bạn.",
+      "targetGrammar": "謙譲語",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Khiêm nhường ngữ (Hạ mình để tôn kính đối phương)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「謙譲語」 mang ý nghĩa: \"Khiêm nhường ngữ (Hạ mình để tôn kính đối phương)\"."
+    },
+    {
+      "id": "bunpou-n4-kenjougo-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "明日の午後、そちらに伺います。",
+      "sentenceVi": "Tôi sẽ đến văn phòng của bạn vào chiều mai.",
+      "targetGrammar": "謙譲語",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Khiêm nhường ngữ (Hạ mình để tôn kính đối phương)\":",
+      "options": [
+        "〜てある",
+        "〜てみる",
+        "〜とき",
+        "謙譲語"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「謙譲語」."
+    },
+    {
+      "id": "bunpou-n4-kenjougo-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日の午後、そちらに伺います。",
+      "sentenceVi": "Tôi sẽ đến văn phòng của bạn vào chiều mai.",
+      "targetGrammar": "謙譲語",
+      "prompt": "Ý nghĩa chính của cấu trúc 「謙譲語」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Khiêm nhường ngữ (Hạ mình để tôn kính đối phương)",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 2,
+      "explanation": "「謙譲語」 có nghĩa là: Khiêm nhường ngữ (Hạ mình để tôn kính đối phương)."
+    }
+  ]
+}

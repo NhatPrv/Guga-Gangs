@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-to-iu-koto-da",
+  "level": "N3",
+  "pattern": "〜ということだ",
+  "title": "〜ということだ",
+  "meaning": "Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác",
+  "meaningVi": "Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác",
+  "connection": "Sentence + ということだ",
+  "usageNotes": "Hai cách sử dụng: báo cáo thông tin (trang trọng hơn 〜そうだ) và đưa ra kết luận ('vậy điều đó có nghĩa là ...'). Việc sử dụng kết thúc thường kết thúc bằng ということですね.",
+  "examples": [
+    {
+      "ja": "駅員さんの話では、事故のため電車は一時間ほど止まるということです。",
+      "furigana": "{駅員|えきいん}さんの{話|はなし}では、{事故|じこ}のため{電車|でんしゃ}は{一|いち}{時間|じかん}ほど{止|と}まるということです。",
+      "en": "According to the station attendant, trains will be stopped for about an hour because of an accident.",
+      "vi": "Theo nhân viên nhà ga, tàu sẽ phải dừng khoảng 1 giờ vì xảy ra tai nạn."
+    },
+    {
+      "ja": "「申し込みは明日までです。」「じゃあ、今日中に書類を準備しなければならないということですね。」",
+      "furigana": "「{申|もう}し{込|こ}みは{明日|あした}までです。」「じゃあ、{今日中|きょうじゅう}に{書類|しょるい}を{準備|じゅんび}しなければならないということですね。」",
+      "en": "'Applications close tomorrow.' 'So that means I have to get my documents ready today, right?'",
+      "vi": "'Đơn đăng ký sẽ đóng vào ngày mai.' 'Vậy điều đó có nghĩa là hôm nay tôi phải chuẩn bị sẵn tài liệu, phải không?'"
+    },
+    {
+      "ja": "全員が賛成したということは、この計画で進めてもいいということだ。",
+      "furigana": "{全員|ぜんいん}が{賛成|さんせい}したということは、この{計画|けいかく}で{進|すす}めてもいいということだ。",
+      "en": "Everyone agreeing means we can go ahead with this plan.",
+      "vi": "Mọi người đồng ý có nghĩa là chúng ta có thể tiếp tục kế hoạch này."
+    }
+  ],
+  "tags": [
+    "hearsay",
+    "result"
+  ],
+  "unitId": "grammar-n3-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n3-to-iu-koto-da-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅員さんの話では、事故のため電車は一時間ほど止まるということです。",
+      "sentenceVi": "Theo nhân viên nhà ga, tàu sẽ phải dừng khoảng 1 giờ vì xảy ra tai nạn.",
+      "targetGrammar": "〜ということだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ということだ」 mang ý nghĩa: \"Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác\"."
+    },
+    {
+      "id": "bunpou-n3-to-iu-koto-da-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "「申し込みは明日までです。」「じゃあ、今日中に書類を準備しなければならないということですね。」",
+      "sentenceVi": "'Đơn đăng ký sẽ đóng vào ngày mai.' 'Vậy điều đó có nghĩa là hôm nay tôi phải chuẩn bị sẵn tài liệu, phải không?'",
+      "targetGrammar": "〜ということだ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ということだ",
+        "〜ものではない",
+        "〜ものだ",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"'Đơn đăng ký sẽ đóng vào ngày mai.' 'Vậy điều đó có nghĩa là hôm nay tôi phải chuẩn bị sẵn tài liệu, phải không?'\", ta sử dụng mẫu 「〜ということだ」."
+    },
+    {
+      "id": "bunpou-n3-to-iu-koto-da-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "全員が賛成したということは、この計画で進めてもいいということだ。",
+      "sentenceVi": "Mọi người đồng ý có nghĩa là chúng ta có thể tiếp tục kế hoạch này.",
+      "targetGrammar": "〜ということだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ということだ」 mang ý nghĩa: \"Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác\"."
+    },
+    {
+      "id": "bunpou-n3-to-iu-koto-da-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "駅員さんの話では、事故のため電車は一時間ほど止まるということです。",
+      "sentenceVi": "Theo nhân viên nhà ga, tàu sẽ phải dừng khoảng 1 giờ vì xảy ra tai nạn.",
+      "targetGrammar": "〜ということだ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác\":",
+      "options": [
+        "〜ということだ",
+        "〜ことになっている",
+        "〜ことはない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ということだ」."
+    },
+    {
+      "id": "bunpou-n3-to-iu-koto-da-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅員さんの話では、事故のため電車は一時間ほど止まるということです。",
+      "sentenceVi": "Theo nhân viên nhà ga, tàu sẽ phải dừng khoảng 1 giờ vì xảy ra tai nạn.",
+      "targetGrammar": "〜ということだ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ということだ」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ということだ」 có nghĩa là: Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác."
+    }
+  ]
+}

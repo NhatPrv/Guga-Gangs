@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-beki-da-beki-de-wa-nai",
+  "level": "N3",
+  "pattern": "〜べきだ / 〜べきではない",
+  "title": "〜べきだ / 〜べきではない",
+  "meaning": "Nên ; nên/không nên",
+  "meaningVi": "Nên ; nên/không nên",
+  "connection": "Động từ (V)-dict + べきだ / Động từ (V)-dict + べきではない",
+  "usageNotes": "Có quan điểm mạnh mẽ về điều gì là đúng hoặc nghĩa vụ của một người; quá thẳng thừng để sử dụng đối với cấp trên. する → すべき hoặc するべき. So sánh 〜ほうがいい (lời khuyên) và 〜ものだ (chuẩn mực xã hội).",
+  "examples": [
+    {
+      "ja": "自分が悪いと思ったら、すぐに謝るべきだ。",
+      "furigana": "{自分|じぶん}が{悪|わる}いと{思|おも}ったら、すぐに{謝|あやま}るべきだ。",
+      "en": "If you think you were in the wrong, you should apologize right away.",
+      "vi": "Nếu bạn cho rằng mình sai thì bạn nên xin lỗi ngay."
+    },
+    {
+      "ja": "環境のために、私たちはもっとエネルギーを大切に使うべきだ。",
+      "furigana": "{環境|かんきょう}のために、{私|わたし}たちはもっとエネルギーを{大切|たいせつ}に{使|つか}うべきだ。",
+      "en": "For the sake of the environment, we should use energy more carefully.",
+      "vi": "Vì lợi ích của môi trường, chúng ta nên sử dụng năng lượng cẩn thận hơn."
+    },
+    {
+      "ja": "病院の中では、大きな声で話すべきではない。",
+      "furigana": "{病院|びょういん}の{中|なか}では、{大|おお}きな{声|こえ}で{話|はな}すべきではない。",
+      "en": "You shouldn't talk loudly inside a hospital.",
+      "vi": "Bạn không nên nói chuyện lớn tiếng trong bệnh viện."
+    }
+  ],
+  "tags": [
+    "obligation",
+    "advice"
+  ],
+  "unitId": "grammar-n3-unit-19",
+  "questions": [
+    {
+      "id": "bunpou-n3-beki-da-beki-de-wa-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "自分が悪いと思ったら、すぐに謝るべきだ。",
+      "sentenceVi": "Nếu bạn cho rằng mình sai thì bạn nên xin lỗi ngay.",
+      "targetGrammar": "〜べきだ / 〜べきではない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Nên ; nên/không nên"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜べきだ / 〜べきではない」 mang ý nghĩa: \"Nên ; nên/không nên\"."
+    },
+    {
+      "id": "bunpou-n3-beki-da-beki-de-wa-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "環境のために、私たちはもっとエネルギーを大切に使うべきだ。",
+      "sentenceVi": "Vì lợi ích của môi trường, chúng ta nên sử dụng năng lượng cẩn thận hơn.",
+      "targetGrammar": "〜べきだ / 〜べきではない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜べきだ / 〜べきではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Vì lợi ích của môi trường, chúng ta nên sử dụng năng lượng cẩn thận hơn.\", ta sử dụng mẫu 「〜べきだ / 〜べきではない」."
+    },
+    {
+      "id": "bunpou-n3-beki-da-beki-de-wa-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "病院の中では、大きな声で話すべきではない。",
+      "sentenceVi": "Bạn không nên nói chuyện lớn tiếng trong bệnh viện.",
+      "targetGrammar": "〜べきだ / 〜べきではない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Nên ; nên/không nên",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜べきだ / 〜べきではない」 mang ý nghĩa: \"Nên ; nên/không nên\"."
+    },
+    {
+      "id": "bunpou-n3-beki-da-beki-de-wa-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "自分が悪いと思ったら、すぐに謝るべきだ。",
+      "sentenceVi": "Nếu bạn cho rằng mình sai thì bạn nên xin lỗi ngay.",
+      "targetGrammar": "〜べきだ / 〜べきではない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nên ; nên/không nên\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことにしている",
+        "〜ことはない",
+        "〜べきだ / 〜べきではない"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜べきだ / 〜べきではない」."
+    },
+    {
+      "id": "bunpou-n3-beki-da-beki-de-wa-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "自分が悪いと思ったら、すぐに謝るべきだ。",
+      "sentenceVi": "Nếu bạn cho rằng mình sai thì bạn nên xin lỗi ngay.",
+      "targetGrammar": "〜べきだ / 〜べきではない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜べきだ / 〜べきではない」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Nên ; nên/không nên",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜べきだ / 〜べきではない」 có nghĩa là: Nên ; nên/không nên."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-rashii-typical-of",
+  "level": "N3",
+  "pattern": "〜らしい（typical of）",
+  "title": "〜らしい（typical of）",
+  "meaning": "Điển hình của; phù hợp; thực sự thích",
+  "meaningVi": "Điển hình của; phù hợp; thực sự thích",
+  "connection": "Danh từ (N) + らしい",
+  "usageNotes": "Có những phẩm chất mà bạn mong đợi ở danh từ. Phủ định: 〜らしくない ('không thích'). Khác với tin đồn 〜らしい (N4) và 〜っぽい (trông giống X nhưng không phải).",
+  "examples": [
+    {
+      "ja": "今日は春らしい暖かい一日だった。",
+      "furigana": "{今日|きょう}は{春|はる}らしい{暖|あたた}かい{一|いち}{日|にち}だった。",
+      "en": "Today was a warm, truly spring-like day.",
+      "vi": "Hôm nay là một ngày ấm áp, thực sự giống như mùa xuân."
+    },
+    {
+      "ja": "文句ばかり言うなんて、君らしくないね。",
+      "furigana": "{文句|もんく}ばかり{言|い}うなんて、{君|きみ}らしくないね。",
+      "en": "Complaining all the time isn't like you.",
+      "vi": "Lúc nào cũng phàn nàn là không giống bạn."
+    },
+    {
+      "ja": "もっと学生らしい服装で来てください。",
+      "furigana": "もっと{学生|がくせい}らしい{服装|ふくそう}で{来|き}てください。",
+      "en": "Please come dressed in a way more appropriate for a student.",
+      "vi": "Hãy ăn mặc sao cho phù hợp hơn với học sinh."
+    }
+  ],
+  "tags": [
+    "appearance",
+    "manner"
+  ],
+  "unitId": "grammar-n3-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n3-rashii-typical-of-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は春らしい暖かい一日だった。",
+      "sentenceVi": "Hôm nay là một ngày ấm áp, thực sự giống như mùa xuân.",
+      "targetGrammar": "〜らしい（typical of）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Điển hình của; phù hợp; thực sự thích",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜らしい（typical of）」 mang ý nghĩa: \"Điển hình của; phù hợp; thực sự thích\"."
+    },
+    {
+      "id": "bunpou-n3-rashii-typical-of-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "文句ばかり言うなんて、君らしくないね。",
+      "sentenceVi": "Lúc nào cũng phàn nàn là không giống bạn.",
+      "targetGrammar": "〜らしい（typical of）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜ものだ",
+        "〜らしい（typical of）",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Lúc nào cũng phàn nàn là không giống bạn.\", ta sử dụng mẫu 「〜らしい（typical of）」."
+    },
+    {
+      "id": "bunpou-n3-rashii-typical-of-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "もっと学生らしい服装で来てください。",
+      "sentenceVi": "Hãy ăn mặc sao cho phù hợp hơn với học sinh.",
+      "targetGrammar": "〜らしい（typical of）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Điển hình của; phù hợp; thực sự thích",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜らしい（typical of）」 mang ý nghĩa: \"Điển hình của; phù hợp; thực sự thích\"."
+    },
+    {
+      "id": "bunpou-n3-rashii-typical-of-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は春らしい暖かい一日だった。",
+      "sentenceVi": "Hôm nay là một ngày ấm áp, thực sự giống như mùa xuân.",
+      "targetGrammar": "〜らしい（typical of）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Điển hình của; phù hợp; thực sự thích\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことはない",
+        "〜ことにしている",
+        "〜らしい（typical of）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜らしい（typical of）」."
+    },
+    {
+      "id": "bunpou-n3-rashii-typical-of-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は春らしい暖かい一日だった。",
+      "sentenceVi": "Hôm nay là một ngày ấm áp, thực sự giống như mùa xuân.",
+      "targetGrammar": "〜らしい（typical of）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜らしい（typical of）」 là gì?",
+      "options": [
+        "Điển hình của; phù hợp; thực sự thích",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜らしい（typical of）」 có nghĩa là: Điển hình của; phù hợp; thực sự thích."
+    }
+  ]
+}

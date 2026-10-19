@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ga-suki-ga-kirai",
+  "level": "N5",
+  "pattern": "〜が好き / 〜が嫌い",
+  "title": "〜が好き / 〜が嫌い",
+  "meaning": "Thích; không thích",
+  "meaningVi": "Thích; không thích",
+  "connection": "Danh từ (N) + が好き / Danh từ (N) + が嫌い / Động từ (V)-dict + の + が好き",
+  "usageNotes": "好き và 嫌い là tính từ な, nên từ thích dùng が, không phải を. 大好き và 大嫌い mạnh hơn. 嫌い nghe có vẻ thẳng thừng; あまり好きじゃない thì nhẹ nhàng hơn.",
+  "examples": [
+    {
+      "ja": "私は甘いものが好きです。",
+      "furigana": "{私|わたし}は{甘|あま}いものが{好|す}きです。",
+      "en": "I like sweet things.",
+      "vi": "Tôi thích những thứ ngọt ngào."
+    },
+    {
+      "ja": "弟は野菜が嫌いです。",
+      "furigana": "{弟|おとうと}は{野菜|やさい}が{嫌|きら}いです。",
+      "en": "My younger brother doesn't like vegetables.",
+      "vi": "Em trai tôi không thích rau."
+    },
+    {
+      "ja": "母は料理をするのが好きです。",
+      "furigana": "{母|はは}は{料理|りょうり}をするのが{好|す}きです。",
+      "en": "My mother likes cooking.",
+      "vi": "Mẹ tôi thích nấu ăn."
+    }
+  ],
+  "tags": [
+    "emotion"
+  ],
+  "unitId": "grammar-n5-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n5-ga-suki-ga-kirai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は甘いものが好きです。",
+      "sentenceVi": "Tôi thích những thứ ngọt ngào.",
+      "targetGrammar": "〜が好き / 〜が嫌い",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thích; không thích",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜が好き / 〜が嫌い」 mang ý nghĩa: \"Thích; không thích\"."
+    },
+    {
+      "id": "bunpou-n5-ga-suki-ga-kirai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "弟は野菜が嫌いです。",
+      "sentenceVi": "Em trai tôi không thích rau.",
+      "targetGrammar": "〜が好き / 〜が嫌い",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（time）",
+        "〜が好き / 〜が嫌い",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Em trai tôi không thích rau.\", ta sử dụng mẫu 「〜が好き / 〜が嫌い」."
+    },
+    {
+      "id": "bunpou-n5-ga-suki-ga-kirai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "母は料理をするのが好きです。",
+      "sentenceVi": "Mẹ tôi thích nấu ăn.",
+      "targetGrammar": "〜が好き / 〜が嫌い",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thích; không thích",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜が好き / 〜が嫌い」 mang ý nghĩa: \"Thích; không thích\"."
+    },
+    {
+      "id": "bunpou-n5-ga-suki-ga-kirai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私は甘いものが好きです。",
+      "sentenceVi": "Tôi thích những thứ ngọt ngào.",
+      "targetGrammar": "〜が好き / 〜が嫌い",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thích; không thích\":",
+      "options": [
+        "〜で（place of action）",
+        "〜と（and）",
+        "〜が好き / 〜が嫌い",
+        "〜で（means）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜が好き / 〜が嫌い」."
+    },
+    {
+      "id": "bunpou-n5-ga-suki-ga-kirai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は甘いものが好きです。",
+      "sentenceVi": "Tôi thích những thứ ngọt ngào.",
+      "targetGrammar": "〜が好き / 〜が嫌い",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜が好き / 〜が嫌い」 là gì?",
+      "options": [
+        "Thích; không thích",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜が好き / 〜が嫌い」 có nghĩa là: Thích; không thích."
+    }
+  ]
+}

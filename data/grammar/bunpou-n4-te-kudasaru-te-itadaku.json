@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n4-te-kudasaru-te-itadaku",
+  "level": "N4",
+  "pattern": "〜てくださる / 〜ていただく",
+  "title": "〜てくださる / 〜ていただく",
+  "meaning": "(kính trọng) ai đó tử tế làm cho tôi; (khiêm tốn) Tôi nhận được sự ưu ái của ai đó làm",
+  "meaningVi": "(kính trọng) ai đó tử tế làm cho tôi; (khiêm tốn) Tôi nhận được sự ưu ái của ai đó làm",
+  "connection": "Động từ (V)-te + くださる / Động từ (V)-te + いただく",
+  "usageNotes": "くださる là phiên bản kính ngữ của くれる (ます-dạng: くださいます); いただく là phiên bản khiêm tốn của もらう.",
+  "examples": [
+    {
+      "ja": "先生が私の作文を直してくださいました。",
+      "furigana": "{先生|せんせい}が{私|わたし}の{作文|さくぶん}を{直|なお}してくださいました。",
+      "en": "My teacher kindly corrected my essay.",
+      "vi": "Giáo viên của tôi đã vui lòng sửa bài luận của tôi."
+    },
+    {
+      "ja": "ホテルの方に、おいしい店を教えていただきました。",
+      "furigana": "ホテルの{方|かた}に、おいしい{店|みせ}を{教|おし}えていただきました。",
+      "en": "The hotel staff kindly told me about a good restaurant.",
+      "vi": "Nhân viên khách sạn vui lòng giới thiệu cho tôi một nhà hàng ăn ngon."
+    },
+    {
+      "ja": "今日は来ていただいて、ありがとうございました。",
+      "furigana": "{今日|きょう}は{来|き}ていただいて、ありがとうございました。",
+      "en": "Thank you very much for coming today.",
+      "vi": "Cảm ơn bạn rất nhiều vì đã đến ngày hôm nay."
+    }
+  ],
+  "tags": [
+    "giving-receiving",
+    "honorific",
+    "humble"
+  ],
+  "unitId": "grammar-n4-unit-01",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-kudasaru-te-itadaku-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "先生が私の作文を直してくださいました。",
+      "sentenceVi": "Giáo viên của tôi đã vui lòng sửa bài luận của tôi.",
+      "targetGrammar": "〜てくださる / 〜ていただく",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình...",
+        "(kính trọng) ai đó tử tế làm cho tôi; (khiêm tốn) Tôi nhận được sự ưu ái của ai đó làm",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜てくださる / 〜ていただく」 mang ý nghĩa: \"(kính trọng) ai đó tử tế làm cho tôi; (khiêm tốn) Tôi nhận được sự ưu ái của ai đó làm\"."
+    },
+    {
+      "id": "bunpou-n4-te-kudasaru-te-itadaku-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "ホテルの方に、おいしい店を教えていただきました。",
+      "sentenceVi": "Nhân viên khách sạn vui lòng giới thiệu cho tôi một nhà hàng ăn ngon.",
+      "targetGrammar": "〜てくださる / 〜ていただく",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜てくる"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Nhân viên khách sạn vui lòng giới thiệu cho tôi một nhà hàng ăn ngon.\", ta sử dụng mẫu 「〜てくださる / 〜ていただく」."
+    },
+    {
+      "id": "bunpou-n4-te-kudasaru-te-itadaku-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は来ていただいて、ありがとうございました。",
+      "sentenceVi": "Cảm ơn bạn rất nhiều vì đã đến ngày hôm nay.",
+      "targetGrammar": "〜てくださる / 〜ていただく",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thử làm gì đó...",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "(kính trọng) ai đó tử tế làm cho tôi; (khiêm tốn) Tôi nhận được sự ưu ái của ai đó làm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜てくださる / 〜ていただく」 mang ý nghĩa: \"(kính trọng) ai đó tử tế làm cho tôi; (khiêm tốn) Tôi nhận được sự ưu ái của ai đó làm\"."
+    },
+    {
+      "id": "bunpou-n4-te-kudasaru-te-itadaku-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "先生が私の作文を直してくださいました。",
+      "sentenceVi": "Giáo viên của tôi đã vui lòng sửa bài luận của tôi.",
+      "targetGrammar": "〜てくださる / 〜ていただく",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"(kính trọng) ai đó tử tế làm cho tôi; (khiêm tốn) Tôi nhận được sự ưu ái của ai đó làm\":",
+      "options": [
+        "〜とき",
+        "〜てある",
+        "〜てくださる / 〜ていただく",
+        "〜間 / 〜間に"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜てくださる / 〜ていただく」."
+    },
+    {
+      "id": "bunpou-n4-te-kudasaru-te-itadaku-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "先生が私の作文を直してくださいました。",
+      "sentenceVi": "Giáo viên của tôi đã vui lòng sửa bài luận của tôi.",
+      "targetGrammar": "〜てくださる / 〜ていただく",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てくださる / 〜ていただく」 là gì?",
+      "options": [
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "(kính trọng) ai đó tử tế làm cho tôi; (khiêm tốn) Tôi nhận được sự ưu ái của ai đó làm",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜てくださる / 〜ていただく」 có nghĩa là: (kính trọng) ai đó tử tế làm cho tôi; (khiêm tốn) Tôi nhận được sự ưu ái của ai đó làm."
+    }
+  ]
+}

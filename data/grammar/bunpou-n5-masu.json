@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-masu",
+  "level": "N5",
+  "pattern": "〜ます",
+  "title": "〜ます",
+  "meaning": "Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)",
+  "meaningVi": "Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)",
+  "connection": "Động từ (V)-stem + ます",
+  "usageNotes": "Bao gồm các thói quen và hành động trong tương lai. 飲む→飲みます, 食べる→食べます, する→します, 来る→来ます.",
+  "examples": [
+    {
+      "ja": "毎朝コーヒーを飲みます。",
+      "furigana": "{毎朝|まいあさ}コーヒーを{飲|の}みます。",
+      "en": "I drink coffee every morning.",
+      "vi": "Tôi uống cà phê mỗi sáng."
+    },
+    {
+      "ja": "明日、京都へ行きます。",
+      "furigana": "{明日|あした}、{京都|きょうと}へ{行|い}きます。",
+      "en": "I'm going to Kyoto tomorrow.",
+      "vi": "Ngày mai tôi sẽ đi Kyoto."
+    },
+    {
+      "ja": "弟は毎晩9時に寝ます。",
+      "furigana": "{弟|おとうと}は{毎晩|まいばん}9{時|じ}に{寝|ね}ます。",
+      "en": "My younger brother goes to bed at nine every night.",
+      "vi": "Em trai tôi đi ngủ lúc chín giờ mỗi đêm."
+    }
+  ],
+  "tags": [
+    "conjugation",
+    "politeness"
+  ],
+  "unitId": "grammar-n5-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n5-masu-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎朝コーヒーを飲みます。",
+      "sentenceVi": "Tôi uống cà phê mỗi sáng.",
+      "targetGrammar": "〜ます",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ます」 mang ý nghĩa: \"Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)\"."
+    },
+    {
+      "id": "bunpou-n5-masu-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "明日、京都へ行きます。",
+      "sentenceVi": "Ngày mai tôi sẽ đi Kyoto.",
+      "targetGrammar": "〜ます",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜ます",
+        "〜に（time）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Ngày mai tôi sẽ đi Kyoto.\", ta sử dụng mẫu 「〜ます」."
+    },
+    {
+      "id": "bunpou-n5-masu-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "弟は毎晩9時に寝ます。",
+      "sentenceVi": "Em trai tôi đi ngủ lúc chín giờ mỗi đêm.",
+      "targetGrammar": "〜ます",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ます」 mang ý nghĩa: \"Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)\"."
+    },
+    {
+      "id": "bunpou-n5-masu-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "毎朝コーヒーを飲みます。",
+      "sentenceVi": "Tôi uống cà phê mỗi sáng.",
+      "targetGrammar": "〜ます",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)\":",
+      "options": [
+        "〜で（means）",
+        "〜ます",
+        "〜で（place of action）",
+        "〜と（and）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ます」."
+    },
+    {
+      "id": "bunpou-n5-masu-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎朝コーヒーを飲みます。",
+      "sentenceVi": "Tôi uống cà phê mỗi sáng.",
+      "targetGrammar": "〜ます",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ます」 là gì?",
+      "options": [
+        "Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ます」 có nghĩa là: Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)."
+    }
+  ]
+}

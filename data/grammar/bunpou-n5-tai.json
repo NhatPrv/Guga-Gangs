@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-tai",
+  "level": "N5",
+  "pattern": "〜たい",
+  "title": "〜たい",
+  "meaning": "Muốn làm gì đó (Mong muốn của bản thân)",
+  "meaningVi": "Muốn làm gì đó (Mong muốn của bản thân)",
+  "connection": "Động từ (V)-stem + たい",
+  "usageNotes": "Liên hợp như tính từ い: 〜たくない, 〜たかった. Đối tượng có thể lấy が hoặc を. Không dùng để nói trực tiếp mong muốn của người khác.",
+  "examples": [
+    {
+      "ja": "夏休みに沖縄へ行きたいです。",
+      "furigana": "{夏休|なつやす}みに{沖縄|おきなわ}へ{行|い}きたいです。",
+      "en": "I want to go to Okinawa during summer vacation.",
+      "vi": "Tôi muốn đến Okinawa vào kỳ nghỉ hè."
+    },
+    {
+      "ja": "冷たい水が飲みたいです。",
+      "furigana": "{冷|つめ}たい{水|みず}が{飲|の}みたいです。",
+      "en": "I want to drink some cold water.",
+      "vi": "Tôi muốn uống chút nước lạnh."
+    },
+    {
+      "ja": "何が食べたいですか。",
+      "furigana": "{何|なに}が{食|た}べたいですか。",
+      "en": "What do you want to eat?",
+      "vi": "Bạn muốn ăn gì?"
+    }
+  ],
+  "tags": [
+    "desire"
+  ],
+  "unitId": "grammar-n5-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n5-tai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夏休みに沖縄へ行きたいです。",
+      "sentenceVi": "Tôi muốn đến Okinawa vào kỳ nghỉ hè.",
+      "targetGrammar": "〜たい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Muốn làm gì đó (Mong muốn của bản thân)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜たい」 mang ý nghĩa: \"Muốn làm gì đó (Mong muốn của bản thân)\"."
+    },
+    {
+      "id": "bunpou-n5-tai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "冷たい水が飲みたいです。",
+      "sentenceVi": "Tôi muốn uống chút nước lạnh.",
+      "targetGrammar": "〜たい",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜たい",
+        "〜に（time）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi muốn uống chút nước lạnh.\", ta sử dụng mẫu 「〜たい」."
+    },
+    {
+      "id": "bunpou-n5-tai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "何が食べたいですか。",
+      "sentenceVi": "Bạn muốn ăn gì?",
+      "targetGrammar": "〜たい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Muốn làm gì đó (Mong muốn của bản thân)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜たい」 mang ý nghĩa: \"Muốn làm gì đó (Mong muốn của bản thân)\"."
+    },
+    {
+      "id": "bunpou-n5-tai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "夏休みに沖縄へ行きたいです。",
+      "sentenceVi": "Tôi muốn đến Okinawa vào kỳ nghỉ hè.",
+      "targetGrammar": "〜たい",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Muốn làm gì đó (Mong muốn của bản thân)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜たい",
+        "〜と（and）",
+        "〜で（means）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜たい」."
+    },
+    {
+      "id": "bunpou-n5-tai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夏休みに沖縄へ行きたいです。",
+      "sentenceVi": "Tôi muốn đến Okinawa vào kỳ nghỉ hè.",
+      "targetGrammar": "〜たい",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜たい」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Muốn làm gì đó (Mong muốn của bản thân)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜たい」 có nghĩa là: Muốn làm gì đó (Mong muốn của bản thân)."
+    }
+  ]
+}

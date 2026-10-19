@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-tame-ni",
+  "level": "N4",
+  "pattern": "〜ために",
+  "title": "〜ために",
+  "meaning": "Để làm gì / Vì nguyên nhân gì...",
+  "meaningVi": "Để làm gì / Vì nguyên nhân gì...",
+  "connection": "Động từ (V)-dict / Động từ (V)-ta / Danh từ (N) + の + ために",
+  "usageNotes": "Vì mục đích, động từ phải là thứ mà chủ ngữ có thể kiểm soát được (so sánh 〜ように). Việc sử dụng 'vì' nghe có vẻ khá trang trọng.",
+  "examples": [
+    {
+      "ja": "日本の大学に入るために、毎日勉強しています。",
+      "furigana": "{日本|にほん}の{大学|だいがく}に{入|はい}るために、{毎日|まいにち}{勉強|べんきょう}しています。",
+      "en": "I study every day in order to get into a Japanese university.",
+      "vi": "Tôi học hàng ngày để vào được một trường đại học Nhật Bản."
+    },
+    {
+      "ja": "家族のために、一生懸命働いている。",
+      "furigana": "{家族|かぞく}のために、{一生懸命|いっしょうけんめい}{働|はたら}いている。",
+      "en": "I work hard for my family.",
+      "vi": "Tôi làm việc chăm chỉ cho gia đình tôi."
+    },
+    {
+      "ja": "大雪のために、電車が止まりました。",
+      "furigana": "{大雪|おおゆき}のために、{電車|でんしゃ}が{止|と}まりました。",
+      "en": "The trains stopped because of the heavy snow.",
+      "vi": "Những chuyến tàu dừng lại vì tuyết dày."
+    }
+  ],
+  "tags": [
+    "purpose",
+    "reason"
+  ],
+  "unitId": "grammar-n4-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n4-tame-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本の大学に入るために、毎日勉強しています。",
+      "sentenceVi": "Tôi học hàng ngày để vào được một trường đại học Nhật Bản.",
+      "targetGrammar": "〜ために",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Để làm gì / Vì nguyên nhân gì...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ために」 mang ý nghĩa: \"Để làm gì / Vì nguyên nhân gì...\"."
+    },
+    {
+      "id": "bunpou-n4-tame-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "家族のために、一生懸命働いている。",
+      "sentenceVi": "Tôi làm việc chăm chỉ cho gia đình tôi.",
+      "targetGrammar": "〜ために",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜ために",
+        "〜ていく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi làm việc chăm chỉ cho gia đình tôi.\", ta sử dụng mẫu 「〜ために」."
+    },
+    {
+      "id": "bunpou-n4-tame-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "大雪のために、電車が止まりました。",
+      "sentenceVi": "Những chuyến tàu dừng lại vì tuyết dày.",
+      "targetGrammar": "〜ために",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Để làm gì / Vì nguyên nhân gì...",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ために」 mang ý nghĩa: \"Để làm gì / Vì nguyên nhân gì...\"."
+    },
+    {
+      "id": "bunpou-n4-tame-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本の大学に入るために、毎日勉強しています。",
+      "sentenceVi": "Tôi học hàng ngày để vào được một trường đại học Nhật Bản.",
+      "targetGrammar": "〜ために",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Để làm gì / Vì nguyên nhân gì...\":",
+      "options": [
+        "〜ために",
+        "〜てみる",
+        "〜とき",
+        "〜てある"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ために」."
+    },
+    {
+      "id": "bunpou-n4-tame-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本の大学に入るために、毎日勉強しています。",
+      "sentenceVi": "Tôi học hàng ngày để vào được một trường đại học Nhật Bản.",
+      "targetGrammar": "〜ために",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ために」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Để làm gì / Vì nguyên nhân gì..."
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ために」 có nghĩa là: Để làm gì / Vì nguyên nhân gì...."
+    }
+  ]
+}

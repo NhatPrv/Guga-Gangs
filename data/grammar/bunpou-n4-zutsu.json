@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-zutsu",
+  "level": "N4",
+  "pattern": "〜ずつ",
+  "title": "〜ずつ",
+  "meaning": "Mỗi; tại một thời điểm; từng chút một",
+  "meaningVi": "Mỗi; tại một thời điểm; từng chút một",
+  "connection": "Danh từ (N) (quantity) + ずつ",
+  "usageNotes": "Mẫu ngữ pháp thông dụng trong giao tiếp và đề thi JLPT.",
+  "examples": [
+    {
+      "ja": "りんごを一人に二つずつ配った。",
+      "furigana": "りんごを{一人|ひとり}に{二|ふた}つずつ{配|くば}った。",
+      "en": "I handed out two apples to each person.",
+      "vi": "Tôi đưa cho mỗi người hai quả táo."
+    },
+    {
+      "ja": "毎日少しずつ漢字を覚えています。",
+      "furigana": "{毎日|まいにち}{少|すこ}しずつ{漢字|かんじ}を{覚|おぼ}えています。",
+      "en": "I'm learning kanji a little at a time every day.",
+      "vi": "Tôi đang học kanji mỗi ngày một ít."
+    },
+    {
+      "ja": "一人ずつ部屋に入ってください。",
+      "furigana": "{一人|ひとり}ずつ{部屋|へや}に{入|はい}ってください。",
+      "en": "Please enter the room one at a time.",
+      "vi": "Vui lòng vào phòng lần lượt."
+    }
+  ],
+  "tags": [
+    "quantity"
+  ],
+  "unitId": "grammar-n4-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n4-zutsu-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "りんごを一人に二つずつ配った。",
+      "sentenceVi": "Tôi đưa cho mỗi người hai quả táo.",
+      "targetGrammar": "〜ずつ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai...",
+        "Mỗi; tại một thời điểm; từng chút một",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ずつ」 mang ý nghĩa: \"Mỗi; tại một thời điểm; từng chút một\"."
+    },
+    {
+      "id": "bunpou-n4-zutsu-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "毎日少しずつ漢字を覚えています。",
+      "sentenceVi": "Tôi đang học kanji mỗi ngày một ít.",
+      "targetGrammar": "〜ずつ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜ずつ",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đang học kanji mỗi ngày một ít.\", ta sử dụng mẫu 「〜ずつ」."
+    },
+    {
+      "id": "bunpou-n4-zutsu-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "一人ずつ部屋に入ってください。",
+      "sentenceVi": "Vui lòng vào phòng lần lượt.",
+      "targetGrammar": "〜ずつ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Mỗi; tại một thời điểm; từng chút một"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ずつ」 mang ý nghĩa: \"Mỗi; tại một thời điểm; từng chút một\"."
+    },
+    {
+      "id": "bunpou-n4-zutsu-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "りんごを一人に二つずつ配った。",
+      "sentenceVi": "Tôi đưa cho mỗi người hai quả táo.",
+      "targetGrammar": "〜ずつ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Mỗi; tại một thời điểm; từng chút một\":",
+      "options": [
+        "〜ずつ",
+        "〜とき",
+        "〜てある",
+        "〜てみる"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ずつ」."
+    },
+    {
+      "id": "bunpou-n4-zutsu-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "りんごを一人に二つずつ配った。",
+      "sentenceVi": "Tôi đưa cho mỗi người hai quả táo.",
+      "targetGrammar": "〜ずつ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ずつ」 là gì?",
+      "options": [
+        "Mỗi; tại một thời điểm; từng chút một",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ずつ」 có nghĩa là: Mỗi; tại một thời điểm; từng chút một."
+    }
+  ]
+}

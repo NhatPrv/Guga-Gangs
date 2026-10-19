@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-yori",
+  "level": "N5",
+  "pattern": "〜より",
+  "title": "〜より",
+  "meaning": "Hơn so với... (Dùng trong câu so sánh)",
+  "meaningVi": "Hơn so với... (Dùng trong câu so sánh)",
+  "connection": "Danh từ (N) + より",
+  "usageNotes": "Trong X は Y より + tính từ, Y là tiêu chuẩn. Tính từ tiếng Nhật không có dạng '-er'; より làm công việc đó.",
+  "examples": [
+    {
+      "ja": "今日はきのうより寒いです。",
+      "furigana": "{今日|きょう}はきのうより{寒|さむ}いです。",
+      "en": "Today is colder than yesterday.",
+      "vi": "Hôm nay lạnh hơn hôm qua."
+    },
+    {
+      "ja": "電車はバスより速いです。",
+      "furigana": "{電車|でんしゃ}はバスより{速|はや}いです。",
+      "en": "Trains are faster than buses.",
+      "vi": "Xe lửa nhanh hơn xe buýt."
+    },
+    {
+      "ja": "兄は父より背が高いです。",
+      "furigana": "{兄|あに}は{父|ちち}より{背|せ}が{高|たか}いです。",
+      "en": "My older brother is taller than my father.",
+      "vi": "Anh trai tôi cao hơn bố tôi."
+    }
+  ],
+  "tags": [
+    "particle",
+    "comparison"
+  ],
+  "unitId": "grammar-n5-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n5-yori-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日はきのうより寒いです。",
+      "sentenceVi": "Hôm nay lạnh hơn hôm qua.",
+      "targetGrammar": "〜より",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Hơn so với... (Dùng trong câu so sánh)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜より」 mang ý nghĩa: \"Hơn so với... (Dùng trong câu so sánh)\"."
+    },
+    {
+      "id": "bunpou-n5-yori-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "電車はバスより速いです。",
+      "sentenceVi": "Xe lửa nhanh hơn xe buýt.",
+      "targetGrammar": "〜より",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜より",
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Xe lửa nhanh hơn xe buýt.\", ta sử dụng mẫu 「〜より」."
+    },
+    {
+      "id": "bunpou-n5-yori-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "兄は父より背が高いです。",
+      "sentenceVi": "Anh trai tôi cao hơn bố tôi.",
+      "targetGrammar": "〜より",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hơn so với... (Dùng trong câu so sánh)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜より」 mang ý nghĩa: \"Hơn so với... (Dùng trong câu so sánh)\"."
+    },
+    {
+      "id": "bunpou-n5-yori-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日はきのうより寒いです。",
+      "sentenceVi": "Hôm nay lạnh hơn hôm qua.",
+      "targetGrammar": "〜より",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hơn so với... (Dùng trong câu so sánh)\":",
+      "options": [
+        "〜より",
+        "〜で（means）",
+        "〜と（and）",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜より」."
+    },
+    {
+      "id": "bunpou-n5-yori-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日はきのうより寒いです。",
+      "sentenceVi": "Hôm nay lạnh hơn hôm qua.",
+      "targetGrammar": "〜より",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜より」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hơn so với... (Dùng trong câu so sánh)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜より」 có nghĩa là: Hơn so với... (Dùng trong câu so sánh)."
+    }
+  ]
+}

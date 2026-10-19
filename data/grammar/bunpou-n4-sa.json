@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-sa",
+  "level": "N4",
+  "pattern": "〜さ",
+  "title": "〜さ",
+  "meaning": "-ness (chuyển tính từ thành danh từ chỉ mức độ)",
+  "meaningVi": "-ness (chuyển tính từ thành danh từ chỉ mức độ)",
+  "connection": "i-Adj stem + さ / na-Adj + さ",
+  "usageNotes": "いい trở thành よさ. Thường dùng cho các phép đo (高さ, 重さ, 大きさ, 長さ).",
+  "examples": [
+    {
+      "ja": "この橋の長さはどのくらいですか。",
+      "furigana": "この{橋|はし}の{長|なが}さはどのくらいですか。",
+      "en": "How long is this bridge?",
+      "vi": "Cây cầu này dài bao nhiêu?"
+    },
+    {
+      "ja": "山の上の寒さにびっくりした。",
+      "furigana": "{山|やま}の{上|うえ}の{寒|さむ}さにびっくりした。",
+      "en": "I was surprised by how cold it was at the top of the mountain.",
+      "vi": "Tôi ngạc nhiên vì trên đỉnh núi lạnh đến thế nào."
+    },
+    {
+      "ja": "この仕事の大変さは、やってみないと分からない。",
+      "furigana": "この{仕事|しごと}の{大変|たいへん}さは、やってみないと{分|わ}からない。",
+      "en": "You can't understand how tough this job is until you try it.",
+      "vi": "Bạn không thể hiểu công việc này khó khăn đến mức nào cho đến khi bạn thử nó."
+    }
+  ],
+  "tags": [
+    "nominalization",
+    "degree"
+  ],
+  "unitId": "grammar-n4-unit-19",
+  "questions": [
+    {
+      "id": "bunpou-n4-sa-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この橋の長さはどのくらいですか。",
+      "sentenceVi": "Cây cầu này dài bao nhiêu?",
+      "targetGrammar": "〜さ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "-ness (chuyển tính từ thành danh từ chỉ mức độ)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜さ」 mang ý nghĩa: \"-ness (chuyển tính từ thành danh từ chỉ mức độ)\"."
+    },
+    {
+      "id": "bunpou-n4-sa-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "山の上の寒さにびっくりした。",
+      "sentenceVi": "Tôi ngạc nhiên vì trên đỉnh núi lạnh đến thế nào.",
+      "targetGrammar": "〜さ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜さ",
+        "〜ていく",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi ngạc nhiên vì trên đỉnh núi lạnh đến thế nào.\", ta sử dụng mẫu 「〜さ」."
+    },
+    {
+      "id": "bunpou-n4-sa-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この仕事の大変さは、やってみないと分からない。",
+      "sentenceVi": "Bạn không thể hiểu công việc này khó khăn đến mức nào cho đến khi bạn thử nó.",
+      "targetGrammar": "〜さ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "-ness (chuyển tính từ thành danh từ chỉ mức độ)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜さ」 mang ý nghĩa: \"-ness (chuyển tính từ thành danh từ chỉ mức độ)\"."
+    },
+    {
+      "id": "bunpou-n4-sa-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この橋の長さはどのくらいですか。",
+      "sentenceVi": "Cây cầu này dài bao nhiêu?",
+      "targetGrammar": "〜さ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"-ness (chuyển tính từ thành danh từ chỉ mức độ)\":",
+      "options": [
+        "〜てある",
+        "〜さ",
+        "〜てみる",
+        "〜とき"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜さ」."
+    },
+    {
+      "id": "bunpou-n4-sa-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この橋の長さはどのくらいですか。",
+      "sentenceVi": "Cây cầu này dài bao nhiêu?",
+      "targetGrammar": "〜さ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜さ」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "-ness (chuyển tính từ thành danh từ chỉ mức độ)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜さ」 có nghĩa là: -ness (chuyển tính từ thành danh từ chỉ mức độ)."
+    }
+  ]
+}

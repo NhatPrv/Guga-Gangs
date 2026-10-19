@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-hodo-nai",
+  "level": "N4",
+  "pattern": "〜ほど〜ない",
+  "title": "〜ほど〜ない",
+  "meaning": "Không phải như ... như",
+  "meaningVi": "Không phải như ... như",
+  "connection": "Danh từ (N) / Động từ (V)-plain + ほど + i-Adj-ku + ない / na-Adj + ではない",
+  "usageNotes": "Mệnh đề trước ほど là tiêu chuẩn so sánh. Luôn luôn theo sau là một tiêu cực.",
+  "examples": [
+    {
+      "ja": "今年の夏は去年ほど暑くない。",
+      "furigana": "{今年|ことし}の{夏|なつ}は{去年|きょねん}ほど{暑|あつ}くない。",
+      "en": "This summer isn't as hot as last year.",
+      "vi": "Mùa hè năm nay không nóng như năm ngoái."
+    },
+    {
+      "ja": "私の町は東京ほどにぎやかではありません。",
+      "furigana": "{私|わたし}の{町|まち}は{東京|とうきょう}ほどにぎやかではありません。",
+      "en": "My town isn't as lively as Tokyo.",
+      "vi": "Thị trấn của tôi không sôi động như Tokyo."
+    },
+    {
+      "ja": "テストは思ったほど難しくなかった。",
+      "furigana": "テストは{思|おも}ったほど{難|むずか}しくなかった。",
+      "en": "The test wasn't as hard as I'd expected.",
+      "vi": "Bài kiểm tra không khó như tôi mong đợi."
+    }
+  ],
+  "tags": [
+    "comparison",
+    "negation"
+  ],
+  "unitId": "grammar-n4-unit-14",
+  "questions": [
+    {
+      "id": "bunpou-n4-hodo-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今年の夏は去年ほど暑くない。",
+      "sentenceVi": "Mùa hè năm nay không nóng như năm ngoái.",
+      "targetGrammar": "〜ほど〜ない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Không phải như ... như",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ほど〜ない」 mang ý nghĩa: \"Không phải như ... như\"."
+    },
+    {
+      "id": "bunpou-n4-hodo-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私の町は東京ほどにぎやかではありません。",
+      "sentenceVi": "Thị trấn của tôi không sôi động như Tokyo.",
+      "targetGrammar": "〜ほど〜ない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜ほど〜ない",
+        "〜ていく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Thị trấn của tôi không sôi động như Tokyo.\", ta sử dụng mẫu 「〜ほど〜ない」."
+    },
+    {
+      "id": "bunpou-n4-hodo-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "テストは思ったほど難しくなかった。",
+      "sentenceVi": "Bài kiểm tra không khó như tôi mong đợi.",
+      "targetGrammar": "〜ほど〜ない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Không phải như ... như"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ほど〜ない」 mang ý nghĩa: \"Không phải như ... như\"."
+    },
+    {
+      "id": "bunpou-n4-hodo-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今年の夏は去年ほど暑くない。",
+      "sentenceVi": "Mùa hè năm nay không nóng như năm ngoái.",
+      "targetGrammar": "〜ほど〜ない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không phải như ... như\":",
+      "options": [
+        "〜てある",
+        "〜とき",
+        "〜てみる",
+        "〜ほど〜ない"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜ほど〜ない」."
+    },
+    {
+      "id": "bunpou-n4-hodo-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今年の夏は去年ほど暑くない。",
+      "sentenceVi": "Mùa hè năm nay không nóng như năm ngoái.",
+      "targetGrammar": "〜ほど〜ない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ほど〜ない」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Không phải như ... như",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ほど〜ない」 có nghĩa là: Không phải như ... như."
+    }
+  ]
+}

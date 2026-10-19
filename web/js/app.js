@@ -566,7 +566,9 @@ function selectGrammarUnit(unitId) {
   if (state.currentTab === 'grammar-test') {
     renderGrammarCatalog();
   } else {
-    switchTab('grammar-catalog');
+    if (typeof window.switchTab === 'function') {
+      window.switchTab('grammar-catalog');
+    }
     renderGrammarOverview();
   }
   renderGrammarTree();
@@ -1479,6 +1481,7 @@ function setupEventListeners() {
 
     lucide.createIcons();
   }
+  window.switchTab = switchTab;
 
   /**
    * Chuyển đổi giữa 3 Phân hệ Độc lập lớn (Tri-Hub Navigation):
@@ -2610,9 +2613,10 @@ async function renderGrammarOverview() {
       badgeColor = 'bg-indigo-100 text-indigo-800 dark:bg-indigo-950/80 dark:text-indigo-300 border-indigo-200';
     }
 
-    const questions = item.questions || [];
-    // Lấy 2 câu ví dụ tiêu biểu từ ngân hàng câu hỏi
-    const sampleExamples = questions.slice(0, 2);
+    // Lấy tất cả câu ví dụ thực tế từ thẻ ngữ pháp
+    const sampleExamples = (item.examples && item.examples.length > 0)
+      ? item.examples.map(ex => ({ sentenceJa: ex.ja, sentenceVi: ex.vi || ex.en }))
+      : (item.questions || []).slice(0, 3).map(q => ({ sentenceJa: q.sentenceJa, sentenceVi: q.sentenceVi }));
 
     return `
       <div class="p-6 rounded-2xl bg-white dark:bg-slate-800 border border-slate-200/90 dark:border-slate-700/80 shadow-sm hover:shadow-md transition duration-200 space-y-4">

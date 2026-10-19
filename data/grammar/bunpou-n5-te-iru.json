@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-te-iru",
+  "level": "N5",
+  "pattern": "〜ている",
+  "title": "〜ている",
+  "meaning": "Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
+  "meaningVi": "Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
+  "connection": "Động từ (V)-te + いる",
+  "usageNotes": "Với động từ hành động (食べる, 読む) nó thể hiện một hành động đang diễn ra; với động từ thay đổi (結婚する, 開く, 知る) nó hiển thị trạng thái kết quả. Lịch sự: 〜ています.",
+  "examples": [
+    {
+      "ja": "弟は今、部屋でゲームをしています。",
+      "furigana": "{弟|おとうと}は{今|いま}、{部屋|へや}でゲームをしています。",
+      "en": "My younger brother is playing a game in his room now.",
+      "vi": "Em trai tôi hiện đang chơi game trong phòng."
+    },
+    {
+      "ja": "姉は結婚しています。",
+      "furigana": "{姉|あね}は{結婚|けっこん}しています。",
+      "en": "My older sister is married.",
+      "vi": "Chị gái tôi đã kết hôn."
+    },
+    {
+      "ja": "窓が開いています。",
+      "furigana": "{窓|まど}が{開|あ}いています。",
+      "en": "The window is open.",
+      "vi": "Cửa sổ đang mở."
+    }
+  ],
+  "tags": [
+    "state"
+  ],
+  "unitId": "grammar-n5-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n5-te-iru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "弟は今、部屋でゲームをしています。",
+      "sentenceVi": "Em trai tôi hiện đang chơi game trong phòng.",
+      "targetGrammar": "〜ている",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ている」 mang ý nghĩa: \"Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên\"."
+    },
+    {
+      "id": "bunpou-n5-te-iru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "姉は結婚しています。",
+      "sentenceVi": "Chị gái tôi đã kết hôn.",
+      "targetGrammar": "〜ている",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ている",
+        "〜に（place of existence）",
+        "〜に（time）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Chị gái tôi đã kết hôn.\", ta sử dụng mẫu 「〜ている」."
+    },
+    {
+      "id": "bunpou-n5-te-iru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "窓が開いています。",
+      "sentenceVi": "Cửa sổ đang mở.",
+      "targetGrammar": "〜ている",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ている」 mang ý nghĩa: \"Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên\"."
+    },
+    {
+      "id": "bunpou-n5-te-iru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "弟は今、部屋でゲームをしています。",
+      "sentenceVi": "Em trai tôi hiện đang chơi game trong phòng.",
+      "targetGrammar": "〜ている",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên\":",
+      "options": [
+        "〜で（place of action）",
+        "〜で（means）",
+        "〜と（and）",
+        "〜ている"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜ている」."
+    },
+    {
+      "id": "bunpou-n5-te-iru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "弟は今、部屋でゲームをしています。",
+      "sentenceVi": "Em trai tôi hiện đang chơi game trong phòng.",
+      "targetGrammar": "〜ている",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ている」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ている」 có nghĩa là: Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên."
+    }
+  ]
+}

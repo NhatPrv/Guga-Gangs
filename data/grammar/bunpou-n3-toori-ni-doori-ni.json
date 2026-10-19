@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-toori-ni-doori-ni",
+  "level": "N3",
+  "pattern": "〜とおりに / 〜どおりに",
+  "title": "〜とおりに / 〜どおりに",
+  "meaning": "Như ; theo cách đó; chính xác như",
+  "meaningVi": "Như ; theo cách đó; chính xác như",
+  "connection": "Động từ (V)-dict / Động từ (V)-ta / Danh từ (N) + の + とおりに / Danh từ (N) + どおりに",
+  "usageNotes": "Làm điều gì đó giống hệt như một mô hình, hướng dẫn hoặc dự đoán. Ngay sau danh từ nó trở thành どおり (予定どおり, 思いどおり). に thường bị bỏ đi. そのとおりだ = 'chính xác'.",
+  "examples": [
+    {
+      "ja": "説明書に書いてあるとおりに組み立てたのに、うまく動かない。",
+      "furigana": "{説明|せつめい}{書|しょ}に{書|か}いてあるとおりに{組|く}み{立|た}てたのに、うまく{動|うご}かない。",
+      "en": "I put it together exactly as the manual says, but it doesn't work properly.",
+      "vi": "Mình đã lắp đúng theo hướng dẫn nhưng nó không hoạt động bình thường."
+    },
+    {
+      "ja": "先生が言ったとおり、試験には去年と似た問題が出た。",
+      "furigana": "{先生|せんせい}が{言|い}ったとおり、{試験|しけん}には{去年|きょねん}と{似|に}た{問題|もんだい}が{出|で}た。",
+      "en": "Just as the teacher said, questions similar to last year's came up on the exam.",
+      "vi": "Đúng như giáo viên đã nói, những câu hỏi tương tự như năm ngoái đã xuất hiện trong bài kiểm tra."
+    },
+    {
+      "ja": "工事は予定どおりに進んでいる。",
+      "furigana": "{工事|こうじ}は{予定|よてい}どおりに{進|すす}んでいる。",
+      "en": "The construction is going according to schedule.",
+      "vi": "Việc xây dựng đang diễn ra theo đúng tiến độ."
+    }
+  ],
+  "tags": [
+    "manner"
+  ],
+  "unitId": "grammar-n3-unit-20",
+  "questions": [
+    {
+      "id": "bunpou-n3-toori-ni-doori-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "説明書に書いてあるとおりに組み立てたのに、うまく動かない。",
+      "sentenceVi": "Mình đã lắp đúng theo hướng dẫn nhưng nó không hoạt động bình thường.",
+      "targetGrammar": "〜とおりに / 〜どおりに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Như ; theo cách đó; chính xác như",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜とおりに / 〜どおりに」 mang ý nghĩa: \"Như ; theo cách đó; chính xác như\"."
+    },
+    {
+      "id": "bunpou-n3-toori-ni-doori-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "先生が言ったとおり、試験には去年と似た問題が出た。",
+      "sentenceVi": "Đúng như giáo viên đã nói, những câu hỏi tương tự như năm ngoái đã xuất hiện trong bài kiểm tra.",
+      "targetGrammar": "〜とおりに / 〜どおりに",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜とおりに / 〜どおりに",
+        "〜わけにはいかない",
+        "〜ものではない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Đúng như giáo viên đã nói, những câu hỏi tương tự như năm ngoái đã xuất hiện trong bài kiểm tra.\", ta sử dụng mẫu 「〜とおりに / 〜どおりに」."
+    },
+    {
+      "id": "bunpou-n3-toori-ni-doori-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "工事は予定どおりに進んでいる。",
+      "sentenceVi": "Việc xây dựng đang diễn ra theo đúng tiến độ.",
+      "targetGrammar": "〜とおりに / 〜どおりに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Như ; theo cách đó; chính xác như",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜とおりに / 〜どおりに」 mang ý nghĩa: \"Như ; theo cách đó; chính xác như\"."
+    },
+    {
+      "id": "bunpou-n3-toori-ni-doori-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "説明書に書いてあるとおりに組み立てたのに、うまく動かない。",
+      "sentenceVi": "Mình đã lắp đúng theo hướng dẫn nhưng nó không hoạt động bình thường.",
+      "targetGrammar": "〜とおりに / 〜どおりに",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Như ; theo cách đó; chính xác như\":",
+      "options": [
+        "〜ことになっている",
+        "〜とおりに / 〜どおりに",
+        "〜ことはない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜とおりに / 〜どおりに」."
+    },
+    {
+      "id": "bunpou-n3-toori-ni-doori-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "説明書に書いてあるとおりに組み立てたのに、うまく動かない。",
+      "sentenceVi": "Mình đã lắp đúng theo hướng dẫn nhưng nó không hoạt động bình thường.",
+      "targetGrammar": "〜とおりに / 〜どおりに",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜とおりに / 〜どおりに」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Như ; theo cách đó; chính xác như",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜とおりに / 〜どおりに」 có nghĩa là: Như ; theo cách đó; chính xác như."
+    }
+  ]
+}

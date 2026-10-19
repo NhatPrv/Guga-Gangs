@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-to-iu-yori",
+  "level": "N3",
+  "pattern": "〜というより",
+  "title": "〜というより",
+  "meaning": "Chứ không phải ; không nhiều A như B",
+  "meaningVi": "Chứ không phải ; không nhiều A như B",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + というより",
+  "usageNotes": "Sửa hoặc tinh chỉnh mô tả: mô tả thứ hai phù hợp hơn. Thường theo sau là むしろ.",
+  "examples": [
+    {
+      "ja": "今日は涼しいというより、寒いくらいだ。",
+      "furigana": "{今日|きょう}は{涼|すず}しいというより、{寒|さむ}いくらいだ。",
+      "en": "Today it's not so much cool as almost cold.",
+      "vi": "Hôm nay trời không mát đến mức gần như lạnh."
+    },
+    {
+      "ja": "彼女は友達というより、家族のような存在だ。",
+      "furigana": "{彼女|かのじょ}は{友達|ともだち}というより、{家族|かぞく}のような{存在|そんざい}だ。",
+      "en": "She's less a friend than something like family to me.",
+      "vi": "Đối với tôi, cô ấy không phải là một người bạn mà giống như một gia đình."
+    },
+    {
+      "ja": "それは意見というより、ただの文句だよ。",
+      "furigana": "それは{意見|いけん}というより、ただの{文句|もんく}だよ。",
+      "en": "That's not so much an opinion as just a complaint.",
+      "vi": "Đó không hẳn là một ý kiến ​​mà chỉ là một lời phàn nàn."
+    }
+  ],
+  "tags": [
+    "comparison"
+  ],
+  "unitId": "grammar-n3-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n3-to-iu-yori-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は涼しいというより、寒いくらいだ。",
+      "sentenceVi": "Hôm nay trời không mát đến mức gần như lạnh.",
+      "targetGrammar": "〜というより",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Chứ không phải ; không nhiều A như B",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜というより」 mang ý nghĩa: \"Chứ không phải ; không nhiều A như B\"."
+    },
+    {
+      "id": "bunpou-n3-to-iu-yori-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "彼女は友達というより、家族のような存在だ。",
+      "sentenceVi": "Đối với tôi, cô ấy không phải là một người bạn mà giống như một gia đình.",
+      "targetGrammar": "〜というより",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜というより",
+        "〜ものではない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Đối với tôi, cô ấy không phải là một người bạn mà giống như một gia đình.\", ta sử dụng mẫu 「〜というより」."
+    },
+    {
+      "id": "bunpou-n3-to-iu-yori-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "それは意見というより、ただの文句だよ。",
+      "sentenceVi": "Đó không hẳn là một ý kiến ​​mà chỉ là một lời phàn nàn.",
+      "targetGrammar": "〜というより",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Chứ không phải ; không nhiều A như B",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜というより」 mang ý nghĩa: \"Chứ không phải ; không nhiều A như B\"."
+    },
+    {
+      "id": "bunpou-n3-to-iu-yori-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は涼しいというより、寒いくらいだ。",
+      "sentenceVi": "Hôm nay trời không mát đến mức gần như lạnh.",
+      "targetGrammar": "〜というより",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chứ không phải ; không nhiều A như B\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことになっている",
+        "〜というより",
+        "〜ことはない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜というより」."
+    },
+    {
+      "id": "bunpou-n3-to-iu-yori-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は涼しいというより、寒いくらいだ。",
+      "sentenceVi": "Hôm nay trời không mát đến mức gần như lạnh.",
+      "targetGrammar": "〜というより",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜というより」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Chứ không phải ; không nhiều A như B"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜というより」 có nghĩa là: Chứ không phải ; không nhiều A như B."
+    }
+  ]
+}

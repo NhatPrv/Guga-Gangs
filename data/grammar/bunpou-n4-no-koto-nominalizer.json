@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-no-koto-nominalizer",
+  "level": "N4",
+  "pattern": "〜の / 〜こと（nominalizer）",
+  "title": "〜の / 〜こと（nominalizer）",
+  "meaning": "Hành động làm (chuyển cụm động từ thành danh từ)",
+  "meaningVi": "Hành động làm (chuyển cụm động từ thành danh từ)",
+  "connection": "Động từ (V)-plain + の / Động từ (V)-plain + こと",
+  "usageNotes": "の được ưa chuộng hơn với các động từ nhận thức (見る, 聞こえる) và trong lời nói thông thường; こと cần được dùng trước です/だ và trong các mẫu cố định như 〜ことができる.",
+  "examples": [
+    {
+      "ja": "私は写真を撮るのが好きです。",
+      "furigana": "{私|わたし}は{写真|しゃしん}を{撮|と}るのが{好|す}きです。",
+      "en": "I like taking photos.",
+      "vi": "Tôi thích chụp ảnh."
+    },
+    {
+      "ja": "趣味は古い映画を見ることです。",
+      "furigana": "{趣味|しゅみ}は{古|ふる}い{映画|えいが}を{見|み}ることです。",
+      "en": "My hobby is watching old movies.",
+      "vi": "Sở thích của tôi là xem phim cũ."
+    },
+    {
+      "ja": "かぎをかけるのを忘れました。",
+      "furigana": "かぎをかけるのを{忘|わす}れました。",
+      "en": "I forgot to lock the door.",
+      "vi": "Tôi quên khóa cửa."
+    }
+  ],
+  "tags": [
+    "nominalization"
+  ],
+  "unitId": "grammar-n4-unit-17",
+  "questions": [
+    {
+      "id": "bunpou-n4-no-koto-nominalizer-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は写真を撮るのが好きです。",
+      "sentenceVi": "Tôi thích chụp ảnh.",
+      "targetGrammar": "〜の / 〜こと（nominalizer）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Hành động làm (chuyển cụm động từ thành danh từ)",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜の / 〜こと（nominalizer）」 mang ý nghĩa: \"Hành động làm (chuyển cụm động từ thành danh từ)\"."
+    },
+    {
+      "id": "bunpou-n4-no-koto-nominalizer-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "趣味は古い映画を見ることです。",
+      "sentenceVi": "Sở thích của tôi là xem phim cũ.",
+      "targetGrammar": "〜の / 〜こと（nominalizer）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜の / 〜こと（nominalizer）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Sở thích của tôi là xem phim cũ.\", ta sử dụng mẫu 「〜の / 〜こと（nominalizer）」."
+    },
+    {
+      "id": "bunpou-n4-no-koto-nominalizer-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "かぎをかけるのを忘れました。",
+      "sentenceVi": "Tôi quên khóa cửa.",
+      "targetGrammar": "〜の / 〜こと（nominalizer）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hành động làm (chuyển cụm động từ thành danh từ)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜の / 〜こと（nominalizer）」 mang ý nghĩa: \"Hành động làm (chuyển cụm động từ thành danh từ)\"."
+    },
+    {
+      "id": "bunpou-n4-no-koto-nominalizer-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私は写真を撮るのが好きです。",
+      "sentenceVi": "Tôi thích chụp ảnh.",
+      "targetGrammar": "〜の / 〜こと（nominalizer）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hành động làm (chuyển cụm động từ thành danh từ)\":",
+      "options": [
+        "〜てある",
+        "〜とき",
+        "〜てみる",
+        "〜の / 〜こと（nominalizer）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜の / 〜こと（nominalizer）」."
+    },
+    {
+      "id": "bunpou-n4-no-koto-nominalizer-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は写真を撮るのが好きです。",
+      "sentenceVi": "Tôi thích chụp ảnh.",
+      "targetGrammar": "〜の / 〜こと（nominalizer）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜の / 〜こと（nominalizer）」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Hành động làm (chuyển cụm động từ thành danh từ)",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜の / 〜こと（nominalizer）」 có nghĩa là: Hành động làm (chuyển cụm động từ thành danh từ)."
+    }
+  ]
+}

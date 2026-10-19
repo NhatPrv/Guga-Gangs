@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-darake",
+  "level": "N3",
+  "pattern": "〜だらけ",
+  "title": "〜だらけ",
+  "meaning": "Đầy ; được bao phủ bởi; đánh đố với",
+  "meaningVi": "Đầy ; được bao phủ bởi; đánh đố với",
+  "connection": "Danh từ (N) + だらけ",
+  "usageNotes": "Một lượng lớn thứ gì đó che phủ hoặc lấp đầy một nơi; thường tiêu cực. So sánh N1 〜まみれ (được bao phủ bởi thứ gì đó dính hoặc bẩn).",
+  "examples": [
+    {
+      "ja": "子どもたちは、泥だらけになって帰ってきた。",
+      "furigana": "{子|こ}どもたちは、{泥|どろ}だらけになって{帰|かえ}ってきた。",
+      "en": "The children came home covered in mud.",
+      "vi": "Bọn trẻ về nhà người đầy bùn."
+    },
+    {
+      "ja": "急いで書いたレポートは、間違いだらけだった。",
+      "furigana": "{急|いそ}いで{書|か}いたレポートは、{間違|まちが}いだらけだった。",
+      "en": "The report I wrote in a hurry was full of mistakes.",
+      "vi": "Bản báo cáo tôi viết vội có nhiều sai sót."
+    },
+    {
+      "ja": "引っ越したばかりで、部屋はまだ段ボールだらけだ。",
+      "furigana": "{引|ひ}っ{越|こ}したばかりで、{部屋|へや}はまだ{段|だん}ボールだらけだ。",
+      "en": "I've just moved, so my place is still full of cardboard boxes.",
+      "vi": "Mình mới chuyển đi nên chỗ ở còn đầy thùng carton."
+    }
+  ],
+  "tags": [
+    "quantity",
+    "state"
+  ],
+  "unitId": "grammar-n3-unit-18",
+  "questions": [
+    {
+      "id": "bunpou-n3-darake-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子どもたちは、泥だらけになって帰ってきた。",
+      "sentenceVi": "Bọn trẻ về nhà người đầy bùn.",
+      "targetGrammar": "〜だらけ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Đầy ; được bao phủ bởi; đánh đố với",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜だらけ」 mang ý nghĩa: \"Đầy ; được bao phủ bởi; đánh đố với\"."
+    },
+    {
+      "id": "bunpou-n3-darake-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "急いで書いたレポートは、間違いだらけだった。",
+      "sentenceVi": "Bản báo cáo tôi viết vội có nhiều sai sót.",
+      "targetGrammar": "〜だらけ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜だらけ",
+        "〜ものだ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Bản báo cáo tôi viết vội có nhiều sai sót.\", ta sử dụng mẫu 「〜だらけ」."
+    },
+    {
+      "id": "bunpou-n3-darake-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "引っ越したばかりで、部屋はまだ段ボールだらけだ。",
+      "sentenceVi": "Mình mới chuyển đi nên chỗ ở còn đầy thùng carton.",
+      "targetGrammar": "〜だらけ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Đầy ; được bao phủ bởi; đánh đố với",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜だらけ」 mang ý nghĩa: \"Đầy ; được bao phủ bởi; đánh đố với\"."
+    },
+    {
+      "id": "bunpou-n3-darake-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "子どもたちは、泥だらけになって帰ってきた。",
+      "sentenceVi": "Bọn trẻ về nhà người đầy bùn.",
+      "targetGrammar": "〜だらけ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đầy ; được bao phủ bởi; đánh đố với\":",
+      "options": [
+        "〜だらけ",
+        "〜ことになっている",
+        "〜ことはない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜だらけ」."
+    },
+    {
+      "id": "bunpou-n3-darake-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子どもたちは、泥だらけになって帰ってきた。",
+      "sentenceVi": "Bọn trẻ về nhà người đầy bùn.",
+      "targetGrammar": "〜だらけ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜だらけ」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Đầy ; được bao phủ bởi; đánh đố với",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜だらけ」 có nghĩa là: Đầy ; được bao phủ bởi; đánh đố với."
+    }
+  ]
+}

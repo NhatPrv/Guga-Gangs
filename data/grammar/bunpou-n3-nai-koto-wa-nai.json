@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-nai-koto-wa-nai",
+  "level": "N3",
+  "pattern": "〜ないことはない",
+  "title": "〜ないことはない",
+  "meaning": "Không phải thế... không phải; có thể nếu cần thiết; không phải là không thể",
+  "meaningVi": "Không phải thế... không phải; có thể nếu cần thiết; không phải là không thể",
+  "connection": "Động từ (V)-nai / i-Adj-ku + ない / na-Adj + でない + ことはない",
+  "usageNotes": "Một sự phủ định kép đưa ra một tiếng 'có' do dự. Ngoài ra 〜ないこともない. Đừng nhầm lẫn với Động từ-dict + ことはない ('không cần đâu').",
+  "examples": [
+    {
+      "ja": "辛い料理は食べられないことはないけど、あまり好きじゃない。",
+      "furigana": "{辛|から}い{料理|りょうり}は{食|た}べられないことはないけど、あまり{好|す}きじゃない。",
+      "en": "It's not that I can't eat spicy food, but I don't really like it.",
+      "vi": "Không phải là tôi không ăn được cay mà là tôi không thích lắm."
+    },
+    {
+      "ja": "今から急げば、間に合わないことはないと思う。",
+      "furigana": "{今|いま}から{急|いそ}げば、{間|ま}に{合|あ}わないことはないと{思|おも}う。",
+      "en": "If we hurry now, I think we can just about make it.",
+      "vi": "Nếu chúng ta nhanh lên bây giờ, tôi nghĩ chúng ta có thể làm được."
+    },
+    {
+      "ja": "この服、少し派手だけど、似合わないことはないよ。",
+      "furigana": "この{服|ふく}、{少|すこ}し{派手|はで}だけど、{似合|にあ}わないことはないよ。",
+      "en": "This outfit is a bit flashy, but it's not as if it doesn't suit you.",
+      "vi": "Bộ trang phục này tuy có chút lòe loẹt nhưng không phải là không hợp với bạn."
+    }
+  ],
+  "tags": [
+    "negation",
+    "possibility"
+  ],
+  "unitId": "grammar-n3-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n3-nai-koto-wa-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "辛い料理は食べられないことはないけど、あまり好きじゃない。",
+      "sentenceVi": "Không phải là tôi không ăn được cay mà là tôi không thích lắm.",
+      "targetGrammar": "〜ないことはない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Không phải thế... không phải; có thể nếu cần thiết; không phải là không thể"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ないことはない」 mang ý nghĩa: \"Không phải thế... không phải; có thể nếu cần thiết; không phải là không thể\"."
+    },
+    {
+      "id": "bunpou-n3-nai-koto-wa-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今から急げば、間に合わないことはないと思う。",
+      "sentenceVi": "Nếu chúng ta nhanh lên bây giờ, tôi nghĩ chúng ta có thể làm được.",
+      "targetGrammar": "〜ないことはない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜ものではない",
+        "〜ないことはない",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Nếu chúng ta nhanh lên bây giờ, tôi nghĩ chúng ta có thể làm được.\", ta sử dụng mẫu 「〜ないことはない」."
+    },
+    {
+      "id": "bunpou-n3-nai-koto-wa-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この服、少し派手だけど、似合わないことはないよ。",
+      "sentenceVi": "Bộ trang phục này tuy có chút lòe loẹt nhưng không phải là không hợp với bạn.",
+      "targetGrammar": "〜ないことはない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Không phải thế... không phải; có thể nếu cần thiết; không phải là không thể",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ないことはない」 mang ý nghĩa: \"Không phải thế... không phải; có thể nếu cần thiết; không phải là không thể\"."
+    },
+    {
+      "id": "bunpou-n3-nai-koto-wa-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "辛い料理は食べられないことはないけど、あまり好きじゃない。",
+      "sentenceVi": "Không phải là tôi không ăn được cay mà là tôi không thích lắm.",
+      "targetGrammar": "〜ないことはない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không phải thế... không phải; có thể nếu cần thiết; không phải là không thể\":",
+      "options": [
+        "〜ことにしている",
+        "〜ないことはない",
+        "〜ことはない",
+        "〜ことになっている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ないことはない」."
+    },
+    {
+      "id": "bunpou-n3-nai-koto-wa-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "辛い料理は食べられないことはないけど、あまり好きじゃない。",
+      "sentenceVi": "Không phải là tôi không ăn được cay mà là tôi không thích lắm.",
+      "targetGrammar": "〜ないことはない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ないことはない」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Không phải thế... không phải; có thể nếu cần thiết; không phải là không thể",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ないことはない」 có nghĩa là: Không phải thế... không phải; có thể nếu cần thiết; không phải là không thể."
+    }
+  ]
+}

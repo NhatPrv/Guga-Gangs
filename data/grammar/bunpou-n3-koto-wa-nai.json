@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-koto-wa-nai",
+  "level": "N3",
+  "pattern": "〜ことはない",
+  "title": "〜ことはない",
+  "meaning": "Không cần phải làm vậy; không cần phải làm vậy",
+  "meaningVi": "Không cần phải làm vậy; không cần phải làm vậy",
+  "connection": "Động từ (V)-dict + ことはない",
+  "usageNotes": "Trấn an hoặc khuyên nhủ rằng điều gì đó là không cần thiết. Đừng nhầm lẫn với 〜たことはない ('chưa bao giờ làm').",
+  "examples": [
+    {
+      "ja": "簡単な手術ですから、そんなに心配することはありませんよ。",
+      "furigana": "{簡単|かんたん}な{手術|しゅじゅつ}ですから、そんなに{心配|しんぱい}することはありませんよ。",
+      "en": "It's a simple operation, so there's no need to worry so much.",
+      "vi": "Đó là một thao tác đơn giản nên không cần phải lo lắng nhiều."
+    },
+    {
+      "ja": "駅までは歩いて五分だから、タクシーを使うことはない。",
+      "furigana": "{駅|えき}までは{歩|ある}いて{五|ご}{分|ふん}だから、タクシーを{使|つか}うことはない。",
+      "en": "The station is a five-minute walk, so there's no need to take a taxi.",
+      "vi": "Nhà ga cách đó năm phút đi bộ nên không cần phải đi taxi."
+    },
+    {
+      "ja": "一回失敗したくらいで、あきらめることはないよ。",
+      "furigana": "{一回|いっかい}{失敗|しっぱい}したくらいで、あきらめることはないよ。",
+      "en": "There's no need to give up just because you failed once.",
+      "vi": "Không cần thiết phải bỏ cuộc chỉ vì bạn đã thất bại một lần."
+    }
+  ],
+  "tags": [
+    "necessity",
+    "negation",
+    "advice"
+  ],
+  "unitId": "grammar-n3-unit-02",
+  "questions": [
+    {
+      "id": "bunpou-n3-koto-wa-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "簡単な手術ですから、そんなに心配することはありませんよ。",
+      "sentenceVi": "Đó là một thao tác đơn giản nên không cần phải lo lắng nhiều.",
+      "targetGrammar": "〜ことはない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Không cần phải làm vậy; không cần phải làm vậy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ことはない」 mang ý nghĩa: \"Không cần phải làm vậy; không cần phải làm vậy\"."
+    },
+    {
+      "id": "bunpou-n3-koto-wa-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "駅までは歩いて五分だから、タクシーを使うことはない。",
+      "sentenceVi": "Nhà ga cách đó năm phút đi bộ nên không cần phải đi taxi.",
+      "targetGrammar": "〜ことはない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜ことはない",
+        "〜ものではない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Nhà ga cách đó năm phút đi bộ nên không cần phải đi taxi.\", ta sử dụng mẫu 「〜ことはない」."
+    },
+    {
+      "id": "bunpou-n3-koto-wa-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "一回失敗したくらいで、あきらめることはないよ。",
+      "sentenceVi": "Không cần thiết phải bỏ cuộc chỉ vì bạn đã thất bại một lần.",
+      "targetGrammar": "〜ことはない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không cần phải làm vậy; không cần phải làm vậy",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ことはない」 mang ý nghĩa: \"Không cần phải làm vậy; không cần phải làm vậy\"."
+    },
+    {
+      "id": "bunpou-n3-koto-wa-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "簡単な手術ですから、そんなに心配することはありませんよ。",
+      "sentenceVi": "Đó là một thao tác đơn giản nên không cần phải lo lắng nhiều.",
+      "targetGrammar": "〜ことはない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không cần phải làm vậy; không cần phải làm vậy\":",
+      "options": [
+        "〜ことはない",
+        "〜ことになっている",
+        "〜ことにしている",
+        "〜こと（instruction）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ことはない」."
+    },
+    {
+      "id": "bunpou-n3-koto-wa-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "簡単な手術ですから、そんなに心配することはありませんよ。",
+      "sentenceVi": "Đó là một thao tác đơn giản nên không cần phải lo lắng nhiều.",
+      "targetGrammar": "〜ことはない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ことはない」 là gì?",
+      "options": [
+        "Không cần phải làm vậy; không cần phải làm vậy",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Không thể ; không có vẻ như nó sẽ"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ことはない」 có nghĩa là: Không cần phải làm vậy; không cần phải làm vậy."
+    }
+  ]
+}

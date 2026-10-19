@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-kute-de",
+  "level": "N5",
+  "pattern": "〜くて / 〜で",
+  "title": "〜くて / 〜で",
+  "meaning": "Và (nối tính từ hoặc danh từ)",
+  "meaningVi": "Và (nối tính từ hoặc danh từ)",
+  "connection": "i-Adj-ku + て / na-Adj + で / Danh từ (N) + で",
+  "usageNotes": "いい trở thành よくて. Kết hợp những phẩm chất chỉ ra cùng một hướng (cả tốt hoặc cả xấu); để tương phản, hãy sử dụng が thay thế.",
+  "examples": [
+    {
+      "ja": "この店は安くておいしいです。",
+      "furigana": "この{店|みせ}は{安|やす}くておいしいです。",
+      "en": "This restaurant is cheap and good.",
+      "vi": "Quán này ngon và rẻ."
+    },
+    {
+      "ja": "私の町は静かできれいです。",
+      "furigana": "{私|わたし}の{町|まち}は{静|しず}かできれいです。",
+      "en": "My town is quiet and clean.",
+      "vi": "Thị trấn của tôi yên tĩnh và sạch sẽ."
+    },
+    {
+      "ja": "兄は大学生で、妹は高校生です。",
+      "furigana": "{兄|あに}は{大学生|だいがくせい}で、{妹|いもうと}は{高校生|こうこうせい}です。",
+      "en": "My older brother is a university student, and my younger sister is a high school student.",
+      "vi": "Anh trai tôi là sinh viên đại học, còn em gái tôi là học sinh trung học."
+    }
+  ],
+  "tags": [
+    "addition",
+    "conjugation"
+  ],
+  "unitId": "grammar-n5-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n5-kute-de-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この店は安くておいしいです。",
+      "sentenceVi": "Quán này ngon và rẻ.",
+      "targetGrammar": "〜くて / 〜で",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Và (nối tính từ hoặc danh từ)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜くて / 〜で」 mang ý nghĩa: \"Và (nối tính từ hoặc danh từ)\"."
+    },
+    {
+      "id": "bunpou-n5-kute-de-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私の町は静かできれいです。",
+      "sentenceVi": "Thị trấn của tôi yên tĩnh và sạch sẽ.",
+      "targetGrammar": "〜くて / 〜で",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜に（time）",
+        "〜に（destination）",
+        "〜くて / 〜で"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Thị trấn của tôi yên tĩnh và sạch sẽ.\", ta sử dụng mẫu 「〜くて / 〜で」."
+    },
+    {
+      "id": "bunpou-n5-kute-de-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "兄は大学生で、妹は高校生です。",
+      "sentenceVi": "Anh trai tôi là sinh viên đại học, còn em gái tôi là học sinh trung học.",
+      "targetGrammar": "〜くて / 〜で",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Và (nối tính từ hoặc danh từ)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜くて / 〜で」 mang ý nghĩa: \"Và (nối tính từ hoặc danh từ)\"."
+    },
+    {
+      "id": "bunpou-n5-kute-de-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この店は安くておいしいです。",
+      "sentenceVi": "Quán này ngon và rẻ.",
+      "targetGrammar": "〜くて / 〜で",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Và (nối tính từ hoặc danh từ)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜で（means）",
+        "〜くて / 〜で",
+        "〜と（and）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜くて / 〜で」."
+    },
+    {
+      "id": "bunpou-n5-kute-de-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この店は安くておいしいです。",
+      "sentenceVi": "Quán này ngon và rẻ.",
+      "targetGrammar": "〜くて / 〜で",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜くて / 〜で」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Và (nối tính từ hoặc danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜くて / 〜で」 có nghĩa là: Và (nối tính từ hoặc danh từ)."
+    }
+  ]
+}

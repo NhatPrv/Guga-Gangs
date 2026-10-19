@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-te-kuremasen-ka-te-itadakemasen-ka",
+  "level": "N4",
+  "pattern": "〜てくれませんか / 〜ていただけませんか",
+  "title": "〜てくれませんか / 〜ていただけませんか",
+  "meaning": "Bạn có thể làm ơn...? (yêu cầu lịch sự)",
+  "meaningVi": "Bạn có thể làm ơn...? (yêu cầu lịch sự)",
+  "connection": "Động từ (V)-te + くれませんか / Động từ (V)-te + いただけませんか",
+  "usageNotes": "Nhẹ nhàng hơn 〜てください. Sự lịch sự tăng từ 〜てくれませんか lên 〜てもらえませんか đến 〜ていただけませんか.",
+  "examples": [
+    {
+      "ja": "すみません、写真を撮ってくれませんか。",
+      "furigana": "すみません、{写真|しゃしん}を{撮|と}ってくれませんか。",
+      "en": "Excuse me, could you take my picture?",
+      "vi": "Xin lỗi, bạn có thể chụp ảnh tôi được không?"
+    },
+    {
+      "ja": "この書類の書き方を教えていただけませんか。",
+      "furigana": "この{書類|しょるい}の{書|か}き{方|かた}を{教|おし}えていただけませんか。",
+      "en": "Could you please show me how to fill out this form?",
+      "vi": "Bạn có thể vui lòng chỉ cho tôi cách điền vào mẫu này không?"
+    },
+    {
+      "ja": "もう少し大きい声で話していただけませんか。",
+      "furigana": "もう{少|すこ}し{大|おお}きい{声|こえ}で{話|はな}していただけませんか。",
+      "en": "Could you speak a little louder, please?",
+      "vi": "Bạn có thể nói to hơn một chút được không?"
+    }
+  ],
+  "tags": [
+    "request",
+    "politeness"
+  ],
+  "unitId": "grammar-n4-unit-20",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-kuremasen-ka-te-itadakemasen-ka-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "すみません、写真を撮ってくれませんか。",
+      "sentenceVi": "Xin lỗi, bạn có thể chụp ảnh tôi được không?",
+      "targetGrammar": "〜てくれませんか / 〜ていただけませんか",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bạn có thể làm ơn...? (yêu cầu lịch sự)",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜てくれませんか / 〜ていただけませんか」 mang ý nghĩa: \"Bạn có thể làm ơn...? (yêu cầu lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n4-te-kuremasen-ka-te-itadakemasen-ka-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この書類の書き方を教えていただけませんか。",
+      "sentenceVi": "Bạn có thể vui lòng chỉ cho tôi cách điền vào mẫu này không?",
+      "targetGrammar": "〜てくれませんか / 〜ていただけませんか",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜てくれませんか / 〜ていただけませんか"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn có thể vui lòng chỉ cho tôi cách điền vào mẫu này không?\", ta sử dụng mẫu 「〜てくれませんか / 〜ていただけませんか」."
+    },
+    {
+      "id": "bunpou-n4-te-kuremasen-ka-te-itadakemasen-ka-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "もう少し大きい声で話していただけませんか。",
+      "sentenceVi": "Bạn có thể nói to hơn một chút được không?",
+      "targetGrammar": "〜てくれませんか / 〜ていただけませんか",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Bạn có thể làm ơn...? (yêu cầu lịch sự)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜てくれませんか / 〜ていただけませんか」 mang ý nghĩa: \"Bạn có thể làm ơn...? (yêu cầu lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n4-te-kuremasen-ka-te-itadakemasen-ka-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "すみません、写真を撮ってくれませんか。",
+      "sentenceVi": "Xin lỗi, bạn có thể chụp ảnh tôi được không?",
+      "targetGrammar": "〜てくれませんか / 〜ていただけませんか",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bạn có thể làm ơn...? (yêu cầu lịch sự)\":",
+      "options": [
+        "〜てある",
+        "〜とき",
+        "〜てみる",
+        "〜てくれませんか / 〜ていただけませんか"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜てくれませんか / 〜ていただけませんか」."
+    },
+    {
+      "id": "bunpou-n4-te-kuremasen-ka-te-itadakemasen-ka-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "すみません、写真を撮ってくれませんか。",
+      "sentenceVi": "Xin lỗi, bạn có thể chụp ảnh tôi được không?",
+      "targetGrammar": "〜てくれませんか / 〜ていただけませんか",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てくれませんか / 〜ていただけませんか」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Bạn có thể làm ơn...? (yêu cầu lịch sự)",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜てくれませんか / 〜ていただけませんか」 có nghĩa là: Bạn có thể làm ơn...? (yêu cầu lịch sự)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-sae-ba",
+  "level": "N3",
+  "pattern": "〜さえ〜ば",
+  "title": "〜さえ〜ば",
+  "meaning": "Giá như ; chừng nào ; miễn là",
+  "meaningVi": "Giá như ; chừng nào ; miễn là",
+  "connection": "Danh từ (N) + さえ + Động từ (V)-ba / Động từ (V)-stem + さえ + すれば / Động từ (V)-te + さえ + いれば",
+  "usageNotes": "Nhấn mạnh rằng chỉ riêng điều kiện này là đủ hoặc là điều kiện duy nhất còn thiếu.",
+  "examples": [
+    {
+      "ja": "このアプリさえあれば、どこでも日本語の勉強ができる。",
+      "furigana": "このアプリさえあれば、どこでも{日本語|にほんご}の{勉強|べんきょう}ができる。",
+      "en": "As long as you have this app, you can study Japanese anywhere.",
+      "vi": "Chỉ cần có ứng dụng này là bạn có thể học tiếng Nhật ở bất cứ đâu."
+    },
+    {
+      "ja": "時間さえあれば、もっと旅行に行きたいんですが。",
+      "furigana": "{時間|じかん}さえあれば、もっと{旅行|りょこう}に{行|い}きたいんですが。",
+      "en": "If only I had the time, I'd love to travel more.",
+      "vi": "Giá như tôi có thời gian, tôi muốn đi du lịch nhiều hơn."
+    },
+    {
+      "ja": "薬を飲んで寝てさえいれば、すぐに治りますよ。",
+      "furigana": "{薬|くすり}を{飲|の}んで{寝|ね}てさえいれば、すぐに{治|なお}りますよ。",
+      "en": "As long as you take your medicine and stay in bed, you'll be better in no time.",
+      "vi": "Chỉ cần bạn uống thuốc và nằm trên giường, bạn sẽ nhanh chóng khỏe lại."
+    }
+  ],
+  "tags": [
+    "condition",
+    "emphasis"
+  ],
+  "unitId": "grammar-n3-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n3-sae-ba-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このアプリさえあれば、どこでも日本語の勉強ができる。",
+      "sentenceVi": "Chỉ cần có ứng dụng này là bạn có thể học tiếng Nhật ở bất cứ đâu.",
+      "targetGrammar": "〜さえ〜ば",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Giá như ; chừng nào ; miễn là",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜さえ〜ば」 mang ý nghĩa: \"Giá như ; chừng nào ; miễn là\"."
+    },
+    {
+      "id": "bunpou-n3-sae-ba-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "時間さえあれば、もっと旅行に行きたいんですが。",
+      "sentenceVi": "Giá như tôi có thời gian, tôi muốn đi du lịch nhiều hơn.",
+      "targetGrammar": "〜さえ〜ば",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜ものだ",
+        "〜さえ〜ば"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Giá như tôi có thời gian, tôi muốn đi du lịch nhiều hơn.\", ta sử dụng mẫu 「〜さえ〜ば」."
+    },
+    {
+      "id": "bunpou-n3-sae-ba-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "薬を飲んで寝てさえいれば、すぐに治りますよ。",
+      "sentenceVi": "Chỉ cần bạn uống thuốc và nằm trên giường, bạn sẽ nhanh chóng khỏe lại.",
+      "targetGrammar": "〜さえ〜ば",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Giá như ; chừng nào ; miễn là",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜さえ〜ば」 mang ý nghĩa: \"Giá như ; chừng nào ; miễn là\"."
+    },
+    {
+      "id": "bunpou-n3-sae-ba-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このアプリさえあれば、どこでも日本語の勉強ができる。",
+      "sentenceVi": "Chỉ cần có ứng dụng này là bạn có thể học tiếng Nhật ở bất cứ đâu.",
+      "targetGrammar": "〜さえ〜ば",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Giá như ; chừng nào ; miễn là\":",
+      "options": [
+        "〜さえ〜ば",
+        "〜ことにしている",
+        "〜ことはない",
+        "〜ことになっている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜さえ〜ば」."
+    },
+    {
+      "id": "bunpou-n3-sae-ba-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このアプリさえあれば、どこでも日本語の勉強ができる。",
+      "sentenceVi": "Chỉ cần có ứng dụng này là bạn có thể học tiếng Nhật ở bất cứ đâu.",
+      "targetGrammar": "〜さえ〜ば",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜さえ〜ば」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Giá như ; chừng nào ; miễn là",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜さえ〜ば」 có nghĩa là: Giá như ; chừng nào ; miễn là."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-marude-you-da",
+  "level": "N3",
+  "pattern": "まるで〜ようだ",
+  "title": "まるで〜ようだ",
+  "meaning": "Giống như; như thể",
+  "meaningVi": "Giống như; như thể",
+  "connection": "まるで + Động từ (V)-plain / Danh từ (N) + の + ようだ",
+  "usageNotes": "まるで báo hiệu một sự so sánh mang tính biểu tượng: nó chỉ có vẻ như vậy thôi. Bình thường: まるで〜みたいだ. So sánh N2 〜かのようだ.",
+  "examples": [
+    {
+      "ja": "この部屋は広くて明るくて、まるでホテルのようだ。",
+      "furigana": "この{部屋|へや}は{広|ひろ}くて{明|あか}るくて、まるでホテルのようだ。",
+      "en": "This room is so big and bright, it's just like a hotel.",
+      "vi": "Căn phòng này rất rộng và sáng sủa, giống như một khách sạn vậy."
+    },
+    {
+      "ja": "久しぶりに会った友達は、まるで別人のように変わっていた。",
+      "furigana": "{久|ひさ}しぶりに{会|あ}った{友達|ともだち}は、まるで{別人|べつじん}のように{変|か}わっていた。",
+      "en": "My friend, whom I hadn't seen in ages, had changed so much she seemed like a different person.",
+      "vi": "Bạn tôi, người mà tôi đã lâu không gặp, đã thay đổi nhiều đến mức cô ấy trông như một người khác."
+    },
+    {
+      "ja": "三月なのに、今日はまるで真夏のように暑い。",
+      "furigana": "{三月|さんがつ}なのに、{今日|きょう}はまるで{真夏|まなつ}のように{暑|あつ}い。",
+      "en": "It's only March, but today it's as hot as midsummer.",
+      "vi": "Mới tháng ba mà hôm nay trời nóng như giữa hè."
+    }
+  ],
+  "tags": [
+    "comparison",
+    "appearance"
+  ],
+  "unitId": "grammar-n3-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n3-marude-you-da-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この部屋は広くて明るくて、まるでホテルのようだ。",
+      "sentenceVi": "Căn phòng này rất rộng và sáng sủa, giống như một khách sạn vậy.",
+      "targetGrammar": "まるで〜ようだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Giống như; như thể",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「まるで〜ようだ」 mang ý nghĩa: \"Giống như; như thể\"."
+    },
+    {
+      "id": "bunpou-n3-marude-you-da-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "久しぶりに会った友達は、まるで別人のように変わっていた。",
+      "sentenceVi": "Bạn tôi, người mà tôi đã lâu không gặp, đã thay đổi nhiều đến mức cô ấy trông như một người khác.",
+      "targetGrammar": "まるで〜ようだ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜わけにはいかない",
+        "まるで〜ようだ",
+        "〜ものだ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn tôi, người mà tôi đã lâu không gặp, đã thay đổi nhiều đến mức cô ấy trông như một người khác.\", ta sử dụng mẫu 「まるで〜ようだ」."
+    },
+    {
+      "id": "bunpou-n3-marude-you-da-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "三月なのに、今日はまるで真夏のように暑い。",
+      "sentenceVi": "Mới tháng ba mà hôm nay trời nóng như giữa hè.",
+      "targetGrammar": "まるで〜ようだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Giống như; như thể",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「まるで〜ようだ」 mang ý nghĩa: \"Giống như; như thể\"."
+    },
+    {
+      "id": "bunpou-n3-marude-you-da-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この部屋は広くて明るくて、まるでホテルのようだ。",
+      "sentenceVi": "Căn phòng này rất rộng và sáng sủa, giống như một khách sạn vậy.",
+      "targetGrammar": "まるで〜ようだ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Giống như; như thể\":",
+      "options": [
+        "〜ことにしている",
+        "まるで〜ようだ",
+        "〜ことになっている",
+        "〜ことはない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「まるで〜ようだ」."
+    },
+    {
+      "id": "bunpou-n3-marude-you-da-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この部屋は広くて明るくて、まるでホテルのようだ。",
+      "sentenceVi": "Căn phòng này rất rộng và sáng sủa, giống như một khách sạn vậy.",
+      "targetGrammar": "まるで〜ようだ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「まるで〜ようだ」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Giống như; như thể",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「まるで〜ようだ」 có nghĩa là: Giống như; như thể."
+    }
+  ]
+}

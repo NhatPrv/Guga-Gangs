@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-made-ni",
+  "level": "N4",
+  "pattern": "〜までに",
+  "title": "〜までに",
+  "meaning": "Bởi (một thời hạn); trước đây",
+  "meaningVi": "Bởi (một thời hạn); trước đây",
+  "connection": "Danh từ (N) / Động từ (V)-dict + までに",
+  "usageNotes": "までに đánh dấu thời hạn cho một hành động diễn ra một lần; まで đánh dấu khoảng thời gian một sự việc tiếp tục diễn ra (六時まで働く).",
+  "examples": [
+    {
+      "ja": "レポートは金曜日までに出してください。",
+      "furigana": "レポートは{金曜日|きんようび}までに{出|だ}してください。",
+      "en": "Please hand in the report by Friday.",
+      "vi": "Vui lòng nộp báo cáo trước thứ Sáu."
+    },
+    {
+      "ja": "六時までに家に帰らなければならない。",
+      "furigana": "{六|ろく}{時|じ}までに{家|いえ}に{帰|かえ}らなければならない。",
+      "en": "I have to be home by six.",
+      "vi": "Tôi phải về nhà lúc sáu giờ."
+    },
+    {
+      "ja": "暗くなるまでに山を下りよう。",
+      "furigana": "{暗|くら}くなるまでに{山|やま}を{下|お}りよう。",
+      "en": "Let's get down the mountain before it gets dark.",
+      "vi": "Hãy xuống núi trước khi trời tối."
+    }
+  ],
+  "tags": [
+    "time"
+  ],
+  "unitId": "grammar-n4-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n4-made-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "レポートは金曜日までに出してください。",
+      "sentenceVi": "Vui lòng nộp báo cáo trước thứ Sáu.",
+      "targetGrammar": "〜までに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Bởi (một thời hạn); trước đây",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜までに」 mang ý nghĩa: \"Bởi (một thời hạn); trước đây\"."
+    },
+    {
+      "id": "bunpou-n4-made-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "六時までに家に帰らなければならない。",
+      "sentenceVi": "Tôi phải về nhà lúc sáu giờ.",
+      "targetGrammar": "〜までに",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜までに",
+        "〜てもらう"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi phải về nhà lúc sáu giờ.\", ta sử dụng mẫu 「〜までに」."
+    },
+    {
+      "id": "bunpou-n4-made-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "暗くなるまでに山を下りよう。",
+      "sentenceVi": "Hãy xuống núi trước khi trời tối.",
+      "targetGrammar": "〜までに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Bởi (một thời hạn); trước đây",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜までに」 mang ý nghĩa: \"Bởi (một thời hạn); trước đây\"."
+    },
+    {
+      "id": "bunpou-n4-made-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "レポートは金曜日までに出してください。",
+      "sentenceVi": "Vui lòng nộp báo cáo trước thứ Sáu.",
+      "targetGrammar": "〜までに",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bởi (một thời hạn); trước đây\":",
+      "options": [
+        "〜までに",
+        "〜てみる",
+        "〜とき",
+        "〜てある"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜までに」."
+    },
+    {
+      "id": "bunpou-n4-made-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "レポートは金曜日までに出してください。",
+      "sentenceVi": "Vui lòng nộp báo cáo trước thứ Sáu.",
+      "targetGrammar": "〜までに",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜までに」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Bởi (một thời hạn); trước đây"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜までに」 có nghĩa là: Bởi (một thời hạn); trước đây."
+    }
+  ]
+}

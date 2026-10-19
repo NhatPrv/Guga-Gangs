@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-zurai",
+  "level": "N3",
+  "pattern": "〜づらい",
+  "title": "〜づらい",
+  "meaning": "Khó ; khó khăn hoặc không thoải mái để",
+  "meaningVi": "Khó ; khó khăn hoặc không thoải mái để",
+  "connection": "Động từ (V)-stem + づらい",
+  "usageNotes": "Nhấn mạnh sự khó chịu về thể chất hoặc tâm lý của người thực hiện. 〜にくい (N4) khách quan hơn, mô tả bản chất của sự vật. N2 trang trọng: 〜がたい.",
+  "examples": [
+    {
+      "ja": "この靴は少し小さくて、歩きづらい。",
+      "furigana": "この{靴|くつ}は{少|すこ}し{小|ちい}さくて、{歩|ある}きづらい。",
+      "en": "These shoes are a bit small, so they're hard to walk in.",
+      "vi": "Đôi giày này hơi nhỏ nên đi vào khó khăn."
+    },
+    {
+      "ja": "先輩にお金を貸してほしいとは、ちょっと言いづらい。",
+      "furigana": "{先輩|せんぱい}にお{金|かね}を{貸|か}してほしいとは、ちょっと{言|い}いづらい。",
+      "en": "It's a bit awkward to ask a senior colleague to lend me money.",
+      "vi": "Có chút ngại ngùng khi nhờ một đồng nghiệp cấp cao cho mình mượn tiền."
+    },
+    {
+      "ja": "字が小さくて読みづらいので、もう少し大きくしてもらえますか。",
+      "furigana": "{字|じ}が{小|ちい}さくて{読|よ}みづらいので、もう{少|すこ}し{大|おお}きくしてもらえますか。",
+      "en": "The text is too small to read comfortably. Could you make it a bit bigger?",
+      "vi": "Văn bản quá nhỏ để đọc thoải mái. Bạn có thể làm cho nó lớn hơn một chút được không?"
+    }
+  ],
+  "tags": [
+    "degree",
+    "emotion"
+  ],
+  "unitId": "grammar-n3-unit-19",
+  "questions": [
+    {
+      "id": "bunpou-n3-zurai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この靴は少し小さくて、歩きづらい。",
+      "sentenceVi": "Đôi giày này hơi nhỏ nên đi vào khó khăn.",
+      "targetGrammar": "〜づらい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Khó ; khó khăn hoặc không thoải mái để",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜づらい」 mang ý nghĩa: \"Khó ; khó khăn hoặc không thoải mái để\"."
+    },
+    {
+      "id": "bunpou-n3-zurai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "先輩にお金を貸してほしいとは、ちょっと言いづらい。",
+      "sentenceVi": "Có chút ngại ngùng khi nhờ một đồng nghiệp cấp cao cho mình mượn tiền.",
+      "targetGrammar": "〜づらい",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜わけにはいかない",
+        "〜づらい",
+        "〜ものではない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Có chút ngại ngùng khi nhờ một đồng nghiệp cấp cao cho mình mượn tiền.\", ta sử dụng mẫu 「〜づらい」."
+    },
+    {
+      "id": "bunpou-n3-zurai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "字が小さくて読みづらいので、もう少し大きくしてもらえますか。",
+      "sentenceVi": "Văn bản quá nhỏ để đọc thoải mái. Bạn có thể làm cho nó lớn hơn một chút được không?",
+      "targetGrammar": "〜づらい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Khó ; khó khăn hoặc không thoải mái để",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜づらい」 mang ý nghĩa: \"Khó ; khó khăn hoặc không thoải mái để\"."
+    },
+    {
+      "id": "bunpou-n3-zurai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この靴は少し小さくて、歩きづらい。",
+      "sentenceVi": "Đôi giày này hơi nhỏ nên đi vào khó khăn.",
+      "targetGrammar": "〜づらい",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Khó ; khó khăn hoặc không thoải mái để\":",
+      "options": [
+        "〜ことになっている",
+        "〜づらい",
+        "〜ことはない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜づらい」."
+    },
+    {
+      "id": "bunpou-n3-zurai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この靴は少し小さくて、歩きづらい。",
+      "sentenceVi": "Đôi giày này hơi nhỏ nên đi vào khó khăn.",
+      "targetGrammar": "〜づらい",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜づらい」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Khó ; khó khăn hoặc không thoải mái để"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜づらい」 có nghĩa là: Khó ; khó khăn hoặc không thoải mái để."
+    }
+  ]
+}

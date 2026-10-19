@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ka-or",
+  "level": "N5",
+  "pattern": "〜か（or）",
+  "title": "〜か（or）",
+  "meaning": "Hoặc (sự lựa chọn giữa các danh từ)",
+  "meaningVi": "Hoặc (sự lựa chọn giữa các danh từ)",
+  "connection": "Danh từ (N) + か + Danh từ (N)",
+  "usageNotes": "Có nghĩa là một trong các mục được chọn. Để liệt kê các mục cùng nhau, hãy sử dụng と hoặc や.",
+  "examples": [
+    {
+      "ja": "飲み物はコーヒーか紅茶がいいです。",
+      "furigana": "{飲|の}み{物|もの}はコーヒーか{紅茶|こうちゃ}がいいです。",
+      "en": "For a drink, coffee or tea would be good.",
+      "vi": "Đối với đồ uống, cà phê hoặc trà sẽ tốt."
+    },
+    {
+      "ja": "土曜日か日曜日に買い物に行きます。",
+      "furigana": "{土曜日|どようび}か{日曜日|にちようび}に{買|か}い{物|もの}に{行|い}きます。",
+      "en": "I'll go shopping on Saturday or Sunday.",
+      "vi": "Tôi sẽ đi mua sắm vào thứ bảy hoặc chủ nhật."
+    },
+    {
+      "ja": "駅までバスかタクシーで行きます。",
+      "furigana": "{駅|えき}までバスかタクシーで{行|い}きます。",
+      "en": "I'll go to the station by bus or taxi.",
+      "vi": "Tôi sẽ đến ga bằng xe buýt hoặc taxi."
+    }
+  ],
+  "tags": [
+    "particle"
+  ],
+  "unitId": "grammar-n5-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n5-ka-or-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "飲み物はコーヒーか紅茶がいいです。",
+      "sentenceVi": "Đối với đồ uống, cà phê hoặc trà sẽ tốt.",
+      "targetGrammar": "〜か（or）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜か（or）」 mang ý nghĩa: \"Hoặc (sự lựa chọn giữa các danh từ)\"."
+    },
+    {
+      "id": "bunpou-n5-ka-or-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "土曜日か日曜日に買い物に行きます。",
+      "sentenceVi": "Tôi sẽ đi mua sắm vào thứ bảy hoặc chủ nhật.",
+      "targetGrammar": "〜か（or）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜か（or）",
+        "〜に（destination）",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi sẽ đi mua sắm vào thứ bảy hoặc chủ nhật.\", ta sử dụng mẫu 「〜か（or）」."
+    },
+    {
+      "id": "bunpou-n5-ka-or-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅までバスかタクシーで行きます。",
+      "sentenceVi": "Tôi sẽ đến ga bằng xe buýt hoặc taxi.",
+      "targetGrammar": "〜か（or）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜か（or）」 mang ý nghĩa: \"Hoặc (sự lựa chọn giữa các danh từ)\"."
+    },
+    {
+      "id": "bunpou-n5-ka-or-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "飲み物はコーヒーか紅茶がいいです。",
+      "sentenceVi": "Đối với đồ uống, cà phê hoặc trà sẽ tốt.",
+      "targetGrammar": "〜か（or）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hoặc (sự lựa chọn giữa các danh từ)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜で（means）",
+        "〜と（and）",
+        "〜か（or）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜か（or）」."
+    },
+    {
+      "id": "bunpou-n5-ka-or-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "飲み物はコーヒーか紅茶がいいです。",
+      "sentenceVi": "Đối với đồ uống, cà phê hoặc trà sẽ tốt.",
+      "targetGrammar": "〜か（or）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜か（or）」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Cũng... (Biểu thị sự tương tự)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜か（or）」 có nghĩa là: Hoặc (sự lựa chọn giữa các danh từ)."
+    }
+  ]
+}

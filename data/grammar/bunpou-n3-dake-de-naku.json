@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-dake-de-naku",
+  "level": "N3",
+  "pattern": "〜だけでなく",
+  "title": "〜だけでなく",
+  "meaning": "Không chỉ ... mà còn",
+  "meaningVi": "Không chỉ ... mà còn",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + だけでなく",
+  "usageNotes": "Phổ biến trong cả lời nói và văn viết. Bình thường: 〜だけじゃなくて. Ít trang trọng hơn 〜ばかりでなく.",
+  "examples": [
+    {
+      "ja": "この店は料理がおいしいだけでなく、値段も安い。",
+      "furigana": "この{店|みせ}は{料理|りょうり}がおいしいだけでなく、{値段|ねだん}も{安|やす}い。",
+      "en": "This restaurant not only has delicious food, it's cheap too.",
+      "vi": "Nhà hàng này không chỉ có đồ ăn ngon mà còn rẻ."
+    },
+    {
+      "ja": "地震の後、水だけでなく電気も止まってしまった。",
+      "furigana": "{地震|じしん}の{後|あと}、{水|みず}だけでなく{電気|でんき}も{止|と}まってしまった。",
+      "en": "After the earthquake, not only the water but also the electricity was cut off.",
+      "vi": "Sau trận động đất, không chỉ nước mà cả điện cũng bị cắt."
+    },
+    {
+      "ja": "彼女は歌が上手なだけでなく、自分で曲も作っている。",
+      "furigana": "{彼女|かのじょ}は{歌|うた}が{上手|じょうず}なだけでなく、{自分|じぶん}で{曲|きょく}も{作|つく}っている。",
+      "en": "She not only sings well but also writes her own songs.",
+      "vi": "Cô ấy không chỉ hát hay mà còn viết những bài hát của riêng mình."
+    }
+  ],
+  "tags": [
+    "addition"
+  ],
+  "unitId": "grammar-n3-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n3-dake-de-naku-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この店は料理がおいしいだけでなく、値段も安い。",
+      "sentenceVi": "Nhà hàng này không chỉ có đồ ăn ngon mà còn rẻ.",
+      "targetGrammar": "〜だけでなく",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không chỉ ... mà còn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜だけでなく」 mang ý nghĩa: \"Không chỉ ... mà còn\"."
+    },
+    {
+      "id": "bunpou-n3-dake-de-naku-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "地震の後、水だけでなく電気も止まってしまった。",
+      "sentenceVi": "Sau trận động đất, không chỉ nước mà cả điện cũng bị cắt.",
+      "targetGrammar": "〜だけでなく",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜だけでなく",
+        "〜ものだ",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Sau trận động đất, không chỉ nước mà cả điện cũng bị cắt.\", ta sử dụng mẫu 「〜だけでなく」."
+    },
+    {
+      "id": "bunpou-n3-dake-de-naku-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "彼女は歌が上手なだけでなく、自分で曲も作っている。",
+      "sentenceVi": "Cô ấy không chỉ hát hay mà còn viết những bài hát của riêng mình.",
+      "targetGrammar": "〜だけでなく",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Không chỉ ... mà còn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜だけでなく」 mang ý nghĩa: \"Không chỉ ... mà còn\"."
+    },
+    {
+      "id": "bunpou-n3-dake-de-naku-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この店は料理がおいしいだけでなく、値段も安い。",
+      "sentenceVi": "Nhà hàng này không chỉ có đồ ăn ngon mà còn rẻ.",
+      "targetGrammar": "〜だけでなく",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không chỉ ... mà còn\":",
+      "options": [
+        "〜ことになっている",
+        "〜だけでなく",
+        "〜ことはない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜だけでなく」."
+    },
+    {
+      "id": "bunpou-n3-dake-de-naku-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この店は料理がおいしいだけでなく、値段も安い。",
+      "sentenceVi": "Nhà hàng này không chỉ có đồ ăn ngon mà còn rẻ.",
+      "targetGrammar": "〜だけでなく",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜だけでなく」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Không chỉ ... mà còn",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜だけでなく」 có nghĩa là: Không chỉ ... mà còn."
+    }
+  ]
+}

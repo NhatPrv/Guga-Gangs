@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-to-shite-mo",
+  "level": "N3",
+  "pattern": "〜としても",
+  "title": "〜としても",
+  "meaning": "Ngay cả khi; thậm chí giả sử",
+  "meaningVi": "Ngay cả khi; thậm chí giả sử",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + だ / Danh từ (N) + だ + としても",
+  "usageNotes": "Nhượng bộ giả định: ngay cả khi giả sử A, B vẫn đúng. Nhiều giả thuyết hơn 〜ても; so sánh 〜にしても, thường chấp nhận một sự thật.",
+  "examples": [
+    {
+      "ja": "親に反対されたとしても、私は留学するつもりだ。",
+      "furigana": "{親|おや}に{反対|はんたい}されたとしても、{私|わたし}は{留学|りゅうがく}するつもりだ。",
+      "en": "Even if my parents are against it, I intend to study abroad.",
+      "vi": "Dù bố mẹ có phản đối thì tôi vẫn có ý định đi du học."
+    },
+    {
+      "ja": "今からタクシーに乗ったとしても、九時の飛行機には間に合わないだろう。",
+      "furigana": "{今|いま}からタクシーに{乗|の}ったとしても、{九時|くじ}の{飛行機|ひこうき}には{間|ま}に{合|あ}わないだろう。",
+      "en": "Even if we took a taxi now, we probably wouldn't make the nine o'clock flight.",
+      "vi": "Ngay cả nếu bây giờ chúng tôi bắt taxi, có lẽ chúng tôi sẽ không đáp chuyến bay lúc chín giờ."
+    },
+    {
+      "ja": "それが本当だとしても、ほかの人に話すべきではない。",
+      "furigana": "それが{本当|ほんとう}だとしても、ほかの{人|ひと}に{話|はな}すべきではない。",
+      "en": "Even if that's true, you shouldn't tell anyone else.",
+      "vi": "Cho dù đó là sự thật thì bạn cũng không nên nói cho người khác biết."
+    }
+  ],
+  "tags": [
+    "concession",
+    "condition"
+  ],
+  "unitId": "grammar-n3-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n3-to-shite-mo-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "親に反対されたとしても、私は留学するつもりだ。",
+      "sentenceVi": "Dù bố mẹ có phản đối thì tôi vẫn có ý định đi du học.",
+      "targetGrammar": "〜としても",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ngay cả khi; thậm chí giả sử",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜としても」 mang ý nghĩa: \"Ngay cả khi; thậm chí giả sử\"."
+    },
+    {
+      "id": "bunpou-n3-to-shite-mo-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今からタクシーに乗ったとしても、九時の飛行機には間に合わないだろう。",
+      "sentenceVi": "Ngay cả nếu bây giờ chúng tôi bắt taxi, có lẽ chúng tôi sẽ không đáp chuyến bay lúc chín giờ.",
+      "targetGrammar": "〜としても",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜としても",
+        "〜ものではない",
+        "〜ものだ",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Ngay cả nếu bây giờ chúng tôi bắt taxi, có lẽ chúng tôi sẽ không đáp chuyến bay lúc chín giờ.\", ta sử dụng mẫu 「〜としても」."
+    },
+    {
+      "id": "bunpou-n3-to-shite-mo-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "それが本当だとしても、ほかの人に話すべきではない。",
+      "sentenceVi": "Cho dù đó là sự thật thì bạn cũng không nên nói cho người khác biết.",
+      "targetGrammar": "〜としても",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Ngay cả khi; thậm chí giả sử",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜としても」 mang ý nghĩa: \"Ngay cả khi; thậm chí giả sử\"."
+    },
+    {
+      "id": "bunpou-n3-to-shite-mo-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "親に反対されたとしても、私は留学するつもりだ。",
+      "sentenceVi": "Dù bố mẹ có phản đối thì tôi vẫn có ý định đi du học.",
+      "targetGrammar": "〜としても",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ngay cả khi; thậm chí giả sử\":",
+      "options": [
+        "〜ことにしている",
+        "〜としても",
+        "〜ことになっている",
+        "〜ことはない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜としても」."
+    },
+    {
+      "id": "bunpou-n3-to-shite-mo-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "親に反対されたとしても、私は留学するつもりだ。",
+      "sentenceVi": "Dù bố mẹ có phản đối thì tôi vẫn có ý định đi du học.",
+      "targetGrammar": "〜としても",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜としても」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Ngay cả khi; thậm chí giả sử",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜としても」 có nghĩa là: Ngay cả khi; thậm chí giả sử."
+    }
+  ]
+}

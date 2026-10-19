@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ni-destination",
+  "level": "N5",
+  "pattern": "〜に（destination）",
+  "title": "〜に（destination）",
+  "meaning": "Đến ; vào (điểm đến của chuyển động)",
+  "meaningVi": "Đến ; vào (điểm đến của chuyển động)",
+  "connection": "Danh từ (N) + に + 行く / 来る / 帰る",
+  "usageNotes": "Gần nghĩa với へ. に đặt trọng tâm vào điểm đến, へ vào hướng đi.",
+  "examples": [
+    {
+      "ja": "毎日バスで学校に行きます。",
+      "furigana": "{毎日|まいにち}バスで{学校|がっこう}に{行|い}きます。",
+      "en": "I go to school by bus every day.",
+      "vi": "Tôi đi học bằng xe buýt mỗi ngày."
+    },
+    {
+      "ja": "夜10時に家に帰りました。",
+      "furigana": "{夜|よる}10{時|じ}に{家|いえ}に{帰|かえ}りました。",
+      "en": "I got home at 10 p.m.",
+      "vi": "Tôi về nhà lúc 10 giờ tối."
+    },
+    {
+      "ja": "来月、姉が日本に来ます。",
+      "furigana": "{来月|らいげつ}、{姉|あね}が{日本|にほん}に{来|き}ます。",
+      "en": "My older sister is coming to Japan next month.",
+      "vi": "Chị gái tôi sẽ đến Nhật Bản vào tháng tới."
+    }
+  ],
+  "tags": [
+    "particle"
+  ],
+  "unitId": "grammar-n5-unit-01",
+  "questions": [
+    {
+      "id": "bunpou-n5-ni-destination-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎日バスで学校に行きます。",
+      "sentenceVi": "Tôi đi học bằng xe buýt mỗi ngày.",
+      "targetGrammar": "〜に（destination）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Đến ; vào (điểm đến của chuyển động)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜に（destination）」 mang ý nghĩa: \"Đến ; vào (điểm đến của chuyển động)\"."
+    },
+    {
+      "id": "bunpou-n5-ni-destination-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "夜10時に家に帰りました。",
+      "sentenceVi": "Tôi về nhà lúc 10 giờ tối.",
+      "targetGrammar": "〜に（destination）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（indirect object）",
+        "〜に（time）",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi về nhà lúc 10 giờ tối.\", ta sử dụng mẫu 「〜に（destination）」."
+    },
+    {
+      "id": "bunpou-n5-ni-destination-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "来月、姉が日本に来ます。",
+      "sentenceVi": "Chị gái tôi sẽ đến Nhật Bản vào tháng tới.",
+      "targetGrammar": "〜に（destination）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tại, ở... (Chỉ nơi diễn ra hành động)",
+        "Đến ; vào (điểm đến của chuyển động)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜に（destination）」 mang ý nghĩa: \"Đến ; vào (điểm đến của chuyển động)\"."
+    },
+    {
+      "id": "bunpou-n5-ni-destination-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "毎日バスで学校に行きます。",
+      "sentenceVi": "Tôi đi học bằng xe buýt mỗi ngày.",
+      "targetGrammar": "〜に（destination）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đến ; vào (điểm đến của chuyển động)\":",
+      "options": [
+        "〜に（destination）",
+        "〜と（with）",
+        "〜と（and）",
+        "〜で（means）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜に（destination）」."
+    },
+    {
+      "id": "bunpou-n5-ni-destination-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎日バスで学校に行きます。",
+      "sentenceVi": "Tôi đi học bằng xe buýt mỗi ngày.",
+      "targetGrammar": "〜に（destination）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜に（destination）」 là gì?",
+      "options": [
+        "Cũng... (Biểu thị sự tương tự)",
+        "Đến ; vào (điểm đến của chuyển động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜に（destination）」 có nghĩa là: Đến ; vào (điểm đến của chuyển động)."
+    }
+  ]
+}

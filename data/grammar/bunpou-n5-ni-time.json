@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-ni-time",
+  "level": "N5",
+  "pattern": "〜に（time）",
+  "title": "〜に（time）",
+  "meaning": "Vào lúc... (Chỉ mốc thời gian cụ thể)",
+  "meaningVi": "Vào lúc... (Chỉ mốc thời gian cụ thể)",
+  "connection": "Danh từ (N) + に",
+  "usageNotes": "Được sử dụng với đồng hồ thời gian, ngày, ngày trong tuần và tháng. Các từ tương đối như 今日, 明日, 毎日 và 来週 không có に.",
+  "examples": [
+    {
+      "ja": "毎朝7時に起きます。",
+      "furigana": "{毎朝|まいあさ}7{時|じ}に{起|お}きます。",
+      "en": "I get up at seven every morning.",
+      "vi": "Tôi thức dậy lúc bảy giờ mỗi sáng."
+    },
+    {
+      "ja": "日曜日に友達と会います。",
+      "furigana": "{日曜日|にちようび}に{友達|ともだち}と{会|あ}います。",
+      "en": "I'm meeting a friend on Sunday.",
+      "vi": "Tôi sẽ gặp một người bạn vào Chủ nhật."
+    },
+    {
+      "ja": "8月に国へ帰ります。",
+      "furigana": "8{月|がつ}に{国|くに}へ{帰|かえ}ります。",
+      "en": "I'm going back to my country in August.",
+      "vi": "Tôi sẽ về nước vào tháng 8."
+    }
+  ],
+  "tags": [
+    "particle",
+    "time"
+  ],
+  "unitId": "grammar-n5-unit-01",
+  "questions": [
+    {
+      "id": "bunpou-n5-ni-time-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎朝7時に起きます。",
+      "sentenceVi": "Tôi thức dậy lúc bảy giờ mỗi sáng.",
+      "targetGrammar": "〜に（time）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Vào lúc... (Chỉ mốc thời gian cụ thể)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜に（time）」 mang ý nghĩa: \"Vào lúc... (Chỉ mốc thời gian cụ thể)\"."
+    },
+    {
+      "id": "bunpou-n5-ni-time-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日曜日に友達と会います。",
+      "sentenceVi": "Tôi sẽ gặp một người bạn vào Chủ nhật.",
+      "targetGrammar": "〜に（time）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜に（indirect object）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi sẽ gặp một người bạn vào Chủ nhật.\", ta sử dụng mẫu 「〜に（time）」."
+    },
+    {
+      "id": "bunpou-n5-ni-time-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "8月に国へ帰ります。",
+      "sentenceVi": "Tôi sẽ về nước vào tháng 8.",
+      "targetGrammar": "〜に（time）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tại, ở... (Chỉ nơi diễn ra hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Vào lúc... (Chỉ mốc thời gian cụ thể)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜に（time）」 mang ý nghĩa: \"Vào lúc... (Chỉ mốc thời gian cụ thể)\"."
+    },
+    {
+      "id": "bunpou-n5-ni-time-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "毎朝7時に起きます。",
+      "sentenceVi": "Tôi thức dậy lúc bảy giờ mỗi sáng.",
+      "targetGrammar": "〜に（time）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Vào lúc... (Chỉ mốc thời gian cụ thể)\":",
+      "options": [
+        "〜と（and）",
+        "〜で（means）",
+        "〜と（with）",
+        "〜に（time）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜に（time）」."
+    },
+    {
+      "id": "bunpou-n5-ni-time-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎朝7時に起きます。",
+      "sentenceVi": "Tôi thức dậy lúc bảy giờ mỗi sáng.",
+      "targetGrammar": "〜に（time）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜に（time）」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Cũng... (Biểu thị sự tương tự)",
+        "Vào lúc... (Chỉ mốc thời gian cụ thể)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜に（time）」 có nghĩa là: Vào lúc... (Chỉ mốc thời gian cụ thể)."
+    }
+  ]
+}

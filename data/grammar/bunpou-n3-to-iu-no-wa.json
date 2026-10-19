@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-to-iu-no-wa",
+  "level": "N3",
+  "pattern": "〜というのは",
+  "title": "〜というのは",
+  "meaning": "Ý nghĩa của ... là; ... có nghĩa; lý do là",
+  "meaningVi": "Ý nghĩa của ... là; ... có nghĩa; lý do là",
+  "connection": "Danh từ (N) / Sentence + というのは",
+  "usageNotes": "Giới thiệu một từ để định nghĩa hoặc một tình huống để nhận xét. Bình thường: 〜って. Khi bắt đầu câu, というのは giới thiệu lý do kết thúc bằng 〜からだ. Được viết: 〜とは.",
+  "examples": [
+    {
+      "ja": "「割り勘」というのは、食事代などをみんなで同じ金額ずつ払うことです。",
+      "furigana": "「{割|わ}り{勘|かん}」というのは、{食事|しょくじ}{代|だい}などをみんなで{同|おな}じ{金額|きんがく}ずつ{払|はら}うことです。",
+      "en": "'Warikan' means everyone paying the same share of a meal or other bill.",
+      "vi": "'Warikan' có nghĩa là mọi người đều trả phần như nhau cho một bữa ăn hoặc hóa đơn khác."
+    },
+    {
+      "ja": "一人で海外に住むというのは、思ったより大変なことだ。",
+      "furigana": "{一人|ひとり}で{海外|かいがい}に{住|す}むというのは、{思|おも}ったより{大変|たいへん}なことだ。",
+      "en": "Living abroad on your own is harder than you'd think.",
+      "vi": "Sống một mình ở nước ngoài khó hơn bạn nghĩ."
+    },
+    {
+      "ja": "来週の旅行には行けなくなった。というのは、急に出張が入ったからだ。",
+      "furigana": "{来週|らいしゅう}の{旅行|りょこう}には{行|い}けなくなった。というのは、{急|きゅう}に{出張|しゅっちょう}が{入|はい}ったからだ。",
+      "en": "I can't go on next week's trip after all. That's because a business trip suddenly came up.",
+      "vi": "Cuối cùng thì tôi cũng không thể tham gia chuyến đi vào tuần tới được. Đó là vì một chuyến công tác đột ngột ập đến."
+    }
+  ],
+  "tags": [
+    "topic",
+    "quotation"
+  ],
+  "unitId": "grammar-n3-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n3-to-iu-no-wa-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「割り勘」というのは、食事代などをみんなで同じ金額ずつ払うことです。",
+      "sentenceVi": "'Warikan' có nghĩa là mọi người đều trả phần như nhau cho một bữa ăn hoặc hóa đơn khác.",
+      "targetGrammar": "〜というのは",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ý nghĩa của ... là; ... có nghĩa; lý do là",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜というのは」 mang ý nghĩa: \"Ý nghĩa của ... là; ... có nghĩa; lý do là\"."
+    },
+    {
+      "id": "bunpou-n3-to-iu-no-wa-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "一人で海外に住むというのは、思ったより大変なことだ。",
+      "sentenceVi": "Sống một mình ở nước ngoài khó hơn bạn nghĩ.",
+      "targetGrammar": "〜というのは",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜というのは"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Sống một mình ở nước ngoài khó hơn bạn nghĩ.\", ta sử dụng mẫu 「〜というのは」."
+    },
+    {
+      "id": "bunpou-n3-to-iu-no-wa-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "来週の旅行には行けなくなった。というのは、急に出張が入ったからだ。",
+      "sentenceVi": "Cuối cùng thì tôi cũng không thể tham gia chuyến đi vào tuần tới được. Đó là vì một chuyến công tác đột ngột ập đến.",
+      "targetGrammar": "〜というのは",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Ý nghĩa của ... là; ... có nghĩa; lý do là",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜というのは」 mang ý nghĩa: \"Ý nghĩa của ... là; ... có nghĩa; lý do là\"."
+    },
+    {
+      "id": "bunpou-n3-to-iu-no-wa-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "「割り勘」というのは、食事代などをみんなで同じ金額ずつ払うことです。",
+      "sentenceVi": "'Warikan' có nghĩa là mọi người đều trả phần như nhau cho một bữa ăn hoặc hóa đơn khác.",
+      "targetGrammar": "〜というのは",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ý nghĩa của ... là; ... có nghĩa; lý do là\":",
+      "options": [
+        "〜というのは",
+        "〜ことはない",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜というのは」."
+    },
+    {
+      "id": "bunpou-n3-to-iu-no-wa-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「割り勘」というのは、食事代などをみんなで同じ金額ずつ払うことです。",
+      "sentenceVi": "'Warikan' có nghĩa là mọi người đều trả phần như nhau cho một bữa ăn hoặc hóa đơn khác.",
+      "targetGrammar": "〜というのは",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜というのは」 là gì?",
+      "options": [
+        "Ý nghĩa của ... là; ... có nghĩa; lý do là",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜というのは」 có nghĩa là: Ý nghĩa của ... là; ... có nghĩa; lý do là."
+    }
+  ]
+}

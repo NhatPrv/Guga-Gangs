@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ne",
+  "level": "N5",
+  "pattern": "〜ね",
+  "title": "〜ね",
+  "meaning": "...nhỉ, ...nhé (Xác nhận, đồng tình)",
+  "meaningVi": "...nhỉ, ...nhé (Xác nhận, đồng tình)",
+  "connection": "Sentence + ね",
+  "usageNotes": "Được sử dụng khi người nói mong muốn người nghe chia sẻ cùng quan điểm hoặc kiến ​​thức. So sánh よ, cho người nghe biết điều gì đó mới mẻ.",
+  "examples": [
+    {
+      "ja": "今日は暑いですね。",
+      "furigana": "{今日|きょう}は{暑|あつ}いですね。",
+      "en": "It's hot today, isn't it?",
+      "vi": "Hôm nay trời nóng quá phải không?"
+    },
+    {
+      "ja": "このケーキ、おいしいですね。",
+      "furigana": "このケーキ、おいしいですね。",
+      "en": "This cake is delicious, isn't it?",
+      "vi": "Bánh này ngon lắm phải không?"
+    },
+    {
+      "ja": "明日のテストは10時からですね。",
+      "furigana": "{明日|あした}のテストは10{時|じ}からですね。",
+      "en": "Tomorrow's test starts at ten, right?",
+      "vi": "Bài kiểm tra ngày mai bắt đầu lúc 10 giờ phải không?"
+    }
+  ],
+  "tags": [
+    "particle"
+  ],
+  "unitId": "grammar-n5-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n5-ne-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は暑いですね。",
+      "sentenceVi": "Hôm nay trời nóng quá phải không?",
+      "targetGrammar": "〜ね",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "...nhỉ, ...nhé (Xác nhận, đồng tình)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ね」 mang ý nghĩa: \"...nhỉ, ...nhé (Xác nhận, đồng tình)\"."
+    },
+    {
+      "id": "bunpou-n5-ne-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このケーキ、おいしいですね。",
+      "sentenceVi": "Bánh này ngon lắm phải không?",
+      "targetGrammar": "〜ね",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜ね",
+        "〜に（time）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Bánh này ngon lắm phải không?\", ta sử dụng mẫu 「〜ね」."
+    },
+    {
+      "id": "bunpou-n5-ne-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日のテストは10時からですね。",
+      "sentenceVi": "Bài kiểm tra ngày mai bắt đầu lúc 10 giờ phải không?",
+      "targetGrammar": "〜ね",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "...nhỉ, ...nhé (Xác nhận, đồng tình)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ね」 mang ý nghĩa: \"...nhỉ, ...nhé (Xác nhận, đồng tình)\"."
+    },
+    {
+      "id": "bunpou-n5-ne-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は暑いですね。",
+      "sentenceVi": "Hôm nay trời nóng quá phải không?",
+      "targetGrammar": "〜ね",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"...nhỉ, ...nhé (Xác nhận, đồng tình)\":",
+      "options": [
+        "〜と（and）",
+        "〜で（place of action）",
+        "〜で（means）",
+        "〜ね"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜ね」."
+    },
+    {
+      "id": "bunpou-n5-ne-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は暑いですね。",
+      "sentenceVi": "Hôm nay trời nóng quá phải không?",
+      "targetGrammar": "〜ね",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ね」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "...nhỉ, ...nhé (Xác nhận, đồng tình)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ね」 có nghĩa là: ...nhỉ, ...nhé (Xác nhận, đồng tình)."
+    }
+  ]
+}

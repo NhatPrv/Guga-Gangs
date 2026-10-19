@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-o-kudasai",
+  "level": "N5",
+  "pattern": "〜をください",
+  "title": "〜をください",
+  "meaning": "Xin vui lòng cho tôi (cái gì đó); tôi sẽ có",
+  "meaningVi": "Xin vui lòng cho tôi (cái gì đó); tôi sẽ có",
+  "connection": "Danh từ (N) + をください",
+  "usageNotes": "Được sử dụng khi mua sắm hoặc đặt hàng. Số lượng theo sau を không có tiểu từ: 切手を二枚ください.",
+  "examples": [
+    {
+      "ja": "すみません、水をください。",
+      "furigana": "すみません、{水|みず}をください。",
+      "en": "Excuse me, could I have some water?",
+      "vi": "Xin lỗi, tôi có thể uống chút nước được không?"
+    },
+    {
+      "ja": "このりんごを三つください。",
+      "furigana": "このりんごを{三|みっ}つください。",
+      "en": "I'll take three of these apples, please.",
+      "vi": "Làm ơn cho tôi lấy ba quả táo này."
+    },
+    {
+      "ja": "メニューをください。",
+      "furigana": "メニューをください。",
+      "en": "Could I have the menu, please?",
+      "vi": "Cho tôi xin thực đơn được không?"
+    }
+  ],
+  "tags": [
+    "request"
+  ],
+  "unitId": "grammar-n5-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n5-o-kudasai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "すみません、水をください。",
+      "sentenceVi": "Xin lỗi, tôi có thể uống chút nước được không?",
+      "targetGrammar": "〜をください",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Xin vui lòng cho tôi (cái gì đó); tôi sẽ có",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜をください」 mang ý nghĩa: \"Xin vui lòng cho tôi (cái gì đó); tôi sẽ có\"."
+    },
+    {
+      "id": "bunpou-n5-o-kudasai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このりんごを三つください。",
+      "sentenceVi": "Làm ơn cho tôi lấy ba quả táo này.",
+      "targetGrammar": "〜をください",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜に（time）",
+        "〜をください"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Làm ơn cho tôi lấy ba quả táo này.\", ta sử dụng mẫu 「〜をください」."
+    },
+    {
+      "id": "bunpou-n5-o-kudasai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "メニューをください。",
+      "sentenceVi": "Cho tôi xin thực đơn được không?",
+      "targetGrammar": "〜をください",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Xin vui lòng cho tôi (cái gì đó); tôi sẽ có"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜をください」 mang ý nghĩa: \"Xin vui lòng cho tôi (cái gì đó); tôi sẽ có\"."
+    },
+    {
+      "id": "bunpou-n5-o-kudasai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "すみません、水をください。",
+      "sentenceVi": "Xin lỗi, tôi có thể uống chút nước được không?",
+      "targetGrammar": "〜をください",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Xin vui lòng cho tôi (cái gì đó); tôi sẽ có\":",
+      "options": [
+        "〜で（means）",
+        "〜と（and）",
+        "〜をください",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜をください」."
+    },
+    {
+      "id": "bunpou-n5-o-kudasai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "すみません、水をください。",
+      "sentenceVi": "Xin lỗi, tôi có thể uống chút nước được không?",
+      "targetGrammar": "〜をください",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜をください」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Xin vui lòng cho tôi (cái gì đó); tôi sẽ có",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜をください」 có nghĩa là: Xin vui lòng cho tôi (cái gì đó); tôi sẽ có."
+    }
+  ]
+}

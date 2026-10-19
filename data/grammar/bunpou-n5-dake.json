@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-dake",
+  "level": "N5",
+  "pattern": "〜だけ",
+  "title": "〜だけ",
+  "meaning": "Chỉ; chỉ",
+  "meaningVi": "Chỉ; chỉ",
+  "connection": "Danh từ (N) + だけ / Động từ (V)-dict + だけ",
+  "usageNotes": "Giọng điệu trung tính. So sánh しか〜ない (N4), nhấn mạnh rằng số lượng là nhỏ.",
+  "examples": [
+    {
+      "ja": "財布に100円だけあります。",
+      "furigana": "{財布|さいふ}に100{円|えん}だけあります。",
+      "en": "I only have 100 yen in my wallet.",
+      "vi": "Tôi chỉ có 100 yên trong ví."
+    },
+    {
+      "ja": "朝はコーヒーだけ飲みます。",
+      "furigana": "{朝|あさ}はコーヒーだけ{飲|の}みます。",
+      "en": "In the morning I only have coffee.",
+      "vi": "Buổi sáng tôi chỉ uống cà phê."
+    },
+    {
+      "ja": "日曜日だけ休みです。",
+      "furigana": "{日曜日|にちようび}だけ{休|やす}みです。",
+      "en": "Sunday is my only day off.",
+      "vi": "Chủ nhật là ngày nghỉ duy nhất của tôi."
+    }
+  ],
+  "tags": [
+    "limitation"
+  ],
+  "unitId": "grammar-n5-unit-14",
+  "questions": [
+    {
+      "id": "bunpou-n5-dake-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "財布に100円だけあります。",
+      "sentenceVi": "Tôi chỉ có 100 yên trong ví.",
+      "targetGrammar": "〜だけ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ; chỉ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜だけ」 mang ý nghĩa: \"Chỉ; chỉ\"."
+    },
+    {
+      "id": "bunpou-n5-dake-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "朝はコーヒーだけ飲みます。",
+      "sentenceVi": "Buổi sáng tôi chỉ uống cà phê.",
+      "targetGrammar": "〜だけ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜だけ",
+        "〜に（place of existence）",
+        "〜に（time）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Buổi sáng tôi chỉ uống cà phê.\", ta sử dụng mẫu 「〜だけ」."
+    },
+    {
+      "id": "bunpou-n5-dake-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日曜日だけ休みです。",
+      "sentenceVi": "Chủ nhật là ngày nghỉ duy nhất của tôi.",
+      "targetGrammar": "〜だけ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Chỉ; chỉ",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜だけ」 mang ý nghĩa: \"Chỉ; chỉ\"."
+    },
+    {
+      "id": "bunpou-n5-dake-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "財布に100円だけあります。",
+      "sentenceVi": "Tôi chỉ có 100 yên trong ví.",
+      "targetGrammar": "〜だけ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chỉ; chỉ\":",
+      "options": [
+        "〜で（means）",
+        "〜と（and）",
+        "〜で（place of action）",
+        "〜だけ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜だけ」."
+    },
+    {
+      "id": "bunpou-n5-dake-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "財布に100円だけあります。",
+      "sentenceVi": "Tôi chỉ có 100 yên trong ví.",
+      "targetGrammar": "〜だけ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜だけ」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Chỉ; chỉ",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜だけ」 có nghĩa là: Chỉ; chỉ."
+    }
+  ]
+}

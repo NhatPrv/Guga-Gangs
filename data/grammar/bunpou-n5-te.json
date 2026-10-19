@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-te",
+  "level": "N5",
+  "pattern": "〜て",
+  "title": "〜て",
+  "meaning": "Và; và sau đó (liên kết các hành động theo thứ tự)",
+  "meaningVi": "Và; và sau đó (liên kết các hành động theo thứ tự)",
+  "connection": "Động từ (V)-te + Sentence",
+  "usageNotes": "Động từ cuối cùng thiết lập thì cho cả câu. 書く→書いて, 飲む→飲んで, 話す→話して, 買う→買って, 行く→行って (không đều).",
+  "examples": [
+    {
+      "ja": "朝起きて、顔を洗います。",
+      "furigana": "{朝|あさ}{起|お}きて、{顔|かお}を{洗|あら}います。",
+      "en": "I get up in the morning and wash my face.",
+      "vi": "Tôi thức dậy vào buổi sáng và rửa mặt."
+    },
+    {
+      "ja": "デパートへ行って、セーターを買いました。",
+      "furigana": "デパートへ{行|い}って、セーターを{買|か}いました。",
+      "en": "I went to the department store and bought a sweater.",
+      "vi": "Tôi đến cửa hàng bách hóa và mua một chiếc áo len."
+    },
+    {
+      "ja": "家に帰って、晩ご飯を食べて、寝ました。",
+      "furigana": "{家|いえ}に{帰|かえ}って、{晩|ばん}ご{飯|はん}を{食|た}べて、{寝|ね}ました。",
+      "en": "I went home, ate dinner and went to bed.",
+      "vi": "Tôi về nhà, ăn tối và đi ngủ."
+    }
+  ],
+  "tags": [
+    "sequence"
+  ],
+  "unitId": "grammar-n5-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n5-te-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "朝起きて、顔を洗います。",
+      "sentenceVi": "Tôi thức dậy vào buổi sáng và rửa mặt.",
+      "targetGrammar": "〜て",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Và; và sau đó (liên kết các hành động theo thứ tự)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜て」 mang ý nghĩa: \"Và; và sau đó (liên kết các hành động theo thứ tự)\"."
+    },
+    {
+      "id": "bunpou-n5-te-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "デパートへ行って、セーターを買いました。",
+      "sentenceVi": "Tôi đến cửa hàng bách hóa và mua một chiếc áo len.",
+      "targetGrammar": "〜て",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（time）",
+        "〜て",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đến cửa hàng bách hóa và mua một chiếc áo len.\", ta sử dụng mẫu 「〜て」."
+    },
+    {
+      "id": "bunpou-n5-te-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "家に帰って、晩ご飯を食べて、寝ました。",
+      "sentenceVi": "Tôi về nhà, ăn tối và đi ngủ.",
+      "targetGrammar": "〜て",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Và; và sau đó (liên kết các hành động theo thứ tự)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜て」 mang ý nghĩa: \"Và; và sau đó (liên kết các hành động theo thứ tự)\"."
+    },
+    {
+      "id": "bunpou-n5-te-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "朝起きて、顔を洗います。",
+      "sentenceVi": "Tôi thức dậy vào buổi sáng và rửa mặt.",
+      "targetGrammar": "〜て",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Và; và sau đó (liên kết các hành động theo thứ tự)\":",
+      "options": [
+        "〜と（and）",
+        "〜て",
+        "〜で（place of action）",
+        "〜で（means）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜て」."
+    },
+    {
+      "id": "bunpou-n5-te-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "朝起きて、顔を洗います。",
+      "sentenceVi": "Tôi thức dậy vào buổi sáng và rửa mặt.",
+      "targetGrammar": "〜て",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜て」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Và; và sau đó (liên kết các hành động theo thứ tự)",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜て」 có nghĩa là: Và; và sau đó (liên kết các hành động theo thứ tự)."
+    }
+  ]
+}

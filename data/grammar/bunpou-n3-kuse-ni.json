@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-kuse-ni",
+  "level": "N3",
+  "pattern": "〜くせに",
+  "title": "〜くせに",
+  "meaning": "Mặc dù ; bất chấp (chỉ trích, khiển trách)",
+  "meaningVi": "Mặc dù ; bất chấp (chỉ trích, khiển trách)",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + くせに",
+  "usageNotes": "Giống như 〜のに, nhưng với sự khinh miệt hoặc trách móc đối với chủ ngữ. Cả hai mệnh đề đều có cùng một chủ đề; hiếm khi được sử dụng về bản thân. Bình thường.",
+  "examples": [
+    {
+      "ja": "自分では何もしないくせに、人の仕事には文句ばかり言う。",
+      "furigana": "{自分|じぶん}では{何|なに}もしないくせに、{人|ひと}の{仕事|しごと}には{文句|もんく}ばかり{言|い}う。",
+      "en": "He never does anything himself, yet he's always complaining about other people's work.",
+      "vi": "Anh ấy không bao giờ tự mình làm bất cứ điều gì nhưng lại luôn phàn nàn về công việc của người khác."
+    },
+    {
+      "ja": "知っているくせに、どうして教えてくれなかったの？",
+      "furigana": "{知|し}っているくせに、どうして{教|おし}えてくれなかったの？",
+      "en": "You knew all along, so why didn't you tell me?",
+      "vi": "Anh đã biết từ lâu rồi, vậy tại sao anh không nói với em?"
+    },
+    {
+      "ja": "弟は体が大きいくせに、小さな虫をこわがる。",
+      "furigana": "{弟|おとうと}は{体|からだ}が{大|おお}きいくせに、{小|ちい}さな{虫|むし}をこわがる。",
+      "en": "My younger brother is so big, and yet he's scared of tiny bugs.",
+      "vi": "Em trai tôi tuy lớn nhưng lại sợ những con bọ nhỏ."
+    }
+  ],
+  "tags": [
+    "concession",
+    "criticism"
+  ],
+  "unitId": "grammar-n3-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n3-kuse-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "自分では何もしないくせに、人の仕事には文句ばかり言う。",
+      "sentenceVi": "Anh ấy không bao giờ tự mình làm bất cứ điều gì nhưng lại luôn phàn nàn về công việc của người khác.",
+      "targetGrammar": "〜くせに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Mặc dù ; bất chấp (chỉ trích, khiển trách)",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜くせに」 mang ý nghĩa: \"Mặc dù ; bất chấp (chỉ trích, khiển trách)\"."
+    },
+    {
+      "id": "bunpou-n3-kuse-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "知っているくせに、どうして教えてくれなかったの？",
+      "sentenceVi": "Anh đã biết từ lâu rồi, vậy tại sao anh không nói với em?",
+      "targetGrammar": "〜くせに",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜くせに",
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜ものではない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Anh đã biết từ lâu rồi, vậy tại sao anh không nói với em?\", ta sử dụng mẫu 「〜くせに」."
+    },
+    {
+      "id": "bunpou-n3-kuse-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "弟は体が大きいくせに、小さな虫をこわがる。",
+      "sentenceVi": "Em trai tôi tuy lớn nhưng lại sợ những con bọ nhỏ.",
+      "targetGrammar": "〜くせに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Mặc dù ; bất chấp (chỉ trích, khiển trách)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜くせに」 mang ý nghĩa: \"Mặc dù ; bất chấp (chỉ trích, khiển trách)\"."
+    },
+    {
+      "id": "bunpou-n3-kuse-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "自分では何もしないくせに、人の仕事には文句ばかり言う。",
+      "sentenceVi": "Anh ấy không bao giờ tự mình làm bất cứ điều gì nhưng lại luôn phàn nàn về công việc của người khác.",
+      "targetGrammar": "〜くせに",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Mặc dù ; bất chấp (chỉ trích, khiển trách)\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことはない",
+        "〜くせに",
+        "〜ことになっている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜くせに」."
+    },
+    {
+      "id": "bunpou-n3-kuse-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "自分では何もしないくせに、人の仕事には文句ばかり言う。",
+      "sentenceVi": "Anh ấy không bao giờ tự mình làm bất cứ điều gì nhưng lại luôn phàn nàn về công việc của người khác.",
+      "targetGrammar": "〜くせに",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜くせに」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Mặc dù ; bất chấp (chỉ trích, khiển trách)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜くせに」 có nghĩa là: Mặc dù ; bất chấp (chỉ trích, khiển trách)."
+    }
+  ]
+}

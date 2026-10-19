@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-ppoi",
+  "level": "N3",
+  "pattern": "〜っぽい",
+  "title": "〜っぽい",
+  "meaning": "-ish; -giống; có xu hướng (thông thường)",
+  "meaningVi": "-ish; -giống; có xu hướng (thông thường)",
+  "connection": "Danh từ (N) / Động từ (V)-stem / i-Adj stem + っぽい",
+  "usageNotes": "Danh từ + っぽい: trông giống X nhưng thực ra không phải (大人っぽい). Thân động từ + っぽい: có xu hướng (怒りっぽい). So sánh 〜らしい, có nghĩa là thực sự điển hình của X.",
+  "examples": [
+    {
+      "ja": "この服はちょっと子どもっぽいから、別のにしよう。",
+      "furigana": "この{服|ふく}はちょっと{子|こ}どもっぽいから、{別|べつ}のにしよう。",
+      "en": "This outfit is a bit childish, so let's go with a different one.",
+      "vi": "Bộ trang phục này hơi trẻ con nên hãy chọn bộ khác nhé."
+    },
+    {
+      "ja": "最近忘れっぽくなって、困っている。",
+      "furigana": "{最近|さいきん}{忘|わす}れっぽくなって、{困|こま}っている。",
+      "en": "I've become forgetful lately, and it's a problem.",
+      "vi": "Gần đây tôi hay quên và đó là một vấn đề."
+    },
+    {
+      "ja": "あの白っぽいビルが、新しい市役所です。",
+      "furigana": "あの{白|しろ}っぽいビルが、{新|あたら}しい{市役所|しやくしょ}です。",
+      "en": "That whitish building is the new city hall.",
+      "vi": "Tòa nhà màu trắng đó là tòa thị chính mới."
+    }
+  ],
+  "tags": [
+    "appearance",
+    "tendency",
+    "casual"
+  ],
+  "unitId": "grammar-n3-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n3-ppoi-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この服はちょっと子どもっぽいから、別のにしよう。",
+      "sentenceVi": "Bộ trang phục này hơi trẻ con nên hãy chọn bộ khác nhé.",
+      "targetGrammar": "〜っぽい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "-ish; -giống; có xu hướng (thông thường)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜っぽい」 mang ý nghĩa: \"-ish; -giống; có xu hướng (thông thường)\"."
+    },
+    {
+      "id": "bunpou-n3-ppoi-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "最近忘れっぽくなって、困っている。",
+      "sentenceVi": "Gần đây tôi hay quên và đó là một vấn đề.",
+      "targetGrammar": "〜っぽい",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜っぽい",
+        "〜ものではない",
+        "〜ものだ",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Gần đây tôi hay quên và đó là một vấn đề.\", ta sử dụng mẫu 「〜っぽい」."
+    },
+    {
+      "id": "bunpou-n3-ppoi-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "あの白っぽいビルが、新しい市役所です。",
+      "sentenceVi": "Tòa nhà màu trắng đó là tòa thị chính mới.",
+      "targetGrammar": "〜っぽい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "-ish; -giống; có xu hướng (thông thường)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜っぽい」 mang ý nghĩa: \"-ish; -giống; có xu hướng (thông thường)\"."
+    },
+    {
+      "id": "bunpou-n3-ppoi-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この服はちょっと子どもっぽいから、別のにしよう。",
+      "sentenceVi": "Bộ trang phục này hơi trẻ con nên hãy chọn bộ khác nhé.",
+      "targetGrammar": "〜っぽい",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"-ish; -giống; có xu hướng (thông thường)\":",
+      "options": [
+        "〜っぽい",
+        "〜ことはない",
+        "〜ことにしている",
+        "〜ことになっている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜っぽい」."
+    },
+    {
+      "id": "bunpou-n3-ppoi-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この服はちょっと子どもっぽいから、別のにしよう。",
+      "sentenceVi": "Bộ trang phục này hơi trẻ con nên hãy chọn bộ khác nhé.",
+      "targetGrammar": "〜っぽい",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜っぽい」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "-ish; -giống; có xu hướng (thông thường)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜っぽい」 có nghĩa là: -ish; -giống; có xu hướng (thông thường)."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-to-iu-say",
+  "level": "N4",
+  "pattern": "〜と言う",
+  "title": "〜と言う",
+  "meaning": "Nói điều đó; kể (trích dẫn)",
+  "meaningVi": "Nói điều đó; kể (trích dẫn)",
+  "connection": "「Sentence」 + と言う / Sentence (plain) + と言う",
+  "usageNotes": "Trích dẫn trực tiếp đi vào bên trong 「」; trích dẫn gián tiếp sử dụng các hình thức đơn giản. 〜と言っていた được dùng phổ biến khi truyền lại điều ai đó đã nói.",
+  "examples": [
+    {
+      "ja": "先生は「明日はテストがあります」と言いました。",
+      "furigana": "{先生|せんせい}は「{明日|あした}はテストがあります」と{言|い}いました。",
+      "en": "The teacher said, \"There's a test tomorrow.\"",
+      "vi": "Thầy giáo nói: “Ngày mai có bài kiểm tra.”"
+    },
+    {
+      "ja": "兄は今晩、帰りが遅くなると言っていた。",
+      "furigana": "{兄|あに}は{今晩|こんばん}、{帰|かえ}りが{遅|おそ}くなると{言|い}っていた。",
+      "en": "My older brother said he'd be home late tonight.",
+      "vi": "Anh trai tôi nói tối nay anh ấy sẽ về nhà muộn."
+    },
+    {
+      "ja": "日本では食べる前に「いただきます」と言います。",
+      "furigana": "{日本|にほん}では{食|た}べる{前|まえ}に「いただきます」と{言|い}います。",
+      "en": "In Japan, people say \"itadakimasu\" before eating.",
+      "vi": "Ở Nhật Bản, người ta nói “itadakimasu” trước khi ăn."
+    }
+  ],
+  "tags": [
+    "quotation"
+  ],
+  "unitId": "grammar-n4-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n4-to-iu-say-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "先生は「明日はテストがあります」と言いました。",
+      "sentenceVi": "Thầy giáo nói: “Ngày mai có bài kiểm tra.”",
+      "targetGrammar": "〜と言う",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Nói điều đó; kể (trích dẫn)",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜と言う」 mang ý nghĩa: \"Nói điều đó; kể (trích dẫn)\"."
+    },
+    {
+      "id": "bunpou-n4-to-iu-say-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "兄は今晩、帰りが遅くなると言っていた。",
+      "sentenceVi": "Anh trai tôi nói tối nay anh ấy sẽ về nhà muộn.",
+      "targetGrammar": "〜と言う",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜と言う",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜ていく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Anh trai tôi nói tối nay anh ấy sẽ về nhà muộn.\", ta sử dụng mẫu 「〜と言う」."
+    },
+    {
+      "id": "bunpou-n4-to-iu-say-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本では食べる前に「いただきます」と言います。",
+      "sentenceVi": "Ở Nhật Bản, người ta nói “itadakimasu” trước khi ăn.",
+      "targetGrammar": "〜と言う",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Nói điều đó; kể (trích dẫn)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜と言う」 mang ý nghĩa: \"Nói điều đó; kể (trích dẫn)\"."
+    },
+    {
+      "id": "bunpou-n4-to-iu-say-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "先生は「明日はテストがあります」と言いました。",
+      "sentenceVi": "Thầy giáo nói: “Ngày mai có bài kiểm tra.”",
+      "targetGrammar": "〜と言う",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nói điều đó; kể (trích dẫn)\":",
+      "options": [
+        "〜てみる",
+        "〜と言う",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜と言う」."
+    },
+    {
+      "id": "bunpou-n4-to-iu-say-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "先生は「明日はテストがあります」と言いました。",
+      "sentenceVi": "Thầy giáo nói: “Ngày mai có bài kiểm tra.”",
+      "targetGrammar": "〜と言う",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜と言う」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nói điều đó; kể (trích dẫn)",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜と言う」 có nghĩa là: Nói điều đó; kể (trích dẫn)."
+    }
+  ]
+}

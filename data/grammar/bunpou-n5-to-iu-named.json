@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-to-iu-named",
+  "level": "N5",
+  "pattern": "〜という（named）",
+  "title": "〜という（named）",
+  "meaning": "Gọi điện; đặt tên",
+  "meaningVi": "Gọi điện; đặt tên",
+  "connection": "Danh từ (N) + という + Danh từ (N)",
+  "usageNotes": "Giới thiệu một cái tên mà người nghe có thể không biết.",
+  "examples": [
+    {
+      "ja": "これは「すきやき」という料理です。",
+      "furigana": "これは「すきやき」という{料理|りょうり}です。",
+      "en": "This is a dish called sukiyaki.",
+      "vi": "Đây là món ăn được gọi là sukiyaki."
+    },
+    {
+      "ja": "「さくら」という店でアルバイトをしています。",
+      "furigana": "「さくら」という{店|みせ}でアルバイトをしています。",
+      "en": "I work part-time at a shop called Sakura.",
+      "vi": "Tôi làm việc bán thời gian tại một cửa hàng tên là Sakura."
+    },
+    {
+      "ja": "山田さんという人から電話がありました。",
+      "furigana": "{山田|やまだ}さんという{人|ひと}から{電話|でんわ}がありました。",
+      "en": "There was a call from someone named Yamada.",
+      "vi": "Có một cuộc gọi từ một người tên Yamada."
+    }
+  ],
+  "tags": [
+    "quotation"
+  ],
+  "unitId": "grammar-n5-unit-17",
+  "questions": [
+    {
+      "id": "bunpou-n5-to-iu-named-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "これは「すきやき」という料理です。",
+      "sentenceVi": "Đây là món ăn được gọi là sukiyaki.",
+      "targetGrammar": "〜という（named）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Gọi điện; đặt tên",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜という（named）」 mang ý nghĩa: \"Gọi điện; đặt tên\"."
+    },
+    {
+      "id": "bunpou-n5-to-iu-named-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "「さくら」という店でアルバイトをしています。",
+      "sentenceVi": "Tôi làm việc bán thời gian tại một cửa hàng tên là Sakura.",
+      "targetGrammar": "〜という（named）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜という（named）",
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜に（time）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi làm việc bán thời gian tại một cửa hàng tên là Sakura.\", ta sử dụng mẫu 「〜という（named）」."
+    },
+    {
+      "id": "bunpou-n5-to-iu-named-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "山田さんという人から電話がありました。",
+      "sentenceVi": "Có một cuộc gọi từ một người tên Yamada.",
+      "targetGrammar": "〜という（named）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Gọi điện; đặt tên",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜という（named）」 mang ý nghĩa: \"Gọi điện; đặt tên\"."
+    },
+    {
+      "id": "bunpou-n5-to-iu-named-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "これは「すきやき」という料理です。",
+      "sentenceVi": "Đây là món ăn được gọi là sukiyaki.",
+      "targetGrammar": "〜という（named）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Gọi điện; đặt tên\":",
+      "options": [
+        "〜と（and）",
+        "〜という（named）",
+        "〜で（means）",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜という（named）」."
+    },
+    {
+      "id": "bunpou-n5-to-iu-named-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "これは「すきやき」という料理です。",
+      "sentenceVi": "Đây là món ăn được gọi là sukiyaki.",
+      "targetGrammar": "〜という（named）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜という（named）」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Gọi điện; đặt tên",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜という（named）」 có nghĩa là: Gọi điện; đặt tên."
+    }
+  ]
+}

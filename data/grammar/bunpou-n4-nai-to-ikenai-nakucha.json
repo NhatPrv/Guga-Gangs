@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-nai-to-ikenai-nakucha",
+  "level": "N4",
+  "pattern": "〜ないといけない / 〜なくちゃ",
+  "title": "〜ないといけない / 〜なくちゃ",
+  "meaning": "Phải ; phải (đàm thoại)",
+  "meaningVi": "Phải ; phải (đàm thoại)",
+  "connection": "Động từ (V)-nai + といけない / Động từ (V)-nai stem + なくちゃ",
+  "usageNotes": "Các lựa chọn thay thế hàng ngày cho なければならない. なくちゃ xuất phát từ なくては; なきゃ (từ なければ) cũng rất phổ biến.",
+  "examples": [
+    {
+      "ja": "明日は早いから、もう寝ないといけない。",
+      "furigana": "{明日|あした}は{早|はや}いから、もう{寝|ね}ないといけない。",
+      "en": "I have an early start tomorrow, so I need to go to bed now.",
+      "vi": "Ngày mai tôi phải khởi hành sớm nên bây giờ tôi cần phải đi ngủ."
+    },
+    {
+      "ja": "あ、もうこんな時間！帰らなくちゃ。",
+      "furigana": "あ、もうこんな{時間|じかん}！{帰|かえ}らなくちゃ。",
+      "en": "Oh, look at the time! I have to go home.",
+      "vi": "Ôi, hãy nhìn thời gian! Tôi phải về nhà."
+    },
+    {
+      "ja": "この薬は毎日飲まないといけません。",
+      "furigana": "この{薬|くすり}は{毎日|まいにち}{飲|の}まないといけません。",
+      "en": "You have to take this medicine every day.",
+      "vi": "Bạn phải dùng thuốc này mỗi ngày."
+    }
+  ],
+  "tags": [
+    "obligation",
+    "casual"
+  ],
+  "unitId": "grammar-n4-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n4-nai-to-ikenai-nakucha-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日は早いから、もう寝ないといけない。",
+      "sentenceVi": "Ngày mai tôi phải khởi hành sớm nên bây giờ tôi cần phải đi ngủ.",
+      "targetGrammar": "〜ないといけない / 〜なくちゃ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Phải ; phải (đàm thoại)",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ないといけない / 〜なくちゃ」 mang ý nghĩa: \"Phải ; phải (đàm thoại)\"."
+    },
+    {
+      "id": "bunpou-n4-nai-to-ikenai-nakucha-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "あ、もうこんな時間！帰らなくちゃ。",
+      "sentenceVi": "Ôi, hãy nhìn thời gian! Tôi phải về nhà.",
+      "targetGrammar": "〜ないといけない / 〜なくちゃ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てもらう",
+        "〜ないといけない / 〜なくちゃ",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Ôi, hãy nhìn thời gian! Tôi phải về nhà.\", ta sử dụng mẫu 「〜ないといけない / 〜なくちゃ」."
+    },
+    {
+      "id": "bunpou-n4-nai-to-ikenai-nakucha-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この薬は毎日飲まないといけません。",
+      "sentenceVi": "Bạn phải dùng thuốc này mỗi ngày.",
+      "targetGrammar": "〜ないといけない / 〜なくちゃ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Phải ; phải (đàm thoại)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ないといけない / 〜なくちゃ」 mang ý nghĩa: \"Phải ; phải (đàm thoại)\"."
+    },
+    {
+      "id": "bunpou-n4-nai-to-ikenai-nakucha-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "明日は早いから、もう寝ないといけない。",
+      "sentenceVi": "Ngày mai tôi phải khởi hành sớm nên bây giờ tôi cần phải đi ngủ.",
+      "targetGrammar": "〜ないといけない / 〜なくちゃ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Phải ; phải (đàm thoại)\":",
+      "options": [
+        "〜てある",
+        "〜てみる",
+        "〜とき",
+        "〜ないといけない / 〜なくちゃ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜ないといけない / 〜なくちゃ」."
+    },
+    {
+      "id": "bunpou-n4-nai-to-ikenai-nakucha-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日は早いから、もう寝ないといけない。",
+      "sentenceVi": "Ngày mai tôi phải khởi hành sớm nên bây giờ tôi cần phải đi ngủ.",
+      "targetGrammar": "〜ないといけない / 〜なくちゃ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ないといけない / 〜なくちゃ」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Phải ; phải (đàm thoại)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ないといけない / 〜なくちゃ」 có nghĩa là: Phải ; phải (đàm thoại)."
+    }
+  ]
+}

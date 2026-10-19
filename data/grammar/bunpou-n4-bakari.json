@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-bakari",
+  "level": "N4",
+  "pattern": "〜ばかり",
+  "title": "〜ばかり",
+  "meaning": "Toàn là... / Cứ mãi...",
+  "meaningVi": "Toàn là... / Cứ mãi...",
+  "connection": "Danh từ (N) + ばかり",
+  "usageNotes": "Thường ngụ ý có quá nhiều thứ. 〜てばかりいる (N3) và 〜たばかり ('vừa làm') là những điểm riêng biệt.",
+  "examples": [
+    {
+      "ja": "弟は肉ばかり食べて、野菜を食べない。",
+      "furigana": "{弟|おとうと}は{肉|にく}ばかり{食|た}べて、{野菜|やさい}を{食|た}べない。",
+      "en": "My little brother eats nothing but meat and won't touch vegetables.",
+      "vi": "Em trai tôi không ăn gì ngoài thịt và không đụng đến rau."
+    },
+    {
+      "ja": "このクラスは女の子ばかりだ。",
+      "furigana": "このクラスは{女|おんな}の{子|こ}ばかりだ。",
+      "en": "This class is all girls.",
+      "vi": "Lớp này toàn con gái."
+    },
+    {
+      "ja": "最近は雨の日ばかりで、洗濯ができない。",
+      "furigana": "{最近|さいきん}は{雨|あめ}の{日|ひ}ばかりで、{洗濯|せんたく}ができない。",
+      "en": "It's been nothing but rainy days lately, so I can't do the laundry.",
+      "vi": "Gần đây trời mưa nên tôi không thể giặt đồ được."
+    }
+  ],
+  "tags": [
+    "limitation",
+    "criticism"
+  ],
+  "unitId": "grammar-n4-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n4-bakari-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "弟は肉ばかり食べて、野菜を食べない。",
+      "sentenceVi": "Em trai tôi không ăn gì ngoài thịt và không đụng đến rau.",
+      "targetGrammar": "〜ばかり",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Toàn là... / Cứ mãi...",
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ばかり」 mang ý nghĩa: \"Toàn là... / Cứ mãi...\"."
+    },
+    {
+      "id": "bunpou-n4-bakari-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このクラスは女の子ばかりだ。",
+      "sentenceVi": "Lớp này toàn con gái.",
+      "targetGrammar": "〜ばかり",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜ばかり",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Lớp này toàn con gái.\", ta sử dụng mẫu 「〜ばかり」."
+    },
+    {
+      "id": "bunpou-n4-bakari-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "最近は雨の日ばかりで、洗濯ができない。",
+      "sentenceVi": "Gần đây trời mưa nên tôi không thể giặt đồ được.",
+      "targetGrammar": "〜ばかり",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Toàn là... / Cứ mãi...",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ばかり」 mang ý nghĩa: \"Toàn là... / Cứ mãi...\"."
+    },
+    {
+      "id": "bunpou-n4-bakari-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "弟は肉ばかり食べて、野菜を食べない。",
+      "sentenceVi": "Em trai tôi không ăn gì ngoài thịt và không đụng đến rau.",
+      "targetGrammar": "〜ばかり",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Toàn là... / Cứ mãi...\":",
+      "options": [
+        "〜とき",
+        "〜ばかり",
+        "〜てある",
+        "〜てみる"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ばかり」."
+    },
+    {
+      "id": "bunpou-n4-bakari-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "弟は肉ばかり食べて、野菜を食べない。",
+      "sentenceVi": "Em trai tôi không ăn gì ngoài thịt và không đụng đến rau.",
+      "targetGrammar": "〜ばかり",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ばかり」 là gì?",
+      "options": [
+        "Toàn là... / Cứ mãi...",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ばかり」 có nghĩa là: Toàn là... / Cứ mãi...."
+    }
+  ]
+}

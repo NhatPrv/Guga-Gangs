@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-kurai-gurai-extent",
+  "level": "N3",
+  "pattern": "〜くらい / 〜ぐらい（extent）",
+  "title": "〜くらい / 〜ぐらい（extent）",
+  "meaning": "Đến mức đó; để có thể; ít nhất (điều gì đó tối thiểu)",
+  "meaningVi": "Đến mức đó; để có thể; ít nhất (điều gì đó tối thiểu)",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + くらい",
+  "usageNotes": "Giống như 〜ほど, thể hiện mức độ. くらい cũng có thể đánh dấu một việc gì đó nhỏ nhặt hoặc dễ dàng ('ít nhất; một việc đơn giản như vậy'), cách sử dụng ほど không có.",
+  "examples": [
+    {
+      "ja": "おなかが痛くて、歩けないくらいだった。",
+      "furigana": "おなかが{痛|いた}くて、{歩|ある}けないくらいだった。",
+      "en": "My stomach hurt so much I could barely walk.",
+      "vi": "Bụng tôi đau đến nỗi tôi gần như không thể đi lại được."
+    },
+    {
+      "ja": "隣の部屋の音楽がうるさくて、自分の声も聞こえないぐらいだ。",
+      "furigana": "{隣|となり}の{部屋|へや}の{音楽|おんがく}がうるさくて、{自分|じぶん}の{声|こえ}も{聞|き}こえないぐらいだ。",
+      "en": "The music next door is so loud I can't even hear my own voice.",
+      "vi": "Âm nhạc bên cạnh quá to đến nỗi tôi thậm chí không thể nghe thấy giọng nói của chính mình."
+    },
+    {
+      "ja": "自分の部屋ぐらい、自分で掃除しなさい。",
+      "furigana": "{自分|じぶん}の{部屋|へや}ぐらい、{自分|じぶん}で{掃除|そうじ}しなさい。",
+      "en": "At least clean your own room yourself.",
+      "vi": "Ít nhất hãy tự mình dọn dẹp phòng riêng của mình."
+    }
+  ],
+  "tags": [
+    "degree",
+    "emphasis"
+  ],
+  "unitId": "grammar-n3-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n3-kurai-gurai-extent-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "おなかが痛くて、歩けないくらいだった。",
+      "sentenceVi": "Bụng tôi đau đến nỗi tôi gần như không thể đi lại được.",
+      "targetGrammar": "〜くらい / 〜ぐらい（extent）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Đến mức đó; để có thể; ít nhất (điều gì đó tối thiểu)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜くらい / 〜ぐらい（extent）」 mang ý nghĩa: \"Đến mức đó; để có thể; ít nhất (điều gì đó tối thiểu)\"."
+    },
+    {
+      "id": "bunpou-n3-kurai-gurai-extent-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "隣の部屋の音楽がうるさくて、自分の声も聞こえないぐらいだ。",
+      "sentenceVi": "Âm nhạc bên cạnh quá to đến nỗi tôi thậm chí không thể nghe thấy giọng nói của chính mình.",
+      "targetGrammar": "〜くらい / 〜ぐらい（extent）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜くらい / 〜ぐらい（extent）",
+        "〜わけにはいかない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Âm nhạc bên cạnh quá to đến nỗi tôi thậm chí không thể nghe thấy giọng nói của chính mình.\", ta sử dụng mẫu 「〜くらい / 〜ぐらい（extent）」."
+    },
+    {
+      "id": "bunpou-n3-kurai-gurai-extent-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "自分の部屋ぐらい、自分で掃除しなさい。",
+      "sentenceVi": "Ít nhất hãy tự mình dọn dẹp phòng riêng của mình.",
+      "targetGrammar": "〜くらい / 〜ぐらい（extent）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đến mức đó; để có thể; ít nhất (điều gì đó tối thiểu)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜くらい / 〜ぐらい（extent）」 mang ý nghĩa: \"Đến mức đó; để có thể; ít nhất (điều gì đó tối thiểu)\"."
+    },
+    {
+      "id": "bunpou-n3-kurai-gurai-extent-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "おなかが痛くて、歩けないくらいだった。",
+      "sentenceVi": "Bụng tôi đau đến nỗi tôi gần như không thể đi lại được.",
+      "targetGrammar": "〜くらい / 〜ぐらい（extent）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đến mức đó; để có thể; ít nhất (điều gì đó tối thiểu)\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことはない",
+        "〜ことになっている",
+        "〜くらい / 〜ぐらい（extent）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜くらい / 〜ぐらい（extent）」."
+    },
+    {
+      "id": "bunpou-n3-kurai-gurai-extent-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "おなかが痛くて、歩けないくらいだった。",
+      "sentenceVi": "Bụng tôi đau đến nỗi tôi gần như không thể đi lại được.",
+      "targetGrammar": "〜くらい / 〜ぐらい（extent）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜くらい / 〜ぐらい（extent）」 là gì?",
+      "options": [
+        "Đến mức đó; để có thể; ít nhất (điều gì đó tối thiểu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜くらい / 〜ぐらい（extent）」 có nghĩa là: Đến mức đó; để có thể; ít nhất (điều gì đó tối thiểu)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-teki",
+  "level": "N3",
+  "pattern": "〜的",
+  "title": "〜的",
+  "meaning": "-ic; -al; về mặt",
+  "meaningVi": "-ic; -al; về mặt",
+  "connection": "Danh từ (N) + 的な + Danh từ (N) / Danh từ (N) + 的に",
+  "usageNotes": "Biến một danh từ (thường là kanji) thành tính từ na: 的な trước danh từ, 的に trước động từ và tính từ. Nhiều từ được học tốt nhất dưới dạng từ: 具体的, 基本的, 積極的.",
+  "examples": [
+    {
+      "ja": "日本の伝統的な料理を食べてみたい。",
+      "furigana": "{日本|にほん}の{伝統|でんとう}{的|てき}な{料理|りょうり}を{食|た}べてみたい。",
+      "en": "I'd like to try traditional Japanese food.",
+      "vi": "Tôi muốn thử món ăn truyền thống của Nhật Bản."
+    },
+    {
+      "ja": "この問題は、経済的な理由で解決が難しい。",
+      "furigana": "この{問題|もんだい}は、{経済|けいざい}{的|てき}な{理由|りゆう}で{解決|かいけつ}が{難|むずか}しい。",
+      "en": "This problem is hard to solve for economic reasons.",
+      "vi": "Vấn đề này khó giải quyết vì lý do kinh tế."
+    },
+    {
+      "ja": "個人的には、この案に賛成です。",
+      "furigana": "{個人|こじん}{的|てき}には、この{案|あん}に{賛成|さんせい}です。",
+      "en": "Personally, I'm in favor of this plan.",
+      "vi": "Cá nhân tôi ủng hộ kế hoạch này."
+    }
+  ],
+  "tags": [
+    "manner",
+    "standpoint"
+  ],
+  "unitId": "grammar-n3-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n3-teki-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本の伝統的な料理を食べてみたい。",
+      "sentenceVi": "Tôi muốn thử món ăn truyền thống của Nhật Bản.",
+      "targetGrammar": "〜的",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "-ic; -al; về mặt",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜的」 mang ý nghĩa: \"-ic; -al; về mặt\"."
+    },
+    {
+      "id": "bunpou-n3-teki-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この問題は、経済的な理由で解決が難しい。",
+      "sentenceVi": "Vấn đề này khó giải quyết vì lý do kinh tế.",
+      "targetGrammar": "〜的",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜的",
+        "〜わけにはいかない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Vấn đề này khó giải quyết vì lý do kinh tế.\", ta sử dụng mẫu 「〜的」."
+    },
+    {
+      "id": "bunpou-n3-teki-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "個人的には、この案に賛成です。",
+      "sentenceVi": "Cá nhân tôi ủng hộ kế hoạch này.",
+      "targetGrammar": "〜的",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "-ic; -al; về mặt",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜的」 mang ý nghĩa: \"-ic; -al; về mặt\"."
+    },
+    {
+      "id": "bunpou-n3-teki-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本の伝統的な料理を食べてみたい。",
+      "sentenceVi": "Tôi muốn thử món ăn truyền thống của Nhật Bản.",
+      "targetGrammar": "〜的",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"-ic; -al; về mặt\":",
+      "options": [
+        "〜的",
+        "〜ことはない",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜的」."
+    },
+    {
+      "id": "bunpou-n3-teki-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本の伝統的な料理を食べてみたい。",
+      "sentenceVi": "Tôi muốn thử món ăn truyền thống của Nhật Bản.",
+      "targetGrammar": "〜的",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜的」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "-ic; -al; về mặt",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜的」 có nghĩa là: -ic; -al; về mặt."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-to",
+  "level": "N4",
+  "pattern": "〜と（conditional）",
+  "title": "〜と（conditional）",
+  "meaning": "Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)",
+  "meaningVi": "Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai / i-Adj + と / na-Adj + だ + と / Danh từ (N) + だ + と",
+  "usageNotes": "Để có kết quả tự nhiên, cách máy móc hoạt động, hướng dẫn và thói quen. Mệnh đề chính không thể là một yêu cầu, mong muốn hay lời mời.",
+  "examples": [
+    {
+      "ja": "このボタンを押すと、お茶が出ます。",
+      "furigana": "このボタンを{押|お}すと、お{茶|ちゃ}が{出|で}ます。",
+      "en": "When you press this button, tea comes out.",
+      "vi": "Khi bạn nhấn nút này, trà sẽ chảy ra."
+    },
+    {
+      "ja": "春になると、桜が咲きます。",
+      "furigana": "{春|はる}になると、{桜|さくら}が{咲|さ}きます。",
+      "en": "When spring comes, the cherry blossoms bloom.",
+      "vi": "Khi mùa xuân đến, hoa anh đào nở rộ."
+    },
+    {
+      "ja": "この道を右に曲がると、左に郵便局があります。",
+      "furigana": "この{道|みち}を{右|みぎ}に{曲|ま}がると、{左|ひだり}に{郵便|ゆうびん}{局|きょく}があります。",
+      "en": "If you turn right on this road, there's a post office on the left.",
+      "vi": "Nếu bạn rẽ phải vào con đường này, có một bưu điện ở bên trái."
+    }
+  ],
+  "tags": [
+    "condition"
+  ],
+  "unitId": "grammar-n4-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n4-to-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このボタンを押すと、お茶が出ます。",
+      "sentenceVi": "Khi bạn nhấn nút này, trà sẽ chảy ra.",
+      "targetGrammar": "〜と（conditional）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜と（conditional）」 mang ý nghĩa: \"Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)\"."
+    },
+    {
+      "id": "bunpou-n4-to-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "春になると、桜が咲きます。",
+      "sentenceVi": "Khi mùa xuân đến, hoa anh đào nở rộ.",
+      "targetGrammar": "〜と（conditional）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜と（conditional）",
+        "〜てもらう"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Khi mùa xuân đến, hoa anh đào nở rộ.\", ta sử dụng mẫu 「〜と（conditional）」."
+    },
+    {
+      "id": "bunpou-n4-to-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この道を右に曲がると、左に郵便局があります。",
+      "sentenceVi": "Nếu bạn rẽ phải vào con đường này, có một bưu điện ở bên trái.",
+      "targetGrammar": "〜と（conditional）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜と（conditional）」 mang ý nghĩa: \"Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)\"."
+    },
+    {
+      "id": "bunpou-n4-to-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このボタンを押すと、お茶が出ます。",
+      "sentenceVi": "Khi bạn nhấn nút này, trà sẽ chảy ra.",
+      "targetGrammar": "〜と（conditional）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)\":",
+      "options": [
+        "〜と（conditional）",
+        "〜てみる",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜と（conditional）」."
+    },
+    {
+      "id": "bunpou-n4-to-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このボタンを押すと、お茶が出ます。",
+      "sentenceVi": "Khi bạn nhấn nút này, trà sẽ chảy ra.",
+      "targetGrammar": "〜と（conditional）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜と（conditional）」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜と（conditional）」 có nghĩa là: Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)."
+    }
+  ]
+}

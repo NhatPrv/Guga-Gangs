@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-mono-dakara-mono-de",
+  "level": "N3",
+  "pattern": "〜ものだから / 〜もので",
+  "title": "〜ものだから / 〜もので",
+  "meaning": "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+  "meaningVi": "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + な + ものだから / もので",
+  "usageNotes": "Giải thích hoặc bào chữa cho điều gì đó không hoàn toàn nằm trong tầm kiểm soát của người nói. Mệnh đề chính không thể là một mệnh lệnh hoặc yêu cầu. もので thường dùng trong lời xin lỗi lịch sự.",
+  "examples": [
+    {
+      "ja": "道がすごく混んでいたものだから、約束の時間に間に合わなかった。",
+      "furigana": "{道|みち}がすごく{混|こ}んでいたものだから、{約束|やくそく}の{時間|じかん}に{間|ま}に{合|あ}わなかった。",
+      "en": "The roads were really crowded, so I couldn't make it on time.",
+      "vi": "Đường rất đông nên tôi không thể đến đúng giờ được."
+    },
+    {
+      "ja": "すみません、急いでいたもので、書類を持ってくるのを忘れてしまいました。",
+      "furigana": "すみません、{急|いそ}いでいたもので、{書類|しょるい}を{持|も}ってくるのを{忘|わす}れてしまいました。",
+      "en": "I'm sorry, I was in such a hurry that I forgot to bring the documents.",
+      "vi": "Xin lỗi, tôi vội quá nên quên mang theo tài liệu."
+    },
+    {
+      "ja": "初めての海外旅行だったものだから、見るものすべてが珍しかった。",
+      "furigana": "{初|はじ}めての{海外|かいがい}{旅行|りょこう}だったものだから、{見|み}るものすべてが{珍|めずら}しかった。",
+      "en": "It was my first trip abroad, so everything I saw seemed new.",
+      "vi": "Đây là chuyến đi nước ngoài đầu tiên của tôi nên mọi thứ tôi thấy đều có vẻ mới mẻ."
+    }
+  ],
+  "tags": [
+    "reason"
+  ],
+  "unitId": "grammar-n3-unit-02",
+  "questions": [
+    {
+      "id": "bunpou-n3-mono-dakara-mono-de-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "道がすごく混んでいたものだから、約束の時間に間に合わなかった。",
+      "sentenceVi": "Đường rất đông nên tôi không thể đến đúng giờ được.",
+      "targetGrammar": "〜ものだから / 〜もので",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ものだから / 〜もので」 mang ý nghĩa: \"Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)\"."
+    },
+    {
+      "id": "bunpou-n3-mono-dakara-mono-de-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "すみません、急いでいたもので、書類を持ってくるのを忘れてしまいました。",
+      "sentenceVi": "Xin lỗi, tôi vội quá nên quên mang theo tài liệu.",
+      "targetGrammar": "〜ものだから / 〜もので",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜ものだから / 〜もので",
+        "〜ものではない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Xin lỗi, tôi vội quá nên quên mang theo tài liệu.\", ta sử dụng mẫu 「〜ものだから / 〜もので」."
+    },
+    {
+      "id": "bunpou-n3-mono-dakara-mono-de-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "初めての海外旅行だったものだから、見るものすべてが珍しかった。",
+      "sentenceVi": "Đây là chuyến đi nước ngoài đầu tiên của tôi nên mọi thứ tôi thấy đều có vẻ mới mẻ.",
+      "targetGrammar": "〜ものだから / 〜もので",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Không cần phải làm vậy; không cần phải làm vậy",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ものだから / 〜もので」 mang ý nghĩa: \"Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)\"."
+    },
+    {
+      "id": "bunpou-n3-mono-dakara-mono-de-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "道がすごく混んでいたものだから、約束の時間に間に合わなかった。",
+      "sentenceVi": "Đường rất đông nên tôi không thể đến đúng giờ được.",
+      "targetGrammar": "〜ものだから / 〜もので",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)\":",
+      "options": [
+        "〜ことにしている",
+        "〜ものだから / 〜もので",
+        "〜こと（instruction）",
+        "〜ことになっている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ものだから / 〜もので」."
+    },
+    {
+      "id": "bunpou-n3-mono-dakara-mono-de-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "道がすごく混んでいたものだから、約束の時間に間に合わなかった。",
+      "sentenceVi": "Đường rất đông nên tôi không thể đến đúng giờ được.",
+      "targetGrammar": "〜ものだから / 〜もので",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ものだから / 〜もので」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Không thể ; không có vẻ như nó sẽ",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ものだから / 〜もので」 có nghĩa là: Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)."
+    }
+  ]
+}

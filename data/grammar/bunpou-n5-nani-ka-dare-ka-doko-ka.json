@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-nani-ka-dare-ka-doko-ka",
+  "level": "N5",
+  "pattern": "何か / 誰か / どこか",
+  "title": "何か / 誰か / どこか",
+  "meaning": "Cái gì đó; người nào đó; ở đâu đó",
+  "meaningVi": "Cái gì đó; người nào đó; ở đâu đó",
+  "connection": "Question word + か",
+  "usageNotes": "Từ để hỏi + か cho từ 'some-'; từ để hỏi + も + phủ định cho từ 'không-'. が và を sau 何か / だれか thường bị lược bỏ.",
+  "examples": [
+    {
+      "ja": "何か飲みますか。",
+      "furigana": "{何|なに}か{飲|の}みますか。",
+      "en": "Would you like something to drink?",
+      "vi": "Bạn có muốn uống gì không?"
+    },
+    {
+      "ja": "だれか来ましたよ。",
+      "furigana": "だれか{来|き}ましたよ。",
+      "en": "Someone's here.",
+      "vi": "Có ai đó đang ở đây."
+    },
+    {
+      "ja": "夏休みにどこかへ行きましたか。",
+      "furigana": "{夏休|なつやす}みにどこかへ{行|い}きましたか。",
+      "en": "Did you go anywhere during summer vacation?",
+      "vi": "Bạn có đi đâu trong kỳ nghỉ hè không?"
+    }
+  ],
+  "tags": [
+    "question"
+  ],
+  "unitId": "grammar-n5-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n5-nani-ka-dare-ka-doko-ka-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "何か飲みますか。",
+      "sentenceVi": "Bạn có muốn uống gì không?",
+      "targetGrammar": "何か / 誰か / どこか",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Cái gì đó; người nào đó; ở đâu đó"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「何か / 誰か / どこか」 mang ý nghĩa: \"Cái gì đó; người nào đó; ở đâu đó\"."
+    },
+    {
+      "id": "bunpou-n5-nani-ka-dare-ka-doko-ka-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "だれか来ましたよ。",
+      "sentenceVi": "Có ai đó đang ở đây.",
+      "targetGrammar": "何か / 誰か / どこか",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜に（time）",
+        "何か / 誰か / どこか",
+        "〜に（destination）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Có ai đó đang ở đây.\", ta sử dụng mẫu 「何か / 誰か / どこか」."
+    },
+    {
+      "id": "bunpou-n5-nani-ka-dare-ka-doko-ka-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夏休みにどこかへ行きましたか。",
+      "sentenceVi": "Bạn có đi đâu trong kỳ nghỉ hè không?",
+      "targetGrammar": "何か / 誰か / どこか",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Cái gì đó; người nào đó; ở đâu đó",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「何か / 誰か / どこか」 mang ý nghĩa: \"Cái gì đó; người nào đó; ở đâu đó\"."
+    },
+    {
+      "id": "bunpou-n5-nani-ka-dare-ka-doko-ka-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "何か飲みますか。",
+      "sentenceVi": "Bạn có muốn uống gì không?",
+      "targetGrammar": "何か / 誰か / どこか",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cái gì đó; người nào đó; ở đâu đó\":",
+      "options": [
+        "何か / 誰か / どこか",
+        "〜で（means）",
+        "〜で（place of action）",
+        "〜と（and）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「何か / 誰か / どこか」."
+    },
+    {
+      "id": "bunpou-n5-nani-ka-dare-ka-doko-ka-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "何か飲みますか。",
+      "sentenceVi": "Bạn có muốn uống gì không?",
+      "targetGrammar": "何か / 誰か / どこか",
+      "prompt": "Ý nghĩa chính của cấu trúc 「何か / 誰か / どこか」 là gì?",
+      "options": [
+        "Cái gì đó; người nào đó; ở đâu đó",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「何か / 誰か / どこか」 có nghĩa là: Cái gì đó; người nào đó; ở đâu đó."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-ippou-da",
+  "level": "N3",
+  "pattern": "〜一方だ",
+  "title": "〜一方だ",
+  "meaning": "Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)",
+  "meaningVi": "Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)",
+  "connection": "Động từ (V)-dict + 一方だ",
+  "usageNotes": "Thay đổi ổn định theo một hướng, thường (không phải luôn luôn) theo chiều hướng xấu hơn. Dùng với các động từ thay đổi như 増える, 減る, 上がる, 悪くなる.",
+  "examples": [
+    {
+      "ja": "この町の人口は、減る一方だ。",
+      "furigana": "この{町|まち}の{人口|じんこう}は、{減|へ}る{一方|いっぽう}だ。",
+      "en": "This town's population just keeps on shrinking.",
+      "vi": "Dân số của thị trấn này ngày càng giảm."
+    },
+    {
+      "ja": "物価は上がる一方なのに、給料は全然上がらない。",
+      "furigana": "{物価|ぶっか}は{上|あ}がる{一方|いっぽう}なのに、{給料|きゅうりょう}は{全然|ぜんぜん}{上|あ}がらない。",
+      "en": "Prices keep going up and up, yet my salary doesn't rise at all.",
+      "vi": "Giá cả cứ tăng lên, nhưng lương của tôi không tăng chút nào."
+    },
+    {
+      "ja": "勉強をさぼっていたら、成績は下がる一方だった。",
+      "furigana": "{勉強|べんきょう}をさぼっていたら、{成績|せいせき}は{下|さ}がる{一方|いっぽう}だった。",
+      "en": "Since I kept skipping my studies, my grades just kept dropping.",
+      "vi": "Vì tôi liên tục bỏ học nên điểm số của tôi cứ tụt dốc."
+    }
+  ],
+  "tags": [
+    "change",
+    "tendency"
+  ],
+  "unitId": "grammar-n3-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n3-ippou-da-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この町の人口は、減る一方だ。",
+      "sentenceVi": "Dân số của thị trấn này ngày càng giảm.",
+      "targetGrammar": "〜一方だ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜一方だ」 mang ý nghĩa: \"Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)\"."
+    },
+    {
+      "id": "bunpou-n3-ippou-da-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "物価は上がる一方なのに、給料は全然上がらない。",
+      "sentenceVi": "Giá cả cứ tăng lên, nhưng lương của tôi không tăng chút nào.",
+      "targetGrammar": "〜一方だ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜一方だ",
+        "〜ものだ",
+        "〜ものではない",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Giá cả cứ tăng lên, nhưng lương của tôi không tăng chút nào.\", ta sử dụng mẫu 「〜一方だ」."
+    },
+    {
+      "id": "bunpou-n3-ippou-da-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "勉強をさぼっていたら、成績は下がる一方だった。",
+      "sentenceVi": "Vì tôi liên tục bỏ học nên điểm số của tôi cứ tụt dốc.",
+      "targetGrammar": "〜一方だ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜一方だ」 mang ý nghĩa: \"Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)\"."
+    },
+    {
+      "id": "bunpou-n3-ippou-da-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この町の人口は、減る一方だ。",
+      "sentenceVi": "Dân số của thị trấn này ngày càng giảm.",
+      "targetGrammar": "〜一方だ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)\":",
+      "options": [
+        "〜ことはない",
+        "〜ことになっている",
+        "〜一方だ",
+        "〜ことにしている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜一方だ」."
+    },
+    {
+      "id": "bunpou-n3-ippou-da-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この町の人口は、減る一方だ。",
+      "sentenceVi": "Dân số của thị trấn này ngày càng giảm.",
+      "targetGrammar": "〜一方だ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜一方だ」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜一方だ」 có nghĩa là: Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)."
+    }
+  ]
+}

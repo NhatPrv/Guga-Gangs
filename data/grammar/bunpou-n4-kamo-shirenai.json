@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-kamo-shirenai",
+  "level": "N4",
+  "pattern": "〜かもしれない",
+  "title": "〜かもしれない",
+  "meaning": "Có lẽ, có thể sẽ... (Phỏng đoán 50%)",
+  "meaningVi": "Có lẽ, có thể sẽ... (Phỏng đoán 50%)",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + かもしれない",
+  "usageNotes": "Chắc chắn khoảng 50% hoặc ít hơn. Trong cách nói thông thường, nó thường được rút ngắn thành かも.",
+  "examples": [
+    {
+      "ja": "午後から雨が降るかもしれません。",
+      "furigana": "{午後|ごご}から{雨|あめ}が{降|ふ}るかもしれません。",
+      "en": "It might rain in the afternoon.",
+      "vi": "Trời có thể mưa vào buổi chiều."
+    },
+    {
+      "ja": "かぎがない。電車の中で落としたかもしれない。",
+      "furigana": "かぎがない。{電車|でんしゃ}の{中|なか}で{落|お}としたかもしれない。",
+      "en": "My keys are gone. I might have dropped them on the train.",
+      "vi": "Chìa khóa của tôi đã biến mất. Có lẽ tôi đã đánh rơi chúng trên tàu."
+    },
+    {
+      "ja": "その話は本当かもしれない。",
+      "furigana": "その{話|はなし}は{本当|ほんとう}かもしれない。",
+      "en": "That story might be true.",
+      "vi": "Câu chuyện đó có thể là sự thật."
+    }
+  ],
+  "tags": [
+    "possibility",
+    "conjecture"
+  ],
+  "unitId": "grammar-n4-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n4-kamo-shirenai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "午後から雨が降るかもしれません。",
+      "sentenceVi": "Trời có thể mưa vào buổi chiều.",
+      "targetGrammar": "〜かもしれない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Có lẽ, có thể sẽ... (Phỏng đoán 50%)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜かもしれない」 mang ý nghĩa: \"Có lẽ, có thể sẽ... (Phỏng đoán 50%)\"."
+    },
+    {
+      "id": "bunpou-n4-kamo-shirenai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "かぎがない。電車の中で落としたかもしれない。",
+      "sentenceVi": "Chìa khóa của tôi đã biến mất. Có lẽ tôi đã đánh rơi chúng trên tàu.",
+      "targetGrammar": "〜かもしれない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜かもしれない",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜ていく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Chìa khóa của tôi đã biến mất. Có lẽ tôi đã đánh rơi chúng trên tàu.\", ta sử dụng mẫu 「〜かもしれない」."
+    },
+    {
+      "id": "bunpou-n4-kamo-shirenai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "その話は本当かもしれない。",
+      "sentenceVi": "Câu chuyện đó có thể là sự thật.",
+      "targetGrammar": "〜かもしれない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Có lẽ, có thể sẽ... (Phỏng đoán 50%)",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜かもしれない」 mang ý nghĩa: \"Có lẽ, có thể sẽ... (Phỏng đoán 50%)\"."
+    },
+    {
+      "id": "bunpou-n4-kamo-shirenai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "午後から雨が降るかもしれません。",
+      "sentenceVi": "Trời có thể mưa vào buổi chiều.",
+      "targetGrammar": "〜かもしれない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có lẽ, có thể sẽ... (Phỏng đoán 50%)\":",
+      "options": [
+        "〜とき",
+        "〜かもしれない",
+        "〜てある",
+        "〜てみる"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜かもしれない」."
+    },
+    {
+      "id": "bunpou-n4-kamo-shirenai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "午後から雨が降るかもしれません。",
+      "sentenceVi": "Trời có thể mưa vào buổi chiều.",
+      "targetGrammar": "〜かもしれない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜かもしれない」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Có lẽ, có thể sẽ... (Phỏng đoán 50%)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜かもしれない」 có nghĩa là: Có lẽ, có thể sẽ... (Phỏng đoán 50%)."
+    }
+  ]
+}

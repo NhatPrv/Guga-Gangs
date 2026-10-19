@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-mono-mon",
+  "level": "N3",
+  "pattern": "〜もの / 〜もん",
+  "title": "〜もの / 〜もん",
+  "meaning": "Bởi vì (lý do thông thường hoặc tự biện minh)",
+  "meaningVi": "Bởi vì (lý do thông thường hoặc tự biện minh)",
+  "connection": "Sentence + もの / もん",
+  "usageNotes": "Nghe có vẻ bĩu môi hoặc tự biện minh; thường bắt đầu bằng だって. もん thông tục hơn. Được sử dụng bởi trẻ em và giữa những người bạn thân; tránh ở nơi làm việc.",
+  "examples": [
+    {
+      "ja": "「どうして食べないの？」「だって、ピーマン嫌いなんだもん。」",
+      "furigana": "「どうして{食|た}べないの？」「だって、ピーマン{嫌|きら}いなんだもん。」",
+      "en": "'Why aren't you eating?' 'Because I hate green peppers!'",
+      "vi": "'Tại sao bạn không ăn?' 'Bởi vì tôi ghét ớt xanh!'"
+    },
+    {
+      "ja": "一人で行けるよ。もう子どもじゃないもん。",
+      "furigana": "{一人|ひとり}で{行|い}けるよ。もう{子|こ}どもじゃないもん。",
+      "en": "I can go by myself. I'm not a kid anymore!",
+      "vi": "Tôi có thể tự đi được. Tôi không còn là một đứa trẻ nữa!"
+    },
+    {
+      "ja": "ケーキ、全部食べちゃった。だって、すごくおいしかったんだもん。",
+      "furigana": "ケーキ、{全部|ぜんぶ}{食|た}べちゃった。だって、すごくおいしかったんだもん。",
+      "en": "I ate the whole cake. Well, it was just so good!",
+      "vi": "Tôi đã ăn hết cái bánh. Chà, nó thật tuyệt vời!"
+    }
+  ],
+  "tags": [
+    "reason",
+    "casual"
+  ],
+  "unitId": "grammar-n3-unit-02",
+  "questions": [
+    {
+      "id": "bunpou-n3-mono-mon-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「どうして食べないの？」「だって、ピーマン嫌いなんだもん。」",
+      "sentenceVi": "'Tại sao bạn không ăn?' 'Bởi vì tôi ghét ớt xanh!'",
+      "targetGrammar": "〜もの / 〜もん",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜もの / 〜もん」 mang ý nghĩa: \"Bởi vì (lý do thông thường hoặc tự biện minh)\"."
+    },
+    {
+      "id": "bunpou-n3-mono-mon-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "一人で行けるよ。もう子どもじゃないもん。",
+      "sentenceVi": "Tôi có thể tự đi được. Tôi không còn là một đứa trẻ nữa!",
+      "targetGrammar": "〜もの / 〜もん",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜もの / 〜もん",
+        "〜わけにはいかない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi có thể tự đi được. Tôi không còn là một đứa trẻ nữa!\", ta sử dụng mẫu 「〜もの / 〜もん」."
+    },
+    {
+      "id": "bunpou-n3-mono-mon-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ケーキ、全部食べちゃった。だって、すごくおいしかったんだもん。",
+      "sentenceVi": "Tôi đã ăn hết cái bánh. Chà, nó thật tuyệt vời!",
+      "targetGrammar": "〜もの / 〜もん",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không cần phải làm vậy; không cần phải làm vậy",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜もの / 〜もん」 mang ý nghĩa: \"Bởi vì (lý do thông thường hoặc tự biện minh)\"."
+    },
+    {
+      "id": "bunpou-n3-mono-mon-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "「どうして食べないの？」「だって、ピーマン嫌いなんだもん。」",
+      "sentenceVi": "'Tại sao bạn không ăn?' 'Bởi vì tôi ghét ớt xanh!'",
+      "targetGrammar": "〜もの / 〜もん",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bởi vì (lý do thông thường hoặc tự biện minh)\":",
+      "options": [
+        "〜ことにしている",
+        "〜こと（instruction）",
+        "〜ことになっている",
+        "〜もの / 〜もん"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜もの / 〜もん」."
+    },
+    {
+      "id": "bunpou-n3-mono-mon-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「どうして食べないの？」「だって、ピーマン嫌いなんだもん。」",
+      "sentenceVi": "'Tại sao bạn không ăn?' 'Bởi vì tôi ghét ớt xanh!'",
+      "targetGrammar": "〜もの / 〜もん",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜もの / 〜もん」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Không thể ; không có vẻ như nó sẽ",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜もの / 〜もん」 có nghĩa là: Bởi vì (lý do thông thường hoặc tự biện minh)."
+    }
+  ]
+}

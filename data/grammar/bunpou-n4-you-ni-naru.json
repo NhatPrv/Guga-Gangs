@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-you-ni-naru",
+  "level": "N4",
+  "pattern": "〜ようになる",
+  "title": "〜ようになる",
+  "meaning": "Trở nên có thể làm gì (Thay đổi trạng thái)",
+  "meaningVi": "Trở nên có thể làm gì (Thay đổi trạng thái)",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + ようになる",
+  "usageNotes": "Thường được sử dụng với các động từ tiềm năng. Đối với 'không còn nữa', 〜なくなる thường tự nhiên hơn 〜ないようになる.",
+  "examples": [
+    {
+      "ja": "練習して、自転車に乗れるようになりました。",
+      "furigana": "{練習|れんしゅう}して、{自転車|じてんしゃ}に{乗|の}れるようになりました。",
+      "en": "After practicing, I became able to ride a bike.",
+      "vi": "Sau khi luyện tập, tôi đã có thể đi xe đạp."
+    },
+    {
+      "ja": "日本に来てから、朝ご飯を食べるようになった。",
+      "furigana": "{日本|にほん}に{来|き}てから、{朝|あさ}ご{飯|はん}を{食|た}べるようになった。",
+      "en": "Since coming to Japan, I've started eating breakfast.",
+      "vi": "Kể từ khi đến Nhật Bản, tôi đã bắt đầu ăn sáng."
+    },
+    {
+      "ja": "赤ちゃんが少しずつ話せるようになってきた。",
+      "furigana": "{赤|あか}ちゃんが{少|すこ}しずつ{話|はな}せるようになってきた。",
+      "en": "Our baby is gradually learning to talk.",
+      "vi": "Con của chúng tôi đang dần học nói."
+    }
+  ],
+  "tags": [
+    "change",
+    "ability"
+  ],
+  "unitId": "grammar-n4-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n4-you-ni-naru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "練習して、自転車に乗れるようになりました。",
+      "sentenceVi": "Sau khi luyện tập, tôi đã có thể đi xe đạp.",
+      "targetGrammar": "〜ようになる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Trở nên có thể làm gì (Thay đổi trạng thái)",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ようになる」 mang ý nghĩa: \"Trở nên có thể làm gì (Thay đổi trạng thái)\"."
+    },
+    {
+      "id": "bunpou-n4-you-ni-naru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本に来てから、朝ご飯を食べるようになった。",
+      "sentenceVi": "Kể từ khi đến Nhật Bản, tôi đã bắt đầu ăn sáng.",
+      "targetGrammar": "〜ようになる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ようになる",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜ていく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Kể từ khi đến Nhật Bản, tôi đã bắt đầu ăn sáng.\", ta sử dụng mẫu 「〜ようになる」."
+    },
+    {
+      "id": "bunpou-n4-you-ni-naru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "赤ちゃんが少しずつ話せるようになってきた。",
+      "sentenceVi": "Con của chúng tôi đang dần học nói.",
+      "targetGrammar": "〜ようになる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Trở nên có thể làm gì (Thay đổi trạng thái)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ようになる」 mang ý nghĩa: \"Trở nên có thể làm gì (Thay đổi trạng thái)\"."
+    },
+    {
+      "id": "bunpou-n4-you-ni-naru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "練習して、自転車に乗れるようになりました。",
+      "sentenceVi": "Sau khi luyện tập, tôi đã có thể đi xe đạp.",
+      "targetGrammar": "〜ようになる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trở nên có thể làm gì (Thay đổi trạng thái)\":",
+      "options": [
+        "〜とき",
+        "〜ようになる",
+        "〜てみる",
+        "〜てある"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ようになる」."
+    },
+    {
+      "id": "bunpou-n4-you-ni-naru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "練習して、自転車に乗れるようになりました。",
+      "sentenceVi": "Sau khi luyện tập, tôi đã có thể đi xe đạp.",
+      "targetGrammar": "〜ようになる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ようになる」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trở nên có thể làm gì (Thay đổi trạng thái)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ようになる」 có nghĩa là: Trở nên có thể làm gì (Thay đổi trạng thái)."
+    }
+  ]
+}

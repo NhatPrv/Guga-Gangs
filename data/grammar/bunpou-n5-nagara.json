@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-nagara",
+  "level": "N5",
+  "pattern": "〜ながら（while）",
+  "title": "〜ながら（while）",
+  "meaning": "While (làm 2 việc cùng lúc)",
+  "meaningVi": "While (làm 2 việc cùng lúc)",
+  "connection": "Động từ (V)-stem + ながら",
+  "usageNotes": "Cả hai hành động đều được thực hiện bởi cùng một người. Hành động chính diễn ra sau cùng: trong A-ながら B, B là hành động chính.",
+  "examples": [
+    {
+      "ja": "音楽を聞きながら勉強します。",
+      "furigana": "{音楽|おんがく}を{聞|き}きながら{勉強|べんきょう}します。",
+      "en": "I study while listening to music.",
+      "vi": "Tôi vừa học vừa nghe nhạc."
+    },
+    {
+      "ja": "父はいつも新聞を読みながら朝ご飯を食べます。",
+      "furigana": "{父|ちち}はいつも{新聞|しんぶん}を{読|よ}みながら{朝|あさ}ご{飯|はん}を{食|た}べます。",
+      "en": "My father always eats breakfast while reading the newspaper.",
+      "vi": "Bố tôi luôn ăn sáng trong khi đọc báo."
+    },
+    {
+      "ja": "コーヒーを飲みながら話しましょう。",
+      "furigana": "コーヒーを{飲|の}みながら{話|はな}しましょう。",
+      "en": "Let's talk over coffee.",
+      "vi": "Hãy nói chuyện bên cà phê."
+    }
+  ],
+  "tags": [
+    "simultaneity"
+  ],
+  "unitId": "grammar-n5-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n5-nagara-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "音楽を聞きながら勉強します。",
+      "sentenceVi": "Tôi vừa học vừa nghe nhạc.",
+      "targetGrammar": "〜ながら（while）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "While (làm 2 việc cùng lúc)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ながら（while）」 mang ý nghĩa: \"While (làm 2 việc cùng lúc)\"."
+    },
+    {
+      "id": "bunpou-n5-nagara-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "父はいつも新聞を読みながら朝ご飯を食べます。",
+      "sentenceVi": "Bố tôi luôn ăn sáng trong khi đọc báo.",
+      "targetGrammar": "〜ながら（while）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ながら（while）",
+        "〜に（place of existence）",
+        "〜に（time）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Bố tôi luôn ăn sáng trong khi đọc báo.\", ta sử dụng mẫu 「〜ながら（while）」."
+    },
+    {
+      "id": "bunpou-n5-nagara-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "コーヒーを飲みながら話しましょう。",
+      "sentenceVi": "Hãy nói chuyện bên cà phê.",
+      "targetGrammar": "〜ながら（while）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "While (làm 2 việc cùng lúc)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ながら（while）」 mang ý nghĩa: \"While (làm 2 việc cùng lúc)\"."
+    },
+    {
+      "id": "bunpou-n5-nagara-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "音楽を聞きながら勉強します。",
+      "sentenceVi": "Tôi vừa học vừa nghe nhạc.",
+      "targetGrammar": "〜ながら（while）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"While (làm 2 việc cùng lúc)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜ながら（while）",
+        "〜と（and）",
+        "〜で（means）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ながら（while）」."
+    },
+    {
+      "id": "bunpou-n5-nagara-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "音楽を聞きながら勉強します。",
+      "sentenceVi": "Tôi vừa học vừa nghe nhạc.",
+      "targetGrammar": "〜ながら（while）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ながら（while）」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "While (làm 2 việc cùng lúc)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ながら（while）」 có nghĩa là: While (làm 2 việc cùng lúc)."
+    }
+  ]
+}

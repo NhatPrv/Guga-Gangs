@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ni-suru",
+  "level": "N5",
+  "pattern": "〜にする（decide）",
+  "title": "〜にする（decide）",
+  "meaning": "Quyết định; chọn; tôi sẽ có",
+  "meaningVi": "Quyết định; chọn; tôi sẽ có",
+  "connection": "Danh từ (N) + にする",
+  "usageNotes": "Phổ biến khi đặt món ăn hoặc chọn từ các tùy chọn. Quá khứ: 〜にしました (Tôi đã quyết định về...).",
+  "examples": [
+    {
+      "ja": "私はカレーにします。",
+      "furigana": "{私|わたし}はカレーにします。",
+      "en": "I'll have the curry.",
+      "vi": "Tôi sẽ ăn cà ri."
+    },
+    {
+      "ja": "飲み物は何にしますか。",
+      "furigana": "{飲|の}み{物|もの}は{何|なに}にしますか。",
+      "en": "What would you like to drink?",
+      "vi": "Bạn muốn uống gì?"
+    },
+    {
+      "ja": "旅行は来月にしましょう。",
+      "furigana": "{旅行|りょこう}は{来月|らいげつ}にしましょう。",
+      "en": "Let's plan the trip for next month.",
+      "vi": "Hãy lên kế hoạch cho chuyến đi vào tháng tới."
+    }
+  ],
+  "tags": [
+    "decision"
+  ],
+  "unitId": "grammar-n5-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n5-ni-suru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私はカレーにします。",
+      "sentenceVi": "Tôi sẽ ăn cà ri.",
+      "targetGrammar": "〜にする（decide）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Quyết định; chọn; tôi sẽ có"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜にする（decide）」 mang ý nghĩa: \"Quyết định; chọn; tôi sẽ có\"."
+    },
+    {
+      "id": "bunpou-n5-ni-suru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "飲み物は何にしますか。",
+      "sentenceVi": "Bạn muốn uống gì?",
+      "targetGrammar": "〜にする（decide）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜にする（decide）",
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn muốn uống gì?\", ta sử dụng mẫu 「〜にする（decide）」."
+    },
+    {
+      "id": "bunpou-n5-ni-suru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "旅行は来月にしましょう。",
+      "sentenceVi": "Hãy lên kế hoạch cho chuyến đi vào tháng tới.",
+      "targetGrammar": "〜にする（decide）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Quyết định; chọn; tôi sẽ có",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜にする（decide）」 mang ý nghĩa: \"Quyết định; chọn; tôi sẽ có\"."
+    },
+    {
+      "id": "bunpou-n5-ni-suru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私はカレーにします。",
+      "sentenceVi": "Tôi sẽ ăn cà ri.",
+      "targetGrammar": "〜にする（decide）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Quyết định; chọn; tôi sẽ có\":",
+      "options": [
+        "〜と（and）",
+        "〜で（means）",
+        "〜で（place of action）",
+        "〜にする（decide）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜にする（decide）」."
+    },
+    {
+      "id": "bunpou-n5-ni-suru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私はカレーにします。",
+      "sentenceVi": "Tôi sẽ ăn cà ri.",
+      "targetGrammar": "〜にする（decide）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜にする（decide）」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Quyết định; chọn; tôi sẽ có",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜にする（decide）」 có nghĩa là: Quyết định; chọn; tôi sẽ có."
+    }
+  ]
+}

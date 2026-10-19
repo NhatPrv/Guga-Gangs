@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-ka-dou-ka",
+  "level": "N4",
+  "pattern": "〜かどうか",
+  "title": "〜かどうか",
+  "meaning": "Có hay không",
+  "meaningVi": "Có hay không",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + かどうか",
+  "usageNotes": "Nhúng câu hỏi có-không vào câu. Đối với các câu hỏi có từ để hỏi, chỉ sử dụng 〜か (何時に来るか).",
+  "examples": [
+    {
+      "ja": "明日行けるかどうか、まだ分かりません。",
+      "furigana": "{明日|あした}{行|い}けるかどうか、まだ{分|わ}かりません。",
+      "en": "I don't know yet whether I can go tomorrow.",
+      "vi": "Tôi vẫn chưa biết liệu ngày mai tôi có thể đi được không."
+    },
+    {
+      "ja": "この服が似合うかどうか、ちょっと着てみます。",
+      "furigana": "この{服|ふく}が{似合|にあ}うかどうか、ちょっと{着|き}てみます。",
+      "en": "I'll try this on to see whether it suits me.",
+      "vi": "Tôi sẽ thử cái này xem nó có phù hợp với tôi không."
+    },
+    {
+      "ja": "そのレストランがおいしいかどうか、友達に聞いてみよう。",
+      "furigana": "そのレストランがおいしいかどうか、{友達|ともだち}に{聞|き}いてみよう。",
+      "en": "I'll ask my friend whether that restaurant is any good.",
+      "vi": "Tôi sẽ hỏi bạn tôi xem nhà hàng đó có ngon không."
+    }
+  ],
+  "tags": [
+    "question"
+  ],
+  "unitId": "grammar-n4-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n4-ka-dou-ka-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日行けるかどうか、まだ分かりません。",
+      "sentenceVi": "Tôi vẫn chưa biết liệu ngày mai tôi có thể đi được không.",
+      "targetGrammar": "〜かどうか",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Có hay không",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜かどうか」 mang ý nghĩa: \"Có hay không\"."
+    },
+    {
+      "id": "bunpou-n4-ka-dou-ka-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この服が似合うかどうか、ちょっと着てみます。",
+      "sentenceVi": "Tôi sẽ thử cái này xem nó có phù hợp với tôi không.",
+      "targetGrammar": "〜かどうか",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜かどうか"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi sẽ thử cái này xem nó có phù hợp với tôi không.\", ta sử dụng mẫu 「〜かどうか」."
+    },
+    {
+      "id": "bunpou-n4-ka-dou-ka-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "そのレストランがおいしいかどうか、友達に聞いてみよう。",
+      "sentenceVi": "Tôi sẽ hỏi bạn tôi xem nhà hàng đó có ngon không.",
+      "targetGrammar": "〜かどうか",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Có hay không"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜かどうか」 mang ý nghĩa: \"Có hay không\"."
+    },
+    {
+      "id": "bunpou-n4-ka-dou-ka-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "明日行けるかどうか、まだ分かりません。",
+      "sentenceVi": "Tôi vẫn chưa biết liệu ngày mai tôi có thể đi được không.",
+      "targetGrammar": "〜かどうか",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có hay không\":",
+      "options": [
+        "〜てみる",
+        "〜てある",
+        "〜かどうか",
+        "〜とき"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜かどうか」."
+    },
+    {
+      "id": "bunpou-n4-ka-dou-ka-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日行けるかどうか、まだ分かりません。",
+      "sentenceVi": "Tôi vẫn chưa biết liệu ngày mai tôi có thể đi được không.",
+      "targetGrammar": "〜かどうか",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜かどうか」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Có hay không"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜かどうか」 có nghĩa là: Có hay không."
+    }
+  ]
+}

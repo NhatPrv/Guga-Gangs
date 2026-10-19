@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-masu-you-ni",
+  "level": "N3",
+  "pattern": "〜ますように",
+  "title": "〜ますように",
+  "meaning": "Tôi hy vọng; tháng năm (mong muốn, cầu nguyện)",
+  "meaningVi": "Tôi hy vọng; tháng năm (mong muốn, cầu nguyện)",
+  "connection": "Động từ (V)-stem + ますように / Động từ (V)-stem + ませんように",
+  "usageNotes": "Được sử dụng cho những lời chúc và lời cầu nguyện, ví dụ: tại một ngôi đền hoặc trên dải tanabata, và ở cuối bức thư chúc ai đó mọi điều tốt lành.",
+  "examples": [
+    {
+      "ja": "試験に合格できますように。",
+      "furigana": "{試験|しけん}に{合格|ごうかく}できますように。",
+      "en": "I hope I pass the exam.",
+      "vi": "Tôi hy vọng tôi vượt qua kỳ thi."
+    },
+    {
+      "ja": "明日の遠足、雨が降りませんように。",
+      "furigana": "{明日|あした}の{遠足|えんそく}、{雨|あめ}が{降|ふ}りませんように。",
+      "en": "Please don't let it rain on tomorrow's school outing.",
+      "vi": "Xin đừng để trời mưa trong buổi dã ngoại ngày mai."
+    },
+    {
+      "ja": "家族みんなが元気で過ごせますように。",
+      "furigana": "{家族|かぞく}みんなが{元気|げんき}で{過|す}ごせますように。",
+      "en": "May everyone in my family stay healthy.",
+      "vi": "Cầu mong mọi người trong gia đình tôi luôn khỏe mạnh."
+    }
+  ],
+  "tags": [
+    "wish"
+  ],
+  "unitId": "grammar-n3-unit-17",
+  "questions": [
+    {
+      "id": "bunpou-n3-masu-you-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "試験に合格できますように。",
+      "sentenceVi": "Tôi hy vọng tôi vượt qua kỳ thi.",
+      "targetGrammar": "〜ますように",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Tôi hy vọng; tháng năm (mong muốn, cầu nguyện)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ますように」 mang ý nghĩa: \"Tôi hy vọng; tháng năm (mong muốn, cầu nguyện)\"."
+    },
+    {
+      "id": "bunpou-n3-masu-you-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "明日の遠足、雨が降りませんように。",
+      "sentenceVi": "Xin đừng để trời mưa trong buổi dã ngoại ngày mai.",
+      "targetGrammar": "〜ますように",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ますように",
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Xin đừng để trời mưa trong buổi dã ngoại ngày mai.\", ta sử dụng mẫu 「〜ますように」."
+    },
+    {
+      "id": "bunpou-n3-masu-you-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "家族みんなが元気で過ごせますように。",
+      "sentenceVi": "Cầu mong mọi người trong gia đình tôi luôn khỏe mạnh.",
+      "targetGrammar": "〜ますように",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tôi hy vọng; tháng năm (mong muốn, cầu nguyện)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ますように」 mang ý nghĩa: \"Tôi hy vọng; tháng năm (mong muốn, cầu nguyện)\"."
+    },
+    {
+      "id": "bunpou-n3-masu-you-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "試験に合格できますように。",
+      "sentenceVi": "Tôi hy vọng tôi vượt qua kỳ thi.",
+      "targetGrammar": "〜ますように",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tôi hy vọng; tháng năm (mong muốn, cầu nguyện)\":",
+      "options": [
+        "〜ますように",
+        "〜ことになっている",
+        "〜ことはない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ますように」."
+    },
+    {
+      "id": "bunpou-n3-masu-you-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "試験に合格できますように。",
+      "sentenceVi": "Tôi hy vọng tôi vượt qua kỳ thi.",
+      "targetGrammar": "〜ますように",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ますように」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Tôi hy vọng; tháng năm (mong muốn, cầu nguyện)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ますように」 có nghĩa là: Tôi hy vọng; tháng năm (mong muốn, cầu nguyện)."
+    }
+  ]
+}

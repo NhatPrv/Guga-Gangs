@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-koto-ga-dekiru",
+  "level": "N4",
+  "pattern": "〜ことができる",
+  "title": "〜ことができる",
+  "meaning": "Có thể; có thể ; có thể",
+  "meaningVi": "Có thể; có thể ; có thể",
+  "connection": "Động từ (V)-dict + ことができる",
+  "usageNotes": "Trang trọng hơn một chút so với hình thức tiềm năng. Cũng được dùng cho những việc có thể hoặc được phép (ここでたばこを吸うことはできません).",
+  "examples": [
+    {
+      "ja": "この図書館では、本を二週間借りることができます。",
+      "furigana": "この{図書館|としょかん}では、{本|ほん}を{二|に}{週間|しゅうかん}{借|か}りることができます。",
+      "en": "At this library, you can borrow books for two weeks.",
+      "vi": "Tại thư viện này, bạn có thể mượn sách trong hai tuần."
+    },
+    {
+      "ja": "妹はピアノを弾くことができる。",
+      "furigana": "{妹|いもうと}はピアノを{弾|ひ}くことができる。",
+      "en": "My little sister can play the piano.",
+      "vi": "Em gái tôi có thể chơi piano."
+    },
+    {
+      "ja": "ここからは富士山を見ることができません。",
+      "furigana": "ここからは{富士山|ふじさん}を{見|み}ることができません。",
+      "en": "You can't see Mt. Fuji from here.",
+      "vi": "Bạn không thể nhìn thấy Núi Phú Sĩ từ đây."
+    }
+  ],
+  "tags": [
+    "ability",
+    "possibility"
+  ],
+  "unitId": "grammar-n4-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n4-koto-ga-dekiru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この図書館では、本を二週間借りることができます。",
+      "sentenceVi": "Tại thư viện này, bạn có thể mượn sách trong hai tuần.",
+      "targetGrammar": "〜ことができる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Có thể; có thể ; có thể",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ことができる」 mang ý nghĩa: \"Có thể; có thể ; có thể\"."
+    },
+    {
+      "id": "bunpou-n4-koto-ga-dekiru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "妹はピアノを弾くことができる。",
+      "sentenceVi": "Em gái tôi có thể chơi piano.",
+      "targetGrammar": "〜ことができる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜ていく",
+        "〜ことができる"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Em gái tôi có thể chơi piano.\", ta sử dụng mẫu 「〜ことができる」."
+    },
+    {
+      "id": "bunpou-n4-koto-ga-dekiru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ここからは富士山を見ることができません。",
+      "sentenceVi": "Bạn không thể nhìn thấy Núi Phú Sĩ từ đây.",
+      "targetGrammar": "〜ことができる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Có thể; có thể ; có thể",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ことができる」 mang ý nghĩa: \"Có thể; có thể ; có thể\"."
+    },
+    {
+      "id": "bunpou-n4-koto-ga-dekiru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この図書館では、本を二週間借りることができます。",
+      "sentenceVi": "Tại thư viện này, bạn có thể mượn sách trong hai tuần.",
+      "targetGrammar": "〜ことができる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có thể; có thể ; có thể\":",
+      "options": [
+        "〜とき",
+        "〜ことができる",
+        "〜てある",
+        "〜てみる"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ことができる」."
+    },
+    {
+      "id": "bunpou-n4-koto-ga-dekiru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この図書館では、本を二週間借りることができます。",
+      "sentenceVi": "Tại thư viện này, bạn có thể mượn sách trong hai tuần.",
+      "targetGrammar": "〜ことができる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ことができる」 là gì?",
+      "options": [
+        "Có thể; có thể ; có thể",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ことができる」 có nghĩa là: Có thể; có thể ; có thể."
+    }
+  ]
+}

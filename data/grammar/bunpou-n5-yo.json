@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-yo",
+  "level": "N5",
+  "pattern": "〜よ",
+  "title": "〜よ",
+  "meaning": "...đấy, ...nhé (Cung cấp thông tin mới, nhấn mạnh)",
+  "meaningVi": "...đấy, ...nhé (Cung cấp thông tin mới, nhấn mạnh)",
+  "connection": "Sentence + よ",
+  "usageNotes": "Nói với người nghe điều gì đó mà họ có thể không biết. Việc lạm dụng nó với cấp trên nghe có vẻ tự đề cao.",
+  "examples": [
+    {
+      "ja": "このラーメンはとてもおいしいですよ。",
+      "furigana": "このラーメンはとてもおいしいですよ。",
+      "en": "This ramen is really good, you know.",
+      "vi": "Món ramen này thực sự ngon đấy, bạn biết đấy."
+    },
+    {
+      "ja": "かさを忘れていますよ。",
+      "furigana": "かさを{忘|わす}れていますよ。",
+      "en": "You're forgetting your umbrella.",
+      "vi": "Bạn đang quên chiếc ô của mình."
+    },
+    {
+      "ja": "明日はテストがありますよ。",
+      "furigana": "{明日|あした}はテストがありますよ。",
+      "en": "There's a test tomorrow, you know.",
+      "vi": "Ngày mai có bài kiểm tra, cậu biết đấy."
+    }
+  ],
+  "tags": [
+    "particle",
+    "emphasis"
+  ],
+  "unitId": "grammar-n5-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n5-yo-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このラーメンはとてもおいしいですよ。",
+      "sentenceVi": "Món ramen này thực sự ngon đấy, bạn biết đấy.",
+      "targetGrammar": "〜よ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "...đấy, ...nhé (Cung cấp thông tin mới, nhấn mạnh)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜よ」 mang ý nghĩa: \"...đấy, ...nhé (Cung cấp thông tin mới, nhấn mạnh)\"."
+    },
+    {
+      "id": "bunpou-n5-yo-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "かさを忘れていますよ。",
+      "sentenceVi": "Bạn đang quên chiếc ô của mình.",
+      "targetGrammar": "〜よ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜よ",
+        "〜に（destination）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn đang quên chiếc ô của mình.\", ta sử dụng mẫu 「〜よ」."
+    },
+    {
+      "id": "bunpou-n5-yo-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日はテストがありますよ。",
+      "sentenceVi": "Ngày mai có bài kiểm tra, cậu biết đấy.",
+      "targetGrammar": "〜よ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "...đấy, ...nhé (Cung cấp thông tin mới, nhấn mạnh)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜よ」 mang ý nghĩa: \"...đấy, ...nhé (Cung cấp thông tin mới, nhấn mạnh)\"."
+    },
+    {
+      "id": "bunpou-n5-yo-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このラーメンはとてもおいしいですよ。",
+      "sentenceVi": "Món ramen này thực sự ngon đấy, bạn biết đấy.",
+      "targetGrammar": "〜よ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"...đấy, ...nhé (Cung cấp thông tin mới, nhấn mạnh)\":",
+      "options": [
+        "〜よ",
+        "〜と（and）",
+        "〜で（place of action）",
+        "〜で（means）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜よ」."
+    },
+    {
+      "id": "bunpou-n5-yo-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このラーメンはとてもおいしいですよ。",
+      "sentenceVi": "Món ramen này thực sự ngon đấy, bạn biết đấy.",
+      "targetGrammar": "〜よ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜よ」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "...đấy, ...nhé (Cung cấp thông tin mới, nhấn mạnh)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜よ」 có nghĩa là: ...đấy, ...nhé (Cung cấp thông tin mới, nhấn mạnh)."
+    }
+  ]
+}

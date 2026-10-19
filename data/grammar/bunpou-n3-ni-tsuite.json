@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-ni-tsuite",
+  "level": "N3",
+  "pattern": "〜について",
+  "title": "〜について",
+  "meaning": "Về việc... / Về chủ đề...",
+  "meaningVi": "Về việc... / Về chủ đề...",
+  "connection": "Danh từ (N) + について / Danh từ (N) + についての + Danh từ (N)",
+  "usageNotes": "Đánh dấu chủ đề nói, suy nghĩ hoặc nghiên cứu. Trang trọng hơn: 〜に関して. So sánh 〜に対して (mục tiêu của thái độ hoặc hành động).",
+  "examples": [
+    {
+      "ja": "今日の授業では、日本の食文化について話し合いました。",
+      "furigana": "{今日|きょう}の{授業|じゅぎょう}では、{日本|にほん}の{食|しょく}{文化|ぶんか}について{話|はな}し{合|あ}いました。",
+      "en": "In today's class, we discussed Japanese food culture.",
+      "vi": "Trong lớp học hôm nay chúng ta đã thảo luận về văn hóa ẩm thực Nhật Bản."
+    },
+    {
+      "ja": "新しい商品についての質問は、こちらのメールアドレスまでお送りください。",
+      "furigana": "{新|あたら}しい{商品|しょうひん}についての{質問|しつもん}は、こちらのメールアドレスまでお{送|おく}りください。",
+      "en": "Please send any questions about the new product to this email address.",
+      "vi": "Vui lòng gửi mọi thắc mắc về sản phẩm mới tới địa chỉ email này."
+    },
+    {
+      "ja": "その事件について、警察はまだ何も発表していない。",
+      "furigana": "その{事件|じけん}について、{警察|けいさつ}はまだ{何|なに}も{発表|はっぴょう}していない。",
+      "en": "The police haven't announced anything about the incident yet.",
+      "vi": "Cảnh sát vẫn chưa công bố gì về vụ việc."
+    }
+  ],
+  "tags": [
+    "topic",
+    "relation"
+  ],
+  "unitId": "grammar-n3-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-tsuite-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日の授業では、日本の食文化について話し合いました。",
+      "sentenceVi": "Trong lớp học hôm nay chúng ta đã thảo luận về văn hóa ẩm thực Nhật Bản.",
+      "targetGrammar": "〜について",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Về việc... / Về chủ đề...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜について」 mang ý nghĩa: \"Về việc... / Về chủ đề...\"."
+    },
+    {
+      "id": "bunpou-n3-ni-tsuite-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "新しい商品についての質問は、こちらのメールアドレスまでお送りください。",
+      "sentenceVi": "Vui lòng gửi mọi thắc mắc về sản phẩm mới tới địa chỉ email này.",
+      "targetGrammar": "〜について",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜について",
+        "〜わけにはいかない",
+        "〜ものではない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Vui lòng gửi mọi thắc mắc về sản phẩm mới tới địa chỉ email này.\", ta sử dụng mẫu 「〜について」."
+    },
+    {
+      "id": "bunpou-n3-ni-tsuite-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "その事件について、警察はまだ何も発表していない。",
+      "sentenceVi": "Cảnh sát vẫn chưa công bố gì về vụ việc.",
+      "targetGrammar": "〜について",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Về việc... / Về chủ đề..."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜について」 mang ý nghĩa: \"Về việc... / Về chủ đề...\"."
+    },
+    {
+      "id": "bunpou-n3-ni-tsuite-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日の授業では、日本の食文化について話し合いました。",
+      "sentenceVi": "Trong lớp học hôm nay chúng ta đã thảo luận về văn hóa ẩm thực Nhật Bản.",
+      "targetGrammar": "〜について",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Về việc... / Về chủ đề...\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことはない",
+        "〜ことにしている",
+        "〜について"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜について」."
+    },
+    {
+      "id": "bunpou-n3-ni-tsuite-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日の授業では、日本の食文化について話し合いました。",
+      "sentenceVi": "Trong lớp học hôm nay chúng ta đã thảo luận về văn hóa ẩm thực Nhật Bản.",
+      "targetGrammar": "〜について",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜について」 là gì?",
+      "options": [
+        "Về việc... / Về chủ đề...",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜について」 có nghĩa là: Về việc... / Về chủ đề...."
+    }
+  ]
+}

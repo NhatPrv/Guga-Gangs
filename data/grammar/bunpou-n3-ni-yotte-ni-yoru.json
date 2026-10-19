@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-ni-yotte-ni-yoru",
+  "level": "N3",
+  "pattern": "〜によって / 〜による",
+  "title": "〜によって / 〜による",
+  "meaning": "Bởi (đại lý); bằng cách; bởi vì; tùy thuộc vào",
+  "meaningVi": "Bởi (đại lý); bằng cách; bởi vì; tùy thuộc vào",
+  "connection": "Danh từ (N) + によって / Danh từ (N) + による + Danh từ (N)",
+  "usageNotes": "Công dụng: tác nhân của thể bị động (trang trọng, để tạo ra hoặc khám phá), nguyên nhân, phương tiện và 'thay đổi tùy theo'. 〜によっては = 'trong một số trường hợp, tùy thuộc vào'.",
+  "examples": [
+    {
+      "ja": "この橋は、有名な建築家によって設計された。",
+      "furigana": "この{橋|はし}は、{有名|ゆうめい}な{建築|けんちく}{家|か}によって{設計|せっけい}された。",
+      "en": "This bridge was designed by a famous architect.",
+      "vi": "Cây cầu này được thiết kế bởi một kiến ​​trúc sư nổi tiếng."
+    },
+    {
+      "ja": "台風による被害は、まだ正確には分かっていない。",
+      "furigana": "{台風|たいふう}による{被害|ひがい}は、まだ{正確|せいかく}には{分|わ}かっていない。",
+      "en": "The full extent of the damage caused by the typhoon is still unknown.",
+      "vi": "Hiện chưa rõ mức độ thiệt hại đầy đủ do cơn bão gây ra."
+    },
+    {
+      "ja": "国によって、食事のマナーはずいぶん違う。",
+      "furigana": "{国|くに}によって、{食事|しょくじ}のマナーはずいぶん{違|ちが}う。",
+      "en": "Table manners differ quite a lot from country to country.",
+      "vi": "Cách cư xử trên bàn ăn khác nhau khá nhiều giữa các quốc gia."
+    }
+  ],
+  "tags": [
+    "means",
+    "reason",
+    "voice"
+  ],
+  "unitId": "grammar-n3-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-yotte-ni-yoru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この橋は、有名な建築家によって設計された。",
+      "sentenceVi": "Cây cầu này được thiết kế bởi một kiến ​​trúc sư nổi tiếng.",
+      "targetGrammar": "〜によって / 〜による",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Bởi (đại lý); bằng cách; bởi vì; tùy thuộc vào",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜によって / 〜による」 mang ý nghĩa: \"Bởi (đại lý); bằng cách; bởi vì; tùy thuộc vào\"."
+    },
+    {
+      "id": "bunpou-n3-ni-yotte-ni-yoru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "台風による被害は、まだ正確には分かっていない。",
+      "sentenceVi": "Hiện chưa rõ mức độ thiệt hại đầy đủ do cơn bão gây ra.",
+      "targetGrammar": "〜によって / 〜による",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜わけにはいかない",
+        "〜によって / 〜による",
+        "〜ものではない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Hiện chưa rõ mức độ thiệt hại đầy đủ do cơn bão gây ra.\", ta sử dụng mẫu 「〜によって / 〜による」."
+    },
+    {
+      "id": "bunpou-n3-ni-yotte-ni-yoru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "国によって、食事のマナーはずいぶん違う。",
+      "sentenceVi": "Cách cư xử trên bàn ăn khác nhau khá nhiều giữa các quốc gia.",
+      "targetGrammar": "〜によって / 〜による",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi (đại lý); bằng cách; bởi vì; tùy thuộc vào",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜によって / 〜による」 mang ý nghĩa: \"Bởi (đại lý); bằng cách; bởi vì; tùy thuộc vào\"."
+    },
+    {
+      "id": "bunpou-n3-ni-yotte-ni-yoru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この橋は、有名な建築家によって設計された。",
+      "sentenceVi": "Cây cầu này được thiết kế bởi một kiến ​​trúc sư nổi tiếng.",
+      "targetGrammar": "〜によって / 〜による",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bởi (đại lý); bằng cách; bởi vì; tùy thuộc vào\":",
+      "options": [
+        "〜ことになっている",
+        "〜によって / 〜による",
+        "〜ことはない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜によって / 〜による」."
+    },
+    {
+      "id": "bunpou-n3-ni-yotte-ni-yoru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この橋は、有名な建築家によって設計された。",
+      "sentenceVi": "Cây cầu này được thiết kế bởi một kiến ​​trúc sư nổi tiếng.",
+      "targetGrammar": "〜によって / 〜による",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜によって / 〜による」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bởi (đại lý); bằng cách; bởi vì; tùy thuộc vào"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜によって / 〜による」 có nghĩa là: Bởi (đại lý); bằng cách; bởi vì; tùy thuộc vào."
+    }
+  ]
+}

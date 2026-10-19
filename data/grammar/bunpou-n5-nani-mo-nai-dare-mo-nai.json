@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-nani-mo-nai-dare-mo-nai",
+  "level": "N5",
+  "pattern": "何も〜ない / 誰も〜ない",
+  "title": "何も〜ない / 誰も〜ない",
+  "meaning": "Không có gì; không ai; không phải bất cứ điều gì; không phải ai cả",
+  "meaningVi": "Không có gì; không ai; không phải bất cứ điều gì; không phải ai cả",
+  "connection": "何も + Động từ (V)-nai / 誰も + Động từ (V)-nai",
+  "usageNotes": "Với địa điểm, trợ từ đứng trước も: どこにも / どこへも行きません (không đi đến đâu). 誰 thường được viết bằng hiragana: だれ.",
+  "examples": [
+    {
+      "ja": "けさは何も食べませんでした。",
+      "furigana": "けさは{何|なに}も{食|た}べませんでした。",
+      "en": "I didn't eat anything this morning.",
+      "vi": "Sáng nay tôi chưa ăn gì cả."
+    },
+    {
+      "ja": "教室にはだれもいません。",
+      "furigana": "{教室|きょうしつ}にはだれもいません。",
+      "en": "There's nobody in the classroom.",
+      "vi": "Không có ai trong lớp học."
+    },
+    {
+      "ja": "冷蔵庫の中には何もありません。",
+      "furigana": "{冷蔵庫|れいぞうこ}の{中|なか}には{何|なに}もありません。",
+      "en": "There's nothing in the fridge.",
+      "vi": "Chẳng có gì trong tủ lạnh cả."
+    }
+  ],
+  "tags": [
+    "negation"
+  ],
+  "unitId": "grammar-n5-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n5-nani-mo-nai-dare-mo-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "けさは何も食べませんでした。",
+      "sentenceVi": "Sáng nay tôi chưa ăn gì cả.",
+      "targetGrammar": "何も〜ない / 誰も〜ない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Không có gì; không ai; không phải bất cứ điều gì; không phải ai cả",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「何も〜ない / 誰も〜ない」 mang ý nghĩa: \"Không có gì; không ai; không phải bất cứ điều gì; không phải ai cả\"."
+    },
+    {
+      "id": "bunpou-n5-nani-mo-nai-dare-mo-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "教室にはだれもいません。",
+      "sentenceVi": "Không có ai trong lớp học.",
+      "targetGrammar": "何も〜ない / 誰も〜ない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "何も〜ない / 誰も〜ない",
+        "〜に（destination）",
+        "〜に（time）",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Không có ai trong lớp học.\", ta sử dụng mẫu 「何も〜ない / 誰も〜ない」."
+    },
+    {
+      "id": "bunpou-n5-nani-mo-nai-dare-mo-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "冷蔵庫の中には何もありません。",
+      "sentenceVi": "Chẳng có gì trong tủ lạnh cả.",
+      "targetGrammar": "何も〜ない / 誰も〜ない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Không có gì; không ai; không phải bất cứ điều gì; không phải ai cả"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「何も〜ない / 誰も〜ない」 mang ý nghĩa: \"Không có gì; không ai; không phải bất cứ điều gì; không phải ai cả\"."
+    },
+    {
+      "id": "bunpou-n5-nani-mo-nai-dare-mo-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "けさは何も食べませんでした。",
+      "sentenceVi": "Sáng nay tôi chưa ăn gì cả.",
+      "targetGrammar": "何も〜ない / 誰も〜ない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không có gì; không ai; không phải bất cứ điều gì; không phải ai cả\":",
+      "options": [
+        "何も〜ない / 誰も〜ない",
+        "〜で（means）",
+        "〜で（place of action）",
+        "〜と（and）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「何も〜ない / 誰も〜ない」."
+    },
+    {
+      "id": "bunpou-n5-nani-mo-nai-dare-mo-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "けさは何も食べませんでした。",
+      "sentenceVi": "Sáng nay tôi chưa ăn gì cả.",
+      "targetGrammar": "何も〜ない / 誰も〜ない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「何も〜ない / 誰も〜ない」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Không có gì; không ai; không phải bất cứ điều gì; không phải ai cả"
+      ],
+      "correctIndex": 3,
+      "explanation": "「何も〜ない / 誰も〜ない」 có nghĩa là: Không có gì; không ai; không phải bất cứ điều gì; không phải ai cả."
+    }
+  ]
+}

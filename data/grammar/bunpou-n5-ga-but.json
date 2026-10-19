@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-ga-but",
+  "level": "N5",
+  "pattern": "〜が（but）",
+  "title": "〜が（but）",
+  "meaning": "Nhưng; mặc dù",
+  "meaningVi": "Nhưng; mặc dù",
+  "connection": "Sentence + が",
+  "usageNotes": "Cũng được sử dụng chỉ để làm dịu đi một yêu cầu hoặc dẫn dắt vào một chủ đề: すみませんが…. Trang trọng hơn một chút so với けど (N4).",
+  "examples": [
+    {
+      "ja": "この店は安いですが、あまりおいしくないです。",
+      "furigana": "この{店|みせ}は{安|やす}いですが、あまりおいしくないです。",
+      "en": "This restaurant is cheap, but the food isn't very good.",
+      "vi": "Nhà hàng này rẻ nhưng đồ ăn không ngon lắm."
+    },
+    {
+      "ja": "日本語は難しいですが、おもしろいです。",
+      "furigana": "{日本語|にほんご}は{難|むずか}しいですが、おもしろいです。",
+      "en": "Japanese is difficult, but interesting.",
+      "vi": "Tiếng Nhật khó nhưng thú vị."
+    },
+    {
+      "ja": "すみませんが、ちょっと静かにしてください。",
+      "furigana": "すみませんが、ちょっと{静|しず}かにしてください。",
+      "en": "Excuse me, but please be a little quieter.",
+      "vi": "Xin lỗi, nhưng xin hãy im lặng một chút."
+    }
+  ],
+  "tags": [
+    "contrast",
+    "particle"
+  ],
+  "unitId": "grammar-n5-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n5-ga-but-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この店は安いですが、あまりおいしくないです。",
+      "sentenceVi": "Nhà hàng này rẻ nhưng đồ ăn không ngon lắm.",
+      "targetGrammar": "〜が（but）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nhưng; mặc dù",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜が（but）」 mang ý nghĩa: \"Nhưng; mặc dù\"."
+    },
+    {
+      "id": "bunpou-n5-ga-but-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本語は難しいですが、おもしろいです。",
+      "sentenceVi": "Tiếng Nhật khó nhưng thú vị.",
+      "targetGrammar": "〜が（but）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜に（destination）",
+        "〜が（but）",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tiếng Nhật khó nhưng thú vị.\", ta sử dụng mẫu 「〜が（but）」."
+    },
+    {
+      "id": "bunpou-n5-ga-but-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "すみませんが、ちょっと静かにしてください。",
+      "sentenceVi": "Xin lỗi, nhưng xin hãy im lặng một chút.",
+      "targetGrammar": "〜が（but）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nhưng; mặc dù",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜が（but）」 mang ý nghĩa: \"Nhưng; mặc dù\"."
+    },
+    {
+      "id": "bunpou-n5-ga-but-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この店は安いですが、あまりおいしくないです。",
+      "sentenceVi": "Nhà hàng này rẻ nhưng đồ ăn không ngon lắm.",
+      "targetGrammar": "〜が（but）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nhưng; mặc dù\":",
+      "options": [
+        "〜で（means）",
+        "〜で（place of action）",
+        "〜と（and）",
+        "〜が（but）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜が（but）」."
+    },
+    {
+      "id": "bunpou-n5-ga-but-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この店は安いですが、あまりおいしくないです。",
+      "sentenceVi": "Nhà hàng này rẻ nhưng đồ ăn không ngon lắm.",
+      "targetGrammar": "〜が（but）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜が（but）」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Nhưng; mặc dù",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜が（but）」 có nghĩa là: Nhưng; mặc dù."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-mashou",
+  "level": "N5",
+  "pattern": "〜ましょう",
+  "title": "〜ましょう",
+  "meaning": "Chúng ta hãy (làm)",
+  "meaningVi": "Chúng ta hãy (làm)",
+  "connection": "Động từ (V)-stem + ましょう",
+  "usageNotes": "Được sử dụng khi người nói mong đợi người nghe đồng ý. Để mời nhẹ nhàng hơn, hãy sử dụng 〜ませんか.",
+  "examples": [
+    {
+      "ja": "いっしょに行きましょう。",
+      "furigana": "いっしょに{行|い}きましょう。",
+      "en": "Let's go together.",
+      "vi": "Chúng ta hãy đi cùng nhau."
+    },
+    {
+      "ja": "少し休みましょう。",
+      "furigana": "{少|すこ}し{休|やす}みましょう。",
+      "en": "Let's take a short break.",
+      "vi": "Chúng ta hãy nghỉ ngơi một chút."
+    },
+    {
+      "ja": "駅の前で会いましょう。",
+      "furigana": "{駅|えき}の{前|まえ}で{会|あ}いましょう。",
+      "en": "Let's meet in front of the station.",
+      "vi": "Chúng ta hãy gặp nhau trước nhà ga nhé."
+    }
+  ],
+  "tags": [
+    "invitation",
+    "suggestion"
+  ],
+  "unitId": "grammar-n5-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n5-mashou-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "いっしょに行きましょう。",
+      "sentenceVi": "Chúng ta hãy đi cùng nhau.",
+      "targetGrammar": "〜ましょう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chúng ta hãy (làm)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ましょう」 mang ý nghĩa: \"Chúng ta hãy (làm)\"."
+    },
+    {
+      "id": "bunpou-n5-mashou-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "少し休みましょう。",
+      "sentenceVi": "Chúng ta hãy nghỉ ngơi một chút.",
+      "targetGrammar": "〜ましょう",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜ましょう",
+        "〜に（place of existence）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Chúng ta hãy nghỉ ngơi một chút.\", ta sử dụng mẫu 「〜ましょう」."
+    },
+    {
+      "id": "bunpou-n5-mashou-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅の前で会いましょう。",
+      "sentenceVi": "Chúng ta hãy gặp nhau trước nhà ga nhé.",
+      "targetGrammar": "〜ましょう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Chúng ta hãy (làm)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ましょう」 mang ý nghĩa: \"Chúng ta hãy (làm)\"."
+    },
+    {
+      "id": "bunpou-n5-mashou-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "いっしょに行きましょう。",
+      "sentenceVi": "Chúng ta hãy đi cùng nhau.",
+      "targetGrammar": "〜ましょう",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chúng ta hãy (làm)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜で（means）",
+        "〜ましょう",
+        "〜と（and）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ましょう」."
+    },
+    {
+      "id": "bunpou-n5-mashou-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "いっしょに行きましょう。",
+      "sentenceVi": "Chúng ta hãy đi cùng nhau.",
+      "targetGrammar": "〜ましょう",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ましょう」 là gì?",
+      "options": [
+        "Chúng ta hãy (làm)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ましょう」 có nghĩa là: Chúng ta hãy (làm)."
+    }
+  ]
+}

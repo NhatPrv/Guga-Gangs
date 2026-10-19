@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-hazu-da",
+  "level": "N4",
+  "pattern": "〜はずだ",
+  "title": "〜はずだ",
+  "meaning": "Nên thế; dự kiến (dựa trên lý luận)",
+  "meaningVi": "Nên thế; dự kiến (dựa trên lý luận)",
+  "connection": "Động từ (V)-plain / i-Adj + はずだ / na-Adj + な + はずだ / Danh từ (N) + の + はずだ",
+  "usageNotes": "Một kỳ vọng tự tin dựa trên sự thật hoặc logic, không phải là phỏng đoán. Nó không có nghĩa là 'nên' như một nghĩa vụ.",
+  "examples": [
+    {
+      "ja": "荷物は明日届くはずです。",
+      "furigana": "{荷物|にもつ}は{明日|あした}{届|とど}くはずです。",
+      "en": "The package should arrive tomorrow.",
+      "vi": "Gói hàng sẽ đến vào ngày mai."
+    },
+    {
+      "ja": "彼は十年もアメリカに住んでいたから、英語が上手なはずだ。",
+      "furigana": "{彼|かれ}は{十|じゅう}{年|ねん}もアメリカに{住|す}んでいたから、{英語|えいご}が{上手|じょうず}なはずだ。",
+      "en": "He lived in America for ten years, so his English should be good.",
+      "vi": "Anh ấy đã sống ở Mỹ được 10 năm nên tiếng Anh của anh ấy chắc là tốt."
+    },
+    {
+      "ja": "おかしいな。かぎはここに置いたはずなのに。",
+      "furigana": "おかしいな。かぎはここに{置|お}いたはずなのに。",
+      "en": "That's strange. I'm sure I put the keys here.",
+      "vi": "Điều đó thật kỳ lạ. Tôi chắc chắn tôi đã để chìa khóa ở đây."
+    }
+  ],
+  "tags": [
+    "conjecture"
+  ],
+  "unitId": "grammar-n4-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n4-hazu-da-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "荷物は明日届くはずです。",
+      "sentenceVi": "Gói hàng sẽ đến vào ngày mai.",
+      "targetGrammar": "〜はずだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Nên thế; dự kiến (dựa trên lý luận)",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜はずだ」 mang ý nghĩa: \"Nên thế; dự kiến (dựa trên lý luận)\"."
+    },
+    {
+      "id": "bunpou-n4-hazu-da-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "彼は十年もアメリカに住んでいたから、英語が上手なはずだ。",
+      "sentenceVi": "Anh ấy đã sống ở Mỹ được 10 năm nên tiếng Anh của anh ấy chắc là tốt.",
+      "targetGrammar": "〜はずだ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜はずだ",
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Anh ấy đã sống ở Mỹ được 10 năm nên tiếng Anh của anh ấy chắc là tốt.\", ta sử dụng mẫu 「〜はずだ」."
+    },
+    {
+      "id": "bunpou-n4-hazu-da-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "おかしいな。かぎはここに置いたはずなのに。",
+      "sentenceVi": "Điều đó thật kỳ lạ. Tôi chắc chắn tôi đã để chìa khóa ở đây.",
+      "targetGrammar": "〜はずだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Nên thế; dự kiến (dựa trên lý luận)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜はずだ」 mang ý nghĩa: \"Nên thế; dự kiến (dựa trên lý luận)\"."
+    },
+    {
+      "id": "bunpou-n4-hazu-da-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "荷物は明日届くはずです。",
+      "sentenceVi": "Gói hàng sẽ đến vào ngày mai.",
+      "targetGrammar": "〜はずだ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nên thế; dự kiến (dựa trên lý luận)\":",
+      "options": [
+        "〜とき",
+        "〜てみる",
+        "〜はずだ",
+        "〜てある"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜はずだ」."
+    },
+    {
+      "id": "bunpou-n4-hazu-da-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "荷物は明日届くはずです。",
+      "sentenceVi": "Gói hàng sẽ đến vào ngày mai.",
+      "targetGrammar": "〜はずだ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜はずだ」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nên thế; dự kiến (dựa trên lý luận)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜はずだ」 có nghĩa là: Nên thế; dự kiến (dựa trên lý luận)."
+    }
+  ]
+}

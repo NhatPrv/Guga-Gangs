@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-ni-shite-mo",
+  "level": "N3",
+  "pattern": "〜にしても",
+  "title": "〜にしても",
+  "meaning": "Ngay cả khi; thậm chí còn xem xét; cấp điều đó",
+  "meaningVi": "Ngay cả khi; thậm chí còn xem xét; cấp điều đó",
+  "connection": "Động từ (V)-plain / Danh từ (N) + にしても",
+  "usageNotes": "Chấp nhận một quan điểm và nói rằng điều đó không làm thay đổi quan điểm của người nói. Thường chấp nhận một sự thật; so sánh 〜としても, nó thuần túy mang tính giả thuyết hơn.",
+  "examples": [
+    {
+      "ja": "忙しかったにしても、電話一本ぐらいできたでしょう。",
+      "furigana": "{忙|いそが}しかったにしても、{電話|でんわ}{一本|いっぽん}ぐらいできたでしょう。",
+      "en": "Even if you were busy, you could at least have made one phone call.",
+      "vi": "Ngay cả khi bạn bận, ít nhất bạn cũng có thể gọi một cuộc điện thoại."
+    },
+    {
+      "ja": "冗談にしても、そんな言い方はひどいよ。",
+      "furigana": "{冗談|じょうだん}にしても、そんな{言|い}い{方|かた}はひどいよ。",
+      "en": "Even if it was a joke, that was a terrible thing to say.",
+      "vi": "Kể cả khi đó là một trò đùa thì đó cũng là một điều khủng khiếp để nói ra."
+    },
+    {
+      "ja": "引っ越すにしても、来年の春以降になると思います。",
+      "furigana": "{引|ひ}っ{越|こ}すにしても、{来年|らいねん}の{春|はる}{以降|いこう}になると{思|おも}います。",
+      "en": "Even if we do move, I think it'll be after next spring.",
+      "vi": "Ngay cả khi chúng tôi di chuyển, tôi nghĩ nó sẽ diễn ra sau mùa xuân tới."
+    }
+  ],
+  "tags": [
+    "concession"
+  ],
+  "unitId": "grammar-n3-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-shite-mo-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "忙しかったにしても、電話一本ぐらいできたでしょう。",
+      "sentenceVi": "Ngay cả khi bạn bận, ít nhất bạn cũng có thể gọi một cuộc điện thoại.",
+      "targetGrammar": "〜にしても",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ngay cả khi; thậm chí còn xem xét; cấp điều đó",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜にしても」 mang ý nghĩa: \"Ngay cả khi; thậm chí còn xem xét; cấp điều đó\"."
+    },
+    {
+      "id": "bunpou-n3-ni-shite-mo-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "冗談にしても、そんな言い方はひどいよ。",
+      "sentenceVi": "Kể cả khi đó là một trò đùa thì đó cũng là một điều khủng khiếp để nói ra.",
+      "targetGrammar": "〜にしても",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜にしても"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Kể cả khi đó là một trò đùa thì đó cũng là một điều khủng khiếp để nói ra.\", ta sử dụng mẫu 「〜にしても」."
+    },
+    {
+      "id": "bunpou-n3-ni-shite-mo-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "引っ越すにしても、来年の春以降になると思います。",
+      "sentenceVi": "Ngay cả khi chúng tôi di chuyển, tôi nghĩ nó sẽ diễn ra sau mùa xuân tới.",
+      "targetGrammar": "〜にしても",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Ngay cả khi; thậm chí còn xem xét; cấp điều đó"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜にしても」 mang ý nghĩa: \"Ngay cả khi; thậm chí còn xem xét; cấp điều đó\"."
+    },
+    {
+      "id": "bunpou-n3-ni-shite-mo-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "忙しかったにしても、電話一本ぐらいできたでしょう。",
+      "sentenceVi": "Ngay cả khi bạn bận, ít nhất bạn cũng có thể gọi một cuộc điện thoại.",
+      "targetGrammar": "〜にしても",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ngay cả khi; thậm chí còn xem xét; cấp điều đó\":",
+      "options": [
+        "〜にしても",
+        "〜ことにしている",
+        "〜ことはない",
+        "〜ことになっている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜にしても」."
+    },
+    {
+      "id": "bunpou-n3-ni-shite-mo-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "忙しかったにしても、電話一本ぐらいできたでしょう。",
+      "sentenceVi": "Ngay cả khi bạn bận, ít nhất bạn cũng có thể gọi một cuộc điện thoại.",
+      "targetGrammar": "〜にしても",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜にしても」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Ngay cả khi; thậm chí còn xem xét; cấp điều đó",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜にしても」 có nghĩa là: Ngay cả khi; thậm chí còn xem xét; cấp điều đó."
+    }
+  ]
+}

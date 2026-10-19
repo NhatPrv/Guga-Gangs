@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-koso",
+  "level": "N3",
+  "pattern": "〜こそ",
+  "title": "〜こそ",
+  "meaning": "Chính xác ; nó là... cái đó; (nhấn mạnh mạnh)",
+  "meaningVi": "Chính xác ; nó là... cái đó; (nhấn mạnh mạnh)",
+  "connection": "Danh từ (N) + こそ",
+  "usageNotes": "Chọn ra một điều là điều quan trọng nhất. こちらこそ là một câu trả lời cố định: 'cảm ơn/niềm vui là của tôi'. Các dạng N2 liên quan: 〜からこそ, 〜てこそ.",
+  "examples": [
+    {
+      "ja": "「いつもありがとう。」「いえ、こちらこそ。」",
+      "furigana": "「いつもありがとう。」「いえ、こちらこそ。」",
+      "en": "'Thanks for everything.' 'No, thank you!'",
+      "vi": "'Cảm ơn vì tất cả mọi thứ.' 'Không, cảm ơn bạn!'"
+    },
+    {
+      "ja": "今年こそ、たばこをやめるつもりだ。",
+      "furigana": "{今年|ことし}こそ、たばこをやめるつもりだ。",
+      "en": "This year, for sure, I'm going to quit smoking.",
+      "vi": "Năm nay chắc chắn tôi sẽ bỏ thuốc lá."
+    },
+    {
+      "ja": "毎日の小さな努力こそが、大きな成功につながる。",
+      "furigana": "{毎日|まいにち}の{小|ちい}さな{努力|どりょく}こそが、{大|おお}きな{成功|せいこう}につながる。",
+      "en": "It's precisely small daily efforts that lead to great success.",
+      "vi": "Chính những nỗ lực nhỏ hàng ngày sẽ dẫn đến thành công lớn."
+    }
+  ],
+  "tags": [
+    "emphasis"
+  ],
+  "unitId": "grammar-n3-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n3-koso-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「いつもありがとう。」「いえ、こちらこそ。」",
+      "sentenceVi": "'Cảm ơn vì tất cả mọi thứ.' 'Không, cảm ơn bạn!'",
+      "targetGrammar": "〜こそ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chính xác ; nó là... cái đó; (nhấn mạnh mạnh)",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜こそ」 mang ý nghĩa: \"Chính xác ; nó là... cái đó; (nhấn mạnh mạnh)\"."
+    },
+    {
+      "id": "bunpou-n3-koso-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今年こそ、たばこをやめるつもりだ。",
+      "sentenceVi": "Năm nay chắc chắn tôi sẽ bỏ thuốc lá.",
+      "targetGrammar": "〜こそ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜ものではない",
+        "〜こそ",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Năm nay chắc chắn tôi sẽ bỏ thuốc lá.\", ta sử dụng mẫu 「〜こそ」."
+    },
+    {
+      "id": "bunpou-n3-koso-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎日の小さな努力こそが、大きな成功につながる。",
+      "sentenceVi": "Chính những nỗ lực nhỏ hàng ngày sẽ dẫn đến thành công lớn.",
+      "targetGrammar": "〜こそ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chính xác ; nó là... cái đó; (nhấn mạnh mạnh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜こそ」 mang ý nghĩa: \"Chính xác ; nó là... cái đó; (nhấn mạnh mạnh)\"."
+    },
+    {
+      "id": "bunpou-n3-koso-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "「いつもありがとう。」「いえ、こちらこそ。」",
+      "sentenceVi": "'Cảm ơn vì tất cả mọi thứ.' 'Không, cảm ơn bạn!'",
+      "targetGrammar": "〜こそ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chính xác ; nó là... cái đó; (nhấn mạnh mạnh)\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことはない",
+        "〜ことにしている",
+        "〜こそ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜こそ」."
+    },
+    {
+      "id": "bunpou-n3-koso-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「いつもありがとう。」「いえ、こちらこそ。」",
+      "sentenceVi": "'Cảm ơn vì tất cả mọi thứ.' 'Không, cảm ơn bạn!'",
+      "targetGrammar": "〜こそ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜こそ」 là gì?",
+      "options": [
+        "Chính xác ; nó là... cái đó; (nhấn mạnh mạnh)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜こそ」 có nghĩa là: Chính xác ; nó là... cái đó; (nhấn mạnh mạnh)."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n5-ta",
+  "level": "N5",
+  "pattern": "〜た",
+  "title": "〜た",
+  "meaning": "Đã làm (quá khứ đơn giản của động từ)",
+  "meaningVi": "Đã làm (quá khứ đơn giản của động từ)",
+  "connection": "Động từ (V)-ta",
+  "usageNotes": "Được làm chính xác như dạng て, với て→た và で→だ: 書いて→書いた, 飲んで→飲んだ, 行って→行った. Tương đương lịch sự: 〜ました.",
+  "examples": [
+    {
+      "ja": "週末は家で映画を見た。",
+      "furigana": "{週末|しゅうまつ}は{家|いえ}で{映画|えいが}を{見|み}た。",
+      "en": "I watched a movie at home over the weekend.",
+      "vi": "Tôi đã xem một bộ phim ở nhà vào cuối tuần."
+    },
+    {
+      "ja": "駅で先生に会った。",
+      "furigana": "{駅|えき}で{先生|せんせい}に{会|あ}った。",
+      "en": "I ran into my teacher at the station.",
+      "vi": "Tôi tình cờ gặp giáo viên của tôi ở nhà ga."
+    },
+    {
+      "ja": "「昼ご飯、食べた？」「うん、もう食べた。」",
+      "furigana": "「{昼|ひる}ご{飯|はん}、{食|た}べた？」「うん、もう{食|た}べた。」",
+      "en": "\"Did you eat lunch?\" \"Yeah, I already ate.\"",
+      "vi": "\"Bạn đã ăn trưa chưa?\" \"Ừ, tôi đã ăn rồi.\""
+    }
+  ],
+  "tags": [
+    "conjugation",
+    "tense",
+    "casual"
+  ],
+  "unitId": "grammar-n5-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n5-ta-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "週末は家で映画を見た。",
+      "sentenceVi": "Tôi đã xem một bộ phim ở nhà vào cuối tuần.",
+      "targetGrammar": "〜た",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đã làm (quá khứ đơn giản của động từ)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜た」 mang ý nghĩa: \"Đã làm (quá khứ đơn giản của động từ)\"."
+    },
+    {
+      "id": "bunpou-n5-ta-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "駅で先生に会った。",
+      "sentenceVi": "Tôi tình cờ gặp giáo viên của tôi ở nhà ga.",
+      "targetGrammar": "〜た",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜た",
+        "〜に（time）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi tình cờ gặp giáo viên của tôi ở nhà ga.\", ta sử dụng mẫu 「〜た」."
+    },
+    {
+      "id": "bunpou-n5-ta-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「昼ご飯、食べた？」「うん、もう食べた。」",
+      "sentenceVi": "\"Bạn đã ăn trưa chưa?\" \"Ừ, tôi đã ăn rồi.\"",
+      "targetGrammar": "〜た",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đã làm (quá khứ đơn giản của động từ)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜た」 mang ý nghĩa: \"Đã làm (quá khứ đơn giản của động từ)\"."
+    },
+    {
+      "id": "bunpou-n5-ta-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "週末は家で映画を見た。",
+      "sentenceVi": "Tôi đã xem một bộ phim ở nhà vào cuối tuần.",
+      "targetGrammar": "〜た",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đã làm (quá khứ đơn giản của động từ)\":",
+      "options": [
+        "〜と（and）",
+        "〜で（place of action）",
+        "〜た",
+        "〜で（means）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜た」."
+    },
+    {
+      "id": "bunpou-n5-ta-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "週末は家で映画を見た。",
+      "sentenceVi": "Tôi đã xem một bộ phim ở nhà vào cuối tuần.",
+      "targetGrammar": "〜た",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜た」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Đã làm (quá khứ đơn giản của động từ)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜た」 có nghĩa là: Đã làm (quá khứ đơn giản của động từ)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-te-shou-ga-nai-te-shikata-ga-nai",
+  "level": "N3",
+  "pattern": "〜てしょうがない / 〜てしかたがない",
+  "title": "〜てしょうがない / 〜てしかたがない",
+  "meaning": "Vô cùng; không thể giúp được (cảm giác); không thể chịu nổi",
+  "meaningVi": "Vô cùng; không thể giúp được (cảm giác); không thể chịu nổi",
+  "connection": "Động từ (V)-te / i-Adj-ku + て / na-Adj + で + しょうがない / しかたがない",
+  "usageNotes": "Đối với những cảm giác và cảm giác mà người nói không thể kiểm soát được. しょうがない thì bình thường hơn. Không giống như 〜てたまらない, nó cũng có tác dụng với các động từ tự phát như 気になる hoặc 涙が出る.",
+  "examples": [
+    {
+      "ja": "昨日あまり寝ていないので、眠くてしょうがない。",
+      "furigana": "{昨日|きのう}あまり{寝|ね}ていないので、{眠|ねむ}くてしょうがない。",
+      "en": "I barely slept last night, so I'm terribly sleepy.",
+      "vi": "Đêm qua tôi gần như không ngủ được nên buồn ngủ kinh khủng."
+    },
+    {
+      "ja": "来週の旅行が楽しみでしかたがない。",
+      "furigana": "{来週|らいしゅう}の{旅行|りょこう}が{楽|たの}しみでしかたがない。",
+      "en": "I'm so excited about next week's trip I can hardly wait.",
+      "vi": "Tôi rất vui mừng về chuyến đi vào tuần tới và tôi khó có thể chờ đợi được."
+    },
+    {
+      "ja": "一人暮らしを始めたばかりのころは、家族のことが気になってしかたがなかった。",
+      "furigana": "{一人暮|ひとりぐ}らしを{始|はじ}めたばかりのころは、{家族|かぞく}のことが{気|き}になってしかたがなかった。",
+      "en": "When I'd just started living alone, I couldn't stop worrying about my family.",
+      "vi": "Khi tôi mới bắt đầu sống một mình, tôi không thể ngừng lo lắng về gia đình mình."
+    }
+  ],
+  "tags": [
+    "emotion",
+    "degree"
+  ],
+  "unitId": "grammar-n3-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n3-te-shou-ga-nai-te-shikata-ga-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "昨日あまり寝ていないので、眠くてしょうがない。",
+      "sentenceVi": "Đêm qua tôi gần như không ngủ được nên buồn ngủ kinh khủng.",
+      "targetGrammar": "〜てしょうがない / 〜てしかたがない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Vô cùng; không thể giúp được (cảm giác); không thể chịu nổi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜てしょうがない / 〜てしかたがない」 mang ý nghĩa: \"Vô cùng; không thể giúp được (cảm giác); không thể chịu nổi\"."
+    },
+    {
+      "id": "bunpou-n3-te-shou-ga-nai-te-shikata-ga-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "来週の旅行が楽しみでしかたがない。",
+      "sentenceVi": "Tôi rất vui mừng về chuyến đi vào tuần tới và tôi khó có thể chờ đợi được.",
+      "targetGrammar": "〜てしょうがない / 〜てしかたがない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てしょうがない / 〜てしかたがない",
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi rất vui mừng về chuyến đi vào tuần tới và tôi khó có thể chờ đợi được.\", ta sử dụng mẫu 「〜てしょうがない / 〜てしかたがない」."
+    },
+    {
+      "id": "bunpou-n3-te-shou-ga-nai-te-shikata-ga-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "一人暮らしを始めたばかりのころは、家族のことが気になってしかたがなかった。",
+      "sentenceVi": "Khi tôi mới bắt đầu sống một mình, tôi không thể ngừng lo lắng về gia đình mình.",
+      "targetGrammar": "〜てしょうがない / 〜てしかたがない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Vô cùng; không thể giúp được (cảm giác); không thể chịu nổi",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜てしょうがない / 〜てしかたがない」 mang ý nghĩa: \"Vô cùng; không thể giúp được (cảm giác); không thể chịu nổi\"."
+    },
+    {
+      "id": "bunpou-n3-te-shou-ga-nai-te-shikata-ga-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "昨日あまり寝ていないので、眠くてしょうがない。",
+      "sentenceVi": "Đêm qua tôi gần như không ngủ được nên buồn ngủ kinh khủng.",
+      "targetGrammar": "〜てしょうがない / 〜てしかたがない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Vô cùng; không thể giúp được (cảm giác); không thể chịu nổi\":",
+      "options": [
+        "〜ことはない",
+        "〜ことになっている",
+        "〜てしょうがない / 〜てしかたがない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜てしょうがない / 〜てしかたがない」."
+    },
+    {
+      "id": "bunpou-n3-te-shou-ga-nai-te-shikata-ga-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "昨日あまり寝ていないので、眠くてしょうがない。",
+      "sentenceVi": "Đêm qua tôi gần như không ngủ được nên buồn ngủ kinh khủng.",
+      "targetGrammar": "〜てしょうがない / 〜てしかたがない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てしょうがない / 〜てしかたがない」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Vô cùng; không thể giúp được (cảm giác); không thể chịu nổi",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜てしょうがない / 〜てしかたがない」 có nghĩa là: Vô cùng; không thể giúp được (cảm giác); không thể chịu nổi."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n5-made",
+  "level": "N5",
+  "pattern": "〜まで（until）",
+  "title": "〜まで（until）",
+  "meaning": "Cho tới khi ; đến ; xa như",
+  "meaningVi": "Cho tới khi ; đến ; xa như",
+  "connection": "Danh từ (N) + まで",
+  "usageNotes": "Đánh dấu điểm kết thúc của một cái gì đó vẫn tiếp tục. Đối với thời hạn ('by'), hãy sử dụng までに (N4).",
+  "examples": [
+    {
+      "ja": "昼休みは1時までです。",
+      "furigana": "{昼休|ひるやす}みは1{時|じ}までです。",
+      "en": "Lunch break is until one o'clock.",
+      "vi": "Giờ nghỉ trưa kéo dài tới một giờ."
+    },
+    {
+      "ja": "駅までいっしょに行きましょう。",
+      "furigana": "{駅|えき}までいっしょに{行|い}きましょう。",
+      "en": "Let's go together as far as the station.",
+      "vi": "Hãy cùng nhau đi đến tận nhà ga nhé."
+    },
+    {
+      "ja": "きのうは夜11時まで勉強しました。",
+      "furigana": "きのうは{夜|よる}11{時|じ}まで{勉強|べんきょう}しました。",
+      "en": "Yesterday I studied until 11 p.m.",
+      "vi": "Hôm qua tôi học đến 11 giờ đêm."
+    }
+  ],
+  "tags": [
+    "particle",
+    "time",
+    "range"
+  ],
+  "unitId": "grammar-n5-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n5-made-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "昼休みは1時までです。",
+      "sentenceVi": "Giờ nghỉ trưa kéo dài tới một giờ.",
+      "targetGrammar": "〜まで（until）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Cho tới khi ; đến ; xa như"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜まで（until）」 mang ý nghĩa: \"Cho tới khi ; đến ; xa như\"."
+    },
+    {
+      "id": "bunpou-n5-made-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "駅までいっしょに行きましょう。",
+      "sentenceVi": "Hãy cùng nhau đi đến tận nhà ga nhé.",
+      "targetGrammar": "〜まで（until）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜に（time）",
+        "〜まで（until）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Hãy cùng nhau đi đến tận nhà ga nhé.\", ta sử dụng mẫu 「〜まで（until）」."
+    },
+    {
+      "id": "bunpou-n5-made-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "きのうは夜11時まで勉強しました。",
+      "sentenceVi": "Hôm qua tôi học đến 11 giờ đêm.",
+      "targetGrammar": "〜まで（until）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Cho tới khi ; đến ; xa như",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜まで（until）」 mang ý nghĩa: \"Cho tới khi ; đến ; xa như\"."
+    },
+    {
+      "id": "bunpou-n5-made-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "昼休みは1時までです。",
+      "sentenceVi": "Giờ nghỉ trưa kéo dài tới một giờ.",
+      "targetGrammar": "〜まで（until）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cho tới khi ; đến ; xa như\":",
+      "options": [
+        "〜で（means）",
+        "〜と（and）",
+        "〜で（place of action）",
+        "〜まで（until）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜まで（until）」."
+    },
+    {
+      "id": "bunpou-n5-made-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "昼休みは1時までです。",
+      "sentenceVi": "Giờ nghỉ trưa kéo dài tới một giờ.",
+      "targetGrammar": "〜まで（until）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜まで（until）」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Cho tới khi ; đến ; xa như",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜まで（until）」 có nghĩa là: Cho tới khi ; đến ; xa như."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-shika-nai",
+  "level": "N4",
+  "pattern": "〜しか〜ない",
+  "title": "〜しか〜ない",
+  "meaning": "Chỉ; không có gì ngoài",
+  "meaningVi": "Chỉ; không có gì ngoài",
+  "connection": "Danh từ (N) + しか + Động từ (V)-nai",
+  "usageNotes": "Luôn đi đôi với động từ phủ định. So với だけ, nó nhấn mạnh số lượng ít hoặc không đủ.",
+  "examples": [
+    {
+      "ja": "財布に五百円しかない。",
+      "furigana": "{財布|さいふ}に{五|ご}{百|ひゃく}{円|えん}しかない。",
+      "en": "I only have 500 yen in my wallet.",
+      "vi": "Tôi chỉ có 500 yên trong ví."
+    },
+    {
+      "ja": "このことは、あなたにしか話していません。",
+      "furigana": "このことは、あなたにしか{話|はな}していません。",
+      "en": "I haven't told anyone but you about this.",
+      "vi": "Tôi chưa nói với ai ngoài bạn về điều này."
+    },
+    {
+      "ja": "朝はコーヒーしか飲みません。",
+      "furigana": "{朝|あさ}はコーヒーしか{飲|の}みません。",
+      "en": "I only drink coffee in the morning.",
+      "vi": "Tôi chỉ uống cà phê vào buổi sáng."
+    }
+  ],
+  "tags": [
+    "limitation",
+    "negation"
+  ],
+  "unitId": "grammar-n4-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n4-shika-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "財布に五百円しかない。",
+      "sentenceVi": "Tôi chỉ có 500 yên trong ví.",
+      "targetGrammar": "〜しか〜ない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ; không có gì ngoài",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜しか〜ない」 mang ý nghĩa: \"Chỉ; không có gì ngoài\"."
+    },
+    {
+      "id": "bunpou-n4-shika-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このことは、あなたにしか話していません。",
+      "sentenceVi": "Tôi chưa nói với ai ngoài bạn về điều này.",
+      "targetGrammar": "〜しか〜ない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜ていく",
+        "〜しか〜ない",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi chưa nói với ai ngoài bạn về điều này.\", ta sử dụng mẫu 「〜しか〜ない」."
+    },
+    {
+      "id": "bunpou-n4-shika-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "朝はコーヒーしか飲みません。",
+      "sentenceVi": "Tôi chỉ uống cà phê vào buổi sáng.",
+      "targetGrammar": "〜しか〜ない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Chỉ; không có gì ngoài"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜しか〜ない」 mang ý nghĩa: \"Chỉ; không có gì ngoài\"."
+    },
+    {
+      "id": "bunpou-n4-shika-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "財布に五百円しかない。",
+      "sentenceVi": "Tôi chỉ có 500 yên trong ví.",
+      "targetGrammar": "〜しか〜ない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chỉ; không có gì ngoài\":",
+      "options": [
+        "〜てある",
+        "〜てみる",
+        "〜しか〜ない",
+        "〜とき"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜しか〜ない」."
+    },
+    {
+      "id": "bunpou-n4-shika-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "財布に五百円しかない。",
+      "sentenceVi": "Tôi chỉ có 500 yên trong ví.",
+      "targetGrammar": "〜しか〜ない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜しか〜ない」 là gì?",
+      "options": [
+        "Chỉ; không có gì ngoài",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜しか〜ない」 có nghĩa là: Chỉ; không có gì ngoài."
+    }
+  ]
+}

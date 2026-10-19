@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-te-kara",
+  "level": "N5",
+  "pattern": "〜てから",
+  "title": "〜てから",
+  "meaning": "Sau khi làm; (làm A) rồi đến (B); kể từ khi",
+  "meaningVi": "Sau khi làm; (làm A) rồi đến (B); kể từ khi",
+  "connection": "Động từ (V)-te + から",
+  "usageNotes": "Nhấn mạnh rằng A kết thúc trước khi B bắt đầu, rõ ràng hơn so với て đơn giản. Với ている trong mệnh đề chính nó thường có nghĩa là 'kể từ'.",
+  "examples": [
+    {
+      "ja": "手を洗ってから、ご飯を食べましょう。",
+      "furigana": "{手|て}を{洗|あら}ってから、ご{飯|はん}を{食|た}べましょう。",
+      "en": "Let's wash our hands and then eat.",
+      "vi": "Chúng ta rửa tay rồi ăn nhé."
+    },
+    {
+      "ja": "宿題をしてから、テレビを見ます。",
+      "furigana": "{宿題|しゅくだい}をしてから、テレビを{見|み}ます。",
+      "en": "I'll watch TV after I do my homework.",
+      "vi": "Tôi sẽ xem TV sau khi làm bài tập về nhà."
+    },
+    {
+      "ja": "日本に来てから、毎日日本語を勉強しています。",
+      "furigana": "{日本|にほん}に{来|き}てから、{毎日|まいにち}{日本語|にほんご}を{勉強|べんきょう}しています。",
+      "en": "Since coming to Japan, I've been studying Japanese every day.",
+      "vi": "Kể từ khi đến Nhật Bản, tôi đã học tiếng Nhật hàng ngày."
+    }
+  ],
+  "tags": [
+    "sequence",
+    "time"
+  ],
+  "unitId": "grammar-n5-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n5-te-kara-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "手を洗ってから、ご飯を食べましょう。",
+      "sentenceVi": "Chúng ta rửa tay rồi ăn nhé.",
+      "targetGrammar": "〜てから",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Sau khi làm; (làm A) rồi đến (B); kể từ khi",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜てから」 mang ý nghĩa: \"Sau khi làm; (làm A) rồi đến (B); kể từ khi\"."
+    },
+    {
+      "id": "bunpou-n5-te-kara-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "宿題をしてから、テレビを見ます。",
+      "sentenceVi": "Tôi sẽ xem TV sau khi làm bài tập về nhà.",
+      "targetGrammar": "〜てから",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てから",
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi sẽ xem TV sau khi làm bài tập về nhà.\", ta sử dụng mẫu 「〜てから」."
+    },
+    {
+      "id": "bunpou-n5-te-kara-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本に来てから、毎日日本語を勉強しています。",
+      "sentenceVi": "Kể từ khi đến Nhật Bản, tôi đã học tiếng Nhật hàng ngày.",
+      "targetGrammar": "〜てから",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Sau khi làm; (làm A) rồi đến (B); kể từ khi",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜てから」 mang ý nghĩa: \"Sau khi làm; (làm A) rồi đến (B); kể từ khi\"."
+    },
+    {
+      "id": "bunpou-n5-te-kara-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "手を洗ってから、ご飯を食べましょう。",
+      "sentenceVi": "Chúng ta rửa tay rồi ăn nhé.",
+      "targetGrammar": "〜てから",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Sau khi làm; (làm A) rồi đến (B); kể từ khi\":",
+      "options": [
+        "〜と（and）",
+        "〜で（means）",
+        "〜てから",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜てから」."
+    },
+    {
+      "id": "bunpou-n5-te-kara-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "手を洗ってから、ご飯を食べましょう。",
+      "sentenceVi": "Chúng ta rửa tay rồi ăn nhé.",
+      "targetGrammar": "〜てから",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てから」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Sau khi làm; (làm A) rồi đến (B); kể từ khi"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜てから」 có nghĩa là: Sau khi làm; (làm A) rồi đến (B); kể từ khi."
+    }
+  ]
+}

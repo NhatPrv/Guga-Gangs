@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-to-sureba-to-shitara",
+  "level": "N3",
+  "pattern": "〜とすれば / 〜としたら",
+  "title": "〜とすれば / 〜としたら",
+  "meaning": "Nếu; giả sử điều đó ; giả sử",
+  "meaningVi": "Nếu; giả sử điều đó ; giả sử",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + だ / Danh từ (N) + だ + とすれば / としたら",
+  "usageNotes": "Đặt ra một giả thuyết và xem xét những gì tiếp theo. Thường dùng với もし hoặc 仮に. としたら mang tính đàm thoại nhiều hơn; とすれば nghe giống lý luận logic hơn.",
+  "examples": [
+    {
+      "ja": "もし宝くじで一億円当たったとしたら、何に使いますか。",
+      "furigana": "もし{宝|たから}くじで{一|いち}{億|おく}{円|えん}{当|あ}たったとしたら、{何|なに}に{使|つか}いますか。",
+      "en": "If you won 100 million yen in the lottery, what would you spend it on?",
+      "vi": "Nếu bạn trúng xổ số 100 triệu yên, bạn sẽ tiêu số tiền đó vào việc gì?"
+    },
+    {
+      "ja": "今から出発するとすれば、向こうに着くのは夜の九時ごろになる。",
+      "furigana": "{今|いま}から{出発|しゅっぱつ}するとすれば、{向|む}こうに{着|つ}くのは{夜|よる}の{九時|くじ}ごろになる。",
+      "en": "If we set off now, we'll get there at around nine at night.",
+      "vi": "Nếu chúng ta khởi hành bây giờ, chúng ta sẽ đến đó vào khoảng chín giờ tối."
+    },
+    {
+      "ja": "彼の話が本当だとしたら、大変なことになる。",
+      "furigana": "{彼|かれ}の{話|はなし}が{本当|ほんとう}だとしたら、{大変|たいへん}なことになる。",
+      "en": "If what he says is true, we're in serious trouble.",
+      "vi": "Nếu những gì anh ta nói là đúng thì chúng ta đang gặp rắc rối nghiêm trọng."
+    }
+  ],
+  "tags": [
+    "condition",
+    "conjecture"
+  ],
+  "unitId": "grammar-n3-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n3-to-sureba-to-shitara-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "もし宝くじで一億円当たったとしたら、何に使いますか。",
+      "sentenceVi": "Nếu bạn trúng xổ số 100 triệu yên, bạn sẽ tiêu số tiền đó vào việc gì?",
+      "targetGrammar": "〜とすれば / 〜としたら",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Nếu; giả sử điều đó ; giả sử",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜とすれば / 〜としたら」 mang ý nghĩa: \"Nếu; giả sử điều đó ; giả sử\"."
+    },
+    {
+      "id": "bunpou-n3-to-sureba-to-shitara-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今から出発するとすれば、向こうに着くのは夜の九時ごろになる。",
+      "sentenceVi": "Nếu chúng ta khởi hành bây giờ, chúng ta sẽ đến đó vào khoảng chín giờ tối.",
+      "targetGrammar": "〜とすれば / 〜としたら",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜とすれば / 〜としたら",
+        "〜ものではない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Nếu chúng ta khởi hành bây giờ, chúng ta sẽ đến đó vào khoảng chín giờ tối.\", ta sử dụng mẫu 「〜とすれば / 〜としたら」."
+    },
+    {
+      "id": "bunpou-n3-to-sureba-to-shitara-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "彼の話が本当だとしたら、大変なことになる。",
+      "sentenceVi": "Nếu những gì anh ta nói là đúng thì chúng ta đang gặp rắc rối nghiêm trọng.",
+      "targetGrammar": "〜とすれば / 〜としたら",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nếu; giả sử điều đó ; giả sử",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜とすれば / 〜としたら」 mang ý nghĩa: \"Nếu; giả sử điều đó ; giả sử\"."
+    },
+    {
+      "id": "bunpou-n3-to-sureba-to-shitara-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "もし宝くじで一億円当たったとしたら、何に使いますか。",
+      "sentenceVi": "Nếu bạn trúng xổ số 100 triệu yên, bạn sẽ tiêu số tiền đó vào việc gì?",
+      "targetGrammar": "〜とすれば / 〜としたら",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nếu; giả sử điều đó ; giả sử\":",
+      "options": [
+        "〜ことになっている",
+        "〜とすれば / 〜としたら",
+        "〜ことはない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜とすれば / 〜としたら」."
+    },
+    {
+      "id": "bunpou-n3-to-sureba-to-shitara-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "もし宝くじで一億円当たったとしたら、何に使いますか。",
+      "sentenceVi": "Nếu bạn trúng xổ số 100 triệu yên, bạn sẽ tiêu số tiền đó vào việc gì?",
+      "targetGrammar": "〜とすれば / 〜としたら",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜とすれば / 〜としたら」 là gì?",
+      "options": [
+        "Nếu; giả sử điều đó ; giả sử",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜とすれば / 〜としたら」 có nghĩa là: Nếu; giả sử điều đó ; giả sử."
+    }
+  ]
+}

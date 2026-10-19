@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-mama",
+  "level": "N3",
+  "pattern": "〜まま",
+  "title": "〜まま",
+  "meaning": "Như nó vốn có; không thay đổi; trong khi vẫn còn (trong trạng thái)",
+  "meaningVi": "Như nó vốn có; không thay đổi; trong khi vẫn còn (trong trạng thái)",
+  "connection": "Động từ (V)-ta / Động từ (V)-nai / i-Adj / na-Adj + な / Danh từ (N) + の + まま",
+  "usageNotes": "Một thay đổi dự kiến ​​đã không xảy ra và trạng thái vẫn tiếp tục. Thường gợi ý điều gì đó bất thường hoặc không mong muốn (để đèn sáng, mang giày vào trong nhà).",
+  "examples": [
+    {
+      "ja": "エアコンをつけたまま寝てしまい、風邪をひいた。",
+      "furigana": "エアコンをつけたまま{寝|ね}てしまい、{風邪|かぜ}をひいた。",
+      "en": "I fell asleep with the air conditioner on and caught a cold.",
+      "vi": "Tôi ngủ quên khi bật điều hòa và bị cảm lạnh."
+    },
+    {
+      "ja": "この町は、私が子どもだったころのままだ。",
+      "furigana": "この{町|まち}は、{私|わたし}が{子|こ}どもだったころのままだ。",
+      "en": "This town is just as it was when I was a child.",
+      "vi": "Thị trấn này vẫn hệt như khi tôi còn nhỏ."
+    },
+    {
+      "ja": "靴のまま部屋に入らないでください。",
+      "furigana": "{靴|くつ}のまま{部屋|へや}に{入|はい}らないでください。",
+      "en": "Please don't come into the room with your shoes on.",
+      "vi": "Làm ơn đừng vào phòng khi đang mang giày."
+    }
+  ],
+  "tags": [
+    "state",
+    "manner"
+  ],
+  "unitId": "grammar-n3-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n3-mama-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "エアコンをつけたまま寝てしまい、風邪をひいた。",
+      "sentenceVi": "Tôi ngủ quên khi bật điều hòa và bị cảm lạnh.",
+      "targetGrammar": "〜まま",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Như nó vốn có; không thay đổi; trong khi vẫn còn (trong trạng thái)",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜まま」 mang ý nghĩa: \"Như nó vốn có; không thay đổi; trong khi vẫn còn (trong trạng thái)\"."
+    },
+    {
+      "id": "bunpou-n3-mama-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この町は、私が子どもだったころのままだ。",
+      "sentenceVi": "Thị trấn này vẫn hệt như khi tôi còn nhỏ.",
+      "targetGrammar": "〜まま",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜まま",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Thị trấn này vẫn hệt như khi tôi còn nhỏ.\", ta sử dụng mẫu 「〜まま」."
+    },
+    {
+      "id": "bunpou-n3-mama-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "靴のまま部屋に入らないでください。",
+      "sentenceVi": "Làm ơn đừng vào phòng khi đang mang giày.",
+      "targetGrammar": "〜まま",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Như nó vốn có; không thay đổi; trong khi vẫn còn (trong trạng thái)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜まま」 mang ý nghĩa: \"Như nó vốn có; không thay đổi; trong khi vẫn còn (trong trạng thái)\"."
+    },
+    {
+      "id": "bunpou-n3-mama-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "エアコンをつけたまま寝てしまい、風邪をひいた。",
+      "sentenceVi": "Tôi ngủ quên khi bật điều hòa và bị cảm lạnh.",
+      "targetGrammar": "〜まま",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Như nó vốn có; không thay đổi; trong khi vẫn còn (trong trạng thái)\":",
+      "options": [
+        "〜ことはない",
+        "〜ことにしている",
+        "〜まま",
+        "〜ことになっている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜まま」."
+    },
+    {
+      "id": "bunpou-n3-mama-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "エアコンをつけたまま寝てしまい、風邪をひいた。",
+      "sentenceVi": "Tôi ngủ quên khi bật điều hòa và bị cảm lạnh.",
+      "targetGrammar": "〜まま",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜まま」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Như nó vốn có; không thay đổi; trong khi vẫn còn (trong trạng thái)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜まま」 có nghĩa là: Như nó vốn có; không thay đổi; trong khi vẫn còn (trong trạng thái)."
+    }
+  ]
+}

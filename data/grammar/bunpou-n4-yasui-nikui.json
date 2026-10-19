@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-yasui-nikui",
+  "level": "N4",
+  "pattern": "〜やすい / 〜にくい",
+  "title": "〜やすい / 〜にくい",
+  "meaning": "Dễ dàng; khó để",
+  "meaningVi": "Dễ dàng; khó để",
+  "connection": "Động từ (V)-stem + やすい / Động từ (V)-stem + にくい",
+  "usageNotes": "Cả hai liên hợp như tính từ i. やすい cũng có thể có nghĩa là 'có xu hướng' (この服は汚れやすい).",
+  "examples": [
+    {
+      "ja": "このペンは書きやすいです。",
+      "furigana": "このペンは{書|か}きやすいです。",
+      "en": "This pen is easy to write with.",
+      "vi": "Cây bút này rất dễ viết."
+    },
+    {
+      "ja": "先生の説明は分かりやすい。",
+      "furigana": "{先生|せんせい}の{説明|せつめい}は{分|わ}かりやすい。",
+      "en": "The teacher's explanations are easy to understand.",
+      "vi": "Lời giải của thầy rất dễ hiểu."
+    },
+    {
+      "ja": "この魚は骨が多くて食べにくい。",
+      "furigana": "この{魚|さかな}は{骨|ほね}が{多|おお}くて{食|た}べにくい。",
+      "en": "This fish has a lot of bones, so it's hard to eat.",
+      "vi": "Cá này nhiều xương nên khó ăn."
+    }
+  ],
+  "tags": [
+    "degree",
+    "tendency"
+  ],
+  "unitId": "grammar-n4-unit-14",
+  "questions": [
+    {
+      "id": "bunpou-n4-yasui-nikui-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このペンは書きやすいです。",
+      "sentenceVi": "Cây bút này rất dễ viết.",
+      "targetGrammar": "〜やすい / 〜にくい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Dễ dàng; khó để",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜やすい / 〜にくい」 mang ý nghĩa: \"Dễ dàng; khó để\"."
+    },
+    {
+      "id": "bunpou-n4-yasui-nikui-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "先生の説明は分かりやすい。",
+      "sentenceVi": "Lời giải của thầy rất dễ hiểu.",
+      "targetGrammar": "〜やすい / 〜にくい",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜やすい / 〜にくい",
+        "〜てもらう",
+        "〜ていく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Lời giải của thầy rất dễ hiểu.\", ta sử dụng mẫu 「〜やすい / 〜にくい」."
+    },
+    {
+      "id": "bunpou-n4-yasui-nikui-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この魚は骨が多くて食べにくい。",
+      "sentenceVi": "Cá này nhiều xương nên khó ăn.",
+      "targetGrammar": "〜やすい / 〜にくい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Dễ dàng; khó để"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜やすい / 〜にくい」 mang ý nghĩa: \"Dễ dàng; khó để\"."
+    },
+    {
+      "id": "bunpou-n4-yasui-nikui-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このペンは書きやすいです。",
+      "sentenceVi": "Cây bút này rất dễ viết.",
+      "targetGrammar": "〜やすい / 〜にくい",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Dễ dàng; khó để\":",
+      "options": [
+        "〜やすい / 〜にくい",
+        "〜てみる",
+        "〜とき",
+        "〜てある"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜やすい / 〜にくい」."
+    },
+    {
+      "id": "bunpou-n4-yasui-nikui-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このペンは書きやすいです。",
+      "sentenceVi": "Cây bút này rất dễ viết.",
+      "targetGrammar": "〜やすい / 〜にくい",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜やすい / 〜にくい」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Dễ dàng; khó để"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜やすい / 〜にくい」 có nghĩa là: Dễ dàng; khó để."
+    }
+  ]
+}

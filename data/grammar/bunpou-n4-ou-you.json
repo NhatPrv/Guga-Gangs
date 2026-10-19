@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n4-ou-you",
+  "level": "N4",
+  "pattern": "〜おう / 〜よう",
+  "title": "〜おう / 〜よう",
+  "meaning": "Hãy (thông thường); Tôi sẽ (dạng ý chí)",
+  "meaningVi": "Hãy (thông thường); Tôi sẽ (dạng ý chí)",
+  "connection": "Động từ (V)-dict (Group 1: final u → o) + う / Động từ (V)-stem + よう (Group 2)",
+  "usageNotes": "Bất quy tắc: する → しよう, 来る → 来よう. Tương đương với 〜ましょう.",
+  "examples": [
+    {
+      "ja": "疲れたね。少し休もう。",
+      "furigana": "{疲|つか}れたね。{少|すこ}し{休|やす}もう。",
+      "en": "That was tiring, huh? Let's take a short break.",
+      "vi": "Điều đó thật mệt mỏi phải không? Chúng ta hãy nghỉ ngơi một chút."
+    },
+    {
+      "ja": "週末、一緒に映画を見ようよ。",
+      "furigana": "{週末|しゅうまつ}、{一緒|いっしょ}に{映画|えいが}を{見|み}ようよ。",
+      "en": "Let's watch a movie together this weekend.",
+      "vi": "Cuối tuần này chúng ta cùng nhau xem phim nhé."
+    },
+    {
+      "ja": "よし、今日から毎日日記を書こう。",
+      "furigana": "よし、{今日|きょう}から{毎日|まいにち}{日記|にっき}を{書|か}こう。",
+      "en": "Right, starting today I'll write in my diary every day.",
+      "vi": "Được rồi, bắt đầu từ hôm nay tôi sẽ viết nhật ký hàng ngày."
+    }
+  ],
+  "tags": [
+    "conjugation",
+    "invitation",
+    "intention"
+  ],
+  "unitId": "grammar-n4-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n4-ou-you-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "疲れたね。少し休もう。",
+      "sentenceVi": "Điều đó thật mệt mỏi phải không? Chúng ta hãy nghỉ ngơi một chút.",
+      "targetGrammar": "〜おう / 〜よう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hãy (thông thường); Tôi sẽ (dạng ý chí)",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜おう / 〜よう」 mang ý nghĩa: \"Hãy (thông thường); Tôi sẽ (dạng ý chí)\"."
+    },
+    {
+      "id": "bunpou-n4-ou-you-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "週末、一緒に映画を見ようよ。",
+      "sentenceVi": "Cuối tuần này chúng ta cùng nhau xem phim nhé.",
+      "targetGrammar": "〜おう / 〜よう",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜おう / 〜よう"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Cuối tuần này chúng ta cùng nhau xem phim nhé.\", ta sử dụng mẫu 「〜おう / 〜よう」."
+    },
+    {
+      "id": "bunpou-n4-ou-you-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "よし、今日から毎日日記を書こう。",
+      "sentenceVi": "Được rồi, bắt đầu từ hôm nay tôi sẽ viết nhật ký hàng ngày.",
+      "targetGrammar": "〜おう / 〜よう",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Hãy (thông thường); Tôi sẽ (dạng ý chí)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜おう / 〜よう」 mang ý nghĩa: \"Hãy (thông thường); Tôi sẽ (dạng ý chí)\"."
+    },
+    {
+      "id": "bunpou-n4-ou-you-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "疲れたね。少し休もう。",
+      "sentenceVi": "Điều đó thật mệt mỏi phải không? Chúng ta hãy nghỉ ngơi một chút.",
+      "targetGrammar": "〜おう / 〜よう",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hãy (thông thường); Tôi sẽ (dạng ý chí)\":",
+      "options": [
+        "〜おう / 〜よう",
+        "〜てある",
+        "〜とき",
+        "〜てみる"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜おう / 〜よう」."
+    },
+    {
+      "id": "bunpou-n4-ou-you-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "疲れたね。少し休もう。",
+      "sentenceVi": "Điều đó thật mệt mỏi phải không? Chúng ta hãy nghỉ ngơi một chút.",
+      "targetGrammar": "〜おう / 〜よう",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜おう / 〜よう」 là gì?",
+      "options": [
+        "Hãy (thông thường); Tôi sẽ (dạng ý chí)",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜おう / 〜よう」 có nghĩa là: Hãy (thông thường); Tôi sẽ (dạng ý chí)."
+    }
+  ]
+}

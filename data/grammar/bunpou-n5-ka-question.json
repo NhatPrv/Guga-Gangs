@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-ka-question",
+  "level": "N5",
+  "pattern": "〜か（question）",
+  "title": "〜か（question）",
+  "meaning": "(dấu chấm hỏi) chuyển câu thành câu hỏi",
+  "meaningVi": "(dấu chấm hỏi) chuyển câu thành câu hỏi",
+  "connection": "Sentence + か",
+  "usageNotes": "Các câu hỏi lịch sự kết thúc bằng か và thường được viết bằng 。. Trong lời nói thông thường, か thường được bỏ đi và thay vào đó sử dụng ngữ điệu lên cao.",
+  "examples": [
+    {
+      "ja": "これはあなたのかばんですか。",
+      "furigana": "これはあなたのかばんですか。",
+      "en": "Is this your bag?",
+      "vi": "Đây có phải là túi của bạn?"
+    },
+    {
+      "ja": "朝ご飯を食べましたか。",
+      "furigana": "{朝|あさ}ご{飯|はん}を{食|た}べましたか。",
+      "en": "Did you eat breakfast?",
+      "vi": "Bạn đã ăn sáng chưa?"
+    },
+    {
+      "ja": "トイレはどこですか。",
+      "furigana": "トイレはどこですか。",
+      "en": "Where is the restroom?",
+      "vi": "Phòng vệ sinh ở đâu?"
+    }
+  ],
+  "tags": [
+    "particle",
+    "question"
+  ],
+  "unitId": "grammar-n5-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n5-ka-question-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "これはあなたのかばんですか。",
+      "sentenceVi": "Đây có phải là túi của bạn?",
+      "targetGrammar": "〜か（question）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "(dấu chấm hỏi) chuyển câu thành câu hỏi",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜か（question）」 mang ý nghĩa: \"(dấu chấm hỏi) chuyển câu thành câu hỏi\"."
+    },
+    {
+      "id": "bunpou-n5-ka-question-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "朝ご飯を食べましたか。",
+      "sentenceVi": "Bạn đã ăn sáng chưa?",
+      "targetGrammar": "〜か（question）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜か（question）",
+        "〜に（place of existence）",
+        "〜に（time）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn đã ăn sáng chưa?\", ta sử dụng mẫu 「〜か（question）」."
+    },
+    {
+      "id": "bunpou-n5-ka-question-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "トイレはどこですか。",
+      "sentenceVi": "Phòng vệ sinh ở đâu?",
+      "targetGrammar": "〜か（question）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "(dấu chấm hỏi) chuyển câu thành câu hỏi",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜か（question）」 mang ý nghĩa: \"(dấu chấm hỏi) chuyển câu thành câu hỏi\"."
+    },
+    {
+      "id": "bunpou-n5-ka-question-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "これはあなたのかばんですか。",
+      "sentenceVi": "Đây có phải là túi của bạn?",
+      "targetGrammar": "〜か（question）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"(dấu chấm hỏi) chuyển câu thành câu hỏi\":",
+      "options": [
+        "〜で（place of action）",
+        "〜と（and）",
+        "〜で（means）",
+        "〜か（question）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜か（question）」."
+    },
+    {
+      "id": "bunpou-n5-ka-question-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "これはあなたのかばんですか。",
+      "sentenceVi": "Đây có phải là túi của bạn?",
+      "targetGrammar": "〜か（question）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜か（question）」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "(dấu chấm hỏi) chuyển câu thành câu hỏi",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜か（question）」 có nghĩa là: (dấu chấm hỏi) chuyển câu thành câu hỏi."
+    }
+  ]
+}

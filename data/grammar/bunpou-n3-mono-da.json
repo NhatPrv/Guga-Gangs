@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-mono-da",
+  "level": "N3",
+  "pattern": "〜ものだ",
+  "title": "〜ものだ",
+  "meaning": "Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)",
+  "meaningVi": "Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)",
+  "connection": "Động từ (V)-dict / Động từ (V)-ta / i-Adj / na-Adj + な + ものだ",
+  "usageNotes": "Công dụng chính: sự thật chung hoặc xu hướng tự nhiên, chuẩn mực xã hội (nên), thói quen hoài niệm về quá khứ với 〜たものだ, và cảm giác sâu sắc (時間がたつのは早いものだ). Bình thường: 〜もんだ.",
+  "examples": [
+    {
+      "ja": "子どものころは、この川でよく泳いだものだ。",
+      "furigana": "{子|こ}どものころは、この{川|かわ}でよく{泳|およ}いだものだ。",
+      "en": "When I was a child, I used to swim in this river a lot.",
+      "vi": "Khi còn nhỏ, tôi thường bơi ở con sông này rất nhiều."
+    },
+    {
+      "ja": "新しい環境に慣れるには、時間がかかるものだ。",
+      "furigana": "{新|あたら}しい{環境|かんきょう}に{慣|な}れるには、{時間|じかん}がかかるものだ。",
+      "en": "It naturally takes time to get used to a new environment.",
+      "vi": "Đương nhiên là cần có thời gian để làm quen với môi trường mới."
+    },
+    {
+      "ja": "目上の人には敬語を使うものだ。",
+      "furigana": "{目上|めうえ}の{人|ひと}には{敬語|けいご}を{使|つか}うものだ。",
+      "en": "You're supposed to use honorific language with your superiors.",
+      "vi": "Bạn phải sử dụng ngôn ngữ kính trọng với cấp trên của mình."
+    }
+  ],
+  "tags": [
+    "recollection",
+    "advice",
+    "tendency"
+  ],
+  "unitId": "grammar-n3-unit-01",
+  "questions": [
+    {
+      "id": "bunpou-n3-mono-da-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子どものころは、この川でよく泳いだものだ。",
+      "sentenceVi": "Khi còn nhỏ, tôi thường bơi ở con sông này rất nhiều.",
+      "targetGrammar": "〜ものだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ものだ」 mang ý nghĩa: \"Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)\"."
+    },
+    {
+      "id": "bunpou-n3-mono-da-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "新しい環境に慣れるには、時間がかかるものだ。",
+      "sentenceVi": "Đương nhiên là cần có thời gian để làm quen với môi trường mới.",
+      "targetGrammar": "〜ものだ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜ものではない",
+        "〜もの / 〜もん",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Đương nhiên là cần có thời gian để làm quen với môi trường mới.\", ta sử dụng mẫu 「〜ものだ」."
+    },
+    {
+      "id": "bunpou-n3-mono-da-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "目上の人には敬語を使うものだ。",
+      "sentenceVi": "Bạn phải sử dụng ngôn ngữ kính trọng với cấp trên của mình.",
+      "targetGrammar": "〜ものだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Không cần phải làm vậy; không cần phải làm vậy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ものだ」 mang ý nghĩa: \"Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)\"."
+    },
+    {
+      "id": "bunpou-n3-mono-da-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "子どものころは、この川でよく泳いだものだ。",
+      "sentenceVi": "Khi còn nhỏ, tôi thường bơi ở con sông này rất nhiều.",
+      "targetGrammar": "〜ものだ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことになっている",
+        "〜ものだ",
+        "〜こと（instruction）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ものだ」."
+    },
+    {
+      "id": "bunpou-n3-mono-da-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子どものころは、この川でよく泳いだものだ。",
+      "sentenceVi": "Khi còn nhỏ, tôi thường bơi ở con sông này rất nhiều.",
+      "targetGrammar": "〜ものだ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ものだ」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Không thể ; không có vẻ như nó sẽ",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ものだ」 có nghĩa là: Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)."
+    }
+  ]
+}

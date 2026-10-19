@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-ku-suru-ni-suru",
+  "level": "N4",
+  "pattern": "〜くする / 〜にする（make）",
+  "title": "〜くする / 〜にする（make）",
+  "meaning": "Làm (cái gì)...; thay đổi cái gì đó sang trạng thái",
+  "meaningVi": "Làm (cái gì)...; thay đổi cái gì đó sang trạng thái",
+  "connection": "i-Adj-ku + する / na-Adj + に + する / Danh từ (N) + に + する",
+  "usageNotes": "Ai đó cố tình thay đổi một cái gì đó. So sánh 〜くなる / 〜になる, nơi mà sự thay đổi tự nó xảy ra.",
+  "examples": [
+    {
+      "ja": "テレビの音を小さくしてください。",
+      "furigana": "テレビの{音|おと}を{小|ちい}さくしてください。",
+      "en": "Please turn the TV down.",
+      "vi": "Làm ơn tắt TV đi."
+    },
+    {
+      "ja": "お客さんが来るから、部屋をきれいにしよう。",
+      "furigana": "お{客|きゃく}さんが{来|く}るから、{部屋|へや}をきれいにしよう。",
+      "en": "We have guests coming, so let's tidy up the room.",
+      "vi": "Chúng ta có khách đến nên hãy dọn dẹp phòng đi."
+    },
+    {
+      "ja": "暑いので、髪を短くしました。",
+      "furigana": "{暑|あつ}いので、{髪|かみ}を{短|みじか}くしました。",
+      "en": "It's hot, so I had my hair cut short.",
+      "vi": "Trời nóng nên tôi phải cắt tóc ngắn."
+    }
+  ],
+  "tags": [
+    "change"
+  ],
+  "unitId": "grammar-n4-unit-19",
+  "questions": [
+    {
+      "id": "bunpou-n4-ku-suru-ni-suru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "テレビの音を小さくしてください。",
+      "sentenceVi": "Làm ơn tắt TV đi.",
+      "targetGrammar": "〜くする / 〜にする（make）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm (cái gì)...; thay đổi cái gì đó sang trạng thái",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜くする / 〜にする（make）」 mang ý nghĩa: \"Làm (cái gì)...; thay đổi cái gì đó sang trạng thái\"."
+    },
+    {
+      "id": "bunpou-n4-ku-suru-ni-suru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "お客さんが来るから、部屋をきれいにしよう。",
+      "sentenceVi": "Chúng ta có khách đến nên hãy dọn dẹp phòng đi.",
+      "targetGrammar": "〜くする / 〜にする（make）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜くする / 〜にする（make）",
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜てもらう"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Chúng ta có khách đến nên hãy dọn dẹp phòng đi.\", ta sử dụng mẫu 「〜くする / 〜にする（make）」."
+    },
+    {
+      "id": "bunpou-n4-ku-suru-ni-suru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "暑いので、髪を短くしました。",
+      "sentenceVi": "Trời nóng nên tôi phải cắt tóc ngắn.",
+      "targetGrammar": "〜くする / 〜にする（make）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm (cái gì)...; thay đổi cái gì đó sang trạng thái"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜くする / 〜にする（make）」 mang ý nghĩa: \"Làm (cái gì)...; thay đổi cái gì đó sang trạng thái\"."
+    },
+    {
+      "id": "bunpou-n4-ku-suru-ni-suru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "テレビの音を小さくしてください。",
+      "sentenceVi": "Làm ơn tắt TV đi.",
+      "targetGrammar": "〜くする / 〜にする（make）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm (cái gì)...; thay đổi cái gì đó sang trạng thái\":",
+      "options": [
+        "〜てみる",
+        "〜くする / 〜にする（make）",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜くする / 〜にする（make）」."
+    },
+    {
+      "id": "bunpou-n4-ku-suru-ni-suru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "テレビの音を小さくしてください。",
+      "sentenceVi": "Làm ơn tắt TV đi.",
+      "targetGrammar": "〜くする / 〜にする（make）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜くする / 〜にする（make）」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Làm (cái gì)...; thay đổi cái gì đó sang trạng thái"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜くする / 〜にする（make）」 có nghĩa là: Làm (cái gì)...; thay đổi cái gì đó sang trạng thái."
+    }
+  ]
+}

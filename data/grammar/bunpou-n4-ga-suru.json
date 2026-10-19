@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-ga-suru",
+  "level": "N4",
+  "pattern": "〜がする",
+  "title": "〜がする",
+  "meaning": "(mùi, âm thanh, vị hoặc cảm giác) được cảm nhận",
+  "meaningVi": "(mùi, âm thanh, vị hoặc cảm giác) được cảm nhận",
+  "connection": "Danh từ (N) + がする",
+  "usageNotes": "Được sử dụng với におい, 音, 声, 味 và 気 (〜気がする: 'có cảm giác như vậy').",
+  "examples": [
+    {
+      "ja": "台所からいいにおいがする。",
+      "furigana": "{台所|だいどころ}からいいにおいがする。",
+      "en": "There's a nice smell coming from the kitchen.",
+      "vi": "Có một mùi thơm dễ chịu tỏa ra từ nhà bếp."
+    },
+    {
+      "ja": "外で変な音がしました。",
+      "furigana": "{外|そと}で{変|へん}な{音|おと}がしました。",
+      "en": "I heard a strange noise outside.",
+      "vi": "Tôi nghe thấy một tiếng động lạ ở bên ngoài."
+    },
+    {
+      "ja": "このお茶は少し甘い味がする。",
+      "furigana": "このお{茶|ちゃ}は{少|すこ}し{甘|あま}い{味|あじ}がする。",
+      "en": "This tea tastes slightly sweet.",
+      "vi": "Trà này có vị hơi ngọt."
+    }
+  ],
+  "tags": [
+    "state",
+    "emotion"
+  ],
+  "unitId": "grammar-n4-unit-19",
+  "questions": [
+    {
+      "id": "bunpou-n4-ga-suru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "台所からいいにおいがする。",
+      "sentenceVi": "Có một mùi thơm dễ chịu tỏa ra từ nhà bếp.",
+      "targetGrammar": "〜がする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "(mùi, âm thanh, vị hoặc cảm giác) được cảm nhận",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜がする」 mang ý nghĩa: \"(mùi, âm thanh, vị hoặc cảm giác) được cảm nhận\"."
+    },
+    {
+      "id": "bunpou-n4-ga-suru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "外で変な音がしました。",
+      "sentenceVi": "Tôi nghe thấy một tiếng động lạ ở bên ngoài.",
+      "targetGrammar": "〜がする",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜がする",
+        "〜ていく",
+        "〜てもらう"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi nghe thấy một tiếng động lạ ở bên ngoài.\", ta sử dụng mẫu 「〜がする」."
+    },
+    {
+      "id": "bunpou-n4-ga-suru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このお茶は少し甘い味がする。",
+      "sentenceVi": "Trà này có vị hơi ngọt.",
+      "targetGrammar": "〜がする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "(mùi, âm thanh, vị hoặc cảm giác) được cảm nhận",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜がする」 mang ý nghĩa: \"(mùi, âm thanh, vị hoặc cảm giác) được cảm nhận\"."
+    },
+    {
+      "id": "bunpou-n4-ga-suru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "台所からいいにおいがする。",
+      "sentenceVi": "Có một mùi thơm dễ chịu tỏa ra từ nhà bếp.",
+      "targetGrammar": "〜がする",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"(mùi, âm thanh, vị hoặc cảm giác) được cảm nhận\":",
+      "options": [
+        "〜がする",
+        "〜とき",
+        "〜てみる",
+        "〜てある"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜がする」."
+    },
+    {
+      "id": "bunpou-n4-ga-suru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "台所からいいにおいがする。",
+      "sentenceVi": "Có một mùi thơm dễ chịu tỏa ra từ nhà bếp.",
+      "targetGrammar": "〜がする",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜がする」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "(mùi, âm thanh, vị hoặc cảm giác) được cảm nhận"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜がする」 có nghĩa là: (mùi, âm thanh, vị hoặc cảm giác) được cảm nhận."
+    }
+  ]
+}

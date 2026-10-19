@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-nara",
+  "level": "N4",
+  "pattern": "〜なら",
+  "title": "〜なら",
+  "meaning": "Nếu là... / Trong trường hợp... (Điều kiện Nara)",
+  "meaningVi": "Nếu là... / Trong trường hợp... (Điều kiện Nara)",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + なら",
+  "usageNotes": "Tiếp thu những gì người nghe đã nói hoặc một tình huống được cho là đúng, sau đó đưa ra lời khuyên hoặc ý kiến. Không giống như たら, hành động chính có thể xảy ra trước mệnh đề なら.",
+  "examples": [
+    {
+      "ja": "京都へ行くなら、秋がいいですよ。",
+      "furigana": "{京都|きょうと}へ{行|い}くなら、{秋|あき}がいいですよ。",
+      "en": "If you're going to Kyoto, autumn is a good time.",
+      "vi": "Nếu bạn định đến Kyoto thì mùa thu là thời điểm thích hợp."
+    },
+    {
+      "ja": "パソコンのことなら、兄に聞くといいよ。",
+      "furigana": "パソコンのことなら、{兄|あに}に{聞|き}くといいよ。",
+      "en": "If it's about computers, you should ask my older brother.",
+      "vi": "Nếu là về máy tính thì bạn nên hỏi anh trai tôi."
+    },
+    {
+      "ja": "そんなに眠いなら、今日は早く寝たら？",
+      "furigana": "そんなに{眠|ねむ}いなら、{今日|きょう}は{早|はや}く{寝|ね}たら？",
+      "en": "If you're that sleepy, why not go to bed early today?",
+      "vi": "Nếu buồn ngủ thế thì sao hôm nay không đi ngủ sớm nhỉ?"
+    }
+  ],
+  "tags": [
+    "condition",
+    "topic"
+  ],
+  "unitId": "grammar-n4-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n4-nara-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "京都へ行くなら、秋がいいですよ。",
+      "sentenceVi": "Nếu bạn định đến Kyoto thì mùa thu là thời điểm thích hợp.",
+      "targetGrammar": "〜なら",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Nếu là... / Trong trường hợp... (Điều kiện Nara)",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜なら」 mang ý nghĩa: \"Nếu là... / Trong trường hợp... (Điều kiện Nara)\"."
+    },
+    {
+      "id": "bunpou-n4-nara-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "パソコンのことなら、兄に聞くといいよ。",
+      "sentenceVi": "Nếu là về máy tính thì bạn nên hỏi anh trai tôi.",
+      "targetGrammar": "〜なら",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜なら"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Nếu là về máy tính thì bạn nên hỏi anh trai tôi.\", ta sử dụng mẫu 「〜なら」."
+    },
+    {
+      "id": "bunpou-n4-nara-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "そんなに眠いなら、今日は早く寝たら？",
+      "sentenceVi": "Nếu buồn ngủ thế thì sao hôm nay không đi ngủ sớm nhỉ?",
+      "targetGrammar": "〜なら",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nếu là... / Trong trường hợp... (Điều kiện Nara)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜なら」 mang ý nghĩa: \"Nếu là... / Trong trường hợp... (Điều kiện Nara)\"."
+    },
+    {
+      "id": "bunpou-n4-nara-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "京都へ行くなら、秋がいいですよ。",
+      "sentenceVi": "Nếu bạn định đến Kyoto thì mùa thu là thời điểm thích hợp.",
+      "targetGrammar": "〜なら",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nếu là... / Trong trường hợp... (Điều kiện Nara)\":",
+      "options": [
+        "〜とき",
+        "〜てみる",
+        "〜てある",
+        "〜なら"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜なら」."
+    },
+    {
+      "id": "bunpou-n4-nara-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "京都へ行くなら、秋がいいですよ。",
+      "sentenceVi": "Nếu bạn định đến Kyoto thì mùa thu là thời điểm thích hợp.",
+      "targetGrammar": "〜なら",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜なら」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nếu là... / Trong trường hợp... (Điều kiện Nara)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜なら」 có nghĩa là: Nếu là... / Trong trường hợp... (Điều kiện Nara)."
+    }
+  ]
+}

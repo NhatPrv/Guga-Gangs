@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-te-mo-ii",
+  "level": "N5",
+  "pattern": "〜てもいい",
+  "title": "〜てもいい",
+  "meaning": "Có thể... / Được phép làm gì đó (Xin phép & Cho phép)",
+  "meaningVi": "Có thể... / Được phép làm gì đó (Xin phép & Cho phép)",
+  "connection": "Động từ (V)-te + もいい",
+  "usageNotes": "Thêm ですか để xin phép. Một lời từ chối lịch sự thường chỉ là すみません、ちょっと….",
+  "examples": [
+    {
+      "ja": "この辞書を使ってもいいですか。",
+      "furigana": "この{辞書|じしょ}を{使|つか}ってもいいですか。",
+      "en": "May I use this dictionary?",
+      "vi": "Tôi có thể sử dụng từ điển này được không?"
+    },
+    {
+      "ja": "今日は早く帰ってもいいです。",
+      "furigana": "{今日|きょう}は{早|はや}く{帰|かえ}ってもいいです。",
+      "en": "You may go home early today.",
+      "vi": "Hôm nay bạn có thể về nhà sớm."
+    },
+    {
+      "ja": "ここにすわってもいいですか。",
+      "furigana": "ここにすわってもいいですか。",
+      "en": "Is it all right if I sit here?",
+      "vi": "Có ổn không nếu tôi ngồi đây?"
+    }
+  ],
+  "tags": [
+    "permission"
+  ],
+  "unitId": "grammar-n5-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n5-te-mo-ii-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この辞書を使ってもいいですか。",
+      "sentenceVi": "Tôi có thể sử dụng từ điển này được không?",
+      "targetGrammar": "〜てもいい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Có thể... / Được phép làm gì đó (Xin phép & Cho phép)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜てもいい」 mang ý nghĩa: \"Có thể... / Được phép làm gì đó (Xin phép & Cho phép)\"."
+    },
+    {
+      "id": "bunpou-n5-te-mo-ii-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は早く帰ってもいいです。",
+      "sentenceVi": "Hôm nay bạn có thể về nhà sớm.",
+      "targetGrammar": "〜てもいい",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜に（time）",
+        "〜に（destination）",
+        "〜てもいい"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Hôm nay bạn có thể về nhà sớm.\", ta sử dụng mẫu 「〜てもいい」."
+    },
+    {
+      "id": "bunpou-n5-te-mo-ii-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ここにすわってもいいですか。",
+      "sentenceVi": "Có ổn không nếu tôi ngồi đây?",
+      "targetGrammar": "〜てもいい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Có thể... / Được phép làm gì đó (Xin phép & Cho phép)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜てもいい」 mang ý nghĩa: \"Có thể... / Được phép làm gì đó (Xin phép & Cho phép)\"."
+    },
+    {
+      "id": "bunpou-n5-te-mo-ii-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この辞書を使ってもいいですか。",
+      "sentenceVi": "Tôi có thể sử dụng từ điển này được không?",
+      "targetGrammar": "〜てもいい",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có thể... / Được phép làm gì đó (Xin phép & Cho phép)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜と（and）",
+        "〜で（means）",
+        "〜てもいい"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜てもいい」."
+    },
+    {
+      "id": "bunpou-n5-te-mo-ii-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この辞書を使ってもいいですか。",
+      "sentenceVi": "Tôi có thể sử dụng từ điển này được không?",
+      "targetGrammar": "〜てもいい",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てもいい」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Có thể... / Được phép làm gì đó (Xin phép & Cho phép)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜てもいい」 có nghĩa là: Có thể... / Được phép làm gì đó (Xin phép & Cho phép)."
+    }
+  ]
+}

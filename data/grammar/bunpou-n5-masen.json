@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n5-masen",
+  "level": "N5",
+  "pattern": "〜ません",
+  "title": "〜ません",
+  "meaning": "Không; sẽ không (lịch sự phủ định)",
+  "meaningVi": "Không; sẽ không (lịch sự phủ định)",
+  "connection": "Động từ (V)-stem + ません",
+  "usageNotes": "Tương đương đơn giản là dạng ない: 飲みません = 飲まない.",
+  "examples": [
+    {
+      "ja": "私はお酒を飲みません。",
+      "furigana": "{私|わたし}はお{酒|さけ}を{飲|の}みません。",
+      "en": "I don't drink alcohol.",
+      "vi": "Tôi không uống rượu."
+    },
+    {
+      "ja": "日曜日は学校へ行きません。",
+      "furigana": "{日曜日|にちようび}は{学校|がっこう}へ{行|い}きません。",
+      "en": "I don't go to school on Sundays.",
+      "vi": "Tôi không đi học vào ngày chủ nhật."
+    },
+    {
+      "ja": "今晩はテレビを見ません。",
+      "furigana": "{今晩|こんばん}はテレビを{見|み}ません。",
+      "en": "I won't watch TV tonight.",
+      "vi": "Tối nay tôi sẽ không xem TV."
+    }
+  ],
+  "tags": [
+    "conjugation",
+    "negation",
+    "politeness"
+  ],
+  "unitId": "grammar-n5-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n5-masen-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私はお酒を飲みません。",
+      "sentenceVi": "Tôi không uống rượu.",
+      "targetGrammar": "〜ません",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Không; sẽ không (lịch sự phủ định)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ません」 mang ý nghĩa: \"Không; sẽ không (lịch sự phủ định)\"."
+    },
+    {
+      "id": "bunpou-n5-masen-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日曜日は学校へ行きません。",
+      "sentenceVi": "Tôi không đi học vào ngày chủ nhật.",
+      "targetGrammar": "〜ません",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜ません",
+        "〜に（place of existence）",
+        "〜に（time）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi không đi học vào ngày chủ nhật.\", ta sử dụng mẫu 「〜ません」."
+    },
+    {
+      "id": "bunpou-n5-masen-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今晩はテレビを見ません。",
+      "sentenceVi": "Tối nay tôi sẽ không xem TV.",
+      "targetGrammar": "〜ません",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Không; sẽ không (lịch sự phủ định)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ません」 mang ý nghĩa: \"Không; sẽ không (lịch sự phủ định)\"."
+    },
+    {
+      "id": "bunpou-n5-masen-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私はお酒を飲みません。",
+      "sentenceVi": "Tôi không uống rượu.",
+      "targetGrammar": "〜ません",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không; sẽ không (lịch sự phủ định)\":",
+      "options": [
+        "〜で（means）",
+        "〜ません",
+        "〜と（and）",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ません」."
+    },
+    {
+      "id": "bunpou-n5-masen-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私はお酒を飲みません。",
+      "sentenceVi": "Tôi không uống rượu.",
+      "targetGrammar": "〜ません",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ません」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Không; sẽ không (lịch sự phủ định)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ません」 có nghĩa là: Không; sẽ không (lịch sự phủ định)."
+    }
+  ]
+}

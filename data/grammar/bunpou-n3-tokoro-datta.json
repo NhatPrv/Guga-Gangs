@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-tokoro-datta",
+  "level": "N3",
+  "pattern": "〜ところだった",
+  "title": "〜ところだった",
+  "meaning": "Gần như; gần như (nhưng không)",
+  "meaningVi": "Gần như; gần như (nhưng không)",
+  "connection": "Động từ (V)-dict + ところだった",
+  "usageNotes": "Một điều gì đó (thường là tồi tệ) đã suýt xảy ra nhưng đã không xảy ra. Thường đi kèm với mệnh đề もう少しで, 危うく hoặc mệnh đề 〜たら. So sánh 〜そうになった.",
+  "examples": [
+    {
+      "ja": "考え事をしていて、もう少しで車にひかれるところだった。",
+      "furigana": "{考|かんが}え{事|ごと}をしていて、もう{少|すこ}しで{車|くるま}にひかれるところだった。",
+      "en": "I was lost in thought and nearly got hit by a car.",
+      "vi": "Tôi đang mải suy nghĩ và suýt bị ô tô đâm."
+    },
+    {
+      "ja": "目覚ましが鳴らなくて、危うく飛行機に乗り遅れるところだった。",
+      "furigana": "{目覚|めざ}ましが{鳴|な}らなくて、{危|あや}うく{飛行機|ひこうき}に{乗|の}り{遅|おく}れるところだった。",
+      "en": "My alarm didn't go off, and I very nearly missed my flight.",
+      "vi": "Chuông báo thức của tôi không kêu và tôi suýt bị lỡ chuyến bay."
+    },
+    {
+      "ja": "君が教えてくれなかったら、大事な書類を出し忘れるところだったよ。",
+      "furigana": "{君|きみ}が{教|おし}えてくれなかったら、{大事|だいじ}な{書類|しょるい}を{出|だ}し{忘|わす}れるところだったよ。",
+      "en": "If you hadn't reminded me, I would have forgotten to hand in the important documents.",
+      "vi": "Nếu bạn không nhắc tôi chắc chắn tôi đã quên nộp những giấy tờ quan trọng."
+    }
+  ],
+  "tags": [
+    "result",
+    "possibility"
+  ],
+  "unitId": "grammar-n3-unit-20",
+  "questions": [
+    {
+      "id": "bunpou-n3-tokoro-datta-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "考え事をしていて、もう少しで車にひかれるところだった。",
+      "sentenceVi": "Tôi đang mải suy nghĩ và suýt bị ô tô đâm.",
+      "targetGrammar": "〜ところだった",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Gần như; gần như (nhưng không)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ところだった」 mang ý nghĩa: \"Gần như; gần như (nhưng không)\"."
+    },
+    {
+      "id": "bunpou-n3-tokoro-datta-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "目覚ましが鳴らなくて、危うく飛行機に乗り遅れるところだった。",
+      "sentenceVi": "Chuông báo thức của tôi không kêu và tôi suýt bị lỡ chuyến bay.",
+      "targetGrammar": "〜ところだった",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜ところだった",
+        "〜わけにはいかない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Chuông báo thức của tôi không kêu và tôi suýt bị lỡ chuyến bay.\", ta sử dụng mẫu 「〜ところだった」."
+    },
+    {
+      "id": "bunpou-n3-tokoro-datta-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "君が教えてくれなかったら、大事な書類を出し忘れるところだったよ。",
+      "sentenceVi": "Nếu bạn không nhắc tôi chắc chắn tôi đã quên nộp những giấy tờ quan trọng.",
+      "targetGrammar": "〜ところだった",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Gần như; gần như (nhưng không)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ところだった」 mang ý nghĩa: \"Gần như; gần như (nhưng không)\"."
+    },
+    {
+      "id": "bunpou-n3-tokoro-datta-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "考え事をしていて、もう少しで車にひかれるところだった。",
+      "sentenceVi": "Tôi đang mải suy nghĩ và suýt bị ô tô đâm.",
+      "targetGrammar": "〜ところだった",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Gần như; gần như (nhưng không)\":",
+      "options": [
+        "〜ことはない",
+        "〜ところだった",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ところだった」."
+    },
+    {
+      "id": "bunpou-n3-tokoro-datta-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "考え事をしていて、もう少しで車にひかれるところだった。",
+      "sentenceVi": "Tôi đang mải suy nghĩ và suýt bị ô tô đâm.",
+      "targetGrammar": "〜ところだった",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ところだった」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Gần như; gần như (nhưng không)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ところだった」 có nghĩa là: Gần như; gần như (nhưng không)."
+    }
+  ]
+}

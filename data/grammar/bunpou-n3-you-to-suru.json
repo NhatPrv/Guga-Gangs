@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-you-to-suru",
+  "level": "N3",
+  "pattern": "〜ようとする",
+  "title": "〜ようとする",
+  "meaning": "Cố gắng ; cố gắng ; sắp sửa",
+  "meaningVi": "Cố gắng ; cố gắng ; sắp sửa",
+  "connection": "Động từ (V)-volitional + とする",
+  "usageNotes": "Thường thì một nỗ lực không thành công hoặc bị gián đoạn. 〜ようとしない = 'thậm chí sẽ không thử' (không sẵn lòng). So sánh 〜てみる, có nghĩa là thực sự làm một việc gì đó để xem nó diễn ra như thế nào.",
+  "examples": [
+    {
+      "ja": "ドアを開けようとしたが、鍵がかかっていて開かなかった。",
+      "furigana": "ドアを{開|あ}けようとしたが、{鍵|かぎ}がかかっていて{開|あ}かなかった。",
+      "en": "I tried to open the door, but it was locked and wouldn't open.",
+      "vi": "Tôi cố mở cửa nhưng nó bị khóa và không mở được."
+    },
+    {
+      "ja": "家を出ようとしたとき、急に雨が降り出した。",
+      "furigana": "{家|いえ}を{出|で}ようとしたとき、{急|きゅう}に{雨|あめ}が{降|ふ}り{出|だ}した。",
+      "en": "Just as I was about to leave the house, it suddenly started to rain.",
+      "vi": "Khi tôi vừa định rời khỏi nhà thì trời bất ngờ đổ mưa."
+    },
+    {
+      "ja": "弟は何度注意しても、部屋を片付けようとしない。",
+      "furigana": "{弟|おとうと}は{何|なん}{度|ど}{注意|ちゅうい}しても、{部屋|へや}を{片付|かたづ}けようとしない。",
+      "en": "No matter how many times I tell him, my younger brother won't even try to tidy his room.",
+      "vi": "Dù tôi có nói với nó bao nhiêu lần đi chăng nữa thì em trai tôi cũng không chịu dọn phòng."
+    }
+  ],
+  "tags": [
+    "attempt",
+    "intention"
+  ],
+  "unitId": "grammar-n3-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n3-you-to-suru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ドアを開けようとしたが、鍵がかかっていて開かなかった。",
+      "sentenceVi": "Tôi cố mở cửa nhưng nó bị khóa và không mở được.",
+      "targetGrammar": "〜ようとする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ようとする」 mang ý nghĩa: \"Cố gắng ; cố gắng ; sắp sửa\"."
+    },
+    {
+      "id": "bunpou-n3-you-to-suru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "家を出ようとしたとき、急に雨が降り出した。",
+      "sentenceVi": "Khi tôi vừa định rời khỏi nhà thì trời bất ngờ đổ mưa.",
+      "targetGrammar": "〜ようとする",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ようとする",
+        "〜ものだ",
+        "〜ものではない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Khi tôi vừa định rời khỏi nhà thì trời bất ngờ đổ mưa.\", ta sử dụng mẫu 「〜ようとする」."
+    },
+    {
+      "id": "bunpou-n3-you-to-suru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "弟は何度注意しても、部屋を片付けようとしない。",
+      "sentenceVi": "Dù tôi có nói với nó bao nhiêu lần đi chăng nữa thì em trai tôi cũng không chịu dọn phòng.",
+      "targetGrammar": "〜ようとする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ようとする」 mang ý nghĩa: \"Cố gắng ; cố gắng ; sắp sửa\"."
+    },
+    {
+      "id": "bunpou-n3-you-to-suru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "ドアを開けようとしたが、鍵がかかっていて開かなかった。",
+      "sentenceVi": "Tôi cố mở cửa nhưng nó bị khóa và không mở được.",
+      "targetGrammar": "〜ようとする",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cố gắng ; cố gắng ; sắp sửa\":",
+      "options": [
+        "〜ことはない",
+        "〜ようとする",
+        "〜ことにしている",
+        "〜ことになっている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ようとする」."
+    },
+    {
+      "id": "bunpou-n3-you-to-suru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ドアを開けようとしたが、鍵がかかっていて開かなかった。",
+      "sentenceVi": "Tôi cố mở cửa nhưng nó bị khóa và không mở được.",
+      "targetGrammar": "〜ようとする",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ようとする」 là gì?",
+      "options": [
+        "Không thể ; không có vẻ như nó sẽ",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ようとする」 có nghĩa là: Cố gắng ; cố gắng ; sắp sửa."
+    }
+  ]
+}

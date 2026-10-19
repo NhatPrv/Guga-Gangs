@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-wake-ni-wa-ikanai",
+  "level": "N3",
+  "pattern": "〜わけにはいかない",
+  "title": "〜わけにはいかない",
+  "meaning": "Không thể làm... (Vì lý do đạo đức, xã hội)",
+  "meaningVi": "Không thể làm... (Vì lý do đạo đức, xã hội)",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + わけにはいかない",
+  "usageNotes": "Hành động này có thể thực hiện được nhưng bị loại trừ bởi nghĩa vụ, hoàn cảnh hoặc lẽ thường. 〜ないわけにはいかない có nghĩa là 'phải; không thể tránh khỏi việc làm'.",
+  "examples": [
+    {
+      "ja": "明日は大事な会議があるから、休むわけにはいかない。",
+      "furigana": "{明日|あした}は{大事|だいじ}な{会議|かいぎ}があるから、{休|やす}むわけにはいかない。",
+      "en": "There's an important meeting tomorrow, so I can't afford to take the day off.",
+      "vi": "Ngày mai có cuộc họp quan trọng nên tôi không thể nghỉ ngày này được."
+    },
+    {
+      "ja": "友達に頼まれたことだから、断るわけにはいかなかった。",
+      "furigana": "{友達|ともだち}に{頼|たの}まれたことだから、{断|ことわ}るわけにはいかなかった。",
+      "en": "It was a favor my friend had asked, so I couldn't very well say no.",
+      "vi": "Đó là một việc mà bạn tôi đã yêu cầu, nên tôi không thể từ chối được."
+    },
+    {
+      "ja": "招待されたのだから、パーティーに行かないわけにはいかない。",
+      "furigana": "{招待|しょうたい}されたのだから、パーティーに{行|い}かないわけにはいかない。",
+      "en": "I was invited, so I can't not go to the party.",
+      "vi": "Tôi đã được mời nên tôi không thể không tới bữa tiệc được."
+    }
+  ],
+  "tags": [
+    "prohibition",
+    "obligation"
+  ],
+  "unitId": "grammar-n3-unit-01",
+  "questions": [
+    {
+      "id": "bunpou-n3-wake-ni-wa-ikanai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日は大事な会議があるから、休むわけにはいかない。",
+      "sentenceVi": "Ngày mai có cuộc họp quan trọng nên tôi không thể nghỉ ngày này được.",
+      "targetGrammar": "〜わけにはいかない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không thể làm... (Vì lý do đạo đức, xã hội)",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜わけにはいかない」 mang ý nghĩa: \"Không thể làm... (Vì lý do đạo đức, xã hội)\"."
+    },
+    {
+      "id": "bunpou-n3-wake-ni-wa-ikanai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "友達に頼まれたことだから、断るわけにはいかなかった。",
+      "sentenceVi": "Đó là một việc mà bạn tôi đã yêu cầu, nên tôi không thể từ chối được.",
+      "targetGrammar": "〜わけにはいかない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜もの / 〜もん"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Đó là một việc mà bạn tôi đã yêu cầu, nên tôi không thể từ chối được.\", ta sử dụng mẫu 「〜わけにはいかない」."
+    },
+    {
+      "id": "bunpou-n3-wake-ni-wa-ikanai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "招待されたのだから、パーティーに行かないわけにはいかない。",
+      "sentenceVi": "Tôi đã được mời nên tôi không thể không tới bữa tiệc được.",
+      "targetGrammar": "〜わけにはいかない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Không thể làm... (Vì lý do đạo đức, xã hội)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Không cần phải làm vậy; không cần phải làm vậy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜わけにはいかない」 mang ý nghĩa: \"Không thể làm... (Vì lý do đạo đức, xã hội)\"."
+    },
+    {
+      "id": "bunpou-n3-wake-ni-wa-ikanai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "明日は大事な会議があるから、休むわけにはいかない。",
+      "sentenceVi": "Ngày mai có cuộc họp quan trọng nên tôi không thể nghỉ ngày này được.",
+      "targetGrammar": "〜わけにはいかない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không thể làm... (Vì lý do đạo đức, xã hội)\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことにしている",
+        "〜こと（instruction）",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜わけにはいかない」."
+    },
+    {
+      "id": "bunpou-n3-wake-ni-wa-ikanai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日は大事な会議があるから、休むわけにはいかない。",
+      "sentenceVi": "Ngày mai có cuộc họp quan trọng nên tôi không thể nghỉ ngày này được.",
+      "targetGrammar": "〜わけにはいかない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜わけにはいかない」 là gì?",
+      "options": [
+        "Không thể làm... (Vì lý do đạo đức, xã hội)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Không thể ; không có vẻ như nó sẽ",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜わけにはいかない」 có nghĩa là: Không thể làm... (Vì lý do đạo đức, xã hội)."
+    }
+  ]
+}

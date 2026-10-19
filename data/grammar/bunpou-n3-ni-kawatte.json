@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-ni-kawatte",
+  "level": "N3",
+  "pattern": "〜に代わって",
+  "title": "〜に代わって",
+  "meaning": "Thay vì ; thay mặt cho; thay thế",
+  "meaningVi": "Thay vì ; thay mặt cho; thay thế",
+  "connection": "Danh từ (N) + に代わって / Danh từ (N) + に代わり",
+  "usageNotes": "Ai đó hành động vì người khác, hoặc một cái gì đó mới thay thế một cái gì đó cũ. Dạng viết: 〜に代わり. So sánh 〜代わりに (thay vì làm; đổi lấy).",
+  "examples": [
+    {
+      "ja": "入院中の社長に代わって、副社長があいさつをした。",
+      "furigana": "{入院|にゅういん}{中|ちゅう}の{社長|しゃちょう}に{代|か}わって、{副|ふく}{社長|しゃちょう}があいさつをした。",
+      "en": "The vice president gave the speech on behalf of the president, who is in hospital.",
+      "vi": "Phó tổng thống thay mặt tổng thống đang nằm viện phát biểu."
+    },
+    {
+      "ja": "最近は、紙の新聞に代わって、スマホでニュースを読む人が増えている。",
+      "furigana": "{最近|さいきん}は、{紙|かみ}の{新聞|しんぶん}に{代|か}わって、スマホでニュースを{読|よ}む{人|ひと}が{増|ふ}えている。",
+      "en": "More and more people these days read the news on their phones instead of in paper newspapers.",
+      "vi": "Ngày nay ngày càng có nhiều người đọc tin tức trên điện thoại thay vì trên báo giấy."
+    },
+    {
+      "ja": "父に代わって、私が町内会の会議に出席しました。",
+      "furigana": "{父|ちち}に{代|か}わって、{私|わたし}が{町内|ちょうない}{会|かい}の{会議|かいぎ}に{出席|しゅっせき}しました。",
+      "en": "I attended the neighborhood association meeting in place of my father.",
+      "vi": "Tôi đã tham dự cuộc họp hội khu phố thay cho bố tôi."
+    }
+  ],
+  "tags": [
+    "relation",
+    "change"
+  ],
+  "unitId": "grammar-n3-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-kawatte-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "入院中の社長に代わって、副社長があいさつをした。",
+      "sentenceVi": "Phó tổng thống thay mặt tổng thống đang nằm viện phát biểu.",
+      "targetGrammar": "〜に代わって",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Thay vì ; thay mặt cho; thay thế"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜に代わって」 mang ý nghĩa: \"Thay vì ; thay mặt cho; thay thế\"."
+    },
+    {
+      "id": "bunpou-n3-ni-kawatte-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "最近は、紙の新聞に代わって、スマホでニュースを読む人が増えている。",
+      "sentenceVi": "Ngày nay ngày càng có nhiều người đọc tin tức trên điện thoại thay vì trên báo giấy.",
+      "targetGrammar": "〜に代わって",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に代わって",
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜ものだ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Ngày nay ngày càng có nhiều người đọc tin tức trên điện thoại thay vì trên báo giấy.\", ta sử dụng mẫu 「〜に代わって」."
+    },
+    {
+      "id": "bunpou-n3-ni-kawatte-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "父に代わって、私が町内会の会議に出席しました。",
+      "sentenceVi": "Tôi đã tham dự cuộc họp hội khu phố thay cho bố tôi.",
+      "targetGrammar": "〜に代わって",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Thay vì ; thay mặt cho; thay thế"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜に代わって」 mang ý nghĩa: \"Thay vì ; thay mặt cho; thay thế\"."
+    },
+    {
+      "id": "bunpou-n3-ni-kawatte-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "入院中の社長に代わって、副社長があいさつをした。",
+      "sentenceVi": "Phó tổng thống thay mặt tổng thống đang nằm viện phát biểu.",
+      "targetGrammar": "〜に代わって",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thay vì ; thay mặt cho; thay thế\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことになっている",
+        "〜ことはない",
+        "〜に代わって"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜に代わって」."
+    },
+    {
+      "id": "bunpou-n3-ni-kawatte-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "入院中の社長に代わって、副社長があいさつをした。",
+      "sentenceVi": "Phó tổng thống thay mặt tổng thống đang nằm viện phát biểu.",
+      "targetGrammar": "〜に代わって",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜に代わって」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Thay vì ; thay mặt cho; thay thế",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜に代わって」 có nghĩa là: Thay vì ; thay mặt cho; thay thế."
+    }
+  ]
+}

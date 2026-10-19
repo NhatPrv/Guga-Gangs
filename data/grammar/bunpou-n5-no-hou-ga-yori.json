@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-no-hou-ga-yori",
+  "level": "N5",
+  "pattern": "〜の方が〜より",
+  "title": "〜の方が〜より",
+  "meaning": "X nhiều hơn... hơn Y",
+  "meaningVi": "X nhiều hơn... hơn Y",
+  "connection": "Danh từ (N) + の方が + Danh từ (N) + より",
+  "usageNotes": "Hai phần có thể đến theo thứ tự. Thường dùng để trả lời câu hỏi どちら.",
+  "examples": [
+    {
+      "ja": "犬の方が猫より好きです。",
+      "furigana": "{犬|いぬ}の{方|ほう}が{猫|ねこ}より{好|す}きです。",
+      "en": "I like dogs more than cats.",
+      "vi": "Tôi thích chó hơn mèo."
+    },
+    {
+      "ja": "東京の方が大阪より人が多いです。",
+      "furigana": "{東京|とうきょう}の{方|ほう}が{大阪|おおさか}より{人|ひと}が{多|おお}いです。",
+      "en": "Tokyo has more people than Osaka.",
+      "vi": "Tokyo có nhiều người hơn Osaka."
+    },
+    {
+      "ja": "夏より冬の方が好きです。",
+      "furigana": "{夏|なつ}より{冬|ふゆ}の{方|ほう}が{好|す}きです。",
+      "en": "I like winter better than summer.",
+      "vi": "Tôi thích mùa đông hơn mùa hè."
+    }
+  ],
+  "tags": [
+    "comparison"
+  ],
+  "unitId": "grammar-n5-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n5-no-hou-ga-yori-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "犬の方が猫より好きです。",
+      "sentenceVi": "Tôi thích chó hơn mèo.",
+      "targetGrammar": "〜の方が〜より",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "X nhiều hơn... hơn Y",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜の方が〜より」 mang ý nghĩa: \"X nhiều hơn... hơn Y\"."
+    },
+    {
+      "id": "bunpou-n5-no-hou-ga-yori-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "東京の方が大阪より人が多いです。",
+      "sentenceVi": "Tokyo có nhiều người hơn Osaka.",
+      "targetGrammar": "〜の方が〜より",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜に（time）",
+        "〜に（destination）",
+        "〜の方が〜より"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Tokyo có nhiều người hơn Osaka.\", ta sử dụng mẫu 「〜の方が〜より」."
+    },
+    {
+      "id": "bunpou-n5-no-hou-ga-yori-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夏より冬の方が好きです。",
+      "sentenceVi": "Tôi thích mùa đông hơn mùa hè.",
+      "targetGrammar": "〜の方が〜より",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "X nhiều hơn... hơn Y",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜の方が〜より」 mang ý nghĩa: \"X nhiều hơn... hơn Y\"."
+    },
+    {
+      "id": "bunpou-n5-no-hou-ga-yori-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "犬の方が猫より好きです。",
+      "sentenceVi": "Tôi thích chó hơn mèo.",
+      "targetGrammar": "〜の方が〜より",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"X nhiều hơn... hơn Y\":",
+      "options": [
+        "〜と（and）",
+        "〜で（place of action）",
+        "〜の方が〜より",
+        "〜で（means）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜の方が〜より」."
+    },
+    {
+      "id": "bunpou-n5-no-hou-ga-yori-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "犬の方が猫より好きです。",
+      "sentenceVi": "Tôi thích chó hơn mèo.",
+      "targetGrammar": "〜の方が〜より",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜の方が〜より」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "X nhiều hơn... hơn Y",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜の方が〜より」 có nghĩa là: X nhiều hơn... hơn Y."
+    }
+  ]
+}

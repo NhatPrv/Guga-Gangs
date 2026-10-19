@@ -1,0 +1,111 @@
+{
+  "id": "bunpou-n4-dasu",
+  "level": "N4",
+  "pattern": "〜出す",
+  "title": "〜出す",
+  "meaning": "Đột nhiên bắt đầu làm; bùng nổ",
+  "meaningVi": "Đột nhiên bắt đầu làm; bùng nổ",
+  "connection": "Động từ (V)-stem + 出す",
+  "usageNotes": "Ngụ ý sự khởi đầu đột ngột, thường không kiểm soát được. Không giống như 〜始める, nó không được sử dụng cho các hành động đã được lên kế hoạch hoặc trong các yêu cầu.",
+  "examples": [
+    {
+      "ja": "赤ちゃんが急に泣き出した。",
+      "furigana": "{赤|あか}ちゃんが{急|きゅう}に{泣|な}き{出|だ}した。",
+      "en": "The baby suddenly burst out crying.",
+      "vi": "Đứa bé chợt òa khóc."
+    },
+    {
+      "ja": "さっきまで晴れていたのに、急に雨が降り出した。",
+      "furigana": "さっきまで{晴|は}れていたのに、{急|きゅう}に{雨|あめ}が{降|ふ}り{出|だ}した。",
+      "en": "It was sunny until a moment ago, but suddenly it started to rain.",
+      "vi": "Lúc nãy trời đang nắng, nhưng đột nhiên trời bắt đầu mưa."
+    }
+  ],
+  "tags": [
+    "time",
+    "surprise"
+  ],
+  "unitId": "grammar-n4-unit-14",
+  "questions": [
+    {
+      "id": "bunpou-n4-dasu-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "赤ちゃんが急に泣き出した。",
+      "sentenceVi": "Đứa bé chợt òa khóc.",
+      "targetGrammar": "〜出す",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đột nhiên bắt đầu làm; bùng nổ",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜出す」 mang ý nghĩa: \"Đột nhiên bắt đầu làm; bùng nổ\"."
+    },
+    {
+      "id": "bunpou-n4-dasu-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "さっきまで晴れていたのに、急に雨が降り出した。",
+      "sentenceVi": "Lúc nãy trời đang nắng, nhưng đột nhiên trời bắt đầu mưa.",
+      "targetGrammar": "〜出す",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜出す"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Lúc nãy trời đang nắng, nhưng đột nhiên trời bắt đầu mưa.\", ta sử dụng mẫu 「〜出す」."
+    },
+    {
+      "id": "bunpou-n4-dasu-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "赤ちゃんが急に泣き出した。",
+      "sentenceVi": "Đứa bé chợt òa khóc.",
+      "targetGrammar": "〜出す",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜出す」 là gì?",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Đột nhiên bắt đầu làm; bùng nổ",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜出す」 có nghĩa là: Đột nhiên bắt đầu làm; bùng nổ."
+    },
+    {
+      "id": "bunpou-n4-dasu-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "赤ちゃんが急に泣き出した。",
+      "sentenceVi": "Đứa bé chợt òa khóc.",
+      "targetGrammar": "〜出す",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đột nhiên bắt đầu làm; bùng nổ\":",
+      "options": [
+        "〜出す",
+        "〜てみる",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜出す」."
+    },
+    {
+      "id": "bunpou-n4-dasu-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "赤ちゃんが急に泣き出した。",
+      "sentenceVi": "Đứa bé chợt òa khóc.",
+      "targetGrammar": "〜出す",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜出す」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Đột nhiên bắt đầu làm; bùng nổ",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜出す」 có nghĩa là: Đột nhiên bắt đầu làm; bùng nổ."
+    }
+  ]
+}

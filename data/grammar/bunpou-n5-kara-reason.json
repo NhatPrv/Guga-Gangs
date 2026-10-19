@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-kara-reason",
+  "level": "N5",
+  "pattern": "〜から（reason）",
+  "title": "〜から（reason）",
+  "meaning": "Vì... nên... (Nguyên nhân, lý do)",
+  "meaningVi": "Vì... nên... (Nguyên nhân, lý do)",
+  "connection": "Sentence + から",
+  "usageNotes": "Lý do đến trước: A から B (A, vậy B). Trả lời どうして bằng 〜からです. Danh từ và tính từ な cần だ: 雨だから.",
+  "examples": [
+    {
+      "ja": "今日は寒いから、コートを着ます。",
+      "furigana": "{今日|きょう}は{寒|さむ}いから、コートを{着|き}ます。",
+      "en": "It's cold today, so I'll wear a coat.",
+      "vi": "Hôm nay trời lạnh nên tôi sẽ mặc áo khoác."
+    },
+    {
+      "ja": "時間がありませんから、タクシーで行きましょう。",
+      "furigana": "{時間|じかん}がありませんから、タクシーで{行|い}きましょう。",
+      "en": "We don't have time, so let's take a taxi.",
+      "vi": "Chúng ta không có thời gian nên hãy đi taxi."
+    },
+    {
+      "ja": "「どうして休みましたか。」「頭が痛かったからです。」",
+      "furigana": "「どうして{休|やす}みましたか。」「{頭|あたま}が{痛|いた}���ったからです。」",
+      "en": "\"Why were you absent?\" \"Because I had a headache.\"",
+      "vi": "\"Sao cậu lại vắng mặt?\" “Bởi vì tôi bị đau đầu.”"
+    }
+  ],
+  "tags": [
+    "reason"
+  ],
+  "unitId": "grammar-n5-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n5-kara-reason-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は寒いから、コートを着ます。",
+      "sentenceVi": "Hôm nay trời lạnh nên tôi sẽ mặc áo khoác.",
+      "targetGrammar": "〜から（reason）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Vì... nên... (Nguyên nhân, lý do)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜から（reason）」 mang ý nghĩa: \"Vì... nên... (Nguyên nhân, lý do)\"."
+    },
+    {
+      "id": "bunpou-n5-kara-reason-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "時間がありませんから、タクシーで行きましょう。",
+      "sentenceVi": "Chúng ta không có thời gian nên hãy đi taxi.",
+      "targetGrammar": "〜から（reason）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜に（destination）",
+        "〜に（time）",
+        "〜から（reason）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Chúng ta không có thời gian nên hãy đi taxi.\", ta sử dụng mẫu 「〜から（reason）」."
+    },
+    {
+      "id": "bunpou-n5-kara-reason-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「どうして休みましたか。」「頭が痛かったからです。」",
+      "sentenceVi": "\"Sao cậu lại vắng mặt?\" “Bởi vì tôi bị đau đầu.”",
+      "targetGrammar": "〜から（reason）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Vì... nên... (Nguyên nhân, lý do)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜から（reason）」 mang ý nghĩa: \"Vì... nên... (Nguyên nhân, lý do)\"."
+    },
+    {
+      "id": "bunpou-n5-kara-reason-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は寒いから、コートを着ます。",
+      "sentenceVi": "Hôm nay trời lạnh nên tôi sẽ mặc áo khoác.",
+      "targetGrammar": "〜から（reason）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Vì... nên... (Nguyên nhân, lý do)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜で（means）",
+        "〜から（reason）",
+        "〜と（and）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜から（reason）」."
+    },
+    {
+      "id": "bunpou-n5-kara-reason-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は寒いから、コートを着ます。",
+      "sentenceVi": "Hôm nay trời lạnh nên tôi sẽ mặc áo khoác.",
+      "targetGrammar": "〜から（reason）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜から（reason）」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Vì... nên... (Nguyên nhân, lý do)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜から（reason）」 có nghĩa là: Vì... nên... (Nguyên nhân, lý do)."
+    }
+  ]
+}

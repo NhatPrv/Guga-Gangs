@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-na-na-adjective",
+  "level": "N5",
+  "pattern": "〜な（na-adjective）",
+  "title": "〜な（na-adjective）",
+  "meaning": "Tính từ na: đặt な trước danh từ và です hoặc だ ở cuối câu",
+  "meaningVi": "Tính từ na: đặt な trước danh từ và です hoặc だ ở cuối câu",
+  "connection": "na-Adj + な + Danh từ (N) / na-Adj + です / na-Adj + ではありません / na-Adj + でした",
+  "usageNotes": "Trước danh từ, thêm な: 静かな部屋. Ở cuối câu chúng thay đổi như danh từ. きれい và きらい kết thúc bằng い nhưng là tính từ な.",
+  "examples": [
+    {
+      "ja": "京都は有名な町です。",
+      "furigana": "{京都|きょうと}は{有名|ゆうめい}な{町|まち}です。",
+      "en": "Kyoto is a famous city.",
+      "vi": "Kyoto là một thành phố nổi tiếng."
+    },
+    {
+      "ja": "きのうは暇でした。",
+      "furigana": "きのうは{暇|ひま}でした。",
+      "en": "I was free yesterday.",
+      "vi": "Hôm qua tôi rảnh."
+    },
+    {
+      "ja": "この部屋はあまり静かではありません。",
+      "furigana": "この{部屋|へや}はあまり{静|しず}かではありません。",
+      "en": "This room isn't very quiet.",
+      "vi": "Căn phòng này không yên tĩnh lắm."
+    }
+  ],
+  "tags": [
+    "conjugation"
+  ],
+  "unitId": "grammar-n5-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n5-na-na-adjective-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "京都は有名な町です。",
+      "sentenceVi": "Kyoto là một thành phố nổi tiếng.",
+      "targetGrammar": "〜な（na-adjective）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Tính từ na: đặt な trước danh từ và です hoặc だ ở cuối câu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜な（na-adjective）」 mang ý nghĩa: \"Tính từ na: đặt な trước danh từ và です hoặc だ ở cuối câu\"."
+    },
+    {
+      "id": "bunpou-n5-na-na-adjective-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "きのうは暇でした。",
+      "sentenceVi": "Hôm qua tôi rảnh.",
+      "targetGrammar": "〜な（na-adjective）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜な（na-adjective）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Hôm qua tôi rảnh.\", ta sử dụng mẫu 「〜な（na-adjective）」."
+    },
+    {
+      "id": "bunpou-n5-na-na-adjective-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この部屋はあまり静かではありません。",
+      "sentenceVi": "Căn phòng này không yên tĩnh lắm.",
+      "targetGrammar": "〜な（na-adjective）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tính từ na: đặt な trước danh từ và です hoặc だ ở cuối câu",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜な（na-adjective）」 mang ý nghĩa: \"Tính từ na: đặt な trước danh từ và です hoặc だ ở cuối câu\"."
+    },
+    {
+      "id": "bunpou-n5-na-na-adjective-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "京都は有名な町です。",
+      "sentenceVi": "Kyoto là một thành phố nổi tiếng.",
+      "targetGrammar": "〜な（na-adjective）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tính từ na: đặt な trước danh từ và です hoặc だ ở cuối câu\":",
+      "options": [
+        "〜で（place of action）",
+        "〜で（means）",
+        "〜な（na-adjective）",
+        "〜と（and）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜な（na-adjective）」."
+    },
+    {
+      "id": "bunpou-n5-na-na-adjective-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "京都は有名な町です。",
+      "sentenceVi": "Kyoto là một thành phố nổi tiếng.",
+      "targetGrammar": "〜な（na-adjective）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜な（na-adjective）」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Tính từ na: đặt な trước danh từ và です hoặc だ ở cuối câu",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜な（na-adjective）」 có nghĩa là: Tính từ na: đặt な trước danh từ và です hoặc だ ở cuối câu."
+    }
+  ]
+}

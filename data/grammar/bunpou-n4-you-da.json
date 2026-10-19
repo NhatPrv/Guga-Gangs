@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-you-da",
+  "level": "N4",
+  "pattern": "〜ようだ",
+  "title": "〜ようだ",
+  "meaning": "Có vẻ như; nó xuất hiện (đánh giá từ bằng chứng)",
+  "meaningVi": "Có vẻ như; nó xuất hiện (đánh giá từ bằng chứng)",
+  "connection": "Động từ (V)-plain / i-Adj + ようだ / na-Adj + な + ようだ / Danh từ (N) + の + ようだ",
+  "usageNotes": "Một cách hơi trang trọng để đưa ra đánh giá dựa trên những gì bạn quan sát hoặc cảm nhận; みたいだ là từ tương đương thông thường. Việc sử dụng 'like, as if' được đề cập ở N3.",
+  "examples": [
+    {
+      "ja": "誰もいないようですね。",
+      "furigana": "{誰|だれ}もいないようですね。",
+      "en": "It seems nobody's here.",
+      "vi": "Có vẻ như không có ai ở đây."
+    },
+    {
+      "ja": "かぜをひいたようで、朝からのどが痛い。",
+      "furigana": "かぜをひいたようで、{朝|あさ}からのどが{痛|いた}い。",
+      "en": "I seem to have caught a cold; my throat has hurt since this morning.",
+      "vi": "Hình như tôi bị cảm lạnh; cổ họng tôi đau từ sáng nay."
+    },
+    {
+      "ja": "外は寒いようだ。みんなコートを着ている。",
+      "furigana": "{外|そと}は{寒|さむ}いようだ。みんなコートを{着|き}ている。",
+      "en": "It seems cold outside. Everyone is wearing a coat.",
+      "vi": "Bên ngoài có vẻ lạnh. Mọi người đều mặc áo khoác."
+    }
+  ],
+  "tags": [
+    "conjecture",
+    "appearance"
+  ],
+  "unitId": "grammar-n4-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n4-you-da-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "誰もいないようですね。",
+      "sentenceVi": "Có vẻ như không có ai ở đây.",
+      "targetGrammar": "〜ようだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Có vẻ như; nó xuất hiện (đánh giá từ bằng chứng)",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ようだ」 mang ý nghĩa: \"Có vẻ như; nó xuất hiện (đánh giá từ bằng chứng)\"."
+    },
+    {
+      "id": "bunpou-n4-you-da-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "かぜをひいたようで、朝からのどが痛い。",
+      "sentenceVi": "Hình như tôi bị cảm lạnh; cổ họng tôi đau từ sáng nay.",
+      "targetGrammar": "〜ようだ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ようだ",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜ていく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Hình như tôi bị cảm lạnh; cổ họng tôi đau từ sáng nay.\", ta sử dụng mẫu 「〜ようだ」."
+    },
+    {
+      "id": "bunpou-n4-you-da-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "外は寒いようだ。みんなコートを着ている。",
+      "sentenceVi": "Bên ngoài có vẻ lạnh. Mọi người đều mặc áo khoác.",
+      "targetGrammar": "〜ようだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Có vẻ như; nó xuất hiện (đánh giá từ bằng chứng)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ようだ」 mang ý nghĩa: \"Có vẻ như; nó xuất hiện (đánh giá từ bằng chứng)\"."
+    },
+    {
+      "id": "bunpou-n4-you-da-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "誰もいないようですね。",
+      "sentenceVi": "Có vẻ như không có ai ở đây.",
+      "targetGrammar": "〜ようだ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có vẻ như; nó xuất hiện (đánh giá từ bằng chứng)\":",
+      "options": [
+        "〜とき",
+        "〜てある",
+        "〜ようだ",
+        "〜てみる"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ようだ」."
+    },
+    {
+      "id": "bunpou-n4-you-da-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "誰もいないようですね。",
+      "sentenceVi": "Có vẻ như không có ai ở đây.",
+      "targetGrammar": "〜ようだ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ようだ」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Có vẻ như; nó xuất hiện (đánh giá từ bằng chứng)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ようだ」 có nghĩa là: Có vẻ như; nó xuất hiện (đánh giá từ bằng chứng)."
+    }
+  ]
+}

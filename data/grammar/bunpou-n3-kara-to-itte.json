@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-kara-to-itte",
+  "level": "N3",
+  "pattern": "〜からといって",
+  "title": "〜からといって",
+  "meaning": "Chỉ vì (... không có nghĩa); đơn giản vì",
+  "meaningVi": "Chỉ vì (... không có nghĩa); đơn giản vì",
+  "connection": "Sentence + からといって",
+  "usageNotes": "Phủ nhận rằng một lý do sẽ tự động dẫn đến một kết luận. Thường theo sau là phủ định như 〜わけではない hoặc 〜とは限らない. Bình thường: 〜からって.",
+  "examples": [
+    {
+      "ja": "日本人だからといって、みんなが敬語を正しく使えるわけではない。",
+      "furigana": "{日本人|にほんじん}だからといって、みんなが{敬語|けいご}を{正|ただ}しく{使|つか}えるわけではない。",
+      "en": "Just because someone is Japanese doesn't mean they can use keigo correctly.",
+      "vi": "Chỉ vì ai đó là người Nhật không có nghĩa là họ có thể sử dụng keigo một cách chính xác."
+    },
+    {
+      "ja": "忙しいからといって、朝ご飯を食べないのは体によくない。",
+      "furigana": "{忙|いそが}しいからといって、{朝|あさ}ご{飯|はん}を{食|た}べないのは{体|からだ}によくない。",
+      "en": "Skipping breakfast just because you're busy isn't good for you.",
+      "vi": "Bỏ bữa sáng chỉ vì bận rộn không tốt cho bạn."
+    },
+    {
+      "ja": "一回負けたからといって、あきらめる必要はない。",
+      "furigana": "{一回|いっかい}{負|ま}けたからといって、あきらめる{必要|ひつよう}はない。",
+      "en": "There's no need to give up just because you lost once.",
+      "vi": "Không cần thiết phải bỏ cuộc chỉ vì bạn đã thua một lần."
+    }
+  ],
+  "tags": [
+    "concession",
+    "reason"
+  ],
+  "unitId": "grammar-n3-unit-20",
+  "questions": [
+    {
+      "id": "bunpou-n3-kara-to-itte-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本人だからといって、みんなが敬語を正しく使えるわけではない。",
+      "sentenceVi": "Chỉ vì ai đó là người Nhật không có nghĩa là họ có thể sử dụng keigo một cách chính xác.",
+      "targetGrammar": "〜からといって",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chỉ vì (... không có nghĩa); đơn giản vì",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜からといって」 mang ý nghĩa: \"Chỉ vì (... không có nghĩa); đơn giản vì\"."
+    },
+    {
+      "id": "bunpou-n3-kara-to-itte-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "忙しいからといって、朝ご飯を食べないのは体によくない。",
+      "sentenceVi": "Bỏ bữa sáng chỉ vì bận rộn không tốt cho bạn.",
+      "targetGrammar": "〜からといって",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜からといって",
+        "〜わけにはいかない",
+        "〜ものではない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Bỏ bữa sáng chỉ vì bận rộn không tốt cho bạn.\", ta sử dụng mẫu 「〜からといって」."
+    },
+    {
+      "id": "bunpou-n3-kara-to-itte-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "一回負けたからといって、あきらめる必要はない。",
+      "sentenceVi": "Không cần thiết phải bỏ cuộc chỉ vì bạn đã thua một lần.",
+      "targetGrammar": "〜からといって",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Chỉ vì (... không có nghĩa); đơn giản vì",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜からといって」 mang ý nghĩa: \"Chỉ vì (... không có nghĩa); đơn giản vì\"."
+    },
+    {
+      "id": "bunpou-n3-kara-to-itte-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本人だからといって、みんなが敬語を正しく使えるわけではない。",
+      "sentenceVi": "Chỉ vì ai đó là người Nhật không có nghĩa là họ có thể sử dụng keigo một cách chính xác.",
+      "targetGrammar": "〜からといって",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chỉ vì (... không có nghĩa); đơn giản vì\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことはない",
+        "〜からといって",
+        "〜ことにしている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜からといって」."
+    },
+    {
+      "id": "bunpou-n3-kara-to-itte-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本人だからといって、みんなが敬語を正しく使えるわけではない。",
+      "sentenceVi": "Chỉ vì ai đó là người Nhật không có nghĩa là họ có thể sử dụng keigo một cách chính xác.",
+      "targetGrammar": "〜からといって",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜からといって」 là gì?",
+      "options": [
+        "Chỉ vì (... không có nghĩa); đơn giản vì",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜からといって」 có nghĩa là: Chỉ vì (... không có nghĩa); đơn giản vì."
+    }
+  ]
+}

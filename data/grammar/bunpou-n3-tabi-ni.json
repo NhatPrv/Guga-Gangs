@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-tabi-ni",
+  "level": "N3",
+  "pattern": "〜たびに",
+  "title": "〜たびに",
+  "meaning": "Mỗi lần... / Cứ mỗi dịp...",
+  "meaningVi": "Mỗi lần... / Cứ mỗi dịp...",
+  "connection": "Động từ (V)-dict / Danh từ (N) + の + たびに",
+  "usageNotes": "Mỗi lần A xảy ra thì B cũng xảy ra. Nhấn mạnh hơn 〜と hoặc 〜ときはいつも.",
+  "examples": [
+    {
+      "ja": "この写真を見るたびに、大学時代を思い出す。",
+      "furigana": "この{写真|しゃしん}を{見|み}るたびに、{大学|だいがく}{時代|じだい}を{思|おも}い{出|だ}す。",
+      "en": "Every time I look at this photo, I remember my university days.",
+      "vi": "Mỗi lần nhìn bức ảnh này tôi lại nhớ về thời đại học của mình."
+    },
+    {
+      "ja": "姉は出張のたびに、お土産を買ってきてくれる。",
+      "furigana": "{姉|あね}は{出張|しゅっちょう}のたびに、お{土産|みやげ}を{買|か}ってきてくれる。",
+      "en": "My older sister brings me a souvenir every time she goes on a business trip.",
+      "vi": "Chị gái tôi luôn mang cho tôi một món quà lưu niệm mỗi khi chị đi công tác."
+    },
+    {
+      "ja": "この川は、大雨が降るたびにあふれて、道が通れなくなる。",
+      "furigana": "この{川|かわ}は、{大雨|おおあめ}が{降|ふ}るたびにあふれて、{道|みち}が{通|とお}れなくなる。",
+      "en": "Every time there's heavy rain, this river overflows and the road becomes impassable.",
+      "vi": "Mỗi khi có mưa lớn, dòng sông này tràn bờ, đường đi trở nên tắc nghẽn."
+    }
+  ],
+  "tags": [
+    "time",
+    "tendency"
+  ],
+  "unitId": "grammar-n3-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n3-tabi-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この写真を見るたびに、大学時代を思い出す。",
+      "sentenceVi": "Mỗi lần nhìn bức ảnh này tôi lại nhớ về thời đại học của mình.",
+      "targetGrammar": "〜たびに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Mỗi lần... / Cứ mỗi dịp..."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜たびに」 mang ý nghĩa: \"Mỗi lần... / Cứ mỗi dịp...\"."
+    },
+    {
+      "id": "bunpou-n3-tabi-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "姉は出張のたびに、お土産を買ってきてくれる。",
+      "sentenceVi": "Chị gái tôi luôn mang cho tôi một món quà lưu niệm mỗi khi chị đi công tác.",
+      "targetGrammar": "〜たびに",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜たびに",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Chị gái tôi luôn mang cho tôi một món quà lưu niệm mỗi khi chị đi công tác.\", ta sử dụng mẫu 「〜たびに」."
+    },
+    {
+      "id": "bunpou-n3-tabi-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この川は、大雨が降るたびにあふれて、道が通れなくなる。",
+      "sentenceVi": "Mỗi khi có mưa lớn, dòng sông này tràn bờ, đường đi trở nên tắc nghẽn.",
+      "targetGrammar": "〜たびに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi lần... / Cứ mỗi dịp...",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜たびに」 mang ý nghĩa: \"Mỗi lần... / Cứ mỗi dịp...\"."
+    },
+    {
+      "id": "bunpou-n3-tabi-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この写真を見るたびに、大学時代を思い出す。",
+      "sentenceVi": "Mỗi lần nhìn bức ảnh này tôi lại nhớ về thời đại học của mình.",
+      "targetGrammar": "〜たびに",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Mỗi lần... / Cứ mỗi dịp...\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことはない",
+        "〜ことになっている",
+        "〜たびに"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜たびに」."
+    },
+    {
+      "id": "bunpou-n3-tabi-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この写真を見るたびに、大学時代を思い出す。",
+      "sentenceVi": "Mỗi lần nhìn bức ảnh này tôi lại nhớ về thời đại học của mình.",
+      "targetGrammar": "〜たびに",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜たびに」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Mỗi lần... / Cứ mỗi dịp...",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜たびに」 có nghĩa là: Mỗi lần... / Cứ mỗi dịp...."
+    }
+  ]
+}

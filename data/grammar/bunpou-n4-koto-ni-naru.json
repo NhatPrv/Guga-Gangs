@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-koto-ni-naru",
+  "level": "N4",
+  "pattern": "〜ことになる",
+  "title": "〜ことになる",
+  "meaning": "Điều đó đã được quyết định; hóa ra là thế",
+  "meaningVi": "Điều đó đã được quyết định; hóa ra là thế",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + ことになる",
+  "usageNotes": "Trình bày một quyết định được đưa ra bởi người khác hoặc bởi hoàn cảnh. Mọi người cũng sử dụng nó cho các quyết định của riêng họ để có vẻ ít quyết đoán hơn.",
+  "examples": [
+    {
+      "ja": "来年の春から、名古屋の店で働くことになりました。",
+      "furigana": "{来年|らいねん}の{春|はる}から、{名古屋|なごや}の{店|みせ}で{働|はたら}くことになりました。",
+      "en": "It's been decided that I'll work at the Nagoya store from next spring.",
+      "vi": "Người ta đã quyết định rằng tôi sẽ làm việc tại cửa hàng Nagoya từ mùa xuân tới."
+    },
+    {
+      "ja": "今度の日曜日、クラスのみんなでバーベキューをすることになった。",
+      "furigana": "{今度|こんど}の{日曜日|にちようび}、クラスのみんなでバーベキューをすることになった。",
+      "en": "It's been settled that the whole class will have a barbecue this Sunday.",
+      "vi": "Đã quyết định là chủ nhật tuần này cả lớp sẽ tổ chức tiệc nướng."
+    },
+    {
+      "ja": "友達の結婚式で、私がスピーチをすることになりました。",
+      "furigana": "{友達|ともだち}の{結婚式|けっこんしき}で、{私|わたし}がスピーチをすることになりました。",
+      "en": "It turns out I'll be giving a speech at my friend's wedding.",
+      "vi": "Hóa ra tôi sẽ có bài phát biểu tại đám cưới của bạn tôi."
+    }
+  ],
+  "tags": [
+    "decision",
+    "result"
+  ],
+  "unitId": "grammar-n4-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n4-koto-ni-naru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "来年の春から、名古屋の店で働くことになりました。",
+      "sentenceVi": "Người ta đã quyết định rằng tôi sẽ làm việc tại cửa hàng Nagoya từ mùa xuân tới.",
+      "targetGrammar": "〜ことになる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai...",
+        "Điều đó đã được quyết định; hóa ra là thế",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ことになる」 mang ý nghĩa: \"Điều đó đã được quyết định; hóa ra là thế\"."
+    },
+    {
+      "id": "bunpou-n4-koto-ni-naru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今度の日曜日、クラスのみんなでバーベキューをすることになった。",
+      "sentenceVi": "Đã quyết định là chủ nhật tuần này cả lớp sẽ tổ chức tiệc nướng.",
+      "targetGrammar": "〜ことになる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜ことになる",
+        "〜ていく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Đã quyết định là chủ nhật tuần này cả lớp sẽ tổ chức tiệc nướng.\", ta sử dụng mẫu 「〜ことになる」."
+    },
+    {
+      "id": "bunpou-n4-koto-ni-naru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "友達の結婚式で、私がスピーチをすることになりました。",
+      "sentenceVi": "Hóa ra tôi sẽ có bài phát biểu tại đám cưới của bạn tôi.",
+      "targetGrammar": "〜ことになる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Điều đó đã được quyết định; hóa ra là thế",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ことになる」 mang ý nghĩa: \"Điều đó đã được quyết định; hóa ra là thế\"."
+    },
+    {
+      "id": "bunpou-n4-koto-ni-naru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "来年の春から、名古屋の店で働くことになりました。",
+      "sentenceVi": "Người ta đã quyết định rằng tôi sẽ làm việc tại cửa hàng Nagoya từ mùa xuân tới.",
+      "targetGrammar": "〜ことになる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Điều đó đã được quyết định; hóa ra là thế\":",
+      "options": [
+        "〜てみる",
+        "〜てある",
+        "〜ことになる",
+        "〜とき"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ことになる」."
+    },
+    {
+      "id": "bunpou-n4-koto-ni-naru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "来年の春から、名古屋の店で働くことになりました。",
+      "sentenceVi": "Người ta đã quyết định rằng tôi sẽ làm việc tại cửa hàng Nagoya từ mùa xuân tới.",
+      "targetGrammar": "〜ことになる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ことになる」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Điều đó đã được quyết định; hóa ra là thế",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ことになる」 có nghĩa là: Điều đó đã được quyết định; hóa ra là thế."
+    }
+  ]
+}

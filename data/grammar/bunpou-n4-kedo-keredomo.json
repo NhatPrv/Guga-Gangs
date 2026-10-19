@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-kedo-keredomo",
+  "level": "N4",
+  "pattern": "〜けど / 〜けれども",
+  "title": "〜けど / 〜けれども",
+  "meaning": "Nhưng; mặc dù; (đầu vào mềm)",
+  "meaningVi": "Nhưng; mặc dù; (đầu vào mềm)",
+  "connection": "Sentence + けど / けれども",
+  "usageNotes": "Mang tính trò chuyện nhiều hơn が; けれども trang trọng hơn けど một chút. Thường được sử dụng như một lời mở đầu nhẹ nhàng trước một câu hỏi hoặc yêu cầu.",
+  "examples": [
+    {
+      "ja": "この店は高いけど、おいしい。",
+      "furigana": "この{店|みせ}は{高|たか}いけど、おいしい。",
+      "en": "This place is expensive, but the food is good.",
+      "vi": "Nơi này đắt tiền nhưng đồ ăn thì ngon."
+    },
+    {
+      "ja": "すみません、駅に行きたいんですけど、どう行けばいいですか。",
+      "furigana": "すみません、{駅|えき}に{行|い}きたいんですけど、どう{行|い}けばいいですか。",
+      "en": "Excuse me, I'd like to get to the station. How do I get there?",
+      "vi": "Xin lỗi, tôi muốn đến nhà ga. Làm thế nào để tôi đến đó?"
+    },
+    {
+      "ja": "何度も電話したけれども、誰も出なかった。",
+      "furigana": "{何|なん}{度|ど}も{電話|でんわ}したけれども、{誰|だれ}も{出|で}なかった。",
+      "en": "I called several times, but nobody answered.",
+      "vi": "Tôi gọi nhiều lần nhưng không ai trả lời."
+    }
+  ],
+  "tags": [
+    "contrast",
+    "casual"
+  ],
+  "unitId": "grammar-n4-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n4-kedo-keredomo-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この店は高いけど、おいしい。",
+      "sentenceVi": "Nơi này đắt tiền nhưng đồ ăn thì ngon.",
+      "targetGrammar": "〜けど / 〜けれども",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Nhưng; mặc dù; (đầu vào mềm)",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜けど / 〜けれども」 mang ý nghĩa: \"Nhưng; mặc dù; (đầu vào mềm)\"."
+    },
+    {
+      "id": "bunpou-n4-kedo-keredomo-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "すみません、駅に行きたいんですけど、どう行けばいいですか。",
+      "sentenceVi": "Xin lỗi, tôi muốn đến nhà ga. Làm thế nào để tôi đến đó?",
+      "targetGrammar": "〜けど / 〜けれども",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜けど / 〜けれども",
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Xin lỗi, tôi muốn đến nhà ga. Làm thế nào để tôi đến đó?\", ta sử dụng mẫu 「〜けど / 〜けれども」."
+    },
+    {
+      "id": "bunpou-n4-kedo-keredomo-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "何度も電話したけれども、誰も出なかった。",
+      "sentenceVi": "Tôi gọi nhiều lần nhưng không ai trả lời.",
+      "targetGrammar": "〜けど / 〜けれども",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Nhưng; mặc dù; (đầu vào mềm)",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜けど / 〜けれども」 mang ý nghĩa: \"Nhưng; mặc dù; (đầu vào mềm)\"."
+    },
+    {
+      "id": "bunpou-n4-kedo-keredomo-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この店は高いけど、おいしい。",
+      "sentenceVi": "Nơi này đắt tiền nhưng đồ ăn thì ngon.",
+      "targetGrammar": "〜けど / 〜けれども",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nhưng; mặc dù; (đầu vào mềm)\":",
+      "options": [
+        "〜てある",
+        "〜てみる",
+        "〜とき",
+        "〜けど / 〜けれども"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜けど / 〜けれども」."
+    },
+    {
+      "id": "bunpou-n4-kedo-keredomo-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この店は高いけど、おいしい。",
+      "sentenceVi": "Nơi này đắt tiền nhưng đồ ăn thì ngon.",
+      "targetGrammar": "〜けど / 〜けれども",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜けど / 〜けれども」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Nhưng; mặc dù; (đầu vào mềm)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜けど / 〜けれども」 có nghĩa là: Nhưng; mặc dù; (đầu vào mềm)."
+    }
+  ]
+}

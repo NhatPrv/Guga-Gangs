@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-ni-chigai-nai",
+  "level": "N3",
+  "pattern": "〜に違いない",
+  "title": "〜に違いない",
+  "meaning": "Chắc chắn là... (Phán đoán chủ quan chắc nịch)",
+  "meaningVi": "Chắc chắn là... (Phán đoán chủ quan chắc nịch)",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + に違いない",
+  "usageNotes": "Niềm tin mạnh mẽ dựa trên bằng chứng hoặc trực giác; một giọng điệu hơi viết. So sánh 〜に決まっている, cái nào mang tính chủ quan và mang tính đối thoại hơn.",
+  "examples": [
+    {
+      "ja": "隣の家は何日も電気が消えている。家族で旅行に出かけたに違いない。",
+      "furigana": "{隣|となり}の{家|いえ}は{何|なん}{日|にち}も{電気|でんき}が{消|き}えている。{家族|かぞく}で{旅行|りょこう}に{出|で}かけたに{違|ちが}いない。",
+      "en": "The lights next door have been off for days. The family must have gone on a trip.",
+      "vi": "Đèn bên cạnh đã tắt từ nhiều ngày. Chắc hẳn gia đình đã đi du lịch."
+    },
+    {
+      "ja": "こんなに人が並んでいるんだから、この店のラーメンはおいしいに違いない。",
+      "furigana": "こんなに{人|ひと}が{並|なら}んでいるんだから、この{店|みせ}のラーメンはおいしいに{違|ちが}いない。",
+      "en": "With this many people in line, the ramen here must be good.",
+      "vi": "Với nhiều người xếp hàng như thế này thì ramen ở đây hẳn phải ngon lắm."
+    },
+    {
+      "ja": "この手紙の字は、父の字に違いない。",
+      "furigana": "この{手紙|てがみ}の{字|じ}は、{父|ちち}の{字|じ}に{違|ちが}いない。",
+      "en": "The handwriting on this letter is surely my father's.",
+      "vi": "Chữ viết trên bức thư này chắc chắn là của bố tôi."
+    }
+  ],
+  "tags": [
+    "conjecture",
+    "emphasis"
+  ],
+  "unitId": "grammar-n3-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-chigai-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "隣の家は何日も電気が消えている。家族で旅行に出かけたに違いない。",
+      "sentenceVi": "Đèn bên cạnh đã tắt từ nhiều ngày. Chắc hẳn gia đình đã đi du lịch.",
+      "targetGrammar": "〜に違いない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn là... (Phán đoán chủ quan chắc nịch)",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜に違いない」 mang ý nghĩa: \"Chắc chắn là... (Phán đoán chủ quan chắc nịch)\"."
+    },
+    {
+      "id": "bunpou-n3-ni-chigai-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "こんなに人が並んでいるんだから、この店のラーメンはおいしいに違いない。",
+      "sentenceVi": "Với nhiều người xếp hàng như thế này thì ramen ở đây hẳn phải ngon lắm.",
+      "targetGrammar": "〜に違いない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜に違いない",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Với nhiều người xếp hàng như thế này thì ramen ở đây hẳn phải ngon lắm.\", ta sử dụng mẫu 「〜に違いない」."
+    },
+    {
+      "id": "bunpou-n3-ni-chigai-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この手紙の字は、父の字に違いない。",
+      "sentenceVi": "Chữ viết trên bức thư này chắc chắn là của bố tôi.",
+      "targetGrammar": "〜に違いない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Chắc chắn là... (Phán đoán chủ quan chắc nịch)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜に違いない」 mang ý nghĩa: \"Chắc chắn là... (Phán đoán chủ quan chắc nịch)\"."
+    },
+    {
+      "id": "bunpou-n3-ni-chigai-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "隣の家は何日も電気が消えている。家族で旅行に出かけたに違いない。",
+      "sentenceVi": "Đèn bên cạnh đã tắt từ nhiều ngày. Chắc hẳn gia đình đã đi du lịch.",
+      "targetGrammar": "〜に違いない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chắc chắn là... (Phán đoán chủ quan chắc nịch)\":",
+      "options": [
+        "〜ことにしている",
+        "〜に違いない",
+        "〜ことはない",
+        "〜ことになっている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜に違いない」."
+    },
+    {
+      "id": "bunpou-n3-ni-chigai-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "隣の家は何日も電気が消えている。家族で旅行に出かけたに違いない。",
+      "sentenceVi": "Đèn bên cạnh đã tắt từ nhiều ngày. Chắc hẳn gia đình đã đi du lịch.",
+      "targetGrammar": "〜に違いない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜に違いない」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Chắc chắn là... (Phán đoán chủ quan chắc nịch)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜に違いない」 có nghĩa là: Chắc chắn là... (Phán đoán chủ quan chắc nịch)."
+    }
+  ]
+}

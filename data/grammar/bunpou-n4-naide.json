@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-naide",
+  "level": "N4",
+  "pattern": "〜ないで",
+  "title": "〜ないで",
+  "meaning": "Không làm gì; thay vì làm",
+  "meaningVi": "Không làm gì; thay vì làm",
+  "connection": "Động từ (V)-nai + で",
+  "usageNotes": "〜ずに (N3) có nghĩa tương tự nhưng trang trọng hơn. Khác với 〜なくて, nó đưa ra lý do.",
+  "examples": [
+    {
+      "ja": "今朝は朝ご飯を食べないで学校に行った。",
+      "furigana": "{今朝|けさ}は{朝|あさ}ご{飯|はん}を{食|た}べないで{学校|がっこう}に{行|い}った。",
+      "en": "This morning I went to school without eating breakfast.",
+      "vi": "Sáng nay tôi đi học mà không ăn sáng."
+    },
+    {
+      "ja": "傘を持たないで出かけて、雨にぬれてしまった。",
+      "furigana": "{傘|かさ}を{持|も}たないで{出|で}かけて、{雨|あめ}にぬれてしまった。",
+      "en": "I went out without an umbrella and got soaked.",
+      "vi": "Tôi ra ngoài mà không mang ô và bị ướt sũng."
+    },
+    {
+      "ja": "エレベーターを使わないで、階段で上がりましょう。",
+      "furigana": "エレベーターを{使|つか}わないで、{階段|かいだん}で{上|あ}がりましょう。",
+      "en": "Let's take the stairs instead of the elevator.",
+      "vi": "Chúng ta hãy đi cầu thang bộ thay vì thang máy."
+    }
+  ],
+  "tags": [
+    "negation",
+    "manner"
+  ],
+  "unitId": "grammar-n4-unit-20",
+  "questions": [
+    {
+      "id": "bunpou-n4-naide-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今朝は朝ご飯を食べないで学校に行った。",
+      "sentenceVi": "Sáng nay tôi đi học mà không ăn sáng.",
+      "targetGrammar": "〜ないで",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Không làm gì; thay vì làm",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ないで」 mang ý nghĩa: \"Không làm gì; thay vì làm\"."
+    },
+    {
+      "id": "bunpou-n4-naide-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "傘を持たないで出かけて、雨にぬれてしまった。",
+      "sentenceVi": "Tôi ra ngoài mà không mang ô và bị ướt sũng.",
+      "targetGrammar": "〜ないで",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜ないで",
+        "〜てもらう"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi ra ngoài mà không mang ô và bị ướt sũng.\", ta sử dụng mẫu 「〜ないで」."
+    },
+    {
+      "id": "bunpou-n4-naide-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "エレベーターを使わないで、階段で上がりましょう。",
+      "sentenceVi": "Chúng ta hãy đi cầu thang bộ thay vì thang máy.",
+      "targetGrammar": "〜ないで",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không làm gì; thay vì làm",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ないで」 mang ý nghĩa: \"Không làm gì; thay vì làm\"."
+    },
+    {
+      "id": "bunpou-n4-naide-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今朝は朝ご飯を食べないで学校に行った。",
+      "sentenceVi": "Sáng nay tôi đi học mà không ăn sáng.",
+      "targetGrammar": "〜ないで",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không làm gì; thay vì làm\":",
+      "options": [
+        "〜てある",
+        "〜とき",
+        "〜てみる",
+        "〜ないで"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜ないで」."
+    },
+    {
+      "id": "bunpou-n4-naide-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今朝は朝ご飯を食べないで学校に行った。",
+      "sentenceVi": "Sáng nay tôi đi học mà không ăn sáng.",
+      "targetGrammar": "〜ないで",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ないで」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Không làm gì; thay vì làm",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ないで」 có nghĩa là: Không làm gì; thay vì làm."
+    }
+  ]
+}

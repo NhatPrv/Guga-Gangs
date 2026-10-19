@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-te-hoshii",
+  "level": "N4",
+  "pattern": "〜てほしい",
+  "title": "〜てほしい",
+  "meaning": "Muốn ai đó làm gì",
+  "meaningVi": "Muốn ai đó làm gì",
+  "connection": "Động từ (V)-te + ほしい / Động từ (V)-nai + で + ほしい",
+  "usageNotes": "Người bạn muốn hành động được đánh dấu bằng に. Nói với cấp trên điều đó nghe có vẻ khắt khe; 〜ていただきたいです lịch sự hơn.",
+  "examples": [
+    {
+      "ja": "もう少しゆっくり話してほしいです。",
+      "furigana": "もう{少|すこ}しゆっくり{話|はな}してほしいです。",
+      "en": "I'd like you to speak a little more slowly.",
+      "vi": "Tôi muốn bạn nói chậm lại một chút."
+    },
+    {
+      "ja": "この話は誰にも言わないでほしい。",
+      "furigana": "この{話|はなし}は{誰|だれ}にも{言|い}わないでほしい。",
+      "en": "I don't want you to tell anyone about this.",
+      "vi": "Tôi không muốn bạn nói với ai về điều này."
+    },
+    {
+      "ja": "早く春が来てほしいなあ。",
+      "furigana": "{早|はや}く{春|はる}が{来|き}てほしいなあ。",
+      "en": "I wish spring would hurry up and come.",
+      "vi": "Tôi ước gì mùa xuân sẽ nhanh chóng đến."
+    }
+  ],
+  "tags": [
+    "desire",
+    "request"
+  ],
+  "unitId": "grammar-n4-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-hoshii-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "もう少しゆっくり話してほしいです。",
+      "sentenceVi": "Tôi muốn bạn nói chậm lại một chút.",
+      "targetGrammar": "〜てほしい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Muốn ai đó làm gì"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜てほしい」 mang ý nghĩa: \"Muốn ai đó làm gì\"."
+    },
+    {
+      "id": "bunpou-n4-te-hoshii-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この話は誰にも言わないでほしい。",
+      "sentenceVi": "Tôi không muốn bạn nói với ai về điều này.",
+      "targetGrammar": "〜てほしい",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てほしい",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜ていく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi không muốn bạn nói với ai về điều này.\", ta sử dụng mẫu 「〜てほしい」."
+    },
+    {
+      "id": "bunpou-n4-te-hoshii-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "早く春が来てほしいなあ。",
+      "sentenceVi": "Tôi ước gì mùa xuân sẽ nhanh chóng đến.",
+      "targetGrammar": "〜てほしい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Muốn ai đó làm gì",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜てほしい」 mang ý nghĩa: \"Muốn ai đó làm gì\"."
+    },
+    {
+      "id": "bunpou-n4-te-hoshii-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "もう少しゆっくり話してほしいです。",
+      "sentenceVi": "Tôi muốn bạn nói chậm lại một chút.",
+      "targetGrammar": "〜てほしい",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Muốn ai đó làm gì\":",
+      "options": [
+        "〜てある",
+        "〜てみる",
+        "〜てほしい",
+        "〜とき"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜てほしい」."
+    },
+    {
+      "id": "bunpou-n4-te-hoshii-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "もう少しゆっくり話してほしいです。",
+      "sentenceVi": "Tôi muốn bạn nói chậm lại một chút.",
+      "targetGrammar": "〜てほしい",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てほしい」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Muốn ai đó làm gì",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜てほしい」 có nghĩa là: Muốn ai đó làm gì."
+    }
+  ]
+}

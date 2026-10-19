@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-you-na-you-ni-like",
+  "level": "N3",
+  "pattern": "〜ような / 〜ように（like）",
+  "title": "〜ような / 〜ように（like）",
+  "meaning": "Thích; BẰNG; chẳng hạn như",
+  "meaningVi": "Thích; BẰNG; chẳng hạn như",
+  "connection": "Động từ (V)-plain / Danh từ (N) + の + ような / ように",
+  "usageNotes": "ような đứng trước danh từ, ように đứng trước động từ và tính từ. AのようなB cũng có thể có nghĩa là 'B chẳng hạn như A'. Bình thường: 〜みたいな / 〜みたいに.",
+  "examples": [
+    {
+      "ja": "私も、あなたのような優しい看護師になりたいです。",
+      "furigana": "{私|わたし}も、あなたのような{優|やさ}しい{看護|かんご}{師|し}になりたいです。",
+      "en": "I want to become a kind nurse like you, too.",
+      "vi": "Em cũng muốn trở thành một y tá tốt bụng như chị."
+    },
+    {
+      "ja": "先生が言ったように、この文法はテストによく出る。",
+      "furigana": "{先生|せんせい}が{言|い}ったように、この{文法|ぶんぽう}はテストによく{出|で}る。",
+      "en": "As the teacher said, this grammar point often comes up on tests.",
+      "vi": "Như giáo viên đã nói, điểm ngữ pháp này thường xuất hiện trong các bài kiểm tra."
+    },
+    {
+      "ja": "東京のような大きな都市では、家賃がとても高い。",
+      "furigana": "{東京|とうきょう}のような{大|おお}きな{都市|とし}では、{家賃|やちん}がとても{高|たか}い。",
+      "en": "In big cities such as Tokyo, rent is very high.",
+      "vi": "Ở các thành phố lớn như Tokyo, giá thuê nhà rất cao."
+    }
+  ],
+  "tags": [
+    "comparison",
+    "example",
+    "manner"
+  ],
+  "unitId": "grammar-n3-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n3-you-na-you-ni-like-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私も、あなたのような優しい看護師になりたいです。",
+      "sentenceVi": "Em cũng muốn trở thành một y tá tốt bụng như chị.",
+      "targetGrammar": "〜ような / 〜ように（like）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thích; BẰNG; chẳng hạn như",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ような / 〜ように（like）」 mang ý nghĩa: \"Thích; BẰNG; chẳng hạn như\"."
+    },
+    {
+      "id": "bunpou-n3-you-na-you-ni-like-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "先生が言ったように、この文法はテストによく出る。",
+      "sentenceVi": "Như giáo viên đã nói, điểm ngữ pháp này thường xuất hiện trong các bài kiểm tra.",
+      "targetGrammar": "〜ような / 〜ように（like）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜ものだ",
+        "〜わけにはいかない",
+        "〜ような / 〜ように（like）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Như giáo viên đã nói, điểm ngữ pháp này thường xuất hiện trong các bài kiểm tra.\", ta sử dụng mẫu 「〜ような / 〜ように（like）」."
+    },
+    {
+      "id": "bunpou-n3-you-na-you-ni-like-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "東京のような大きな都市では、家賃がとても高い。",
+      "sentenceVi": "Ở các thành phố lớn như Tokyo, giá thuê nhà rất cao.",
+      "targetGrammar": "〜ような / 〜ように（like）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Thích; BẰNG; chẳng hạn như",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ような / 〜ように（like）」 mang ý nghĩa: \"Thích; BẰNG; chẳng hạn như\"."
+    },
+    {
+      "id": "bunpou-n3-you-na-you-ni-like-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私も、あなたのような優しい看護師になりたいです。",
+      "sentenceVi": "Em cũng muốn trở thành một y tá tốt bụng như chị.",
+      "targetGrammar": "〜ような / 〜ように（like）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thích; BẰNG; chẳng hạn như\":",
+      "options": [
+        "〜ことはない",
+        "〜ような / 〜ように（like）",
+        "〜ことにしている",
+        "〜ことになっている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ような / 〜ように（like）」."
+    },
+    {
+      "id": "bunpou-n3-you-na-you-ni-like-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私も、あなたのような優しい看護師になりたいです。",
+      "sentenceVi": "Em cũng muốn trở thành một y tá tốt bụng như chị.",
+      "targetGrammar": "〜ような / 〜ように（like）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ような / 〜ように（like）」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Thích; BẰNG; chẳng hạn như",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ような / 〜ように（like）」 có nghĩa là: Thích; BẰNG; chẳng hạn như."
+    }
+  ]
+}

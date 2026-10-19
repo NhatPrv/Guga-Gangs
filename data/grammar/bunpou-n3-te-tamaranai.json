@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-te-tamaranai",
+  "level": "N3",
+  "pattern": "〜てたまらない",
+  "title": "〜てたまらない",
+  "meaning": "Không thể chịu nổi ; sắp chết ; vô cùng (cảm giác)",
+  "meaningVi": "Không thể chịu nổi ; sắp chết ; vô cùng (cảm giác)",
+  "connection": "Động từ (V)-te / i-Adj-ku + て / na-Adj + で + たまらない",
+  "usageNotes": "Cảm giác mạnh mẽ, trực tiếp hoặc cảm giác cơ thể; rất phổ biến với ham muốn (〜たくてたまらない). Không được sử dụng cho sự thật khách quan. So sánh 〜てしかたがない.",
+  "examples": [
+    {
+      "ja": "この部屋はエアコンがなくて、暑くてたまらない。",
+      "furigana": "この{部屋|へや}はエアコンがなくて、{暑|あつ}くてたまらない。",
+      "en": "This room has no air conditioning; it's unbearably hot.",
+      "vi": "Phòng này không có máy lạnh; nóng không chịu nổi."
+    },
+    {
+      "ja": "三年ぶりに国の家族に会えるので、うれしくてたまらない。",
+      "furigana": "{三|さん}{年|ねん}ぶりに{国|くに}の{家族|かぞく}に{会|あ}えるので、うれしくてたまらない。",
+      "en": "I'm going to see my family back home for the first time in three years, and I'm overjoyed.",
+      "vi": "Tôi sắp được gặp lại gia đình mình ở quê nhà lần đầu tiên sau ba năm và tôi vui mừng khôn xiết."
+    },
+    {
+      "ja": "試合に負けたのが悔しくてたまらなかった。",
+      "furigana": "{試合|しあい}に{負|ま}けたのが{悔|くや}しくてたまらなかった。",
+      "en": "I was terribly frustrated that we lost the match.",
+      "vi": "Tôi vô cùng thất vọng vì chúng tôi đã thua trận đấu."
+    }
+  ],
+  "tags": [
+    "emotion",
+    "degree"
+  ],
+  "unitId": "grammar-n3-unit-14",
+  "questions": [
+    {
+      "id": "bunpou-n3-te-tamaranai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この部屋はエアコンがなくて、暑くてたまらない。",
+      "sentenceVi": "Phòng này không có máy lạnh; nóng không chịu nổi.",
+      "targetGrammar": "〜てたまらない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Không thể chịu nổi ; sắp chết ; vô cùng (cảm giác)",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜てたまらない」 mang ý nghĩa: \"Không thể chịu nổi ; sắp chết ; vô cùng (cảm giác)\"."
+    },
+    {
+      "id": "bunpou-n3-te-tamaranai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "三年ぶりに国の家族に会えるので、うれしくてたまらない。",
+      "sentenceVi": "Tôi sắp được gặp lại gia đình mình ở quê nhà lần đầu tiên sau ba năm và tôi vui mừng khôn xiết.",
+      "targetGrammar": "〜てたまらない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜てたまらない",
+        "〜わけにはいかない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi sắp được gặp lại gia đình mình ở quê nhà lần đầu tiên sau ba năm và tôi vui mừng khôn xiết.\", ta sử dụng mẫu 「〜てたまらない」."
+    },
+    {
+      "id": "bunpou-n3-te-tamaranai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "試合に負けたのが悔しくてたまらなかった。",
+      "sentenceVi": "Tôi vô cùng thất vọng vì chúng tôi đã thua trận đấu.",
+      "targetGrammar": "〜てたまらない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không thể chịu nổi ; sắp chết ; vô cùng (cảm giác)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜てたまらない」 mang ý nghĩa: \"Không thể chịu nổi ; sắp chết ; vô cùng (cảm giác)\"."
+    },
+    {
+      "id": "bunpou-n3-te-tamaranai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この部屋はエアコンがなくて、暑くてたまらない。",
+      "sentenceVi": "Phòng này không có máy lạnh; nóng không chịu nổi.",
+      "targetGrammar": "〜てたまらない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không thể chịu nổi ; sắp chết ; vô cùng (cảm giác)\":",
+      "options": [
+        "〜ことになっている",
+        "〜てたまらない",
+        "〜ことにしている",
+        "〜ことはない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜てたまらない」."
+    },
+    {
+      "id": "bunpou-n3-te-tamaranai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この部屋はエアコンがなくて、暑くてたまらない。",
+      "sentenceVi": "Phòng này không có máy lạnh; nóng không chịu nổi.",
+      "targetGrammar": "〜てたまらない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てたまらない」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Không thể chịu nổi ; sắp chết ; vô cùng (cảm giác)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜てたまらない」 có nghĩa là: Không thể chịu nổi ; sắp chết ; vô cùng (cảm giác)."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-e",
+  "level": "N5",
+  "pattern": "〜へ",
+  "title": "〜へ",
+  "meaning": "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+  "meaningVi": "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+  "connection": "Danh từ (N) + へ",
+  "usageNotes": "Viết là へ nhưng phát âm là 'e'. Thường có thể hoán đổi với に để chỉ điểm đến; へ nhấn mạnh về hướng hơn một chút.",
+  "examples": [
+    {
+      "ja": "夏休みに北海道へ行きます。",
+      "furigana": "{夏休|なつやす}みに{北海道|ほっかいどう}へ{行|い}きます。",
+      "en": "I'm going to Hokkaido during summer vacation.",
+      "vi": "Tôi sẽ đến Hokkaido vào kỳ nghỉ hè."
+    },
+    {
+      "ja": "来週、国へ帰ります。",
+      "furigana": "{来週|らいしゅう}、{国|くに}へ{帰|かえ}ります。",
+      "en": "I'm going back to my home country next week.",
+      "vi": "Tôi sẽ trở về quê hương vào tuần tới."
+    },
+    {
+      "ja": "どこへ行きますか。",
+      "furigana": "どこへ{行|い}きますか。",
+      "en": "Where are you going?",
+      "vi": "Bạn đang đi đâu?"
+    }
+  ],
+  "tags": [
+    "particle"
+  ],
+  "unitId": "grammar-n5-unit-02",
+  "questions": [
+    {
+      "id": "bunpou-n5-e-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夏休みに北海道へ行きます。",
+      "sentenceVi": "Tôi sẽ đến Hokkaido vào kỳ nghỉ hè.",
+      "targetGrammar": "〜へ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜へ」 mang ý nghĩa: \"Hướng về, tới... (Chỉ phương hướng di chuyển)\"."
+    },
+    {
+      "id": "bunpou-n5-e-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "来週、国へ帰ります。",
+      "sentenceVi": "Tôi sẽ trở về quê hương vào tuần tới.",
+      "targetGrammar": "〜へ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜へ",
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜に（time）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi sẽ trở về quê hương vào tuần tới.\", ta sử dụng mẫu 「〜へ」."
+    },
+    {
+      "id": "bunpou-n5-e-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "どこへ行きますか。",
+      "sentenceVi": "Bạn đang đi đâu?",
+      "targetGrammar": "〜へ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tại, ở... (Chỉ nơi diễn ra hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜へ」 mang ý nghĩa: \"Hướng về, tới... (Chỉ phương hướng di chuyển)\"."
+    },
+    {
+      "id": "bunpou-n5-e-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "夏休みに北海道へ行きます。",
+      "sentenceVi": "Tôi sẽ đến Hokkaido vào kỳ nghỉ hè.",
+      "targetGrammar": "〜へ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hướng về, tới... (Chỉ phương hướng di chuyển)\":",
+      "options": [
+        "〜と（and）",
+        "〜と（with）",
+        "〜で（means）",
+        "〜へ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜へ」."
+    },
+    {
+      "id": "bunpou-n5-e-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夏休みに北海道へ行きます。",
+      "sentenceVi": "Tôi sẽ đến Hokkaido vào kỳ nghỉ hè.",
+      "targetGrammar": "〜へ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜へ」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Cũng... (Biểu thị sự tương tự)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜へ」 có nghĩa là: Hướng về, tới... (Chỉ phương hướng di chuyển)."
+    }
+  ]
+}

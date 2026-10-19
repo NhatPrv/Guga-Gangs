@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-me",
+  "level": "N4",
+  "pattern": "〜目",
+  "title": "〜目",
+  "meaning": "-th (thứ tự: thứ nhất, thứ hai, thứ ba...)",
+  "meaningVi": "-th (thứ tự: thứ nhất, thứ hai, thứ ba...)",
+  "connection": "Danh từ (N) (number + counter) + 目",
+  "usageNotes": "Mẫu ngữ pháp thông dụng trong giao tiếp và đề thi JLPT.",
+  "examples": [
+    {
+      "ja": "右から三つ目の建物が図書館です。",
+      "furigana": "{右|みぎ}から{三|みっ}つ{目|め}の{建物|たてもの}が{図書館|としょかん}です。",
+      "en": "The third building from the right is the library.",
+      "vi": "Tòa nhà thứ ba từ phải sang là thư viện."
+    },
+    {
+      "ja": "日本に来るのは今回で二回目です。",
+      "furigana": "{日本|にほん}に{来|く}るのは{今回|こんかい}で{二|に}{回|かい}{目|め}です。",
+      "en": "This is my second time coming to Japan.",
+      "vi": "Đây là lần thứ hai tôi đến Nhật Bản."
+    },
+    {
+      "ja": "二つ目の角を左に曲がってください。",
+      "furigana": "{二|ふた}つ{目|め}の{角|かど}を{左|ひだり}に{曲|ま}がってください。",
+      "en": "Please turn left at the second corner.",
+      "vi": "Vui lòng rẽ trái ở góc thứ hai."
+    }
+  ],
+  "tags": [
+    "quantity"
+  ],
+  "unitId": "grammar-n4-unit-19",
+  "questions": [
+    {
+      "id": "bunpou-n4-me-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "右から三つ目の建物が図書館です。",
+      "sentenceVi": "Tòa nhà thứ ba từ phải sang là thư viện.",
+      "targetGrammar": "〜目",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "-th (thứ tự: thứ nhất, thứ hai, thứ ba...)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜目」 mang ý nghĩa: \"-th (thứ tự: thứ nhất, thứ hai, thứ ba...)\"."
+    },
+    {
+      "id": "bunpou-n4-me-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本に来るのは今回で二回目です。",
+      "sentenceVi": "Đây là lần thứ hai tôi đến Nhật Bản.",
+      "targetGrammar": "〜目",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜目"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Đây là lần thứ hai tôi đến Nhật Bản.\", ta sử dụng mẫu 「〜目」."
+    },
+    {
+      "id": "bunpou-n4-me-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "二つ目の角を左に曲がってください。",
+      "sentenceVi": "Vui lòng rẽ trái ở góc thứ hai.",
+      "targetGrammar": "〜目",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "-th (thứ tự: thứ nhất, thứ hai, thứ ba...)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜目」 mang ý nghĩa: \"-th (thứ tự: thứ nhất, thứ hai, thứ ba...)\"."
+    },
+    {
+      "id": "bunpou-n4-me-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "右から三つ目の建物が図書館です。",
+      "sentenceVi": "Tòa nhà thứ ba từ phải sang là thư viện.",
+      "targetGrammar": "〜目",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"-th (thứ tự: thứ nhất, thứ hai, thứ ba...)\":",
+      "options": [
+        "〜目",
+        "〜てみる",
+        "〜とき",
+        "〜てある"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜目」."
+    },
+    {
+      "id": "bunpou-n4-me-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "右から三つ目の建物が図書館です。",
+      "sentenceVi": "Tòa nhà thứ ba từ phải sang là thư viện.",
+      "targetGrammar": "〜目",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜目」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "-th (thứ tự: thứ nhất, thứ hai, thứ ba...)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜目」 có nghĩa là: -th (thứ tự: thứ nhất, thứ hai, thứ ba...)."
+    }
+  ]
+}

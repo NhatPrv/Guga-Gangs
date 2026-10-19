@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-koto-da",
+  "level": "N3",
+  "pattern": "〜ことだ",
+  "title": "〜ことだ",
+  "meaning": "Nên ; điều tốt nhất là (lời khuyên)",
+  "meaningVi": "Nên ; điều tốt nhất là (lời khuyên)",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + ことだ",
+  "usageNotes": "Lời khuyên cá nhân từ một người ở vị trí có thể đưa ra lời khuyên đó (giáo viên, phụ huynh, cấp trên). Không dùng với cấp trên. So sánh 〜ものだ, cái nào phù hợp với những chuẩn mực chung.",
+  "examples": [
+    {
+      "ja": "日本語が上手になりたいなら、毎日少しずつでも話すことだ。",
+      "furigana": "{日本語|にほんご}が{上手|じょうず}になりたいなら、{毎日|まいにち}{少|すこ}しずつでも{話|はな}すことだ。",
+      "en": "If you want to get good at Japanese, you should speak it every day, even just a little.",
+      "vi": "Nếu muốn giỏi tiếng Nhật, bạn nên nói nó mỗi ngày, dù chỉ một chút."
+    },
+    {
+      "ja": "風邪を早く治したければ、無理をしないでゆっくり休むことです。",
+      "furigana": "{風邪|かぜ}を{早|はや}く{治|なお}したければ、{無理|むり}をしないでゆっくり{休|やす}むことです。",
+      "en": "If you want to get over your cold quickly, the best thing is not to push yourself and to rest well.",
+      "vi": "Nếu bạn muốn nhanh chóng vượt qua cơn cảm lạnh, điều tốt nhất là đừng cố ép bản thân và nghỉ ngơi đầy đủ."
+    },
+    {
+      "ja": "人の話は最後までよく聞くことだ。",
+      "furigana": "{人|ひと}の{話|はなし}は{最後|さいご}までよく{聞|き}くことだ。",
+      "en": "You should always listen carefully to what people say, right to the end.",
+      "vi": "Bạn phải luôn lắng nghe cẩn thận những gì mọi người nói, cho đến cùng."
+    }
+  ],
+  "tags": [
+    "advice"
+  ],
+  "unitId": "grammar-n3-unit-02",
+  "questions": [
+    {
+      "id": "bunpou-n3-koto-da-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本語が上手になりたいなら、毎日少しずつでも話すことだ。",
+      "sentenceVi": "Nếu muốn giỏi tiếng Nhật, bạn nên nói nó mỗi ngày, dù chỉ một chút.",
+      "targetGrammar": "〜ことだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ことだ」 mang ý nghĩa: \"Nên ; điều tốt nhất là (lời khuyên)\"."
+    },
+    {
+      "id": "bunpou-n3-koto-da-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "風邪を早く治したければ、無理をしないでゆっくり休むことです。",
+      "sentenceVi": "Nếu bạn muốn nhanh chóng vượt qua cơn cảm lạnh, điều tốt nhất là đừng cố ép bản thân và nghỉ ngơi đầy đủ.",
+      "targetGrammar": "〜ことだ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ことだ",
+        "〜ものだ",
+        "〜わけにはいかない",
+        "〜ものではない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Nếu bạn muốn nhanh chóng vượt qua cơn cảm lạnh, điều tốt nhất là đừng cố ép bản thân và nghỉ ngơi đầy đủ.\", ta sử dụng mẫu 「〜ことだ」."
+    },
+    {
+      "id": "bunpou-n3-koto-da-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "人の話は最後までよく聞くことだ。",
+      "sentenceVi": "Bạn phải luôn lắng nghe cẩn thận những gì mọi người nói, cho đến cùng.",
+      "targetGrammar": "〜ことだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Không cần phải làm vậy; không cần phải làm vậy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ことだ」 mang ý nghĩa: \"Nên ; điều tốt nhất là (lời khuyên)\"."
+    },
+    {
+      "id": "bunpou-n3-koto-da-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本語が上手になりたいなら、毎日少しずつでも話すことだ。",
+      "sentenceVi": "Nếu muốn giỏi tiếng Nhật, bạn nên nói nó mỗi ngày, dù chỉ một chút.",
+      "targetGrammar": "〜ことだ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nên ; điều tốt nhất là (lời khuyên)\":",
+      "options": [
+        "〜こと（instruction）",
+        "〜ことだ",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ことだ」."
+    },
+    {
+      "id": "bunpou-n3-koto-da-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本語が上手になりたいなら、毎日少しずつでも話すことだ。",
+      "sentenceVi": "Nếu muốn giỏi tiếng Nhật, bạn nên nói nó mỗi ngày, dù chỉ một chút.",
+      "targetGrammar": "〜ことだ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ことだ」 là gì?",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Không thể ; không có vẻ như nó sẽ",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ことだ」 có nghĩa là: Nên ; điều tốt nhất là (lời khuyên)."
+    }
+  ]
+}

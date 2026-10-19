@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-te-miru",
+  "level": "N4",
+  "pattern": "〜てみる",
+  "title": "〜てみる",
+  "meaning": "Thử làm gì đó...",
+  "meaningVi": "Thử làm gì đó...",
+  "connection": "Động từ (V)-te + みる",
+  "usageNotes": "Có nghĩa là thử làm việc gì đó để xem kết quả, không nỗ lực làm việc gì khó khăn.",
+  "examples": [
+    {
+      "ja": "このシャツ、着てみてもいいですか。",
+      "furigana": "このシャツ、{着|き}てみてもいいですか。",
+      "en": "May I try this shirt on?",
+      "vi": "Tôi có thể thử chiếc áo này được không?"
+    },
+    {
+      "ja": "新しくできたラーメン屋に行ってみた。",
+      "furigana": "{新|あたら}しくできたラーメン{屋|や}に{行|い}ってみた。",
+      "en": "I went to check out the new ramen shop.",
+      "vi": "Tôi đi kiểm tra cửa hàng ramen mới."
+    },
+    {
+      "ja": "日本の料理を自分で作ってみたいです。",
+      "furigana": "{日本|にほん}の{料理|りょうり}を{自分|じぶん}で{作|つく}ってみたいです。",
+      "en": "I want to try making Japanese food myself.",
+      "vi": "Tôi muốn thử tự mình làm món ăn Nhật Bản."
+    }
+  ],
+  "tags": [
+    "attempt"
+  ],
+  "unitId": "grammar-n4-unit-02",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-miru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このシャツ、着てみてもいいですか。",
+      "sentenceVi": "Tôi có thể thử chiếc áo này được không?",
+      "targetGrammar": "〜てみる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Thử làm gì đó...",
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜てみる」 mang ý nghĩa: \"Thử làm gì đó...\"."
+    },
+    {
+      "id": "bunpou-n4-te-miru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "新しくできたラーメン屋に行ってみた。",
+      "sentenceVi": "Tôi đi kiểm tra cửa hàng ramen mới.",
+      "targetGrammar": "〜てみる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てみる",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜ていく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đi kiểm tra cửa hàng ramen mới.\", ta sử dụng mẫu 「〜てみる」."
+    },
+    {
+      "id": "bunpou-n4-te-miru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本の料理を自分で作ってみたいです。",
+      "sentenceVi": "Tôi muốn thử tự mình làm món ăn Nhật Bản.",
+      "targetGrammar": "〜てみる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thử làm gì đó...",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜てみる」 mang ý nghĩa: \"Thử làm gì đó...\"."
+    },
+    {
+      "id": "bunpou-n4-te-miru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このシャツ、着てみてもいいですか。",
+      "sentenceVi": "Tôi có thể thử chiếc áo này được không?",
+      "targetGrammar": "〜てみる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thử làm gì đó...\":",
+      "options": [
+        "〜間 / 〜間に",
+        "〜てある",
+        "〜てみる",
+        "〜とき"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜てみる」."
+    },
+    {
+      "id": "bunpou-n4-te-miru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このシャツ、着てみてもいいですか。",
+      "sentenceVi": "Tôi có thể thử chiếc áo này được không?",
+      "targetGrammar": "〜てみる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てみる」 là gì?",
+      "options": [
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Thử làm gì đó..."
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜てみる」 có nghĩa là: Thử làm gì đó...."
+    }
+  ]
+}

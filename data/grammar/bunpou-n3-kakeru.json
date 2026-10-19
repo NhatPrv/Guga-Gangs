@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-kakeru",
+  "level": "N3",
+  "pattern": "〜かける",
+  "title": "〜かける",
+  "meaning": "Hoàn thành một nửa; bắt đầu ; sắp sửa",
+  "meaningVi": "Hoàn thành một nửa; bắt đầu ; sắp sửa",
+  "connection": "Động từ (V)-stem + かける / Động từ (V)-stem + かけの + Danh từ (N)",
+  "usageNotes": "Một hành động đã bắt đầu nhưng chưa kết thúc, hoặc một việc gì đó sắp xảy ra (死にかける). Thân động từ + かけの + danh từ mô tả sự việc chưa hoàn thành.",
+  "examples": [
+    {
+      "ja": "読みかけの本が、机の上に置いてある。",
+      "furigana": "{読|よ}みかけの{本|ほん}が、{机|つくえ}の{上|うえ}に{置|お}いてある。",
+      "en": "There's a half-read book on the desk.",
+      "vi": "Có một cuốn sách đang đọc dở trên bàn."
+    },
+    {
+      "ja": "彼女は何か言いかけたが、そのまま黙ってしまった。",
+      "furigana": "{彼女|かのじょ}は{何|なに}か{言|い}いかけたが、そのまま{黙|だま}ってしまった。",
+      "en": "She started to say something, but then fell silent.",
+      "vi": "Cô ấy bắt đầu nói điều gì đó, nhưng rồi lại im lặng."
+    },
+    {
+      "ja": "この花は枯れかけていたが、水をやったら元気になった。",
+      "furigana": "この{花|はな}は{枯|か}れかけていたが、{水|みず}をやったら{元気|げんき}になった。",
+      "en": "This flower was starting to wilt, but it perked up after I watered it.",
+      "vi": "Bông hoa này đã bắt đầu héo, nhưng nó lại tươi lên sau khi tôi tưới nước."
+    }
+  ],
+  "tags": [
+    "completion",
+    "state"
+  ],
+  "unitId": "grammar-n3-unit-18",
+  "questions": [
+    {
+      "id": "bunpou-n3-kakeru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "読みかけの本が、机の上に置いてある。",
+      "sentenceVi": "Có một cuốn sách đang đọc dở trên bàn.",
+      "targetGrammar": "〜かける",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Hoàn thành một nửa; bắt đầu ; sắp sửa",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜かける」 mang ý nghĩa: \"Hoàn thành một nửa; bắt đầu ; sắp sửa\"."
+    },
+    {
+      "id": "bunpou-n3-kakeru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "彼女は何か言いかけたが、そのまま黙ってしまった。",
+      "sentenceVi": "Cô ấy bắt đầu nói điều gì đó, nhưng rồi lại im lặng.",
+      "targetGrammar": "〜かける",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜かける"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Cô ấy bắt đầu nói điều gì đó, nhưng rồi lại im lặng.\", ta sử dụng mẫu 「〜かける」."
+    },
+    {
+      "id": "bunpou-n3-kakeru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この花は枯れかけていたが、水をやったら元気になった。",
+      "sentenceVi": "Bông hoa này đã bắt đầu héo, nhưng nó lại tươi lên sau khi tôi tưới nước.",
+      "targetGrammar": "〜かける",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Hoàn thành một nửa; bắt đầu ; sắp sửa",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜かける」 mang ý nghĩa: \"Hoàn thành một nửa; bắt đầu ; sắp sửa\"."
+    },
+    {
+      "id": "bunpou-n3-kakeru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "読みかけの本が、机の上に置いてある。",
+      "sentenceVi": "Có một cuốn sách đang đọc dở trên bàn.",
+      "targetGrammar": "〜かける",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hoàn thành một nửa; bắt đầu ; sắp sửa\":",
+      "options": [
+        "〜ことはない",
+        "〜ことになっている",
+        "〜かける",
+        "〜ことにしている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜かける」."
+    },
+    {
+      "id": "bunpou-n3-kakeru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "読みかけの本が、机の上に置いてある。",
+      "sentenceVi": "Có một cuốn sách đang đọc dở trên bàn.",
+      "targetGrammar": "〜かける",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜かける」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Hoàn thành một nửa; bắt đầu ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜かける」 có nghĩa là: Hoàn thành một nửa; bắt đầu ; sắp sửa."
+    }
+  ]
+}

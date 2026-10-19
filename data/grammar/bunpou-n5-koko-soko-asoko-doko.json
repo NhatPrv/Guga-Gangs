@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-koko-soko-asoko-doko",
+  "level": "N5",
+  "pattern": "ここ / そこ / あそこ / どこ",
+  "title": "ここ / そこ / あそこ / どこ",
+  "meaning": "Ở đây; ở đó (gần bạn); ở đằng kia; ở đâu",
+  "meaningVi": "Ở đây; ở đó (gần bạn); ở đằng kia; ở đâu",
+  "connection": "ここ / そこ / あそこ / どこ",
+  "usageNotes": "こちら / そちら / あちら / どちら là phiên bản lịch sự hơn: お国はどちらですか (Bạn đến từ đâu?).",
+  "examples": [
+    {
+      "ja": "ここは私の学校です。",
+      "furigana": "ここは{私|わたし}の{学校|がっこう}です。",
+      "en": "This is my school.",
+      "vi": "Đây là trường học của tôi."
+    },
+    {
+      "ja": "トイレはあそこです。",
+      "furigana": "トイレはあそこです。",
+      "en": "The restroom is over there.",
+      "vi": "Nhà vệ sinh ở đằng kia."
+    },
+    {
+      "ja": "すみません、駅はどこですか。",
+      "furigana": "すみません、{駅|えき}はどこですか。",
+      "en": "Excuse me, where is the station?",
+      "vi": "Xin lỗi, nhà ga ở đâu?"
+    }
+  ],
+  "tags": [
+    "demonstrative"
+  ],
+  "unitId": "grammar-n5-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n5-koko-soko-asoko-doko-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ここは私の学校です。",
+      "sentenceVi": "Đây là trường học của tôi.",
+      "targetGrammar": "ここ / そこ / あそこ / どこ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Ở đây; ở đó (gần bạn); ở đằng kia; ở đâu",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「ここ / そこ / あそこ / どこ」 mang ý nghĩa: \"Ở đây; ở đó (gần bạn); ở đằng kia; ở đâu\"."
+    },
+    {
+      "id": "bunpou-n5-koko-soko-asoko-doko-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "トイレはあそこです。",
+      "sentenceVi": "Nhà vệ sinh ở đằng kia.",
+      "targetGrammar": "ここ / そこ / あそこ / どこ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜に（destination）",
+        "ここ / そこ / あそこ / どこ",
+        "〜に（time）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Nhà vệ sinh ở đằng kia.\", ta sử dụng mẫu 「ここ / そこ / あそこ / どこ」."
+    },
+    {
+      "id": "bunpou-n5-koko-soko-asoko-doko-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "すみません、駅はどこですか。",
+      "sentenceVi": "Xin lỗi, nhà ga ở đâu?",
+      "targetGrammar": "ここ / そこ / あそこ / どこ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Ở đây; ở đó (gần bạn); ở đằng kia; ở đâu",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「ここ / そこ / あそこ / どこ」 mang ý nghĩa: \"Ở đây; ở đó (gần bạn); ở đằng kia; ở đâu\"."
+    },
+    {
+      "id": "bunpou-n5-koko-soko-asoko-doko-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "ここは私の学校です。",
+      "sentenceVi": "Đây là trường học của tôi.",
+      "targetGrammar": "ここ / そこ / あそこ / どこ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ở đây; ở đó (gần bạn); ở đằng kia; ở đâu\":",
+      "options": [
+        "〜で（means）",
+        "〜で（place of action）",
+        "〜と（and）",
+        "ここ / そこ / あそこ / どこ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「ここ / そこ / あそこ / どこ」."
+    },
+    {
+      "id": "bunpou-n5-koko-soko-asoko-doko-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ここは私の学校です。",
+      "sentenceVi": "Đây là trường học của tôi.",
+      "targetGrammar": "ここ / そこ / あそこ / どこ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「ここ / そこ / あそこ / どこ」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Ở đây; ở đó (gần bạn); ở đằng kia; ở đâu"
+      ],
+      "correctIndex": 3,
+      "explanation": "「ここ / そこ / あそこ / どこ」 có nghĩa là: Ở đây; ở đó (gần bạn); ở đằng kia; ở đâu."
+    }
+  ]
+}

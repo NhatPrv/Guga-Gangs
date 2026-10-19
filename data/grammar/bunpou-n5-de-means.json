@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-de-means",
+  "level": "N5",
+  "pattern": "〜で（means）",
+  "title": "〜で（means）",
+  "meaning": "Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)",
+  "meaningVi": "Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)",
+  "connection": "Danh từ (N) + で",
+  "usageNotes": "Để nói 'đi bộ', hãy sử dụng 歩いて行きます thay vì で.",
+  "examples": [
+    {
+      "ja": "毎日電車で会社へ行きます。",
+      "furigana": "{毎日|まいにち}{電車|でんしゃ}で{会社|かいしゃ}へ{行|い}きます。",
+      "en": "I go to work by train every day.",
+      "vi": "Tôi đi làm bằng tàu hỏa hàng ngày."
+    },
+    {
+      "ja": "はしでご飯を食べます。",
+      "furigana": "はしでご{飯|はん}を{食|た}べます。",
+      "en": "I eat my meals with chopsticks.",
+      "vi": "Tôi ăn bữa ăn bằng đũa."
+    },
+    {
+      "ja": "日本語で手紙を書きました。",
+      "furigana": "{日本語|にほんご}で{手紙|てがみ}を{書|か}きました。",
+      "en": "I wrote a letter in Japanese.",
+      "vi": "Tôi đã viết một lá thư bằng tiếng Nhật."
+    }
+  ],
+  "tags": [
+    "particle",
+    "means"
+  ],
+  "unitId": "grammar-n5-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n5-de-means-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎日電車で会社へ行きます。",
+      "sentenceVi": "Tôi đi làm bằng tàu hỏa hàng ngày.",
+      "targetGrammar": "〜で（means）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜で（means）」 mang ý nghĩa: \"Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)\"."
+    },
+    {
+      "id": "bunpou-n5-de-means-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "はしでご飯を食べます。",
+      "sentenceVi": "Tôi ăn bữa ăn bằng đũa.",
+      "targetGrammar": "〜で（means）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜で（means）",
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi ăn bữa ăn bằng đũa.\", ta sử dụng mẫu 「〜で（means）」."
+    },
+    {
+      "id": "bunpou-n5-de-means-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本語で手紙を書きました。",
+      "sentenceVi": "Tôi đã viết một lá thư bằng tiếng Nhật.",
+      "targetGrammar": "〜で（means）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜で（means）」 mang ý nghĩa: \"Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)\"."
+    },
+    {
+      "id": "bunpou-n5-de-means-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "毎日電車で会社へ行きます。",
+      "sentenceVi": "Tôi đi làm bằng tàu hỏa hàng ngày.",
+      "targetGrammar": "〜で（means）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜で（means）",
+        "〜と（with）",
+        "〜と（and）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜で（means）」."
+    },
+    {
+      "id": "bunpou-n5-de-means-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎日電車で会社へ行きます。",
+      "sentenceVi": "Tôi đi làm bằng tàu hỏa hàng ngày.",
+      "targetGrammar": "〜で（means）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜で（means）」 là gì?",
+      "options": [
+        "Cũng... (Biểu thị sự tương tự)",
+        "Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜で（means）」 có nghĩa là: Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)."
+    }
+  ]
+}

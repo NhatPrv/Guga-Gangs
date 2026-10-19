@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-ni-frequency",
+  "level": "N5",
+  "pattern": "〜に（frequency）",
+  "title": "〜に（frequency）",
+  "meaning": "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+  "meaningVi": "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+  "connection": "Danh từ (N) + に + Danh từ (N)",
+  "usageNotes": "Kinh nguyệt đến trước, sau đó là に, sau đó là số lần: 月に一回 (mỗi tháng một lần).",
+  "examples": [
+    {
+      "ja": "一週間に二回、プールで泳ぎます。",
+      "furigana": "{一週間|いっしゅうかん}に{二|に}{回|かい}、プールで{泳|およ}ぎます。",
+      "en": "I swim in the pool twice a week.",
+      "vi": "Tôi bơi ở hồ bơi hai lần một tuần."
+    },
+    {
+      "ja": "母は一日に二回、犬の散歩をします。",
+      "furigana": "{母|はは}は{一|いち}{日|にち}に{二|に}{回|かい}、{犬|いぬ}の{散歩|さんぽ}をします。",
+      "en": "My mother walks the dog twice a day.",
+      "vi": "Mẹ tôi dắt chó đi dạo hai lần một ngày."
+    },
+    {
+      "ja": "一年に一度、家族で旅行します。",
+      "furigana": "{一|いち}{年|ねん}に{一|いち}{度|ど}、{家族|かぞく}で{旅行|りょこう}します。",
+      "en": "Once a year, my family goes on a trip.",
+      "vi": "Mỗi năm một lần, gia đình tôi đi du lịch."
+    }
+  ],
+  "tags": [
+    "particle",
+    "quantity"
+  ],
+  "unitId": "grammar-n5-unit-02",
+  "questions": [
+    {
+      "id": "bunpou-n5-ni-frequency-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "一週間に二回、プールで泳ぎます。",
+      "sentenceVi": "Tôi bơi ở hồ bơi hai lần một tuần.",
+      "targetGrammar": "〜に（frequency）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜に（frequency）」 mang ý nghĩa: \"Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)\"."
+    },
+    {
+      "id": "bunpou-n5-ni-frequency-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "母は一日に二回、犬の散歩をします。",
+      "sentenceVi": "Mẹ tôi dắt chó đi dạo hai lần một ngày.",
+      "targetGrammar": "〜に（frequency）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（time）",
+        "〜に（frequency）",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Mẹ tôi dắt chó đi dạo hai lần một ngày.\", ta sử dụng mẫu 「〜に（frequency）」."
+    },
+    {
+      "id": "bunpou-n5-ni-frequency-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "一年に一度、家族で旅行します。",
+      "sentenceVi": "Mỗi năm một lần, gia đình tôi đi du lịch.",
+      "targetGrammar": "〜に（frequency）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tại, ở... (Chỉ nơi diễn ra hành động)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜に（frequency）」 mang ý nghĩa: \"Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)\"."
+    },
+    {
+      "id": "bunpou-n5-ni-frequency-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "一週間に二回、プールで泳ぎます。",
+      "sentenceVi": "Tôi bơi ở hồ bơi hai lần một tuần.",
+      "targetGrammar": "〜に（frequency）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)\":",
+      "options": [
+        "〜と（with）",
+        "〜で（means）",
+        "〜と（and）",
+        "〜に（frequency）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜に（frequency）」."
+    },
+    {
+      "id": "bunpou-n5-ni-frequency-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "一週間に二回、プールで泳ぎます。",
+      "sentenceVi": "Tôi bơi ở hồ bơi hai lần một tuần.",
+      "targetGrammar": "〜に（frequency）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜に（frequency）」 là gì?",
+      "options": [
+        "Cũng... (Biểu thị sự tương tự)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜に（frequency）」 có nghĩa là: Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)."
+    }
+  ]
+}

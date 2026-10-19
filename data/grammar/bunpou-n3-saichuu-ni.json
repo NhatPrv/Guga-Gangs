@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-saichuu-ni",
+  "level": "N3",
+  "pattern": "〜最中に",
+  "title": "〜最中に",
+  "meaning": "Đúng vào lúc đang mải mê làm gì thì...",
+  "meaningVi": "Đúng vào lúc đang mải mê làm gì thì...",
+  "connection": "Động từ (V)-te + いる / Danh từ (N) + の + 最中に",
+  "usageNotes": "Nhấn mạnh mức độ cao của một hoạt động, thường là khi có điều gì đó bất ngờ làm gián đoạn hoạt động đó. Mạnh hơn 〜中に hoặc 〜ている間に. Ngoài ra 〜最中だ.",
+  "examples": [
+    {
+      "ja": "大事な会議の最中に、携帯電話が鳴ってしまった。",
+      "furigana": "{大事|だいじ}な{会議|かいぎ}の{最中|さいちゅう}に、{携帯|けいたい}{電話|でんわ}が{鳴|な}ってしまった。",
+      "en": "My cell phone went off right in the middle of an important meeting.",
+      "vi": "Điện thoại di động của tôi tắt ngay giữa một cuộc họp quan trọng."
+    },
+    {
+      "ja": "料理をしている最中に、停電になった。",
+      "furigana": "{料理|りょうり}をしている{最中|さいちゅう}に、{停電|ていでん}になった。",
+      "en": "The power went out right in the middle of my cooking.",
+      "vi": "Mất điện ngay giữa lúc tôi đang nấu ăn."
+    },
+    {
+      "ja": "今、試験の最中だから、廊下では静かにしてください。",
+      "furigana": "{今|いま}、{試験|しけん}の{最中|さいちゅう}だから、{廊下|ろうか}では{静|しず}かにしてください。",
+      "en": "An exam is in progress right now, so please be quiet in the hallway.",
+      "vi": "Hiện tại đang có một kỳ thi nên vui lòng giữ im lặng ở hành lang."
+    }
+  ],
+  "tags": [
+    "time",
+    "simultaneity"
+  ],
+  "unitId": "grammar-n3-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n3-saichuu-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "大事な会議の最中に、携帯電話が鳴ってしまった。",
+      "sentenceVi": "Điện thoại di động của tôi tắt ngay giữa một cuộc họp quan trọng.",
+      "targetGrammar": "〜最中に",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Đúng vào lúc đang mải mê làm gì thì..."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜最中に」 mang ý nghĩa: \"Đúng vào lúc đang mải mê làm gì thì...\"."
+    },
+    {
+      "id": "bunpou-n3-saichuu-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "料理をしている最中に、停電になった。",
+      "sentenceVi": "Mất điện ngay giữa lúc tôi đang nấu ăn.",
+      "targetGrammar": "〜最中に",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜最中に",
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜ものではない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Mất điện ngay giữa lúc tôi đang nấu ăn.\", ta sử dụng mẫu 「〜最中に」."
+    },
+    {
+      "id": "bunpou-n3-saichuu-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今、試験の最中だから、廊下では静かにしてください。",
+      "sentenceVi": "Hiện tại đang có một kỳ thi nên vui lòng giữ im lặng ở hành lang.",
+      "targetGrammar": "〜最中に",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Đúng vào lúc đang mải mê làm gì thì...",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜最中に」 mang ý nghĩa: \"Đúng vào lúc đang mải mê làm gì thì...\"."
+    },
+    {
+      "id": "bunpou-n3-saichuu-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "大事な会議の最中に、携帯電話が鳴ってしまった。",
+      "sentenceVi": "Điện thoại di động của tôi tắt ngay giữa một cuộc họp quan trọng.",
+      "targetGrammar": "〜最中に",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đúng vào lúc đang mải mê làm gì thì...\":",
+      "options": [
+        "〜最中に",
+        "〜ことはない",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜最中に」."
+    },
+    {
+      "id": "bunpou-n3-saichuu-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "大事な会議の最中に、携帯電話が鳴ってしまった。",
+      "sentenceVi": "Điện thoại di động của tôi tắt ngay giữa một cuộc họp quan trọng.",
+      "targetGrammar": "〜最中に",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜最中に」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Đúng vào lúc đang mải mê làm gì thì...",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜最中に」 có nghĩa là: Đúng vào lúc đang mải mê làm gì thì...."
+    }
+  ]
+}

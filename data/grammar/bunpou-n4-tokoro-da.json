@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-tokoro-da",
+  "level": "N4",
+  "pattern": "〜ところだ",
+  "title": "〜ところだ",
+  "meaning": "Sắp ; ở giữa; vừa làm xong",
+  "meaningVi": "Sắp ; ở giữa; vừa làm xong",
+  "connection": "Động từ (V)-dict / Động từ (V)-te + いる / Động từ (V)-ta + ところだ",
+  "usageNotes": "Dạng từ điển: sắp. 〜ているところ: ở giữa. 〜たところ: vừa xong. Nó xác định chính xác giai đoạn của một hành động.",
+  "examples": [
+    {
+      "ja": "今から出かけるところです。",
+      "furigana": "{今|いま}から{出|で}かけるところです。",
+      "en": "I'm just about to go out.",
+      "vi": "Tôi vừa định đi ra ngoài."
+    },
+    {
+      "ja": "今、晩ご飯を作っているところだから、後で電話するね。",
+      "furigana": "{今|いま}、{晩|ばん}ご{飯|はん}を{作|つく}っているところだから、{後|あと}で{電話|でんわ}するね。",
+      "en": "I'm in the middle of making dinner, so I'll call you later.",
+      "vi": "Tôi đang nấu bữa tối nên sẽ gọi cho bạn sau."
+    },
+    {
+      "ja": "ちょうど今、駅に着いたところです。",
+      "furigana": "ちょうど{今|いま}、{駅|えき}に{着|つ}いたところです。",
+      "en": "I've just this moment arrived at the station.",
+      "vi": "Tôi vừa mới đến ga."
+    }
+  ],
+  "tags": [
+    "time",
+    "state"
+  ],
+  "unitId": "grammar-n4-unit-14",
+  "questions": [
+    {
+      "id": "bunpou-n4-tokoro-da-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今から出かけるところです。",
+      "sentenceVi": "Tôi vừa định đi ra ngoài.",
+      "targetGrammar": "〜ところだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Sắp ; ở giữa; vừa làm xong",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ところだ」 mang ý nghĩa: \"Sắp ; ở giữa; vừa làm xong\"."
+    },
+    {
+      "id": "bunpou-n4-tokoro-da-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今、晩ご飯を作っているところだから、後で電話するね。",
+      "sentenceVi": "Tôi đang nấu bữa tối nên sẽ gọi cho bạn sau.",
+      "targetGrammar": "〜ところだ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜ところだ",
+        "〜ていく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đang nấu bữa tối nên sẽ gọi cho bạn sau.\", ta sử dụng mẫu 「〜ところだ」."
+    },
+    {
+      "id": "bunpou-n4-tokoro-da-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ちょうど今、駅に着いたところです。",
+      "sentenceVi": "Tôi vừa mới đến ga.",
+      "targetGrammar": "〜ところだ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Sắp ; ở giữa; vừa làm xong",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ところだ」 mang ý nghĩa: \"Sắp ; ở giữa; vừa làm xong\"."
+    },
+    {
+      "id": "bunpou-n4-tokoro-da-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今から出かけるところです。",
+      "sentenceVi": "Tôi vừa định đi ra ngoài.",
+      "targetGrammar": "〜ところだ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Sắp ; ở giữa; vừa làm xong\":",
+      "options": [
+        "〜てある",
+        "〜とき",
+        "〜てみる",
+        "〜ところだ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜ところだ」."
+    },
+    {
+      "id": "bunpou-n4-tokoro-da-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今から出かけるところです。",
+      "sentenceVi": "Tôi vừa định đi ra ngoài.",
+      "targetGrammar": "〜ところだ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ところだ」 là gì?",
+      "options": [
+        "Sắp ; ở giữa; vừa làm xong",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ところだ」 có nghĩa là: Sắp ; ở giữa; vừa làm xong."
+    }
+  ]
+}

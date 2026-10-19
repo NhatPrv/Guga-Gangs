@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-hodo-wa-nai",
+  "level": "N3",
+  "pattern": "〜ほど〜はない",
+  "title": "〜ほど〜はない",
+  "meaning": "Không có gì là ... như; không có ... như",
+  "meaningVi": "Không có gì là ... như; không có ... như",
+  "connection": "Danh từ (N) + ほど + i-Adj / na-Adj + な + Danh từ (N) + はない",
+  "usageNotes": "Nói X là ... nhiều nhất, thường là từ kinh nghiệm hoặc cảm nhận cá nhân. Ngoài ra 〜くらい〜はない.",
+  "examples": [
+    {
+      "ja": "仕事の後に飲む冷たいビールほどおいしいものはない。",
+      "furigana": "{仕事|しごと}の{後|あと}に{飲|の}む{冷|つめ}たいビールほどおいしいものはない。",
+      "en": "Nothing tastes as good as an ice-cold beer after work.",
+      "vi": "Không có gì ngon bằng một ly bia lạnh sau giờ làm việc."
+    },
+    {
+      "ja": "この町で、あの店ほど安くておいしいラーメン屋はない。",
+      "furigana": "この{町|まち}で、あの{店|みせ}ほど{安|やす}くておいしいラーメン{屋|や}はない。",
+      "en": "There's no ramen shop in this town as cheap and tasty as that one.",
+      "vi": "Không có cửa hàng ramen nào ở thị trấn này rẻ và ngon như cửa hàng đó."
+    },
+    {
+      "ja": "健康ほど大切なものはないと、病気になって気づいた。",
+      "furigana": "{健康|けんこう}ほど{大切|たいせつ}なものはないと、{病気|びょうき}になって{気|き}づいた。",
+      "en": "When I got sick, I realized that nothing is as important as good health.",
+      "vi": "Khi bị bệnh tôi mới nhận ra rằng không có gì quan trọng bằng sức khỏe."
+    }
+  ],
+  "tags": [
+    "comparison",
+    "emphasis"
+  ],
+  "unitId": "grammar-n3-unit-19",
+  "questions": [
+    {
+      "id": "bunpou-n3-hodo-wa-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "仕事の後に飲む冷たいビールほどおいしいものはない。",
+      "sentenceVi": "Không có gì ngon bằng một ly bia lạnh sau giờ làm việc.",
+      "targetGrammar": "〜ほど〜はない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không có gì là ... như; không có ... như"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ほど〜はない」 mang ý nghĩa: \"Không có gì là ... như; không có ... như\"."
+    },
+    {
+      "id": "bunpou-n3-hodo-wa-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この町で、あの店ほど安くておいしいラーメン屋はない。",
+      "sentenceVi": "Không có cửa hàng ramen nào ở thị trấn này rẻ và ngon như cửa hàng đó.",
+      "targetGrammar": "〜ほど〜はない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜ほど〜はない",
+        "〜わけにはいかない",
+        "〜ものではない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Không có cửa hàng ramen nào ở thị trấn này rẻ và ngon như cửa hàng đó.\", ta sử dụng mẫu 「〜ほど〜はない」."
+    },
+    {
+      "id": "bunpou-n3-hodo-wa-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "健康ほど大切なものはないと、病気になって気づいた。",
+      "sentenceVi": "Khi bị bệnh tôi mới nhận ra rằng không có gì quan trọng bằng sức khỏe.",
+      "targetGrammar": "〜ほど〜はない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Không có gì là ... như; không có ... như",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ほど〜はない」 mang ý nghĩa: \"Không có gì là ... như; không có ... như\"."
+    },
+    {
+      "id": "bunpou-n3-hodo-wa-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "仕事の後に飲む冷たいビールほどおいしいものはない。",
+      "sentenceVi": "Không có gì ngon bằng một ly bia lạnh sau giờ làm việc.",
+      "targetGrammar": "〜ほど〜はない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không có gì là ... như; không có ... như\":",
+      "options": [
+        "〜ことはない",
+        "〜ことになっている",
+        "〜ほど〜はない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ほど〜はない」."
+    },
+    {
+      "id": "bunpou-n3-hodo-wa-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "仕事の後に飲む冷たいビールほどおいしいものはない。",
+      "sentenceVi": "Không có gì ngon bằng một ly bia lạnh sau giờ làm việc.",
+      "targetGrammar": "〜ほど〜はない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ほど〜はない」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Không có gì là ... như; không có ... như"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ほど〜はない」 có nghĩa là: Không có gì là ... như; không có ... như."
+    }
+  ]
+}

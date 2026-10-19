@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-ba-hodo",
+  "level": "N3",
+  "pattern": "〜ば〜ほど",
+  "title": "〜ば〜ほど",
+  "meaning": "Càng... thì càng...",
+  "meaningVi": "Càng... thì càng...",
+  "connection": "Động từ (V)-ba + Động từ (V)-dict + ほど / i-Adj stem + ければ + i-Adj + ほど / na-Adj + なら + na-Adj + な + ほど",
+  "usageNotes": "Từ đó được lặp lại, đầu tiên ở dạng ば/なら, sau đó ở dạng thông thường. Phần đầu tiên có thể bỏ đi: 考えるほど分からなくなる.",
+  "examples": [
+    {
+      "ja": "日本語は、勉強すればするほど面白くなる。",
+      "furigana": "{日本語|にほんご}は、{勉強|べんきょう}すればするほど{面白|おもしろ}くなる。",
+      "en": "The more you study Japanese, the more interesting it gets.",
+      "vi": "Càng học tiếng Nhật càng thấy thú vị."
+    },
+    {
+      "ja": "スマホの画面は大きければ大きいほど見やすいが、持ち歩くのは大変だ。",
+      "furigana": "スマホの{画面|がめん}は{大|おお}きければ{大|おお}きいほど{見|み}やすいが、{持|も}ち{歩|ある}くのは{大変|たいへん}だ。",
+      "en": "The bigger a phone screen, the easier it is to see, but it's a pain to carry around.",
+      "vi": "Màn hình điện thoại càng lớn thì càng dễ nhìn nhưng lại gây khó khăn khi mang theo."
+    },
+    {
+      "ja": "部屋が静かなら静かなほど、よく眠れる。",
+      "furigana": "{部屋|へや}が{静|しず}かなら{静|しず}かなほど、よく{眠|ねむ}れる。",
+      "en": "The quieter the room, the better I sleep.",
+      "vi": "Phòng càng yên tĩnh thì tôi càng ngủ ngon."
+    }
+  ],
+  "tags": [
+    "condition",
+    "degree",
+    "change"
+  ],
+  "unitId": "grammar-n3-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n3-ba-hodo-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本語は、勉強すればするほど面白くなる。",
+      "sentenceVi": "Càng học tiếng Nhật càng thấy thú vị.",
+      "targetGrammar": "〜ば〜ほど",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Càng... thì càng...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ば〜ほど」 mang ý nghĩa: \"Càng... thì càng...\"."
+    },
+    {
+      "id": "bunpou-n3-ba-hodo-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "スマホの画面は大きければ大きいほど見やすいが、持ち歩くのは大変だ。",
+      "sentenceVi": "Màn hình điện thoại càng lớn thì càng dễ nhìn nhưng lại gây khó khăn khi mang theo.",
+      "targetGrammar": "〜ば〜ほど",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜ものだ",
+        "〜わけにはいかない",
+        "〜ば〜ほど"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Màn hình điện thoại càng lớn thì càng dễ nhìn nhưng lại gây khó khăn khi mang theo.\", ta sử dụng mẫu 「〜ば〜ほど」."
+    },
+    {
+      "id": "bunpou-n3-ba-hodo-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "部屋が静かなら静かなほど、よく眠れる。",
+      "sentenceVi": "Phòng càng yên tĩnh thì tôi càng ngủ ngon.",
+      "targetGrammar": "〜ば〜ほど",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Càng... thì càng...",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ば〜ほど」 mang ý nghĩa: \"Càng... thì càng...\"."
+    },
+    {
+      "id": "bunpou-n3-ba-hodo-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本語は、勉強すればするほど面白くなる。",
+      "sentenceVi": "Càng học tiếng Nhật càng thấy thú vị.",
+      "targetGrammar": "〜ば〜ほど",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Càng... thì càng...\":",
+      "options": [
+        "〜ことはない",
+        "〜ことにしている",
+        "〜ば〜ほど",
+        "〜ことになっている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ば〜ほど」."
+    },
+    {
+      "id": "bunpou-n3-ba-hodo-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本語は、勉強すればするほど面白くなる。",
+      "sentenceVi": "Càng học tiếng Nhật càng thấy thú vị.",
+      "targetGrammar": "〜ば〜ほど",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ば〜ほど」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Càng... thì càng..."
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ば〜ほど」 có nghĩa là: Càng... thì càng...."
+    }
+  ]
+}

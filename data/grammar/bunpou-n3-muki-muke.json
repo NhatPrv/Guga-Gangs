@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-muki-muke",
+  "level": "N3",
+  "pattern": "〜向き / 〜向け",
+  "title": "〜向き / 〜向け",
+  "meaning": "Phù hợp với/nhắm tới; dành cho",
+  "meaningVi": "Phù hợp với/nhắm tới; dành cho",
+  "connection": "Danh từ (N) + 向き / Danh từ (N) + 向け",
+  "usageNotes": "向き: rất hợp với X. 向け: được làm nhằm mục đích dành cho X. 向き cũng có nghĩa là 'đối diện' (南向きの部屋).",
+  "examples": [
+    {
+      "ja": "この料理は作り方が簡単なので、初心者向きだ。",
+      "furigana": "この{料理|りょうり}は{作|つく}り{方|かた}が{簡単|かんたん}なので、{初心者|しょしんしゃ}{向|む}きだ。",
+      "en": "This dish is easy to make, so it's well suited to beginners.",
+      "vi": "Món ăn này rất dễ làm nên rất phù hợp cho người mới bắt đầu."
+    },
+    {
+      "ja": "この雑誌は、若い女性向けに作られている。",
+      "furigana": "この{雑誌|ざっし}は、{若|わか}い{女性|じょせい}{向|む}けに{作|つく}られている。",
+      "en": "This magazine is made for young women.",
+      "vi": "Tạp chí này được thực hiện cho phụ nữ trẻ."
+    },
+    {
+      "ja": "子ども向けの番組だが、大人が見ても十分楽しめる。",
+      "furigana": "{子|こ}ども{向|む}けの{番組|ばんぐみ}だが、{大人|おとな}が{見|み}ても{十分|じゅうぶん}{楽|たの}しめる。",
+      "en": "It's a program aimed at children, but adults can enjoy it too.",
+      "vi": "Đây là một chương trình dành cho trẻ em nhưng người lớn cũng có thể thưởng thức."
+    }
+  ],
+  "tags": [
+    "purpose",
+    "relation"
+  ],
+  "unitId": "grammar-n3-unit-17",
+  "questions": [
+    {
+      "id": "bunpou-n3-muki-muke-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この料理は作り方が簡単なので、初心者向きだ。",
+      "sentenceVi": "Món ăn này rất dễ làm nên rất phù hợp cho người mới bắt đầu.",
+      "targetGrammar": "〜向き / 〜向け",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Phù hợp với/nhắm tới; dành cho",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜向き / 〜向け」 mang ý nghĩa: \"Phù hợp với/nhắm tới; dành cho\"."
+    },
+    {
+      "id": "bunpou-n3-muki-muke-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この雑誌は、若い女性向けに作られている。",
+      "sentenceVi": "Tạp chí này được thực hiện cho phụ nữ trẻ.",
+      "targetGrammar": "〜向き / 〜向け",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜向き / 〜向け"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Tạp chí này được thực hiện cho phụ nữ trẻ.\", ta sử dụng mẫu 「〜向き / 〜向け」."
+    },
+    {
+      "id": "bunpou-n3-muki-muke-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "子ども向けの番組だが、大人が見ても十分楽しめる。",
+      "sentenceVi": "Đây là một chương trình dành cho trẻ em nhưng người lớn cũng có thể thưởng thức.",
+      "targetGrammar": "〜向き / 〜向け",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Phù hợp với/nhắm tới; dành cho"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜向き / 〜向け」 mang ý nghĩa: \"Phù hợp với/nhắm tới; dành cho\"."
+    },
+    {
+      "id": "bunpou-n3-muki-muke-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この料理は作り方が簡単なので、初心者向きだ。",
+      "sentenceVi": "Món ăn này rất dễ làm nên rất phù hợp cho người mới bắt đầu.",
+      "targetGrammar": "〜向き / 〜向け",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Phù hợp với/nhắm tới; dành cho\":",
+      "options": [
+        "〜ことはない",
+        "〜向き / 〜向け",
+        "〜ことにしている",
+        "〜ことになっている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜向き / 〜向け」."
+    },
+    {
+      "id": "bunpou-n3-muki-muke-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この料理は作り方が簡単なので、初心者向きだ。",
+      "sentenceVi": "Món ăn này rất dễ làm nên rất phù hợp cho người mới bắt đầu.",
+      "targetGrammar": "〜向き / 〜向け",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜向き / 〜向け」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phù hợp với/nhắm tới; dành cho",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜向き / 〜向け」 có nghĩa là: Phù hợp với/nhắm tới; dành cho."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-chuu-juu",
+  "level": "N4",
+  "pattern": "〜中",
+  "title": "〜中",
+  "meaning": "Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)",
+  "meaningVi": "Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)",
+  "connection": "Danh từ (N) + 中",
+  "usageNotes": "ちゅう đánh dấu một hoạt động đang diễn ra hoặc một khoảng thời gian (会議中, 午前中, 今週中); じゅう có nghĩa là 'xuyên suốt' một thời gian hoặc địa điểm (一日中, 世界中).",
+  "examples": [
+    {
+      "ja": "父は今、電話中です。",
+      "furigana": "{父|ちち}は{今|いま}、{電話|でんわ}{中|ちゅう}です。",
+      "en": "My father is on the phone right now.",
+      "vi": "Bố tôi hiện đang nghe điện thoại."
+    },
+    {
+      "ja": "昨日は一日中雨が降っていた。",
+      "furigana": "{昨日|きのう}は{一日中|いちにちじゅう}{雨|あめ}が{降|ふ}っていた。",
+      "en": "It rained all day yesterday.",
+      "vi": "Hôm qua trời mưa cả ngày."
+    },
+    {
+      "ja": "この歌は世界中で知られている。",
+      "furigana": "この{歌|うた}は{世界中|せかいじゅう}で{知|し}られている。",
+      "en": "This song is known all over the world.",
+      "vi": "Bài hát này được biết đến trên toàn thế giới."
+    }
+  ],
+  "tags": [
+    "time",
+    "range"
+  ],
+  "unitId": "grammar-n4-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n4-chuu-juu-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "父は今、電話中です。",
+      "sentenceVi": "Bố tôi hiện đang nghe điện thoại.",
+      "targetGrammar": "〜中",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜中」 mang ý nghĩa: \"Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)\"."
+    },
+    {
+      "id": "bunpou-n4-chuu-juu-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "昨日は一日中雨が降っていた。",
+      "sentenceVi": "Hôm qua trời mưa cả ngày.",
+      "targetGrammar": "〜中",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜中",
+        "〜ていく",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Hôm qua trời mưa cả ngày.\", ta sử dụng mẫu 「〜中」."
+    },
+    {
+      "id": "bunpou-n4-chuu-juu-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この歌は世界中で知られている。",
+      "sentenceVi": "Bài hát này được biết đến trên toàn thế giới.",
+      "targetGrammar": "〜中",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜中」 mang ý nghĩa: \"Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)\"."
+    },
+    {
+      "id": "bunpou-n4-chuu-juu-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "父は今、電話中です。",
+      "sentenceVi": "Bố tôi hiện đang nghe điện thoại.",
+      "targetGrammar": "〜中",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)\":",
+      "options": [
+        "〜てみる",
+        "〜てある",
+        "〜とき",
+        "〜中"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜中」."
+    },
+    {
+      "id": "bunpou-n4-chuu-juu-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "父は今、電話中です。",
+      "sentenceVi": "Bố tôi hiện đang nghe điện thoại.",
+      "targetGrammar": "〜中",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜中」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜中」 có nghĩa là: Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)."
+    }
+  ]
+}

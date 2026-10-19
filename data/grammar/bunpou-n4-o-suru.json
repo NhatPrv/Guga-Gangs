@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-o-suru",
+  "level": "N4",
+  "pattern": "お〜する",
+  "title": "お〜する",
+  "meaning": "(khiêm tốn) Tôi làm (đối với một người được kính trọng)",
+  "meaningVi": "(khiêm tốn) Tôi làm (đối với một người được kính trọng)",
+  "connection": "お + Động từ (V)-stem + する / ご + Danh từ (N) + する",
+  "usageNotes": "Chỉ dành cho những hành động có ảnh hưởng hoặc có lợi cho người khác. お〜いたします thậm chí còn trang trọng hơn.",
+  "examples": [
+    {
+      "ja": "重そうですね。お持ちしましょうか。",
+      "furigana": "{重|おも}そうですね。お{持|も}ちしましょうか。",
+      "en": "That looks heavy. Shall I carry it for you?",
+      "vi": "Có vẻ nặng nề đấy. Tôi mang nó cho bạn nhé?"
+    },
+    {
+      "ja": "後で詳しくご説明します。",
+      "furigana": "{後|あと}で{詳|くわ}しくご{説明|せつめい}します。",
+      "en": "I'll explain in detail later.",
+      "vi": "Tôi sẽ giải thích chi tiết sau."
+    },
+    {
+      "ja": "駅までお送りします。",
+      "furigana": "{駅|えき}までお{送|おく}りします。",
+      "en": "I'll see you to the station.",
+      "vi": "Tôi sẽ gặp bạn ở nhà ga."
+    }
+  ],
+  "tags": [
+    "humble"
+  ],
+  "unitId": "grammar-n4-unit-17",
+  "questions": [
+    {
+      "id": "bunpou-n4-o-suru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "重そうですね。お持ちしましょうか。",
+      "sentenceVi": "Có vẻ nặng nề đấy. Tôi mang nó cho bạn nhé?",
+      "targetGrammar": "お〜する",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "(khiêm tốn) Tôi làm (đối với một người được kính trọng)",
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「お〜する」 mang ý nghĩa: \"(khiêm tốn) Tôi làm (đối với một người được kính trọng)\"."
+    },
+    {
+      "id": "bunpou-n4-o-suru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "後で詳しくご説明します。",
+      "sentenceVi": "Tôi sẽ giải thích chi tiết sau.",
+      "targetGrammar": "お〜する",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "お〜する",
+        "〜てもらう"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi sẽ giải thích chi tiết sau.\", ta sử dụng mẫu 「お〜する」."
+    },
+    {
+      "id": "bunpou-n4-o-suru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅までお送りします。",
+      "sentenceVi": "Tôi sẽ gặp bạn ở nhà ga.",
+      "targetGrammar": "お〜する",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "(khiêm tốn) Tôi làm (đối với một người được kính trọng)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「お〜する」 mang ý nghĩa: \"(khiêm tốn) Tôi làm (đối với một người được kính trọng)\"."
+    },
+    {
+      "id": "bunpou-n4-o-suru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "重そうですね。お持ちしましょうか。",
+      "sentenceVi": "Có vẻ nặng nề đấy. Tôi mang nó cho bạn nhé?",
+      "targetGrammar": "お〜する",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"(khiêm tốn) Tôi làm (đối với một người được kính trọng)\":",
+      "options": [
+        "お〜する",
+        "〜てみる",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「お〜する」."
+    },
+    {
+      "id": "bunpou-n4-o-suru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "重そうですね。お持ちしましょうか。",
+      "sentenceVi": "Có vẻ nặng nề đấy. Tôi mang nó cho bạn nhé?",
+      "targetGrammar": "お〜する",
+      "prompt": "Ý nghĩa chính của cấu trúc 「お〜する」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "(khiêm tốn) Tôi làm (đối với một người được kính trọng)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「お〜する」 có nghĩa là: (khiêm tốn) Tôi làm (đối với một người được kính trọng)."
+    }
+  ]
+}

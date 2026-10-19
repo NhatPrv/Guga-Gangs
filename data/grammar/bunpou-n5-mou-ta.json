@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-mou-ta",
+  "level": "N5",
+  "pattern": "もう〜た",
+  "title": "もう〜た",
+  "meaning": "Đã (đã làm); (trong câu hỏi) chưa",
+  "meaningVi": "Đã (đã làm); (trong câu hỏi) chưa",
+  "connection": "もう + Động từ (V)-ta / もう + Động từ (V)-stem + ました",
+  "usageNotes": "Trong câu hỏi もう có nghĩa là 'chưa'. Với động từ phủ định, もう có nghĩa là 'không còn nữa': もう食べません.",
+  "examples": [
+    {
+      "ja": "「もう晩ご飯を食べましたか。」「はい、もう食べました。」",
+      "furigana": "「もう{晩|ばん}ご{飯|はん}を{食|た}べましたか。」「はい、もう{食|た}べました。」",
+      "en": "\"Have you eaten dinner yet?\" \"Yes, I already have.\"",
+      "vi": "“Anh đã ăn tối chưa?” \"Ừ, tôi đã có rồi.\""
+    },
+    {
+      "ja": "妹はもう寝ました。",
+      "furigana": "{妹|いもうと}はもう{寝|ね}ました。",
+      "en": "My younger sister has already gone to bed.",
+      "vi": "Em gái tôi đã đi ngủ rồi."
+    },
+    {
+      "ja": "映画はもう始まりましたよ。",
+      "furigana": "{映画|えいが}はもう{始|はじ}まりましたよ。",
+      "en": "The movie has already started.",
+      "vi": "Bộ phim đã bắt đầu rồi."
+    }
+  ],
+  "tags": [
+    "completion",
+    "time"
+  ],
+  "unitId": "grammar-n5-unit-14",
+  "questions": [
+    {
+      "id": "bunpou-n5-mou-ta-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「もう晩ご飯を食べましたか。」「はい、もう食べました。」",
+      "sentenceVi": "“Anh đã ăn tối chưa?” \"Ừ, tôi đã có rồi.\"",
+      "targetGrammar": "もう〜た",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Đã (đã làm); (trong câu hỏi) chưa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「もう〜た」 mang ý nghĩa: \"Đã (đã làm); (trong câu hỏi) chưa\"."
+    },
+    {
+      "id": "bunpou-n5-mou-ta-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "妹はもう寝ました。",
+      "sentenceVi": "Em gái tôi đã đi ngủ rồi.",
+      "targetGrammar": "もう〜た",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "もう〜た",
+        "〜に（time）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Em gái tôi đã đi ngủ rồi.\", ta sử dụng mẫu 「もう〜た」."
+    },
+    {
+      "id": "bunpou-n5-mou-ta-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "映画はもう始まりましたよ。",
+      "sentenceVi": "Bộ phim đã bắt đầu rồi.",
+      "targetGrammar": "もう〜た",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Đã (đã làm); (trong câu hỏi) chưa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「もう〜た」 mang ý nghĩa: \"Đã (đã làm); (trong câu hỏi) chưa\"."
+    },
+    {
+      "id": "bunpou-n5-mou-ta-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "「もう晩ご飯を食べましたか。」「はい、もう食べました。」",
+      "sentenceVi": "“Anh đã ăn tối chưa?” \"Ừ, tôi đã có rồi.\"",
+      "targetGrammar": "もう〜た",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đã (đã làm); (trong câu hỏi) chưa\":",
+      "options": [
+        "〜と（and）",
+        "〜で（means）",
+        "〜で（place of action）",
+        "もう〜た"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「もう〜た」."
+    },
+    {
+      "id": "bunpou-n5-mou-ta-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「もう晩ご飯を食べましたか。」「はい、もう食べました。」",
+      "sentenceVi": "“Anh đã ăn tối chưa?” \"Ừ, tôi đã có rồi.\"",
+      "targetGrammar": "もう〜た",
+      "prompt": "Ý nghĩa chính của cấu trúc 「もう〜た」 là gì?",
+      "options": [
+        "Đã (đã làm); (trong câu hỏi) chưa",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「もう〜た」 có nghĩa là: Đã (đã làm); (trong câu hỏi) chưa."
+    }
+  ]
+}

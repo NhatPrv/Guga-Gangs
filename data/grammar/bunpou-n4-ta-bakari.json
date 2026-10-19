@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-ta-bakari",
+  "level": "N4",
+  "pattern": "〜たばかり",
+  "title": "〜たばかり",
+  "meaning": "Vừa mới làm gì xong...",
+  "meaningVi": "Vừa mới làm gì xong...",
+  "connection": "Động từ (V)-ta + ばかり",
+  "usageNotes": "Cho thấy người nói cảm thấy thời gian đã trôi qua rất ít, ngay cả khi đó là vài tuần trước. 〜たところ chỉ đề cập đến khoảnh khắc trước đây.",
+  "examples": [
+    {
+      "ja": "日本に来たばかりなので、まだ日本語がよく分かりません。",
+      "furigana": "{日本|にほん}に{来|き}たばかりなので、まだ{日本語|にほんご}がよく{分|わ}かりません。",
+      "en": "I've only just come to Japan, so I don't understand Japanese well yet.",
+      "vi": "Mình mới sang Nhật nên chưa hiểu tiếng Nhật lắm."
+    },
+    {
+      "ja": "さっき昼ご飯を食べたばかりだから、おなかがいっぱいだ。",
+      "furigana": "さっき{昼|ひる}ご{飯|はん}を{食|た}べたばかりだから、おなかがいっぱいだ。",
+      "en": "I just had lunch, so I'm full.",
+      "vi": "Tôi vừa mới ăn trưa nên đã no rồi."
+    },
+    {
+      "ja": "買ったばかりの傘をなくしてしまった。",
+      "furigana": "{買|か}ったばかりの{傘|かさ}をなくしてしまった。",
+      "en": "I lost the umbrella I had just bought.",
+      "vi": "Tôi làm mất chiếc ô vừa mới mua."
+    }
+  ],
+  "tags": [
+    "time",
+    "completion"
+  ],
+  "unitId": "grammar-n4-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n4-ta-bakari-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本に来たばかりなので、まだ日本語がよく分かりません。",
+      "sentenceVi": "Mình mới sang Nhật nên chưa hiểu tiếng Nhật lắm.",
+      "targetGrammar": "〜たばかり",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Vừa mới làm gì xong...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜たばかり」 mang ý nghĩa: \"Vừa mới làm gì xong...\"."
+    },
+    {
+      "id": "bunpou-n4-ta-bakari-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "さっき昼ご飯を食べたばかりだから、おなかがいっぱいだ。",
+      "sentenceVi": "Tôi vừa mới ăn trưa nên đã no rồi.",
+      "targetGrammar": "〜たばかり",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜たばかり",
+        "〜てもらう"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi vừa mới ăn trưa nên đã no rồi.\", ta sử dụng mẫu 「〜たばかり」."
+    },
+    {
+      "id": "bunpou-n4-ta-bakari-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "買ったばかりの傘をなくしてしまった。",
+      "sentenceVi": "Tôi làm mất chiếc ô vừa mới mua.",
+      "targetGrammar": "〜たばかり",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Vừa mới làm gì xong...",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜たばかり」 mang ý nghĩa: \"Vừa mới làm gì xong...\"."
+    },
+    {
+      "id": "bunpou-n4-ta-bakari-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本に来たばかりなので、まだ日本語がよく分かりません。",
+      "sentenceVi": "Mình mới sang Nhật nên chưa hiểu tiếng Nhật lắm.",
+      "targetGrammar": "〜たばかり",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Vừa mới làm gì xong...\":",
+      "options": [
+        "〜とき",
+        "〜てある",
+        "〜てみる",
+        "〜たばかり"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜たばかり」."
+    },
+    {
+      "id": "bunpou-n4-ta-bakari-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本に来たばかりなので、まだ日本語がよく分かりません。",
+      "sentenceVi": "Mình mới sang Nhật nên chưa hiểu tiếng Nhật lắm.",
+      "targetGrammar": "〜たばかり",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜たばかり」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Vừa mới làm gì xong...",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜たばかり」 có nghĩa là: Vừa mới làm gì xong...."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-ato-de",
+  "level": "N5",
+  "pattern": "〜後で",
+  "title": "〜後で",
+  "meaning": "Sau (làm); sau (một sự kiện)",
+  "meaningVi": "Sau (làm); sau (một sự kiện)",
+  "connection": "Động từ (V)-ta + 後で / Danh từ (N) + の + 後で",
+  "usageNotes": "Động từ trước 後で luôn ở dạng た, ngay cả đối với những kế hoạch trong tương lai. Bản thân 後で có nghĩa là 'sau'.",
+  "examples": [
+    {
+      "ja": "晩ご飯を食べた後で、散歩をします。",
+      "furigana": "{晩|ばん}ご{飯|はん}を{食|た}べた{後|あと}で、{散歩|さんぽ}をします。",
+      "en": "I take a walk after eating dinner.",
+      "vi": "Tôi đi dạo sau khi ăn tối."
+    },
+    {
+      "ja": "仕事の後で、いっしょに飲みに行きませんか。",
+      "furigana": "{仕事|しごと}の{後|あと}で、いっしょに{飲|の}みに{行|い}きませんか。",
+      "en": "Would you like to go for a drink after work?",
+      "vi": "Bạn có muốn đi uống nước sau giờ làm việc không?"
+    },
+    {
+      "ja": "テストが終わった後で、友達と遊びました。",
+      "furigana": "テストが{終|お}わった{後|あと}で、{友達|ともだち}と{遊|あそ}びました。",
+      "en": "After the test was over, I hung out with friends.",
+      "vi": "Sau khi bài kiểm tra kết thúc, tôi đi chơi với bạn bè."
+    }
+  ],
+  "tags": [
+    "time",
+    "sequence"
+  ],
+  "unitId": "grammar-n5-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n5-ato-de-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "晩ご飯を食べた後で、散歩をします。",
+      "sentenceVi": "Tôi đi dạo sau khi ăn tối.",
+      "targetGrammar": "〜後で",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Sau (làm); sau (một sự kiện)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜後で」 mang ý nghĩa: \"Sau (làm); sau (một sự kiện)\"."
+    },
+    {
+      "id": "bunpou-n5-ato-de-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "仕事の後で、いっしょに飲みに行きませんか。",
+      "sentenceVi": "Bạn có muốn đi uống nước sau giờ làm việc không?",
+      "targetGrammar": "〜後で",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜後で",
+        "〜に（time）",
+        "〜に（destination）",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn có muốn đi uống nước sau giờ làm việc không?\", ta sử dụng mẫu 「〜後で」."
+    },
+    {
+      "id": "bunpou-n5-ato-de-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "テストが終わった後で、友達と遊びました。",
+      "sentenceVi": "Sau khi bài kiểm tra kết thúc, tôi đi chơi với bạn bè.",
+      "targetGrammar": "〜後で",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Sau (làm); sau (một sự kiện)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜後で」 mang ý nghĩa: \"Sau (làm); sau (một sự kiện)\"."
+    },
+    {
+      "id": "bunpou-n5-ato-de-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "晩ご飯を食べた後で、散歩をします。",
+      "sentenceVi": "Tôi đi dạo sau khi ăn tối.",
+      "targetGrammar": "〜後で",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Sau (làm); sau (một sự kiện)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜と（and）",
+        "〜後で",
+        "〜で（means）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜後で」."
+    },
+    {
+      "id": "bunpou-n5-ato-de-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "晩ご飯を食べた後で、散歩をします。",
+      "sentenceVi": "Tôi đi dạo sau khi ăn tối.",
+      "targetGrammar": "〜後で",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜後で」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Sau (làm); sau (một sự kiện)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜後で」 có nghĩa là: Sau (làm); sau (một sự kiện)."
+    }
+  ]
+}

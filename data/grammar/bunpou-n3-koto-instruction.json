@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-koto-instruction",
+  "level": "N3",
+  "pattern": "〜こと（instruction）",
+  "title": "〜こと（instruction）",
+  "meaning": "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+  "meaningVi": "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + こと",
+  "usageNotes": "Kết thúc câu bằng こと để nêu một quy tắc. Được tìm thấy trong các thông báo, quy định và hướng dẫn giữa giáo viên với học sinh. Vô tư; không được sử dụng đối với cấp trên.",
+  "examples": [
+    {
+      "ja": "レポートは、来週の金曜日までに提出すること。",
+      "furigana": "レポートは、{来週|らいしゅう}の{金曜日|きんようび}までに{提出|ていしゅつ}すること。",
+      "en": "Reports must be submitted by next Friday.",
+      "vi": "Các báo cáo phải được nộp trước thứ Sáu tới."
+    },
+    {
+      "ja": "図書館の本に、線を引かないこと。",
+      "furigana": "{図書館|としょかん}の{本|ほん}に、{線|せん}を{引|ひ}かないこと。",
+      "en": "Do not draw lines in library books.",
+      "vi": "Đừng vẽ đường trong sách thư viện."
+    },
+    {
+      "ja": "試験中は、スマホの電源を切っておくこと。",
+      "furigana": "{試験|しけん}{中|ちゅう}は、スマホの{電源|でんげん}を{切|き}っておくこと。",
+      "en": "Keep your phone switched off during the exam.",
+      "vi": "Hãy tắt điện thoại trong suốt kỳ thi."
+    }
+  ],
+  "tags": [
+    "command",
+    "written",
+    "obligation"
+  ],
+  "unitId": "grammar-n3-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n3-koto-instruction-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "レポートは、来週の金曜日までに提出すること。",
+      "sentenceVi": "Các báo cáo phải được nộp trước thứ Sáu tới.",
+      "targetGrammar": "〜こと（instruction）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜こと（instruction）」 mang ý nghĩa: \"Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)\"."
+    },
+    {
+      "id": "bunpou-n3-koto-instruction-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "図書館の本に、線を引かないこと。",
+      "sentenceVi": "Đừng vẽ đường trong sách thư viện.",
+      "targetGrammar": "〜こと（instruction）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜こと（instruction）",
+        "〜わけにはいかない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Đừng vẽ đường trong sách thư viện.\", ta sử dụng mẫu 「〜こと（instruction）」."
+    },
+    {
+      "id": "bunpou-n3-koto-instruction-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "試験中は、スマホの電源を切っておくこと。",
+      "sentenceVi": "Hãy tắt điện thoại trong suốt kỳ thi.",
+      "targetGrammar": "〜こと（instruction）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜こと（instruction）」 mang ý nghĩa: \"Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)\"."
+    },
+    {
+      "id": "bunpou-n3-koto-instruction-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "レポートは、来週の金曜日までに提出すること。",
+      "sentenceVi": "Các báo cáo phải được nộp trước thứ Sáu tới.",
+      "targetGrammar": "〜こと（instruction）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことにしている",
+        "〜こと（instruction）",
+        "〜ことはない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜こと（instruction）」."
+    },
+    {
+      "id": "bunpou-n3-koto-instruction-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "レポートは、来週の金曜日までに提出すること。",
+      "sentenceVi": "Các báo cáo phải được nộp trước thứ Sáu tới.",
+      "targetGrammar": "〜こと（instruction）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜こと（instruction）」 là gì?",
+      "options": [
+        "Không thể ; không có vẻ như nó sẽ",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜こと（instruction）」 có nghĩa là: Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)."
+    }
+  ]
+}

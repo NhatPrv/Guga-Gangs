@@ -1,91 +1,116 @@
 {
   "id": "bunpou-n4-hou-ga-ii",
   "level": "N4",
-  "unitId": "grammar-n4-unit-02",
-  "title": "〜ほうがいい / 〜ないほうがいい",
-  "meaning": "Nên / Không nên làm gì (Lời khuyên)",
-  "connection": "V-た + ほうがいい / V-ない + ほうがいい",
-  "usageNotes": "Đưa ra lời khuyên cụ thể nên làm gì (thể Ta) hoặc không nên làm gì (thể Nai).",
+  "pattern": "〜ほうがいい",
+  "title": "〜ほうがいい",
+  "meaning": "Nên làm gì đó (Lời khuyên)",
+  "meaningVi": "Nên làm gì đó (Lời khuyên)",
+  "connection": "Động từ (V)-ta / Động từ (V)-nai + ほうがいい",
+  "usageNotes": "Để được tư vấn, dạng quá khứ (行ったほうがいい) là lựa chọn thông thường và nghe mạnh mẽ hơn. Thể phủ định sử dụng dạng ない, không phải quá khứ.",
+  "examples": [
+    {
+      "ja": "熱があるなら、病院に行ったほうがいいですよ。",
+      "furigana": "{熱|ねつ}があるなら、{病院|びょういん}に{行|い}ったほうがいいですよ。",
+      "en": "If you have a fever, you'd better go to the hospital.",
+      "vi": "Nếu bị sốt thì tốt nhất nên đến bệnh viện."
+    },
+    {
+      "ja": "夜遅くに一人で歩かないほうがいい。",
+      "furigana": "{夜|よる}{遅|おそ}くに{一人|ひとり}で{歩|ある}かないほうがいい。",
+      "en": "You'd better not walk alone late at night.",
+      "vi": "Tốt nhất là bạn không nên đi bộ một mình vào đêm khuya."
+    },
+    {
+      "ja": "大事な書類は、コピーしておいたほうがいいですよ。",
+      "furigana": "{大事|だいじ}な{書類|しょるい}は、コピーしておいたほうがいいですよ。",
+      "en": "It's a good idea to make copies of important documents.",
+      "vi": "Tốt nhất là bạn nên sao chép các tài liệu quan trọng."
+    }
+  ],
+  "tags": [
+    "advice"
+  ],
+  "unitId": "grammar-n4-unit-18",
   "questions": [
     {
-      "id": "n4-u2-g2-q1",
+      "id": "bunpou-n4-hou-ga-ii-q1",
       "type": "grammar-to-meaning",
-      "sentenceJa": "風邪をひいたときは、温かいお風呂に入って早く寝たほうがいいです。",
-      "sentenceVi": "Khi bị cảm thì nên tắm nước ấm và đi ngủ sớm.",
-      "targetGrammar": "〜たほうがいい",
-      "prompt": "Mục đích câu nói trên là gì?",
+      "sentenceJa": "熱があるなら、病院に行ったほうがいいですよ。",
+      "sentenceVi": "Nếu bị sốt thì tốt nhất nên đến bệnh viện.",
+      "targetGrammar": "〜ほうがいい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Đưa ra lời khuyên tốt nhất cho sức khỏe người ốm",
-        "Bắt buộc người ốm phải đi ngủ",
-        "Hỏi xin phép đi ngủ sớm",
-        "Cấm không được đi tắm"
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Nên làm gì đó (Lời khuyên)",
+        "Làm gì đó giúp cho ai..."
       ],
-      "correctIndex": 0,
-      "explanation": "「V-たほうがいい」 dùng để đưa ra lời khuyên có lợi cho đối phương."
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ほうがいい」 mang ý nghĩa: \"Nên làm gì đó (Lời khuyên)\"."
     },
     {
-      "id": "n4-u2-g2-q2",
+      "id": "bunpou-n4-hou-ga-ii-q2",
       "type": "meaning-to-grammar",
-      "sentenceJa": "お腹が痛いですから、冷たい物は【　？　】。",
-      "sentenceVi": "Vì đang bị đau bụng nên không nên ăn đồ lạnh.",
-      "targetGrammar": "食べないほうがいいです",
-      "prompt": "Chọn dạng khuyên không nên làm gì:",
+      "sentenceJa": "夜遅くに一人で歩かないほうがいい。",
+      "sentenceVi": "Tốt nhất là bạn không nên đi bộ một mình vào đêm khuya.",
+      "targetGrammar": "〜ほうがいい",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
       "options": [
-        "食べないほうがいいです",
-        "食べたほうがいいです",
-        "食べてもいいです",
-        "食べなければなりません"
+        "〜ていく",
+        "〜ほうがいい",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく"
       ],
-      "correctIndex": 0,
-      "explanation": "Khuyên không nên làm gì dùng V-ない + ほうがいい (食べないほうがいいです)."
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tốt nhất là bạn không nên đi bộ một mình vào đêm khuya.\", ta sử dụng mẫu 「〜ほうがいい」."
     },
     {
-      "id": "n4-u2-g2-q3",
-      "type": "meaning-to-grammar",
-      "sentenceJa": "雨が降りそうですから、傘を【　？　】。",
-      "sentenceVi": "Trời sắp mưa nên bạn nên mang theo dù.",
-      "targetGrammar": "持って行ったほうがいいです",
-      "prompt": "Chọn thể Ta khuyên nên mang theo dù:",
-      "options": [
-        "持って行ったほうがいいです",
-        "持って行かないほうがいいです",
-        "持って行ってはいけません",
-        "持って行ってもいいです"
-      ],
-      "correctIndex": 0,
-      "explanation": "Khuyên nên mang theo dùng V-たほうがいい (持って行ったほうがいいです)."
-    },
-    {
-      "id": "n4-u2-g2-q4",
-      "type": "meaning-to-grammar",
-      "sentenceJa": "夜遅く一人で歩かない【　？　】。",
-      "sentenceVi": "Đêm muộn không nên đi bộ một mình.",
-      "targetGrammar": "ほうがいいです",
-      "prompt": "Điền phần còn lại của mẫu câu khuyên nhủ:",
-      "options": [
-        "ほうがいいです",
-        "ことができます",
-        "いけません",
-        "つもりです"
-      ],
-      "correctIndex": 0,
-      "explanation": "Cấu trúc khuyên không nên làm: V-ない + ほうがいいです."
-    },
-    {
-      "id": "n4-u2-g2-q5",
+      "id": "bunpou-n4-hou-ga-ii-q3",
       "type": "grammar-to-meaning",
-      "sentenceJa": "疲れているときは、無理をしないほうがいいよ。",
-      "sentenceVi": "Khi mệt mỏi thì không nên ráng sức quá mức nhé.",
-      "targetGrammar": "〜ないほうがいい",
-      "prompt": "Ý nghĩa của câu trên là gì?",
+      "sentenceJa": "大事な書類は、コピーしておいたほうがいいですよ。",
+      "sentenceVi": "Tốt nhất là bạn nên sao chép các tài liệu quan trọng.",
+      "targetGrammar": "〜ほうがいい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Lời khuyên bạn bè không nên quá sức",
-        "Yêu cầu bắt buộc phải làm việc tiếp",
-        "Cấm không được nghỉ ngơi",
-        "Khen ngợi sự chăm chỉ"
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Nên làm gì đó (Lời khuyên)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
       ],
-      "correctIndex": 0,
-      "explanation": "Lời khuyên thân mật không nên làm việc quá sức khi cơ thể mệt mỏi."
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ほうがいい」 mang ý nghĩa: \"Nên làm gì đó (Lời khuyên)\"."
+    },
+    {
+      "id": "bunpou-n4-hou-ga-ii-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "熱があるなら、病院に行ったほうがいいですよ。",
+      "sentenceVi": "Nếu bị sốt thì tốt nhất nên đến bệnh viện.",
+      "targetGrammar": "〜ほうがいい",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nên làm gì đó (Lời khuyên)\":",
+      "options": [
+        "〜てみる",
+        "〜ほうがいい",
+        "〜とき",
+        "〜てある"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ほうがいい」."
+    },
+    {
+      "id": "bunpou-n4-hou-ga-ii-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "熱があるなら、病院に行ったほうがいいですよ。",
+      "sentenceVi": "Nếu bị sốt thì tốt nhất nên đến bệnh viện.",
+      "targetGrammar": "〜ほうがいい",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ほうがいい」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nên làm gì đó (Lời khuyên)",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ほうがいい」 có nghĩa là: Nên làm gì đó (Lời khuyên)."
     }
   ]
 }

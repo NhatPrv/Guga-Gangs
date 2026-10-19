@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-ippou-de",
+  "level": "N3",
+  "pattern": "〜一方で",
+  "title": "〜一方で",
+  "meaning": "Trong khi ; mặt khác; cùng lúc",
+  "meaningVi": "Trong khi ; mặt khác; cùng lúc",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + である + 一方で",
+  "usageNotes": "Trình bày hai mặt của một sự vật hoặc hai hoạt động song song. So sánh 〜に対して, sự tương phản giữa hai chủ đề khác nhau.",
+  "examples": [
+    {
+      "ja": "インターネットは便利な一方で、危険な面もある。",
+      "furigana": "インターネットは{便利|べんり}な{一方|いっぽう}で、{危険|きけん}な{面|めん}もある。",
+      "en": "The internet is convenient, but on the other hand it has its dangers.",
+      "vi": "Internet rất tiện lợi nhưng mặt khác nó cũng có những nguy hiểm."
+    },
+    {
+      "ja": "この会社は給料が高い一方で、休みがとても少ない。",
+      "furigana": "この{会社|かいしゃ}は{給料|きゅうりょう}が{高|たか}い{一方|いっぽう}で、{休|やす}みがとても{少|すく}ない。",
+      "en": "This company pays well, but on the other hand there are very few days off.",
+      "vi": "Công ty này trả lương khá tốt nhưng mặt khác lại có rất ít ngày nghỉ."
+    },
+    {
+      "ja": "彼女は会社で働く一方で、夜は大学院に通っている。",
+      "furigana": "{彼女|かのじょ}は{会社|かいしゃ}で{働|はたら}く{一方|いっぽう}で、{夜|よる}は{大学院|だいがくいん}に{通|かよ}っている。",
+      "en": "While working at a company, she also attends graduate school in the evenings.",
+      "vi": "Vừa làm việc ở một công ty, cô vừa đi học cao học vào buổi tối."
+    }
+  ],
+  "tags": [
+    "contrast",
+    "simultaneity"
+  ],
+  "unitId": "grammar-n3-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n3-ippou-de-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "インターネットは便利な一方で、危険な面もある。",
+      "sentenceVi": "Internet rất tiện lợi nhưng mặt khác nó cũng có những nguy hiểm.",
+      "targetGrammar": "〜一方で",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Trong khi ; mặt khác; cùng lúc"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜一方で」 mang ý nghĩa: \"Trong khi ; mặt khác; cùng lúc\"."
+    },
+    {
+      "id": "bunpou-n3-ippou-de-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この会社は給料が高い一方で、休みがとても少ない。",
+      "sentenceVi": "Công ty này trả lương khá tốt nhưng mặt khác lại có rất ít ngày nghỉ.",
+      "targetGrammar": "〜一方で",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜わけにはいかない",
+        "〜一方で",
+        "〜ものではない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Công ty này trả lương khá tốt nhưng mặt khác lại có rất ít ngày nghỉ.\", ta sử dụng mẫu 「〜一方で」."
+    },
+    {
+      "id": "bunpou-n3-ippou-de-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "彼女は会社で働く一方で、夜は大学院に通っている。",
+      "sentenceVi": "Vừa làm việc ở một công ty, cô vừa đi học cao học vào buổi tối.",
+      "targetGrammar": "〜一方で",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Trong khi ; mặt khác; cùng lúc",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜一方で」 mang ý nghĩa: \"Trong khi ; mặt khác; cùng lúc\"."
+    },
+    {
+      "id": "bunpou-n3-ippou-de-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "インターネットは便利な一方で、危険な面もある。",
+      "sentenceVi": "Internet rất tiện lợi nhưng mặt khác nó cũng có những nguy hiểm.",
+      "targetGrammar": "〜一方で",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong khi ; mặt khác; cùng lúc\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことになっている",
+        "〜ことはない",
+        "〜一方で"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜一方で」."
+    },
+    {
+      "id": "bunpou-n3-ippou-de-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "インターネットは便利な一方で、危険な面もある。",
+      "sentenceVi": "Internet rất tiện lợi nhưng mặt khác nó cũng có những nguy hiểm.",
+      "targetGrammar": "〜一方で",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜一方で」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Trong khi ; mặt khác; cùng lúc",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜一方で」 có nghĩa là: Trong khi ; mặt khác; cùng lúc."
+    }
+  ]
+}

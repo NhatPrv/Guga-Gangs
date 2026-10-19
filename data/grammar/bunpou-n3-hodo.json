@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-hodo",
+  "level": "N3",
+  "pattern": "〜ほど",
+  "title": "〜ほど",
+  "meaning": "Đến mức đó; vậy... cái đó",
+  "meaningVi": "Đến mức đó; vậy... cái đó",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + ほど",
+  "usageNotes": "Hiển thị mức độ với một ví dụ hoặc so sánh. Thường có thể hoán đổi với 〜くらい, nhưng ほど nghe trang trọng hơn và phù hợp với mức độ cao hơn; nó không thể đánh dấu một cái gì đó là tối thiểu.",
+  "examples": [
+    {
+      "ja": "昨日は、立っていられないほど疲れていた。",
+      "furigana": "{昨日|きのう}は、{立|た}っていられないほど{疲|つか}れていた。",
+      "en": "Yesterday I was so tired I could hardly stand.",
+      "vi": "Hôm qua tôi mệt đến mức gần như không thể đứng vững được."
+    },
+    {
+      "ja": "試験に合格したと聞いて、涙が出るほどうれしかった。",
+      "furigana": "{試験|しけん}に{合格|ごうかく}したと{聞|き}いて、{涙|なみだ}が{出|で}るほどうれしかった。",
+      "en": "When I heard I'd passed the exam, I was so happy I cried.",
+      "vi": "Khi biết tin mình đậu kỳ thi, tôi vui mừng đến phát khóc."
+    },
+    {
+      "ja": "このあたりは、夜になると怖いほど静かだ。",
+      "furigana": "このあたりは、{夜|よる}になると{怖|こわ}いほど{静|しず}かだ。",
+      "en": "At night this area gets so quiet it's scary.",
+      "vi": "Vào ban đêm khu vực này trở nên yên tĩnh đến mức đáng sợ."
+    }
+  ],
+  "tags": [
+    "degree"
+  ],
+  "unitId": "grammar-n3-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n3-hodo-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "昨日は、立っていられないほど疲れていた。",
+      "sentenceVi": "Hôm qua tôi mệt đến mức gần như không thể đứng vững được.",
+      "targetGrammar": "〜ほど",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Đến mức đó; vậy... cái đó",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ほど」 mang ý nghĩa: \"Đến mức đó; vậy... cái đó\"."
+    },
+    {
+      "id": "bunpou-n3-hodo-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "試験に合格したと聞いて、涙が出るほどうれしかった。",
+      "sentenceVi": "Khi biết tin mình đậu kỳ thi, tôi vui mừng đến phát khóc.",
+      "targetGrammar": "〜ほど",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ほど",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Khi biết tin mình đậu kỳ thi, tôi vui mừng đến phát khóc.\", ta sử dụng mẫu 「〜ほど」."
+    },
+    {
+      "id": "bunpou-n3-hodo-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このあたりは、夜になると怖いほど静かだ。",
+      "sentenceVi": "Vào ban đêm khu vực này trở nên yên tĩnh đến mức đáng sợ.",
+      "targetGrammar": "〜ほど",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Đến mức đó; vậy... cái đó"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ほど」 mang ý nghĩa: \"Đến mức đó; vậy... cái đó\"."
+    },
+    {
+      "id": "bunpou-n3-hodo-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "昨日は、立っていられないほど疲れていた。",
+      "sentenceVi": "Hôm qua tôi mệt đến mức gần như không thể đứng vững được.",
+      "targetGrammar": "〜ほど",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đến mức đó; vậy... cái đó\":",
+      "options": [
+        "〜ほど",
+        "〜ことはない",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ほど」."
+    },
+    {
+      "id": "bunpou-n3-hodo-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "昨日は、立っていられないほど疲れていた。",
+      "sentenceVi": "Hôm qua tôi mệt đến mức gần như không thể đứng vững được.",
+      "targetGrammar": "〜ほど",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ほど」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Đến mức đó; vậy... cái đó",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ほど」 có nghĩa là: Đến mức đó; vậy... cái đó."
+    }
+  ]
+}

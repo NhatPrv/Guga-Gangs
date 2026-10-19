@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-aida-aida-ni",
+  "level": "N4",
+  "pattern": "〜間 / 〜間に",
+  "title": "〜間 / 〜間に",
+  "meaning": "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+  "meaningVi": "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+  "connection": "Động từ (V)-te + いる / Động từ (V)-dict / Danh từ (N) + の + 間（に）",
+  "usageNotes": "間 có nghĩa là hành động tiếp tục trong suốt thời gian; 間に có nghĩa là nó xảy ra vào một thời điểm nào đó trong một khoảng thời gian.",
+  "examples": [
+    {
+      "ja": "夏休みの間、祖父の家にいました。",
+      "furigana": "{夏休|なつやす}みの{間|あいだ}、{祖父|そふ}の{家|いえ}にいました。",
+      "en": "I stayed at my grandfather's house during the summer vacation.",
+      "vi": "Tôi ở nhà ông nội trong kỳ nghỉ hè."
+    },
+    {
+      "ja": "母が寝ている間に、部屋を掃除した。",
+      "furigana": "{母|はは}が{寝|ね}ている{間|あいだ}に、{部屋|へや}を{掃除|そうじ}した。",
+      "en": "I cleaned my room while my mother was asleep.",
+      "vi": "Tôi dọn phòng trong khi mẹ tôi đang ngủ."
+    },
+    {
+      "ja": "電車を待っている間、ずっと本を読んでいた。",
+      "furigana": "{電車|でんしゃ}を{待|ま}っている{間|あいだ}、ずっと{本|ほん}を{読|よ}んでいた。",
+      "en": "I read a book the whole time I was waiting for the train.",
+      "vi": "Tôi đọc sách trong suốt thời gian chờ tàu."
+    }
+  ],
+  "tags": [
+    "time",
+    "simultaneity"
+  ],
+  "unitId": "grammar-n4-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n4-aida-aida-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夏休みの間、祖父の家にいました。",
+      "sentenceVi": "Tôi ở nhà ông nội trong kỳ nghỉ hè.",
+      "targetGrammar": "〜間 / 〜間に",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜間 / 〜間に」 mang ý nghĩa: \"Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian\"."
+    },
+    {
+      "id": "bunpou-n4-aida-aida-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "母が寝ている間に、部屋を掃除した。",
+      "sentenceVi": "Tôi dọn phòng trong khi mẹ tôi đang ngủ.",
+      "targetGrammar": "〜間 / 〜間に",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜間 / 〜間に",
+        "〜ていく",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi dọn phòng trong khi mẹ tôi đang ngủ.\", ta sử dụng mẫu 「〜間 / 〜間に」."
+    },
+    {
+      "id": "bunpou-n4-aida-aida-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "電車を待っている間、ずっと本を読んでいた。",
+      "sentenceVi": "Tôi đọc sách trong suốt thời gian chờ tàu.",
+      "targetGrammar": "〜間 / 〜間に",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜間 / 〜間に」 mang ý nghĩa: \"Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian\"."
+    },
+    {
+      "id": "bunpou-n4-aida-aida-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "夏休みの間、祖父の家にいました。",
+      "sentenceVi": "Tôi ở nhà ông nội trong kỳ nghỉ hè.",
+      "targetGrammar": "〜間 / 〜間に",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian\":",
+      "options": [
+        "〜間 / 〜間に",
+        "〜てみる",
+        "〜とき",
+        "〜てある"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜間 / 〜間に」."
+    },
+    {
+      "id": "bunpou-n4-aida-aida-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夏休みの間、祖父の家にいました。",
+      "sentenceVi": "Tôi ở nhà ông nội trong kỳ nghỉ hè.",
+      "targetGrammar": "〜間 / 〜間に",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜間 / 〜間に」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Rõ ràng; có vẻ như; tôi nghe thấy"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜間 / 〜間に」 có nghĩa là: Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-nado",
+  "level": "N4",
+  "pattern": "〜など",
+  "title": "〜など",
+  "meaning": "V.v.; vân vân; chẳng hạn như",
+  "meaningVi": "V.v.; vân vân; chẳng hạn như",
+  "connection": "Danh từ (N) + など",
+  "usageNotes": "Thường kết hợp với や (AやBなど). Sau một danh từ, nó làm dịu đi một gợi ý.",
+  "examples": [
+    {
+      "ja": "机の上に本やノートなどがあります。",
+      "furigana": "{机|つくえ}の{上|うえ}に{本|ほん}やノートなどがあります。",
+      "en": "On the desk there are books, notebooks and so on.",
+      "vi": "Trên bàn có sách, vở, v.v."
+    },
+    {
+      "ja": "夏休みに京都や奈良などに行きました。",
+      "furigana": "{夏休|なつやす}みに{京都|きょうと}や{奈良|なら}などに{行|い}きました。",
+      "en": "During summer vacation I went to places like Kyoto and Nara.",
+      "vi": "Trong kỳ nghỉ hè tôi đã đến những nơi như Kyoto và Nara."
+    },
+    {
+      "ja": "お茶など、いかがですか。",
+      "furigana": "お{茶|ちゃ}など、いかがですか。",
+      "en": "Would you care for some tea or something?",
+      "vi": "Bạn có muốn dùng chút trà hay gì không?"
+    }
+  ],
+  "tags": [
+    "example"
+  ],
+  "unitId": "grammar-n4-unit-18",
+  "questions": [
+    {
+      "id": "bunpou-n4-nado-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "机の上に本やノートなどがあります。",
+      "sentenceVi": "Trên bàn có sách, vở, v.v.",
+      "targetGrammar": "〜など",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "V.v.; vân vân; chẳng hạn như",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜など」 mang ý nghĩa: \"V.v.; vân vân; chẳng hạn như\"."
+    },
+    {
+      "id": "bunpou-n4-nado-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "夏休みに京都や奈良などに行きました。",
+      "sentenceVi": "Trong kỳ nghỉ hè tôi đã đến những nơi như Kyoto và Nara.",
+      "targetGrammar": "〜など",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜など",
+        "〜ていく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Trong kỳ nghỉ hè tôi đã đến những nơi như Kyoto và Nara.\", ta sử dụng mẫu 「〜など」."
+    },
+    {
+      "id": "bunpou-n4-nado-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "お茶など、いかがですか。",
+      "sentenceVi": "Bạn có muốn dùng chút trà hay gì không?",
+      "targetGrammar": "〜など",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "V.v.; vân vân; chẳng hạn như"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜など」 mang ý nghĩa: \"V.v.; vân vân; chẳng hạn như\"."
+    },
+    {
+      "id": "bunpou-n4-nado-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "机の上に本やノートなどがあります。",
+      "sentenceVi": "Trên bàn có sách, vở, v.v.",
+      "targetGrammar": "〜など",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"V.v.; vân vân; chẳng hạn như\":",
+      "options": [
+        "〜とき",
+        "〜てみる",
+        "〜てある",
+        "〜など"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜など」."
+    },
+    {
+      "id": "bunpou-n4-nado-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "机の上に本やノートなどがあります。",
+      "sentenceVi": "Trên bàn có sách, vở, v.v.",
+      "targetGrammar": "〜など",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜など」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "V.v.; vân vân; chẳng hạn như",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜など」 có nghĩa là: V.v.; vân vân; chẳng hạn như."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-noni-although",
+  "level": "N4",
+  "pattern": "〜のに（although）",
+  "title": "〜のに（although）",
+  "meaning": "Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)",
+  "meaningVi": "Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)",
+  "connection": "Động từ (V)-plain / i-Adj + のに / na-Adj + な + のに / Danh từ (N) + な + のに",
+  "usageNotes": "Mang đến sự ngạc nhiên, thất vọng hoặc phàn nàn. Mệnh đề chính không thể là một yêu cầu hay ý định; sử dụng けど hoặc ても ở đó.",
+  "examples": [
+    {
+      "ja": "一生懸命勉強したのに、試験に落ちてしまった。",
+      "furigana": "{一生懸命|いっしょうけんめい}{勉強|べんきょう}したのに、{試験|しけん}に{落|お}ちてしまった。",
+      "en": "Even though I studied really hard, I failed the exam.",
+      "vi": "Mặc dù tôi đã học rất chăm chỉ nhưng tôi đã trượt kỳ thi."
+    },
+    {
+      "ja": "日曜日なのに、会社に行かなければならない。",
+      "furigana": "{日曜日|にちようび}なのに、{会社|かいしゃ}に{行|い}かなければならない。",
+      "en": "Even though it's Sunday, I have to go to work.",
+      "vi": "Dù là chủ nhật nhưng tôi vẫn phải đi làm."
+    },
+    {
+      "ja": "約束したのに、彼は来なかった。",
+      "furigana": "{約束|やくそく}したのに、{彼|かれ}は{来|こ}なかった。",
+      "en": "He didn't come, even though he promised.",
+      "vi": "Anh không đến dù đã hứa"
+    }
+  ],
+  "tags": [
+    "concession",
+    "criticism"
+  ],
+  "unitId": "grammar-n4-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n4-noni-although-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "一生懸命勉強したのに、試験に落ちてしまった。",
+      "sentenceVi": "Mặc dù tôi đã học rất chăm chỉ nhưng tôi đã trượt kỳ thi.",
+      "targetGrammar": "〜のに（although）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜のに（although）」 mang ý nghĩa: \"Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)\"."
+    },
+    {
+      "id": "bunpou-n4-noni-although-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日曜日なのに、会社に行かなければならない。",
+      "sentenceVi": "Dù là chủ nhật nhưng tôi vẫn phải đi làm.",
+      "targetGrammar": "〜のに（although）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜てもらう",
+        "〜のに（although）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Dù là chủ nhật nhưng tôi vẫn phải đi làm.\", ta sử dụng mẫu 「〜のに（although）」."
+    },
+    {
+      "id": "bunpou-n4-noni-although-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "約束したのに、彼は来なかった。",
+      "sentenceVi": "Anh không đến dù đã hứa",
+      "targetGrammar": "〜のに（although）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜のに（although）」 mang ý nghĩa: \"Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)\"."
+    },
+    {
+      "id": "bunpou-n4-noni-although-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "一生懸命勉強したのに、試験に落ちてしまった。",
+      "sentenceVi": "Mặc dù tôi đã học rất chăm chỉ nhưng tôi đã trượt kỳ thi.",
+      "targetGrammar": "〜のに（although）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)\":",
+      "options": [
+        "〜てある",
+        "〜のに（although）",
+        "〜てみる",
+        "〜とき"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜のに（although）」."
+    },
+    {
+      "id": "bunpou-n4-noni-although-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "一生懸命勉強したのに、試験に落ちてしまった。",
+      "sentenceVi": "Mặc dù tôi đã học rất chăm chỉ nhưng tôi đã trượt kỳ thi.",
+      "targetGrammar": "〜のに（although）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜のに（although）」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜のに（although）」 có nghĩa là: Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)."
+    }
+  ]
+}

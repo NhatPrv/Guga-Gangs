@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-kara-ni-kakete",
+  "level": "N3",
+  "pattern": "〜から〜にかけて",
+  "title": "〜から〜にかけて",
+  "meaning": "Từ... qua; trên (một khoảng thời gian hoặc khu vực)",
+  "meaningVi": "Từ... qua; trên (một khoảng thời gian hoặc khu vực)",
+  "connection": "Danh từ (N) + から + Danh từ (N) + にかけて",
+  "usageNotes": "Một khoảng thời gian hoặc không gian gồ ghề có các cạnh không chính xác; phổ biến trong các bản tin thời tiết. So sánh 〜から〜まで, đánh dấu điểm bắt đầu và điểm kết thúc rõ ràng.",
+  "examples": [
+    {
+      "ja": "今夜から明日の朝にかけて、強い雨が降るでしょう。",
+      "furigana": "{今夜|こんや}から{明日|あした}の{朝|あさ}にかけて、{強|つよ}い{雨|あめ}が{降|ふ}るでしょう。",
+      "en": "Heavy rain is expected from tonight through tomorrow morning.",
+      "vi": "Dự kiến ​​sẽ có mưa lớn từ đêm nay đến sáng mai."
+    },
+    {
+      "ja": "関東から東北にかけての広い地域で、強い揺れが観測された。",
+      "furigana": "{関東|かんとう}から{東北|とうほく}にかけての{広|ひろ}い{地域|ちいき}で、{強|つよ}い{揺|ゆ}れが{観測|かんそく}された。",
+      "en": "Strong shaking was recorded over a wide area from Kanto to Tohoku.",
+      "vi": "Rung lắc mạnh được ghi nhận trên một khu vực rộng từ Kanto đến Tohoku."
+    },
+    {
+      "ja": "この花は、三月から四月にかけてきれいに咲く。",
+      "furigana": "この{花|はな}は、{三月|さんがつ}から{四月|しがつ}にかけてきれいに{咲|さ}く。",
+      "en": "This flower blooms beautifully from March through April.",
+      "vi": "Loài hoa này nở đẹp từ tháng 3 đến tháng 4."
+    }
+  ],
+  "tags": [
+    "range",
+    "time"
+  ],
+  "unitId": "grammar-n3-unit-16",
+  "questions": [
+    {
+      "id": "bunpou-n3-kara-ni-kakete-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今夜から明日の朝にかけて、強い雨が降るでしょう。",
+      "sentenceVi": "Dự kiến ​​sẽ có mưa lớn từ đêm nay đến sáng mai.",
+      "targetGrammar": "〜から〜にかけて",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Từ... qua; trên (một khoảng thời gian hoặc khu vực)",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜から〜にかけて」 mang ý nghĩa: \"Từ... qua; trên (một khoảng thời gian hoặc khu vực)\"."
+    },
+    {
+      "id": "bunpou-n3-kara-ni-kakete-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "関東から東北にかけての広い地域で、強い揺れが観測された。",
+      "sentenceVi": "Rung lắc mạnh được ghi nhận trên một khu vực rộng từ Kanto đến Tohoku.",
+      "targetGrammar": "〜から〜にかけて",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜から〜にかけて",
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Rung lắc mạnh được ghi nhận trên một khu vực rộng từ Kanto đến Tohoku.\", ta sử dụng mẫu 「〜から〜にかけて」."
+    },
+    {
+      "id": "bunpou-n3-kara-ni-kakete-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この花は、三月から四月にかけてきれいに咲く。",
+      "sentenceVi": "Loài hoa này nở đẹp từ tháng 3 đến tháng 4.",
+      "targetGrammar": "〜から〜にかけて",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Từ... qua; trên (một khoảng thời gian hoặc khu vực)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜から〜にかけて」 mang ý nghĩa: \"Từ... qua; trên (một khoảng thời gian hoặc khu vực)\"."
+    },
+    {
+      "id": "bunpou-n3-kara-ni-kakete-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今夜から明日の朝にかけて、強い雨が降るでしょう。",
+      "sentenceVi": "Dự kiến ​​sẽ có mưa lớn từ đêm nay đến sáng mai.",
+      "targetGrammar": "〜から〜にかけて",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Từ... qua; trên (một khoảng thời gian hoặc khu vực)\":",
+      "options": [
+        "〜ことはない",
+        "〜から〜にかけて",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜から〜にかけて」."
+    },
+    {
+      "id": "bunpou-n3-kara-ni-kakete-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今夜から明日の朝にかけて、強い雨が降るでしょう。",
+      "sentenceVi": "Dự kiến ​​sẽ có mưa lớn từ đêm nay đến sáng mai.",
+      "targetGrammar": "〜から〜にかけて",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜から〜にかけて」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Từ... qua; trên (một khoảng thời gian hoặc khu vực)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜から〜にかけて」 có nghĩa là: Từ... qua; trên (một khoảng thời gian hoặc khu vực)."
+    }
+  ]
+}

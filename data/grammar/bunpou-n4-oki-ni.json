@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-oki-ni",
+  "level": "N4",
+  "pattern": "〜おきに",
+  "title": "〜おきに",
+  "meaning": "Nhau; trong khoảng thời gian",
+  "meaningVi": "Nhau; trong khoảng thời gian",
+  "connection": "Danh từ (N) (number + counter) + おきに",
+  "usageNotes": "Với ngày (一日おき) nó bỏ qua một đơn vị, nghĩa là 'cách ngày'. Với số phút hoặc khoảng cách, nó thường chỉ có nghĩa là 'mọi X'.",
+  "examples": [
+    {
+      "ja": "このバスは十五分おきに来ます。",
+      "furigana": "このバスは{十|じゅう}{五|ご}{分|ふん}おきに{来|き}ます。",
+      "en": "This bus comes every fifteen minutes.",
+      "vi": "Xe buýt này đến cứ sau mười lăm phút."
+    },
+    {
+      "ja": "一日おきにジョギングをしています。",
+      "furigana": "{一|いち}{日|にち}おきにジョギングをしています。",
+      "en": "I go jogging every other day.",
+      "vi": "Tôi đi chạy bộ mỗi ngày."
+    },
+    {
+      "ja": "道の両側に、木が五メートルおきに植えてある。",
+      "furigana": "{道|みち}の{両側|りょうがわ}に、{木|き}が{五|ご}メートルおきに{植|う}えてある。",
+      "en": "Trees are planted every five meters on both sides of the road.",
+      "vi": "Cây xanh được trồng mỗi năm mét ở hai bên đường."
+    }
+  ],
+  "tags": [
+    "time",
+    "quantity"
+  ],
+  "unitId": "grammar-n4-unit-19",
+  "questions": [
+    {
+      "id": "bunpou-n4-oki-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このバスは十五分おきに来ます。",
+      "sentenceVi": "Xe buýt này đến cứ sau mười lăm phút.",
+      "targetGrammar": "〜おきに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Nhau; trong khoảng thời gian",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜おきに」 mang ý nghĩa: \"Nhau; trong khoảng thời gian\"."
+    },
+    {
+      "id": "bunpou-n4-oki-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "一日おきにジョギングをしています。",
+      "sentenceVi": "Tôi đi chạy bộ mỗi ngày.",
+      "targetGrammar": "〜おきに",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜おきに",
+        "〜てくださる / 〜ていただく",
+        "〜ていく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đi chạy bộ mỗi ngày.\", ta sử dụng mẫu 「〜おきに」."
+    },
+    {
+      "id": "bunpou-n4-oki-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "道の両側に、木が五メートルおきに植えてある。",
+      "sentenceVi": "Cây xanh được trồng mỗi năm mét ở hai bên đường.",
+      "targetGrammar": "〜おきに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nhau; trong khoảng thời gian",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜おきに」 mang ý nghĩa: \"Nhau; trong khoảng thời gian\"."
+    },
+    {
+      "id": "bunpou-n4-oki-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このバスは十五分おきに来ます。",
+      "sentenceVi": "Xe buýt này đến cứ sau mười lăm phút.",
+      "targetGrammar": "〜おきに",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nhau; trong khoảng thời gian\":",
+      "options": [
+        "〜てある",
+        "〜てみる",
+        "〜とき",
+        "〜おきに"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜おきに」."
+    },
+    {
+      "id": "bunpou-n4-oki-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このバスは十五分おきに来ます。",
+      "sentenceVi": "Xe buýt này đến cứ sau mười lăm phút.",
+      "targetGrammar": "〜おきに",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜おきに」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Nhau; trong khoảng thời gian",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜おきに」 có nghĩa là: Nhau; trong khoảng thời gian."
+    }
+  ]
+}

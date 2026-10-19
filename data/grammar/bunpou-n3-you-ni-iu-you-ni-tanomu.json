@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-you-ni-iu-you-ni-tanomu",
+  "level": "N3",
+  "pattern": "〜ように言う / 〜ように頼む",
+  "title": "〜ように言う / 〜ように頼む",
+  "meaning": "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+  "meaningVi": "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + ように言う / ように頼む",
+  "usageNotes": "Báo cáo một hướng dẫn hoặc yêu cầu một cách gián tiếp. Cũng có tác dụng với các động từ khác: 伝える, 注意する, お願いする. Phiên bản trích dẫn trực tiếp: 「〜てください」と言う.",
+  "examples": [
+    {
+      "ja": "医者に、お酒を飲みすぎないように言われた。",
+      "furigana": "{医者|いしゃ}に、お{酒|さけ}を{飲|の}みすぎないように{言|い}われた。",
+      "en": "My doctor told me not to drink too much.",
+      "vi": "Bác sĩ bảo tôi không nên uống quá nhiều."
+    },
+    {
+      "ja": "隣の部屋の人に、夜は音楽の音を小さくするように頼んだ。",
+      "furigana": "{隣|となり}の{部屋|へや}の{人|ひと}に、{夜|よる}は{音楽|おんがく}の{音|おと}を{小|ちい}さくするように{頼|たの}んだ。",
+      "en": "I asked the person next door to turn their music down at night.",
+      "vi": "Tôi yêu cầu người bên cạnh tắt nhạc vào ban đêm."
+    },
+    {
+      "ja": "山下さんに、明日の会議に遅れないように伝えてください。",
+      "furigana": "{山下|やました}さんに、{明日|あした}の{会議|かいぎ}に{遅|おく}れないように{伝|つた}えてください。",
+      "en": "Please tell Ms. Yamashita not to be late for tomorrow's meeting.",
+      "vi": "Hãy nói với cô Yamashita đừng đến muộn trong cuộc họp ngày mai."
+    }
+  ],
+  "tags": [
+    "request",
+    "command",
+    "quotation"
+  ],
+  "unitId": "grammar-n3-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n3-you-ni-iu-you-ni-tanomu-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "医者に、お酒を飲みすぎないように言われた。",
+      "sentenceVi": "Bác sĩ bảo tôi không nên uống quá nhiều.",
+      "targetGrammar": "〜ように言う / 〜ように頼む",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ように言う / 〜ように頼む」 mang ý nghĩa: \"Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)\"."
+    },
+    {
+      "id": "bunpou-n3-you-ni-iu-you-ni-tanomu-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "隣の部屋の人に、夜は音楽の音を小さくするように頼んだ。",
+      "sentenceVi": "Tôi yêu cầu người bên cạnh tắt nhạc vào ban đêm.",
+      "targetGrammar": "〜ように言う / 〜ように頼む",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜ものだ",
+        "〜ように言う / 〜ように頼む",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi yêu cầu người bên cạnh tắt nhạc vào ban đêm.\", ta sử dụng mẫu 「〜ように言う / 〜ように頼む」."
+    },
+    {
+      "id": "bunpou-n3-you-ni-iu-you-ni-tanomu-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "山下さんに、明日の会議に遅れないように伝えてください。",
+      "sentenceVi": "Hãy nói với cô Yamashita đừng đến muộn trong cuộc họp ngày mai.",
+      "targetGrammar": "〜ように言う / 〜ように頼む",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ように言う / 〜ように頼む」 mang ý nghĩa: \"Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)\"."
+    },
+    {
+      "id": "bunpou-n3-you-ni-iu-you-ni-tanomu-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "医者に、お酒を飲みすぎないように言われた。",
+      "sentenceVi": "Bác sĩ bảo tôi không nên uống quá nhiều.",
+      "targetGrammar": "〜ように言う / 〜ように頼む",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)\":",
+      "options": [
+        "〜ように言う / 〜ように頼む",
+        "〜ことはない",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ように言う / 〜ように頼む」."
+    },
+    {
+      "id": "bunpou-n3-you-ni-iu-you-ni-tanomu-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "医者に、お酒を飲みすぎないように言われた。",
+      "sentenceVi": "Bác sĩ bảo tôi không nên uống quá nhiều.",
+      "targetGrammar": "〜ように言う / 〜ように頼む",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ように言う / 〜ように頼む」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Không thể ; không có vẻ như nó sẽ"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ように言う / 〜ように頼む」 có nghĩa là: Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)."
+    }
+  ]
+}

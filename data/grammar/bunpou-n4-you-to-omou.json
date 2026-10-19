@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-you-to-omou",
+  "level": "N4",
+  "pattern": "〜(よ)うと思う",
+  "title": "〜(よ)うと思う",
+  "meaning": "Đang nghĩ đến việc làm; lên kế hoạch",
+  "meaningVi": "Đang nghĩ đến việc làm; lên kế hoạch",
+  "connection": "Động từ (V)-volitional + と思う",
+  "usageNotes": "〜と思う thường báo cáo một quyết định vừa được đưa ra; 〜と思っている thể hiện một kế hoạch được thực hiện trong một thời gian. Nhẹ nhàng hơn つもり.",
+  "examples": [
+    {
+      "ja": "今年の夏は海に行こうと思っています。",
+      "furigana": "{今年|ことし}の{夏|なつ}は{海|うみ}に{行|い}こうと{思|おも}っています。",
+      "en": "I'm thinking of going to the beach this summer.",
+      "vi": "Tôi đang nghĩ đến việc đi biển vào mùa hè này."
+    },
+    {
+      "ja": "明日は早く起きて、公園を走ろうと思う。",
+      "furigana": "{明日|あした}は{早|はや}く{起|お}きて、{公園|こうえん}を{走|はし}ろうと{思|おも}う。",
+      "en": "I think I'll get up early tomorrow and go for a run in the park.",
+      "vi": "Tôi nghĩ ngày mai tôi sẽ dậy sớm và chạy bộ trong công viên."
+    },
+    {
+      "ja": "新しいパソコンを買おうと思ったけど、やめました。",
+      "furigana": "{新|あたら}しいパソコンを{買|か}おうと{思|おも}ったけど、やめました。",
+      "en": "I was going to buy a new computer, but I decided against it.",
+      "vi": "Tôi định mua một chiếc máy tính mới, nhưng tôi quyết định không làm vậy."
+    }
+  ],
+  "tags": [
+    "intention"
+  ],
+  "unitId": "grammar-n4-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n4-you-to-omou-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今年の夏は海に行こうと思っています。",
+      "sentenceVi": "Tôi đang nghĩ đến việc đi biển vào mùa hè này.",
+      "targetGrammar": "〜(よ)うと思う",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Đang nghĩ đến việc làm; lên kế hoạch",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜(よ)うと思う」 mang ý nghĩa: \"Đang nghĩ đến việc làm; lên kế hoạch\"."
+    },
+    {
+      "id": "bunpou-n4-you-to-omou-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "明日は早く起きて、公園を走ろうと思う。",
+      "sentenceVi": "Tôi nghĩ ngày mai tôi sẽ dậy sớm và chạy bộ trong công viên.",
+      "targetGrammar": "〜(よ)うと思う",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜(よ)うと思う"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi nghĩ ngày mai tôi sẽ dậy sớm và chạy bộ trong công viên.\", ta sử dụng mẫu 「〜(よ)うと思う」."
+    },
+    {
+      "id": "bunpou-n4-you-to-omou-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "新しいパソコンを買おうと思ったけど、やめました。",
+      "sentenceVi": "Tôi định mua một chiếc máy tính mới, nhưng tôi quyết định không làm vậy.",
+      "targetGrammar": "〜(よ)うと思う",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Đang nghĩ đến việc làm; lên kế hoạch",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜(よ)うと思う」 mang ý nghĩa: \"Đang nghĩ đến việc làm; lên kế hoạch\"."
+    },
+    {
+      "id": "bunpou-n4-you-to-omou-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今年の夏は海に行こうと思っています。",
+      "sentenceVi": "Tôi đang nghĩ đến việc đi biển vào mùa hè này.",
+      "targetGrammar": "〜(よ)うと思う",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đang nghĩ đến việc làm; lên kế hoạch\":",
+      "options": [
+        "〜(よ)うと思う",
+        "〜てみる",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜(よ)うと思う」."
+    },
+    {
+      "id": "bunpou-n4-you-to-omou-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今年の夏は海に行こうと思っています。",
+      "sentenceVi": "Tôi đang nghĩ đến việc đi biển vào mùa hè này.",
+      "targetGrammar": "〜(よ)うと思う",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜(よ)うと思う」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Đang nghĩ đến việc làm; lên kế hoạch",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜(よ)うと思う」 có nghĩa là: Đang nghĩ đến việc làm; lên kế hoạch."
+    }
+  ]
+}

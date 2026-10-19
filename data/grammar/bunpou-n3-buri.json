@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-buri",
+  "level": "N3",
+  "pattern": "〜ぶり",
+  "title": "〜ぶり",
+  "meaning": "Lần đầu tiên trong (một khoảng thời gian); cách thức, cách làm",
+  "meaningVi": "Lần đầu tiên trong (một khoảng thời gian); cách thức, cách làm",
+  "connection": "Danh từ (N) + ぶり / Động từ (V)-stem + ぶり",
+  "usageNotes": "Khoảng thời gian + ぶり: lần đầu tiên trong thời gian dài như vậy (〜ぶりに / 〜ぶりの). Danh từ hoặc Thân động từ + ぶり: cách ai đó làm việc gì đó (仕事ぶり, 話しぶり).",
+  "examples": [
+    {
+      "ja": "五年ぶりに高校の友達に会って、話が止まらなかった。",
+      "furigana": "{五|ご}{年|ねん}ぶりに{高校|こうこう}の{友達|ともだち}に{会|あ}って、{話|はなし}が{止|と}まらなかった。",
+      "en": "I saw my high school friends for the first time in five years, and we couldn't stop talking.",
+      "vi": "Tôi gặp lại những người bạn trung học của mình lần đầu tiên sau 5 năm và chúng tôi không thể ngừng nói chuyện."
+    },
+    {
+      "ja": "久しぶりですね。お元気でしたか。",
+      "furigana": "{久|ひさ}しぶりですね。お{元気|げんき}でしたか。",
+      "en": "It's been a long time. How have you been?",
+      "vi": "Đã lâu lắm rồi. Bạn thế nào rồi?"
+    },
+    {
+      "ja": "新入社員の仕事ぶりを見て、部長は安心したようだ。",
+      "furigana": "{新入|しんにゅう}{社員|しゃいん}の{仕事|しごと}ぶりを{見|み}て、{部長|ぶちょう}は{安心|あんしん}したようだ。",
+      "en": "The manager seemed relieved after seeing how the new employee works.",
+      "vi": "Người quản lý có vẻ nhẹ nhõm sau khi thấy cách làm việc của nhân viên mới."
+    }
+  ],
+  "tags": [
+    "time",
+    "manner"
+  ],
+  "unitId": "grammar-n3-unit-17",
+  "questions": [
+    {
+      "id": "bunpou-n3-buri-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "五年ぶりに高校の友達に会って、話が止まらなかった。",
+      "sentenceVi": "Tôi gặp lại những người bạn trung học của mình lần đầu tiên sau 5 năm và chúng tôi không thể ngừng nói chuyện.",
+      "targetGrammar": "〜ぶり",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Lần đầu tiên trong (một khoảng thời gian); cách thức, cách làm",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ぶり」 mang ý nghĩa: \"Lần đầu tiên trong (một khoảng thời gian); cách thức, cách làm\"."
+    },
+    {
+      "id": "bunpou-n3-buri-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "久しぶりですね。お元気でしたか。",
+      "sentenceVi": "Đã lâu lắm rồi. Bạn thế nào rồi?",
+      "targetGrammar": "〜ぶり",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜ものだ",
+        "〜ぶり"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Đã lâu lắm rồi. Bạn thế nào rồi?\", ta sử dụng mẫu 「〜ぶり」."
+    },
+    {
+      "id": "bunpou-n3-buri-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "新入社員の仕事ぶりを見て、部長は安心したようだ。",
+      "sentenceVi": "Người quản lý có vẻ nhẹ nhõm sau khi thấy cách làm việc của nhân viên mới.",
+      "targetGrammar": "〜ぶり",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Lần đầu tiên trong (một khoảng thời gian); cách thức, cách làm",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ぶり」 mang ý nghĩa: \"Lần đầu tiên trong (một khoảng thời gian); cách thức, cách làm\"."
+    },
+    {
+      "id": "bunpou-n3-buri-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "五年ぶりに高校の友達に会って、話が止まらなかった。",
+      "sentenceVi": "Tôi gặp lại những người bạn trung học của mình lần đầu tiên sau 5 năm và chúng tôi không thể ngừng nói chuyện.",
+      "targetGrammar": "〜ぶり",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Lần đầu tiên trong (một khoảng thời gian); cách thức, cách làm\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことはない",
+        "〜ぶり",
+        "〜ことにしている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ぶり」."
+    },
+    {
+      "id": "bunpou-n3-buri-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "五年ぶりに高校の友達に会って、話が止まらなかった。",
+      "sentenceVi": "Tôi gặp lại những người bạn trung học của mình lần đầu tiên sau 5 năm và chúng tôi không thể ngừng nói chuyện.",
+      "targetGrammar": "〜ぶり",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ぶり」 là gì?",
+      "options": [
+        "Lần đầu tiên trong (một khoảng thời gian); cách thức, cách làm",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ぶり」 có nghĩa là: Lần đầu tiên trong (một khoảng thời gian); cách thức, cách làm."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-koto-ni-natte-iru",
+  "level": "N3",
+  "pattern": "〜ことになっている",
+  "title": "〜ことになっている",
+  "meaning": "Được quy định là... / Có quy định là...",
+  "meaningVi": "Được quy định là... / Có quy định là...",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + ことになっている",
+  "usageNotes": "Các quy tắc, phong tục hay kế hoạch do người khác (công ty, trường học, xã hội) quyết định chứ không phải là lựa chọn cá nhân. So sánh 〜ことにしている.",
+  "examples": [
+    {
+      "ja": "この寮では、夜十一時までに戻ることになっている。",
+      "furigana": "この{寮|りょう}では、{夜|よる}{十|じゅう}{一|いち}{時|じ}までに{戻|もど}ることになっている。",
+      "en": "In this dorm, you're supposed to be back by 11 p.m.",
+      "vi": "Ở ký túc xá này, cậu phải về trước 11 giờ đêm."
+    },
+    {
+      "ja": "来月から大阪の支社で働くことになっています。",
+      "furigana": "{来月|らいげつ}から{大阪|おおさか}の{支社|ししゃ}で{働|はたら}くことになっています。",
+      "en": "It's been arranged that I'll work at the Osaka branch from next month.",
+      "vi": "Người ta đã sắp xếp rằng tôi sẽ làm việc tại chi nhánh Osaka từ tháng tới."
+    },
+    {
+      "ja": "図書館の中では、飲み物を飲んではいけないことになっている。",
+      "furigana": "{図書館|としょかん}の{中|なか}では、{飲|の}み{物|もの}を{飲|の}んではいけないことになっている。",
+      "en": "The rules say you can't have drinks inside the library.",
+      "vi": "Nội quy nói rằng bạn không thể uống đồ uống trong thư viện."
+    }
+  ],
+  "tags": [
+    "decision",
+    "obligation"
+  ],
+  "unitId": "grammar-n3-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n3-koto-ni-natte-iru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この寮では、夜十一時までに戻ることになっている。",
+      "sentenceVi": "Ở ký túc xá này, cậu phải về trước 11 giờ đêm.",
+      "targetGrammar": "〜ことになっている",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Được quy định là... / Có quy định là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ことになっている」 mang ý nghĩa: \"Được quy định là... / Có quy định là...\"."
+    },
+    {
+      "id": "bunpou-n3-koto-ni-natte-iru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "来月から大阪の支社で働くことになっています。",
+      "sentenceVi": "Người ta đã sắp xếp rằng tôi sẽ làm việc tại chi nhánh Osaka từ tháng tới.",
+      "targetGrammar": "〜ことになっている",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜ことになっている",
+        "〜ものだ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Người ta đã sắp xếp rằng tôi sẽ làm việc tại chi nhánh Osaka từ tháng tới.\", ta sử dụng mẫu 「〜ことになっている」."
+    },
+    {
+      "id": "bunpou-n3-koto-ni-natte-iru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "図書館の中では、飲み物を飲んではいけないことになっている。",
+      "sentenceVi": "Nội quy nói rằng bạn không thể uống đồ uống trong thư viện.",
+      "targetGrammar": "〜ことになっている",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Được quy định là... / Có quy định là...",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ことになっている」 mang ý nghĩa: \"Được quy định là... / Có quy định là...\"."
+    },
+    {
+      "id": "bunpou-n3-koto-ni-natte-iru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この寮では、夜十一時までに戻ることになっている。",
+      "sentenceVi": "Ở ký túc xá này, cậu phải về trước 11 giờ đêm.",
+      "targetGrammar": "〜ことになっている",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Được quy định là... / Có quy định là...\":",
+      "options": [
+        "〜ことはない",
+        "〜ことにしている",
+        "〜こと（instruction）",
+        "〜ことになっている"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜ことになっている」."
+    },
+    {
+      "id": "bunpou-n3-koto-ni-natte-iru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この寮では、夜十一時までに戻ることになっている。",
+      "sentenceVi": "Ở ký túc xá này, cậu phải về trước 11 giờ đêm.",
+      "targetGrammar": "〜ことになっている",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ことになっている」 là gì?",
+      "options": [
+        "Không thể ; không có vẻ như nó sẽ",
+        "Được quy định là... / Có quy định là...",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ことになっている」 có nghĩa là: Được quy định là... / Có quy định là...."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-mae-ni",
+  "level": "N5",
+  "pattern": "〜前に",
+  "title": "〜前に",
+  "meaning": "Trước (làm); trước (một sự kiện); trước đây",
+  "meaningVi": "Trước (làm); trước (một sự kiện); trước đây",
+  "connection": "Động từ (V)-dict + 前に / Danh từ (N) + の + 前に",
+  "usageNotes": "Động từ trước 前に luôn ở dạng từ điển, ngay cả khi nói về quá khứ. Với khoảng thời gian dài không có の: 3年前に (ba năm trước).",
+  "examples": [
+    {
+      "ja": "寝る前に歯をみがきます。",
+      "furigana": "{寝|ね}る{前|まえ}に{歯|は}をみがきます。",
+      "en": "I brush my teeth before going to bed.",
+      "vi": "Tôi đánh răng trước khi đi ngủ."
+    },
+    {
+      "ja": "授業の前にコーヒーを飲みます。",
+      "furigana": "{授業|じゅぎょう}の{前|まえ}にコーヒーを{飲|の}みます。",
+      "en": "I drink coffee before class.",
+      "vi": "Tôi uống cà phê trước giờ học."
+    },
+    {
+      "ja": "3年前に日本へ来ました。",
+      "furigana": "3{年|ねん}{前|まえ}に{日本|にほん}へ{来|き}ました。",
+      "en": "I came to Japan three years ago.",
+      "vi": "Tôi đến Nhật Bản cách đây ba năm."
+    }
+  ],
+  "tags": [
+    "time",
+    "sequence"
+  ],
+  "unitId": "grammar-n5-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n5-mae-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "寝る前に歯をみがきます。",
+      "sentenceVi": "Tôi đánh răng trước khi đi ngủ.",
+      "targetGrammar": "〜前に",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Trước (làm); trước (một sự kiện); trước đây",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜前に」 mang ý nghĩa: \"Trước (làm); trước (một sự kiện); trước đây\"."
+    },
+    {
+      "id": "bunpou-n5-mae-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "授業の前にコーヒーを飲みます。",
+      "sentenceVi": "Tôi uống cà phê trước giờ học.",
+      "targetGrammar": "〜前に",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜前に",
+        "〜に（destination）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi uống cà phê trước giờ học.\", ta sử dụng mẫu 「〜前に」."
+    },
+    {
+      "id": "bunpou-n5-mae-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "3年前に日本へ来ました。",
+      "sentenceVi": "Tôi đến Nhật Bản cách đây ba năm.",
+      "targetGrammar": "〜前に",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Trước (làm); trước (một sự kiện); trước đây",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜前に」 mang ý nghĩa: \"Trước (làm); trước (một sự kiện); trước đây\"."
+    },
+    {
+      "id": "bunpou-n5-mae-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "寝る前に歯をみがきます。",
+      "sentenceVi": "Tôi đánh răng trước khi đi ngủ.",
+      "targetGrammar": "〜前に",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trước (làm); trước (một sự kiện); trước đây\":",
+      "options": [
+        "〜で（means）",
+        "〜と（and）",
+        "〜前に",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜前に」."
+    },
+    {
+      "id": "bunpou-n5-mae-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "寝る前に歯をみがきます。",
+      "sentenceVi": "Tôi đánh răng trước khi đi ngủ.",
+      "targetGrammar": "〜前に",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜前に」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Trước (làm); trước (một sự kiện); trước đây",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜前に」 có nghĩa là: Trước (làm); trước (một sự kiện); trước đây."
+    }
+  ]
+}

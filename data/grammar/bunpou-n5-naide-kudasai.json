@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-naide-kudasai",
+  "level": "N5",
+  "pattern": "〜ないでください",
+  "title": "〜ないでください",
+  "meaning": "Xin đừng... / Không được làm gì đó",
+  "meaningVi": "Xin đừng... / Không được làm gì đó",
+  "connection": "Động từ (V)-nai + でください",
+  "usageNotes": "Nhẹ nhàng hơn 〜てはいけません. Trong cách nói thông thường ください được lược bỏ: 見ないで.",
+  "examples": [
+    {
+      "ja": "教室で食べないでください。",
+      "furigana": "{教室|きょうしつ}で{食|た}べないでください。",
+      "en": "Please don't eat in the classroom.",
+      "vi": "Xin vui lòng không ăn trong lớp học."
+    },
+    {
+      "ja": "この部屋に入らないでください。",
+      "furigana": "この{部屋|へや}に{入|はい}らないでください。",
+      "en": "Please don't go into this room.",
+      "vi": "Làm ơn đừng vào phòng này."
+    },
+    {
+      "ja": "心配しないでください。",
+      "furigana": "{心配|しんぱい}しないでください。",
+      "en": "Please don't worry.",
+      "vi": "Xin đừng lo lắng."
+    }
+  ],
+  "tags": [
+    "request",
+    "prohibition"
+  ],
+  "unitId": "grammar-n5-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n5-naide-kudasai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "教室で食べないでください。",
+      "sentenceVi": "Xin vui lòng không ăn trong lớp học.",
+      "targetGrammar": "〜ないでください",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Xin đừng... / Không được làm gì đó",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ないでください」 mang ý nghĩa: \"Xin đừng... / Không được làm gì đó\"."
+    },
+    {
+      "id": "bunpou-n5-naide-kudasai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この部屋に入らないでください。",
+      "sentenceVi": "Làm ơn đừng vào phòng này.",
+      "targetGrammar": "〜ないでください",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜に（place of existence）",
+        "〜ないでください",
+        "〜に（destination）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Làm ơn đừng vào phòng này.\", ta sử dụng mẫu 「〜ないでください」."
+    },
+    {
+      "id": "bunpou-n5-naide-kudasai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "心配しないでください。",
+      "sentenceVi": "Xin đừng lo lắng.",
+      "targetGrammar": "〜ないでください",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Xin đừng... / Không được làm gì đó"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ないでください」 mang ý nghĩa: \"Xin đừng... / Không được làm gì đó\"."
+    },
+    {
+      "id": "bunpou-n5-naide-kudasai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "教室で食べないでください。",
+      "sentenceVi": "Xin vui lòng không ăn trong lớp học.",
+      "targetGrammar": "〜ないでください",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Xin đừng... / Không được làm gì đó\":",
+      "options": [
+        "〜で（means）",
+        "〜で（place of action）",
+        "〜ないでください",
+        "〜と（and）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ないでください」."
+    },
+    {
+      "id": "bunpou-n5-naide-kudasai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "教室で食べないでください。",
+      "sentenceVi": "Xin vui lòng không ăn trong lớp học.",
+      "targetGrammar": "〜ないでください",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ないでください」 là gì?",
+      "options": [
+        "Xin đừng... / Không được làm gì đó",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ないでください」 có nghĩa là: Xin đừng... / Không được làm gì đó."
+    }
+  ]
+}

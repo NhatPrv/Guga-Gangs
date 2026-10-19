@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-ni-totte",
+  "level": "N3",
+  "pattern": "〜にとって",
+  "title": "〜にとって",
+  "meaning": "Đối với... (Đứng trên lập trường của ai)",
+  "meaningVi": "Đối với... (Đứng trên lập trường của ai)",
+  "connection": "Danh từ (N) + にとって / Danh từ (N) + にとっての + Danh từ (N)",
+  "usageNotes": "Tiếp theo là sự đánh giá (大切だ, 難しい, 便利だ). Không dùng cho hành động hay thái độ đối với ai đó; sử dụng 〜に対して cho những điều đó.",
+  "examples": [
+    {
+      "ja": "私にとって、家族は何よりも大切なものです。",
+      "furigana": "{私|わたし}にとって、{家族|かぞく}は{何|なに}よりも{大切|たいせつ}なものです。",
+      "en": "To me, family is more important than anything.",
+      "vi": "Với tôi, gia đình quan trọng hơn bất cứ điều gì."
+    },
+    {
+      "ja": "このあたりの坂道は、お年寄りにとってはかなり大変だ。",
+      "furigana": "このあたりの{坂道|さかみち}は、お{年寄|としよ}りにとってはかなり{大変|たいへん}だ。",
+      "en": "The slopes around here are quite tough for elderly people.",
+      "vi": "Những con dốc quanh đây khá khó đi đối với người lớn tuổi."
+    },
+    {
+      "ja": "留学は、彼にとっていい経験になったようだ。",
+      "furigana": "{留学|りゅうがく}は、{彼|かれ}にとっていい{経験|けいけん}になったようだ。",
+      "en": "Studying abroad seems to have been a good experience for him.",
+      "vi": "Du học dường như là một trải nghiệm tốt đối với anh ấy."
+    }
+  ],
+  "tags": [
+    "standpoint"
+  ],
+  "unitId": "grammar-n3-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-totte-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私にとって、家族は何よりも大切なものです。",
+      "sentenceVi": "Với tôi, gia đình quan trọng hơn bất cứ điều gì.",
+      "targetGrammar": "〜にとって",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Đối với... (Đứng trên lập trường của ai)",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜にとって」 mang ý nghĩa: \"Đối với... (Đứng trên lập trường của ai)\"."
+    },
+    {
+      "id": "bunpou-n3-ni-totte-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このあたりの坂道は、お年寄りにとってはかなり大変だ。",
+      "sentenceVi": "Những con dốc quanh đây khá khó đi đối với người lớn tuổi.",
+      "targetGrammar": "〜にとって",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜にとって",
+        "〜ものだ",
+        "〜わけにはいかない",
+        "〜ものではない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Những con dốc quanh đây khá khó đi đối với người lớn tuổi.\", ta sử dụng mẫu 「〜にとって」."
+    },
+    {
+      "id": "bunpou-n3-ni-totte-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "留学は、彼にとっていい経験になったようだ。",
+      "sentenceVi": "Du học dường như là một trải nghiệm tốt đối với anh ấy.",
+      "targetGrammar": "〜にとって",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Đối với... (Đứng trên lập trường của ai)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜にとって」 mang ý nghĩa: \"Đối với... (Đứng trên lập trường của ai)\"."
+    },
+    {
+      "id": "bunpou-n3-ni-totte-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私にとって、家族は何よりも大切なものです。",
+      "sentenceVi": "Với tôi, gia đình quan trọng hơn bất cứ điều gì.",
+      "targetGrammar": "〜にとって",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đối với... (Đứng trên lập trường của ai)\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことになっている",
+        "〜ことはない",
+        "〜にとって"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜にとって」."
+    },
+    {
+      "id": "bunpou-n3-ni-totte-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私にとって、家族は何よりも大切なものです。",
+      "sentenceVi": "Với tôi, gia đình quan trọng hơn bất cứ điều gì.",
+      "targetGrammar": "〜にとって",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜にとって」 là gì?",
+      "options": [
+        "Đối với... (Đứng trên lập trường của ai)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜にとって」 có nghĩa là: Đối với... (Đứng trên lập trường của ai)."
+    }
+  ]
+}

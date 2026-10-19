@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-zu-ni",
+  "level": "N3",
+  "pattern": "〜ずに",
+  "title": "〜ずに",
+  "meaning": "Không làm",
+  "meaningVi": "Không làm",
+  "connection": "Động từ (V)-nai stem + ずに",
+  "usageNotes": "Trang trọng hơn, viết theo phong cách tương đương với 〜ないで. Bất quy tắc: する → せずに (không phải しずに), 来る → 来ずに (こずに).",
+  "examples": [
+    {
+      "ja": "けさは朝ご飯を食べずに家を出た。",
+      "furigana": "けさは{朝|あさ}ご{飯|はん}を{食|た}べずに{家|いえ}を{出|で}た。",
+      "en": "This morning I left home without eating breakfast.",
+      "vi": "Sáng nay tôi rời nhà mà không ăn sáng."
+    },
+    {
+      "ja": "辞書を使わずに、この新聞記事が読めますか。",
+      "furigana": "{辞書|じしょ}を{使|つか}わずに、この{新聞|しんぶん}{記事|きじ}が{読|よ}めますか。",
+      "en": "Can you read this newspaper article without using a dictionary?",
+      "vi": "Bạn có thể đọc bài báo này mà không cần sử dụng từ điển không?"
+    },
+    {
+      "ja": "彼は誰にも相談せずに、会社を辞めてしまった。",
+      "furigana": "{彼|かれ}は{誰|だれ}にも{相談|そうだん}せずに、{会社|かいしゃ}を{辞|や}めてしまった。",
+      "en": "He quit the company without consulting anyone.",
+      "vi": "Anh ấy rời công ty mà không hỏi ý kiến ​​ai."
+    }
+  ],
+  "tags": [
+    "negation",
+    "manner",
+    "written"
+  ],
+  "unitId": "grammar-n3-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n3-zu-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "けさは朝ご飯を食べずに家を出た。",
+      "sentenceVi": "Sáng nay tôi rời nhà mà không ăn sáng.",
+      "targetGrammar": "〜ずに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Không làm",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ずに」 mang ý nghĩa: \"Không làm\"."
+    },
+    {
+      "id": "bunpou-n3-zu-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "辞書を使わずに、この新聞記事が読めますか。",
+      "sentenceVi": "Bạn có thể đọc bài báo này mà không cần sử dụng từ điển không?",
+      "targetGrammar": "〜ずに",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ずに",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn có thể đọc bài báo này mà không cần sử dụng từ điển không?\", ta sử dụng mẫu 「〜ずに」."
+    },
+    {
+      "id": "bunpou-n3-zu-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "彼は誰にも相談せずに、会社を辞めてしまった。",
+      "sentenceVi": "Anh ấy rời công ty mà không hỏi ý kiến ​​ai.",
+      "targetGrammar": "〜ずに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Không làm",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ずに」 mang ý nghĩa: \"Không làm\"."
+    },
+    {
+      "id": "bunpou-n3-zu-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "けさは朝ご飯を食べずに家を出た。",
+      "sentenceVi": "Sáng nay tôi rời nhà mà không ăn sáng.",
+      "targetGrammar": "〜ずに",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không làm\":",
+      "options": [
+        "〜ずに",
+        "〜ことはない",
+        "〜ことにしている",
+        "〜ことになっている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ずに」."
+    },
+    {
+      "id": "bunpou-n3-zu-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "けさは朝ご飯を食べずに家を出た。",
+      "sentenceVi": "Sáng nay tôi rời nhà mà không ăn sáng.",
+      "targetGrammar": "〜ずに",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ずに」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Không làm",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ずに」 có nghĩa là: Không làm."
+    }
+  ]
+}

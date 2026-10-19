@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-ba",
+  "level": "N4",
+  "pattern": "〜ば",
+  "title": "〜ば",
+  "meaning": "Nếu... (Điều kiện giả định thể Ba)",
+  "meaningVi": "Nếu... (Điều kiện giả định thể Ba)",
+  "connection": "Động từ (V)-ba / i-Adj stem + ければ / na-Adj + なら / Danh từ (N) + なら",
+  "usageNotes": "Tập trung vào điều kiện cần thiết để đạt được kết quả. Khi mệnh đề chính là một yêu cầu hoặc lời mời, たら thường tự nhiên hơn trừ khi mệnh đề ば là một trạng thái (ある, いる, tính từ).",
+  "examples": [
+    {
+      "ja": "この道をまっすぐ行けば、駅に着きます。",
+      "furigana": "この{道|みち}をまっすぐ{行|い}けば、{駅|えき}に{着|つ}きます。",
+      "en": "If you go straight along this road, you'll reach the station.",
+      "vi": "Nếu bạn đi thẳng theo con đường này, bạn sẽ đến nhà ga."
+    },
+    {
+      "ja": "安ければ、買いたいです。",
+      "furigana": "{安|やす}ければ、{買|か}いたいです。",
+      "en": "If it's cheap, I'd like to buy it.",
+      "vi": "Nếu nó rẻ thì tôi muốn mua nó."
+    },
+    {
+      "ja": "分からないことがあれば、いつでも聞いてください。",
+      "furigana": "{分|わ}からないことがあれば、いつでも{聞|き}いてください。",
+      "en": "If there's anything you don't understand, feel free to ask anytime.",
+      "vi": "Nếu có điều gì bạn không hiểu, hãy hỏi bất cứ lúc nào."
+    }
+  ],
+  "tags": [
+    "condition"
+  ],
+  "unitId": "grammar-n4-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n4-ba-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この道をまっすぐ行けば、駅に着きます。",
+      "sentenceVi": "Nếu bạn đi thẳng theo con đường này, bạn sẽ đến nhà ga.",
+      "targetGrammar": "〜ば",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai...",
+        "Nếu... (Điều kiện giả định thể Ba)",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ば」 mang ý nghĩa: \"Nếu... (Điều kiện giả định thể Ba)\"."
+    },
+    {
+      "id": "bunpou-n4-ba-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "安ければ、買いたいです。",
+      "sentenceVi": "Nếu nó rẻ thì tôi muốn mua nó.",
+      "targetGrammar": "〜ば",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜ば",
+        "〜てもらう",
+        "〜ていく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Nếu nó rẻ thì tôi muốn mua nó.\", ta sử dụng mẫu 「〜ば」."
+    },
+    {
+      "id": "bunpou-n4-ba-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "分からないことがあれば、いつでも聞いてください。",
+      "sentenceVi": "Nếu có điều gì bạn không hiểu, hãy hỏi bất cứ lúc nào.",
+      "targetGrammar": "〜ば",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Nếu... (Điều kiện giả định thể Ba)",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ば」 mang ý nghĩa: \"Nếu... (Điều kiện giả định thể Ba)\"."
+    },
+    {
+      "id": "bunpou-n4-ba-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この道をまっすぐ行けば、駅に着きます。",
+      "sentenceVi": "Nếu bạn đi thẳng theo con đường này, bạn sẽ đến nhà ga.",
+      "targetGrammar": "〜ば",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nếu... (Điều kiện giả định thể Ba)\":",
+      "options": [
+        "〜てある",
+        "〜てみる",
+        "〜ば",
+        "〜とき"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ば」."
+    },
+    {
+      "id": "bunpou-n4-ba-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この道をまっすぐ行けば、駅に着きます。",
+      "sentenceVi": "Nếu bạn đi thẳng theo con đường này, bạn sẽ đến nhà ga.",
+      "targetGrammar": "〜ば",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ば」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Nếu... (Điều kiện giả định thể Ba)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ば」 có nghĩa là: Nếu... (Điều kiện giả định thể Ba)."
+    }
+  ]
+}

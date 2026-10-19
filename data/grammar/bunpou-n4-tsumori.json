@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-tsumori",
+  "level": "N4",
+  "pattern": "〜つもり",
+  "title": "〜つもり",
+  "meaning": "Dự định làm gì đó",
+  "meaningVi": "Dự định làm gì đó",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + つもり",
+  "usageNotes": "Nêu rõ ý định cá nhân chắc chắn. 〜つもりはない có nghĩa là 'không có ý định'. Hỏi cấp trên 〜つもりですか nghe có vẻ thẳng thừng.",
+  "examples": [
+    {
+      "ja": "夏休みは北海道を旅行するつもりです。",
+      "furigana": "{夏休|なつやす}みは{北海道|ほっかいどう}を{旅行|りょこう}するつもりです。",
+      "en": "I intend to travel around Hokkaido during the summer break.",
+      "vi": "Tôi dự định đi du lịch vòng quanh Hokkaido trong kỳ nghỉ hè."
+    },
+    {
+      "ja": "今日はお酒を飲まないつもりです。",
+      "furigana": "{今日|きょう}はお{酒|さけ}を{飲|の}まないつもりです。",
+      "en": "I intend not to drink alcohol today.",
+      "vi": "Tôi dự định hôm nay sẽ không uống rượu."
+    },
+    {
+      "ja": "大学を出たら、どうするつもりですか。",
+      "furigana": "{大学|だいがく}を{出|で}たら、どうするつもりですか。",
+      "en": "What do you plan to do after you graduate from university?",
+      "vi": "Bạn dự định làm gì sau khi tốt nghiệp đại học?"
+    }
+  ],
+  "tags": [
+    "intention"
+  ],
+  "unitId": "grammar-n4-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n4-tsumori-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夏休みは北海道を旅行するつもりです。",
+      "sentenceVi": "Tôi dự định đi du lịch vòng quanh Hokkaido trong kỳ nghỉ hè.",
+      "targetGrammar": "〜つもり",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Dự định làm gì đó"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜つもり」 mang ý nghĩa: \"Dự định làm gì đó\"."
+    },
+    {
+      "id": "bunpou-n4-tsumori-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日はお酒を飲まないつもりです。",
+      "sentenceVi": "Tôi dự định hôm nay sẽ không uống rượu.",
+      "targetGrammar": "〜つもり",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜つもり",
+        "〜ていく",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi dự định hôm nay sẽ không uống rượu.\", ta sử dụng mẫu 「〜つもり」."
+    },
+    {
+      "id": "bunpou-n4-tsumori-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "大学を出たら、どうするつもりですか。",
+      "sentenceVi": "Bạn dự định làm gì sau khi tốt nghiệp đại học?",
+      "targetGrammar": "〜つもり",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Dự định làm gì đó",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜つもり」 mang ý nghĩa: \"Dự định làm gì đó\"."
+    },
+    {
+      "id": "bunpou-n4-tsumori-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "夏休みは北海道を旅行するつもりです。",
+      "sentenceVi": "Tôi dự định đi du lịch vòng quanh Hokkaido trong kỳ nghỉ hè.",
+      "targetGrammar": "〜つもり",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Dự định làm gì đó\":",
+      "options": [
+        "〜つもり",
+        "〜とき",
+        "〜てみる",
+        "〜てある"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜つもり」."
+    },
+    {
+      "id": "bunpou-n4-tsumori-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "夏休みは北海道を旅行するつもりです。",
+      "sentenceVi": "Tôi dự định đi du lịch vòng quanh Hokkaido trong kỳ nghỉ hè.",
+      "targetGrammar": "〜つもり",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜つもり」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Dự định làm gì đó",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜つもり」 có nghĩa là: Dự định làm gì đó."
+    }
+  ]
+}

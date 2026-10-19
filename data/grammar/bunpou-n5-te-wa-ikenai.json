@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-te-wa-ikenai",
+  "level": "N5",
+  "pattern": "〜てはいけない",
+  "title": "〜てはいけない",
+  "meaning": "Không được làm gì đó (Cấm đoán)",
+  "meaningVi": "Không được làm gì đó (Cấm đoán)",
+  "connection": "Động từ (V)-te + はいけない",
+  "usageNotes": "Một sự cấm đoán mạnh mẽ, thường dành cho các quy tắc. Hình thức lịch sự: 〜てはいけません. Co rút thông thường: 〜ちゃいけない / 〜じゃいけない.",
+  "examples": [
+    {
+      "ja": "図書館で大きい声で話してはいけません。",
+      "furigana": "{図書館|としょかん}で{大|おお}きい{声|こえ}で{話|はな}してはいけません。",
+      "en": "You must not talk loudly in the library.",
+      "vi": "Bạn không được nói chuyện lớn tiếng trong thư viện."
+    },
+    {
+      "ja": "子どもはこの川で泳いではいけません。",
+      "furigana": "{子|こ}どもはこの{川|かわ}で{泳|およ}いではいけません。",
+      "en": "Children must not swim in this river.",
+      "vi": "Trẻ em không được bơi ở dòng sông này."
+    },
+    {
+      "ja": "ここでたばこを吸ってはいけません。",
+      "furigana": "ここでたばこを{吸|す}ってはいけません。",
+      "en": "You must not smoke here.",
+      "vi": "Bạn không được hút thuốc ở đây."
+    }
+  ],
+  "tags": [
+    "prohibition"
+  ],
+  "unitId": "grammar-n5-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n5-te-wa-ikenai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "図書館で大きい声で話してはいけません。",
+      "sentenceVi": "Bạn không được nói chuyện lớn tiếng trong thư viện.",
+      "targetGrammar": "〜てはいけない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Không được làm gì đó (Cấm đoán)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜てはいけない」 mang ý nghĩa: \"Không được làm gì đó (Cấm đoán)\"."
+    },
+    {
+      "id": "bunpou-n5-te-wa-ikenai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "子どもはこの川で泳いではいけません。",
+      "sentenceVi": "Trẻ em không được bơi ở dòng sông này.",
+      "targetGrammar": "〜てはいけない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜てはいけない",
+        "〜に（time）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Trẻ em không được bơi ở dòng sông này.\", ta sử dụng mẫu 「〜てはいけない」."
+    },
+    {
+      "id": "bunpou-n5-te-wa-ikenai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ここでたばこを吸ってはいけません。",
+      "sentenceVi": "Bạn không được hút thuốc ở đây.",
+      "targetGrammar": "〜てはいけない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Không được làm gì đó (Cấm đoán)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜てはいけない」 mang ý nghĩa: \"Không được làm gì đó (Cấm đoán)\"."
+    },
+    {
+      "id": "bunpou-n5-te-wa-ikenai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "図書館で大きい声で話してはいけません。",
+      "sentenceVi": "Bạn không được nói chuyện lớn tiếng trong thư viện.",
+      "targetGrammar": "〜てはいけない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không được làm gì đó (Cấm đoán)\":",
+      "options": [
+        "〜と（and）",
+        "〜で（means）",
+        "〜てはいけない",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜てはいけない」."
+    },
+    {
+      "id": "bunpou-n5-te-wa-ikenai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "図書館で大きい声で話してはいけません。",
+      "sentenceVi": "Bạn không được nói chuyện lớn tiếng trong thư viện.",
+      "targetGrammar": "〜てはいけない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てはいけない」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Không được làm gì đó (Cấm đoán)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜てはいけない」 có nghĩa là: Không được làm gì đó (Cấm đoán)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-made-even",
+  "level": "N3",
+  "pattern": "〜まで（even）",
+  "title": "〜まで（even）",
+  "meaning": "Thậm chí (một trường hợp cực đoan)",
+  "meaningVi": "Thậm chí (một trường hợp cực đoan)",
+  "connection": "Danh từ (N) + まで / Danh từ (N) + にまで",
+  "usageNotes": "Thêm một mục cực đoan lên trên những mục khác, thường gây ngạc nhiên hoặc mất tinh thần. So sánh 〜さえ, tự nó chọn ra một ví dụ cực đoan.",
+  "examples": [
+    {
+      "ja": "最近は、小学生までスマホを持っている。",
+      "furigana": "{最近|さいきん}は、{小学生|しょうがくせい}までスマホを{持|も}っている。",
+      "en": "These days even elementary school kids have smartphones.",
+      "vi": "Ngày nay ngay cả học sinh tiểu học cũng có điện thoại thông minh."
+    },
+    {
+      "ja": "親友にまでうそをつかれて、とてもショックだった。",
+      "furigana": "{親友|しんゆう}にまでうそをつかれて、とてもショックだった。",
+      "en": "I was really shocked that even my best friend lied to me.",
+      "vi": "Tôi thực sự sốc khi ngay cả người bạn thân nhất của tôi cũng nói dối tôi."
+    },
+    {
+      "ja": "雨だけでなく、風まで強くなってきた。",
+      "furigana": "{雨|あめ}だけでなく、{風|かぜ}まで{強|つよ}くなってきた。",
+      "en": "It's not just the rain; now even the wind is getting stronger.",
+      "vi": "Đó không chỉ là mưa; bây giờ ngay cả gió cũng mạnh hơn."
+    }
+  ],
+  "tags": [
+    "emphasis",
+    "addition"
+  ],
+  "unitId": "grammar-n3-unit-20",
+  "questions": [
+    {
+      "id": "bunpou-n3-made-even-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "最近は、小学生までスマホを持っている。",
+      "sentenceVi": "Ngày nay ngay cả học sinh tiểu học cũng có điện thoại thông minh.",
+      "targetGrammar": "〜まで（even）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thậm chí (một trường hợp cực đoan)",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜まで（even）」 mang ý nghĩa: \"Thậm chí (một trường hợp cực đoan)\"."
+    },
+    {
+      "id": "bunpou-n3-made-even-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "親友にまでうそをつかれて、とてもショックだった。",
+      "sentenceVi": "Tôi thực sự sốc khi ngay cả người bạn thân nhất của tôi cũng nói dối tôi.",
+      "targetGrammar": "〜まで（even）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜わけにはいかない",
+        "〜まで（even）",
+        "〜ものではない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi thực sự sốc khi ngay cả người bạn thân nhất của tôi cũng nói dối tôi.\", ta sử dụng mẫu 「〜まで（even）」."
+    },
+    {
+      "id": "bunpou-n3-made-even-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "雨だけでなく、風まで強くなってきた。",
+      "sentenceVi": "Đó không chỉ là mưa; bây giờ ngay cả gió cũng mạnh hơn.",
+      "targetGrammar": "〜まで（even）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Thậm chí (một trường hợp cực đoan)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜まで（even）」 mang ý nghĩa: \"Thậm chí (một trường hợp cực đoan)\"."
+    },
+    {
+      "id": "bunpou-n3-made-even-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "最近は、小学生までスマホを持っている。",
+      "sentenceVi": "Ngày nay ngay cả học sinh tiểu học cũng có điện thoại thông minh.",
+      "targetGrammar": "〜まで（even）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thậm chí (một trường hợp cực đoan)\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことにしている",
+        "〜まで（even）",
+        "〜ことはない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜まで（even）」."
+    },
+    {
+      "id": "bunpou-n3-made-even-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "最近は、小学生までスマホを持っている。",
+      "sentenceVi": "Ngày nay ngay cả học sinh tiểu học cũng có điện thoại thông minh.",
+      "targetGrammar": "〜まで（even）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜まで（even）」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Thậm chí (một trường hợp cực đoan)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜まで（even）」 có nghĩa là: Thậm chí (một trường hợp cực đoan)."
+    }
+  ]
+}

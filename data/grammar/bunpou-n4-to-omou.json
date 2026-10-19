@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-to-omou",
+  "level": "N4",
+  "pattern": "〜と思う",
+  "title": "〜と思う",
+  "meaning": "Tôi nghĩ rằng",
+  "meaningVi": "Tôi nghĩ rằng",
+  "connection": "Động từ (V)-plain / i-Adj + と思う / na-Adj + だ + と思う / Danh từ (N) + だ + と思う",
+  "usageNotes": "Người Nhật thường phủ định mệnh đề trích dẫn (来ないと思う) hơn là 思う. Đối với ý kiến ​​của người khác, hãy sử dụng 〜と思っている.",
+  "examples": [
+    {
+      "ja": "この映画はきっと人気が出ると思う。",
+      "furigana": "この{映画|えいが}はきっと{人気|にんき}が{出|で}ると{思|おも}う。",
+      "en": "I'm sure this movie will become popular.",
+      "vi": "Tôi chắc chắn bộ phim này sẽ trở nên nổi tiếng."
+    },
+    {
+      "ja": "彼女は今日は来ないと思います。",
+      "furigana": "{彼女|かのじょ}は{今日|きょう}は{来|こ}ないと{思|おも}います。",
+      "en": "I don't think she's coming today.",
+      "vi": "Tôi không nghĩ cô ấy sẽ đến hôm nay."
+    },
+    {
+      "ja": "日本の電車はとても便利だと思います。",
+      "furigana": "{日本|にほん}の{電車|でんしゃ}はとても{便利|べんり}だと{思|おも}います。",
+      "en": "I think trains in Japan are very convenient.",
+      "vi": "Tôi nghĩ tàu hỏa ở Nhật Bản rất thuận tiện."
+    }
+  ],
+  "tags": [
+    "quotation",
+    "conjecture"
+  ],
+  "unitId": "grammar-n4-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n4-to-omou-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この映画はきっと人気が出ると思う。",
+      "sentenceVi": "Tôi chắc chắn bộ phim này sẽ trở nên nổi tiếng.",
+      "targetGrammar": "〜と思う",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Tôi nghĩ rằng",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜と思う」 mang ý nghĩa: \"Tôi nghĩ rằng\"."
+    },
+    {
+      "id": "bunpou-n4-to-omou-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "彼女は今日は来ないと思います。",
+      "sentenceVi": "Tôi không nghĩ cô ấy sẽ đến hôm nay.",
+      "targetGrammar": "〜と思う",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜と思う",
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜てもらう"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi không nghĩ cô ấy sẽ đến hôm nay.\", ta sử dụng mẫu 「〜と思う」."
+    },
+    {
+      "id": "bunpou-n4-to-omou-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本の電車はとても便利だと思います。",
+      "sentenceVi": "Tôi nghĩ tàu hỏa ở Nhật Bản rất thuận tiện.",
+      "targetGrammar": "〜と思う",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tôi nghĩ rằng",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜と思う」 mang ý nghĩa: \"Tôi nghĩ rằng\"."
+    },
+    {
+      "id": "bunpou-n4-to-omou-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この映画はきっと人気が出ると思う。",
+      "sentenceVi": "Tôi chắc chắn bộ phim này sẽ trở nên nổi tiếng.",
+      "targetGrammar": "〜と思う",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tôi nghĩ rằng\":",
+      "options": [
+        "〜と思う",
+        "〜てみる",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜と思う」."
+    },
+    {
+      "id": "bunpou-n4-to-omou-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この映画はきっと人気が出ると思う。",
+      "sentenceVi": "Tôi chắc chắn bộ phim này sẽ trở nên nổi tiếng.",
+      "targetGrammar": "〜と思う",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜と思う」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Tôi nghĩ rằng"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜と思う」 có nghĩa là: Tôi nghĩ rằng."
+    }
+  ]
+}

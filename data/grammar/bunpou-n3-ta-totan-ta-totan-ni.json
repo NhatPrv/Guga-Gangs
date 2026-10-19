@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-ta-totan-ta-totan-ni",
+  "level": "N3",
+  "pattern": "〜たとたん / 〜たとたんに",
+  "title": "〜たとたん / 〜たとたんに",
+  "meaning": "Khoảnh khắc; giống như (điều gì đó bất ngờ xảy ra)",
+  "meaningVi": "Khoảnh khắc; giống như (điều gì đó bất ngờ xảy ra)",
+  "connection": "Động từ (V)-ta + とたん / とたんに",
+  "usageNotes": "Sự kiện thứ hai xảy ra đột ngột và nằm ngoài tầm kiểm soát của người nói. Không được sử dụng cho các hành động, yêu cầu hoặc ý định đã được lên kế hoạch của chính người nói.",
+  "examples": [
+    {
+      "ja": "立ち上がったとたんに、めまいがした。",
+      "furigana": "{立|た}ち{上|あ}がったとたんに、めまいがした。",
+      "en": "The moment I stood up, I felt dizzy.",
+      "vi": "Lúc tôi đứng dậy, tôi cảm thấy choáng váng."
+    },
+    {
+      "ja": "家を出たとたん、雨が降り出した。",
+      "furigana": "{家|いえ}を{出|で}たとたん、{雨|あめ}が{降|ふ}り{出|だ}した。",
+      "en": "Just as I stepped out of the house, it started to rain.",
+      "vi": "Vừa bước ra khỏi nhà thì trời bắt đầu mưa."
+    },
+    {
+      "ja": "その歌手がステージに現れたとたん、会場から大きな拍手が起こった。",
+      "furigana": "その{歌手|かしゅ}がステージに{現|あらわ}れたとたん、{会場|かいじょう}から{大|おお}きな{拍手|はくしゅ}が{起|お}こった。",
+      "en": "The moment the singer appeared on stage, the audience burst into applause.",
+      "vi": "Khoảnh khắc ca sĩ xuất hiện trên sân khấu, khán giả đã vỗ tay không ngớt."
+    }
+  ],
+  "tags": [
+    "time",
+    "sequence",
+    "surprise"
+  ],
+  "unitId": "grammar-n3-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n3-ta-totan-ta-totan-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "立ち上がったとたんに、めまいがした。",
+      "sentenceVi": "Lúc tôi đứng dậy, tôi cảm thấy choáng váng.",
+      "targetGrammar": "〜たとたん / 〜たとたんに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Khoảnh khắc; giống như (điều gì đó bất ngờ xảy ra)",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜たとたん / 〜たとたんに」 mang ý nghĩa: \"Khoảnh khắc; giống như (điều gì đó bất ngờ xảy ra)\"."
+    },
+    {
+      "id": "bunpou-n3-ta-totan-ta-totan-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "家を出たとたん、雨が降り出した。",
+      "sentenceVi": "Vừa bước ra khỏi nhà thì trời bắt đầu mưa.",
+      "targetGrammar": "〜たとたん / 〜たとたんに",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜たとたん / 〜たとたんに",
+        "〜わけにはいかない",
+        "〜ものだ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Vừa bước ra khỏi nhà thì trời bắt đầu mưa.\", ta sử dụng mẫu 「〜たとたん / 〜たとたんに」."
+    },
+    {
+      "id": "bunpou-n3-ta-totan-ta-totan-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "その歌手がステージに現れたとたん、会場から大きな拍手が起こった。",
+      "sentenceVi": "Khoảnh khắc ca sĩ xuất hiện trên sân khấu, khán giả đã vỗ tay không ngớt.",
+      "targetGrammar": "〜たとたん / 〜たとたんに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Khoảnh khắc; giống như (điều gì đó bất ngờ xảy ra)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜たとたん / 〜たとたんに」 mang ý nghĩa: \"Khoảnh khắc; giống như (điều gì đó bất ngờ xảy ra)\"."
+    },
+    {
+      "id": "bunpou-n3-ta-totan-ta-totan-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "立ち上がったとたんに、めまいがした。",
+      "sentenceVi": "Lúc tôi đứng dậy, tôi cảm thấy choáng váng.",
+      "targetGrammar": "〜たとたん / 〜たとたんに",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Khoảnh khắc; giống như (điều gì đó bất ngờ xảy ra)\":",
+      "options": [
+        "〜ことはない",
+        "〜ことにしている",
+        "〜ことになっている",
+        "〜たとたん / 〜たとたんに"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜たとたん / 〜たとたんに」."
+    },
+    {
+      "id": "bunpou-n3-ta-totan-ta-totan-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "立ち上がったとたんに、めまいがした。",
+      "sentenceVi": "Lúc tôi đứng dậy, tôi cảm thấy choáng váng.",
+      "targetGrammar": "〜たとたん / 〜たとたんに",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜たとたん / 〜たとたんに」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Khoảnh khắc; giống như (điều gì đó bất ngờ xảy ra)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜たとたん / 〜たとたんに」 có nghĩa là: Khoảnh khắc; giống như (điều gì đó bất ngờ xảy ra)."
+    }
+  ]
+}

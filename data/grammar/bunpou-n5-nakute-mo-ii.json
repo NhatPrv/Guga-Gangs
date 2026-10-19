@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-nakute-mo-ii",
+  "level": "N5",
+  "pattern": "〜なくてもいい",
+  "title": "〜なくてもいい",
+  "meaning": "Không cần làm gì đó cũng được",
+  "meaningVi": "Không cần làm gì đó cũng được",
+  "connection": "Động từ (V)-nai stem + なくてもいい",
+  "usageNotes": "Ngược lại với 〜なければならない. Hỏi với 〜なくてもいいですか (Tôi không hỏi thì có được không?).",
+  "examples": [
+    {
+      "ja": "明日は学校へ来なくてもいいです。",
+      "furigana": "{明日|あした}は{学校|がっこう}へ{来|こ}なくてもいいです。",
+      "en": "You don't have to come to school tomorrow.",
+      "vi": "Ngày mai bạn không cần phải đến trường."
+    },
+    {
+      "ja": "名前は書かなくてもいいです。",
+      "furigana": "{名前|なまえ}は{書|か}かなくてもいいです。",
+      "en": "You don't need to write your name.",
+      "vi": "Bạn không cần phải viết tên của bạn."
+    },
+    {
+      "ja": "今日は料理をしなくてもいいですよ。",
+      "furigana": "{今日|きょう}は{料理|りょうり}をしなくてもいいですよ。",
+      "en": "You don't have to cook today.",
+      "vi": "Hôm nay bạn không cần phải nấu ăn."
+    }
+  ],
+  "tags": [
+    "necessity",
+    "permission"
+  ],
+  "unitId": "grammar-n5-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n5-nakute-mo-ii-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日は学校へ来なくてもいいです。",
+      "sentenceVi": "Ngày mai bạn không cần phải đến trường.",
+      "targetGrammar": "〜なくてもいい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không cần làm gì đó cũng được",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜なくてもいい」 mang ý nghĩa: \"Không cần làm gì đó cũng được\"."
+    },
+    {
+      "id": "bunpou-n5-nakute-mo-ii-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "名前は書かなくてもいいです。",
+      "sentenceVi": "Bạn không cần phải viết tên của bạn.",
+      "targetGrammar": "〜なくてもいい",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜なくてもいい",
+        "〜に（destination）",
+        "〜に（time）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn không cần phải viết tên của bạn.\", ta sử dụng mẫu 「〜なくてもいい」."
+    },
+    {
+      "id": "bunpou-n5-nakute-mo-ii-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日は料理をしなくてもいいですよ。",
+      "sentenceVi": "Hôm nay bạn không cần phải nấu ăn.",
+      "targetGrammar": "〜なくてもいい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Không cần làm gì đó cũng được",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜なくてもいい」 mang ý nghĩa: \"Không cần làm gì đó cũng được\"."
+    },
+    {
+      "id": "bunpou-n5-nakute-mo-ii-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "明日は学校へ来なくてもいいです。",
+      "sentenceVi": "Ngày mai bạn không cần phải đến trường.",
+      "targetGrammar": "〜なくてもいい",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không cần làm gì đó cũng được\":",
+      "options": [
+        "〜と（and）",
+        "〜なくてもいい",
+        "〜で（place of action）",
+        "〜で（means）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜なくてもいい」."
+    },
+    {
+      "id": "bunpou-n5-nakute-mo-ii-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日は学校へ来なくてもいいです。",
+      "sentenceVi": "Ngày mai bạn không cần phải đến trường.",
+      "targetGrammar": "〜なくてもいい",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜なくてもいい」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Không cần làm gì đó cũng được",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜なくてもいい」 có nghĩa là: Không cần làm gì đó cũng được."
+    }
+  ]
+}

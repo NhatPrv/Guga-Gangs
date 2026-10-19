@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-baai-wa",
+  "level": "N3",
+  "pattern": "〜場合（は）",
+  "title": "〜場合（は）",
+  "meaning": "Trong trường hợp; nếu như; trong trường hợp đó",
+  "meaningVi": "Trong trường hợp; nếu như; trong trường hợp đó",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + 場合（は）",
+  "usageNotes": "Điển hình của các hướng dẫn, quy tắc và thông báo về các tình huống có thể xảy ra. Không giống như 〜たら, nó không được sử dụng để kể lại một sự kiện xảy ra một lần trong quá khứ.",
+  "examples": [
+    {
+      "ja": "雨の場合は、試合は中止になります。",
+      "furigana": "{雨|あめ}の{場合|ばあい}は、{試合|しあい}は{中止|ちゅうし}になります。",
+      "en": "In case of rain, the game will be canceled.",
+      "vi": "Trong trường hợp trời mưa, trận đấu sẽ bị hủy."
+    },
+    {
+      "ja": "カードをなくした場合は、すぐに銀行に連絡してください。",
+      "furigana": "カードをなくした{場合|ばあい}は、すぐに{銀行|ぎんこう}に{連絡|れんらく}してください。",
+      "en": "If you lose your card, contact the bank immediately.",
+      "vi": "Nếu bạn bị mất thẻ, hãy liên hệ ngay với ngân hàng."
+    },
+    {
+      "ja": "予約の時間に遅れる場合は、お電話でお知らせください。",
+      "furigana": "{予約|よやく}の{時間|じかん}に{遅|おく}れる{場合|ばあい}は、お{電話|でんわ}でお{知|し}らせください。",
+      "en": "If you are going to be late for your appointment, please let us know by phone.",
+      "vi": "Nếu bạn sắp đến trễ cuộc hẹn, vui lòng cho chúng tôi biết qua điện thoại."
+    }
+  ],
+  "tags": [
+    "condition",
+    "formal"
+  ],
+  "unitId": "grammar-n3-unit-14",
+  "questions": [
+    {
+      "id": "bunpou-n3-baai-wa-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "雨の場合は、試合は中止になります。",
+      "sentenceVi": "Trong trường hợp trời mưa, trận đấu sẽ bị hủy.",
+      "targetGrammar": "〜場合（は）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Trong trường hợp; nếu như; trong trường hợp đó",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜場合（は）」 mang ý nghĩa: \"Trong trường hợp; nếu như; trong trường hợp đó\"."
+    },
+    {
+      "id": "bunpou-n3-baai-wa-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "カードをなくした場合は、すぐに銀行に連絡してください。",
+      "sentenceVi": "Nếu bạn bị mất thẻ, hãy liên hệ ngay với ngân hàng.",
+      "targetGrammar": "〜場合（は）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜場合（は）",
+        "〜ものだ",
+        "〜ものではない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Nếu bạn bị mất thẻ, hãy liên hệ ngay với ngân hàng.\", ta sử dụng mẫu 「〜場合（は）」."
+    },
+    {
+      "id": "bunpou-n3-baai-wa-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "予約の時間に遅れる場合は、お電話でお知らせください。",
+      "sentenceVi": "Nếu bạn sắp đến trễ cuộc hẹn, vui lòng cho chúng tôi biết qua điện thoại.",
+      "targetGrammar": "〜場合（は）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Trong trường hợp; nếu như; trong trường hợp đó",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜場合（は）」 mang ý nghĩa: \"Trong trường hợp; nếu như; trong trường hợp đó\"."
+    },
+    {
+      "id": "bunpou-n3-baai-wa-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "雨の場合は、試合は中止になります。",
+      "sentenceVi": "Trong trường hợp trời mưa, trận đấu sẽ bị hủy.",
+      "targetGrammar": "〜場合（は）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong trường hợp; nếu như; trong trường hợp đó\":",
+      "options": [
+        "〜ことはない",
+        "〜ことになっている",
+        "〜ことにしている",
+        "〜場合（は）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜場合（は）」."
+    },
+    {
+      "id": "bunpou-n3-baai-wa-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "雨の場合は、試合は中止になります。",
+      "sentenceVi": "Trong trường hợp trời mưa, trận đấu sẽ bị hủy.",
+      "targetGrammar": "〜場合（は）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜場合（は）」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Trong trường hợp; nếu như; trong trường hợp đó"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜場合（は）」 có nghĩa là: Trong trường hợp; nếu như; trong trường hợp đó."
+    }
+  ]
+}

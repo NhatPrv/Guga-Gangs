@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-no",
+  "level": "N5",
+  "pattern": "〜の（possessive）",
+  "title": "〜の（possessive）",
+  "meaning": "'s; của (sở hữu, thuộc về hoặc mô tả)",
+  "meaningVi": "'s; của (sở hữu, thuộc về hoặc mô tả)",
+  "connection": "Danh từ (N) + の + Danh từ (N)",
+  "usageNotes": "Danh từ đầu tiên mô tả danh từ thứ hai: 日本の車 (một chiếc xe hơi Nhật Bản). Danh từ thứ hai có thể lược bỏ khi rõ ràng: それは私のです.",
+  "examples": [
+    {
+      "ja": "これは私のかさです。",
+      "furigana": "これは{私|わたし}のかさです。",
+      "en": "This is my umbrella.",
+      "vi": "Đây là chiếc ô của tôi."
+    },
+    {
+      "ja": "日本語の先生はとてもやさしいです。",
+      "furigana": "{日本語|にほんご}の{先生|せんせい}はとてもやさしいです。",
+      "en": "The Japanese teacher is very kind.",
+      "vi": "Giáo viên người Nhật rất tốt bụng."
+    },
+    {
+      "ja": "駅の近くに新しい店があります。",
+      "furigana": "{駅|えき}の{近|ちか}くに{新|あたら}しい{店|みせ}があります。",
+      "en": "There is a new shop near the station.",
+      "vi": "Có một cửa hàng mới gần nhà ga."
+    }
+  ],
+  "tags": [
+    "particle"
+  ],
+  "unitId": "grammar-n5-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n5-no-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "これは私のかさです。",
+      "sentenceVi": "Đây là chiếc ô của tôi.",
+      "targetGrammar": "〜の（possessive）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "'s; của (sở hữu, thuộc về hoặc mô tả)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜の（possessive）」 mang ý nghĩa: \"'s; của (sở hữu, thuộc về hoặc mô tả)\"."
+    },
+    {
+      "id": "bunpou-n5-no-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本語の先生はとてもやさしいです。",
+      "sentenceVi": "Giáo viên người Nhật rất tốt bụng.",
+      "targetGrammar": "〜の（possessive）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜の（possessive）",
+        "〜に（time）",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Giáo viên người Nhật rất tốt bụng.\", ta sử dụng mẫu 「〜の（possessive）」."
+    },
+    {
+      "id": "bunpou-n5-no-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅の近くに新しい店があります。",
+      "sentenceVi": "Có một cửa hàng mới gần nhà ga.",
+      "targetGrammar": "〜の（possessive）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "'s; của (sở hữu, thuộc về hoặc mô tả)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜の（possessive）」 mang ý nghĩa: \"'s; của (sở hữu, thuộc về hoặc mô tả)\"."
+    },
+    {
+      "id": "bunpou-n5-no-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "これは私のかさです。",
+      "sentenceVi": "Đây là chiếc ô của tôi.",
+      "targetGrammar": "〜の（possessive）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"'s; của (sở hữu, thuộc về hoặc mô tả)\":",
+      "options": [
+        "〜で（place of action）",
+        "〜と（and）",
+        "〜の（possessive）",
+        "〜で（means）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜の（possessive）」."
+    },
+    {
+      "id": "bunpou-n5-no-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "これは私のかさです。",
+      "sentenceVi": "Đây là chiếc ô của tôi.",
+      "targetGrammar": "〜の（possessive）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜の（possessive）」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "'s; của (sở hữu, thuộc về hoặc mô tả)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜の（possessive）」 có nghĩa là: 's; của (sở hữu, thuộc về hoặc mô tả)."
+    }
+  ]
+}

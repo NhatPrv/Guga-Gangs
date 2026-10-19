@@ -1,0 +1,111 @@
+{
+  "id": "bunpou-n5-ya",
+  "level": "N5",
+  "pattern": "〜や",
+  "title": "〜や",
+  "meaning": "Và, như là... (Liệt kê tiêu biểu, không hết)",
+  "meaningVi": "Và, như là... (Liệt kê tiêu biểu, không hết)",
+  "connection": "Danh từ (N) + や + Danh từ (N)",
+  "usageNotes": "Đề nghị danh sách chưa đầy đủ. Thường kết thúc bằng など: 本や雑誌など.",
+  "examples": [
+    {
+      "ja": "机の上に本や雑誌があります。",
+      "furigana": "{机|つくえ}の{上|うえ}に{本|ほん}や{雑誌|ざっし}があります。",
+      "en": "On the desk there are books, magazines and so on.",
+      "vi": "Trên bàn có sách, tạp chí và vân vân."
+    },
+    {
+      "ja": "スーパーで肉や野菜を買いました。",
+      "furigana": "スーパーで{肉|にく}や{野菜|やさい}を{買|か}いました。",
+      "en": "I bought meat, vegetables and other things at the supermarket.",
+      "vi": "Tôi mua thịt, rau và những thứ khác ở siêu thị."
+    }
+  ],
+  "tags": [
+    "particle",
+    "example"
+  ],
+  "unitId": "grammar-n5-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n5-ya-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "机の上に本や雑誌があります。",
+      "sentenceVi": "Trên bàn có sách, tạp chí và vân vân.",
+      "targetGrammar": "〜や",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜や」 mang ý nghĩa: \"Và, như là... (Liệt kê tiêu biểu, không hết)\"."
+    },
+    {
+      "id": "bunpou-n5-ya-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "スーパーで肉や野菜を買いました。",
+      "sentenceVi": "Tôi mua thịt, rau và những thứ khác ở siêu thị.",
+      "targetGrammar": "〜や",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜や",
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜に（time）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi mua thịt, rau và những thứ khác ở siêu thị.\", ta sử dụng mẫu 「〜や」."
+    },
+    {
+      "id": "bunpou-n5-ya-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "机の上に本や雑誌があります。",
+      "sentenceVi": "Trên bàn có sách, tạp chí và vân vân.",
+      "targetGrammar": "〜や",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜や」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜や」 có nghĩa là: Và, như là... (Liệt kê tiêu biểu, không hết)."
+    },
+    {
+      "id": "bunpou-n5-ya-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "机の上に本や雑誌があります。",
+      "sentenceVi": "Trên bàn có sách, tạp chí và vân vân.",
+      "targetGrammar": "〜や",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Và, như là... (Liệt kê tiêu biểu, không hết)\":",
+      "options": [
+        "〜で（means）",
+        "〜や",
+        "〜と（and）",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜や」."
+    },
+    {
+      "id": "bunpou-n5-ya-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "机の上に本や雑誌があります。",
+      "sentenceVi": "Trên bàn có sách, tạp chí và vân vân.",
+      "targetGrammar": "〜や",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜や」 là gì?",
+      "options": [
+        "Cũng... (Biểu thị sự tương tự)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜や」 có nghĩa là: Và, như là... (Liệt kê tiêu biểu, không hết)."
+    }
+  ]
+}

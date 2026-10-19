@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n5-mashita",
+  "level": "N5",
+  "pattern": "〜ました",
+  "title": "〜ました",
+  "meaning": "Đã làm (quá khứ lịch sự)",
+  "meaningVi": "Đã làm (quá khứ lịch sự)",
+  "connection": "Động từ (V)-stem + ました",
+  "usageNotes": "Tương đương đơn giản là dạng た: 会いました = 会った.",
+  "examples": [
+    {
+      "ja": "きのう、友達に会いました。",
+      "furigana": "きのう、{友達|ともだち}に{会|あ}いました。",
+      "en": "I met a friend yesterday.",
+      "vi": "Hôm qua tôi đã gặp một người bạn."
+    },
+    {
+      "ja": "先週、新しいくつを買いました。",
+      "furigana": "{先週|せんしゅう}、{新|あたら}しいくつを{買|か}いました。",
+      "en": "I bought new shoes last week.",
+      "vi": "Tôi đã mua giày mới vào tuần trước."
+    },
+    {
+      "ja": "けさ、6時に起きました。",
+      "furigana": "けさ、6{時|じ}に{起|お}きました。",
+      "en": "I got up at six this morning.",
+      "vi": "Sáng nay tôi thức dậy lúc sáu giờ."
+    }
+  ],
+  "tags": [
+    "conjugation",
+    "tense",
+    "politeness"
+  ],
+  "unitId": "grammar-n5-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n5-mashita-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "きのう、友達に会いました。",
+      "sentenceVi": "Hôm qua tôi đã gặp một người bạn.",
+      "targetGrammar": "〜ました",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Đã làm (quá khứ lịch sự)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ました」 mang ý nghĩa: \"Đã làm (quá khứ lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n5-mashita-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "先週、新しいくつを買いました。",
+      "sentenceVi": "Tôi đã mua giày mới vào tuần trước.",
+      "targetGrammar": "〜ました",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ました",
+        "〜に（place of existence）",
+        "〜に（time）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đã mua giày mới vào tuần trước.\", ta sử dụng mẫu 「〜ました」."
+    },
+    {
+      "id": "bunpou-n5-mashita-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "けさ、6時に起きました。",
+      "sentenceVi": "Sáng nay tôi thức dậy lúc sáu giờ.",
+      "targetGrammar": "〜ました",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Đã làm (quá khứ lịch sự)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ました」 mang ý nghĩa: \"Đã làm (quá khứ lịch sự)\"."
+    },
+    {
+      "id": "bunpou-n5-mashita-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "きのう、友達に会いました。",
+      "sentenceVi": "Hôm qua tôi đã gặp một người bạn.",
+      "targetGrammar": "〜ました",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đã làm (quá khứ lịch sự)\":",
+      "options": [
+        "〜と（and）",
+        "〜ました",
+        "〜で（means）",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ました」."
+    },
+    {
+      "id": "bunpou-n5-mashita-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "きのう、友達に会いました。",
+      "sentenceVi": "Hôm qua tôi đã gặp một người bạn.",
+      "targetGrammar": "〜ました",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ました」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Đã làm (quá khứ lịch sự)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ました」 có nghĩa là: Đã làm (quá khứ lịch sự)."
+    }
+  ]
+}

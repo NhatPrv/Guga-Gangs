@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-rashii",
+  "level": "N4",
+  "pattern": "〜らしい（hearsay/conjecture）",
+  "title": "〜らしい（hearsay/conjecture）",
+  "meaning": "Rõ ràng; có vẻ như; tôi nghe thấy",
+  "meaningVi": "Rõ ràng; có vẻ như; tôi nghe thấy",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + らしい",
+  "usageNotes": "Dựa vào nội dung đã nghe hoặc đọc nên loa phát ra âm thanh hơi tách biệt. 'Điển hình' らしい (男らしい) là một điểm N3 riêng biệt.",
+  "examples": [
+    {
+      "ja": "駅の近くに新しいカフェができたらしい。",
+      "furigana": "{駅|えき}の{近|ちか}くに{新|あたら}しいカフェができたらしい。",
+      "en": "Apparently a new café has opened near the station.",
+      "vi": "Có vẻ như một quán cà phê mới đã mở gần nhà ga."
+    },
+    {
+      "ja": "部屋の電気が消えている。もう寝たらしい。",
+      "furigana": "{部屋|へや}の{電気|でんき}が{消|き}えている。もう{寝|ね}たらしい。",
+      "en": "The light in the room is off. Looks like they've already gone to bed.",
+      "vi": "Đèn trong phòng tắt. Có vẻ như họ đã đi ngủ rồi."
+    },
+    {
+      "ja": "あの店のラーメンはとても有名らしいです。",
+      "furigana": "あの{店|みせ}のラーメンはとても{有名|ゆうめい}らしいです。",
+      "en": "Apparently that shop's ramen is really famous.",
+      "vi": "Có vẻ như món ramen của quán đó rất nổi tiếng."
+    }
+  ],
+  "tags": [
+    "hearsay",
+    "conjecture"
+  ],
+  "unitId": "grammar-n4-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n4-rashii-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅の近くに新しいカフェができたらしい。",
+      "sentenceVi": "Có vẻ như một quán cà phê mới đã mở gần nhà ga.",
+      "targetGrammar": "〜らしい（hearsay/conjecture）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜らしい（hearsay/conjecture）」 mang ý nghĩa: \"Rõ ràng; có vẻ như; tôi nghe thấy\"."
+    },
+    {
+      "id": "bunpou-n4-rashii-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "部屋の電気が消えている。もう寝たらしい。",
+      "sentenceVi": "Đèn trong phòng tắt. Có vẻ như họ đã đi ngủ rồi.",
+      "targetGrammar": "〜らしい（hearsay/conjecture）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜らしい（hearsay/conjecture）",
+        "〜ていく",
+        "〜てくださる / 〜ていただく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Đèn trong phòng tắt. Có vẻ như họ đã đi ngủ rồi.\", ta sử dụng mẫu 「〜らしい（hearsay/conjecture）」."
+    },
+    {
+      "id": "bunpou-n4-rashii-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "あの店のラーメンはとても有名らしいです。",
+      "sentenceVi": "Có vẻ như món ramen của quán đó rất nổi tiếng.",
+      "targetGrammar": "〜らしい（hearsay/conjecture）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜らしい（hearsay/conjecture）」 mang ý nghĩa: \"Rõ ràng; có vẻ như; tôi nghe thấy\"."
+    },
+    {
+      "id": "bunpou-n4-rashii-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "駅の近くに新しいカフェができたらしい。",
+      "sentenceVi": "Có vẻ như một quán cà phê mới đã mở gần nhà ga.",
+      "targetGrammar": "〜らしい（hearsay/conjecture）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Rõ ràng; có vẻ như; tôi nghe thấy\":",
+      "options": [
+        "〜てみる",
+        "〜てある",
+        "〜らしい（hearsay/conjecture）",
+        "〜とき"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜らしい（hearsay/conjecture）」."
+    },
+    {
+      "id": "bunpou-n4-rashii-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "駅の近くに新しいカフェができたらしい。",
+      "sentenceVi": "Có vẻ như một quán cà phê mới đã mở gần nhà ga.",
+      "targetGrammar": "〜らしい（hearsay/conjecture）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜らしい（hearsay/conjecture）」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Rõ ràng; có vẻ như; tôi nghe thấy"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜らしい（hearsay/conjecture）」 có nghĩa là: Rõ ràng; có vẻ như; tôi nghe thấy."
+    }
+  ]
+}

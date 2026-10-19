@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-te-aru",
+  "level": "N4",
+  "pattern": "〜てある",
+  "title": "〜てある",
+  "meaning": "Đã được thực hiện (và vẫn như vậy); trạng thái kết quả của một hành động có chủ ý",
+  "meaningVi": "Đã được thực hiện (và vẫn như vậy); trạng thái kết quả của một hành động có chủ ý",
+  "connection": "Động từ (V)-te + ある",
+  "usageNotes": "Được sử dụng với động từ chuyển tiếp và tân ngữ thường dùng が. Nó ngụ ý ai đó đã cố tình làm điều đó, không giống như 〜ている với nội động từ (窓が開いている).",
+  "examples": [
+    {
+      "ja": "入り口に地図がはってあります。",
+      "furigana": "{入|い}り{口|ぐち}に{地図|ちず}がはってあります。",
+      "en": "There's a map put up at the entrance.",
+      "vi": "Có một tấm bản đồ được dán ở lối vào."
+    },
+    {
+      "ja": "テーブルの上にお皿が並べてあった。",
+      "furigana": "テーブルの{上|うえ}にお{皿|さら}が{並|なら}べてあった。",
+      "en": "Plates had been set out on the table.",
+      "vi": "Những chiếc đĩa đã được bày sẵn trên bàn."
+    },
+    {
+      "ja": "ビールなら冷蔵庫に入れてあるよ。",
+      "furigana": "ビールなら{冷蔵庫|れいぞうこ}に{入|い}れてあるよ。",
+      "en": "If you want beer, I've put some in the fridge.",
+      "vi": "Nếu bạn muốn uống bia, tôi đã để một ít vào tủ lạnh."
+    }
+  ],
+  "tags": [
+    "state",
+    "result"
+  ],
+  "unitId": "grammar-n4-unit-03",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-aru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "入り口に地図がはってあります。",
+      "sentenceVi": "Có một tấm bản đồ được dán ở lối vào.",
+      "targetGrammar": "〜てある",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Đã được thực hiện (và vẫn như vậy); trạng thái kết quả của một hành động có chủ ý",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜てある」 mang ý nghĩa: \"Đã được thực hiện (và vẫn như vậy); trạng thái kết quả của một hành động có chủ ý\"."
+    },
+    {
+      "id": "bunpou-n4-te-aru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "テーブルの上にお皿が並べてあった。",
+      "sentenceVi": "Những chiếc đĩa đã được bày sẵn trên bàn.",
+      "targetGrammar": "〜てある",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜てある"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Những chiếc đĩa đã được bày sẵn trên bàn.\", ta sử dụng mẫu 「〜てある」."
+    },
+    {
+      "id": "bunpou-n4-te-aru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ビールなら冷蔵庫に入れてあるよ。",
+      "sentenceVi": "Nếu bạn muốn uống bia, tôi đã để một ít vào tủ lạnh.",
+      "targetGrammar": "〜てある",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Đã được thực hiện (và vẫn như vậy); trạng thái kết quả của một hành động có chủ ý",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜てある」 mang ý nghĩa: \"Đã được thực hiện (và vẫn như vậy); trạng thái kết quả của một hành động có chủ ý\"."
+    },
+    {
+      "id": "bunpou-n4-te-aru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "入り口に地図がはってあります。",
+      "sentenceVi": "Có một tấm bản đồ được dán ở lối vào.",
+      "targetGrammar": "〜てある",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đã được thực hiện (và vẫn như vậy); trạng thái kết quả của một hành động có chủ ý\":",
+      "options": [
+        "〜とき",
+        "〜てみる",
+        "〜間 / 〜間に",
+        "〜てある"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜てある」."
+    },
+    {
+      "id": "bunpou-n4-te-aru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "入り口に地図がはってあります。",
+      "sentenceVi": "Có một tấm bản đồ được dán ở lối vào.",
+      "targetGrammar": "〜てある",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てある」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Đã được thực hiện (và vẫn như vậy); trạng thái kết quả của một hành động có chủ ý"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜てある」 có nghĩa là: Đã được thực hiện (và vẫn như vậy); trạng thái kết quả của một hành động có chủ ý."
+    }
+  ]
+}

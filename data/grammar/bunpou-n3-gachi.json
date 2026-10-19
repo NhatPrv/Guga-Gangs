@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n3-gachi",
+  "level": "N3",
+  "pattern": "〜がち",
+  "title": "〜がち",
+  "meaning": "Có xu hướng ; có xu hướng; thường xuyên",
+  "meaningVi": "Có xu hướng ; có xu hướng; thường xuyên",
+  "connection": "Động từ (V)-stem / Danh từ (N) + がち",
+  "usageNotes": "Có xu hướng thường xuyên hướng tới điều gì đó không mong muốn. So sánh 〜やすい (dễ xảy ra, có thể bình thường) và 〜気味 (dấu hiệu nhẹ của tình trạng hiện tại).",
+  "examples": [
+    {
+      "ja": "冬になると、つい家にこもりがちになる。",
+      "furigana": "{冬|ふゆ}になると、つい{家|いえ}にこもりがちになる。",
+      "en": "When winter comes, I tend to stay cooped up at home.",
+      "vi": "Khi mùa đông đến, tôi có xu hướng nhốt mình trong nhà."
+    },
+    {
+      "ja": "娘は小さいころ病気がちだったが、今はとても元気だ。",
+      "furigana": "{娘|むすめ}は{小|ちい}さいころ{病気|びょうき}がちだったが、{今|いま}はとても{元気|げんき}だ。",
+      "en": "My daughter was often sick when she was little, but now she's very healthy.",
+      "vi": "Con gái tôi hồi nhỏ hay ốm đau nhưng bây giờ cháu rất khỏe mạnh."
+    },
+    {
+      "ja": "一人暮らしだと、野菜が不足しがちです。",
+      "furigana": "{一人暮|ひとりぐ}らしだと、{野菜|やさい}が{不足|ふそく}しがちです。",
+      "en": "When you live alone, you tend not to get enough vegetables.",
+      "vi": "Khi sống một mình, bạn có xu hướng không ăn đủ rau."
+    }
+  ],
+  "tags": [
+    "tendency"
+  ],
+  "unitId": "grammar-n3-unit-18",
+  "questions": [
+    {
+      "id": "bunpou-n3-gachi-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "冬になると、つい家にこもりがちになる。",
+      "sentenceVi": "Khi mùa đông đến, tôi có xu hướng nhốt mình trong nhà.",
+      "targetGrammar": "〜がち",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Có xu hướng ; có xu hướng; thường xuyên",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜がち」 mang ý nghĩa: \"Có xu hướng ; có xu hướng; thường xuyên\"."
+    },
+    {
+      "id": "bunpou-n3-gachi-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "娘は小さいころ病気がちだったが、今はとても元気だ。",
+      "sentenceVi": "Con gái tôi hồi nhỏ hay ốm đau nhưng bây giờ cháu rất khỏe mạnh.",
+      "targetGrammar": "〜がち",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜がち",
+        "〜ものだ",
+        "〜ものではない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Con gái tôi hồi nhỏ hay ốm đau nhưng bây giờ cháu rất khỏe mạnh.\", ta sử dụng mẫu 「〜がち」."
+    },
+    {
+      "id": "bunpou-n3-gachi-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "一人暮らしだと、野菜が不足しがちです。",
+      "sentenceVi": "Khi sống một mình, bạn có xu hướng không ăn đủ rau.",
+      "targetGrammar": "〜がち",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Có xu hướng ; có xu hướng; thường xuyên",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜がち」 mang ý nghĩa: \"Có xu hướng ; có xu hướng; thường xuyên\"."
+    },
+    {
+      "id": "bunpou-n3-gachi-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "冬になると、つい家にこもりがちになる。",
+      "sentenceVi": "Khi mùa đông đến, tôi có xu hướng nhốt mình trong nhà.",
+      "targetGrammar": "〜がち",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có xu hướng ; có xu hướng; thường xuyên\":",
+      "options": [
+        "〜ことはない",
+        "〜ことにしている",
+        "〜がち",
+        "〜ことになっている"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜がち」."
+    },
+    {
+      "id": "bunpou-n3-gachi-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "冬になると、つい家にこもりがちになる。",
+      "sentenceVi": "Khi mùa đông đến, tôi có xu hướng nhốt mình trong nhà.",
+      "targetGrammar": "〜がち",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜がち」 là gì?",
+      "options": [
+        "Có xu hướng ; có xu hướng; thường xuyên",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜がち」 có nghĩa là: Có xu hướng ; có xu hướng; thường xuyên."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-garu",
+  "level": "N4",
+  "pattern": "〜がる",
+  "title": "〜がる",
+  "meaning": "(người khác) cảm thấy; có dấu hiệu cảm giác",
+  "meaningVi": "(người khác) cảm thấy; có dấu hiệu cảm giác",
+  "connection": "i-Adj stem / na-Adj + がる",
+  "usageNotes": "Chuyển các tính từ cảm giác (怖い, 寂しい, ほしい) thành động từ mô tả cảm giác của người khác. Đối tượng của cảm giác lấy を.",
+  "examples": [
+    {
+      "ja": "妹は暗い所を怖がる。",
+      "furigana": "{妹|いもうと}は{暗|くら}い{所|ところ}を{怖|こわ}がる。",
+      "en": "My little sister is scared of dark places.",
+      "vi": "Em gái tôi sợ những nơi tối tăm."
+    },
+    {
+      "ja": "祖母は孫に会えなくて寂しがっている。",
+      "furigana": "{祖母|そぼ}は{孫|まご}に{会|あ}えなくて{寂|さび}しがっている。",
+      "en": "My grandmother is lonely because she can't see her grandchildren.",
+      "vi": "Bà tôi cô đơn vì không thể gặp các cháu."
+    },
+    {
+      "ja": "息子は新しい自転車をほしがっている。",
+      "furigana": "{息子|むすこ}は{新|あたら}しい{自転車|じてんしゃ}をほしがっている。",
+      "en": "My son wants a new bicycle.",
+      "vi": "Con trai tôi muốn một chiếc xe đạp mới."
+    }
+  ],
+  "tags": [
+    "emotion",
+    "appearance"
+  ],
+  "unitId": "grammar-n4-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n4-garu-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "妹は暗い所を怖がる。",
+      "sentenceVi": "Em gái tôi sợ những nơi tối tăm.",
+      "targetGrammar": "〜がる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "(người khác) cảm thấy; có dấu hiệu cảm giác",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜がる」 mang ý nghĩa: \"(người khác) cảm thấy; có dấu hiệu cảm giác\"."
+    },
+    {
+      "id": "bunpou-n4-garu-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "祖母は孫に会えなくて寂しがっている。",
+      "sentenceVi": "Bà tôi cô đơn vì không thể gặp các cháu.",
+      "targetGrammar": "〜がる",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜がる",
+        "〜てくださる / 〜ていただく",
+        "〜ていく"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Bà tôi cô đơn vì không thể gặp các cháu.\", ta sử dụng mẫu 「〜がる」."
+    },
+    {
+      "id": "bunpou-n4-garu-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "息子は新しい自転車をほしがっている。",
+      "sentenceVi": "Con trai tôi muốn một chiếc xe đạp mới.",
+      "targetGrammar": "〜がる",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "(người khác) cảm thấy; có dấu hiệu cảm giác",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜がる」 mang ý nghĩa: \"(người khác) cảm thấy; có dấu hiệu cảm giác\"."
+    },
+    {
+      "id": "bunpou-n4-garu-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "妹は暗い所を怖がる。",
+      "sentenceVi": "Em gái tôi sợ những nơi tối tăm.",
+      "targetGrammar": "〜がる",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"(người khác) cảm thấy; có dấu hiệu cảm giác\":",
+      "options": [
+        "〜がる",
+        "〜てある",
+        "〜とき",
+        "〜てみる"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜がる」."
+    },
+    {
+      "id": "bunpou-n4-garu-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "妹は暗い所を怖がる。",
+      "sentenceVi": "Em gái tôi sợ những nơi tối tăm.",
+      "targetGrammar": "〜がる",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜がる」 là gì?",
+      "options": [
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "(người khác) cảm thấy; có dấu hiệu cảm giác",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜がる」 có nghĩa là: (người khác) cảm thấy; có dấu hiệu cảm giác."
+    }
+  ]
+}

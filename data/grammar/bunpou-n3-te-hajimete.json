@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-te-hajimete",
+  "level": "N3",
+  "pattern": "〜てはじめて",
+  "title": "〜てはじめて",
+  "meaning": "Chỉ sau đó; không cho đến khi",
+  "meaningVi": "Chỉ sau đó; không cho đến khi",
+  "connection": "Động từ (V)-te + はじめて",
+  "usageNotes": "Điều gì đó chỉ được nhận ra hoặc trở thành khả thi sau một trải nghiệm; thường theo sau là 分かる, 気づく hoặc 知る. Cũng được viết là 〜て初めて.",
+  "examples": [
+    {
+      "ja": "病気になってはじめて、健康のありがたさが分かった。",
+      "furigana": "{病気|びょうき}になってはじめて、{健康|けんこう}のありがたさが{分|わ}かった。",
+      "en": "It was only after I got sick that I appreciated how precious good health is.",
+      "vi": "Chỉ sau khi bị bệnh tôi mới cảm nhận được sức khỏe tốt quý giá như thế nào."
+    },
+    {
+      "ja": "一人で暮らしてはじめて、親の苦労が分かった。",
+      "furigana": "{一人|ひとり}で{暮|く}らしてはじめて、{親|おや}の{苦労|くろう}が{分|わ}かった。",
+      "en": "Only after living alone did I understand how hard my parents had worked.",
+      "vi": "Chỉ khi sống một mình tôi mới hiểu bố mẹ tôi đã vất vả như thế nào."
+    },
+    {
+      "ja": "実際に使ってみてはじめて、この機械の便利さに気づいた。",
+      "furigana": "{実際|じっさい}に{使|つか}ってみてはじめて、この{機械|きかい}の{便利|べんり}さに{気|き}づいた。",
+      "en": "It wasn't until I actually tried it that I realized how handy this machine is.",
+      "vi": "Phải đến khi dùng thử tôi mới nhận ra chiếc máy này tiện dụng đến mức nào."
+    }
+  ],
+  "tags": [
+    "time",
+    "sequence"
+  ],
+  "unitId": "grammar-n3-unit-14",
+  "questions": [
+    {
+      "id": "bunpou-n3-te-hajimete-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "病気になってはじめて、健康のありがたさが分かった。",
+      "sentenceVi": "Chỉ sau khi bị bệnh tôi mới cảm nhận được sức khỏe tốt quý giá như thế nào.",
+      "targetGrammar": "〜てはじめて",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chỉ sau đó; không cho đến khi",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜てはじめて」 mang ý nghĩa: \"Chỉ sau đó; không cho đến khi\"."
+    },
+    {
+      "id": "bunpou-n3-te-hajimete-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "一人で暮らしてはじめて、親の苦労が分かった。",
+      "sentenceVi": "Chỉ khi sống một mình tôi mới hiểu bố mẹ tôi đã vất vả như thế nào.",
+      "targetGrammar": "〜てはじめて",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てはじめて",
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Chỉ khi sống một mình tôi mới hiểu bố mẹ tôi đã vất vả như thế nào.\", ta sử dụng mẫu 「〜てはじめて」."
+    },
+    {
+      "id": "bunpou-n3-te-hajimete-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "実際に使ってみてはじめて、この機械の便利さに気づいた。",
+      "sentenceVi": "Phải đến khi dùng thử tôi mới nhận ra chiếc máy này tiện dụng đến mức nào.",
+      "targetGrammar": "〜てはじめて",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Chỉ sau đó; không cho đến khi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜てはじめて」 mang ý nghĩa: \"Chỉ sau đó; không cho đến khi\"."
+    },
+    {
+      "id": "bunpou-n3-te-hajimete-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "病気になってはじめて、健康のありがたさが分かった。",
+      "sentenceVi": "Chỉ sau khi bị bệnh tôi mới cảm nhận được sức khỏe tốt quý giá như thế nào.",
+      "targetGrammar": "〜てはじめて",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chỉ sau đó; không cho đến khi\":",
+      "options": [
+        "〜てはじめて",
+        "〜ことになっている",
+        "〜ことはない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜てはじめて」."
+    },
+    {
+      "id": "bunpou-n3-te-hajimete-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "病気になってはじめて、健康のありがたさが分かった。",
+      "sentenceVi": "Chỉ sau khi bị bệnh tôi mới cảm nhận được sức khỏe tốt quý giá như thế nào.",
+      "targetGrammar": "〜てはじめて",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜てはじめて」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Chỉ sau đó; không cho đến khi",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Cố gắng ; cố gắng ; sắp sửa"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜てはじめて」 có nghĩa là: Chỉ sau đó; không cho đến khi."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-tte",
+  "level": "N3",
+  "pattern": "〜って",
+  "title": "〜って",
+  "meaning": "(trích dẫn thông thường) nói rằng; Tôi đã nghe; như ; cái gì là",
+  "meaningVi": "(trích dẫn thông thường) nói rằng; Tôi đã nghe; như ; cái gì là",
+  "connection": "Sentence + って / Danh từ (N) + って",
+  "usageNotes": "Thay thế thông thường cho と (trích dẫn), そうだ (tin đồn, thường là 〜んだって) và は (chủ đề, đặc biệt là 'X là gì?'). Phổ biến trong lời nói; tránh trong văn bản chính thức.",
+  "examples": [
+    {
+      "ja": "彼女、今日は来られないって。",
+      "furigana": "{彼女|かのじょ}、{今日|きょう}は{来|こ}られないって。",
+      "en": "She says she can't come today.",
+      "vi": "Cô ấy nói hôm nay cô ấy không thể đến được."
+    },
+    {
+      "ja": "駅前に新しいカフェができたんだって。行ってみない？",
+      "furigana": "{駅前|えきまえ}に{新|あたら}しいカフェができたんだって。{行|い}ってみない？",
+      "en": "Apparently a new café opened by the station. Want to go check it out?",
+      "vi": "Hình như là một quán cà phê mới được nhà ga mở. Bạn muốn đi kiểm tra nó?"
+    },
+    {
+      "ja": "「ふろしき」って何ですか。",
+      "furigana": "「ふろしき」って{何|なん}ですか。",
+      "en": "What's a furoshiki?",
+      "vi": "Furoshiki là gì?"
+    }
+  ],
+  "tags": [
+    "quotation",
+    "hearsay",
+    "casual"
+  ],
+  "unitId": "grammar-n3-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n3-tte-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "彼女、今日は来られないって。",
+      "sentenceVi": "Cô ấy nói hôm nay cô ấy không thể đến được.",
+      "targetGrammar": "〜って",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "(trích dẫn thông thường) nói rằng; Tôi đã nghe; như ; cái gì là",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜って」 mang ý nghĩa: \"(trích dẫn thông thường) nói rằng; Tôi đã nghe; như ; cái gì là\"."
+    },
+    {
+      "id": "bunpou-n3-tte-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "駅前に新しいカフェができたんだって。行ってみない？",
+      "sentenceVi": "Hình như là một quán cà phê mới được nhà ga mở. Bạn muốn đi kiểm tra nó?",
+      "targetGrammar": "〜って",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜ものだ",
+        "〜って"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Hình như là một quán cà phê mới được nhà ga mở. Bạn muốn đi kiểm tra nó?\", ta sử dụng mẫu 「〜って」."
+    },
+    {
+      "id": "bunpou-n3-tte-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「ふろしき」って何ですか。",
+      "sentenceVi": "Furoshiki là gì?",
+      "targetGrammar": "〜って",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "(trích dẫn thông thường) nói rằng; Tôi đã nghe; như ; cái gì là",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜って」 mang ý nghĩa: \"(trích dẫn thông thường) nói rằng; Tôi đã nghe; như ; cái gì là\"."
+    },
+    {
+      "id": "bunpou-n3-tte-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "彼女、今日は来られないって。",
+      "sentenceVi": "Cô ấy nói hôm nay cô ấy không thể đến được.",
+      "targetGrammar": "〜って",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"(trích dẫn thông thường) nói rằng; Tôi đã nghe; như ; cái gì là\":",
+      "options": [
+        "〜ことはない",
+        "〜ことになっている",
+        "〜ことにしている",
+        "〜って"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜って」."
+    },
+    {
+      "id": "bunpou-n3-tte-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "彼女、今日は来られないって。",
+      "sentenceVi": "Cô ấy nói hôm nay cô ấy không thể đến được.",
+      "targetGrammar": "〜って",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜って」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "(trích dẫn thông thường) nói rằng; Tôi đã nghe; như ; cái gì là"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜って」 có nghĩa là: (trích dẫn thông thường) nói rằng; Tôi đã nghe; như ; cái gì là."
+    }
+  ]
+}

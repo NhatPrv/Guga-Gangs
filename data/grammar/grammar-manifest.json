@@ -1,6 +1,6 @@
 {
-  "totalGrammar": 8,
-  "totalUnits": 4,
+  "totalGrammar": 280,
+  "totalUnits": 58,
   "levels": [
     {
       "level": "N5",
@@ -10,11 +10,234 @@
           "id": "grammar-n5-unit-01",
           "level": "N5",
           "title": "Bài 1",
-          "fullName": "Bài 1: Mẫu câu Xin phép & Cấm đoán cơ bản",
+          "fullName": "Bài 1: Nhóm ngữ pháp trọng tâm N5 (#1)",
           "order": 1,
           "grammarIds": [
-            "bunpou-n5-te-mo-ii-desu",
-            "bunpou-n5-te-wa-ikemasen-basic"
+            "bunpou-n5-wa",
+            "bunpou-n5-ga-subject",
+            "bunpou-n5-o",
+            "bunpou-n5-ni-time",
+            "bunpou-n5-ni-destination"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-02",
+          "level": "N5",
+          "title": "Bài 2",
+          "fullName": "Bài 2: Nhóm ngữ pháp trọng tâm N5 (#2)",
+          "order": 2,
+          "grammarIds": [
+            "bunpou-n5-ni-location",
+            "bunpou-n5-ni-indirect-object",
+            "bunpou-n5-ni-frequency",
+            "bunpou-n5-e",
+            "bunpou-n5-de-place"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-03",
+          "level": "N5",
+          "title": "Bài 3",
+          "fullName": "Bài 3: Nhóm ngữ pháp trọng tâm N5 (#3)",
+          "order": 3,
+          "grammarIds": [
+            "bunpou-n5-de-means",
+            "bunpou-n5-to-and",
+            "bunpou-n5-to-with",
+            "bunpou-n5-ya",
+            "bunpou-n5-ka-or"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-04",
+          "level": "N5",
+          "title": "Bài 4",
+          "fullName": "Bài 4: Nhóm ngữ pháp trọng tâm N5 (#4)",
+          "order": 4,
+          "grammarIds": [
+            "bunpou-n5-mo",
+            "bunpou-n5-no",
+            "bunpou-n5-kara-from",
+            "bunpou-n5-made",
+            "bunpou-n5-ka-question"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-05",
+          "level": "N5",
+          "title": "Bài 5",
+          "fullName": "Bài 5: Nhóm ngữ pháp trọng tâm N5 (#5)",
+          "order": 5,
+          "grammarIds": [
+            "bunpou-n5-ne",
+            "bunpou-n5-yo",
+            "bunpou-n5-yori",
+            "bunpou-n5-no-hou-ga-yori",
+            "bunpou-n5-to-to-dochira-ga"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-06",
+          "level": "N5",
+          "title": "Bài 6",
+          "fullName": "Bài 6: Nhóm ngữ pháp trọng tâm N5 (#6)",
+          "order": 6,
+          "grammarIds": [
+            "bunpou-n5-no-naka-de-ga-ichiban",
+            "bunpou-n5-desu",
+            "bunpou-n5-da",
+            "bunpou-n5-de-wa-arimasen-ja-nai",
+            "bunpou-n5-deshita"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-07",
+          "level": "N5",
+          "title": "Bài 7",
+          "fullName": "Bài 7: Nhóm ngữ pháp trọng tâm N5 (#7)",
+          "order": 7,
+          "grammarIds": [
+            "bunpou-n5-masu",
+            "bunpou-n5-masen",
+            "bunpou-n5-mashita",
+            "bunpou-n5-masen-deshita",
+            "bunpou-n5-nai"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-08",
+          "level": "N5",
+          "title": "Bài 8",
+          "fullName": "Bài 8: Nhóm ngữ pháp trọng tâm N5 (#8)",
+          "order": 8,
+          "grammarIds": [
+            "bunpou-n5-ta",
+            "bunpou-n5-mashou",
+            "bunpou-n5-mashou-ka",
+            "bunpou-n5-masen-ka",
+            "bunpou-n5-tai"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-09",
+          "level": "N5",
+          "title": "Bài 9",
+          "fullName": "Bài 9: Nhóm ngữ pháp trọng tâm N5 (#9)",
+          "order": 9,
+          "grammarIds": [
+            "bunpou-n5-ga-hoshii",
+            "bunpou-n5-o-kudasai",
+            "bunpou-n5-te-kudasai",
+            "bunpou-n5-naide-kudasai",
+            "bunpou-n5-te-mo-ii"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-10",
+          "level": "N5",
+          "title": "Bài 10",
+          "fullName": "Bài 10: Nhóm ngữ pháp trọng tâm N5 (#10)",
+          "order": 10,
+          "grammarIds": [
+            "bunpou-n5-te-wa-ikenai",
+            "bunpou-n5-nakereba-naranai-nakute-wa-ikenai",
+            "bunpou-n5-nakute-mo-ii",
+            "bunpou-n5-te-iru",
+            "bunpou-n5-te"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-11",
+          "level": "N5",
+          "title": "Bài 11",
+          "fullName": "Bài 11: Nhóm ngữ pháp trọng tâm N5 (#11)",
+          "order": 11,
+          "grammarIds": [
+            "bunpou-n5-te-kara",
+            "bunpou-n5-tari-tari-suru",
+            "bunpou-n5-ta-koto-ga-aru",
+            "bunpou-n5-mae-ni",
+            "bunpou-n5-ato-de"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-12",
+          "level": "N5",
+          "title": "Bài 12",
+          "fullName": "Bài 12: Nhóm ngữ pháp trọng tâm N5 (#12)",
+          "order": 12,
+          "grammarIds": [
+            "bunpou-n5-nagara",
+            "bunpou-n5-ni-iku",
+            "bunpou-n5-ga-suki-ga-kirai",
+            "bunpou-n5-ga-jouzu-ga-heta",
+            "bunpou-n5-ga-aru-ga-iru"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-13",
+          "level": "N5",
+          "title": "Bài 13",
+          "fullName": "Bài 13: Nhóm ngữ pháp trọng tâm N5 (#13)",
+          "order": 13,
+          "grammarIds": [
+            "bunpou-n5-kara-reason",
+            "bunpou-n5-ga-but",
+            "bunpou-n5-deshou",
+            "bunpou-n5-ku-naru-ni-naru",
+            "bunpou-n5-ni-suru"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-14",
+          "level": "N5",
+          "title": "Bài 14",
+          "fullName": "Bài 14: Nhóm ngữ pháp trọng tâm N5 (#14)",
+          "order": 14,
+          "grammarIds": [
+            "bunpou-n5-mada-te-inai",
+            "bunpou-n5-mou-ta",
+            "bunpou-n5-amari-nai",
+            "bunpou-n5-zenzen-nai",
+            "bunpou-n5-dake"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-15",
+          "level": "N5",
+          "title": "Bài 15",
+          "fullName": "Bài 15: Nhóm ngữ pháp trọng tâm N5 (#15)",
+          "order": 15,
+          "grammarIds": [
+            "bunpou-n5-kurai-gurai",
+            "bunpou-n5-goro",
+            "bunpou-n5-nani-mo-nai-dare-mo-nai",
+            "bunpou-n5-nani-ka-dare-ka-doko-ka",
+            "bunpou-n5-kore-sore-are-dore"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-16",
+          "level": "N5",
+          "title": "Bài 16",
+          "fullName": "Bài 16: Nhóm ngữ pháp trọng tâm N5 (#16)",
+          "order": 16,
+          "grammarIds": [
+            "bunpou-n5-kono-sono-ano-dono",
+            "bunpou-n5-koko-soko-asoko-doko",
+            "bunpou-n5-ku-nai-katta-ku-nakatta",
+            "bunpou-n5-na-na-adjective",
+            "bunpou-n5-kute-de"
+          ]
+        },
+        {
+          "id": "grammar-n5-unit-17",
+          "level": "N5",
+          "title": "Bài 17",
+          "fullName": "Bài 17: Nhóm ngữ pháp trọng tâm N5 (#17)",
+          "order": 17,
+          "grammarIds": [
+            "bunpou-n5-to-iu-named"
           ]
         }
       ]
@@ -27,22 +250,278 @@
           "id": "grammar-n4-unit-01",
           "level": "N4",
           "title": "Bài 1",
-          "fullName": "Bài 1: Mẫu câu Cấm đoán & Bổn phận/Nghĩa vụ",
+          "fullName": "Bài 1: Nhóm ngữ pháp trọng tâm N4 (#1)",
           "order": 1,
           "grammarIds": [
-            "bunpou-n4-te-wa-ikemasen",
-            "bunpou-n4-nakereba-naranai"
+            "bunpou-n4-ageru-kureru-morau",
+            "bunpou-n4-te-ageru",
+            "bunpou-n4-te-kureru",
+            "bunpou-n4-te-morau",
+            "bunpou-n4-te-kudasaru-te-itadaku"
           ]
         },
         {
           "id": "grammar-n4-unit-02",
           "level": "N4",
           "title": "Bài 2",
-          "fullName": "Bài 2: Mẫu câu Kinh nghiệm & Lời khuyên",
+          "fullName": "Bài 2: Nhóm ngữ pháp trọng tâm N4 (#2)",
           "order": 2,
           "grammarIds": [
-            "bunpou-n4-ta-koto-ga-aru",
-            "bunpou-n4-hou-ga-ii"
+            "bunpou-n4-te-iku",
+            "bunpou-n4-te-kuru",
+            "bunpou-n4-te-shimau-chau",
+            "bunpou-n4-te-oku",
+            "bunpou-n4-te-miru"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-03",
+          "level": "N4",
+          "title": "Bài 3",
+          "fullName": "Bài 3: Nhóm ngữ pháp trọng tâm N4 (#3)",
+          "order": 3,
+          "grammarIds": [
+            "bunpou-n4-te-aru",
+            "bunpou-n4-toki",
+            "bunpou-n4-aida-aida-ni",
+            "bunpou-n4-sou-da-appearance",
+            "bunpou-n4-sou-da-hearsay"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-04",
+          "level": "N4",
+          "title": "Bài 4",
+          "fullName": "Bài 4: Nhóm ngữ pháp trọng tâm N4 (#4)",
+          "order": 4,
+          "grammarIds": [
+            "bunpou-n4-rashii",
+            "bunpou-n4-you-da",
+            "bunpou-n4-mitai",
+            "bunpou-n4-sugiru",
+            "bunpou-n4-kata"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-05",
+          "level": "N4",
+          "title": "Bài 5",
+          "fullName": "Bài 5: Nhóm ngữ pháp trọng tâm N4 (#5)",
+          "order": 5,
+          "grammarIds": [
+            "bunpou-n4-chuu-juu",
+            "bunpou-n4-tsumori",
+            "bunpou-n4-yotei",
+            "bunpou-n4-koto-ni-suru",
+            "bunpou-n4-koto-ni-naru"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-06",
+          "level": "N4",
+          "title": "Bài 6",
+          "fullName": "Bài 6: Nhóm ngữ pháp trọng tâm N4 (#6)",
+          "order": 6,
+          "grammarIds": [
+            "bunpou-n4-koto-ga-dekiru",
+            "bunpou-n4-eru-rareru-potential",
+            "bunpou-n4-reru-rareru-passive",
+            "bunpou-n4-seru-saseru",
+            "bunpou-n4-serareru-saserareru"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-07",
+          "level": "N4",
+          "title": "Bài 7",
+          "fullName": "Bài 7: Nhóm ngữ pháp trọng tâm N4 (#7)",
+          "order": 7,
+          "grammarIds": [
+            "bunpou-n4-ou-you",
+            "bunpou-n4-you-to-omou",
+            "bunpou-n4-e-ro",
+            "bunpou-n4-na-prohibition",
+            "bunpou-n4-nasai"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-08",
+          "level": "N4",
+          "title": "Bài 8",
+          "fullName": "Bài 8: Nhóm ngữ pháp trọng tâm N4 (#8)",
+          "order": 8,
+          "grammarIds": [
+            "bunpou-n4-ba",
+            "bunpou-n4-tara",
+            "bunpou-n4-nara",
+            "bunpou-n4-to",
+            "bunpou-n4-te-mo-de-mo"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-09",
+          "level": "N4",
+          "title": "Bài 9",
+          "fullName": "Bài 9: Nhóm ngữ pháp trọng tâm N4 (#9)",
+          "order": 9,
+          "grammarIds": [
+            "bunpou-n4-noni-although",
+            "bunpou-n4-noni-purpose",
+            "bunpou-n4-node",
+            "bunpou-n4-te-reason",
+            "bunpou-n4-shi"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-10",
+          "level": "N4",
+          "title": "Bài 10",
+          "fullName": "Bài 10: Nhóm ngữ pháp trọng tâm N4 (#10)",
+          "order": 10,
+          "grammarIds": [
+            "bunpou-n4-kedo-keredomo",
+            "bunpou-n4-tame-ni",
+            "bunpou-n4-you-ni",
+            "bunpou-n4-you-ni-suru",
+            "bunpou-n4-you-ni-naru"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-11",
+          "level": "N4",
+          "title": "Bài 11",
+          "fullName": "Bài 11: Nhóm ngữ pháp trọng tâm N4 (#11)",
+          "order": 11,
+          "grammarIds": [
+            "bunpou-n4-te-hoshii",
+            "bunpou-n4-tagaru",
+            "bunpou-n4-garu",
+            "bunpou-n4-kamo-shirenai",
+            "bunpou-n4-darou"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-12",
+          "level": "N4",
+          "title": "Bài 12",
+          "fullName": "Bài 12: Nhóm ngữ pháp trọng tâm N4 (#12)",
+          "order": 12,
+          "grammarIds": [
+            "bunpou-n4-hazu-da",
+            "bunpou-n4-hazu-ga-nai",
+            "bunpou-n4-n-desu-no-desu",
+            "bunpou-n4-ka-dou-ka",
+            "bunpou-n4-ka-embedded-question"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-13",
+          "level": "N4",
+          "title": "Bài 13",
+          "fullName": "Bài 13: Nhóm ngữ pháp trọng tâm N4 (#13)",
+          "order": 13,
+          "grammarIds": [
+            "bunpou-n4-to-omou",
+            "bunpou-n4-to-iu-say",
+            "bunpou-n4-shika-nai",
+            "bunpou-n4-bakari",
+            "bunpou-n4-ta-bakari"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-14",
+          "level": "N4",
+          "title": "Bài 14",
+          "fullName": "Bài 14: Nhóm ngữ pháp trọng tâm N4 (#14)",
+          "order": 14,
+          "grammarIds": [
+            "bunpou-n4-tokoro-da",
+            "bunpou-n4-yasui-nikui",
+            "bunpou-n4-hajimeru-owaru-tsuzukeru",
+            "bunpou-n4-dasu",
+            "bunpou-n4-hodo-nai"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-15",
+          "level": "N4",
+          "title": "Bài 15",
+          "fullName": "Bài 15: Nhóm ngữ pháp trọng tâm N4 (#15)",
+          "order": 15,
+          "grammarIds": [
+            "bunpou-n4-nakanaka-nai",
+            "bunpou-n4-zutsu",
+            "bunpou-n4-mo-emphasis",
+            "bunpou-n4-made-ni",
+            "bunpou-n4-koto-ga-aru"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-16",
+          "level": "N4",
+          "title": "Bài 16",
+          "fullName": "Bài 16: Nhóm ngữ pháp trọng tâm N4 (#16)",
+          "order": 16,
+          "grammarIds": [
+            "bunpou-n4-nai-to-ikenai-nakucha",
+            "bunpou-n4-sasete-kudasai",
+            "bunpou-n4-sonkeigo",
+            "bunpou-n4-kenjougo",
+            "bunpou-n4-o-ni-naru"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-17",
+          "level": "N4",
+          "title": "Bài 17",
+          "fullName": "Bài 17: Nhóm ngữ pháp trọng tâm N4 (#17)",
+          "order": 17,
+          "grammarIds": [
+            "bunpou-n4-o-suru",
+            "bunpou-n4-de-gozaimasu",
+            "bunpou-n4-te-mo-kamawanai",
+            "bunpou-n4-no-koto-nominalizer",
+            "bunpou-n4-ba-yokatta"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-18",
+          "level": "N4",
+          "title": "Bài 18",
+          "fullName": "Bài 18: Nhóm ngữ pháp trọng tâm N4 (#18)",
+          "order": 18,
+          "grammarIds": [
+            "bunpou-n4-tara-dou",
+            "bunpou-n4-hou-ga-ii",
+            "bunpou-n4-toka-toka",
+            "bunpou-n4-nado",
+            "bunpou-n4-de-mo-suggestion"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-19",
+          "level": "N4",
+          "title": "Bài 19",
+          "fullName": "Bài 19: Nhóm ngữ pháp trọng tâm N4 (#19)",
+          "order": 19,
+          "grammarIds": [
+            "bunpou-n4-sa",
+            "bunpou-n4-me",
+            "bunpou-n4-oki-ni",
+            "bunpou-n4-ku-suru-ni-suru",
+            "bunpou-n4-ga-suru"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-20",
+          "level": "N4",
+          "title": "Bài 20",
+          "fullName": "Bài 20: Nhóm ngữ pháp trọng tâm N4 (#20)",
+          "order": 20,
+          "grammarIds": [
+            "bunpou-n4-kana-kashira",
+            "bunpou-n4-te-kuremasen-ka-te-itadakemasen-ka",
+            "bunpou-n4-naide"
           ]
         }
       ]
@@ -55,11 +534,290 @@
           "id": "grammar-n3-unit-01",
           "level": "N3",
           "title": "Bài 1",
-          "fullName": "Bài 1: Mẫu câu Phán đoán & Phủ định chắc chắn",
+          "fullName": "Bài 1: Nhóm ngữ pháp trọng tâm N3 (#1)",
           "order": 1,
           "grammarIds": [
+            "bunpou-n3-wake-da",
+            "bunpou-n3-wake-de-wa-nai",
             "bunpou-n3-wake-ga-nai",
-            "bunpou-n3-ni-chigainai"
+            "bunpou-n3-wake-ni-wa-ikanai",
+            "bunpou-n3-mono-da"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-02",
+          "level": "N3",
+          "title": "Bài 2",
+          "fullName": "Bài 2: Nhóm ngữ pháp trọng tâm N3 (#2)",
+          "order": 2,
+          "grammarIds": [
+            "bunpou-n3-mono-de-wa-nai",
+            "bunpou-n3-mono-mon",
+            "bunpou-n3-mono-dakara-mono-de",
+            "bunpou-n3-koto-da",
+            "bunpou-n3-koto-wa-nai"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-03",
+          "level": "N3",
+          "title": "Bài 3",
+          "fullName": "Bài 3: Nhóm ngữ pháp trọng tâm N3 (#3)",
+          "order": 3,
+          "grammarIds": [
+            "bunpou-n3-koto-ni-shite-iru",
+            "bunpou-n3-koto-ni-natte-iru",
+            "bunpou-n3-koto-instruction",
+            "bunpou-n3-you-ni-iu-you-ni-tanomu",
+            "bunpou-n3-you-to-suru"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-04",
+          "level": "N3",
+          "title": "Bài 4",
+          "fullName": "Bài 4: Nhóm ngữ pháp trọng tâm N3 (#4)",
+          "order": 4,
+          "grammarIds": [
+            "bunpou-n3-sou-ni-nai-sou-mo-nai",
+            "bunpou-n3-ippou-da",
+            "bunpou-n3-ippou-de",
+            "bunpou-n3-ni-taishite",
+            "bunpou-n3-ni-tsuite"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-05",
+          "level": "N3",
+          "title": "Bài 5",
+          "fullName": "Bài 5: Nhóm ngữ pháp trọng tâm N3 (#5)",
+          "order": 5,
+          "grammarIds": [
+            "bunpou-n3-ni-yotte-ni-yoru",
+            "bunpou-n3-ni-yoru-to-ni-yoreba",
+            "bunpou-n3-bakari-de-naku",
+            "bunpou-n3-dake-de-naku",
+            "bunpou-n3-mo-ba-mo"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-06",
+          "level": "N3",
+          "title": "Bài 6",
+          "fullName": "Bài 6: Nhóm ngữ pháp trọng tâm N3 (#6)",
+          "order": 6,
+          "grammarIds": [
+            "bunpou-n3-rashii-typical-of",
+            "bunpou-n3-ppoi",
+            "bunpou-n3-teki",
+            "bunpou-n3-you-na-you-ni-like",
+            "bunpou-n3-marude-you-da"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-07",
+          "level": "N3",
+          "title": "Bài 7",
+          "fullName": "Bài 7: Nhóm ngữ pháp trọng tâm N3 (#7)",
+          "order": 7,
+          "grammarIds": [
+            "bunpou-n3-ni-chigai-nai",
+            "bunpou-n3-ni-kimatte-iru",
+            "bunpou-n3-ki-ga-suru",
+            "bunpou-n3-zu-ni",
+            "bunpou-n3-mama"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-08",
+          "level": "N3",
+          "title": "Bài 8",
+          "fullName": "Bài 8: Nhóm ngữ pháp trọng tâm N3 (#8)",
+          "order": 8,
+          "grammarIds": [
+            "bunpou-n3-uchi-ni",
+            "bunpou-n3-tokoro-ni-tokoro-e-tokoro-o",
+            "bunpou-n3-ba-hodo",
+            "bunpou-n3-hodo",
+            "bunpou-n3-kurai-gurai-extent"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-09",
+          "level": "N3",
+          "title": "Bài 9",
+          "fullName": "Bài 9: Nhóm ngữ pháp trọng tâm N3 (#9)",
+          "order": 9,
+          "grammarIds": [
+            "bunpou-n3-sae",
+            "bunpou-n3-sae-ba",
+            "bunpou-n3-koso",
+            "bunpou-n3-to-shite",
+            "bunpou-n3-ni-totte"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-10",
+          "level": "N3",
+          "title": "Bài 10",
+          "fullName": "Bài 10: Nhóm ngữ pháp trọng tâm N3 (#10)",
+          "order": 10,
+          "grammarIds": [
+            "bunpou-n3-ni-shite-wa",
+            "bunpou-n3-ni-shite-mo",
+            "bunpou-n3-ni-kanshite-ni-kansuru",
+            "bunpou-n3-ni-kurabete",
+            "bunpou-n3-ni-kawatte"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-11",
+          "level": "N3",
+          "title": "Bài 11",
+          "fullName": "Bài 11: Nhóm ngữ pháp trọng tâm N3 (#11)",
+          "order": 11,
+          "grammarIds": [
+            "bunpou-n3-kawari-ni",
+            "bunpou-n3-ni-shitagatte",
+            "bunpou-n3-ni-tsurete",
+            "bunpou-n3-to-tomo-ni",
+            "bunpou-n3-tabi-ni"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-12",
+          "level": "N3",
+          "title": "Bài 12",
+          "fullName": "Bài 12: Nhóm ngữ pháp trọng tâm N3 (#12)",
+          "order": 12,
+          "grammarIds": [
+            "bunpou-n3-goto-ni",
+            "bunpou-n3-saichuu-ni",
+            "bunpou-n3-tsuide-ni",
+            "bunpou-n3-okage-de",
+            "bunpou-n3-sei-de"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-13",
+          "level": "N3",
+          "title": "Bài 13",
+          "fullName": "Bài 13: Nhóm ngữ pháp trọng tâm N3 (#13)",
+          "order": 13,
+          "grammarIds": [
+            "bunpou-n3-ta-totan-ta-totan-ni",
+            "bunpou-n3-tara-ta",
+            "bunpou-n3-tatte-datte",
+            "bunpou-n3-nai-koto-wa-nai",
+            "bunpou-n3-te-shou-ga-nai-te-shikata-ga-nai"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-14",
+          "level": "N3",
+          "title": "Bài 14",
+          "fullName": "Bài 14: Nhóm ngữ pháp trọng tâm N3 (#14)",
+          "order": 14,
+          "grammarIds": [
+            "bunpou-n3-te-tamaranai",
+            "bunpou-n3-te-hajimete",
+            "bunpou-n3-te-bakari-iru",
+            "bunpou-n3-ba-ii",
+            "bunpou-n3-baai-wa"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-15",
+          "level": "N3",
+          "title": "Bài 15",
+          "fullName": "Bài 15: Nhóm ngữ pháp trọng tâm N3 (#15)",
+          "order": 15,
+          "grammarIds": [
+            "bunpou-n3-to-sureba-to-shitara",
+            "bunpou-n3-to-shite-mo",
+            "bunpou-n3-toka-hearsay",
+            "bunpou-n3-tte",
+            "bunpou-n3-to-iu-koto-da"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-16",
+          "level": "N3",
+          "title": "Bài 16",
+          "fullName": "Bài 16: Nhóm ngữ pháp trọng tâm N3 (#16)",
+          "order": 16,
+          "grammarIds": [
+            "bunpou-n3-to-iu-no-wa",
+            "bunpou-n3-to-iu-yori",
+            "bunpou-n3-wari-ni-wari-ni-wa",
+            "bunpou-n3-kuse-ni",
+            "bunpou-n3-kara-ni-kakete"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-17",
+          "level": "N3",
+          "title": "Bài 17",
+          "fullName": "Bài 17: Nhóm ngữ pháp trọng tâm N3 (#17)",
+          "order": 17,
+          "grammarIds": [
+            "bunpou-n3-buri",
+            "bunpou-n3-kke",
+            "bunpou-n3-masu-you-ni",
+            "bunpou-n3-furi-o-suru",
+            "bunpou-n3-muki-muke"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-18",
+          "level": "N3",
+          "title": "Bài 18",
+          "fullName": "Bài 18: Nhóm ngữ pháp trọng tâm N3 (#18)",
+          "order": 18,
+          "grammarIds": [
+            "bunpou-n3-gachi",
+            "bunpou-n3-gimi",
+            "bunpou-n3-darake",
+            "bunpou-n3-kiru-kirenai",
+            "bunpou-n3-kakeru"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-19",
+          "level": "N3",
+          "title": "Bài 19",
+          "fullName": "Bài 19: Nhóm ngữ pháp trọng tâm N3 (#19)",
+          "order": 19,
+          "grammarIds": [
+            "bunpou-n3-au",
+            "bunpou-n3-naosu",
+            "bunpou-n3-zurai",
+            "bunpou-n3-beki-da-beki-de-wa-nai",
+            "bunpou-n3-hodo-wa-nai"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-20",
+          "level": "N3",
+          "title": "Bài 20",
+          "fullName": "Bài 20: Nhóm ngữ pháp trọng tâm N3 (#20)",
+          "order": 20,
+          "grammarIds": [
+            "bunpou-n3-shika-nai-no-choice",
+            "bunpou-n3-made-even",
+            "bunpou-n3-tokoro-datta",
+            "bunpou-n3-kara-to-itte",
+            "bunpou-n3-toori-ni-doori-ni"
+          ]
+        },
+        {
+          "id": "grammar-n3-unit-21",
+          "level": "N3",
+          "title": "Bài 21",
+          "fullName": "Bài 21: Nhóm ngữ pháp trọng tâm N3 (#21)",
+          "order": 21,
+          "grammarIds": [
+            "bunpou-n3-nanka-nante"
           ]
         }
       ]
@@ -70,126 +828,3604 @@
       "id": "grammar-n5-unit-01",
       "level": "N5",
       "title": "Bài 1",
-      "fullName": "Bài 1: Mẫu câu Xin phép & Cấm đoán cơ bản",
+      "fullName": "Bài 1: Nhóm ngữ pháp trọng tâm N5 (#1)",
       "order": 1,
       "grammarIds": [
-        "bunpou-n5-te-mo-ii-desu",
-        "bunpou-n5-te-wa-ikemasen-basic"
+        "bunpou-n5-wa",
+        "bunpou-n5-ga-subject",
+        "bunpou-n5-o",
+        "bunpou-n5-ni-time",
+        "bunpou-n5-ni-destination"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-02",
+      "level": "N5",
+      "title": "Bài 2",
+      "fullName": "Bài 2: Nhóm ngữ pháp trọng tâm N5 (#2)",
+      "order": 2,
+      "grammarIds": [
+        "bunpou-n5-ni-location",
+        "bunpou-n5-ni-indirect-object",
+        "bunpou-n5-ni-frequency",
+        "bunpou-n5-e",
+        "bunpou-n5-de-place"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-03",
+      "level": "N5",
+      "title": "Bài 3",
+      "fullName": "Bài 3: Nhóm ngữ pháp trọng tâm N5 (#3)",
+      "order": 3,
+      "grammarIds": [
+        "bunpou-n5-de-means",
+        "bunpou-n5-to-and",
+        "bunpou-n5-to-with",
+        "bunpou-n5-ya",
+        "bunpou-n5-ka-or"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-04",
+      "level": "N5",
+      "title": "Bài 4",
+      "fullName": "Bài 4: Nhóm ngữ pháp trọng tâm N5 (#4)",
+      "order": 4,
+      "grammarIds": [
+        "bunpou-n5-mo",
+        "bunpou-n5-no",
+        "bunpou-n5-kara-from",
+        "bunpou-n5-made",
+        "bunpou-n5-ka-question"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-05",
+      "level": "N5",
+      "title": "Bài 5",
+      "fullName": "Bài 5: Nhóm ngữ pháp trọng tâm N5 (#5)",
+      "order": 5,
+      "grammarIds": [
+        "bunpou-n5-ne",
+        "bunpou-n5-yo",
+        "bunpou-n5-yori",
+        "bunpou-n5-no-hou-ga-yori",
+        "bunpou-n5-to-to-dochira-ga"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-06",
+      "level": "N5",
+      "title": "Bài 6",
+      "fullName": "Bài 6: Nhóm ngữ pháp trọng tâm N5 (#6)",
+      "order": 6,
+      "grammarIds": [
+        "bunpou-n5-no-naka-de-ga-ichiban",
+        "bunpou-n5-desu",
+        "bunpou-n5-da",
+        "bunpou-n5-de-wa-arimasen-ja-nai",
+        "bunpou-n5-deshita"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-07",
+      "level": "N5",
+      "title": "Bài 7",
+      "fullName": "Bài 7: Nhóm ngữ pháp trọng tâm N5 (#7)",
+      "order": 7,
+      "grammarIds": [
+        "bunpou-n5-masu",
+        "bunpou-n5-masen",
+        "bunpou-n5-mashita",
+        "bunpou-n5-masen-deshita",
+        "bunpou-n5-nai"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-08",
+      "level": "N5",
+      "title": "Bài 8",
+      "fullName": "Bài 8: Nhóm ngữ pháp trọng tâm N5 (#8)",
+      "order": 8,
+      "grammarIds": [
+        "bunpou-n5-ta",
+        "bunpou-n5-mashou",
+        "bunpou-n5-mashou-ka",
+        "bunpou-n5-masen-ka",
+        "bunpou-n5-tai"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-09",
+      "level": "N5",
+      "title": "Bài 9",
+      "fullName": "Bài 9: Nhóm ngữ pháp trọng tâm N5 (#9)",
+      "order": 9,
+      "grammarIds": [
+        "bunpou-n5-ga-hoshii",
+        "bunpou-n5-o-kudasai",
+        "bunpou-n5-te-kudasai",
+        "bunpou-n5-naide-kudasai",
+        "bunpou-n5-te-mo-ii"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-10",
+      "level": "N5",
+      "title": "Bài 10",
+      "fullName": "Bài 10: Nhóm ngữ pháp trọng tâm N5 (#10)",
+      "order": 10,
+      "grammarIds": [
+        "bunpou-n5-te-wa-ikenai",
+        "bunpou-n5-nakereba-naranai-nakute-wa-ikenai",
+        "bunpou-n5-nakute-mo-ii",
+        "bunpou-n5-te-iru",
+        "bunpou-n5-te"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-11",
+      "level": "N5",
+      "title": "Bài 11",
+      "fullName": "Bài 11: Nhóm ngữ pháp trọng tâm N5 (#11)",
+      "order": 11,
+      "grammarIds": [
+        "bunpou-n5-te-kara",
+        "bunpou-n5-tari-tari-suru",
+        "bunpou-n5-ta-koto-ga-aru",
+        "bunpou-n5-mae-ni",
+        "bunpou-n5-ato-de"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-12",
+      "level": "N5",
+      "title": "Bài 12",
+      "fullName": "Bài 12: Nhóm ngữ pháp trọng tâm N5 (#12)",
+      "order": 12,
+      "grammarIds": [
+        "bunpou-n5-nagara",
+        "bunpou-n5-ni-iku",
+        "bunpou-n5-ga-suki-ga-kirai",
+        "bunpou-n5-ga-jouzu-ga-heta",
+        "bunpou-n5-ga-aru-ga-iru"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-13",
+      "level": "N5",
+      "title": "Bài 13",
+      "fullName": "Bài 13: Nhóm ngữ pháp trọng tâm N5 (#13)",
+      "order": 13,
+      "grammarIds": [
+        "bunpou-n5-kara-reason",
+        "bunpou-n5-ga-but",
+        "bunpou-n5-deshou",
+        "bunpou-n5-ku-naru-ni-naru",
+        "bunpou-n5-ni-suru"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-14",
+      "level": "N5",
+      "title": "Bài 14",
+      "fullName": "Bài 14: Nhóm ngữ pháp trọng tâm N5 (#14)",
+      "order": 14,
+      "grammarIds": [
+        "bunpou-n5-mada-te-inai",
+        "bunpou-n5-mou-ta",
+        "bunpou-n5-amari-nai",
+        "bunpou-n5-zenzen-nai",
+        "bunpou-n5-dake"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-15",
+      "level": "N5",
+      "title": "Bài 15",
+      "fullName": "Bài 15: Nhóm ngữ pháp trọng tâm N5 (#15)",
+      "order": 15,
+      "grammarIds": [
+        "bunpou-n5-kurai-gurai",
+        "bunpou-n5-goro",
+        "bunpou-n5-nani-mo-nai-dare-mo-nai",
+        "bunpou-n5-nani-ka-dare-ka-doko-ka",
+        "bunpou-n5-kore-sore-are-dore"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-16",
+      "level": "N5",
+      "title": "Bài 16",
+      "fullName": "Bài 16: Nhóm ngữ pháp trọng tâm N5 (#16)",
+      "order": 16,
+      "grammarIds": [
+        "bunpou-n5-kono-sono-ano-dono",
+        "bunpou-n5-koko-soko-asoko-doko",
+        "bunpou-n5-ku-nai-katta-ku-nakatta",
+        "bunpou-n5-na-na-adjective",
+        "bunpou-n5-kute-de"
+      ]
+    },
+    {
+      "id": "grammar-n5-unit-17",
+      "level": "N5",
+      "title": "Bài 17",
+      "fullName": "Bài 17: Nhóm ngữ pháp trọng tâm N5 (#17)",
+      "order": 17,
+      "grammarIds": [
+        "bunpou-n5-to-iu-named"
       ]
     },
     {
       "id": "grammar-n4-unit-01",
       "level": "N4",
       "title": "Bài 1",
-      "fullName": "Bài 1: Mẫu câu Cấm đoán & Bổn phận/Nghĩa vụ",
+      "fullName": "Bài 1: Nhóm ngữ pháp trọng tâm N4 (#1)",
       "order": 1,
       "grammarIds": [
-        "bunpou-n4-te-wa-ikemasen",
-        "bunpou-n4-nakereba-naranai"
+        "bunpou-n4-ageru-kureru-morau",
+        "bunpou-n4-te-ageru",
+        "bunpou-n4-te-kureru",
+        "bunpou-n4-te-morau",
+        "bunpou-n4-te-kudasaru-te-itadaku"
       ]
     },
     {
       "id": "grammar-n4-unit-02",
       "level": "N4",
       "title": "Bài 2",
-      "fullName": "Bài 2: Mẫu câu Kinh nghiệm & Lời khuyên",
+      "fullName": "Bài 2: Nhóm ngữ pháp trọng tâm N4 (#2)",
       "order": 2,
       "grammarIds": [
-        "bunpou-n4-ta-koto-ga-aru",
-        "bunpou-n4-hou-ga-ii"
+        "bunpou-n4-te-iku",
+        "bunpou-n4-te-kuru",
+        "bunpou-n4-te-shimau-chau",
+        "bunpou-n4-te-oku",
+        "bunpou-n4-te-miru"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-03",
+      "level": "N4",
+      "title": "Bài 3",
+      "fullName": "Bài 3: Nhóm ngữ pháp trọng tâm N4 (#3)",
+      "order": 3,
+      "grammarIds": [
+        "bunpou-n4-te-aru",
+        "bunpou-n4-toki",
+        "bunpou-n4-aida-aida-ni",
+        "bunpou-n4-sou-da-appearance",
+        "bunpou-n4-sou-da-hearsay"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-04",
+      "level": "N4",
+      "title": "Bài 4",
+      "fullName": "Bài 4: Nhóm ngữ pháp trọng tâm N4 (#4)",
+      "order": 4,
+      "grammarIds": [
+        "bunpou-n4-rashii",
+        "bunpou-n4-you-da",
+        "bunpou-n4-mitai",
+        "bunpou-n4-sugiru",
+        "bunpou-n4-kata"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-05",
+      "level": "N4",
+      "title": "Bài 5",
+      "fullName": "Bài 5: Nhóm ngữ pháp trọng tâm N4 (#5)",
+      "order": 5,
+      "grammarIds": [
+        "bunpou-n4-chuu-juu",
+        "bunpou-n4-tsumori",
+        "bunpou-n4-yotei",
+        "bunpou-n4-koto-ni-suru",
+        "bunpou-n4-koto-ni-naru"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-06",
+      "level": "N4",
+      "title": "Bài 6",
+      "fullName": "Bài 6: Nhóm ngữ pháp trọng tâm N4 (#6)",
+      "order": 6,
+      "grammarIds": [
+        "bunpou-n4-koto-ga-dekiru",
+        "bunpou-n4-eru-rareru-potential",
+        "bunpou-n4-reru-rareru-passive",
+        "bunpou-n4-seru-saseru",
+        "bunpou-n4-serareru-saserareru"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-07",
+      "level": "N4",
+      "title": "Bài 7",
+      "fullName": "Bài 7: Nhóm ngữ pháp trọng tâm N4 (#7)",
+      "order": 7,
+      "grammarIds": [
+        "bunpou-n4-ou-you",
+        "bunpou-n4-you-to-omou",
+        "bunpou-n4-e-ro",
+        "bunpou-n4-na-prohibition",
+        "bunpou-n4-nasai"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-08",
+      "level": "N4",
+      "title": "Bài 8",
+      "fullName": "Bài 8: Nhóm ngữ pháp trọng tâm N4 (#8)",
+      "order": 8,
+      "grammarIds": [
+        "bunpou-n4-ba",
+        "bunpou-n4-tara",
+        "bunpou-n4-nara",
+        "bunpou-n4-to",
+        "bunpou-n4-te-mo-de-mo"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-09",
+      "level": "N4",
+      "title": "Bài 9",
+      "fullName": "Bài 9: Nhóm ngữ pháp trọng tâm N4 (#9)",
+      "order": 9,
+      "grammarIds": [
+        "bunpou-n4-noni-although",
+        "bunpou-n4-noni-purpose",
+        "bunpou-n4-node",
+        "bunpou-n4-te-reason",
+        "bunpou-n4-shi"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-10",
+      "level": "N4",
+      "title": "Bài 10",
+      "fullName": "Bài 10: Nhóm ngữ pháp trọng tâm N4 (#10)",
+      "order": 10,
+      "grammarIds": [
+        "bunpou-n4-kedo-keredomo",
+        "bunpou-n4-tame-ni",
+        "bunpou-n4-you-ni",
+        "bunpou-n4-you-ni-suru",
+        "bunpou-n4-you-ni-naru"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-11",
+      "level": "N4",
+      "title": "Bài 11",
+      "fullName": "Bài 11: Nhóm ngữ pháp trọng tâm N4 (#11)",
+      "order": 11,
+      "grammarIds": [
+        "bunpou-n4-te-hoshii",
+        "bunpou-n4-tagaru",
+        "bunpou-n4-garu",
+        "bunpou-n4-kamo-shirenai",
+        "bunpou-n4-darou"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-12",
+      "level": "N4",
+      "title": "Bài 12",
+      "fullName": "Bài 12: Nhóm ngữ pháp trọng tâm N4 (#12)",
+      "order": 12,
+      "grammarIds": [
+        "bunpou-n4-hazu-da",
+        "bunpou-n4-hazu-ga-nai",
+        "bunpou-n4-n-desu-no-desu",
+        "bunpou-n4-ka-dou-ka",
+        "bunpou-n4-ka-embedded-question"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-13",
+      "level": "N4",
+      "title": "Bài 13",
+      "fullName": "Bài 13: Nhóm ngữ pháp trọng tâm N4 (#13)",
+      "order": 13,
+      "grammarIds": [
+        "bunpou-n4-to-omou",
+        "bunpou-n4-to-iu-say",
+        "bunpou-n4-shika-nai",
+        "bunpou-n4-bakari",
+        "bunpou-n4-ta-bakari"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-14",
+      "level": "N4",
+      "title": "Bài 14",
+      "fullName": "Bài 14: Nhóm ngữ pháp trọng tâm N4 (#14)",
+      "order": 14,
+      "grammarIds": [
+        "bunpou-n4-tokoro-da",
+        "bunpou-n4-yasui-nikui",
+        "bunpou-n4-hajimeru-owaru-tsuzukeru",
+        "bunpou-n4-dasu",
+        "bunpou-n4-hodo-nai"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-15",
+      "level": "N4",
+      "title": "Bài 15",
+      "fullName": "Bài 15: Nhóm ngữ pháp trọng tâm N4 (#15)",
+      "order": 15,
+      "grammarIds": [
+        "bunpou-n4-nakanaka-nai",
+        "bunpou-n4-zutsu",
+        "bunpou-n4-mo-emphasis",
+        "bunpou-n4-made-ni",
+        "bunpou-n4-koto-ga-aru"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-16",
+      "level": "N4",
+      "title": "Bài 16",
+      "fullName": "Bài 16: Nhóm ngữ pháp trọng tâm N4 (#16)",
+      "order": 16,
+      "grammarIds": [
+        "bunpou-n4-nai-to-ikenai-nakucha",
+        "bunpou-n4-sasete-kudasai",
+        "bunpou-n4-sonkeigo",
+        "bunpou-n4-kenjougo",
+        "bunpou-n4-o-ni-naru"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-17",
+      "level": "N4",
+      "title": "Bài 17",
+      "fullName": "Bài 17: Nhóm ngữ pháp trọng tâm N4 (#17)",
+      "order": 17,
+      "grammarIds": [
+        "bunpou-n4-o-suru",
+        "bunpou-n4-de-gozaimasu",
+        "bunpou-n4-te-mo-kamawanai",
+        "bunpou-n4-no-koto-nominalizer",
+        "bunpou-n4-ba-yokatta"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-18",
+      "level": "N4",
+      "title": "Bài 18",
+      "fullName": "Bài 18: Nhóm ngữ pháp trọng tâm N4 (#18)",
+      "order": 18,
+      "grammarIds": [
+        "bunpou-n4-tara-dou",
+        "bunpou-n4-hou-ga-ii",
+        "bunpou-n4-toka-toka",
+        "bunpou-n4-nado",
+        "bunpou-n4-de-mo-suggestion"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-19",
+      "level": "N4",
+      "title": "Bài 19",
+      "fullName": "Bài 19: Nhóm ngữ pháp trọng tâm N4 (#19)",
+      "order": 19,
+      "grammarIds": [
+        "bunpou-n4-sa",
+        "bunpou-n4-me",
+        "bunpou-n4-oki-ni",
+        "bunpou-n4-ku-suru-ni-suru",
+        "bunpou-n4-ga-suru"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-20",
+      "level": "N4",
+      "title": "Bài 20",
+      "fullName": "Bài 20: Nhóm ngữ pháp trọng tâm N4 (#20)",
+      "order": 20,
+      "grammarIds": [
+        "bunpou-n4-kana-kashira",
+        "bunpou-n4-te-kuremasen-ka-te-itadakemasen-ka",
+        "bunpou-n4-naide"
       ]
     },
     {
       "id": "grammar-n3-unit-01",
       "level": "N3",
       "title": "Bài 1",
-      "fullName": "Bài 1: Mẫu câu Phán đoán & Phủ định chắc chắn",
+      "fullName": "Bài 1: Nhóm ngữ pháp trọng tâm N3 (#1)",
       "order": 1,
       "grammarIds": [
+        "bunpou-n3-wake-da",
+        "bunpou-n3-wake-de-wa-nai",
         "bunpou-n3-wake-ga-nai",
-        "bunpou-n3-ni-chigainai"
+        "bunpou-n3-wake-ni-wa-ikanai",
+        "bunpou-n3-mono-da"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-02",
+      "level": "N3",
+      "title": "Bài 2",
+      "fullName": "Bài 2: Nhóm ngữ pháp trọng tâm N3 (#2)",
+      "order": 2,
+      "grammarIds": [
+        "bunpou-n3-mono-de-wa-nai",
+        "bunpou-n3-mono-mon",
+        "bunpou-n3-mono-dakara-mono-de",
+        "bunpou-n3-koto-da",
+        "bunpou-n3-koto-wa-nai"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-03",
+      "level": "N3",
+      "title": "Bài 3",
+      "fullName": "Bài 3: Nhóm ngữ pháp trọng tâm N3 (#3)",
+      "order": 3,
+      "grammarIds": [
+        "bunpou-n3-koto-ni-shite-iru",
+        "bunpou-n3-koto-ni-natte-iru",
+        "bunpou-n3-koto-instruction",
+        "bunpou-n3-you-ni-iu-you-ni-tanomu",
+        "bunpou-n3-you-to-suru"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-04",
+      "level": "N3",
+      "title": "Bài 4",
+      "fullName": "Bài 4: Nhóm ngữ pháp trọng tâm N3 (#4)",
+      "order": 4,
+      "grammarIds": [
+        "bunpou-n3-sou-ni-nai-sou-mo-nai",
+        "bunpou-n3-ippou-da",
+        "bunpou-n3-ippou-de",
+        "bunpou-n3-ni-taishite",
+        "bunpou-n3-ni-tsuite"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-05",
+      "level": "N3",
+      "title": "Bài 5",
+      "fullName": "Bài 5: Nhóm ngữ pháp trọng tâm N3 (#5)",
+      "order": 5,
+      "grammarIds": [
+        "bunpou-n3-ni-yotte-ni-yoru",
+        "bunpou-n3-ni-yoru-to-ni-yoreba",
+        "bunpou-n3-bakari-de-naku",
+        "bunpou-n3-dake-de-naku",
+        "bunpou-n3-mo-ba-mo"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-06",
+      "level": "N3",
+      "title": "Bài 6",
+      "fullName": "Bài 6: Nhóm ngữ pháp trọng tâm N3 (#6)",
+      "order": 6,
+      "grammarIds": [
+        "bunpou-n3-rashii-typical-of",
+        "bunpou-n3-ppoi",
+        "bunpou-n3-teki",
+        "bunpou-n3-you-na-you-ni-like",
+        "bunpou-n3-marude-you-da"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-07",
+      "level": "N3",
+      "title": "Bài 7",
+      "fullName": "Bài 7: Nhóm ngữ pháp trọng tâm N3 (#7)",
+      "order": 7,
+      "grammarIds": [
+        "bunpou-n3-ni-chigai-nai",
+        "bunpou-n3-ni-kimatte-iru",
+        "bunpou-n3-ki-ga-suru",
+        "bunpou-n3-zu-ni",
+        "bunpou-n3-mama"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-08",
+      "level": "N3",
+      "title": "Bài 8",
+      "fullName": "Bài 8: Nhóm ngữ pháp trọng tâm N3 (#8)",
+      "order": 8,
+      "grammarIds": [
+        "bunpou-n3-uchi-ni",
+        "bunpou-n3-tokoro-ni-tokoro-e-tokoro-o",
+        "bunpou-n3-ba-hodo",
+        "bunpou-n3-hodo",
+        "bunpou-n3-kurai-gurai-extent"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-09",
+      "level": "N3",
+      "title": "Bài 9",
+      "fullName": "Bài 9: Nhóm ngữ pháp trọng tâm N3 (#9)",
+      "order": 9,
+      "grammarIds": [
+        "bunpou-n3-sae",
+        "bunpou-n3-sae-ba",
+        "bunpou-n3-koso",
+        "bunpou-n3-to-shite",
+        "bunpou-n3-ni-totte"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-10",
+      "level": "N3",
+      "title": "Bài 10",
+      "fullName": "Bài 10: Nhóm ngữ pháp trọng tâm N3 (#10)",
+      "order": 10,
+      "grammarIds": [
+        "bunpou-n3-ni-shite-wa",
+        "bunpou-n3-ni-shite-mo",
+        "bunpou-n3-ni-kanshite-ni-kansuru",
+        "bunpou-n3-ni-kurabete",
+        "bunpou-n3-ni-kawatte"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-11",
+      "level": "N3",
+      "title": "Bài 11",
+      "fullName": "Bài 11: Nhóm ngữ pháp trọng tâm N3 (#11)",
+      "order": 11,
+      "grammarIds": [
+        "bunpou-n3-kawari-ni",
+        "bunpou-n3-ni-shitagatte",
+        "bunpou-n3-ni-tsurete",
+        "bunpou-n3-to-tomo-ni",
+        "bunpou-n3-tabi-ni"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-12",
+      "level": "N3",
+      "title": "Bài 12",
+      "fullName": "Bài 12: Nhóm ngữ pháp trọng tâm N3 (#12)",
+      "order": 12,
+      "grammarIds": [
+        "bunpou-n3-goto-ni",
+        "bunpou-n3-saichuu-ni",
+        "bunpou-n3-tsuide-ni",
+        "bunpou-n3-okage-de",
+        "bunpou-n3-sei-de"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-13",
+      "level": "N3",
+      "title": "Bài 13",
+      "fullName": "Bài 13: Nhóm ngữ pháp trọng tâm N3 (#13)",
+      "order": 13,
+      "grammarIds": [
+        "bunpou-n3-ta-totan-ta-totan-ni",
+        "bunpou-n3-tara-ta",
+        "bunpou-n3-tatte-datte",
+        "bunpou-n3-nai-koto-wa-nai",
+        "bunpou-n3-te-shou-ga-nai-te-shikata-ga-nai"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-14",
+      "level": "N3",
+      "title": "Bài 14",
+      "fullName": "Bài 14: Nhóm ngữ pháp trọng tâm N3 (#14)",
+      "order": 14,
+      "grammarIds": [
+        "bunpou-n3-te-tamaranai",
+        "bunpou-n3-te-hajimete",
+        "bunpou-n3-te-bakari-iru",
+        "bunpou-n3-ba-ii",
+        "bunpou-n3-baai-wa"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-15",
+      "level": "N3",
+      "title": "Bài 15",
+      "fullName": "Bài 15: Nhóm ngữ pháp trọng tâm N3 (#15)",
+      "order": 15,
+      "grammarIds": [
+        "bunpou-n3-to-sureba-to-shitara",
+        "bunpou-n3-to-shite-mo",
+        "bunpou-n3-toka-hearsay",
+        "bunpou-n3-tte",
+        "bunpou-n3-to-iu-koto-da"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-16",
+      "level": "N3",
+      "title": "Bài 16",
+      "fullName": "Bài 16: Nhóm ngữ pháp trọng tâm N3 (#16)",
+      "order": 16,
+      "grammarIds": [
+        "bunpou-n3-to-iu-no-wa",
+        "bunpou-n3-to-iu-yori",
+        "bunpou-n3-wari-ni-wari-ni-wa",
+        "bunpou-n3-kuse-ni",
+        "bunpou-n3-kara-ni-kakete"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-17",
+      "level": "N3",
+      "title": "Bài 17",
+      "fullName": "Bài 17: Nhóm ngữ pháp trọng tâm N3 (#17)",
+      "order": 17,
+      "grammarIds": [
+        "bunpou-n3-buri",
+        "bunpou-n3-kke",
+        "bunpou-n3-masu-you-ni",
+        "bunpou-n3-furi-o-suru",
+        "bunpou-n3-muki-muke"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-18",
+      "level": "N3",
+      "title": "Bài 18",
+      "fullName": "Bài 18: Nhóm ngữ pháp trọng tâm N3 (#18)",
+      "order": 18,
+      "grammarIds": [
+        "bunpou-n3-gachi",
+        "bunpou-n3-gimi",
+        "bunpou-n3-darake",
+        "bunpou-n3-kiru-kirenai",
+        "bunpou-n3-kakeru"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-19",
+      "level": "N3",
+      "title": "Bài 19",
+      "fullName": "Bài 19: Nhóm ngữ pháp trọng tâm N3 (#19)",
+      "order": 19,
+      "grammarIds": [
+        "bunpou-n3-au",
+        "bunpou-n3-naosu",
+        "bunpou-n3-zurai",
+        "bunpou-n3-beki-da-beki-de-wa-nai",
+        "bunpou-n3-hodo-wa-nai"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-20",
+      "level": "N3",
+      "title": "Bài 20",
+      "fullName": "Bài 20: Nhóm ngữ pháp trọng tâm N3 (#20)",
+      "order": 20,
+      "grammarIds": [
+        "bunpou-n3-shika-nai-no-choice",
+        "bunpou-n3-made-even",
+        "bunpou-n3-tokoro-datta",
+        "bunpou-n3-kara-to-itte",
+        "bunpou-n3-toori-ni-doori-ni"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-21",
+      "level": "N3",
+      "title": "Bài 21",
+      "fullName": "Bài 21: Nhóm ngữ pháp trọng tâm N3 (#21)",
+      "order": 21,
+      "grammarIds": [
+        "bunpou-n3-nanka-nante"
       ]
     }
   ],
   "items": [
     {
-      "id": "bunpou-n5-te-mo-ii-desu",
+      "id": "bunpou-n5-wa",
       "level": "N5",
       "unitId": "grammar-n5-unit-01",
-      "title": "〜てもいいですか / 〜てもいいです",
-      "meaning": "Làm ... có được không? / Được phép làm...",
-      "connection": "V-て + もいいです (か)",
-      "usageNotes": "Dùng để xin phép (か) hoặc cho phép ai đó thực hiện hành vi. Thể thường là 〜てもいい.",
+      "title": "〜は",
+      "meaning": "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+      "connection": "Danh từ (N) + は",
+      "usageNotes": "Viết は nhưng phát âm là 'wa'. Nó thiết lập nội dung câu nói; thông tin quan trọng sẽ xuất hiện sau nó.",
       "questionsCount": 5
     },
     {
-      "id": "bunpou-n5-te-wa-ikemasen-basic",
+      "id": "bunpou-n5-ga-subject",
       "level": "N5",
       "unitId": "grammar-n5-unit-01",
-      "title": "〜てはいけません (Cơ bản N5)",
-      "meaning": "Không được làm gì (Cấm đoán cơ bản)",
-      "connection": "V-て + はいけません",
-      "usageNotes": "Diễn tả lời nhắc nhở cấm đoán các hành vi sai quy định trong lớp học, công viên.",
+      "title": "〜が（subject）",
+      "meaning": "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+      "connection": "Danh từ (N) + が",
+      "usageNotes": "Các từ để hỏi như だれ và 何 lấy が, không bao giờ lấy は khi chúng là chủ ngữ. が cũng được dùng với 好き, ほしい, 上手 và わかる để chỉ sự việc thích, mong muốn hoặc được hiểu.",
       "questionsCount": 5
     },
     {
-      "id": "bunpou-n4-te-wa-ikemasen",
+      "id": "bunpou-n5-o",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-01",
+      "title": "〜を",
+      "meaning": "Chỉ đối tượng trực tiếp của hành động",
+      "connection": "Danh từ (N) + を",
+      "usageNotes": "Được viết là を nhưng được phát âm là 'o'. Với các động từ chuyển động như 歩く, 散歩する và 出る nó đánh dấu tuyến đường hoặc địa điểm bị bỏ lại.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ni-time",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-01",
+      "title": "〜に（time）",
+      "meaning": "Vào lúc... (Chỉ mốc thời gian cụ thể)",
+      "connection": "Danh từ (N) + に",
+      "usageNotes": "Được sử dụng với đồng hồ thời gian, ngày, ngày trong tuần và tháng. Các từ tương đối như 今日, 明日, 毎日 và 来週 không có に.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ni-destination",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-01",
+      "title": "〜に（destination）",
+      "meaning": "Đến ; vào (điểm đến của chuyển động)",
+      "connection": "Danh từ (N) + に + 行く / 来る / 帰る",
+      "usageNotes": "Gần nghĩa với へ. に đặt trọng tâm vào điểm đến, へ vào hướng đi.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ni-location",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-02",
+      "title": "〜に（place of existence）",
+      "meaning": "Ở ; Tại; trên (nơi có ai đó hoặc cái gì đó)",
+      "connection": "Danh từ (N) + に + ある / いる",
+      "usageNotes": "Dùng với ある, いる và 住む. Đối với nơi xảy ra hành động (ăn, học, chơi), thay vào đó hãy sử dụng で.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ni-indirect-object",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-02",
+      "title": "〜に（indirect object）",
+      "meaning": "Tới (người nhận hoặc là mục tiêu của một hành động)",
+      "connection": "Danh từ (N) + に",
+      "usageNotes": "Phổ biến với あげる, 貸す, 教える, 見せる, 電話をかける và 会う. Với もらう và 借りる, に đánh dấu người mà bạn nhận được thứ gì đó.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ni-frequency",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-02",
+      "title": "〜に（frequency）",
+      "meaning": "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+      "connection": "Danh từ (N) + に + Danh từ (N)",
+      "usageNotes": "Kinh nguyệt đến trước, sau đó là に, sau đó là số lần: 月に一回 (mỗi tháng một lần).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-e",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-02",
+      "title": "〜へ",
+      "meaning": "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+      "connection": "Danh từ (N) + へ",
+      "usageNotes": "Viết là へ nhưng phát âm là 'e'. Thường có thể hoán đổi với に để chỉ điểm đến; へ nhấn mạnh về hướng hơn một chút.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-de-place",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-02",
+      "title": "〜で（place of action）",
+      "meaning": "Tại, ở... (Chỉ nơi diễn ra hành động)",
+      "connection": "Danh từ (N) + で",
+      "usageNotes": "So sánh 教室にいます (ở đâu đó: に) với 教室で勉強します (làm gì đó ở đó: で).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-de-means",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-03",
+      "title": "〜で（means）",
+      "meaning": "Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)",
+      "connection": "Danh từ (N) + で",
+      "usageNotes": "Để nói 'đi bộ', hãy sử dụng 歩いて行きます thay vì で.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-to-and",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-03",
+      "title": "〜と（and）",
+      "meaning": "Và, với... (Liệt kê đầy đủ hoặc cùng làm với ai)",
+      "connection": "Danh từ (N) + と + Danh từ (N)",
+      "usageNotes": "と liệt kê mọi mục; để đưa ra một số ví dụ, hãy sử dụng や. Nó chỉ nối danh từ, không nối động từ hoặc tính từ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-to-with",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-03",
+      "title": "〜と（with）",
+      "meaning": "Với ; cùng với (một đối tác trong một hành động)",
+      "connection": "Danh từ (N) + と",
+      "usageNotes": "Thường theo sau là いっしょに. Với các động từ như 話す, 会う và 結婚する, と đánh dấu người khác.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ya",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-03",
+      "title": "〜や",
+      "meaning": "Và, như là... (Liệt kê tiêu biểu, không hết)",
+      "connection": "Danh từ (N) + や + Danh từ (N)",
+      "usageNotes": "Đề nghị danh sách chưa đầy đủ. Thường kết thúc bằng など: 本や雑誌など.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ka-or",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-03",
+      "title": "〜か（or）",
+      "meaning": "Hoặc (sự lựa chọn giữa các danh từ)",
+      "connection": "Danh từ (N) + か + Danh từ (N)",
+      "usageNotes": "Có nghĩa là một trong các mục được chọn. Để liệt kê các mục cùng nhau, hãy sử dụng と hoặc や.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-mo",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-04",
+      "title": "〜も",
+      "meaning": "Cũng... (Biểu thị sự tương tự)",
+      "connection": "Danh từ (N) + も",
+      "usageNotes": "も thay thế は, が và を, nhưng đứng sau các trợ từ khác: 京都にも行きました.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-no",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-04",
+      "title": "〜の（possessive）",
+      "meaning": "'s; của (sở hữu, thuộc về hoặc mô tả)",
+      "connection": "Danh từ (N) + の + Danh từ (N)",
+      "usageNotes": "Danh từ đầu tiên mô tả danh từ thứ hai: 日本の車 (một chiếc xe hơi Nhật Bản). Danh từ thứ hai có thể lược bỏ khi rõ ràng: それは私のです.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-kara-from",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-04",
+      "title": "〜から（from）",
+      "meaning": "Từ... (Chỉ điểm bắt đầu không gian, thời gian)",
+      "connection": "Danh từ (N) + から",
+      "usageNotes": "Thường kết hợp với まで: 月曜日から金曜日まで (từ thứ Hai đến thứ Sáu).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-made",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-04",
+      "title": "〜まで（until）",
+      "meaning": "Cho tới khi ; đến ; xa như",
+      "connection": "Danh từ (N) + まで",
+      "usageNotes": "Đánh dấu điểm kết thúc của một cái gì đó vẫn tiếp tục. Đối với thời hạn ('by'), hãy sử dụng までに (N4).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ka-question",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-04",
+      "title": "〜か（question）",
+      "meaning": "(dấu chấm hỏi) chuyển câu thành câu hỏi",
+      "connection": "Sentence + か",
+      "usageNotes": "Các câu hỏi lịch sự kết thúc bằng か và thường được viết bằng 。. Trong lời nói thông thường, か thường được bỏ đi và thay vào đó sử dụng ngữ điệu lên cao.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ne",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-05",
+      "title": "〜ね",
+      "meaning": "...nhỉ, ...nhé (Xác nhận, đồng tình)",
+      "connection": "Sentence + ね",
+      "usageNotes": "Được sử dụng khi người nói mong muốn người nghe chia sẻ cùng quan điểm hoặc kiến ​​thức. So sánh よ, cho người nghe biết điều gì đó mới mẻ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-yo",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-05",
+      "title": "〜よ",
+      "meaning": "...đấy, ...nhé (Cung cấp thông tin mới, nhấn mạnh)",
+      "connection": "Sentence + よ",
+      "usageNotes": "Nói với người nghe điều gì đó mà họ có thể không biết. Việc lạm dụng nó với cấp trên nghe có vẻ tự đề cao.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-yori",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-05",
+      "title": "〜より",
+      "meaning": "Hơn so với... (Dùng trong câu so sánh)",
+      "connection": "Danh từ (N) + より",
+      "usageNotes": "Trong X は Y より + tính từ, Y là tiêu chuẩn. Tính từ tiếng Nhật không có dạng '-er'; より làm công việc đó.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-no-hou-ga-yori",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-05",
+      "title": "〜の方が〜より",
+      "meaning": "X nhiều hơn... hơn Y",
+      "connection": "Danh từ (N) + の方が + Danh từ (N) + より",
+      "usageNotes": "Hai phần có thể đến theo thứ tự. Thường dùng để trả lời câu hỏi どちら.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-to-to-dochira-ga",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-05",
+      "title": "〜と〜とどちらが",
+      "meaning": "Cái nào hơn ..., X hay Y?",
+      "connection": "Danh từ (N) + と + Danh từ (N) + とどちらが",
+      "usageNotes": "So sánh chính xác hai điều. どっち là dạng thông dụng của どちら. Trả lời bằng 〜の方が.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-no-naka-de-ga-ichiban",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-06",
+      "title": "〜の中で〜が一番",
+      "meaning": "... là nhiều nhất ... trong số/của",
+      "connection": "Danh từ (N) + の中で + Danh từ (N) + が一番",
+      "usageNotes": "Được sử dụng cho ba mặt hàng trở lên. Trong câu hỏi sử dụng 何, だれ, どこ hoặc いつ trước が一番.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-desu",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-06",
+      "title": "〜です",
+      "meaning": "Là; là; là (copula lịch sự)",
+      "connection": "Danh từ (N) + です / na-Adj + です / i-Adj + です",
+      "usageNotes": "Các hình thức: です, ではありません, でした, ではありませんでした. Sau tính từ い, です chỉ thêm tính lịch sự: 高いです.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-da",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-06",
+      "title": "〜だ",
+      "meaning": "Là; là; là (copula đơn giản)",
+      "connection": "Danh từ (N) + だ / na-Adj + だ",
+      "usageNotes": "Các dạng: だ, じゃない, だった, じゃなかった. Không bao giờ dùng ngay sau tính từ い (高いだ là sai). Thường rơi vào các câu hỏi thông thường: 学生？",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-de-wa-arimasen-ja-nai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-06",
+      "title": "〜ではありません / 〜じゃない",
+      "meaning": "Không phải vậy; tôi không; không phải",
+      "connection": "Danh từ (N) + ではありません / na-Adj + ではありません / Danh từ (N) + じゃない / na-Adj + じゃない",
+      "usageNotes": "じゃありません và じゃないです là những hình thức đàm thoại lịch sự hơn. Quá khứ: ではありませんでした / じゃなかった. Tính từ い dùng 〜くない thay thế.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-deshita",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-06",
+      "title": "〜でした",
+      "meaning": "Đã ; đã (copula quá khứ lịch sự)",
+      "connection": "Danh từ (N) + でした / na-Adj + でした",
+      "usageNotes": "Quá khứ phủ định: ではありませんでした. Tính từ い không dùng でした: nói 高かったです, không dùng 高いでした.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-masu",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-07",
+      "title": "〜ます",
+      "meaning": "Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)",
+      "connection": "Động từ (V)-stem + ます",
+      "usageNotes": "Bao gồm các thói quen và hành động trong tương lai. 飲む→飲みます, 食べる→食べます, する→します, 来る→来ます.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-masen",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-07",
+      "title": "〜ません",
+      "meaning": "Không; sẽ không (lịch sự phủ định)",
+      "connection": "Động từ (V)-stem + ません",
+      "usageNotes": "Tương đương đơn giản là dạng ない: 飲みません = 飲まない.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-mashita",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-07",
+      "title": "〜ました",
+      "meaning": "Đã làm (quá khứ lịch sự)",
+      "connection": "Động từ (V)-stem + ました",
+      "usageNotes": "Tương đương đơn giản là dạng た: 会いました = 会った.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-masen-deshita",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-07",
+      "title": "〜ませんでした",
+      "meaning": "Đã không (lịch sự quá khứ phủ định)",
+      "connection": "Động từ (V)-stem + ませんでした",
+      "usageNotes": "Tương đương đơn giản là 〜なかった: 食べませんでした = 食べなかった.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-nai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-07",
+      "title": "〜ない",
+      "meaning": "Không; sẽ không (phủ định rõ ràng của động từ)",
+      "connection": "Động từ (V)-nai stem + ない",
+      "usageNotes": "Động từ う đổi âm -u cuối thành -a: 書く→書かない, 買う→買わない. る-động từ thả る: 食べない. する→しない, 来る→こない, ある→ない. Quá khứ: 〜なかった.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ta",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-08",
+      "title": "〜た",
+      "meaning": "Đã làm (quá khứ đơn giản của động từ)",
+      "connection": "Động từ (V)-ta",
+      "usageNotes": "Được làm chính xác như dạng て, với て→た và で→だ: 書いて→書いた, 飲んで→飲んだ, 行って→行った. Tương đương lịch sự: 〜ました.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-mashou",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-08",
+      "title": "〜ましょう",
+      "meaning": "Chúng ta hãy (làm)",
+      "connection": "Động từ (V)-stem + ましょう",
+      "usageNotes": "Được sử dụng khi người nói mong đợi người nghe đồng ý. Để mời nhẹ nhàng hơn, hãy sử dụng 〜ませんか.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-mashou-ka",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-08",
+      "title": "〜ましょうか",
+      "meaning": "Tôi có nên ...?; chúng ta sẽ...?",
+      "connection": "Động từ (V)-stem + ましょうか",
+      "usageNotes": "Đề nghị làm điều gì đó cho người nghe (tôi có nên làm không?) hoặc yêu cầu họ cùng nhau quyết định điều gì đó (chúng ta có làm không?).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-masen-ka",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-08",
+      "title": "〜ませんか",
+      "meaning": "Phải không...?; bạn có muốn...? (lời mời lịch sự)",
+      "connection": "Động từ (V)-stem + ませんか",
+      "usageNotes": "Nhẹ nhàng hơn 〜ましょう vì nó khiến không gian người nghe bị suy giảm. Chấp nhận với ええ、〜ましょう.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-tai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-08",
+      "title": "〜たい",
+      "meaning": "Muốn làm gì đó (Mong muốn của bản thân)",
+      "connection": "Động từ (V)-stem + たい",
+      "usageNotes": "Liên hợp như tính từ い: 〜たくない, 〜たかった. Đối tượng có thể lấy が hoặc を. Không dùng để nói trực tiếp mong muốn của người khác.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ga-hoshii",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-09",
+      "title": "〜がほしい",
+      "meaning": "Muốn (cái gì đó)",
+      "connection": "Danh từ (N) + がほしい",
+      "usageNotes": "Đối với sự vật, không phải hành động (hành động sử dụng 〜たい). Liên hợp như tính từ い: ほしくない, ほしかった.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-o-kudasai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-09",
+      "title": "〜をください",
+      "meaning": "Xin vui lòng cho tôi (cái gì đó); tôi sẽ có",
+      "connection": "Danh từ (N) + をください",
+      "usageNotes": "Được sử dụng khi mua sắm hoặc đặt hàng. Số lượng theo sau を không có tiểu từ: 切手を二枚ください.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-te-kudasai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-09",
+      "title": "〜てください",
+      "meaning": "Xin hãy... / Vui lòng làm gì đó",
+      "connection": "Động từ (V)-te + ください",
+      "usageNotes": "Lịch sự nhưng vẫn là một lời chỉ dẫn mà người nói mong muốn được tuân theo. Yêu cầu nhẹ nhàng hơn sử dụng 〜てくれませんか (N4).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-naide-kudasai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-09",
+      "title": "〜ないでください",
+      "meaning": "Xin đừng... / Không được làm gì đó",
+      "connection": "Động từ (V)-nai + でください",
+      "usageNotes": "Nhẹ nhàng hơn 〜てはいけません. Trong cách nói thông thường ください được lược bỏ: 見ないで.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-te-mo-ii",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-09",
+      "title": "〜てもいい",
+      "meaning": "Có thể... / Được phép làm gì đó (Xin phép & Cho phép)",
+      "connection": "Động từ (V)-te + もいい",
+      "usageNotes": "Thêm ですか để xin phép. Một lời từ chối lịch sự thường chỉ là すみません、ちょっと….",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-te-wa-ikenai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-10",
+      "title": "〜てはいけない",
+      "meaning": "Không được làm gì đó (Cấm đoán)",
+      "connection": "Động từ (V)-te + はいけない",
+      "usageNotes": "Một sự cấm đoán mạnh mẽ, thường dành cho các quy tắc. Hình thức lịch sự: 〜てはいけません. Co rút thông thường: 〜ちゃいけない / 〜じゃいけない.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-nakereba-naranai-nakute-wa-ikenai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-10",
+      "title": "〜なければならない / 〜なくてはいけない",
+      "meaning": "Phải ; phải",
+      "connection": "Động từ (V)-nai stem + なければならない / Động từ (V)-nai stem + なくてはいけない",
+      "usageNotes": "Các hình thức lịch sự kết thúc bằng なりません / いけません. Cả hai đều có nghĩa giống nhau; なければならない nghe có vẻ trang trọng hơn một chút.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-nakute-mo-ii",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-10",
+      "title": "〜なくてもいい",
+      "meaning": "Không cần làm gì đó cũng được",
+      "connection": "Động từ (V)-nai stem + なくてもいい",
+      "usageNotes": "Ngược lại với 〜なければならない. Hỏi với 〜なくてもいいですか (Tôi không hỏi thì có được không?).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-te-iru",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-10",
+      "title": "〜ている",
+      "meaning": "Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
+      "connection": "Động từ (V)-te + いる",
+      "usageNotes": "Với động từ hành động (食べる, 読む) nó thể hiện một hành động đang diễn ra; với động từ thay đổi (結婚する, 開く, 知る) nó hiển thị trạng thái kết quả. Lịch sự: 〜ています.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-te",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-10",
+      "title": "〜て",
+      "meaning": "Và; và sau đó (liên kết các hành động theo thứ tự)",
+      "connection": "Động từ (V)-te + Sentence",
+      "usageNotes": "Động từ cuối cùng thiết lập thì cho cả câu. 書く→書いて, 飲む→飲んで, 話す→話して, 買う→買って, 行く→行って (không đều).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-te-kara",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-11",
+      "title": "〜てから",
+      "meaning": "Sau khi làm; (làm A) rồi đến (B); kể từ khi",
+      "connection": "Động từ (V)-te + から",
+      "usageNotes": "Nhấn mạnh rằng A kết thúc trước khi B bắt đầu, rõ ràng hơn so với て đơn giản. Với ている trong mệnh đề chính nó thường có nghĩa là 'kể từ'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-tari-tari-suru",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-11",
+      "title": "〜たり〜たりする",
+      "meaning": "Nào là... nào là... / Lúc thì... lúc thì...",
+      "connection": "Động từ (V)-ta + り + Động từ (V)-ta + りする",
+      "usageNotes": "Chọn ra một vài hành động từ nhiều hành động. Căng thẳng và lịch sự diễn ra ở phần cuối cùng する: 〜たりしました.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ta-koto-ga-aru",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-11",
+      "title": "〜たことがある",
+      "meaning": "Đã từng làm gì đó (Kinh nghiệm quá khứ)",
+      "connection": "Động từ (V)-ta + ことがある",
+      "usageNotes": "Nói về kinh nghiệm sống chứ không phải việc vừa làm: きのう食べたことがある là sai. Phủ định 〜たことがありません có nghĩa là 'chưa bao giờ'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-mae-ni",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-11",
+      "title": "〜前に",
+      "meaning": "Trước (làm); trước (một sự kiện); trước đây",
+      "connection": "Động từ (V)-dict + 前に / Danh từ (N) + の + 前に",
+      "usageNotes": "Động từ trước 前に luôn ở dạng từ điển, ngay cả khi nói về quá khứ. Với khoảng thời gian dài không có の: 3年前に (ba năm trước).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ato-de",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-11",
+      "title": "〜後で",
+      "meaning": "Sau (làm); sau (một sự kiện)",
+      "connection": "Động từ (V)-ta + 後で / Danh từ (N) + の + 後で",
+      "usageNotes": "Động từ trước 後で luôn ở dạng た, ngay cả đối với những kế hoạch trong tương lai. Bản thân 後で có nghĩa là 'sau'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-nagara",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-12",
+      "title": "〜ながら（while）",
+      "meaning": "While (làm 2 việc cùng lúc)",
+      "connection": "Động từ (V)-stem + ながら",
+      "usageNotes": "Cả hai hành động đều được thực hiện bởi cùng một người. Hành động chính diễn ra sau cùng: trong A-ながら B, B là hành động chính.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ni-iku",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-12",
+      "title": "〜に行く",
+      "meaning": "Đi (nơi nào đó) để làm",
+      "connection": "Động từ (V)-stem + に行く / Danh từ (N) + に行く",
+      "usageNotes": "来る và 帰る hoạt động giống nhau: 遊びに来る. Với danh từ する, danh từ có thể đi trực tiếp: 買い物に行く, 散歩に行く.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ga-suki-ga-kirai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-12",
+      "title": "〜が好き / 〜が嫌い",
+      "meaning": "Thích; không thích",
+      "connection": "Danh từ (N) + が好き / Danh từ (N) + が嫌い / Động từ (V)-dict + の + が好き",
+      "usageNotes": "好き và 嫌い là tính từ な, nên từ thích dùng が, không phải を. 大好き và 大嫌い mạnh hơn. 嫌い nghe có vẻ thẳng thừng; あまり好きじゃない thì nhẹ nhàng hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ga-jouzu-ga-heta",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-12",
+      "title": "〜が上手 / 〜が下手",
+      "meaning": "Giỏi ; tệ ở",
+      "connection": "Danh từ (N) + が上手 / Danh từ (N) + が下手",
+      "usageNotes": "Chủ yếu được sử dụng về người khác; tự gọi mình là 上手 nghe có vẻ giống như khoe khoang. Cả hai đều là tính từ な: 料理が上手な人.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ga-aru-ga-iru",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-12",
+      "title": "〜がある / 〜がいる",
+      "meaning": "Có; có; có (ある cho đồ vật, いる cho người và động vật)",
+      "connection": "Danh từ (N) + がある / Danh từ (N) + がいる",
+      "usageNotes": "ある dùng để chỉ đồ vật, thực vật và sự kiện; いる dành cho người và động vật. Phủ định: ない / いない (lịch sự: ありません / いません).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-kara-reason",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-13",
+      "title": "〜から（reason）",
+      "meaning": "Vì... nên... (Nguyên nhân, lý do)",
+      "connection": "Sentence + から",
+      "usageNotes": "Lý do đến trước: A から B (A, vậy B). Trả lời どうして bằng 〜からです. Danh từ và tính từ な cần だ: 雨だから.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ga-but",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-13",
+      "title": "〜が（but）",
+      "meaning": "Nhưng; mặc dù",
+      "connection": "Sentence + が",
+      "usageNotes": "Cũng được sử dụng chỉ để làm dịu đi một yêu cầu hoặc dẫn dắt vào một chủ đề: すみませんが…. Trang trọng hơn một chút so với けど (N4).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-deshou",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-13",
+      "title": "〜でしょう",
+      "meaning": "Có lẽ là... (Phỏng đoán lịch sự)",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + でしょう",
+      "usageNotes": "Điển hình của dự báo thời tiết. Nói với ngữ điệu lên cao, nó yêu cầu người nghe đồng ý. Dạng thông thường: だろう (N4).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ku-naru-ni-naru",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-13",
+      "title": "〜くなる / 〜になる",
+      "meaning": "Trở nên; lấy; rẽ",
+      "connection": "i-Adj-ku + なる / na-Adj + になる / Danh từ (N) + になる",
+      "usageNotes": "いい trở thành よくなる. Thường được dùng trong quá khứ để mô tả một sự thay đổi đã xảy ra: 大きくなりました.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ni-suru",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-13",
+      "title": "〜にする（decide）",
+      "meaning": "Quyết định; chọn; tôi sẽ có",
+      "connection": "Danh từ (N) + にする",
+      "usageNotes": "Phổ biến khi đặt món ăn hoặc chọn từ các tùy chọn. Quá khứ: 〜にしました (Tôi đã quyết định về...).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-mada-te-inai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-14",
+      "title": "まだ〜ていない",
+      "meaning": "Chưa (đã làm)",
+      "connection": "まだ + Động từ (V)-te + いない / まだ + Động từ (V)-te + いません",
+      "usageNotes": "Sử dụng ていない, không phải ませんでした, cho một điều gì đó vẫn có thể xảy ra. Câu trả lời ngắn gọn là いいえ、まだです.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-mou-ta",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-14",
+      "title": "もう〜た",
+      "meaning": "Đã (đã làm); (trong câu hỏi) chưa",
+      "connection": "もう + Động từ (V)-ta / もう + Động từ (V)-stem + ました",
+      "usageNotes": "Trong câu hỏi もう có nghĩa là 'chưa'. Với động từ phủ định, もう có nghĩa là 'không còn nữa': もう食べません.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-amari-nai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-14",
+      "title": "あまり〜ない",
+      "meaning": "Không hẳn; không nhiều; không thường xuyên",
+      "connection": "あまり + Động từ (V)-nai / あまり + i-Adj-ku + ない / あまり + na-Adj + じゃない",
+      "usageNotes": "Luôn theo sau là dạng phủ định. あまり好きじゃない là một cách nhẹ nhàng hơn để nói rằng bạn không thích điều gì đó.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-zenzen-nai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-14",
+      "title": "全然〜ない",
+      "meaning": "Không hề; không ít nhất",
+      "connection": "全然 + Động từ (V)-nai / 全然 + i-Adj-ku + ない / 全然 + na-Adj + じゃない",
+      "usageNotes": "Mạnh hơn あまり〜ない. Trong lời nói thông thường, 全然 đôi khi được sử dụng với những từ tích cực (全然大丈夫), nhưng với từ phủ định là cách sử dụng tiêu chuẩn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-dake",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-14",
+      "title": "〜だけ",
+      "meaning": "Chỉ; chỉ",
+      "connection": "Danh từ (N) + だけ / Động từ (V)-dict + だけ",
+      "usageNotes": "Giọng điệu trung tính. So sánh しか〜ない (N4), nhấn mạnh rằng số lượng là nhỏ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-kurai-gurai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-15",
+      "title": "〜くらい / 〜ぐらい（approximately）",
+      "meaning": "Về ; khoảng (một lượng hoặc một khoảng thời gian)",
+      "connection": "Danh từ (N) + くらい / Danh từ (N) + ぐらい",
+      "usageNotes": "Được sử dụng với số lượng và thời lượng. Đối với một thời điểm (khoảng ba giờ), hãy sử dụng ごろ: 3時ごろ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-goro",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-15",
+      "title": "〜ごろ",
+      "meaning": "Xung quanh; về (một thời điểm)",
+      "connection": "Danh từ (N) + ごろ",
+      "usageNotes": "Gắn vào đồng hồ thời gian, ngày tháng. に sau ごろ là tùy chọn: 7時ごろ(に)起きます.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-nani-mo-nai-dare-mo-nai",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-15",
+      "title": "何も〜ない / 誰も〜ない",
+      "meaning": "Không có gì; không ai; không phải bất cứ điều gì; không phải ai cả",
+      "connection": "何も + Động từ (V)-nai / 誰も + Động từ (V)-nai",
+      "usageNotes": "Với địa điểm, trợ từ đứng trước も: どこにも / どこへも行きません (không đi đến đâu). 誰 thường được viết bằng hiragana: だれ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-nani-ka-dare-ka-doko-ka",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-15",
+      "title": "何か / 誰か / どこか",
+      "meaning": "Cái gì đó; người nào đó; ở đâu đó",
+      "connection": "Question word + か",
+      "usageNotes": "Từ để hỏi + か cho từ 'some-'; từ để hỏi + も + phủ định cho từ 'không-'. が và を sau 何か / だれか thường bị lược bỏ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-kore-sore-are-dore",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-15",
+      "title": "これ / それ / あれ / どれ",
+      "meaning": "Cái này; cái đó (gần bạn); cái đó (ở đằng kia); cái nào",
+      "connection": "これ / それ / あれ / どれ",
+      "usageNotes": "こ = ở gần người nói, そ = ở gần người nghe, あ = ở xa cả hai, ど = câu hỏi. Họ đứng một mình; làm chủ ngữ どれ lấy が, không phải は.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-kono-sono-ano-dono",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-16",
+      "title": "この / その / あの / どの",
+      "meaning": "Cái này; cái đó (gần bạn); cái đó... đằng kia; cái nào (trước danh từ)",
+      "connection": "この / その / あの / どの + Danh từ (N)",
+      "usageNotes": "Luôn theo sau bởi một danh từ: この本, không bao giờ この đứng một mình. これ / それ / あれ / どれ được sử dụng khi không có danh từ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-koko-soko-asoko-doko",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-16",
+      "title": "ここ / そこ / あそこ / どこ",
+      "meaning": "Ở đây; ở đó (gần bạn); ở đằng kia; ở đâu",
+      "connection": "ここ / そこ / あそこ / どこ",
+      "usageNotes": "こちら / そちら / あちら / どちら là phiên bản lịch sự hơn: お国はどちらですか (Bạn đến từ đâu?).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-ku-nai-katta-ku-nakatta",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-16",
+      "title": "〜くない / 〜かった / 〜くなかった",
+      "meaning": "Các dạng phủ định và quá khứ của tính từ i (is not; was; was not)",
+      "connection": "i-Adj stem + くない / i-Adj stem + かった / i-Adj stem + くなかった",
+      "usageNotes": "高い→高くない, 高かった, 高くなかった. Thêm です để lịch sự. いい là không đều: よくない, よかった, よくなかった.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-na-na-adjective",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-16",
+      "title": "〜な（na-adjective）",
+      "meaning": "Tính từ na: đặt な trước danh từ và です hoặc だ ở cuối câu",
+      "connection": "na-Adj + な + Danh từ (N) / na-Adj + です / na-Adj + ではありません / na-Adj + でした",
+      "usageNotes": "Trước danh từ, thêm な: 静かな部屋. Ở cuối câu chúng thay đổi như danh từ. きれい và きらい kết thúc bằng い nhưng là tính từ な.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-kute-de",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-16",
+      "title": "〜くて / 〜で",
+      "meaning": "Và (nối tính từ hoặc danh từ)",
+      "connection": "i-Adj-ku + て / na-Adj + で / Danh từ (N) + で",
+      "usageNotes": "いい trở thành よくて. Kết hợp những phẩm chất chỉ ra cùng một hướng (cả tốt hoặc cả xấu); để tương phản, hãy sử dụng が thay thế.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-to-iu-named",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-17",
+      "title": "〜という（named）",
+      "meaning": "Gọi điện; đặt tên",
+      "connection": "Danh từ (N) + という + Danh từ (N)",
+      "usageNotes": "Giới thiệu một cái tên mà người nghe có thể không biết.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-ageru-kureru-morau",
       "level": "N4",
       "unitId": "grammar-n4-unit-01",
-      "title": "〜てはいけません / 〜てはいけない",
-      "meaning": "Không được làm gì (Cấm đoán nâng cao & Thể ngắn)",
-      "connection": "V-て + はいけません / はいけない",
-      "usageNotes": "Diễn tả sự cấm đoán mạnh mẽ trong nội quy, biển báo pháp luật hoặc lời dặn của bác sĩ.",
+      "title": "あげる / くれる / もらう",
+      "meaning": "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+      "connection": "Danh từ (N) (receiver) + に + Danh từ (N) + を + あげる / Danh từ (N) (giver) + が + Danh từ (N) + を + くれる / Danh từ (N) (giver) + に + Danh từ (N) + を + もらう",
+      "usageNotes": "くれる chỉ được sử dụng khi người nhận là người nói hoặc ai đó trong nhóm người nói. Với もらう người tặng có thể được đánh dấu bằng に hoặc から.",
       "questionsCount": 5
     },
     {
-      "id": "bunpou-n4-nakereba-naranai",
+      "id": "bunpou-n4-te-ageru",
       "level": "N4",
       "unitId": "grammar-n4-unit-01",
-      "title": "〜なければならない / 〜なければなりません",
-      "meaning": "Phải làm gì đó (Bắt buộc / Bổn phận)",
-      "connection": "V-ない (bỏ い) + ければならない",
-      "usageNotes": "Diễn tả nghĩa vụ pháp luật hoặc hoàn cảnh bắt buộc không thể không làm.",
+      "title": "〜てあげる",
+      "meaning": "Làm gì đó giúp cho ai...",
+      "connection": "Động từ (V)-te + あげる",
+      "usageNotes": "Nói thẳng với cấp trên nghe có vẻ trịch thượng; thay vào đó hãy sử dụng お〜しましょうか (お持ちしましょうか) khiêm tốn.",
       "questionsCount": 5
     },
     {
-      "id": "bunpou-n4-ta-koto-ga-aru",
+      "id": "bunpou-n4-te-kureru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-01",
+      "title": "〜てくれる",
+      "meaning": "Ai đó làm giúp việc gì cho mình...",
+      "connection": "Động từ (V)-te + くれる",
+      "usageNotes": "Chủ ngữ là người làm việc giúp đỡ; người được lợi là người nói hoặc người thân thiết với họ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-morau",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-01",
+      "title": "〜てもらう",
+      "meaning": "Được ai đó làm giúp cho việc gì...",
+      "connection": "Động từ (V)-te + もらう",
+      "usageNotes": "Người nhận sự giúp đỡ là chủ ngữ và người thực hiện hành động được đánh dấu bằng に.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-kudasaru-te-itadaku",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-01",
+      "title": "〜てくださる / 〜ていただく",
+      "meaning": "(kính trọng) ai đó tử tế làm cho tôi; (khiêm tốn) Tôi nhận được sự ưu ái của ai đó làm",
+      "connection": "Động từ (V)-te + くださる / Động từ (V)-te + いただく",
+      "usageNotes": "くださる là phiên bản kính ngữ của くれる (ます-dạng: くださいます); いただく là phiên bản khiêm tốn của もらう.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-iku",
       "level": "N4",
       "unitId": "grammar-n4-unit-02",
-      "title": "〜たことがある / 〜たことがありません",
-      "meaning": "Đã từng / Chưa từng làm gì (Kinh nghiệm quá khứ)",
-      "connection": "V-た + ことがある / ない",
-      "usageNotes": "Diễn tả trải nghiệm từng trải qua trong quá khứ tính đến thời điểm nói.",
+      "title": "〜ていく",
+      "meaning": "Làm điều gì đó rồi đi; tiếp tục làm (từ bây giờ đến tương lai)",
+      "connection": "Động từ (V)-te + いく",
+      "usageNotes": "Chuyển động hoặc thay đổi khỏi người nói, hoặc từ hiện tại hướng tới tương lai. So sánh 〜てくる.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-kuru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-02",
+      "title": "〜てくる",
+      "meaning": "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+      "connection": "Động từ (V)-te + くる",
+      "usageNotes": "Sự chuyển động hoặc thay đổi hướng về phía người nói, hoặc từ quá khứ đến hiện tại. 行ってきます nghĩa đen là 'Tôi sẽ đi và quay lại.'",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-shimau-chau",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-02",
+      "title": "〜てしまう / 〜ちゃう",
+      "meaning": "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+      "connection": "Động từ (V)-te + しまう",
+      "usageNotes": "Trong lời nói, 〜てしまう hợp âm thành 〜ちゃう, và 〜でしまう thành 〜じゃう (飲んじゃう).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-oku",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-02",
+      "title": "〜ておく",
+      "meaning": "Làm sẵn gì đó trước (Chuẩn bị)",
+      "connection": "Động từ (V)-te + おく",
+      "usageNotes": "Trong cách nói thông thường 〜ておく thường trở thành 〜とく (買っとく), và 〜でおく trở thành 〜どく (読んどく).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-miru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-02",
+      "title": "〜てみる",
+      "meaning": "Thử làm gì đó...",
+      "connection": "Động từ (V)-te + みる",
+      "usageNotes": "Có nghĩa là thử làm việc gì đó để xem kết quả, không nỗ lực làm việc gì khó khăn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-aru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-03",
+      "title": "〜てある",
+      "meaning": "Đã được thực hiện (và vẫn như vậy); trạng thái kết quả của một hành động có chủ ý",
+      "connection": "Động từ (V)-te + ある",
+      "usageNotes": "Được sử dụng với động từ chuyển tiếp và tân ngữ thường dùng が. Nó ngụ ý ai đó đã cố tình làm điều đó, không giống như 〜ている với nội động từ (窓が開いている).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-toki",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-03",
+      "title": "〜とき",
+      "meaning": "Khi nào; vào thời điểm khi",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + とき",
+      "usageNotes": "Thì của động từ thể hiện thứ tự: 行くとき nghĩa là trước hoặc trên đường (việc đi vẫn chưa kết thúc); 行ったとき có nghĩa là sau khi đến nơi. Thường được viết 時 bằng chữ Hán.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-aida-aida-ni",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-03",
+      "title": "〜間 / 〜間に",
+      "meaning": "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+      "connection": "Động từ (V)-te + いる / Động từ (V)-dict / Danh từ (N) + の + 間（に）",
+      "usageNotes": "間 có nghĩa là hành động tiếp tục trong suốt thời gian; 間に có nghĩa là nó xảy ra vào một thời điểm nào đó trong một khoảng thời gian.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-sou-da-appearance",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-03",
+      "title": "〜そうだ（appearance）",
+      "meaning": "Trông giống như; có vẻ ; có vẻ sắp",
+      "connection": "Động từ (V)-stem / i-Adj stem / na-Adj + そうだ",
+      "usageNotes": "Một sự phán xét từ những gì bạn nhìn thấy. いい → よさそう, ない → なさそう. Không dùng với tính từ chỉ những đặc điểm rõ ràng (赤い, かわいい); かわいそう có nghĩa là 'đáng thương'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-sou-da-hearsay",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-03",
+      "title": "〜そうだ（hearsay）",
+      "meaning": "Nghe nói là... (Truyền đạt lại thông tin)",
+      "connection": "Động từ (V)-plain / i-Adj + そうだ / na-Adj + だ + そうだ / Danh từ (N) + だ + そうだ",
+      "usageNotes": "Gắn vào các dạng đơn giản hoàn toàn, không giống như 'trông giống' そうだ, gắn vào thân cây. Nó không có hình thức quá khứ hoặc tiêu cực.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-rashii",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-04",
+      "title": "〜らしい（hearsay/conjecture）",
+      "meaning": "Rõ ràng; có vẻ như; tôi nghe thấy",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + らしい",
+      "usageNotes": "Dựa vào nội dung đã nghe hoặc đọc nên loa phát ra âm thanh hơi tách biệt. 'Điển hình' らしい (男らしい) là một điểm N3 riêng biệt.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-you-da",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-04",
+      "title": "〜ようだ",
+      "meaning": "Có vẻ như; nó xuất hiện (đánh giá từ bằng chứng)",
+      "connection": "Động từ (V)-plain / i-Adj + ようだ / na-Adj + な + ようだ / Danh từ (N) + の + ようだ",
+      "usageNotes": "Một cách hơi trang trọng để đưa ra đánh giá dựa trên những gì bạn quan sát hoặc cảm nhận; みたいだ là từ tương đương thông thường. Việc sử dụng 'like, as if' được đề cập ở N3.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-mitai",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-04",
+      "title": "〜みたい",
+      "meaning": "Có vẻ như; trông giống như; thích (thông thường)",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + みたい",
+      "usageNotes": "Thông thường tương đương với ようだ. Nó gắn trực tiếp vào danh từ và tính từ na (静かみたい) mà không cần な hoặc の. Trước danh từ nó trở thành みたいな.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-sugiru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-04",
+      "title": "〜すぎる",
+      "meaning": "Quá... (Vượt quá mức bình thường)",
+      "connection": "Động từ (V)-stem / i-Adj stem / na-Adj + すぎる",
+      "usageNotes": "Liên hợp như động từ Nhóm 2 (すぎた, すぎて). いい → よすぎる và tính từ ない → なさすぎる.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-kata",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-04",
+      "title": "〜方",
+      "meaning": "Làm thế nào để; cách làm",
+      "connection": "Động từ (V)-stem + 方",
+      "usageNotes": "Kết quả là một danh từ nên tân ngữ lấy の thay vì を (日本語の話し方). Với động từ する: 勉強のしかた.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-chuu-juu",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-05",
+      "title": "〜中",
+      "meaning": "Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)",
+      "connection": "Danh từ (N) + 中",
+      "usageNotes": "ちゅう đánh dấu một hoạt động đang diễn ra hoặc một khoảng thời gian (会議中, 午前中, 今週中); じゅう có nghĩa là 'xuyên suốt' một thời gian hoặc địa điểm (一日中, 世界中).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-tsumori",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-05",
+      "title": "〜つもり",
+      "meaning": "Dự định làm gì đó",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + つもり",
+      "usageNotes": "Nêu rõ ý định cá nhân chắc chắn. 〜つもりはない có nghĩa là 'không có ý định'. Hỏi cấp trên 〜つもりですか nghe có vẻ thẳng thừng.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-yotei",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-05",
+      "title": "〜予定",
+      "meaning": "Theo kế hoạch làm gì đó",
+      "connection": "Động từ (V)-dict + 予定 / Danh từ (N) + の + 予定",
+      "usageNotes": "Đề cập đến một lịch trình hoặc sự sắp xếp cố định, thường có sự tham gia của người khác; khách quan hơn つもり.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-koto-ni-suru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-05",
+      "title": "〜ことにする",
+      "meaning": "Quyết định làm gì đó...",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + ことにする",
+      "usageNotes": "Một quyết định của người nói; so sánh 〜ことになる. 〜ことにしている (N3) có nghĩa là 'đặt nó thành quy tắc'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-koto-ni-naru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-05",
+      "title": "〜ことになる",
+      "meaning": "Điều đó đã được quyết định; hóa ra là thế",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + ことになる",
+      "usageNotes": "Trình bày một quyết định được đưa ra bởi người khác hoặc bởi hoàn cảnh. Mọi người cũng sử dụng nó cho các quyết định của riêng họ để có vẻ ít quyết đoán hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-koto-ga-dekiru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-06",
+      "title": "〜ことができる",
+      "meaning": "Có thể; có thể ; có thể",
+      "connection": "Động từ (V)-dict + ことができる",
+      "usageNotes": "Trang trọng hơn một chút so với hình thức tiềm năng. Cũng được dùng cho những việc có thể hoặc được phép (ここでたばこを吸うことはできません).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-eru-rareru-potential",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-06",
+      "title": "〜える / 〜られる（potential）",
+      "meaning": "Có thể; có thể (dạng tiềm năng)",
+      "connection": "Động từ (V)-dict (Group 1: final u → e) + る / Động từ (V)-nai stem + られる (Group 2)",
+      "usageNotes": "Bất quy tắc: する → できる, 来る → 来られる. Tân ngữ thường lấy が thay vì を. Trong lời nói thông thường, động từ Nhóm 2 thường bỏ ら (見れる).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-reru-rareru-passive",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-06",
+      "title": "〜れる / 〜られる（passive）",
+      "meaning": "Được thực hiện (bởi ai đó); giọng nói thụ động",
+      "connection": "Động từ (V)-nai stem + れる (Group 1) / Động từ (V)-nai stem + られる (Group 2)",
+      "usageNotes": "Bất quy tắc: する → される, 来る → 来られる. Người thực hiện được đánh dấu bằng に. Thường thể hiện rằng đối tượng gặp rắc rối trước hành động của ai đó (雨に降られた).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-seru-saseru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-06",
+      "title": "〜せる / 〜させる",
+      "meaning": "Bắt ai đó làm gì; để ai đó làm (nguyên nhân)",
+      "connection": "Động từ (V)-nai stem + せる (Group 1) / Động từ (V)-nai stem + させる (Group 2)",
+      "usageNotes": "Bất quy tắc: する → させる, 来る → 来させる. Với nội động từ người ta dùng を; với động từ chuyển tiếp, に. Bối cảnh quyết định 'làm' hoặc 'cho phép'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-serareru-saserareru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-06",
+      "title": "〜せられる / 〜させられる",
+      "meaning": "Bị buộc phải làm (trái với ý muốn của ai đó)",
+      "connection": "Động từ (V)-nai stem + せられる (Group 1; short form される) / Động từ (V)-nai stem + させられる (Group 2)",
+      "usageNotes": "Bất quy tắc: する → させられる, 来る → 来させられる. Dạng ngắn Nhóm 1 (待たされる) phổ biến trong lời nói, nhưng không phổ biến với các động từ kết thúc bằng す (話させられる).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-ou-you",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-07",
+      "title": "〜おう / 〜よう",
+      "meaning": "Hãy (thông thường); Tôi sẽ (dạng ý chí)",
+      "connection": "Động từ (V)-dict (Group 1: final u → o) + う / Động từ (V)-stem + よう (Group 2)",
+      "usageNotes": "Bất quy tắc: する → しよう, 来る → 来よう. Tương đương với 〜ましょう.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-you-to-omou",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-07",
+      "title": "〜(よ)うと思う",
+      "meaning": "Đang nghĩ đến việc làm; lên kế hoạch",
+      "connection": "Động từ (V)-volitional + と思う",
+      "usageNotes": "〜と思う thường báo cáo một quyết định vừa được đưa ra; 〜と思っている thể hiện một kế hoạch được thực hiện trong một thời gian. Nhẹ nhàng hơn つもり.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-e-ro",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-07",
+      "title": "〜え / 〜ろ",
+      "meaning": "Làm điều đó! (dạng mệnh lệnh; mệnh lệnh thẳng thừng)",
+      "connection": "Động từ (V)-dict (Group 1: final u → e) / Động từ (V)-stem + ろ (Group 2)",
+      "usageNotes": "Bất quy tắc: する → しろ, 来る → 来い, くれる → くれ. Rất thẳng thừng; chủ yếu được nghe từ nam giới, trên các biển báo, trong trường hợp khẩn cấp và trong tiếng cổ vũ (がんばれ).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-na-prohibition",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-07",
+      "title": "〜な（prohibition）",
+      "meaning": "Đừng! (cấm mạnh)",
+      "connection": "Động từ (V)-dict + な",
+      "usageNotes": "Rất mạnh mẽ và thẳng thừng. Đừng nhầm lẫn nó với đuôi câu な diễn tả cảm xúc (いいな).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-nasai",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-07",
+      "title": "〜なさい",
+      "meaning": "Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)",
+      "connection": "Động từ (V)-stem + なさい",
+      "usageNotes": "Nhẹ nhàng hơn dạng mệnh lệnh nhưng vẫn mang tính chỉ dẫn chắc chắn; được phụ huynh, giáo viên và trong các buổi hướng dẫn thi cử, không bao giờ hướng tới cấp trên.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-ba",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-08",
+      "title": "〜ば",
+      "meaning": "Nếu... (Điều kiện giả định thể Ba)",
+      "connection": "Động từ (V)-ba / i-Adj stem + ければ / na-Adj + なら / Danh từ (N) + なら",
+      "usageNotes": "Tập trung vào điều kiện cần thiết để đạt được kết quả. Khi mệnh đề chính là một yêu cầu hoặc lời mời, たら thường tự nhiên hơn trừ khi mệnh đề ば là một trạng thái (ある, いる, tính từ).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-tara",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-08",
+      "title": "〜たら",
+      "meaning": "Nếu / Sau khi... (Điều kiện giả định thể Tara)",
+      "connection": "Động từ (V)-ta + ら / i-Adj stem + かったら / na-Adj + だったら / Danh từ (N) + だったら",
+      "usageNotes": "Câu điều kiện linh hoạt nhất và rất phổ biến trong lời nói. Với những sự kiện chắc chắn sẽ xảy ra, nó có nghĩa là 'khi/sau'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-nara",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-08",
+      "title": "〜なら",
+      "meaning": "Nếu là... / Trong trường hợp... (Điều kiện Nara)",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + なら",
+      "usageNotes": "Tiếp thu những gì người nghe đã nói hoặc một tình huống được cho là đúng, sau đó đưa ra lời khuyên hoặc ý kiến. Không giống như たら, hành động chính có thể xảy ra trước mệnh đề なら.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-to",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-08",
+      "title": "〜と（conditional）",
+      "meaning": "Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai / i-Adj + と / na-Adj + だ + と / Danh từ (N) + だ + と",
+      "usageNotes": "Để có kết quả tự nhiên, cách máy móc hoạt động, hướng dẫn và thói quen. Mệnh đề chính không thể là một yêu cầu, mong muốn hay lời mời.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-mo-de-mo",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-08",
+      "title": "〜ても / 〜でも",
+      "meaning": "Ngay cả khi; mặc dù",
+      "connection": "Động từ (V)-te + も / i-Adj-ku + ても / na-Adj + でも / Danh từ (N) + でも",
+      "usageNotes": "Với từ để hỏi hoặc いくら nó có nghĩa là 'không có vấn đề gì ...' (何を食べても, いくら待っても).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-noni-although",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-09",
+      "title": "〜のに（although）",
+      "meaning": "Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)",
+      "connection": "Động từ (V)-plain / i-Adj + のに / na-Adj + な + のに / Danh từ (N) + な + のに",
+      "usageNotes": "Mang đến sự ngạc nhiên, thất vọng hoặc phàn nàn. Mệnh đề chính không thể là một yêu cầu hay ý định; sử dụng けど hoặc ても ở đó.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-noni-purpose",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-09",
+      "title": "〜のに（purpose）",
+      "meaning": "Vì; để (với việc sử dụng, thời gian hoặc chi phí)",
+      "connection": "Động từ (V)-dict + のに / Danh từ (N) + に",
+      "usageNotes": "Thường theo sau là các từ như 使う, いい, 便利, 必要 hoặc かかる. Với danh từ, chỉ dùng に (旅行に便利).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-node",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-09",
+      "title": "〜ので",
+      "meaning": "Bởi vì ; kể từ khi",
+      "connection": "Động từ (V)-plain / i-Adj + ので / na-Adj + な + ので / Danh từ (N) + な + ので",
+      "usageNotes": "Nghe nhẹ nhàng và khách quan hơn から nên nó được ưa chuộng hơn khi đưa ra lý do một cách lịch sự hoặc khi xin lỗi.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-reason",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-09",
+      "title": "〜て（reason）",
+      "meaning": "Bởi vì ; vì vậy (gây ra một cảm giác hoặc trạng thái)",
+      "connection": "Động từ (V)-te / i-Adj stem + くて / na-Adj + で / Danh từ (N) + で",
+      "usageNotes": "Phần thứ hai thường là cảm giác, hình thức tiềm ẩn hoặc kết quả, không phải là yêu cầu hay ý định (dùng から hoặc ので cho những điều đó). Phủ định: 〜なくて (会えなくて寂しい).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-shi",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-09",
+      "title": "〜し",
+      "meaning": "Và hơn thế nữa; và bên cạnh đó (liệt kê lý do)",
+      "connection": "Động từ (V)-plain / i-Adj + し / na-Adj + だ + し / Danh từ (N) + だ + し",
+      "usageNotes": "Liệt kê một số lý do hoặc điểm. Một chữ し gợi ý rằng còn có những lý do khác.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-kedo-keredomo",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-10",
+      "title": "〜けど / 〜けれども",
+      "meaning": "Nhưng; mặc dù; (đầu vào mềm)",
+      "connection": "Sentence + けど / けれども",
+      "usageNotes": "Mang tính trò chuyện nhiều hơn が; けれども trang trọng hơn けど một chút. Thường được sử dụng như một lời mở đầu nhẹ nhàng trước một câu hỏi hoặc yêu cầu.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-tame-ni",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-10",
+      "title": "〜ために",
+      "meaning": "Để làm gì / Vì nguyên nhân gì...",
+      "connection": "Động từ (V)-dict / Động từ (V)-ta / Danh từ (N) + の + ために",
+      "usageNotes": "Vì mục đích, động từ phải là thứ mà chủ ngữ có thể kiểm soát được (so sánh 〜ように). Việc sử dụng 'vì' nghe có vẻ khá trang trọng.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-you-ni",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-10",
+      "title": "〜ように（purpose）",
+      "meaning": "Vậy đó ; theo thứ tự đó",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + ように",
+      "usageNotes": "Dùng với các động từ mà chủ ngữ không thể trực tiếp điều khiển: dạng tiềm năng, 分かる, 見える, phủ định. Với những hành động có chủ ý, hãy sử dụng ために.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-you-ni-suru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-10",
+      "title": "〜ようにする",
+      "meaning": "Cố gắng tạo thói quen làm gì...",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + ようにする",
+      "usageNotes": "〜ようにしている mô tả một thói quen mà bạn duy trì. So sánh 〜ようになる, một sự thay đổi xảy ra.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-you-ni-naru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-10",
+      "title": "〜ようになる",
+      "meaning": "Trở nên có thể làm gì (Thay đổi trạng thái)",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + ようになる",
+      "usageNotes": "Thường được sử dụng với các động từ tiềm năng. Đối với 'không còn nữa', 〜なくなる thường tự nhiên hơn 〜ないようになる.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-hoshii",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-11",
+      "title": "〜てほしい",
+      "meaning": "Muốn ai đó làm gì",
+      "connection": "Động từ (V)-te + ほしい / Động từ (V)-nai + で + ほしい",
+      "usageNotes": "Người bạn muốn hành động được đánh dấu bằng に. Nói với cấp trên điều đó nghe có vẻ khắt khe; 〜ていただきたいです lịch sự hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-tagaru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-11",
+      "title": "〜たがる",
+      "meaning": "(người khác) muốn",
+      "connection": "Động từ (V)-stem + たがる",
+      "usageNotes": "Dùng cho người khác, vì bạn không thể trực tiếp biết được mong muốn của họ. Mong muốn hiện tại thường được thể hiện bằng 〜たがっている.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-garu",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-11",
+      "title": "〜がる",
+      "meaning": "(người khác) cảm thấy; có dấu hiệu cảm giác",
+      "connection": "i-Adj stem / na-Adj + がる",
+      "usageNotes": "Chuyển các tính từ cảm giác (怖い, 寂しい, ほしい) thành động từ mô tả cảm giác của người khác. Đối tượng của cảm giác lấy を.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-kamo-shirenai",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-11",
+      "title": "〜かもしれない",
+      "meaning": "Có lẽ, có thể sẽ... (Phỏng đoán 50%)",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + かもしれない",
+      "usageNotes": "Chắc chắn khoảng 50% hoặc ít hơn. Trong cách nói thông thường, nó thường được rút ngắn thành かも.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-darou",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-11",
+      "title": "〜だろう",
+      "meaning": "Có lẽ; Tôi cho rằng (dạng đơn giản của でしょう)",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + だろう",
+      "usageNotes": "Phổ biến trong văn viết và lời nói thông thường của nam giới; でしょう là hình thức lịch sự. Thường dùng với たぶん hoặc きっと, hoặc như 〜だろうと思う.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-hazu-da",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-12",
+      "title": "〜はずだ",
+      "meaning": "Nên thế; dự kiến (dựa trên lý luận)",
+      "connection": "Động từ (V)-plain / i-Adj + はずだ / na-Adj + な + はずだ / Danh từ (N) + の + はずだ",
+      "usageNotes": "Một kỳ vọng tự tin dựa trên sự thật hoặc logic, không phải là phỏng đoán. Nó không có nghĩa là 'nên' như một nghĩa vụ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-hazu-ga-nai",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-12",
+      "title": "〜はずがない",
+      "meaning": "Không thể được; không có cách nào đó",
+      "connection": "Động từ (V)-plain / i-Adj + はずがない / na-Adj + な + はずがない / Danh từ (N) + の + はずがない",
+      "usageNotes": "Phủ nhận mạnh mẽ dựa trên lý luận. 〜ないはずだ ('không nên') là một sự mong đợi nhẹ nhàng hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-n-desu-no-desu",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-12",
+      "title": "〜んです / 〜のです",
+      "meaning": "Chính là...; (giải thích hoặc yêu cầu giải thích)",
+      "connection": "Động từ (V)-plain / i-Adj + んです / na-Adj + な + んです / Danh từ (N) + な + んです",
+      "usageNotes": "Thêm ý nghĩa giải thích một tình huống hoặc hỏi thông tin cơ bản. Các hình thức thông thường là 〜んだ và 〜の. Việc sử dụng quá mức nó có thể nghe có vẻ tự đề cao.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-ka-dou-ka",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-12",
+      "title": "〜かどうか",
+      "meaning": "Có hay không",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + かどうか",
+      "usageNotes": "Nhúng câu hỏi có-không vào câu. Đối với các câu hỏi có từ để hỏi, chỉ sử dụng 〜か (何時に来るか).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-ka-embedded-question",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-12",
+      "title": "〜か（embedded question）",
+      "meaning": "Câu hỏi nhúng (cái gì, ở đâu, ai, v.v.)",
+      "connection": "Question word + ... + Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + か",
+      "usageNotes": "Sau danh từ hoặc tính từ na, だ bị lược bỏ (誰の傘か知らない).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-to-omou",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-13",
+      "title": "〜と思う",
+      "meaning": "Tôi nghĩ rằng",
+      "connection": "Động từ (V)-plain / i-Adj + と思う / na-Adj + だ + と思う / Danh từ (N) + だ + と思う",
+      "usageNotes": "Người Nhật thường phủ định mệnh đề trích dẫn (来ないと思う) hơn là 思う. Đối với ý kiến ​​của người khác, hãy sử dụng 〜と思っている.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-to-iu-say",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-13",
+      "title": "〜と言う",
+      "meaning": "Nói điều đó; kể (trích dẫn)",
+      "connection": "「Sentence」 + と言う / Sentence (plain) + と言う",
+      "usageNotes": "Trích dẫn trực tiếp đi vào bên trong 「」; trích dẫn gián tiếp sử dụng các hình thức đơn giản. 〜と言っていた được dùng phổ biến khi truyền lại điều ai đó đã nói.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-shika-nai",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-13",
+      "title": "〜しか〜ない",
+      "meaning": "Chỉ; không có gì ngoài",
+      "connection": "Danh từ (N) + しか + Động từ (V)-nai",
+      "usageNotes": "Luôn đi đôi với động từ phủ định. So với だけ, nó nhấn mạnh số lượng ít hoặc không đủ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-bakari",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-13",
+      "title": "〜ばかり",
+      "meaning": "Toàn là... / Cứ mãi...",
+      "connection": "Danh từ (N) + ばかり",
+      "usageNotes": "Thường ngụ ý có quá nhiều thứ. 〜てばかりいる (N3) và 〜たばかり ('vừa làm') là những điểm riêng biệt.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-ta-bakari",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-13",
+      "title": "〜たばかり",
+      "meaning": "Vừa mới làm gì xong...",
+      "connection": "Động từ (V)-ta + ばかり",
+      "usageNotes": "Cho thấy người nói cảm thấy thời gian đã trôi qua rất ít, ngay cả khi đó là vài tuần trước. 〜たところ chỉ đề cập đến khoảnh khắc trước đây.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-tokoro-da",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-14",
+      "title": "〜ところだ",
+      "meaning": "Sắp ; ở giữa; vừa làm xong",
+      "connection": "Động từ (V)-dict / Động từ (V)-te + いる / Động từ (V)-ta + ところだ",
+      "usageNotes": "Dạng từ điển: sắp. 〜ているところ: ở giữa. 〜たところ: vừa xong. Nó xác định chính xác giai đoạn của một hành động.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-yasui-nikui",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-14",
+      "title": "〜やすい / 〜にくい",
+      "meaning": "Dễ dàng; khó để",
+      "connection": "Động từ (V)-stem + やすい / Động từ (V)-stem + にくい",
+      "usageNotes": "Cả hai liên hợp như tính từ i. やすい cũng có thể có nghĩa là 'có xu hướng' (この服は汚れやすい).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-hajimeru-owaru-tsuzukeru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-14",
+      "title": "〜始める / 〜終わる / 〜続ける",
+      "meaning": "Bắt đầu làm; làm xong; tiếp tục làm",
+      "connection": "Động từ (V)-stem + 始める / Động từ (V)-stem + 終わる / Động từ (V)-stem + 続ける",
+      "usageNotes": "〜終わる được dùng với những hành động có kết thúc rõ ràng (読む, 食べる, 書く). 〜終える là một cách thay thế trang trọng hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-dasu",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-14",
+      "title": "〜出す",
+      "meaning": "Đột nhiên bắt đầu làm; bùng nổ",
+      "connection": "Động từ (V)-stem + 出す",
+      "usageNotes": "Ngụ ý sự khởi đầu đột ngột, thường không kiểm soát được. Không giống như 〜始める, nó không được sử dụng cho các hành động đã được lên kế hoạch hoặc trong các yêu cầu.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-hodo-nai",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-14",
+      "title": "〜ほど〜ない",
+      "meaning": "Không phải như ... như",
+      "connection": "Danh từ (N) / Động từ (V)-plain + ほど + i-Adj-ku + ない / na-Adj + ではない",
+      "usageNotes": "Mệnh đề trước ほど là tiêu chuẩn so sánh. Luôn luôn theo sau là một tiêu cực.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-nakanaka-nai",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-15",
+      "title": "なかなか〜ない",
+      "meaning": "Không dễ dàng; sẽ không; không dễ dàng",
+      "connection": "なかなか + Động từ (V)-nai",
+      "usageNotes": "Cho thấy điều gì đó không xảy ra nhanh chóng và dễ dàng như mong đợi. Với dạng khẳng định, なかなか có nghĩa là 'khá' (なかなかおいしい).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-zutsu",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-15",
+      "title": "〜ずつ",
+      "meaning": "Mỗi; tại một thời điểm; từng chút một",
+      "connection": "Danh từ (N) (quantity) + ずつ",
+      "usageNotes": "Mẫu ngữ pháp thông dụng trong giao tiếp và đề thi JLPT.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-mo-emphasis",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-15",
+      "title": "〜も（emphasis）",
+      "meaning": "Nhiều như vậy; nhiều như ; (với một phủ định) thậm chí không một",
+      "connection": "Danh từ (N) (number + counter) + も",
+      "usageNotes": "Cho thấy người nói cảm thấy số lượng lớn. Với 一 + counter và động từ phủ định, nó có nghĩa là 'thậm chí không một'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-made-ni",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-15",
+      "title": "〜までに",
+      "meaning": "Bởi (một thời hạn); trước đây",
+      "connection": "Danh từ (N) / Động từ (V)-dict + までに",
+      "usageNotes": "までに đánh dấu thời hạn cho một hành động diễn ra một lần; まで đánh dấu khoảng thời gian một sự việc tiếp tục diễn ra (六時まで働く).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-koto-ga-aru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-15",
+      "title": "〜ことがある",
+      "meaning": "Đôi khi; có những lúc",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + ことがある",
+      "usageNotes": "Sử dụng từ điển hoặc dạng ない. Với dạng quá khứ (〜たことがある) nó có nghĩa là 'đã từng làm trước đây'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-nai-to-ikenai-nakucha",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-16",
+      "title": "〜ないといけない / 〜なくちゃ",
+      "meaning": "Phải ; phải (đàm thoại)",
+      "connection": "Động từ (V)-nai + といけない / Động từ (V)-nai stem + なくちゃ",
+      "usageNotes": "Các lựa chọn thay thế hàng ngày cho なければならない. なくちゃ xuất phát từ なくては; なきゃ (từ なければ) cũng rất phổ biến.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-sasete-kudasai",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-16",
+      "title": "〜させてください",
+      "meaning": "Xin vui lòng cho tôi (làm)",
+      "connection": "Động từ (V)-nai stem + せてください (Group 1) / Động từ (V)-nai stem + させてください (Group 2)",
+      "usageNotes": "Được xây dựng trên thể nguyên nhân て (する → させて). 〜させていただけませんか thì lịch sự hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-sonkeigo",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-16",
+      "title": "尊敬語",
+      "meaning": "Động từ kính ngữ; ngôn ngữ tôn trọng hành động của người khác",
+      "connection": "いらっしゃる（行く・来る・いる） / 召し上がる（食べる・飲む） / おっしゃる（言う） / なさる（する） / ご覧になる（見る） / くださる（くれる）",
+      "usageNotes": "Nâng cao hành động của những người bạn tôn trọng, chẳng hạn như khách hàng, giáo viên và cấp trên. Đừng bao giờ sử dụng nó cho hành động của riêng bạn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-kenjougo",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-16",
+      "title": "謙譲語",
+      "meaning": "Khiêm nhường ngữ (Hạ mình để tôn kính đối phương)",
+      "connection": "参る（行く・来る） / おる（いる） / いただく（食べる・飲む・もらう） / 申す（言う） / いたす（する） / 拝見する（見る） / 伺う（聞く・訪ねる）",
+      "usageNotes": "Giảm bớt hành động của chính bạn hoặc của nhóm bạn đối với người mà bạn tôn trọng. 参る, おる, 申す và いたす cũng làm cho lời nói nói chung có vẻ trang trọng.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-o-ni-naru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-16",
+      "title": "お〜になる",
+      "meaning": "(kính trọng) ai đó được kính trọng làm",
+      "connection": "お + Động từ (V)-stem + になる",
+      "usageNotes": "Không dùng với gốc một âm tiết (見る, 寝る) hoặc động từ có dạng đặc biệt (行く → いらっしゃる). する-danh từ lấy ご + Danh từ + になる (ご利用になる).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-o-suru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-17",
+      "title": "お〜する",
+      "meaning": "(khiêm tốn) Tôi làm (đối với một người được kính trọng)",
+      "connection": "お + Động từ (V)-stem + する / ご + Danh từ (N) + する",
+      "usageNotes": "Chỉ dành cho những hành động có ảnh hưởng hoặc có lợi cho người khác. お〜いたします thậm chí còn trang trọng hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-de-gozaimasu",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-17",
+      "title": "〜でございます",
+      "meaning": "Là; là; là (copula rất lịch sự)",
+      "connection": "Danh từ (N) / na-Adj + でございます",
+      "usageNotes": "Phiên bản rất lịch sự của です, điển hình của nhân viên cửa hàng và khách sạn nói chuyện với khách hàng. ございます bản thân nó là hình thức lịch sự của あります.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-mo-kamawanai",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-17",
+      "title": "〜ても構わない",
+      "meaning": "Đừng bận tâm nếu; sẽ ổn thôi nếu",
+      "connection": "Động từ (V)-te + も構わない / i-Adj-ku + ても構わない / na-Adj + でも構わない / Danh từ (N) + でも構わない",
+      "usageNotes": "Trang trọng hơn 〜てもいい một chút. 〜なくても構わない có nghĩa là 'không sao đâu'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-no-koto-nominalizer",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-17",
+      "title": "〜の / 〜こと（nominalizer）",
+      "meaning": "Hành động làm (chuyển cụm động từ thành danh từ)",
+      "connection": "Động từ (V)-plain + の / Động từ (V)-plain + こと",
+      "usageNotes": "の được ưa chuộng hơn với các động từ nhận thức (見る, 聞こえる) và trong lời nói thông thường; こと cần được dùng trước です/だ và trong các mẫu cố định như 〜ことができる.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-ba-yokatta",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-17",
+      "title": "〜ばよかった",
+      "meaning": "Giá mà... thì tốt biết mấy (Hối tiếc)",
+      "connection": "Động từ (V)-ba + よかった / Động từ (V)-nai stem + なければよかった",
+      "usageNotes": "Thể hiện sự tiếc nuối về quá khứ. 〜たらよかった là một từ thay thế trong hội thoại phổ biến.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-tara-dou",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-18",
+      "title": "〜たらどう",
+      "meaning": "Tại sao bạn không ...?; bạn nghĩ thế nào về ...?",
+      "connection": "Động từ (V)-ta + らどう",
+      "usageNotes": "Thường được rút gọn thành 〜たら？. Có thể tỏ ra tự đề cao cấp trên; 〜たらいかがですか là phiên bản lịch sự.",
       "questionsCount": 5
     },
     {
       "id": "bunpou-n4-hou-ga-ii",
       "level": "N4",
-      "unitId": "grammar-n4-unit-02",
-      "title": "〜ほうがいい / 〜ないほうがいい",
-      "meaning": "Nên / Không nên làm gì (Lời khuyên)",
-      "connection": "V-た + ほうがいい / V-ない + ほうがいい",
-      "usageNotes": "Đưa ra lời khuyên cụ thể nên làm gì (thể Ta) hoặc không nên làm gì (thể Nai).",
+      "unitId": "grammar-n4-unit-18",
+      "title": "〜ほうがいい",
+      "meaning": "Nên làm gì đó (Lời khuyên)",
+      "connection": "Động từ (V)-ta / Động từ (V)-nai + ほうがいい",
+      "usageNotes": "Để được tư vấn, dạng quá khứ (行ったほうがいい) là lựa chọn thông thường và nghe mạnh mẽ hơn. Thể phủ định sử dụng dạng ない, không phải quá khứ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-toka-toka",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-18",
+      "title": "〜とか〜とか",
+      "meaning": "Những thứ như A và B; A, B, v.v. (thông thường)",
+      "connection": "Danh từ (N) + とか + Danh từ (N) + とか / Động từ (V)-dict + とか + Động từ (V)-dict + とか",
+      "usageNotes": "Bình thường hơn 〜や〜など, và nó cũng có thể liệt kê các động từ hoặc cả cụm từ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-nado",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-18",
+      "title": "〜など",
+      "meaning": "V.v.; vân vân; chẳng hạn như",
+      "connection": "Danh từ (N) + など",
+      "usageNotes": "Thường kết hợp với や (AやBなど). Sau một danh từ, nó làm dịu đi một gợi ý.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-de-mo-suggestion",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-18",
+      "title": "〜でも（suggestion）",
+      "meaning": "Hoặc cái gì đó (làm dịu đi một lời đề nghị)",
+      "connection": "Danh từ (N) + でも",
+      "usageNotes": "Đưa ra một ví dụ trong khi vẫn để ngỏ các tùy chọn khác, điều này làm cho lời mời và lời khuyên nghe có vẻ ít thuyết phục hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-sa",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-19",
+      "title": "〜さ",
+      "meaning": "-ness (chuyển tính từ thành danh từ chỉ mức độ)",
+      "connection": "i-Adj stem + さ / na-Adj + さ",
+      "usageNotes": "いい trở thành よさ. Thường dùng cho các phép đo (高さ, 重さ, 大きさ, 長さ).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-me",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-19",
+      "title": "〜目",
+      "meaning": "-th (thứ tự: thứ nhất, thứ hai, thứ ba...)",
+      "connection": "Danh từ (N) (number + counter) + 目",
+      "usageNotes": "Mẫu ngữ pháp thông dụng trong giao tiếp và đề thi JLPT.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-oki-ni",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-19",
+      "title": "〜おきに",
+      "meaning": "Nhau; trong khoảng thời gian",
+      "connection": "Danh từ (N) (number + counter) + おきに",
+      "usageNotes": "Với ngày (一日おき) nó bỏ qua một đơn vị, nghĩa là 'cách ngày'. Với số phút hoặc khoảng cách, nó thường chỉ có nghĩa là 'mọi X'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-ku-suru-ni-suru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-19",
+      "title": "〜くする / 〜にする（make）",
+      "meaning": "Làm (cái gì)...; thay đổi cái gì đó sang trạng thái",
+      "connection": "i-Adj-ku + する / na-Adj + に + する / Danh từ (N) + に + する",
+      "usageNotes": "Ai đó cố tình thay đổi một cái gì đó. So sánh 〜くなる / 〜になる, nơi mà sự thay đổi tự nó xảy ra.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-ga-suru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-19",
+      "title": "〜がする",
+      "meaning": "(mùi, âm thanh, vị hoặc cảm giác) được cảm nhận",
+      "connection": "Danh từ (N) + がする",
+      "usageNotes": "Được sử dụng với におい, 音, 声, 味 và 気 (〜気がする: 'có cảm giác như vậy').",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-kana-kashira",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-20",
+      "title": "〜かな / 〜かしら",
+      "meaning": "Tôi tự hỏi",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + かな / かしら",
+      "usageNotes": "Một câu hỏi nhẹ nhàng, thường tự nói với chính mình. かしら nghe có vẻ nữ tính và hơi lỗi thời. 〜ないかな có thể diễn tả một điều ước (早く来ないかな).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-kuremasen-ka-te-itadakemasen-ka",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-20",
+      "title": "〜てくれませんか / 〜ていただけませんか",
+      "meaning": "Bạn có thể làm ơn...? (yêu cầu lịch sự)",
+      "connection": "Động từ (V)-te + くれませんか / Động từ (V)-te + いただけませんか",
+      "usageNotes": "Nhẹ nhàng hơn 〜てください. Sự lịch sự tăng từ 〜てくれませんか lên 〜てもらえませんか đến 〜ていただけませんか.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-naide",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-20",
+      "title": "〜ないで",
+      "meaning": "Không làm gì; thay vì làm",
+      "connection": "Động từ (V)-nai + で",
+      "usageNotes": "〜ずに (N3) có nghĩa tương tự nhưng trang trọng hơn. Khác với 〜なくて, nó đưa ra lý do.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-wake-da",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-01",
+      "title": "〜わけだ",
+      "meaning": "Thảo nào, hèn chi... / Đương nhiên là...",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + という + わけだ",
+      "usageNotes": "Đưa ra kết luận một cách tự nhiên dựa trên những sự kiện đã biết, thường với cảm giác 'bây giờ tôi đã hiểu'. Thường đứng trước だから, それで hoặc どうりで.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-wake-de-wa-nai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-01",
+      "title": "〜わけではない",
+      "meaning": "Không hẳn là... / Không nhất thiết là...",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + という + わけではない",
+      "usageNotes": "Sự phủ nhận một phần hoặc nhẹ nhàng những gì người nghe có thể giả định. Thường đi kèm với いつも, 全部 hoặc 必ずしも. Không giống như 〜わけがない, loại trừ một cách thẳng thừng điều gì đó.",
       "questionsCount": 5
     },
     {
       "id": "bunpou-n3-wake-ga-nai",
       "level": "N3",
       "unitId": "grammar-n3-unit-01",
-      "title": "〜わけがない / 〜わけはない",
+      "title": "〜わけがない",
       "meaning": "Chắc chắn không... / Không đời nào...",
-      "connection": "Thể thường (V/A-i/A-naな/Nの) + わけがない",
-      "usageNotes": "Diễn tả sự phủ định mạnh mẽ dựa trên logic hoặc bằng chứng xác thực.",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + わけがない",
+      "usageNotes": "Niềm tin chắc chắn của người nói rằng điều gì đó là không thể. Bình thường: 〜わけない. Gần giống với 〜はずがない, nhưng nghe có vẻ cảm xúc hơn và ít dựa trên lý lẽ hơn.",
       "questionsCount": 5
     },
     {
-      "id": "bunpou-n3-ni-chigainai",
+      "id": "bunpou-n3-wake-ni-wa-ikanai",
       "level": "N3",
       "unitId": "grammar-n3-unit-01",
-      "title": "〜に違いない / 〜に相違ない",
-      "meaning": "Chắc chắn là... / Nhất định là...",
-      "connection": "Thể thường (bỏ だ) + に違いない",
-      "usageNotes": "Diễn tả sự phán đoán với độ tin cậy rất cao của người nói dựa trên trực giác hoặc bằng chứng.",
+      "title": "〜わけにはいかない",
+      "meaning": "Không thể làm... (Vì lý do đạo đức, xã hội)",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + わけにはいかない",
+      "usageNotes": "Hành động này có thể thực hiện được nhưng bị loại trừ bởi nghĩa vụ, hoàn cảnh hoặc lẽ thường. 〜ないわけにはいかない có nghĩa là 'phải; không thể tránh khỏi việc làm'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-mono-da",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-01",
+      "title": "〜ものだ",
+      "meaning": "Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)",
+      "connection": "Động từ (V)-dict / Động từ (V)-ta / i-Adj / na-Adj + な + ものだ",
+      "usageNotes": "Công dụng chính: sự thật chung hoặc xu hướng tự nhiên, chuẩn mực xã hội (nên), thói quen hoài niệm về quá khứ với 〜たものだ, và cảm giác sâu sắc (時間がたつのは早いものだ). Bình thường: 〜もんだ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-mono-de-wa-nai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-02",
+      "title": "〜ものではない",
+      "meaning": "Người ta không nên; điều đó không đúng",
+      "connection": "Động từ (V)-dict + ものではない",
+      "usageNotes": "Lời khuyên dựa trên lẽ thường hoặc chuẩn mực xã hội, thường là từ người lớn tuổi. Bình thường: 〜もんじゃない. Nghe có vẻ giống sự hiểu biết thông thường hơn là 〜べきではない.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-mono-mon",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-02",
+      "title": "〜もの / 〜もん",
+      "meaning": "Bởi vì (lý do thông thường hoặc tự biện minh)",
+      "connection": "Sentence + もの / もん",
+      "usageNotes": "Nghe có vẻ bĩu môi hoặc tự biện minh; thường bắt đầu bằng だって. もん thông tục hơn. Được sử dụng bởi trẻ em và giữa những người bạn thân; tránh ở nơi làm việc.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-mono-dakara-mono-de",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-02",
+      "title": "〜ものだから / 〜もので",
+      "meaning": "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + な + ものだから / もので",
+      "usageNotes": "Giải thích hoặc bào chữa cho điều gì đó không hoàn toàn nằm trong tầm kiểm soát của người nói. Mệnh đề chính không thể là một mệnh lệnh hoặc yêu cầu. もので thường dùng trong lời xin lỗi lịch sự.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-koto-da",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-02",
+      "title": "〜ことだ",
+      "meaning": "Nên ; điều tốt nhất là (lời khuyên)",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + ことだ",
+      "usageNotes": "Lời khuyên cá nhân từ một người ở vị trí có thể đưa ra lời khuyên đó (giáo viên, phụ huynh, cấp trên). Không dùng với cấp trên. So sánh 〜ものだ, cái nào phù hợp với những chuẩn mực chung.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-koto-wa-nai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-02",
+      "title": "〜ことはない",
+      "meaning": "Không cần phải làm vậy; không cần phải làm vậy",
+      "connection": "Động từ (V)-dict + ことはない",
+      "usageNotes": "Trấn an hoặc khuyên nhủ rằng điều gì đó là không cần thiết. Đừng nhầm lẫn với 〜たことはない ('chưa bao giờ làm').",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-koto-ni-shite-iru",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-03",
+      "title": "〜ことにしている",
+      "meaning": "Biến nó thành một quy tắc; đưa ra quan điểm",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + ことにしている",
+      "usageNotes": "Một quy tắc cá nhân mà người nói (hoặc chủ đề) đã quyết định và tuân theo. So sánh 〜ことになっている, một quy tắc hoặc kế hoạch do người khác đặt ra.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-koto-ni-natte-iru",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-03",
+      "title": "〜ことになっている",
+      "meaning": "Được quy định là... / Có quy định là...",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + ことになっている",
+      "usageNotes": "Các quy tắc, phong tục hay kế hoạch do người khác (công ty, trường học, xã hội) quyết định chứ không phải là lựa chọn cá nhân. So sánh 〜ことにしている.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-koto-instruction",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-03",
+      "title": "〜こと（instruction）",
+      "meaning": "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + こと",
+      "usageNotes": "Kết thúc câu bằng こと để nêu một quy tắc. Được tìm thấy trong các thông báo, quy định và hướng dẫn giữa giáo viên với học sinh. Vô tư; không được sử dụng đối với cấp trên.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-you-ni-iu-you-ni-tanomu",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-03",
+      "title": "〜ように言う / 〜ように頼む",
+      "meaning": "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+      "connection": "Động từ (V)-dict / Động từ (V)-nai + ように言う / ように頼む",
+      "usageNotes": "Báo cáo một hướng dẫn hoặc yêu cầu một cách gián tiếp. Cũng có tác dụng với các động từ khác: 伝える, 注意する, お願いする. Phiên bản trích dẫn trực tiếp: 「〜てください」と言う.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-you-to-suru",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-03",
+      "title": "〜ようとする",
+      "meaning": "Cố gắng ; cố gắng ; sắp sửa",
+      "connection": "Động từ (V)-volitional + とする",
+      "usageNotes": "Thường thì một nỗ lực không thành công hoặc bị gián đoạn. 〜ようとしない = 'thậm chí sẽ không thử' (không sẵn lòng). So sánh 〜てみる, có nghĩa là thực sự làm một việc gì đó để xem nó diễn ra như thế nào.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-sou-ni-nai-sou-mo-nai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-04",
+      "title": "〜そうにない / 〜そうもない",
+      "meaning": "Không thể ; không có vẻ như nó sẽ",
+      "connection": "Động từ (V)-stem + そうにない / そうもない",
+      "usageNotes": "Bề ngoài phủ định 〜そうだ với động từ, dựa trên những gì người nói quan sát được. Nhấn mạnh hơn: 〜そうにもない. Với tính từ dùng 〜なさそうだ thay thế.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ippou-da",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-04",
+      "title": "〜一方だ",
+      "meaning": "Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)",
+      "connection": "Động từ (V)-dict + 一方だ",
+      "usageNotes": "Thay đổi ổn định theo một hướng, thường (không phải luôn luôn) theo chiều hướng xấu hơn. Dùng với các động từ thay đổi như 増える, 減る, 上がる, 悪くなる.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ippou-de",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-04",
+      "title": "〜一方で",
+      "meaning": "Trong khi ; mặt khác; cùng lúc",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + である + 一方で",
+      "usageNotes": "Trình bày hai mặt của một sự vật hoặc hai hoạt động song song. So sánh 〜に対して, sự tương phản giữa hai chủ đề khác nhau.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-taishite",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-04",
+      "title": "〜に対して",
+      "meaning": "Đối với... / Ngược lại với...",
+      "connection": "Danh từ (N) + に対して / Danh từ (N) + に対する + Danh từ (N) / Động từ (V)-plain / i-Adj / na-Adj + な + のに対して",
+      "usageNotes": "Đánh dấu mục tiêu của một hành động, thái độ hoặc cảm giác, hoặc đối chiếu hai sự vật. So sánh 〜について, đánh dấu chủ đề đang được thảo luận hơn là mục tiêu.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-tsuite",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-04",
+      "title": "〜について",
+      "meaning": "Về việc... / Về chủ đề...",
+      "connection": "Danh từ (N) + について / Danh từ (N) + についての + Danh từ (N)",
+      "usageNotes": "Đánh dấu chủ đề nói, suy nghĩ hoặc nghiên cứu. Trang trọng hơn: 〜に関して. So sánh 〜に対して (mục tiêu của thái độ hoặc hành động).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-yotte-ni-yoru",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-05",
+      "title": "〜によって / 〜による",
+      "meaning": "Bởi (đại lý); bằng cách; bởi vì; tùy thuộc vào",
+      "connection": "Danh từ (N) + によって / Danh từ (N) + による + Danh từ (N)",
+      "usageNotes": "Công dụng: tác nhân của thể bị động (trang trọng, để tạo ra hoặc khám phá), nguyên nhân, phương tiện và 'thay đổi tùy theo'. 〜によっては = 'trong một số trường hợp, tùy thuộc vào'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-yoru-to-ni-yoreba",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-05",
+      "title": "〜によると / 〜によれば",
+      "meaning": "Theo",
+      "connection": "Danh từ (N) + によると / Danh từ (N) + によれば",
+      "usageNotes": "Nêu tên nguồn thông tin. Câu thường kết thúc bằng cách diễn đạt tin đồn như 〜そうだ, 〜らしい hoặc 〜ということだ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-bakari-de-naku",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-05",
+      "title": "〜ばかりでなく",
+      "meaning": "Không chỉ... mà còn...",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + ばかりでなく",
+      "usageNotes": "Ý nghĩa tương tự như 〜だけでなく nhưng trang trọng hơn một chút. Phần thứ hai thường chứa も hoặc まで.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-dake-de-naku",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-05",
+      "title": "〜だけでなく",
+      "meaning": "Không chỉ ... mà còn",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + だけでなく",
+      "usageNotes": "Phổ biến trong cả lời nói và văn viết. Bình thường: 〜だけじゃなくて. Ít trang trọng hơn 〜ばかりでなく.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-mo-ba-mo",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-05",
+      "title": "〜も〜ば〜も",
+      "meaning": "Cả ... và ...; không chỉ ... mà còn",
+      "connection": "Danh từ (N) + も + Động từ (V)-ba + Danh từ (N) + も / Danh từ (N) + も + i-Adj stem + ければ + Danh từ (N) + も",
+      "usageNotes": "Liệt kê hai sự kiện cùng loại để nhấn mạnh; các cặp tương phản (いいときも悪いときも) rất phổ biến. So sánh 〜し, trong đó liệt kê lý do.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-rashii-typical-of",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-06",
+      "title": "〜らしい（typical of）",
+      "meaning": "Điển hình của; phù hợp; thực sự thích",
+      "connection": "Danh từ (N) + らしい",
+      "usageNotes": "Có những phẩm chất mà bạn mong đợi ở danh từ. Phủ định: 〜らしくない ('không thích'). Khác với tin đồn 〜らしい (N4) và 〜っぽい (trông giống X nhưng không phải).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ppoi",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-06",
+      "title": "〜っぽい",
+      "meaning": "-ish; -giống; có xu hướng (thông thường)",
+      "connection": "Danh từ (N) / Động từ (V)-stem / i-Adj stem + っぽい",
+      "usageNotes": "Danh từ + っぽい: trông giống X nhưng thực ra không phải (大人っぽい). Thân động từ + っぽい: có xu hướng (怒りっぽい). So sánh 〜らしい, có nghĩa là thực sự điển hình của X.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-teki",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-06",
+      "title": "〜的",
+      "meaning": "-ic; -al; về mặt",
+      "connection": "Danh từ (N) + 的な + Danh từ (N) / Danh từ (N) + 的に",
+      "usageNotes": "Biến một danh từ (thường là kanji) thành tính từ na: 的な trước danh từ, 的に trước động từ và tính từ. Nhiều từ được học tốt nhất dưới dạng từ: 具体的, 基本的, 積極的.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-you-na-you-ni-like",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-06",
+      "title": "〜ような / 〜ように（like）",
+      "meaning": "Thích; BẰNG; chẳng hạn như",
+      "connection": "Động từ (V)-plain / Danh từ (N) + の + ような / ように",
+      "usageNotes": "ような đứng trước danh từ, ように đứng trước động từ và tính từ. AのようなB cũng có thể có nghĩa là 'B chẳng hạn như A'. Bình thường: 〜みたいな / 〜みたいに.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-marude-you-da",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-06",
+      "title": "まるで〜ようだ",
+      "meaning": "Giống như; như thể",
+      "connection": "まるで + Động từ (V)-plain / Danh từ (N) + の + ようだ",
+      "usageNotes": "まるで báo hiệu một sự so sánh mang tính biểu tượng: nó chỉ có vẻ như vậy thôi. Bình thường: まるで〜みたいだ. So sánh N2 〜かのようだ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-chigai-nai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-07",
+      "title": "〜に違いない",
+      "meaning": "Chắc chắn là... (Phán đoán chủ quan chắc nịch)",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + に違いない",
+      "usageNotes": "Niềm tin mạnh mẽ dựa trên bằng chứng hoặc trực giác; một giọng điệu hơi viết. So sánh 〜に決まっている, cái nào mang tính chủ quan và mang tính đối thoại hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-kimatte-iru",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-07",
+      "title": "〜に決まっている",
+      "meaning": "Chắc chắn; bị ràng buộc; tất nhiên",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + に決まっている",
+      "usageNotes": "Một phán đoán rất tự tin, chủ quan, thường gặp trong hội thoại (〜に決まってる). Quyết đoán hơn 〜に違いない và không phù hợp với cách viết trang trọng.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ki-ga-suru",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-07",
+      "title": "〜気がする",
+      "meaning": "Có cảm giác rằng; cảm thấy như",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な + 気がする / Động từ (V)-plain / Danh từ (N) + の + ような + 気がする",
+      "usageNotes": "Một ấn tượng trực quan, mơ hồ hơn là một phán đoán chắc chắn; ような気がする thậm chí còn nhẹ nhàng hơn. Khác với N4 〜がする (mùi, âm thanh hoặc vị).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-zu-ni",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-07",
+      "title": "〜ずに",
+      "meaning": "Không làm",
+      "connection": "Động từ (V)-nai stem + ずに",
+      "usageNotes": "Trang trọng hơn, viết theo phong cách tương đương với 〜ないで. Bất quy tắc: する → せずに (không phải しずに), 来る → 来ずに (こずに).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-mama",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-07",
+      "title": "〜まま",
+      "meaning": "Như nó vốn có; không thay đổi; trong khi vẫn còn (trong trạng thái)",
+      "connection": "Động từ (V)-ta / Động từ (V)-nai / i-Adj / na-Adj + な / Danh từ (N) + の + まま",
+      "usageNotes": "Một thay đổi dự kiến ​​đã không xảy ra và trạng thái vẫn tiếp tục. Thường gợi ý điều gì đó bất thường hoặc không mong muốn (để đèn sáng, mang giày vào trong nhà).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-uchi-ni",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-08",
+      "title": "〜うちに",
+      "meaning": "Trong khi còn... / Nhân lúc còn...",
+      "connection": "Động từ (V)-dict / Động từ (V)-te + いる / Động từ (V)-nai / i-Adj / na-Adj + な / Danh từ (N) + の + うちに",
+      "usageNotes": "Hãy làm điều gì đó khi điều kiện còn tồn tại, trước khi nó thay đổi; hoặc một sự thay đổi xảy ra mà không được chú ý trong một hoạt động. So sánh 〜間に, đánh dấu một khoảng thời gian cố định mà không có tính khẩn cấp.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-tokoro-ni-tokoro-e-tokoro-o",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-08",
+      "title": "〜ところに / 〜ところへ / 〜ところを",
+      "meaning": "Đúng lúc; vào lúc này (ai đó đến hoặc có gì đó làm gián đoạn)",
+      "connection": "Động từ (V)-dict / Động từ (V)-te + いる / Động từ (V)-ta + ところに / ところへ / ところを",
+      "usageNotes": "ところに/へ: có chuyện gì đó xảy ra hoặc có người đến đúng lúc, thường làm gián đoạn. ところを: cảnh là tân ngữ của động từ như 見る, 見つかる, 助ける. Đặt cụm từ: お忙しいところを.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ba-hodo",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-08",
+      "title": "〜ば〜ほど",
+      "meaning": "Càng... thì càng...",
+      "connection": "Động từ (V)-ba + Động từ (V)-dict + ほど / i-Adj stem + ければ + i-Adj + ほど / na-Adj + なら + na-Adj + な + ほど",
+      "usageNotes": "Từ đó được lặp lại, đầu tiên ở dạng ば/なら, sau đó ở dạng thông thường. Phần đầu tiên có thể bỏ đi: 考えるほど分からなくなる.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-hodo",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-08",
+      "title": "〜ほど",
+      "meaning": "Đến mức đó; vậy... cái đó",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + ほど",
+      "usageNotes": "Hiển thị mức độ với một ví dụ hoặc so sánh. Thường có thể hoán đổi với 〜くらい, nhưng ほど nghe trang trọng hơn và phù hợp với mức độ cao hơn; nó không thể đánh dấu một cái gì đó là tối thiểu.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-kurai-gurai-extent",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-08",
+      "title": "〜くらい / 〜ぐらい（extent）",
+      "meaning": "Đến mức đó; để có thể; ít nhất (điều gì đó tối thiểu)",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + くらい",
+      "usageNotes": "Giống như 〜ほど, thể hiện mức độ. くらい cũng có thể đánh dấu một việc gì đó nhỏ nhặt hoặc dễ dàng ('ít nhất; một việc đơn giản như vậy'), cách sử dụng ほど không có.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-sae",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-09",
+      "title": "〜さえ",
+      "meaning": "Thậm chí",
+      "connection": "Danh từ (N) + さえ / Danh từ (N) + でさえ / Danh từ (N) + にさえ",
+      "usageNotes": "Đưa ra một ví dụ cực đoan, ngụ ý 'tất nhiên những người khác cũng vậy'. Trang trọng hơn 〜も hoặc 〜でも theo nghĩa này. Là chủ ngữ: 〜でさえ. So sánh N1 〜すら.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-sae-ba",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-09",
+      "title": "〜さえ〜ば",
+      "meaning": "Giá như ; chừng nào ; miễn là",
+      "connection": "Danh từ (N) + さえ + Động từ (V)-ba / Động từ (V)-stem + さえ + すれば / Động từ (V)-te + さえ + いれば",
+      "usageNotes": "Nhấn mạnh rằng chỉ riêng điều kiện này là đủ hoặc là điều kiện duy nhất còn thiếu.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-koso",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-09",
+      "title": "〜こそ",
+      "meaning": "Chính xác ; nó là... cái đó; (nhấn mạnh mạnh)",
+      "connection": "Danh từ (N) + こそ",
+      "usageNotes": "Chọn ra một điều là điều quan trọng nhất. こちらこそ là một câu trả lời cố định: 'cảm ơn/niềm vui là của tôi'. Các dạng N2 liên quan: 〜からこそ, 〜てこそ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-to-shite",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-09",
+      "title": "〜として",
+      "meaning": "Với tư cách là... / Dưới danh nghĩa là...",
+      "connection": "Danh từ (N) + として / Danh từ (N) + としての + Danh từ (N)",
+      "usageNotes": "Nêu rõ vai trò, trạng thái hoặc danh mục. So sánh ���にとって, thể hiện quan điểm của ai để đưa ra phán quyết.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-totte",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-09",
+      "title": "〜にとって",
+      "meaning": "Đối với... (Đứng trên lập trường của ai)",
+      "connection": "Danh từ (N) + にとって / Danh từ (N) + にとっての + Danh từ (N)",
+      "usageNotes": "Tiếp theo là sự đánh giá (大切だ, 難しい, 便利だ). Không dùng cho hành động hay thái độ đối với ai đó; sử dụng 〜に対して cho những điều đó.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-shite-wa",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-10",
+      "title": "〜にしては",
+      "meaning": "Cho (xem xét nó); bất ngờ cho",
+      "connection": "Động từ (V)-plain / Danh từ (N) + にしては",
+      "usageNotes": "Kết quả khác với những gì bạn mong đợi ở X. Không theo sau tính từ; so sánh 〜わりに, có thể và tập trung vào mức độ (giá cả, độ tuổi, nỗ lực).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-shite-mo",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-10",
+      "title": "〜にしても",
+      "meaning": "Ngay cả khi; thậm chí còn xem xét; cấp điều đó",
+      "connection": "Động từ (V)-plain / Danh từ (N) + にしても",
+      "usageNotes": "Chấp nhận một quan điểm và nói rằng điều đó không làm thay đổi quan điểm của người nói. Thường chấp nhận một sự thật; so sánh 〜としても, nó thuần túy mang tính giả thuyết hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-kanshite-ni-kansuru",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-10",
+      "title": "〜に関して / 〜に関する",
+      "meaning": "Về ; liên quan đến; liên quan đến",
+      "connection": "Danh từ (N) + に関して / Danh từ (N) + に関する + Danh từ (N)",
+      "usageNotes": "Trang trọng hơn 〜について; phổ biến trong kinh doanh, tin tức và văn bản. Trước danh từ, dùng に関する (hoặc に関しての).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-kurabete",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-10",
+      "title": "〜に比べて",
+      "meaning": "So sánh với ; so với",
+      "connection": "Danh từ (N) + に比べて / Động từ (V)-dict + のに比べて",
+      "usageNotes": "Ngoài ra còn có 〜と比べて, 〜に比べると và 〜に比べれば. Đặt hai thứ cạnh nhau rõ ràng hơn 〜より.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-kawatte",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-10",
+      "title": "〜に代わって",
+      "meaning": "Thay vì ; thay mặt cho; thay thế",
+      "connection": "Danh từ (N) + に代わって / Danh từ (N) + に代わり",
+      "usageNotes": "Ai đó hành động vì người khác, hoặc một cái gì đó mới thay thế một cái gì đó cũ. Dạng viết: 〜に代わり. So sánh 〜代わりに (thay vì làm; đổi lấy).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-kawari-ni",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-11",
+      "title": "〜代わりに",
+      "meaning": "Thay vì ; để đổi lấy; để bù đắp cho",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + 代わりに",
+      "usageNotes": "Ba cách sử dụng: thay thế (thay vì), trao đổi (đổi lại) và bù đắp (một nhược điểm được cân bằng bởi một nhược điểm).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-shitagatte",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-11",
+      "title": "〜に従って",
+      "meaning": "Phù hợp với; tiếp theo; như ... (vì vậy ...)",
+      "connection": "Danh từ (N) + に従って / Động từ (V)-dict + に従って",
+      "usageNotes": "Với những danh từ như quy tắc hay chỉ dẫn: 'theo sau, tuân theo'. Với Verb-dict: thay đổi tỷ lệ như 〜につれて, với giọng trang trọng hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-tsurete",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-11",
+      "title": "〜につれて",
+      "meaning": "Như (một điều thay đổi, một điều khác cũng thay đổi)",
+      "connection": "Động từ (V)-dict / Danh từ (N) + につれて",
+      "usageNotes": "Cả hai nửa đều mô tả sự thay đổi dần dần. Mệnh đề chính không thể là một yêu cầu hoặc ý định của người nói. Gần với 〜に従って và 〜とともに.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-to-tomo-ni",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-11",
+      "title": "〜とともに",
+      "meaning": "Cùng với ; cùng với ; BẰNG; cùng lúc với",
+      "connection": "Danh từ (N) + とともに / Động từ (V)-dict + とともに",
+      "usageNotes": "Phiên bản chính thức của 〜と一緒に. Đồng thời đánh dấu các sự kiện xảy ra cùng lúc hoặc thay đổi tỷ lệ như 〜につれて.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-tabi-ni",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-11",
+      "title": "〜たびに",
+      "meaning": "Mỗi lần... / Cứ mỗi dịp...",
+      "connection": "Động từ (V)-dict / Danh từ (N) + の + たびに",
+      "usageNotes": "Mỗi lần A xảy ra thì B cũng xảy ra. Nhấn mạnh hơn 〜と hoặc 〜ときはいつも.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-goto-ni",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-12",
+      "title": "〜ごとに",
+      "meaning": "Mỗi; mỗi; trong khoảng thời gian",
+      "connection": "Danh từ (N) + ごとに / Động từ (V)-dict + ごとに",
+      "usageNotes": "Lặp lại đều đặn hoặc lần lượt từng đơn vị. Với Verb-dict nó gần với 〜たびに. Cẩn thận: 一日ごとに = hàng ngày, nhưng 一日おきに (N4) = cách ngày.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-saichuu-ni",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-12",
+      "title": "〜最中に",
+      "meaning": "Đúng vào lúc đang mải mê làm gì thì...",
+      "connection": "Động từ (V)-te + いる / Danh từ (N) + の + 最中に",
+      "usageNotes": "Nhấn mạnh mức độ cao của một hoạt động, thường là khi có điều gì đó bất ngờ làm gián đoạn hoạt động đó. Mạnh hơn 〜中に hoặc 〜ている間に. Ngoài ra 〜最中だ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-tsuide-ni",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-12",
+      "title": "〜ついでに",
+      "meaning": "Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó",
+      "connection": "Động từ (V)-dict / Động từ (V)-ta / Danh từ (N) + の + ついでに",
+      "usageNotes": "Hành động chính vẫn xảy ra; cái thứ hai được thêm vào vì nó thuận tiện. So sánh N1 〜がてら.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-okage-de",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-12",
+      "title": "〜おかげで",
+      "meaning": "Nhờ có... (Kết quả tốt đẹp)",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + おかげで",
+      "usageNotes": "Nguyên nhân của một kết quả tốt đẹp, với một cảm giác biết ơn. Đôi khi dùng với ý mỉa mai khi mang lại kết quả xấu (君のおかげで遅刻したよ). So sánh 〜せいで (đổ lỗi).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-sei-de",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-12",
+      "title": "〜せいで",
+      "meaning": "Tại vì... / Do... (Hậu quả xấu)",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + せいで",
+      "usageNotes": "Nguyên nhân dẫn đến kết quả xấu, đổ lỗi. 〜のせいにする = 'đổ lỗi cho điều gì đó'. Cảm giác trái ngược với 〜おかげで.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ta-totan-ta-totan-ni",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-13",
+      "title": "〜たとたん / 〜たとたんに",
+      "meaning": "Khoảnh khắc; giống như (điều gì đó bất ngờ xảy ra)",
+      "connection": "Động từ (V)-ta + とたん / とたんに",
+      "usageNotes": "Sự kiện thứ hai xảy ra đột ngột và nằm ngoài tầm kiểm soát của người nói. Không được sử dụng cho các hành động, yêu cầu hoặc ý định đã được lên kế hoạch của chính người nói.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-tara-ta",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-13",
+      "title": "〜たら〜た",
+      "meaning": "Khi tôi làm A, (tôi đã tìm thấy) B; khi làm, tôi phát hiện ra",
+      "connection": "Động từ (V)-ta + ら ... Động từ (V)-ta",
+      "usageNotes": "Sau một hành động, người nói nhận thấy hoặc phát hiện ra điều gì đó. Mệnh đề thứ hai là quá khứ và nằm ngoài tầm kiểm soát của người nói. 〜と〜た là từ viết tương đương hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-tatte-datte",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-13",
+      "title": "〜たって / 〜だって",
+      "meaning": "Ngay cả khi; không sao cả (thông thường)",
+      "connection": "Động từ (V)-ta + って / i-Adj-ku + たって / na-Adj / Danh từ (N) + だって",
+      "usageNotes": "Dạng thông tục của 〜ても / 〜でも, thường đi kèm với いくら hoặc từ để hỏi. だって cũng có nghĩa là 'vì' ở đầu câu và 'thậm chí' sau danh từ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-nai-koto-wa-nai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-13",
+      "title": "〜ないことはない",
+      "meaning": "Không phải thế... không phải; có thể nếu cần thiết; không phải là không thể",
+      "connection": "Động từ (V)-nai / i-Adj-ku + ない / na-Adj + でない + ことはない",
+      "usageNotes": "Một sự phủ định kép đưa ra một tiếng 'có' do dự. Ngoài ra 〜ないこともない. Đừng nhầm lẫn với Động từ-dict + ことはない ('không cần đâu').",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-te-shou-ga-nai-te-shikata-ga-nai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-13",
+      "title": "〜てしょうがない / 〜てしかたがない",
+      "meaning": "Vô cùng; không thể giúp được (cảm giác); không thể chịu nổi",
+      "connection": "Động từ (V)-te / i-Adj-ku + て / na-Adj + で + しょうがない / しかたがない",
+      "usageNotes": "Đối với những cảm giác và cảm giác mà người nói không thể kiểm soát được. しょうがない thì bình thường hơn. Không giống như 〜てたまらない, nó cũng có tác dụng với các động từ tự phát như 気になる hoặc 涙が出る.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-te-tamaranai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-14",
+      "title": "〜てたまらない",
+      "meaning": "Không thể chịu nổi ; sắp chết ; vô cùng (cảm giác)",
+      "connection": "Động từ (V)-te / i-Adj-ku + て / na-Adj + で + たまらない",
+      "usageNotes": "Cảm giác mạnh mẽ, trực tiếp hoặc cảm giác cơ thể; rất phổ biến với ham muốn (〜たくてたまらない). Không được sử dụng cho sự thật khách quan. So sánh 〜てしかたがない.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-te-hajimete",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-14",
+      "title": "〜てはじめて",
+      "meaning": "Chỉ sau đó; không cho đến khi",
+      "connection": "Động từ (V)-te + はじめて",
+      "usageNotes": "Điều gì đó chỉ được nhận ra hoặc trở thành khả thi sau một trải nghiệm; thường theo sau là 分かる, 気づく hoặc 知る. Cũng được viết là 〜て初めて.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-te-bakari-iru",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-14",
+      "title": "〜てばかりいる",
+      "meaning": "Không làm gì khác ngoài; tiếp tục làm (quan trọng)",
+      "connection": "Động từ (V)-te + ばかりいる",
+      "usageNotes": "Một hành động lặp đi lặp lại hoặc liên tục, thường kèm theo sự chỉ trích hoặc không hài lòng. So sánh Danh từ N4 + ばかり (甘い物ばかり食べる).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ba-ii",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-14",
+      "title": "〜ばいい",
+      "meaning": "Nên làm gì... / Chỉ cần... là được",
+      "connection": "Động từ (V)-ba + いい / i-Adj stem + ければ + いい",
+      "usageNotes": "Yêu cầu hoặc đưa ra lời khuyên (〜ばいいですか = 'tôi nên làm gì?'). 〜ばいいのに = 'Tôi ước gì'. 〜たらいい là từ gần đồng nghĩa; 〜ほうがいい nghe có vẻ kiên quyết hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-baai-wa",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-14",
+      "title": "〜場合（は）",
+      "meaning": "Trong trường hợp; nếu như; trong trường hợp đó",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + 場合（は）",
+      "usageNotes": "Điển hình của các hướng dẫn, quy tắc và thông báo về các tình huống có thể xảy ra. Không giống như 〜たら, nó không được sử dụng để kể lại một sự kiện xảy ra một lần trong quá khứ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-to-sureba-to-shitara",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-15",
+      "title": "〜とすれば / 〜としたら",
+      "meaning": "Nếu; giả sử điều đó ; giả sử",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + だ / Danh từ (N) + だ + とすれば / としたら",
+      "usageNotes": "Đặt ra một giả thuyết và xem xét những gì tiếp theo. Thường dùng với もし hoặc 仮に. としたら mang tính đàm thoại nhiều hơn; とすれば nghe giống lý luận logic hơn.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-to-shite-mo",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-15",
+      "title": "〜としても",
+      "meaning": "Ngay cả khi; thậm chí giả sử",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + だ / Danh từ (N) + だ + としても",
+      "usageNotes": "Nhượng bộ giả định: ngay cả khi giả sử A, B vẫn đúng. Nhiều giả thuyết hơn 〜ても; so sánh 〜にしても, thường chấp nhận một sự thật.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-toka-hearsay",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-15",
+      "title": "〜とか（hearsay）",
+      "meaning": "Tôi nghe thấy điều gì đó như; rõ ràng",
+      "connection": "Sentence + とか",
+      "usageNotes": "Tin đồn mơ hồ; nhẹ nhàng hơn và ít chắc chắn hơn 〜そうだ. Thường là 〜とかいう話だ, 〜とか聞いた, hoặc 〜とかで (đưa ra lý do được báo cáo). Khác với việc liệt kê 〜とか〜とか.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-tte",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-15",
+      "title": "〜って",
+      "meaning": "(trích dẫn thông thường) nói rằng; Tôi đã nghe; như ; cái gì là",
+      "connection": "Sentence + って / Danh từ (N) + って",
+      "usageNotes": "Thay thế thông thường cho と (trích dẫn), そうだ (tin đồn, thường là 〜んだって) và は (chủ đề, đặc biệt là 'X là gì?'). Phổ biến trong lời nói; tránh trong văn bản chính thức.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-to-iu-koto-da",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-15",
+      "title": "〜ということだ",
+      "meaning": "Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác",
+      "connection": "Sentence + ということだ",
+      "usageNotes": "Hai cách sử dụng: báo cáo thông tin (trang trọng hơn 〜そうだ) và đưa ra kết luận ('vậy điều đó có nghĩa là ...'). Việc sử dụng kết thúc thường kết thúc bằng ということですね.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-to-iu-no-wa",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-16",
+      "title": "〜というのは",
+      "meaning": "Ý nghĩa của ... là; ... có nghĩa; lý do là",
+      "connection": "Danh từ (N) / Sentence + というのは",
+      "usageNotes": "Giới thiệu một từ để định nghĩa hoặc một tình huống để nhận xét. Bình thường: 〜って. Khi bắt đầu câu, というのは giới thiệu lý do kết thúc bằng 〜からだ. Được viết: 〜とは.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-to-iu-yori",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-16",
+      "title": "〜というより",
+      "meaning": "Chứ không phải ; không nhiều A như B",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + というより",
+      "usageNotes": "Sửa hoặc tinh chỉnh mô tả: mô tả thứ hai phù hợp hơn. Thường theo sau là むしろ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-wari-ni-wari-ni-wa",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-16",
+      "title": "〜わりに / 〜わりには",
+      "meaning": "Xem xét; vì (bất ngờ)",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + わりに",
+      "usageNotes": "Kết quả không khớp với mức độ bạn mong đợi từ A (giá, tuổi, nỗ lực). Có thể theo sau tính từ, không giống như 〜にしては.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-kuse-ni",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-16",
+      "title": "〜くせに",
+      "meaning": "Mặc dù ; bất chấp (chỉ trích, khiển trách)",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + くせに",
+      "usageNotes": "Giống như 〜のに, nhưng với sự khinh miệt hoặc trách móc đối với chủ ngữ. Cả hai mệnh đề đều có cùng một chủ đề; hiếm khi được sử dụng về bản thân. Bình thường.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-kara-ni-kakete",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-16",
+      "title": "〜から〜にかけて",
+      "meaning": "Từ... qua; trên (một khoảng thời gian hoặc khu vực)",
+      "connection": "Danh từ (N) + から + Danh từ (N) + にかけて",
+      "usageNotes": "Một khoảng thời gian hoặc không gian gồ ghề có các cạnh không chính xác; phổ biến trong các bản tin thời tiết. So sánh 〜から〜まで, đánh dấu điểm bắt đầu và điểm kết thúc rõ ràng.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-buri",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-17",
+      "title": "〜ぶり",
+      "meaning": "Lần đầu tiên trong (một khoảng thời gian); cách thức, cách làm",
+      "connection": "Danh từ (N) + ぶり / Động từ (V)-stem + ぶり",
+      "usageNotes": "Khoảng thời gian + ぶり: lần đầu tiên trong thời gian dài như vậy (〜ぶりに / 〜ぶりの). Danh từ hoặc Thân động từ + ぶり: cách ai đó làm việc gì đó (仕事ぶり, 話しぶり).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-kke",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-17",
+      "title": "〜っけ",
+      "meaning": "Phải không?; tôi phải không?; (cố nhớ lại)",
+      "connection": "Động từ (V)-ta / Danh từ (N) + だ / Danh từ (N) + だった + っけ",
+      "usageNotes": "Kiểm tra điều gì đó bạn đã quên hoặc nhớ lại quá khứ một cách trìu mến (〜たっけ). Hình thức lịch sự: 〜でしたっけ, 〜ましたっけ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-masu-you-ni",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-17",
+      "title": "〜ますように",
+      "meaning": "Tôi hy vọng; tháng năm (mong muốn, cầu nguyện)",
+      "connection": "Động từ (V)-stem + ますように / Động từ (V)-stem + ませんように",
+      "usageNotes": "Được sử dụng cho những lời chúc và lời cầu nguyện, ví dụ: tại một ngôi đền hoặc trên dải tanabata, và ở cuối bức thư chúc ai đó mọi điều tốt lành.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-furi-o-suru",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-17",
+      "title": "〜ふりをする",
+      "meaning": "Giả vờ ; hành động như thể",
+      "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + ふりをする",
+      "usageNotes": "Cố tình tạo ấn tượng sai. Động từ-ta phổ biến: 寝たふり, 死んだふり.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-muki-muke",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-17",
+      "title": "〜向き / 〜向け",
+      "meaning": "Phù hợp với/nhắm tới; dành cho",
+      "connection": "Danh từ (N) + 向き / Danh từ (N) + 向け",
+      "usageNotes": "向き: rất hợp với X. 向け: được làm nhằm mục đích dành cho X. 向き cũng có nghĩa là 'đối diện' (南向きの部屋).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-gachi",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-18",
+      "title": "〜がち",
+      "meaning": "Có xu hướng ; có xu hướng; thường xuyên",
+      "connection": "Động từ (V)-stem / Danh từ (N) + がち",
+      "usageNotes": "Có xu hướng thường xuyên hướng tới điều gì đó không mong muốn. So sánh 〜やすい (dễ xảy ra, có thể bình thường) và 〜気味 (dấu hiệu nhẹ của tình trạng hiện tại).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-gimi",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-18",
+      "title": "〜気味",
+      "meaning": "Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)",
+      "connection": "Danh từ (N) / Động từ (V)-stem + 気味",
+      "usageNotes": "Một dấu hiệu nhẹ của tình trạng (thường là tiêu cực) hiện tại. So sánh 〜がち, có nghĩa là việc gì đó xảy ra thường xuyên.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-darake",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-18",
+      "title": "〜だらけ",
+      "meaning": "Đầy ; được bao phủ bởi; đánh đố với",
+      "connection": "Danh từ (N) + だらけ",
+      "usageNotes": "Một lượng lớn thứ gì đó che phủ hoặc lấp đầy một nơi; thường tiêu cực. So sánh N1 〜まみれ (được bao phủ bởi thứ gì đó dính hoặc bẩn).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-kiru-kirenai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-18",
+      "title": "〜切る / 〜切れない",
+      "meaning": "Làm hoàn toàn; kết thúc/không thể kết thúc; quá nhiều để",
+      "connection": "Động từ (V)-stem + 切る / Động từ (V)-stem + 切れない",
+      "usageNotes": "Làm một việc gì đó cho đến tận cùng. Cũng mô tả một trạng thái hoàn toàn: 疲れ切る ('hoàn toàn kiệt sức'). Thường được viết bằng kana: 〜きる / 〜きれない.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-kakeru",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-18",
+      "title": "〜かける",
+      "meaning": "Hoàn thành một nửa; bắt đầu ; sắp sửa",
+      "connection": "Động từ (V)-stem + かける / Động từ (V)-stem + かけの + Danh từ (N)",
+      "usageNotes": "Một hành động đã bắt đầu nhưng chưa kết thúc, hoặc một việc gì đó sắp xảy ra (死にかける). Thân động từ + かけの + danh từ mô tả sự việc chưa hoàn thành.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-au",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-19",
+      "title": "〜合う",
+      "meaning": "Làm với nhau; làm cùng nhau",
+      "connection": "Động từ (V)-stem + 合う",
+      "usageNotes": "Hành động tương hỗ hoặc chia sẻ. Nhiều từ ghép được tạo thành từ: 話し合う, 知り合う, 付き合う, 助け合う.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-naosu",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-19",
+      "title": "〜直す",
+      "meaning": "Làm lại; làm lại (để sửa chữa hoặc cải thiện)",
+      "connection": "Động từ (V)-stem + 直す",
+      "usageNotes": "Làm lại điều gì đó để sửa chữa hoặc cải thiện nó. Sự lặp lại đơn giản (もう一度〜する) không mang lại cảm giác sửa lỗi.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-zurai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-19",
+      "title": "〜づらい",
+      "meaning": "Khó ; khó khăn hoặc không thoải mái để",
+      "connection": "Động từ (V)-stem + づらい",
+      "usageNotes": "Nhấn mạnh sự khó chịu về thể chất hoặc tâm lý của người thực hiện. 〜にくい (N4) khách quan hơn, mô tả bản chất của sự vật. N2 trang trọng: 〜がたい.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-beki-da-beki-de-wa-nai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-19",
+      "title": "〜べきだ / 〜べきではない",
+      "meaning": "Nên ; nên/không nên",
+      "connection": "Động từ (V)-dict + べきだ / Động từ (V)-dict + べきではない",
+      "usageNotes": "Có quan điểm mạnh mẽ về điều gì là đúng hoặc nghĩa vụ của một người; quá thẳng thừng để sử dụng đối với cấp trên. する → すべき hoặc するべき. So sánh 〜ほうがいい (lời khuyên) và 〜ものだ (chuẩn mực xã hội).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-hodo-wa-nai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-19",
+      "title": "〜ほど〜はない",
+      "meaning": "Không có gì là ... như; không có ... như",
+      "connection": "Danh từ (N) + ほど + i-Adj / na-Adj + な + Danh từ (N) + はない",
+      "usageNotes": "Nói X là ... nhiều nhất, thường là từ kinh nghiệm hoặc cảm nhận cá nhân. Ngoài ra 〜くらい〜はない.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-shika-nai-no-choice",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-20",
+      "title": "〜しかない",
+      "meaning": "Không có lựa chọn nào khác ngoài việc; chỉ có thể",
+      "connection": "Động từ (V)-dict + しかない",
+      "usageNotes": "Không có lựa chọn nào khác nên người nói chấp nhận lựa chọn này. Khác với Danh từ + しか〜ない ('chỉ'). Tương đương N2 trang trọng: 〜ほかない.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-made-even",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-20",
+      "title": "〜まで（even）",
+      "meaning": "Thậm chí (một trường hợp cực đoan)",
+      "connection": "Danh từ (N) + まで / Danh từ (N) + にまで",
+      "usageNotes": "Thêm một mục cực đoan lên trên những mục khác, thường gây ngạc nhiên hoặc mất tinh thần. So sánh 〜さえ, tự nó chọn ra một ví dụ cực đoan.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-tokoro-datta",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-20",
+      "title": "〜ところだった",
+      "meaning": "Gần như; gần như (nhưng không)",
+      "connection": "Động từ (V)-dict + ところだった",
+      "usageNotes": "Một điều gì đó (thường là tồi tệ) đã suýt xảy ra nhưng đã không xảy ra. Thường đi kèm với mệnh đề もう少しで, 危うく hoặc mệnh đề 〜たら. So sánh 〜そうになった.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-kara-to-itte",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-20",
+      "title": "〜からといって",
+      "meaning": "Chỉ vì (... không có nghĩa); đơn giản vì",
+      "connection": "Sentence + からといって",
+      "usageNotes": "Phủ nhận rằng một lý do sẽ tự động dẫn đến một kết luận. Thường theo sau là phủ định như 〜わけではない hoặc 〜とは限らない. Bình thường: 〜からって.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-toori-ni-doori-ni",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-20",
+      "title": "〜とおりに / 〜どおりに",
+      "meaning": "Như ; theo cách đó; chính xác như",
+      "connection": "Động từ (V)-dict / Động từ (V)-ta / Danh từ (N) + の + とおりに / Danh từ (N) + どおりに",
+      "usageNotes": "Làm điều gì đó giống hệt như một mô hình, hướng dẫn hoặc dự đoán. Ngay sau danh từ nó trở thành どおり (予定どおり, 思いどおり). に thường bị bỏ đi. そのとおりだ = 'chính xác'.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-nanka-nante",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-21",
+      "title": "〜なんか / 〜なんて",
+      "meaning": "Những thứ như; thích (bác bỏ hoặc khiêm tốn); Làm sao ...! (sự ngạc nhiên)",
+      "connection": "Danh từ (N) + なんか / Danh từ (N) + なんて / Sentence + なんて",
+      "usageNotes": "Phiên bản thông thường của など với giọng điệu khinh miệt, khiêm tốn hoặc ngạc nhiên. なんか cũng làm dịu đi những gợi ý (お茶なんかどう？). Câu + なんて thể hiện sự ngạc nhiên hoặc không tin tưởng.",
       "questionsCount": 5
     }
   ]

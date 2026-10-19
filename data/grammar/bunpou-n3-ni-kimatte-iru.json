@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-ni-kimatte-iru",
+  "level": "N3",
+  "pattern": "〜に決まっている",
+  "title": "〜に決まっている",
+  "meaning": "Chắc chắn; bị ràng buộc; tất nhiên",
+  "meaningVi": "Chắc chắn; bị ràng buộc; tất nhiên",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + に決まっている",
+  "usageNotes": "Một phán đoán rất tự tin, chủ quan, thường gặp trong hội thoại (〜に決まってる). Quyết đoán hơn 〜に違いない và không phù hợp với cách viết trang trọng.",
+  "examples": [
+    {
+      "ja": "練習もしないで試合に出たら、負けるに決まっている。",
+      "furigana": "{練習|れんしゅう}もしないで{試合|しあい}に{出|で}たら、{負|ま}けるに{決|き}まっている。",
+      "en": "If you play the match without practicing, you're bound to lose.",
+      "vi": "Nếu bạn chơi trận đấu mà không luyện tập, bạn chắc chắn sẽ thua."
+    },
+    {
+      "ja": "一人で富士山に登るなんて、お母さんが心配するに決まってるでしょう。",
+      "furigana": "{一人|ひとり}で{富士山|ふじさん}に{登|のぼ}るなんて、お{母|かあ}さんが{心配|しんぱい}するに{決|き}まってるでしょう。",
+      "en": "Climbing Mt. Fuji alone? Of course your mother's going to worry.",
+      "vi": "Leo núi Phú Sĩ một mình? Tất nhiên là mẹ bạn sẽ lo lắng."
+    },
+    {
+      "ja": "そんなうまい話、うそに決まっているよ。",
+      "furigana": "そんなうまい{話|はなし}、うそに{決|き}まっているよ。",
+      "en": "A deal that good? It's got to be a lie.",
+      "vi": "Một thỏa thuận tốt như vậy? Đó chắc hẳn là một lời nói dối."
+    }
+  ],
+  "tags": [
+    "conjecture",
+    "emphasis",
+    "casual"
+  ],
+  "unitId": "grammar-n3-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-kimatte-iru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "練習もしないで試合に出たら、負けるに決まっている。",
+      "sentenceVi": "Nếu bạn chơi trận đấu mà không luyện tập, bạn chắc chắn sẽ thua.",
+      "targetGrammar": "〜に決まっている",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn; bị ràng buộc; tất nhiên",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜に決まっている」 mang ý nghĩa: \"Chắc chắn; bị ràng buộc; tất nhiên\"."
+    },
+    {
+      "id": "bunpou-n3-ni-kimatte-iru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "一人で富士山に登るなんて、お母さんが心配するに決まってるでしょう。",
+      "sentenceVi": "Leo núi Phú Sĩ một mình? Tất nhiên là mẹ bạn sẽ lo lắng.",
+      "targetGrammar": "〜に決まっている",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜わけにはいかない",
+        "〜に決まっている",
+        "〜ものではない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Leo núi Phú Sĩ một mình? Tất nhiên là mẹ bạn sẽ lo lắng.\", ta sử dụng mẫu 「〜に決まっている」."
+    },
+    {
+      "id": "bunpou-n3-ni-kimatte-iru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "そんなうまい話、うそに決まっているよ。",
+      "sentenceVi": "Một thỏa thuận tốt như vậy? Đó chắc hẳn là một lời nói dối.",
+      "targetGrammar": "〜に決まっている",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Chắc chắn; bị ràng buộc; tất nhiên",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜に決まっている」 mang ý nghĩa: \"Chắc chắn; bị ràng buộc; tất nhiên\"."
+    },
+    {
+      "id": "bunpou-n3-ni-kimatte-iru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "練習もしないで試合に出たら、負けるに決まっている。",
+      "sentenceVi": "Nếu bạn chơi trận đấu mà không luyện tập, bạn chắc chắn sẽ thua.",
+      "targetGrammar": "〜に決まっている",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chắc chắn; bị ràng buộc; tất nhiên\":",
+      "options": [
+        "〜ことにしている",
+        "〜に決まっている",
+        "〜ことはない",
+        "〜ことになっている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜に決まっている」."
+    },
+    {
+      "id": "bunpou-n3-ni-kimatte-iru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "練習もしないで試合に出たら、負けるに決まっている。",
+      "sentenceVi": "Nếu bạn chơi trận đấu mà không luyện tập, bạn chắc chắn sẽ thua.",
+      "targetGrammar": "〜に決まっている",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜に決まっている」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Chắc chắn; bị ràng buộc; tất nhiên"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜に決まっている」 có nghĩa là: Chắc chắn; bị ràng buộc; tất nhiên."
+    }
+  ]
+}

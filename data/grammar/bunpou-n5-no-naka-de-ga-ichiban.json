@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-no-naka-de-ga-ichiban",
+  "level": "N5",
+  "pattern": "〜の中で〜が一番",
+  "title": "〜の中で〜が一番",
+  "meaning": "... là nhiều nhất ... trong số/của",
+  "meaningVi": "... là nhiều nhất ... trong số/của",
+  "connection": "Danh từ (N) + の中で + Danh từ (N) + が一番",
+  "usageNotes": "Được sử dụng cho ba mặt hàng trở lên. Trong câu hỏi sử dụng 何, だれ, どこ hoặc いつ trước が一番.",
+  "examples": [
+    {
+      "ja": "果物の中でりんごが一番好きです。",
+      "furigana": "{果物|くだもの}の{中|なか}でりんごが{一番|いちばん}{好|す}きです。",
+      "en": "Of all fruits, I like apples the most.",
+      "vi": "Trong tất cả các loại trái cây, tôi thích nhất là táo."
+    },
+    {
+      "ja": "クラスの中でだれが一番背が高いですか。",
+      "furigana": "クラスの{中|なか}でだれが{一番|いちばん}{背|せ}が{高|たか}いですか。",
+      "en": "Who is the tallest in the class?",
+      "vi": "Ai là người cao nhất lớp?"
+    },
+    {
+      "ja": "家族の中で父が一番早く起きます。",
+      "furigana": "{家族|かぞく}の{中|なか}で{父|ちち}が{一番|いちばん}{早|はや}く{起|お}きます。",
+      "en": "In my family, my father gets up the earliest.",
+      "vi": "Trong gia đình tôi, bố tôi dậy sớm nhất."
+    }
+  ],
+  "tags": [
+    "comparison",
+    "range"
+  ],
+  "unitId": "grammar-n5-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n5-no-naka-de-ga-ichiban-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "果物の中でりんごが一番好きです。",
+      "sentenceVi": "Trong tất cả các loại trái cây, tôi thích nhất là táo.",
+      "targetGrammar": "〜の中で〜が一番",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "... là nhiều nhất ... trong số/của",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜の中で〜が一番」 mang ý nghĩa: \"... là nhiều nhất ... trong số/của\"."
+    },
+    {
+      "id": "bunpou-n5-no-naka-de-ga-ichiban-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "クラスの中でだれが一番背が高いですか。",
+      "sentenceVi": "Ai là người cao nhất lớp?",
+      "targetGrammar": "〜の中で〜が一番",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜の中で〜が一番",
+        "〜に（place of existence）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Ai là người cao nhất lớp?\", ta sử dụng mẫu 「〜の中で〜が一番」."
+    },
+    {
+      "id": "bunpou-n5-no-naka-de-ga-ichiban-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "家族の中で父が一番早く起きます。",
+      "sentenceVi": "Trong gia đình tôi, bố tôi dậy sớm nhất.",
+      "targetGrammar": "〜の中で〜が一番",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "... là nhiều nhất ... trong số/của",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜の中で〜が一番」 mang ý nghĩa: \"... là nhiều nhất ... trong số/của\"."
+    },
+    {
+      "id": "bunpou-n5-no-naka-de-ga-ichiban-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "果物の中でりんごが一番好きです。",
+      "sentenceVi": "Trong tất cả các loại trái cây, tôi thích nhất là táo.",
+      "targetGrammar": "〜の中で〜が一番",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"... là nhiều nhất ... trong số/của\":",
+      "options": [
+        "〜で（means）",
+        "〜で（place of action）",
+        "〜と（and）",
+        "〜の中で〜が一番"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜の中で〜が一番」."
+    },
+    {
+      "id": "bunpou-n5-no-naka-de-ga-ichiban-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "果物の中でりんごが一番好きです。",
+      "sentenceVi": "Trong tất cả các loại trái cây, tôi thích nhất là táo.",
+      "targetGrammar": "〜の中で〜が一番",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜の中で〜が一番」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "... là nhiều nhất ... trong số/của",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜の中で〜が一番」 có nghĩa là: ... là nhiều nhất ... trong số/của."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-amari-nai",
+  "level": "N5",
+  "pattern": "あまり〜ない",
+  "title": "あまり〜ない",
+  "meaning": "Không hẳn; không nhiều; không thường xuyên",
+  "meaningVi": "Không hẳn; không nhiều; không thường xuyên",
+  "connection": "あまり + Động từ (V)-nai / あまり + i-Adj-ku + ない / あまり + na-Adj + じゃない",
+  "usageNotes": "Luôn theo sau là dạng phủ định. あまり好きじゃない là một cách nhẹ nhàng hơn để nói rằng bạn không thích điều gì đó.",
+  "examples": [
+    {
+      "ja": "私はあまりテレビを見ません。",
+      "furigana": "{私|わたし}はあまりテレビを{見|み}ません。",
+      "en": "I don't watch much TV.",
+      "vi": "Tôi không xem TV nhiều."
+    },
+    {
+      "ja": "このりんごはあまり甘くないです。",
+      "furigana": "このりんごはあまり{甘|あま}くないです。",
+      "en": "This apple isn't very sweet.",
+      "vi": "Quả táo này không ngọt lắm."
+    },
+    {
+      "ja": "今日はあまり忙しくありません。",
+      "furigana": "{今日|きょう}はあまり{忙|いそが}しくありません。",
+      "en": "I'm not very busy today.",
+      "vi": "Hôm nay tôi không bận lắm."
+    }
+  ],
+  "tags": [
+    "negation",
+    "degree"
+  ],
+  "unitId": "grammar-n5-unit-14",
+  "questions": [
+    {
+      "id": "bunpou-n5-amari-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私はあまりテレビを見ません。",
+      "sentenceVi": "Tôi không xem TV nhiều.",
+      "targetGrammar": "あまり〜ない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn; không nhiều; không thường xuyên",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「あまり〜ない」 mang ý nghĩa: \"Không hẳn; không nhiều; không thường xuyên\"."
+    },
+    {
+      "id": "bunpou-n5-amari-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このりんごはあまり甘くないです。",
+      "sentenceVi": "Quả táo này không ngọt lắm.",
+      "targetGrammar": "あまり〜ない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜に（destination）",
+        "〜に（time）",
+        "あまり〜ない"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Quả táo này không ngọt lắm.\", ta sử dụng mẫu 「あまり〜ない」."
+    },
+    {
+      "id": "bunpou-n5-amari-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今日はあまり忙しくありません。",
+      "sentenceVi": "Hôm nay tôi không bận lắm.",
+      "targetGrammar": "あまり〜ない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Không hẳn; không nhiều; không thường xuyên"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「あまり〜ない」 mang ý nghĩa: \"Không hẳn; không nhiều; không thường xuyên\"."
+    },
+    {
+      "id": "bunpou-n5-amari-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私はあまりテレビを見ません。",
+      "sentenceVi": "Tôi không xem TV nhiều.",
+      "targetGrammar": "あまり〜ない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không hẳn; không nhiều; không thường xuyên\":",
+      "options": [
+        "〜で（place of action）",
+        "〜と（and）",
+        "〜で（means）",
+        "あまり〜ない"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「あまり〜ない」."
+    },
+    {
+      "id": "bunpou-n5-amari-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私はあまりテレビを見ません。",
+      "sentenceVi": "Tôi không xem TV nhiều.",
+      "targetGrammar": "あまり〜ない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「あまり〜ない」 là gì?",
+      "options": [
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Không hẳn; không nhiều; không thường xuyên"
+      ],
+      "correctIndex": 3,
+      "explanation": "「あまり〜ない」 có nghĩa là: Không hẳn; không nhiều; không thường xuyên."
+    }
+  ]
+}

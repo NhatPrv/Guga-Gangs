@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ga-hoshii",
+  "level": "N5",
+  "pattern": "〜がほしい",
+  "title": "〜がほしい",
+  "meaning": "Muốn (cái gì đó)",
+  "meaningVi": "Muốn (cái gì đó)",
+  "connection": "Danh từ (N) + がほしい",
+  "usageNotes": "Đối với sự vật, không phải hành động (hành động sử dụng 〜たい). Liên hợp như tính từ い: ほしくない, ほしかった.",
+  "examples": [
+    {
+      "ja": "新しいパソコンがほしいです。",
+      "furigana": "{新|あたら}しいパソコンがほしいです。",
+      "en": "I want a new computer.",
+      "vi": "Tôi muốn một chiếc máy tính mới."
+    },
+    {
+      "ja": "誕生日に何がほしいですか。",
+      "furigana": "{誕生|たんじょう}{日|び}に{何|なに}がほしいですか。",
+      "en": "What do you want for your birthday?",
+      "vi": "Bạn muốn gì cho ngày sinh nhật của mình?"
+    },
+    {
+      "ja": "今は何もほしくないです。",
+      "furigana": "{今|いま}は{何|なに}もほしくないです。",
+      "en": "I don't want anything right now.",
+      "vi": "Tôi không muốn bất cứ điều gì ngay bây giờ."
+    }
+  ],
+  "tags": [
+    "desire"
+  ],
+  "unitId": "grammar-n5-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n5-ga-hoshii-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "新しいパソコンがほしいです。",
+      "sentenceVi": "Tôi muốn một chiếc máy tính mới.",
+      "targetGrammar": "〜がほしい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Muốn (cái gì đó)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜がほしい」 mang ý nghĩa: \"Muốn (cái gì đó)\"."
+    },
+    {
+      "id": "bunpou-n5-ga-hoshii-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "誕生日に何がほしいですか。",
+      "sentenceVi": "Bạn muốn gì cho ngày sinh nhật của mình?",
+      "targetGrammar": "〜がほしい",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜に（destination）",
+        "〜がほしい",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn muốn gì cho ngày sinh nhật của mình?\", ta sử dụng mẫu 「〜がほしい」."
+    },
+    {
+      "id": "bunpou-n5-ga-hoshii-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今は何もほしくないです。",
+      "sentenceVi": "Tôi không muốn bất cứ điều gì ngay bây giờ.",
+      "targetGrammar": "〜がほしい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Muốn (cái gì đó)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜がほしい」 mang ý nghĩa: \"Muốn (cái gì đó)\"."
+    },
+    {
+      "id": "bunpou-n5-ga-hoshii-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "新しいパソコンがほしいです。",
+      "sentenceVi": "Tôi muốn một chiếc máy tính mới.",
+      "targetGrammar": "〜がほしい",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Muốn (cái gì đó)\":",
+      "options": [
+        "〜と（and）",
+        "〜がほしい",
+        "〜で（means）",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜がほしい」."
+    },
+    {
+      "id": "bunpou-n5-ga-hoshii-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "新しいパソコンがほしいです。",
+      "sentenceVi": "Tôi muốn một chiếc máy tính mới.",
+      "targetGrammar": "〜がほしい",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜がほしい」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Muốn (cái gì đó)",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜がほしい」 có nghĩa là: Muốn (cái gì đó)."
+    }
+  ]
+}

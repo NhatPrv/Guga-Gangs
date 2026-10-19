@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-kore-sore-are-dore",
+  "level": "N5",
+  "pattern": "これ / それ / あれ / どれ",
+  "title": "これ / それ / あれ / どれ",
+  "meaning": "Cái này; cái đó (gần bạn); cái đó (ở đằng kia); cái nào",
+  "meaningVi": "Cái này; cái đó (gần bạn); cái đó (ở đằng kia); cái nào",
+  "connection": "これ / それ / あれ / どれ",
+  "usageNotes": "こ = ở gần người nói, そ = ở gần người nghe, あ = ở xa cả hai, ど = câu hỏi. Họ đứng một mình; làm chủ ngữ どれ lấy が, không phải は.",
+  "examples": [
+    {
+      "ja": "これは私の辞書です。",
+      "furigana": "これは{私|わたし}の{辞書|じしょ}です。",
+      "en": "This is my dictionary.",
+      "vi": "Đây là từ điển của tôi."
+    },
+    {
+      "ja": "それは何ですか。",
+      "furigana": "それは{何|なに}ですか。",
+      "en": "What is that?",
+      "vi": "Đó là cái gì vậy?"
+    },
+    {
+      "ja": "「あなたのかさはどれですか。」「あれです。」",
+      "furigana": "「あなたのかさはどれですか。」「あれです。」",
+      "en": "\"Which one is your umbrella?\" \"That one over there.\"",
+      "vi": "\"Chiếc ô của bạn là cái nào?\" “Cái kia kìa.”"
+    }
+  ],
+  "tags": [
+    "demonstrative"
+  ],
+  "unitId": "grammar-n5-unit-15",
+  "questions": [
+    {
+      "id": "bunpou-n5-kore-sore-are-dore-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "これは私の辞書です。",
+      "sentenceVi": "Đây là từ điển của tôi.",
+      "targetGrammar": "これ / それ / あれ / どれ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Cái này; cái đó (gần bạn); cái đó (ở đằng kia); cái nào",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「これ / それ / あれ / どれ」 mang ý nghĩa: \"Cái này; cái đó (gần bạn); cái đó (ở đằng kia); cái nào\"."
+    },
+    {
+      "id": "bunpou-n5-kore-sore-are-dore-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "それは何ですか。",
+      "sentenceVi": "Đó là cái gì vậy?",
+      "targetGrammar": "これ / それ / あれ / どれ",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "これ / それ / あれ / どれ",
+        "〜に（place of existence）",
+        "〜に（time）",
+        "〜に（destination）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Đó là cái gì vậy?\", ta sử dụng mẫu 「これ / それ / あれ / どれ」."
+    },
+    {
+      "id": "bunpou-n5-kore-sore-are-dore-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「あなたのかさはどれですか。」「あれです。」",
+      "sentenceVi": "\"Chiếc ô của bạn là cái nào?\" “Cái kia kìa.”",
+      "targetGrammar": "これ / それ / あれ / どれ",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Cái này; cái đó (gần bạn); cái đó (ở đằng kia); cái nào"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「これ / それ / あれ / どれ」 mang ý nghĩa: \"Cái này; cái đó (gần bạn); cái đó (ở đằng kia); cái nào\"."
+    },
+    {
+      "id": "bunpou-n5-kore-sore-are-dore-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "これは私の辞書です。",
+      "sentenceVi": "Đây là từ điển của tôi.",
+      "targetGrammar": "これ / それ / あれ / どれ",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cái này; cái đó (gần bạn); cái đó (ở đằng kia); cái nào\":",
+      "options": [
+        "〜と（and）",
+        "〜で（place of action）",
+        "これ / それ / あれ / どれ",
+        "〜で（means）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「これ / それ / あれ / どれ」."
+    },
+    {
+      "id": "bunpou-n5-kore-sore-are-dore-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "これは私の辞書です。",
+      "sentenceVi": "Đây là từ điển của tôi.",
+      "targetGrammar": "これ / それ / あれ / どれ",
+      "prompt": "Ý nghĩa chính của cấu trúc 「これ / それ / あれ / どれ」 là gì?",
+      "options": [
+        "Cái này; cái đó (gần bạn); cái đó (ở đằng kia); cái nào",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「これ / それ / あれ / どれ」 có nghĩa là: Cái này; cái đó (gần bạn); cái đó (ở đằng kia); cái nào."
+    }
+  ]
+}

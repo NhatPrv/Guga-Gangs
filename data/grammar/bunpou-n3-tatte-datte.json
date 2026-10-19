@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-tatte-datte",
+  "level": "N3",
+  "pattern": "〜たって / 〜だって",
+  "title": "〜たって / 〜だって",
+  "meaning": "Ngay cả khi; không sao cả (thông thường)",
+  "meaningVi": "Ngay cả khi; không sao cả (thông thường)",
+  "connection": "Động từ (V)-ta + って / i-Adj-ku + たって / na-Adj / Danh từ (N) + だって",
+  "usageNotes": "Dạng thông tục của 〜ても / 〜でも, thường đi kèm với いくら hoặc từ để hỏi. だって cũng có nghĩa là 'vì' ở đầu câu và 'thậm chí' sau danh từ.",
+  "examples": [
+    {
+      "ja": "今から急いだって、もう間に合わないよ。",
+      "furigana": "{今|いま}から{急|いそ}いだって、もう{間|ま}に{合|あ}わないよ。",
+      "en": "Even if you hurry now, you won't make it.",
+      "vi": "Cho dù bây giờ bạn có nhanh lên, bạn cũng sẽ không thể làm được."
+    },
+    {
+      "ja": "高くたって、欲しいものは欲しい。",
+      "furigana": "{高|たか}くたって、{欲|ほ}しいものは{欲|ほ}しい。",
+      "en": "Even if it's expensive, I want what I want.",
+      "vi": "Ngay cả khi nó đắt tiền, tôi vẫn muốn những gì tôi muốn."
+    },
+    {
+      "ja": "いくら便利だって、使い方が分からなければ意味がない。",
+      "furigana": "いくら{便利|べんり}だって、{使|つか}い{方|かた}が{分|わ}からなければ{意味|いみ}がない。",
+      "en": "No matter how convenient it is, it's pointless if you don't know how to use it.",
+      "vi": "Dù tiện lợi đến mấy nhưng cũng sẽ vô nghĩa nếu bạn không biết cách sử dụng."
+    }
+  ],
+  "tags": [
+    "concession",
+    "casual"
+  ],
+  "unitId": "grammar-n3-unit-13",
+  "questions": [
+    {
+      "id": "bunpou-n3-tatte-datte-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今から急いだって、もう間に合わないよ。",
+      "sentenceVi": "Cho dù bây giờ bạn có nhanh lên, bạn cũng sẽ không thể làm được.",
+      "targetGrammar": "〜たって / 〜だって",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Ngay cả khi; không sao cả (thông thường)",
+        "Chắc chắn không... / Không đời nào..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜たって / 〜だって」 mang ý nghĩa: \"Ngay cả khi; không sao cả (thông thường)\"."
+    },
+    {
+      "id": "bunpou-n3-tatte-datte-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "高くたって、欲しいものは欲しい。",
+      "sentenceVi": "Ngay cả khi nó đắt tiền, tôi vẫn muốn những gì tôi muốn.",
+      "targetGrammar": "〜たって / 〜だって",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜たって / 〜だって",
+        "〜わけにはいかない",
+        "〜ものではない",
+        "〜ものだ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Ngay cả khi nó đắt tiền, tôi vẫn muốn những gì tôi muốn.\", ta sử dụng mẫu 「〜たって / 〜だって」."
+    },
+    {
+      "id": "bunpou-n3-tatte-datte-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "いくら便利だって、使い方が分からなければ意味がない。",
+      "sentenceVi": "Dù tiện lợi đến mấy nhưng cũng sẽ vô nghĩa nếu bạn không biết cách sử dụng.",
+      "targetGrammar": "〜たって / 〜だって",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Ngay cả khi; không sao cả (thông thường)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜たって / 〜だって」 mang ý nghĩa: \"Ngay cả khi; không sao cả (thông thường)\"."
+    },
+    {
+      "id": "bunpou-n3-tatte-datte-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今から急いだって、もう間に合わないよ。",
+      "sentenceVi": "Cho dù bây giờ bạn có nhanh lên, bạn cũng sẽ không thể làm được.",
+      "targetGrammar": "〜たって / 〜だって",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ngay cả khi; không sao cả (thông thường)\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことになっている",
+        "〜たって / 〜だって",
+        "〜ことはない"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜たって / 〜だって」."
+    },
+    {
+      "id": "bunpou-n3-tatte-datte-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "今から急いだって、もう間に合わないよ。",
+      "sentenceVi": "Cho dù bây giờ bạn có nhanh lên, bạn cũng sẽ không thể làm được.",
+      "targetGrammar": "〜たって / 〜だって",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜たって / 〜だって」 là gì?",
+      "options": [
+        "Ngay cả khi; không sao cả (thông thường)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜たって / 〜だって」 có nghĩa là: Ngay cả khi; không sao cả (thông thường)."
+    }
+  ]
+}

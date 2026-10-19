@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-te-mo-de-mo",
+  "level": "N4",
+  "pattern": "〜ても / 〜でも",
+  "title": "〜ても / 〜でも",
+  "meaning": "Ngay cả khi; mặc dù",
+  "meaningVi": "Ngay cả khi; mặc dù",
+  "connection": "Động từ (V)-te + も / i-Adj-ku + ても / na-Adj + でも / Danh từ (N) + でも",
+  "usageNotes": "Với từ để hỏi hoặc いくら nó có nghĩa là 'không có vấn đề gì ...' (何を食べても, いくら待っても).",
+  "examples": [
+    {
+      "ja": "雨が降っても、試合はあります。",
+      "furigana": "{雨|あめ}が{降|ふ}っても、{試合|しあい}はあります。",
+      "en": "Even if it rains, the game will go ahead.",
+      "vi": "Ngay cả khi trời mưa, trò chơi vẫn tiếp tục."
+    },
+    {
+      "ja": "いくら練習しても、なかなか上手になりません。",
+      "furigana": "いくら{練習|れんしゅう}しても、なかなか{上手|じょうず}になりません。",
+      "en": "No matter how much I practice, I just don't get any better.",
+      "vi": "Dù tôi có luyện tập bao nhiêu đi chăng nữa, tôi cũng không khá hơn chút nào."
+    },
+    {
+      "ja": "日曜日でも、この店は開いています。",
+      "furigana": "{日曜日|にちようび}でも、この{店|みせ}は{開|あ}いています。",
+      "en": "This shop is open even on Sundays.",
+      "vi": "Cửa hàng này mở cửa cả ngày chủ nhật."
+    }
+  ],
+  "tags": [
+    "concession",
+    "condition"
+  ],
+  "unitId": "grammar-n4-unit-08",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-mo-de-mo-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "雨が降っても、試合はあります。",
+      "sentenceVi": "Ngay cả khi trời mưa, trò chơi vẫn tiếp tục.",
+      "targetGrammar": "〜ても / 〜でも",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Ngay cả khi; mặc dù"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ても / 〜でも」 mang ý nghĩa: \"Ngay cả khi; mặc dù\"."
+    },
+    {
+      "id": "bunpou-n4-te-mo-de-mo-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "いくら練習しても、なかなか上手になりません。",
+      "sentenceVi": "Dù tôi có luyện tập bao nhiêu đi chăng nữa, tôi cũng không khá hơn chút nào.",
+      "targetGrammar": "〜ても / 〜でも",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ても / 〜でも",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜ていく"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Dù tôi có luyện tập bao nhiêu đi chăng nữa, tôi cũng không khá hơn chút nào.\", ta sử dụng mẫu 「〜ても / 〜でも」."
+    },
+    {
+      "id": "bunpou-n4-te-mo-de-mo-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日曜日でも、この店は開いています。",
+      "sentenceVi": "Cửa hàng này mở cửa cả ngày chủ nhật.",
+      "targetGrammar": "〜ても / 〜でも",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Ngay cả khi; mặc dù",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ても / 〜でも」 mang ý nghĩa: \"Ngay cả khi; mặc dù\"."
+    },
+    {
+      "id": "bunpou-n4-te-mo-de-mo-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "雨が降っても、試合はあります。",
+      "sentenceVi": "Ngay cả khi trời mưa, trò chơi vẫn tiếp tục.",
+      "targetGrammar": "〜ても / 〜でも",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ngay cả khi; mặc dù\":",
+      "options": [
+        "〜ても / 〜でも",
+        "〜てみる",
+        "〜てある",
+        "〜とき"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ても / 〜でも」."
+    },
+    {
+      "id": "bunpou-n4-te-mo-de-mo-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "雨が降っても、試合はあります。",
+      "sentenceVi": "Ngay cả khi trời mưa, trò chơi vẫn tiếp tục.",
+      "targetGrammar": "〜ても / 〜でも",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ても / 〜でも」 là gì?",
+      "options": [
+        "Ngay cả khi; mặc dù",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ても / 〜でも」 có nghĩa là: Ngay cả khi; mặc dù."
+    }
+  ]
+}

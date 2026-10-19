@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-mo",
+  "level": "N5",
+  "pattern": "〜も",
+  "title": "〜も",
+  "meaning": "Cũng... (Biểu thị sự tương tự)",
+  "meaningVi": "Cũng... (Biểu thị sự tương tự)",
+  "connection": "Danh từ (N) + も",
+  "usageNotes": "も thay thế は, が và を, nhưng đứng sau các trợ từ khác: 京都にも行きました.",
+  "examples": [
+    {
+      "ja": "私も学生です。",
+      "furigana": "{私|わたし}も{学生|がくせい}です。",
+      "en": "I'm a student too.",
+      "vi": "Tôi cũng là sinh viên."
+    },
+    {
+      "ja": "兄はサッカーも好きです。",
+      "furigana": "{兄|あに}はサッカーも{好|す}きです。",
+      "en": "My older brother likes soccer too.",
+      "vi": "Anh trai tôi cũng thích bóng đá."
+    },
+    {
+      "ja": "肉も魚も食べません。",
+      "furigana": "{肉|にく}も{魚|さかな}も{食|た}べません。",
+      "en": "I eat neither meat nor fish.",
+      "vi": "Tôi không ăn thịt cũng như cá."
+    }
+  ],
+  "tags": [
+    "particle",
+    "addition"
+  ],
+  "unitId": "grammar-n5-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n5-mo-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私も学生です。",
+      "sentenceVi": "Tôi cũng là sinh viên.",
+      "targetGrammar": "〜も",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Cũng... (Biểu thị sự tương tự)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜も」 mang ý nghĩa: \"Cũng... (Biểu thị sự tương tự)\"."
+    },
+    {
+      "id": "bunpou-n5-mo-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "兄はサッカーも好きです。",
+      "sentenceVi": "Anh trai tôi cũng thích bóng đá.",
+      "targetGrammar": "〜も",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（time）",
+        "〜も",
+        "〜に（destination）",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Anh trai tôi cũng thích bóng đá.\", ta sử dụng mẫu 「〜も」."
+    },
+    {
+      "id": "bunpou-n5-mo-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "肉も魚も食べません。",
+      "sentenceVi": "Tôi không ăn thịt cũng như cá.",
+      "targetGrammar": "〜も",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Cũng... (Biểu thị sự tương tự)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜も」 mang ý nghĩa: \"Cũng... (Biểu thị sự tương tự)\"."
+    },
+    {
+      "id": "bunpou-n5-mo-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私も学生です。",
+      "sentenceVi": "Tôi cũng là sinh viên.",
+      "targetGrammar": "〜も",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cũng... (Biểu thị sự tương tự)\":",
+      "options": [
+        "〜も",
+        "〜で（means）",
+        "〜と（and）",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜も」."
+    },
+    {
+      "id": "bunpou-n5-mo-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私も学生です。",
+      "sentenceVi": "Tôi cũng là sinh viên.",
+      "targetGrammar": "〜も",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜も」 là gì?",
+      "options": [
+        "Cũng... (Biểu thị sự tương tự)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜も」 có nghĩa là: Cũng... (Biểu thị sự tương tự)."
+    }
+  ]
+}

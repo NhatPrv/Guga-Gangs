@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n5-ta-koto-ga-aru",
+  "level": "N5",
+  "pattern": "〜たことがある",
+  "title": "〜たことがある",
+  "meaning": "Đã từng làm gì đó (Kinh nghiệm quá khứ)",
+  "meaningVi": "Đã từng làm gì đó (Kinh nghiệm quá khứ)",
+  "connection": "Động từ (V)-ta + ことがある",
+  "usageNotes": "Nói về kinh nghiệm sống chứ không phải việc vừa làm: きのう食べたことがある là sai. Phủ định 〜たことがありません có nghĩa là 'chưa bao giờ'.",
+  "examples": [
+    {
+      "ja": "富士山に登ったことがあります。",
+      "furigana": "{富士山|ふじさん}に{登|のぼ}ったことがあります。",
+      "en": "I have climbed Mt. Fuji.",
+      "vi": "Tôi đã leo núi Phú Sĩ."
+    },
+    {
+      "ja": "日本の映画を見たことがありますか。",
+      "furigana": "{日本|にほん}の{映画|えいが}を{見|み}たことがありますか。",
+      "en": "Have you ever seen a Japanese movie?",
+      "vi": "Bạn đã từng xem phim Nhật Bản chưa?"
+    },
+    {
+      "ja": "私は馬に乗ったことがありません。",
+      "furigana": "{私|わたし}は{馬|うま}に{乗|の}ったことがありません。",
+      "en": "I have never ridden a horse.",
+      "vi": "Tôi chưa bao giờ cưỡi ngựa."
+    }
+  ],
+  "tags": [
+    "experience"
+  ],
+  "unitId": "grammar-n5-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n5-ta-koto-ga-aru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "富士山に登ったことがあります。",
+      "sentenceVi": "Tôi đã leo núi Phú Sĩ.",
+      "targetGrammar": "〜たことがある",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Đã từng làm gì đó (Kinh nghiệm quá khứ)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜たことがある」 mang ý nghĩa: \"Đã từng làm gì đó (Kinh nghiệm quá khứ)\"."
+    },
+    {
+      "id": "bunpou-n5-ta-koto-ga-aru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本の映画を見たことがありますか。",
+      "sentenceVi": "Bạn đã từng xem phim Nhật Bản chưa?",
+      "targetGrammar": "〜たことがある",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜に（place of existence）",
+        "〜たことがある",
+        "〜に（time）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Bạn đã từng xem phim Nhật Bản chưa?\", ta sử dụng mẫu 「〜たことがある」."
+    },
+    {
+      "id": "bunpou-n5-ta-koto-ga-aru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は馬に乗ったことがありません。",
+      "sentenceVi": "Tôi chưa bao giờ cưỡi ngựa.",
+      "targetGrammar": "〜たことがある",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Đã từng làm gì đó (Kinh nghiệm quá khứ)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜たことがある」 mang ý nghĩa: \"Đã từng làm gì đó (Kinh nghiệm quá khứ)\"."
+    },
+    {
+      "id": "bunpou-n5-ta-koto-ga-aru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "富士山に登ったことがあります。",
+      "sentenceVi": "Tôi đã leo núi Phú Sĩ.",
+      "targetGrammar": "〜たことがある",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đã từng làm gì đó (Kinh nghiệm quá khứ)\":",
+      "options": [
+        "〜で（means）",
+        "〜で（place of action）",
+        "〜たことがある",
+        "〜と（and）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜たことがある」."
+    },
+    {
+      "id": "bunpou-n5-ta-koto-ga-aru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "富士山に登ったことがあります。",
+      "sentenceVi": "Tôi đã leo núi Phú Sĩ.",
+      "targetGrammar": "〜たことがある",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜たことがある」 là gì?",
+      "options": [
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Đã từng làm gì đó (Kinh nghiệm quá khứ)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Với ; cùng với (một đối tác trong một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜たことがある」 có nghĩa là: Đã từng làm gì đó (Kinh nghiệm quá khứ)."
+    }
+  ]
+}

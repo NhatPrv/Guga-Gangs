@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-goto-ni",
+  "level": "N3",
+  "pattern": "〜ごとに",
+  "title": "〜ごとに",
+  "meaning": "Mỗi; mỗi; trong khoảng thời gian",
+  "meaningVi": "Mỗi; mỗi; trong khoảng thời gian",
+  "connection": "Danh từ (N) + ごとに / Động từ (V)-dict + ごとに",
+  "usageNotes": "Lặp lại đều đặn hoặc lần lượt từng đơn vị. Với Verb-dict nó gần với 〜たびに. Cẩn thận: 一日ごとに = hàng ngày, nhưng 一日おきに (N4) = cách ngày.",
+  "examples": [
+    {
+      "ja": "このバスは十五分ごとに出ています。",
+      "furigana": "このバスは{十|じゅう}{五|ご}{分|ふん}ごとに{出|で}ています。",
+      "en": "This bus leaves every fifteen minutes.",
+      "vi": "Xe buýt này khởi hành cứ sau mười lăm phút."
+    },
+    {
+      "ja": "季節ごとに、店の飾りが変わる。",
+      "furigana": "{季節|きせつ}ごとに、{店|みせ}の{飾|かざ}りが{変|か}わる。",
+      "en": "The shop's decorations change with each season.",
+      "vi": "Trang trí của cửa hàng thay đổi theo từng mùa."
+    },
+    {
+      "ja": "一回使うごとにポイントがたまるカードです。",
+      "furigana": "{一回|いっかい}{使|つか}うごとにポイントがたまるカードです。",
+      "en": "It's a card that earns you points every time you use it.",
+      "vi": "Đó là thẻ giúp bạn kiếm được điểm mỗi khi bạn sử dụng nó."
+    }
+  ],
+  "tags": [
+    "time",
+    "quantity"
+  ],
+  "unitId": "grammar-n3-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n3-goto-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このバスは十五分ごとに出ています。",
+      "sentenceVi": "Xe buýt này khởi hành cứ sau mười lăm phút.",
+      "targetGrammar": "〜ごとに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Mỗi; mỗi; trong khoảng thời gian"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ごとに」 mang ý nghĩa: \"Mỗi; mỗi; trong khoảng thời gian\"."
+    },
+    {
+      "id": "bunpou-n3-goto-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "季節ごとに、店の飾りが変わる。",
+      "sentenceVi": "Trang trí của cửa hàng thay đổi theo từng mùa.",
+      "targetGrammar": "〜ごとに",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜ものだ",
+        "〜わけにはいかない",
+        "〜ごとに"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Trang trí của cửa hàng thay đổi theo từng mùa.\", ta sử dụng mẫu 「〜ごとに」."
+    },
+    {
+      "id": "bunpou-n3-goto-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "一回使うごとにポイントがたまるカードです。",
+      "sentenceVi": "Đó là thẻ giúp bạn kiếm được điểm mỗi khi bạn sử dụng nó.",
+      "targetGrammar": "〜ごとに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Mỗi; mỗi; trong khoảng thời gian",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ごとに」 mang ý nghĩa: \"Mỗi; mỗi; trong khoảng thời gian\"."
+    },
+    {
+      "id": "bunpou-n3-goto-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このバスは十五分ごとに出ています。",
+      "sentenceVi": "Xe buýt này khởi hành cứ sau mười lăm phút.",
+      "targetGrammar": "〜ごとに",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Mỗi; mỗi; trong khoảng thời gian\":",
+      "options": [
+        "〜ことはない",
+        "〜ごとに",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ごとに」."
+    },
+    {
+      "id": "bunpou-n3-goto-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このバスは十五分ごとに出ています。",
+      "sentenceVi": "Xe buýt này khởi hành cứ sau mười lăm phút.",
+      "targetGrammar": "〜ごとに",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ごとに」 là gì?",
+      "options": [
+        "Mỗi; mỗi; trong khoảng thời gian",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ごとに」 có nghĩa là: Mỗi; mỗi; trong khoảng thời gian."
+    }
+  ]
+}

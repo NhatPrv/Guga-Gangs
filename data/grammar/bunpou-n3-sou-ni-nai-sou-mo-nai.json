@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-sou-ni-nai-sou-mo-nai",
+  "level": "N3",
+  "pattern": "〜そうにない / 〜そうもない",
+  "title": "〜そうにない / 〜そうもない",
+  "meaning": "Không thể ; không có vẻ như nó sẽ",
+  "meaningVi": "Không thể ; không có vẻ như nó sẽ",
+  "connection": "Động từ (V)-stem + そうにない / そうもない",
+  "usageNotes": "Bề ngoài phủ định 〜そうだ với động từ, dựa trên những gì người nói quan sát được. Nhấn mạnh hơn: 〜そうにもない. Với tính từ dùng 〜なさそうだ thay thế.",
+  "examples": [
+    {
+      "ja": "この雨は、夕方までやみそうにない。",
+      "furigana": "この{雨|あめ}は、{夕方|ゆうがた}までやみそうにない。",
+      "en": "This rain doesn't look like it will stop before evening.",
+      "vi": "Cơn mưa này có vẻ sẽ không tạnh trước buổi tối."
+    },
+    {
+      "ja": "仕事が多すぎて、今日中には終わりそうもない。",
+      "furigana": "{仕事|しごと}が{多|おお}すぎて、{今日中|きょうじゅう}には{終|お}わりそうもない。",
+      "en": "I have way too much work; it doesn't look like I'll finish today.",
+      "vi": "Tôi có quá nhiều việc; có vẻ như tôi sẽ không hoàn thành hôm nay."
+    },
+    {
+      "ja": "こんなにたくさんの料理、二人では食べきれそうにないね。",
+      "furigana": "こんなにたくさんの{料理|りょうり}、{二人|ふたり}では{食|た}べきれそうにないね。",
+      "en": "It doesn't look like the two of us will be able to finish all this food.",
+      "vi": "Có vẻ như hai chúng ta sẽ không thể ăn hết chỗ thức ăn này."
+    }
+  ],
+  "tags": [
+    "conjecture",
+    "negation",
+    "possibility"
+  ],
+  "unitId": "grammar-n3-unit-04",
+  "questions": [
+    {
+      "id": "bunpou-n3-sou-ni-nai-sou-mo-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この雨は、夕方までやみそうにない。",
+      "sentenceVi": "Cơn mưa này có vẻ sẽ không tạnh trước buổi tối.",
+      "targetGrammar": "〜そうにない / 〜そうもない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không hẳn là... / Không nhất thiết là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không thể ; không có vẻ như nó sẽ",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜そうにない / 〜そうもない」 mang ý nghĩa: \"Không thể ; không có vẻ như nó sẽ\"."
+    },
+    {
+      "id": "bunpou-n3-sou-ni-nai-sou-mo-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "仕事が多すぎて、今日中には終わりそうもない。",
+      "sentenceVi": "Tôi có quá nhiều việc; có vẻ như tôi sẽ không hoàn thành hôm nay.",
+      "targetGrammar": "〜そうにない / 〜そうもない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜そうにない / 〜そうもない",
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜ものではない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi có quá nhiều việc; có vẻ như tôi sẽ không hoàn thành hôm nay.\", ta sử dụng mẫu 「〜そうにない / 〜そうもない」."
+    },
+    {
+      "id": "bunpou-n3-sou-ni-nai-sou-mo-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "こんなにたくさんの料理、二人では食べきれそうにないね。",
+      "sentenceVi": "Có vẻ như hai chúng ta sẽ không thể ăn hết chỗ thức ăn này.",
+      "targetGrammar": "〜そうにない / 〜そうもない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Không thể ; không có vẻ như nó sẽ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜そうにない / 〜そうもない」 mang ý nghĩa: \"Không thể ; không có vẻ như nó sẽ\"."
+    },
+    {
+      "id": "bunpou-n3-sou-ni-nai-sou-mo-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "この雨は、夕方までやみそうにない。",
+      "sentenceVi": "Cơn mưa này có vẻ sẽ không tạnh trước buổi tối.",
+      "targetGrammar": "〜そうにない / 〜そうもない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không thể ; không có vẻ như nó sẽ\":",
+      "options": [
+        "〜ことになっている",
+        "〜ことにしている",
+        "〜ことはない",
+        "〜そうにない / 〜そうもない"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜そうにない / 〜そうもない」."
+    },
+    {
+      "id": "bunpou-n3-sou-ni-nai-sou-mo-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この雨は、夕方までやみそうにない。",
+      "sentenceVi": "Cơn mưa này có vẻ sẽ không tạnh trước buổi tối.",
+      "targetGrammar": "〜そうにない / 〜そうもない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜そうにない / 〜そうもない」 là gì?",
+      "options": [
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Không thể ; không có vẻ như nó sẽ"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜そうにない / 〜そうもない」 có nghĩa là: Không thể ; không có vẻ như nó sẽ."
+    }
+  ]
+}

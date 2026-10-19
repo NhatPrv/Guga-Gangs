@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-to-to-dochira-ga",
+  "level": "N5",
+  "pattern": "〜と〜とどちらが",
+  "title": "〜と〜とどちらが",
+  "meaning": "Cái nào hơn ..., X hay Y?",
+  "meaningVi": "Cái nào hơn ..., X hay Y?",
+  "connection": "Danh từ (N) + と + Danh từ (N) + とどちらが",
+  "usageNotes": "So sánh chính xác hai điều. どっち là dạng thông dụng của どちら. Trả lời bằng 〜の方が.",
+  "examples": [
+    {
+      "ja": "コーヒーと紅茶とどちらが好きですか。",
+      "furigana": "コーヒーと{紅茶|こうちゃ}とどちらが{好|す}きですか。",
+      "en": "Which do you like better, coffee or tea?",
+      "vi": "Bạn thích cái nào hơn, cà phê hay trà?"
+    },
+    {
+      "ja": "電車とバスとどちらが安いですか。",
+      "furigana": "{電車|でんしゃ}とバスとどちらが{安|やす}いですか。",
+      "en": "Which is cheaper, the train or the bus?",
+      "vi": "Cái nào rẻ hơn, tàu hay xe buýt?"
+    },
+    {
+      "ja": "「山と海とどちらがいいですか。」「海の方がいいです。」",
+      "furigana": "「{山|やま}と{海|うみ}とどちらがいいですか。」「{海|うみ}の{方|ほう}がいいです。」",
+      "en": "\"Which is better, the mountains or the sea?\" \"The sea is better.\"",
+      "vi": "\"Cái nào tốt hơn, núi hay biển?\" \"Biển tốt hơn.\""
+    }
+  ],
+  "tags": [
+    "comparison",
+    "question"
+  ],
+  "unitId": "grammar-n5-unit-05",
+  "questions": [
+    {
+      "id": "bunpou-n5-to-to-dochira-ga-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "コーヒーと紅茶とどちらが好きですか。",
+      "sentenceVi": "Bạn thích cái nào hơn, cà phê hay trà?",
+      "targetGrammar": "〜と〜とどちらが",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Cái nào hơn ..., X hay Y?",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜と〜とどちらが」 mang ý nghĩa: \"Cái nào hơn ..., X hay Y?\"."
+    },
+    {
+      "id": "bunpou-n5-to-to-dochira-ga-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "電車とバスとどちらが安いですか。",
+      "sentenceVi": "Cái nào rẻ hơn, tàu hay xe buýt?",
+      "targetGrammar": "〜と〜とどちらが",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜に（destination）",
+        "〜と〜とどちらが",
+        "〜に（time）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Cái nào rẻ hơn, tàu hay xe buýt?\", ta sử dụng mẫu 「〜と〜とどちらが」."
+    },
+    {
+      "id": "bunpou-n5-to-to-dochira-ga-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「山と海とどちらがいいですか。」「海の方がいいです。」",
+      "sentenceVi": "\"Cái nào tốt hơn, núi hay biển?\" \"Biển tốt hơn.\"",
+      "targetGrammar": "〜と〜とどちらが",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Cái nào hơn ..., X hay Y?",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜と〜とどちらが」 mang ý nghĩa: \"Cái nào hơn ..., X hay Y?\"."
+    },
+    {
+      "id": "bunpou-n5-to-to-dochira-ga-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "コーヒーと紅茶とどちらが好きですか。",
+      "sentenceVi": "Bạn thích cái nào hơn, cà phê hay trà?",
+      "targetGrammar": "〜と〜とどちらが",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cái nào hơn ..., X hay Y?\":",
+      "options": [
+        "〜と（and）",
+        "〜で（means）",
+        "〜と〜とどちらが",
+        "〜で（place of action）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜と〜とどちらが」."
+    },
+    {
+      "id": "bunpou-n5-to-to-dochira-ga-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "コーヒーと紅茶とどちらが好きですか。",
+      "sentenceVi": "Bạn thích cái nào hơn, cà phê hay trà?",
+      "targetGrammar": "〜と〜とどちらが",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜と〜とどちらが」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Cái nào hơn ..., X hay Y?"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜と〜とどちらが」 có nghĩa là: Cái nào hơn ..., X hay Y?."
+    }
+  ]
+}

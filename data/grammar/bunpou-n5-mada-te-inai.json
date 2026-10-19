@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-mada-te-inai",
+  "level": "N5",
+  "pattern": "まだ〜ていない",
+  "title": "まだ〜ていない",
+  "meaning": "Chưa (đã làm)",
+  "meaningVi": "Chưa (đã làm)",
+  "connection": "まだ + Động từ (V)-te + いない / まだ + Động từ (V)-te + いません",
+  "usageNotes": "Sử dụng ていない, không phải ませんでした, cho một điều gì đó vẫn có thể xảy ra. Câu trả lời ngắn gọn là いいえ、まだです.",
+  "examples": [
+    {
+      "ja": "まだ昼ご飯を食べていません。",
+      "furigana": "まだ{昼|ひる}ご{飯|はん}を{食|た}べていません。",
+      "en": "I haven't eaten lunch yet.",
+      "vi": "Tôi vẫn chưa ăn trưa."
+    },
+    {
+      "ja": "「宿題はもうしましたか。」「いいえ、まだしていません。」",
+      "furigana": "「{宿題|しゅくだい}はもうしましたか。」「いいえ、まだしていません。」",
+      "en": "\"Have you done your homework yet?\" \"No, not yet.\"",
+      "vi": "\"Bạn đã làm bài tập về nhà chưa?\" \"Không, chưa.\""
+    },
+    {
+      "ja": "電車はまだ来ていません。",
+      "furigana": "{電車|でんしゃ}はまだ{来|き}ていません。",
+      "en": "The train hasn't come yet.",
+      "vi": "Tàu vẫn chưa đến."
+    }
+  ],
+  "tags": [
+    "negation",
+    "completion"
+  ],
+  "unitId": "grammar-n5-unit-14",
+  "questions": [
+    {
+      "id": "bunpou-n5-mada-te-inai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "まだ昼ご飯を食べていません。",
+      "sentenceVi": "Tôi vẫn chưa ăn trưa.",
+      "targetGrammar": "まだ〜ていない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Chưa (đã làm)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「まだ〜ていない」 mang ý nghĩa: \"Chưa (đã làm)\"."
+    },
+    {
+      "id": "bunpou-n5-mada-te-inai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "「宿題はもうしましたか。」「いいえ、まだしていません。」",
+      "sentenceVi": "\"Bạn đã làm bài tập về nhà chưa?\" \"Không, chưa.\"",
+      "targetGrammar": "まだ〜ていない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜に（destination）",
+        "〜に（time）",
+        "まだ〜ていない"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"\"Bạn đã làm bài tập về nhà chưa?\" \"Không, chưa.\"\", ta sử dụng mẫu 「まだ〜ていない」."
+    },
+    {
+      "id": "bunpou-n5-mada-te-inai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "電車はまだ来ていません。",
+      "sentenceVi": "Tàu vẫn chưa đến.",
+      "targetGrammar": "まだ〜ていない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chưa (đã làm)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「まだ〜ていない」 mang ý nghĩa: \"Chưa (đã làm)\"."
+    },
+    {
+      "id": "bunpou-n5-mada-te-inai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "まだ昼ご飯を食べていません。",
+      "sentenceVi": "Tôi vẫn chưa ăn trưa.",
+      "targetGrammar": "まだ〜ていない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chưa (đã làm)\":",
+      "options": [
+        "〜と（and）",
+        "〜で（place of action）",
+        "まだ〜ていない",
+        "〜で（means）"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「まだ〜ていない」."
+    },
+    {
+      "id": "bunpou-n5-mada-te-inai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "まだ昼ご飯を食べていません。",
+      "sentenceVi": "Tôi vẫn chưa ăn trưa.",
+      "targetGrammar": "まだ〜ていない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「まだ〜ていない」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Chưa (đã làm)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「まだ〜ていない」 có nghĩa là: Chưa (đã làm)."
+    }
+  ]
+}

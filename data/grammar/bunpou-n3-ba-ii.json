@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n3-ba-ii",
+  "level": "N3",
+  "pattern": "〜ばいい",
+  "title": "〜ばいい",
+  "meaning": "Nên làm gì... / Chỉ cần... là được",
+  "meaningVi": "Nên làm gì... / Chỉ cần... là được",
+  "connection": "Động từ (V)-ba + いい / i-Adj stem + ければ + いい",
+  "usageNotes": "Yêu cầu hoặc đưa ra lời khuyên (〜ばいいですか = 'tôi nên làm gì?'). 〜ばいいのに = 'Tôi ước gì'. 〜たらいい là từ gần đồng nghĩa; 〜ほうがいい nghe có vẻ kiên quyết hơn.",
+  "examples": [
+    {
+      "ja": "「この書類、どこに出せばいいですか。」「二階の受付に出してください。」",
+      "furigana": "「この{書類|しょるい}、どこに{出|だ}せばいいですか。」「{二|に}{階|かい}の{受付|うけつけ}に{出|だ}してください。」",
+      "en": "'Where should I hand in this form?' 'Please take it to the reception desk on the second floor.'",
+      "vi": "'Tôi nên nộp đơn này ở đâu?' 'Xin vui lòng mang nó đến bàn tiếp tân trên tầng hai.'"
+    },
+    {
+      "ja": "分からないことがあったら、遠慮しないで私に聞けばいいよ。",
+      "furigana": "{分|わ}からないことがあったら、{遠慮|えんりょ}しないで{私|わたし}に{聞|き}けばいいよ。",
+      "en": "If there's anything you don't understand, just ask me. Don't be shy.",
+      "vi": "Nếu có gì không hiểu cứ hỏi tôi. Đừng ngại ngùng."
+    },
+    {
+      "ja": "明日、雨が降らなければいいんだけど。",
+      "furigana": "{明日|あした}、{雨|あめ}が{降|ふ}らなければいいんだけど。",
+      "en": "I hope it doesn't rain tomorrow.",
+      "vi": "Tôi hy vọng ngày mai trời không mưa."
+    }
+  ],
+  "tags": [
+    "advice",
+    "suggestion",
+    "wish"
+  ],
+  "unitId": "grammar-n3-unit-14",
+  "questions": [
+    {
+      "id": "bunpou-n3-ba-ii-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「この書類、どこに出せばいいですか。」「二階の受付に出してください。」",
+      "sentenceVi": "'Tôi nên nộp đơn này ở đâu?' 'Xin vui lòng mang nó đến bàn tiếp tân trên tầng hai.'",
+      "targetGrammar": "〜ばいい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Chắc chắn không... / Không đời nào...",
+        "Nên làm gì... / Chỉ cần... là được",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ばいい」 mang ý nghĩa: \"Nên làm gì... / Chỉ cần... là được\"."
+    },
+    {
+      "id": "bunpou-n3-ba-ii-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "分からないことがあったら、遠慮しないで私に聞けばいいよ。",
+      "sentenceVi": "Nếu có gì không hiểu cứ hỏi tôi. Đừng ngại ngùng.",
+      "targetGrammar": "〜ばいい",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものではない",
+        "〜わけにはいかない",
+        "〜ものだ",
+        "〜ばいい"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Nếu có gì không hiểu cứ hỏi tôi. Đừng ngại ngùng.\", ta sử dụng mẫu 「〜ばいい」."
+    },
+    {
+      "id": "bunpou-n3-ba-ii-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日、雨が降らなければいいんだけど。",
+      "sentenceVi": "Tôi hy vọng ngày mai trời không mưa.",
+      "targetGrammar": "〜ばいい",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Nên làm gì... / Chỉ cần... là được",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ばいい」 mang ý nghĩa: \"Nên làm gì... / Chỉ cần... là được\"."
+    },
+    {
+      "id": "bunpou-n3-ba-ii-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "「この書類、どこに出せばいいですか。」「二階の受付に出してください。」",
+      "sentenceVi": "'Tôi nên nộp đơn này ở đâu?' 'Xin vui lòng mang nó đến bàn tiếp tân trên tầng hai.'",
+      "targetGrammar": "〜ばいい",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nên làm gì... / Chỉ cần... là được\":",
+      "options": [
+        "〜ばいい",
+        "〜ことになっている",
+        "〜ことはない",
+        "〜ことにしている"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ばいい」."
+    },
+    {
+      "id": "bunpou-n3-ba-ii-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "「この書類、どこに出せばいいですか。」「二階の受付に出してください。」",
+      "sentenceVi": "'Tôi nên nộp đơn này ở đâu?' 'Xin vui lòng mang nó đến bàn tiếp tân trên tầng hai.'",
+      "targetGrammar": "〜ばいい",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ばいい」 là gì?",
+      "options": [
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Nên làm gì... / Chỉ cần... là được"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ばいい」 có nghĩa là: Nên làm gì... / Chỉ cần... là được."
+    }
+  ]
+}

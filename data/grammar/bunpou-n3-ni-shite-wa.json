@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-ni-shite-wa",
+  "level": "N3",
+  "pattern": "〜にしては",
+  "title": "〜にしては",
+  "meaning": "Cho (xem xét nó); bất ngờ cho",
+  "meaningVi": "Cho (xem xét nó); bất ngờ cho",
+  "connection": "Động từ (V)-plain / Danh từ (N) + にしては",
+  "usageNotes": "Kết quả khác với những gì bạn mong đợi ở X. Không theo sau tính từ; so sánh 〜わりに, có thể và tập trung vào mức độ (giá cả, độ tuổi, nỗ lực).",
+  "examples": [
+    {
+      "ja": "初めて作ったにしては、このケーキはよくできている。",
+      "furigana": "{初|はじ}めて{作|つく}ったにしては、このケーキはよくできている。",
+      "en": "For a first attempt, this cake turned out really well.",
+      "vi": "Lần thử đầu tiên, chiếc bánh này thực sự rất ngon."
+    },
+    {
+      "ja": "彼は小学生にしては、ずいぶん難しい言葉を知っている。",
+      "furigana": "{彼|かれ}は{小学生|しょうがくせい}にしては、ずいぶん{難|むずか}しい{言葉|ことば}を{知|し}っている。",
+      "en": "For an elementary school kid, he knows some pretty difficult words.",
+      "vi": "Đối với một học sinh tiểu học, cậu ấy biết một số từ khá khó."
+    },
+    {
+      "ja": "十月にしては、今日はずいぶん暑いね。",
+      "furigana": "{十月|じゅうがつ}にしては、{今日|きょう}はずいぶん{暑|あつ}いね。",
+      "en": "It's pretty hot today for October.",
+      "vi": "Hôm nay trời khá nóng trong tháng 10."
+    }
+  ],
+  "tags": [
+    "contrast",
+    "concession"
+  ],
+  "unitId": "grammar-n3-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-shite-wa-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "初めて作ったにしては、このケーキはよくできている。",
+      "sentenceVi": "Lần thử đầu tiên, chiếc bánh này thực sự rất ngon.",
+      "targetGrammar": "〜にしては",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Cho (xem xét nó); bất ngờ cho",
+        "Chắc chắn không... / Không đời nào...",
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜にしては」 mang ý nghĩa: \"Cho (xem xét nó); bất ngờ cho\"."
+    },
+    {
+      "id": "bunpou-n3-ni-shite-wa-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "彼は小学生にしては、ずいぶん難しい言葉を知っている。",
+      "sentenceVi": "Đối với một học sinh tiểu học, cậu ấy biết một số từ khá khó.",
+      "targetGrammar": "〜にしては",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ものだ",
+        "〜にしては",
+        "〜わけにはいかない",
+        "〜ものではない"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Đối với một học sinh tiểu học, cậu ấy biết một số từ khá khó.\", ta sử dụng mẫu 「〜にしては」."
+    },
+    {
+      "id": "bunpou-n3-ni-shite-wa-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "十月にしては、今日はずいぶん暑いね。",
+      "sentenceVi": "Hôm nay trời khá nóng trong tháng 10.",
+      "targetGrammar": "〜にしては",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Cho (xem xét nó); bất ngờ cho",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜にしては」 mang ý nghĩa: \"Cho (xem xét nó); bất ngờ cho\"."
+    },
+    {
+      "id": "bunpou-n3-ni-shite-wa-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "初めて作ったにしては、このケーキはよくできている。",
+      "sentenceVi": "Lần thử đầu tiên, chiếc bánh này thực sự rất ngon.",
+      "targetGrammar": "〜にしては",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cho (xem xét nó); bất ngờ cho\":",
+      "options": [
+        "〜ことはない",
+        "〜にしては",
+        "〜ことにしている",
+        "〜ことになっている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜にしては」."
+    },
+    {
+      "id": "bunpou-n3-ni-shite-wa-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "初めて作ったにしては、このケーキはよくできている。",
+      "sentenceVi": "Lần thử đầu tiên, chiếc bánh này thực sự rất ngon.",
+      "targetGrammar": "〜にしては",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜にしては」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Cho (xem xét nó); bất ngờ cho",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜にしては」 có nghĩa là: Cho (xem xét nó); bất ngờ cho."
+    }
+  ]
+}

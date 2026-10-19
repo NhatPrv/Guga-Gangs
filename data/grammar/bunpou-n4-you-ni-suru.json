@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-you-ni-suru",
+  "level": "N4",
+  "pattern": "〜ようにする",
+  "title": "〜ようにする",
+  "meaning": "Cố gắng tạo thói quen làm gì...",
+  "meaningVi": "Cố gắng tạo thói quen làm gì...",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + ようにする",
+  "usageNotes": "〜ようにしている mô tả một thói quen mà bạn duy trì. So sánh 〜ようになる, một sự thay đổi xảy ra.",
+  "examples": [
+    {
+      "ja": "毎日野菜を食べるようにしています。",
+      "furigana": "{毎日|まいにち}{野菜|やさい}を{食|た}べるようにしています。",
+      "en": "I make a point of eating vegetables every day.",
+      "vi": "Tôi chú trọng việc ăn rau mỗi ngày."
+    },
+    {
+      "ja": "これからは遅刻しないようにします。",
+      "furigana": "これからは{遅刻|ちこく}しないようにします。",
+      "en": "From now on, I'll make sure not to be late.",
+      "vi": "Từ bây giờ tôi sẽ đảm bảo không đến muộn."
+    },
+    {
+      "ja": "寝る前にスマホを見ないようにしている。",
+      "furigana": "{寝|ね}る{前|まえ}にスマホを{見|み}ないようにしている。",
+      "en": "I try not to look at my phone before bed.",
+      "vi": "Tôi cố gắng không nhìn vào điện thoại trước khi đi ngủ."
+    }
+  ],
+  "tags": [
+    "attempt",
+    "intention"
+  ],
+  "unitId": "grammar-n4-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n4-you-ni-suru-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎日野菜を食べるようにしています。",
+      "sentenceVi": "Tôi chú trọng việc ăn rau mỗi ngày.",
+      "targetGrammar": "〜ようにする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Cố gắng tạo thói quen làm gì...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ようにする」 mang ý nghĩa: \"Cố gắng tạo thói quen làm gì...\"."
+    },
+    {
+      "id": "bunpou-n4-you-ni-suru-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "これからは遅刻しないようにします。",
+      "sentenceVi": "Từ bây giờ tôi sẽ đảm bảo không đến muộn.",
+      "targetGrammar": "〜ようにする",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜ようにする",
+        "〜ていく"
+      ],
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Từ bây giờ tôi sẽ đảm bảo không đến muộn.\", ta sử dụng mẫu 「〜ようにする」."
+    },
+    {
+      "id": "bunpou-n4-you-ni-suru-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "寝る前にスマホを見ないようにしている。",
+      "sentenceVi": "Tôi cố gắng không nhìn vào điện thoại trước khi đi ngủ.",
+      "targetGrammar": "〜ようにする",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Cố gắng tạo thói quen làm gì..."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ようにする」 mang ý nghĩa: \"Cố gắng tạo thói quen làm gì...\"."
+    },
+    {
+      "id": "bunpou-n4-you-ni-suru-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "毎日野菜を食べるようにしています。",
+      "sentenceVi": "Tôi chú trọng việc ăn rau mỗi ngày.",
+      "targetGrammar": "〜ようにする",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cố gắng tạo thói quen làm gì...\":",
+      "options": [
+        "〜てある",
+        "〜てみる",
+        "〜とき",
+        "〜ようにする"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜ようにする」."
+    },
+    {
+      "id": "bunpou-n4-you-ni-suru-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "毎日野菜を食べるようにしています。",
+      "sentenceVi": "Tôi chú trọng việc ăn rau mỗi ngày.",
+      "targetGrammar": "〜ようにする",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ようにする」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Cố gắng tạo thói quen làm gì...",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ようにする」 có nghĩa là: Cố gắng tạo thói quen làm gì...."
+    }
+  ]
+}

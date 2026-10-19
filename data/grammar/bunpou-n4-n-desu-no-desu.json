@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-n-desu-no-desu",
+  "level": "N4",
+  "pattern": "〜んです / 〜のです",
+  "title": "〜んです / 〜のです",
+  "meaning": "Chính là...; (giải thích hoặc yêu cầu giải thích)",
+  "meaningVi": "Chính là...; (giải thích hoặc yêu cầu giải thích)",
+  "connection": "Động từ (V)-plain / i-Adj + んです / na-Adj + な + んです / Danh từ (N) + な + んです",
+  "usageNotes": "Thêm ý nghĩa giải thích một tình huống hoặc hỏi thông tin cơ bản. Các hình thức thông thường là 〜んだ và 〜の. Việc sử dụng quá mức nó có thể nghe có vẻ tự đề cao.",
+  "examples": [
+    {
+      "ja": "どうしたんですか。顔色が悪いですよ。",
+      "furigana": "どうしたんですか。{顔色|かおいろ}が{悪|わる}いですよ。",
+      "en": "What's the matter? You look pale.",
+      "vi": "Có chuyện gì vậy? Bạn trông nhợt nhạt."
+    },
+    {
+      "ja": "すみません、遅れました。電車が止まっていたんです。",
+      "furigana": "すみません、{遅|おく}れました。{電車|でんしゃ}が{止|と}まっていたんです。",
+      "en": "Sorry I'm late. The trains had stopped.",
+      "vi": "Xin lỗi tôi đến muộn. Những chuyến tàu đã dừng lại."
+    },
+    {
+      "ja": "日本語で手紙を書きたいんですが、手伝ってくれませんか。",
+      "furigana": "{日本語|にほんご}で{手紙|てがみ}を{書|か}きたいんですが、{手伝|てつだ}ってくれませんか。",
+      "en": "I want to write a letter in Japanese. Could you help me?",
+      "vi": "Tôi muốn viết một lá thư bằng tiếng Nhật. Bạn có thể giúp tôi được không?"
+    }
+  ],
+  "tags": [
+    "reason",
+    "emphasis"
+  ],
+  "unitId": "grammar-n4-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n4-n-desu-no-desu-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "どうしたんですか。顔色が悪いですよ。",
+      "sentenceVi": "Có chuyện gì vậy? Bạn trông nhợt nhạt.",
+      "targetGrammar": "〜んです / 〜のです",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai...",
+        "Chính là...; (giải thích hoặc yêu cầu giải thích)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜んです / 〜のです」 mang ý nghĩa: \"Chính là...; (giải thích hoặc yêu cầu giải thích)\"."
+    },
+    {
+      "id": "bunpou-n4-n-desu-no-desu-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "すみません、遅れました。電車が止まっていたんです。",
+      "sentenceVi": "Xin lỗi tôi đến muộn. Những chuyến tàu đã dừng lại.",
+      "targetGrammar": "〜んです / 〜のです",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜てもらう",
+        "〜んです / 〜のです"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Xin lỗi tôi đến muộn. Những chuyến tàu đã dừng lại.\", ta sử dụng mẫu 「〜んです / 〜のです」."
+    },
+    {
+      "id": "bunpou-n4-n-desu-no-desu-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本語で手紙を書きたいんですが、手伝ってくれませんか。",
+      "sentenceVi": "Tôi muốn viết một lá thư bằng tiếng Nhật. Bạn có thể giúp tôi được không?",
+      "targetGrammar": "〜んです / 〜のです",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Chính là...; (giải thích hoặc yêu cầu giải thích)",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜んです / 〜のです」 mang ý nghĩa: \"Chính là...; (giải thích hoặc yêu cầu giải thích)\"."
+    },
+    {
+      "id": "bunpou-n4-n-desu-no-desu-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "どうしたんですか。顔色が悪いですよ。",
+      "sentenceVi": "Có chuyện gì vậy? Bạn trông nhợt nhạt.",
+      "targetGrammar": "〜んです / 〜のです",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chính là...; (giải thích hoặc yêu cầu giải thích)\":",
+      "options": [
+        "〜とき",
+        "〜てある",
+        "〜てみる",
+        "〜んです / 〜のです"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜んです / 〜のです」."
+    },
+    {
+      "id": "bunpou-n4-n-desu-no-desu-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "どうしたんですか。顔色が悪いですよ。",
+      "sentenceVi": "Có chuyện gì vậy? Bạn trông nhợt nhạt.",
+      "targetGrammar": "〜んです / 〜のです",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜んです / 〜のです」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Chính là...; (giải thích hoặc yêu cầu giải thích)",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜んです / 〜のです」 có nghĩa là: Chính là...; (giải thích hoặc yêu cầu giải thích)."
+    }
+  ]
+}

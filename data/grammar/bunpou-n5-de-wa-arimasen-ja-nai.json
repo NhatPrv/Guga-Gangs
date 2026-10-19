@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n5-de-wa-arimasen-ja-nai",
+  "level": "N5",
+  "pattern": "〜ではありません / 〜じゃない",
+  "title": "〜ではありません / 〜じゃない",
+  "meaning": "Không phải vậy; tôi không; không phải",
+  "meaningVi": "Không phải vậy; tôi không; không phải",
+  "connection": "Danh từ (N) + ではありません / na-Adj + ではありません / Danh từ (N) + じゃない / na-Adj + じゃない",
+  "usageNotes": "じゃありません và じゃないです là những hình thức đàm thoại lịch sự hơn. Quá khứ: ではありませんでした / じゃなかった. Tính từ い dùng 〜くない thay thế.",
+  "examples": [
+    {
+      "ja": "私は先生ではありません。学生です。",
+      "furigana": "{私|わたし}は{先生|せんせい}ではありません。{学生|がくせい}です。",
+      "en": "I'm not a teacher. I'm a student.",
+      "vi": "Tôi không phải là giáo viên. Tôi là một sinh viên."
+    },
+    {
+      "ja": "今日は休みじゃない。",
+      "furigana": "{今日|きょう}は{休|やす}みじゃない。",
+      "en": "Today isn't a day off.",
+      "vi": "Hôm nay không phải là ngày nghỉ."
+    },
+    {
+      "ja": "この町はあまりにぎやかではありません。",
+      "furigana": "この{町|まち}はあまりにぎやかではありません。",
+      "en": "This town isn't very lively.",
+      "vi": "Thị trấn này không sôi động lắm."
+    }
+  ],
+  "tags": [
+    "copula",
+    "negation"
+  ],
+  "unitId": "grammar-n5-unit-06",
+  "questions": [
+    {
+      "id": "bunpou-n5-de-wa-arimasen-ja-nai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は先生ではありません。学生です。",
+      "sentenceVi": "Tôi không phải là giáo viên. Tôi là một sinh viên.",
+      "targetGrammar": "〜ではありません / 〜じゃない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động",
+        "Không phải vậy; tôi không; không phải",
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ではありません / 〜じゃない」 mang ý nghĩa: \"Không phải vậy; tôi không; không phải\"."
+    },
+    {
+      "id": "bunpou-n5-de-wa-arimasen-ja-nai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "今日は休みじゃない。",
+      "sentenceVi": "Hôm nay không phải là ngày nghỉ.",
+      "targetGrammar": "〜ではありません / 〜じゃない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（destination）",
+        "〜ではありません / 〜じゃない",
+        "〜に（time）",
+        "〜に（place of existence）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Hôm nay không phải là ngày nghỉ.\", ta sử dụng mẫu 「〜ではありません / 〜じゃない」."
+    },
+    {
+      "id": "bunpou-n5-de-wa-arimasen-ja-nai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この町はあまりにぎやかではありません。",
+      "sentenceVi": "Thị trấn này không sôi động lắm.",
+      "targetGrammar": "〜ではありません / 〜じゃない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Không phải vậy; tôi không; không phải",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ではありません / 〜じゃない」 mang ý nghĩa: \"Không phải vậy; tôi không; không phải\"."
+    },
+    {
+      "id": "bunpou-n5-de-wa-arimasen-ja-nai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私は先生ではありません。学生です。",
+      "sentenceVi": "Tôi không phải là giáo viên. Tôi là một sinh viên.",
+      "targetGrammar": "〜ではありません / 〜じゃない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không phải vậy; tôi không; không phải\":",
+      "options": [
+        "〜ではありません / 〜じゃない",
+        "〜で（means）",
+        "〜で（place of action）",
+        "〜と（and）"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜ではありません / 〜じゃない」."
+    },
+    {
+      "id": "bunpou-n5-de-wa-arimasen-ja-nai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "私は先生ではありません。学生です。",
+      "sentenceVi": "Tôi không phải là giáo viên. Tôi là một sinh viên.",
+      "targetGrammar": "〜ではありません / 〜じゃない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ではありません / 〜じゃない」 là gì?",
+      "options": [
+        "Không phải vậy; tôi không; không phải",
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Hoặc (sự lựa chọn giữa các danh từ)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜ではありません / 〜じゃない」 có nghĩa là: Không phải vậy; tôi không; không phải."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-te-iku",
+  "level": "N4",
+  "pattern": "〜ていく",
+  "title": "〜ていく",
+  "meaning": "Làm điều gì đó rồi đi; tiếp tục làm (từ bây giờ đến tương lai)",
+  "meaningVi": "Làm điều gì đó rồi đi; tiếp tục làm (từ bây giờ đến tương lai)",
+  "connection": "Động từ (V)-te + いく",
+  "usageNotes": "Chuyển động hoặc thay đổi khỏi người nói, hoặc từ hiện tại hướng tới tương lai. So sánh 〜てくる.",
+  "examples": [
+    {
+      "ja": "雨が降りそうだから、傘を持っていきます。",
+      "furigana": "{雨|あめ}が{降|ふ}りそうだから、{傘|かさ}を{持|も}っていきます。",
+      "en": "It looks like rain, so I'll take an umbrella.",
+      "vi": "Có vẻ như trời đang mưa nên tôi sẽ mang theo ô."
+    },
+    {
+      "ja": "これからもっと寒くなっていくでしょう。",
+      "furigana": "これからもっと{寒|さむ}くなっていくでしょう。",
+      "en": "It will probably keep getting colder from now on.",
+      "vi": "Có lẽ từ giờ trở đi trời sẽ càng lạnh hơn."
+    },
+    {
+      "ja": "時間があるなら、お茶を飲んでいきませんか。",
+      "furigana": "{時間|じかん}があるなら、お{茶|ちゃ}を{飲|の}んでいきませんか。",
+      "en": "If you have time, won't you have some tea before you go?",
+      "vi": "Nếu có thời gian, bạn có muốn uống chút trà trước khi đi không?"
+    }
+  ],
+  "tags": [
+    "change",
+    "sequence"
+  ],
+  "unitId": "grammar-n4-unit-02",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-iku-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "雨が降りそうだから、傘を持っていきます。",
+      "sentenceVi": "Có vẻ như trời đang mưa nên tôi sẽ mang theo ô.",
+      "targetGrammar": "〜ていく",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm điều gì đó rồi đi; tiếp tục làm (từ bây giờ đến tương lai)",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ていく」 mang ý nghĩa: \"Làm điều gì đó rồi đi; tiếp tục làm (từ bây giờ đến tương lai)\"."
+    },
+    {
+      "id": "bunpou-n4-te-iku-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "これからもっと寒くなっていくでしょう。",
+      "sentenceVi": "Có lẽ từ giờ trở đi trời sẽ càng lạnh hơn.",
+      "targetGrammar": "〜ていく",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜てくる",
+        "〜ていく"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Có lẽ từ giờ trở đi trời sẽ càng lạnh hơn.\", ta sử dụng mẫu 「〜ていく」."
+    },
+    {
+      "id": "bunpou-n4-te-iku-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "時間があるなら、お茶を飲んでいきませんか。",
+      "sentenceVi": "Nếu có thời gian, bạn có muốn uống chút trà trước khi đi không?",
+      "targetGrammar": "〜ていく",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó rồi đi; tiếp tục làm (từ bây giờ đến tương lai)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Thử làm gì đó...",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ていく」 mang ý nghĩa: \"Làm điều gì đó rồi đi; tiếp tục làm (từ bây giờ đến tương lai)\"."
+    },
+    {
+      "id": "bunpou-n4-te-iku-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "雨が降りそうだから、傘を持っていきます。",
+      "sentenceVi": "Có vẻ như trời đang mưa nên tôi sẽ mang theo ô.",
+      "targetGrammar": "〜ていく",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm điều gì đó rồi đi; tiếp tục làm (từ bây giờ đến tương lai)\":",
+      "options": [
+        "〜とき",
+        "〜ていく",
+        "〜てある",
+        "〜間 / 〜間に"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ていく」."
+    },
+    {
+      "id": "bunpou-n4-te-iku-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "雨が降りそうだから、傘を持っていきます。",
+      "sentenceVi": "Có vẻ như trời đang mưa nên tôi sẽ mang theo ô.",
+      "targetGrammar": "〜ていく",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ていく」 là gì?",
+      "options": [
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Làm điều gì đó rồi đi; tiếp tục làm (từ bây giờ đến tương lai)",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 2,
+      "explanation": "「〜ていく」 có nghĩa là: Làm điều gì đó rồi đi; tiếp tục làm (từ bây giờ đến tương lai)."
+    }
+  ]
+}

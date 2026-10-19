@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n4-kana-kashira",
+  "level": "N4",
+  "pattern": "〜かな / 〜かしら",
+  "title": "〜かな / 〜かしら",
+  "meaning": "Tôi tự hỏi",
+  "meaningVi": "Tôi tự hỏi",
+  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + かな / かしら",
+  "usageNotes": "Một câu hỏi nhẹ nhàng, thường tự nói với chính mình. かしら nghe có vẻ nữ tính và hơi lỗi thời. 〜ないかな có thể diễn tả một điều ước (早く来ないかな).",
+  "examples": [
+    {
+      "ja": "明日は晴れるかな。",
+      "furigana": "{明日|あした}は{晴|は}れるかな。",
+      "en": "I wonder if it'll be sunny tomorrow.",
+      "vi": "Tôi tự hỏi liệu ngày mai trời có nắng không."
+    },
+    {
+      "ja": "このお菓子、誰が買ってきたのかな。",
+      "furigana": "このお{菓子|かし}、{誰|だれ}が{買|か}ってきたのかな。",
+      "en": "I wonder who bought these snacks.",
+      "vi": "Tôi tự hỏi ai đã mua những món ăn nhẹ này."
+    },
+    {
+      "ja": "この服、私に似合うかしら。",
+      "furigana": "この{服|ふく}、{私|わたし}に{似合|にあ}うかしら。",
+      "en": "I wonder if this outfit suits me.",
+      "vi": "Tôi tự hỏi liệu bộ trang phục này có phù hợp với tôi không."
+    }
+  ],
+  "tags": [
+    "question",
+    "casual"
+  ],
+  "unitId": "grammar-n4-unit-20",
+  "questions": [
+    {
+      "id": "bunpou-n4-kana-kashira-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日は晴れるかな。",
+      "sentenceVi": "Tôi tự hỏi liệu ngày mai trời có nắng không.",
+      "targetGrammar": "〜かな / 〜かしら",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Làm gì đó giúp cho ai...",
+        "Tôi tự hỏi",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜かな / 〜かしら」 mang ý nghĩa: \"Tôi tự hỏi\"."
+    },
+    {
+      "id": "bunpou-n4-kana-kashira-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このお菓子、誰が買ってきたのかな。",
+      "sentenceVi": "Tôi tự hỏi ai đã mua những món ăn nhẹ này.",
+      "targetGrammar": "〜かな / 〜かしら",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てくださる / 〜ていただく",
+        "〜かな / 〜かしら",
+        "〜ていく",
+        "〜てもらう"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi tự hỏi ai đã mua những món ăn nhẹ này.\", ta sử dụng mẫu 「〜かな / 〜かしら」."
+    },
+    {
+      "id": "bunpou-n4-kana-kashira-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この服、私に似合うかしら。",
+      "sentenceVi": "Tôi tự hỏi liệu bộ trang phục này có phù hợp với tôi không.",
+      "targetGrammar": "〜かな / 〜かしら",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Tôi tự hỏi",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜かな / 〜かしら」 mang ý nghĩa: \"Tôi tự hỏi\"."
+    },
+    {
+      "id": "bunpou-n4-kana-kashira-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "明日は晴れるかな。",
+      "sentenceVi": "Tôi tự hỏi liệu ngày mai trời có nắng không.",
+      "targetGrammar": "〜かな / 〜かしら",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tôi tự hỏi\":",
+      "options": [
+        "〜かな / 〜かしら",
+        "〜てある",
+        "〜てみる",
+        "〜とき"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án đúng là 「〜かな / 〜かしら」."
+    },
+    {
+      "id": "bunpou-n4-kana-kashira-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日は晴れるかな。",
+      "sentenceVi": "Tôi tự hỏi liệu ngày mai trời có nắng không.",
+      "targetGrammar": "〜かな / 〜かしら",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜かな / 〜かしら」 là gì?",
+      "options": [
+        "Tôi tự hỏi",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Trông giống như; có vẻ ; có vẻ sắp"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜かな / 〜かしら」 có nghĩa là: Tôi tự hỏi."
+    }
+  ]
+}

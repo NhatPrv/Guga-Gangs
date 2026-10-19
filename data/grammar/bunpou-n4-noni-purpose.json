@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-noni-purpose",
+  "level": "N4",
+  "pattern": "〜のに（purpose）",
+  "title": "〜のに（purpose）",
+  "meaning": "Vì; để (với việc sử dụng, thời gian hoặc chi phí)",
+  "meaningVi": "Vì; để (với việc sử dụng, thời gian hoặc chi phí)",
+  "connection": "Động từ (V)-dict + のに / Danh từ (N) + に",
+  "usageNotes": "Thường theo sau là các từ như 使う, いい, 便利, 必要 hoặc かかる. Với danh từ, chỉ dùng に (旅行に便利).",
+  "examples": [
+    {
+      "ja": "このかばんは旅行に行くのに便利です。",
+      "furigana": "このかばんは{旅行|りょこう}に{行|い}くのに{便利|べんり}です。",
+      "en": "This bag is handy for traveling.",
+      "vi": "Túi này tiện dụng khi đi du lịch."
+    },
+    {
+      "ja": "家から駅まで歩くのに二十分かかります。",
+      "furigana": "{家|いえ}から{駅|えき}まで{歩|ある}くのに{二十分|にじゅっぷん}かかります。",
+      "en": "It takes twenty minutes to walk from my house to the station.",
+      "vi": "Phải mất hai mươi phút đi bộ từ nhà tôi đến ga."
+    },
+    {
+      "ja": "引っ越しするのに十万円ぐらいかかった。",
+      "furigana": "{引|ひ}っ{越|こ}しするのに{十|じゅう}{万|まん}{円|えん}ぐらいかかった。",
+      "en": "It cost about 100,000 yen to move.",
+      "vi": "Chi phí di chuyển khoảng 100.000 yên."
+    }
+  ],
+  "tags": [
+    "purpose"
+  ],
+  "unitId": "grammar-n4-unit-09",
+  "questions": [
+    {
+      "id": "bunpou-n4-noni-purpose-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このかばんは旅行に行くのに便利です。",
+      "sentenceVi": "Túi này tiện dụng khi đi du lịch.",
+      "targetGrammar": "〜のに（purpose）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Vì; để (với việc sử dụng, thời gian hoặc chi phí)",
+        "Làm gì đó giúp cho ai..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜のに（purpose）」 mang ý nghĩa: \"Vì; để (với việc sử dụng, thời gian hoặc chi phí)\"."
+    },
+    {
+      "id": "bunpou-n4-noni-purpose-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "家から駅まで歩くのに二十分かかります。",
+      "sentenceVi": "Phải mất hai mươi phút đi bộ từ nhà tôi đến ga.",
+      "targetGrammar": "〜のに（purpose）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ていく",
+        "〜てくださる / 〜ていただく",
+        "〜てもらう",
+        "〜のに（purpose）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Phải mất hai mươi phút đi bộ từ nhà tôi đến ga.\", ta sử dụng mẫu 「〜のに（purpose）」."
+    },
+    {
+      "id": "bunpou-n4-noni-purpose-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "引っ越しするのに十万円ぐらいかかった。",
+      "sentenceVi": "Chi phí di chuyển khoảng 100.000 yên.",
+      "targetGrammar": "〜のに（purpose）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Vì; để (với việc sử dụng, thời gian hoặc chi phí)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜のに（purpose）」 mang ý nghĩa: \"Vì; để (với việc sử dụng, thời gian hoặc chi phí)\"."
+    },
+    {
+      "id": "bunpou-n4-noni-purpose-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "このかばんは旅行に行くのに便利です。",
+      "sentenceVi": "Túi này tiện dụng khi đi du lịch.",
+      "targetGrammar": "〜のに（purpose）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Vì; để (với việc sử dụng, thời gian hoặc chi phí)\":",
+      "options": [
+        "〜とき",
+        "〜のに（purpose）",
+        "〜てある",
+        "〜てみる"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜のに（purpose）」."
+    },
+    {
+      "id": "bunpou-n4-noni-purpose-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "このかばんは旅行に行くのに便利です。",
+      "sentenceVi": "Túi này tiện dụng khi đi du lịch.",
+      "targetGrammar": "〜のに（purpose）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜のに（purpose）」 là gì?",
+      "options": [
+        "Vì; để (với việc sử dụng, thời gian hoặc chi phí)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜のに（purpose）」 có nghĩa là: Vì; để (với việc sử dụng, thời gian hoặc chi phí)."
+    }
+  ]
+}

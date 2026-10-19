@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-te-mo-kamawanai",
+  "level": "N4",
+  "pattern": "〜ても構わない",
+  "title": "〜ても構わない",
+  "meaning": "Đừng bận tâm nếu; sẽ ổn thôi nếu",
+  "meaningVi": "Đừng bận tâm nếu; sẽ ổn thôi nếu",
+  "connection": "Động từ (V)-te + も構わない / i-Adj-ku + ても構わない / na-Adj + でも構わない / Danh từ (N) + でも構わない",
+  "usageNotes": "Trang trọng hơn 〜てもいい một chút. 〜なくても構わない có nghĩa là 'không sao đâu'.",
+  "examples": [
+    {
+      "ja": "ここに荷物を置いても構いませんか。",
+      "furigana": "ここに{荷物|にもつ}を{置|お}いても{構|かま}いませんか。",
+      "en": "Do you mind if I leave my bags here?",
+      "vi": "Bạn có phiền nếu tôi để túi ở đây không?"
+    },
+    {
+      "ja": "少しぐらい高くても構わないから、いい辞書を買いたい。",
+      "furigana": "{少|すこ}しぐらい{高|たか}くても{構|かま}わないから、いい{辞書|じしょ}を{買|か}いたい。",
+      "en": "I don't mind if it's a bit pricey; I want to buy a good dictionary.",
+      "vi": "Tôi không phiền nếu nó hơi đắt tiền; Tôi muốn mua một cuốn từ điển tốt."
+    },
+    {
+      "ja": "返事は明日でも構いませんよ。",
+      "furigana": "{返事|へんじ}は{明日|あした}でも{構|かま}いませんよ。",
+      "en": "It's fine if you answer tomorrow.",
+      "vi": "Sẽ ổn thôi nếu bạn trả lời vào ngày mai."
+    }
+  ],
+  "tags": [
+    "permission"
+  ],
+  "unitId": "grammar-n4-unit-17",
+  "questions": [
+    {
+      "id": "bunpou-n4-te-mo-kamawanai-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ここに荷物を置いても構いませんか。",
+      "sentenceVi": "Bạn có phiền nếu tôi để túi ở đây không?",
+      "targetGrammar": "〜ても構わない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
+        "Đừng bận tâm nếu; sẽ ổn thôi nếu",
+        "Ai đó làm giúp việc gì cho mình..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mẫu 「〜ても構わない」 mang ý nghĩa: \"Đừng bận tâm nếu; sẽ ổn thôi nếu\"."
+    },
+    {
+      "id": "bunpou-n4-te-mo-kamawanai-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "少しぐらい高くても構わないから、いい辞書を買いたい。",
+      "sentenceVi": "Tôi không phiền nếu nó hơi đắt tiền; Tôi muốn mua một cuốn từ điển tốt.",
+      "targetGrammar": "〜ても構わない",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ても構わない",
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜てもらう"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi không phiền nếu nó hơi đắt tiền; Tôi muốn mua một cuốn từ điển tốt.\", ta sử dụng mẫu 「〜ても構わない」."
+    },
+    {
+      "id": "bunpou-n4-te-mo-kamawanai-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "返事は明日でも構いませんよ。",
+      "sentenceVi": "Sẽ ổn thôi nếu bạn trả lời vào ngày mai.",
+      "targetGrammar": "〜ても構わない",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Đừng bận tâm nếu; sẽ ổn thôi nếu",
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm sẵn gì đó trước (Chuẩn bị)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ても構わない」 mang ý nghĩa: \"Đừng bận tâm nếu; sẽ ổn thôi nếu\"."
+    },
+    {
+      "id": "bunpou-n4-te-mo-kamawanai-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "ここに荷物を置いても構いませんか。",
+      "sentenceVi": "Bạn có phiền nếu tôi để túi ở đây không?",
+      "targetGrammar": "〜ても構わない",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đừng bận tâm nếu; sẽ ổn thôi nếu\":",
+      "options": [
+        "〜とき",
+        "〜てみる",
+        "〜ても構わない",
+        "〜てある"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ても構わない」."
+    },
+    {
+      "id": "bunpou-n4-te-mo-kamawanai-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ここに荷物を置いても構いませんか。",
+      "sentenceVi": "Bạn có phiền nếu tôi để túi ở đây không?",
+      "targetGrammar": "〜ても構わない",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ても構わない」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Nghe nói là... (Truyền đạt lại thông tin)",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Đừng bận tâm nếu; sẽ ổn thôi nếu"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ても構わない」 có nghĩa là: Đừng bận tâm nếu; sẽ ổn thôi nếu."
+    }
+  ]
+}

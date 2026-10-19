@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-ni-tsurete",
+  "level": "N3",
+  "pattern": "〜につれて",
+  "title": "〜につれて",
+  "meaning": "Như (một điều thay đổi, một điều khác cũng thay đổi)",
+  "meaningVi": "Như (một điều thay đổi, một điều khác cũng thay đổi)",
+  "connection": "Động từ (V)-dict / Danh từ (N) + につれて",
+  "usageNotes": "Cả hai nửa đều mô tả sự thay đổi dần dần. Mệnh đề chính không thể là một yêu cầu hoặc ý định của người nói. Gần với 〜に従って và 〜とともに.",
+  "examples": [
+    {
+      "ja": "年をとるにつれて、朝早く目が覚めるようになった。",
+      "furigana": "{年|とし}をとるにつれて、{朝|あさ}{早|はや}く{目|め}が{覚|さ}めるようになった。",
+      "en": "As I've gotten older, I've started waking up early in the morning.",
+      "vi": "Khi tôi già đi, tôi bắt đầu dậy sớm vào buổi sáng."
+    },
+    {
+      "ja": "日本での生活に慣れるにつれて、友達も増えていった。",
+      "furigana": "{日本|にほん}での{生活|せいかつ}に{慣|な}れるにつれて、{友達|ともだち}も{増|ふ}えていった。",
+      "en": "As I got used to life in Japan, I made more and more friends.",
+      "vi": "Khi tôi đã quen với cuộc sống ở Nhật Bản, tôi ngày càng có nhiều bạn bè hơn."
+    },
+    {
+      "ja": "時間がたつにつれて、その事故のことは忘れられていった。",
+      "furigana": "{時間|じかん}がたつにつれて、その{事故|じこ}のことは{忘|わす}れられていった。",
+      "en": "As time passed, the accident was gradually forgotten.",
+      "vi": "Thời gian trôi qua, vụ tai nạn dần bị lãng quên."
+    }
+  ],
+  "tags": [
+    "change",
+    "relation"
+  ],
+  "unitId": "grammar-n3-unit-11",
+  "questions": [
+    {
+      "id": "bunpou-n3-ni-tsurete-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "年をとるにつれて、朝早く目が覚めるようになった。",
+      "sentenceVi": "Khi tôi già đi, tôi bắt đầu dậy sớm vào buổi sáng.",
+      "targetGrammar": "〜につれて",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Như (một điều thay đổi, một điều khác cũng thay đổi)",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Thảo nào, hèn chi... / Đương nhiên là..."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜につれて」 mang ý nghĩa: \"Như (một điều thay đổi, một điều khác cũng thay đổi)\"."
+    },
+    {
+      "id": "bunpou-n3-ni-tsurete-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "日本での生活に慣れるにつれて、友達も増えていった。",
+      "sentenceVi": "Khi tôi đã quen với cuộc sống ở Nhật Bản, tôi ngày càng có nhiều bạn bè hơn.",
+      "targetGrammar": "〜につれて",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜につれて",
+        "〜ものではない",
+        "〜ものだ",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Khi tôi đã quen với cuộc sống ở Nhật Bản, tôi ngày càng có nhiều bạn bè hơn.\", ta sử dụng mẫu 「〜につれて」."
+    },
+    {
+      "id": "bunpou-n3-ni-tsurete-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "時間がたつにつれて、その事故のことは忘れられていった。",
+      "sentenceVi": "Thời gian trôi qua, vụ tai nạn dần bị lãng quên.",
+      "targetGrammar": "〜につれて",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Như (một điều thay đổi, một điều khác cũng thay đổi)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên ; điều tốt nhất là (lời khuyên)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜につれて」 mang ý nghĩa: \"Như (một điều thay đổi, một điều khác cũng thay đổi)\"."
+    },
+    {
+      "id": "bunpou-n3-ni-tsurete-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "年をとるにつれて、朝早く目が覚めるようになった。",
+      "sentenceVi": "Khi tôi già đi, tôi bắt đầu dậy sớm vào buổi sáng.",
+      "targetGrammar": "〜につれて",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Như (một điều thay đổi, một điều khác cũng thay đổi)\":",
+      "options": [
+        "〜ことにしている",
+        "〜ことになっている",
+        "〜ことはない",
+        "〜につれて"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp án đúng là 「〜につれて」."
+    },
+    {
+      "id": "bunpou-n3-ni-tsurete-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "年をとるにつれて、朝早く目が覚めるようになった。",
+      "sentenceVi": "Khi tôi già đi, tôi bắt đầu dậy sớm vào buổi sáng.",
+      "targetGrammar": "〜につれて",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜につれて」 là gì?",
+      "options": [
+        "Như (một điều thay đổi, một điều khác cũng thay đổi)",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜につれて」 có nghĩa là: Như (một điều thay đổi, một điều khác cũng thay đổi)."
+    }
+  ]
+}

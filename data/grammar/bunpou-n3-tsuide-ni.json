@@ -1,0 +1,117 @@
+{
+  "id": "bunpou-n3-tsuide-ni",
+  "level": "N3",
+  "pattern": "〜ついでに",
+  "title": "〜ついでに",
+  "meaning": "Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó",
+  "meaningVi": "Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó",
+  "connection": "Động từ (V)-dict / Động từ (V)-ta / Danh từ (N) + の + ついでに",
+  "usageNotes": "Hành động chính vẫn xảy ra; cái thứ hai được thêm vào vì nó thuận tiện. So sánh N1 〜がてら.",
+  "examples": [
+    {
+      "ja": "郵便局へ行くついでに、この手紙も出してきてくれる？",
+      "furigana": "{郵便|ゆうびん}{局|きょく}へ{行|い}くついでに、この{手紙|てがみ}も{出|だ}してきてくれる？",
+      "en": "Since you're going to the post office, could you mail this letter too?",
+      "vi": "Vì bạn sắp đến bưu điện nên bạn có thể gửi lá thư này được không?"
+    },
+    {
+      "ja": "京都へ出張したついでに、昔の友達に会ってきた。",
+      "furigana": "{京都|きょうと}へ{出張|しゅっちょう}したついでに、{昔|むかし}の{友達|ともだち}に{会|あ}ってきた。",
+      "en": "While I was on a business trip to Kyoto, I took the chance to see an old friend.",
+      "vi": "Khi đang đi công tác ở Kyoto, tôi có cơ hội gặp lại một người bạn cũ."
+    },
+    {
+      "ja": "買い物のついでに、図書館に本を返した。",
+      "furigana": "{買|か}い{物|もの}のついでに、{図書館|としょかん}に{本|ほん}を{返|かえ}した。",
+      "en": "I returned some books to the library while I was out shopping.",
+      "vi": "Tôi đã trả lại một số cuốn sách cho thư viện khi tôi ra ngoài mua sắm."
+    }
+  ],
+  "tags": [
+    "simultaneity",
+    "addition"
+  ],
+  "unitId": "grammar-n3-unit-12",
+  "questions": [
+    {
+      "id": "bunpou-n3-tsuide-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "郵便局へ行くついでに、この手紙も出してきてくれる？",
+      "sentenceVi": "Vì bạn sắp đến bưu điện nên bạn có thể gửi lá thư này được không?",
+      "targetGrammar": "〜ついでに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Chắc chắn không... / Không đời nào...",
+        "Không hẳn là... / Không nhất thiết là...",
+        "Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ついでに」 mang ý nghĩa: \"Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó\"."
+    },
+    {
+      "id": "bunpou-n3-tsuide-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "京都へ出張したついでに、昔の友達に会ってきた。",
+      "sentenceVi": "Khi đang đi công tác ở Kyoto, tôi có cơ hội gặp lại một người bạn cũ.",
+      "targetGrammar": "〜ついでに",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜ついでに",
+        "〜ものではない",
+        "〜ものだ",
+        "〜わけにはいかない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Để diễn đạt ý nghĩa \"Khi đang đi công tác ở Kyoto, tôi có cơ hội gặp lại một người bạn cũ.\", ta sử dụng mẫu 「〜ついでに」."
+    },
+    {
+      "id": "bunpou-n3-tsuide-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "買い物のついでに、図書館に本を返した。",
+      "sentenceVi": "Tôi đã trả lại một số cuốn sách cho thư viện khi tôi ra ngoài mua sắm.",
+      "targetGrammar": "〜ついでに",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó",
+        "Nên ; điều tốt nhất là (lời khuyên)",
+        "Bởi vì (lý do thông thường hoặc tự biện minh)",
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ついでに」 mang ý nghĩa: \"Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó\"."
+    },
+    {
+      "id": "bunpou-n3-tsuide-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "郵便局へ行くついでに、この手紙も出してきてくれる？",
+      "sentenceVi": "Vì bạn sắp đến bưu điện nên bạn có thể gửi lá thư này được không?",
+      "targetGrammar": "〜ついでに",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó\":",
+      "options": [
+        "〜ことはない",
+        "〜ついでに",
+        "〜ことになっている",
+        "〜ことにしている"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ついでに」."
+    },
+    {
+      "id": "bunpou-n3-tsuide-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "郵便局へ行くついでに、この手紙も出してきてくれる？",
+      "sentenceVi": "Vì bạn sắp đến bưu điện nên bạn có thể gửi lá thư này được không?",
+      "targetGrammar": "〜ついでに",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ついでに」 là gì?",
+      "options": [
+        "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
+        "Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó",
+        "Cố gắng ; cố gắng ; sắp sửa",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ついでに」 có nghĩa là: Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó."
+    }
+  ]
+}

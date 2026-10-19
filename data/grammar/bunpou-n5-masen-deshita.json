@@ -1,0 +1,118 @@
+{
+  "id": "bunpou-n5-masen-deshita",
+  "level": "N5",
+  "pattern": "〜ませんでした",
+  "title": "〜ませんでした",
+  "meaning": "Đã không (lịch sự quá khứ phủ định)",
+  "meaningVi": "Đã không (lịch sự quá khứ phủ định)",
+  "connection": "Động từ (V)-stem + ませんでした",
+  "usageNotes": "Tương đương đơn giản là 〜なかった: 食べませんでした = 食べなかった.",
+  "examples": [
+    {
+      "ja": "けさは朝ご飯を食べませんでした。",
+      "furigana": "けさは{朝|あさ}ご{飯|はん}を{食|た}べませんでした。",
+      "en": "I didn't eat breakfast this morning.",
+      "vi": "Sáng nay tôi đã không ăn sáng."
+    },
+    {
+      "ja": "週末は宿題をしませんでした。",
+      "furigana": "{週末|しゅうまつ}は{宿題|しゅくだい}をしませんでした。",
+      "en": "I didn't do my homework over the weekend.",
+      "vi": "Tôi đã không làm bài tập về nhà vào cuối tuần."
+    },
+    {
+      "ja": "きのうは雨でしたから、出かけませんでした。",
+      "furigana": "きのうは{雨|あめ}でしたから、{出|で}かけませんでした。",
+      "en": "It rained yesterday, so I didn't go out.",
+      "vi": "Hôm qua trời mưa nên tôi không đi ra ngoài."
+    }
+  ],
+  "tags": [
+    "conjugation",
+    "tense",
+    "negation"
+  ],
+  "unitId": "grammar-n5-unit-07",
+  "questions": [
+    {
+      "id": "bunpou-n5-masen-deshita-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "けさは朝ご飯を食べませんでした。",
+      "sentenceVi": "Sáng nay tôi đã không ăn sáng.",
+      "targetGrammar": "〜ませんでした",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Đã không (lịch sự quá khứ phủ định)",
+        "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
+        "Chỉ đối tượng trực tiếp của hành động"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ませんでした」 mang ý nghĩa: \"Đã không (lịch sự quá khứ phủ định)\"."
+    },
+    {
+      "id": "bunpou-n5-masen-deshita-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "週末は宿題をしませんでした。",
+      "sentenceVi": "Tôi đã không làm bài tập về nhà vào cuối tuần.",
+      "targetGrammar": "〜ませんでした",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜に（place of existence）",
+        "〜ませんでした",
+        "〜に（destination）",
+        "〜に（time）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đã không làm bài tập về nhà vào cuối tuần.\", ta sử dụng mẫu 「〜ませんでした」."
+    },
+    {
+      "id": "bunpou-n5-masen-deshita-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "きのうは雨でしたから、出かけませんでした。",
+      "sentenceVi": "Hôm qua trời mưa nên tôi không đi ra ngoài.",
+      "targetGrammar": "〜ませんでした",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
+        "Đã không (lịch sự quá khứ phủ định)",
+        "Hướng về, tới... (Chỉ phương hướng di chuyển)",
+        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ませんでした」 mang ý nghĩa: \"Đã không (lịch sự quá khứ phủ định)\"."
+    },
+    {
+      "id": "bunpou-n5-masen-deshita-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "けさは朝ご飯を食べませんでした。",
+      "sentenceVi": "Sáng nay tôi đã không ăn sáng.",
+      "targetGrammar": "〜ませんでした",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đã không (lịch sự quá khứ phủ định)\":",
+      "options": [
+        "〜と（and）",
+        "〜ませんでした",
+        "〜で（place of action）",
+        "〜で（means）"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đáp án đúng là 「〜ませんでした」."
+    },
+    {
+      "id": "bunpou-n5-masen-deshita-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "けさは朝ご飯を食べませんでした。",
+      "sentenceVi": "Sáng nay tôi đã không ăn sáng.",
+      "targetGrammar": "〜ませんでした",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ませんでした」 là gì?",
+      "options": [
+        "Với ; cùng với (một đối tác trong một hành động)",
+        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Đã không (lịch sự quá khứ phủ định)"
+      ],
+      "correctIndex": 3,
+      "explanation": "「〜ませんでした」 có nghĩa là: Đã không (lịch sự quá khứ phủ định)."
+    }
+  ]
+}

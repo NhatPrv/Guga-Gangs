@@ -1,0 +1,116 @@
+{
+  "id": "bunpou-n4-you-ni",
+  "level": "N4",
+  "pattern": "〜ように（purpose）",
+  "title": "〜ように（purpose）",
+  "meaning": "Vậy đó ; theo thứ tự đó",
+  "meaningVi": "Vậy đó ; theo thứ tự đó",
+  "connection": "Động từ (V)-dict / Động từ (V)-nai + ように",
+  "usageNotes": "Dùng với các động từ mà chủ ngữ không thể trực tiếp điều khiển: dạng tiềm năng, 分かる, 見える, phủ định. Với những hành động có chủ ý, hãy sử dụng ために.",
+  "examples": [
+    {
+      "ja": "後ろの人にも聞こえるように、大きな声で話してください。",
+      "furigana": "{後|うし}ろの{人|ひと}にも{聞|き}こえるように、{大|おお}きな{声|こえ}で{話|はな}してください。",
+      "en": "Please speak loudly so that the people in the back can hear too.",
+      "vi": "Hãy nói to lên để người ngồi phía sau cũng có thể nghe thấy."
+    },
+    {
+      "ja": "忘れないように、手にメモを書いた。",
+      "furigana": "{忘|わす}れないように、{手|て}にメモを{書|か}いた。",
+      "en": "I wrote a note on my hand so I wouldn't forget.",
+      "vi": "Tôi đã viết một ghi chú trên tay để tôi không quên."
+    },
+    {
+      "ja": "かぜをひかないように、暖かくして寝てください。",
+      "furigana": "かぜをひかないように、{暖|あたた}かくして{寝|ね}てください。",
+      "en": "Keep warm when you sleep so you don't catch a cold.",
+      "vi": "Giữ ấm khi ngủ để không bị cảm lạnh."
+    }
+  ],
+  "tags": [
+    "purpose"
+  ],
+  "unitId": "grammar-n4-unit-10",
+  "questions": [
+    {
+      "id": "bunpou-n4-you-ni-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "後ろの人にも聞こえるように、大きな声で話してください。",
+      "sentenceVi": "Hãy nói to lên để người ngồi phía sau cũng có thể nghe thấy.",
+      "targetGrammar": "〜ように（purpose）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Vậy đó ; theo thứ tự đó",
+        "Ai đó làm giúp việc gì cho mình...",
+        "Làm gì đó giúp cho ai...",
+        "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu 「〜ように（purpose）」 mang ý nghĩa: \"Vậy đó ; theo thứ tự đó\"."
+    },
+    {
+      "id": "bunpou-n4-you-ni-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "忘れないように、手にメモを書いた。",
+      "sentenceVi": "Tôi đã viết một ghi chú trên tay để tôi không quên.",
+      "targetGrammar": "〜ように（purpose）",
+      "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
+      "options": [
+        "〜てもらう",
+        "〜てくださる / 〜ていただく",
+        "〜ていく",
+        "〜ように（purpose）"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để diễn đạt ý nghĩa \"Tôi đã viết một ghi chú trên tay để tôi không quên.\", ta sử dụng mẫu 「〜ように（purpose）」."
+    },
+    {
+      "id": "bunpou-n4-you-ni-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "かぜをひかないように、暖かくして寝てください。",
+      "sentenceVi": "Giữ ấm khi ngủ để không bị cảm lạnh.",
+      "targetGrammar": "〜ように（purpose）",
+      "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
+        "Làm sẵn gì đó trước (Chuẩn bị)",
+        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Vậy đó ; theo thứ tự đó"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ように（purpose）」 mang ý nghĩa: \"Vậy đó ; theo thứ tự đó\"."
+    },
+    {
+      "id": "bunpou-n4-you-ni-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "後ろの人にも聞こえるように、大きな声で話してください。",
+      "sentenceVi": "Hãy nói to lên để người ngồi phía sau cũng có thể nghe thấy.",
+      "targetGrammar": "〜ように（purpose）",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Vậy đó ; theo thứ tự đó\":",
+      "options": [
+        "〜とき",
+        "〜てみる",
+        "〜ように（purpose）",
+        "〜てある"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp án đúng là 「〜ように（purpose）」."
+    },
+    {
+      "id": "bunpou-n4-you-ni-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "後ろの人にも聞こえるように、大きな声で話してください。",
+      "sentenceVi": "Hãy nói to lên để người ngồi phía sau cũng có thể nghe thấy.",
+      "targetGrammar": "〜ように（purpose）",
+      "prompt": "Ý nghĩa chính của cấu trúc 「〜ように（purpose）」 là gì?",
+      "options": [
+        "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
+        "Vậy đó ; theo thứ tự đó",
+        "Trông giống như; có vẻ ; có vẻ sắp",
+        "Nghe nói là... (Truyền đạt lại thông tin)"
+      ],
+      "correctIndex": 1,
+      "explanation": "「〜ように（purpose）」 có nghĩa là: Vậy đó ; theo thứ tự đó."
+    }
+  ]
+}
