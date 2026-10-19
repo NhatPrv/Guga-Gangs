@@ -565,15 +565,21 @@ async function selectGrammarUnit(unitId) {
   if (breadcrumbCurr) breadcrumbCurr.textContent = `JLPT ${unit.level}`;
   if (breadcrumbUnit) breadcrumbUnit.textContent = unit.title;
 
+  // Giữ nguyên tab hiện tại, chỉ cập nhật nội dung tương ứng với bài mới
   if (state.currentTab === 'grammar-flashcard') {
     await setupFlashcards('grammar');
     renderFlashcardView();
   } else if (state.currentTab === 'grammar-test') {
+    document.getElementById('grammar-arena')?.classList.add('hidden');
+    document.getElementById('grammar-summary')?.classList.add('hidden');
+    document.getElementById('grammar-overview')?.classList.add('hidden');
+    document.getElementById('grammar-catalog')?.classList.remove('hidden');
     renderGrammarCatalog();
   } else {
-    if (typeof window.switchTab === 'function' && state.currentTab !== 'grammar' && state.currentTab !== 'grammar-catalog') {
-      window.switchTab('grammar-catalog');
-    }
+    document.getElementById('grammar-arena')?.classList.add('hidden');
+    document.getElementById('grammar-summary')?.classList.add('hidden');
+    document.getElementById('grammar-catalog')?.classList.add('hidden');
+    document.getElementById('grammar-overview')?.classList.remove('hidden');
     renderGrammarOverview();
   }
   renderGrammarTree();
@@ -725,16 +731,24 @@ async function selectUnit(curriculumId, unitId) {
   document.getElementById('tab-vocab-badge').textContent = state.currentVocabList.length;
   document.getElementById('tab-kanji-badge').textContent = state.currentKanjiList.length;
 
-  // Thiết lập danh sách Flashcards & Practice theo phân hệ đang chọn
-  setupFlashcards(state.activeHub === 'kanji' ? 'kanji' : (state.activeHub === 'grammar' ? 'grammar' : 'vocab'));
-  initPracticeSetup(state.activeHub === 'kanji' ? 'kanji' : 'vocab');
+  // Dọn dẹp timer test nếu đang chạy
+  if (state.practice.autoNextTimer) clearTimeout(state.practice.autoNextTimer);
+  if (state.practice.countdownInterval) clearInterval(state.practice.countdownInterval);
 
-  // Render nội dung theo view hiện tại
+  // Thiết lập danh sách Flashcards theo đúng phân hệ đang chọn
+  const deckType = (state.activeHub === 'kanji' || state.currentTab === 'kanji-flashcard') ? 'kanji' : 'vocab';
+  await setupFlashcards(deckType);
+
+  // Thiết lập thông số Practice theo phân hệ đang chọn
+  const practiceType = (state.activeHub === 'kanji' || state.currentTab === 'kanji-practice') ? 'kanji' : 'vocab';
+  initPracticeSetup(practiceType);
+
+  // Render nội dung theo view hiện tại mà không đổi tab
   renderCurrentView();
 }
 
 /**
- * Render nội dung theo Tab đang chọn bao quát cả 3 Phân hệ
+ * Render nội dung theo Tab đang chọn bao quát cả 3 Phân hệ (Giữ nguyên tab hiện tại)
  */
 function renderCurrentView() {
   const query = state.searchQuery.trim().toLowerCase();
@@ -747,8 +761,10 @@ function renderCurrentView() {
     renderFlashcardView();
   } else if (['practice', 'vocab-practice', 'kanji-practice'].includes(state.currentTab)) {
     renderPracticeView();
-  } else if (['grammar', 'grammar-catalog', 'grammar-test'].includes(state.currentTab)) {
-    initGrammarModule();
+  } else if (['grammar', 'grammar-catalog'].includes(state.currentTab)) {
+    renderGrammarOverview();
+  } else if (state.currentTab === 'grammar-test') {
+    renderGrammarCatalog();
   }
 }
 
@@ -2187,10 +2203,11 @@ function renderPracticeView() {
   const summary = document.getElementById('practice-summary');
 
   if (setupPanel && arena && summary) {
-    if (arena.classList.contains('hidden') && summary.classList.contains('hidden')) {
-      setupPanel.classList.remove('hidden');
-      initPracticeSetup(state.practiceTarget || 'vocab');
-    }
+    arena.classList.add('hidden');
+    summary.classList.add('hidden');
+    setupPanel.classList.remove('hidden');
+    const target = (state.activeHub === 'kanji' || state.currentTab === 'kanji-practice') ? 'kanji' : 'vocab';
+    initPracticeSetup(target);
   }
 }
 
