@@ -158,7 +158,7 @@
     "meaning": "đi bộ",
     "reading": "あるく",
     "sinoVietnamese": "BỘ",
-    "example": "毎日欠かさずに、歩くようにしています。 (Tôi cố gắng đi bộ mỗi ngày mà không thất bại.)"
+    "example": "天気が良かったので、バスに乗らずに駅まで歩くことにしました。 (Vì trời đẹp nên tôi quyết định đi bộ ra ga chứ không đi xe buýt.)"
   },
   {
     "word": "言う",
@@ -183,10 +183,10 @@
   },
   {
     "word": "行く",
-    "meaning": "đi",
+    "meaning": "đi (tới một địa điểm cụ thể)",
     "reading": "いく",
     "sinoVietnamese": "HÀNH",
-    "example": "週末は家族と一緒にスーパーへ行く。 (Cuối tuần tôi cùng gia đình đi siêu thị.)"
+    "example": "明日の朝八時に、新幹線に乗って京都へ行きます。 (Tám giờ sáng mai, tôi sẽ đi tàu Shinkansen đến Kyoto.)"
   },
   {
     "word": "池",
@@ -197,10 +197,10 @@
   },
   {
     "word": "痛い",
-    "meaning": "đau đớn",
+    "meaning": "đau (cảm giác đau đớn trên cơ thể)",
     "reading": "いたい",
     "sinoVietnamese": "THỐNG",
-    "example": "ほかに痛いところはありますか。 (Có nỗi đau nào khác không?)"
+    "example": "冷たい水を飲んだら、虫歯がズキズキと痛くなりました。 (Vừa uống nước lạnh xong thì chiếc răng sâu của tôi đau nhức buốt.)"
   },
   {
     "word": "いただきます",
@@ -379,10 +379,10 @@
   },
   {
     "word": "お皿",
-    "meaning": "cái đĩa",
+    "meaning": "cái đĩa, dĩa đựng thức ăn",
     "reading": "おさら",
     "sinoVietnamese": "",
-    "example": "スープを入れるくぼんだお皿がありますか。 (Bạn có đĩa rỗng để đựng súp không?)"
+    "example": "焼き上がったばかりの温かい魚を、大きなお皿に盛り付けました。 (Tôi đã bày con cá vừa nướng chín nóng hổi lên một chiếc đĩa lớn.)"
   },
   {
     "word": "お祖父さん",
@@ -393,10 +393,10 @@
   },
   {
     "word": "教える",
-    "meaning": "dạy, chỉ bảo",
+    "meaning": "dạy học, chỉ bảo (ngoại ngữ, đường đi)",
     "reading": "おしえる",
     "sinoVietnamese": "GIÁO",
-    "example": "毎日欠かさずに、教えるようにしています。 (Tôi cố gắng dạy mỗi ngày mà không thất bại.)"
+    "example": "週末にボランティアで外国人の子供たちに日本語を教えています。 (Cuối tuần tôi làm tình nguyện viên dạy tiếng Nhật cho các em nhỏ người nước ngoài.)"
   },
   {
     "word": "押す",
@@ -484,10 +484,10 @@
   },
   {
     "word": "おまわりさん",
-    "meaning": "bạn bè",
+    "meaning": "chú cảnh sát (cách xưng hô thân mật, gần gũi với cảnh sát tuần tra)",
     "reading": "おまわりさん",
     "sinoVietnamese": "",
-    "example": "すみません、おまわりさん。ここはどこですか。 (Ví dụ về từ: bạn bè.)"
+    "example": "財布を落として困っていたら、交番のおまわりさんが親切に助けてくれました。 (Khi đang bối rối vì đánh rơi ví, chú cảnh sát ở bốt trực đã nhiệt tình giúp đỡ tôi.)"
   },
   {
     "word": "泳ぐ",

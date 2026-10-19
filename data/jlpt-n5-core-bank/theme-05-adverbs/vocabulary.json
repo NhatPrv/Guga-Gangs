@@ -64,17 +64,17 @@
   },
   {
     "word": "辺",
-    "meaning": "khu vực",
+    "meaning": "vùng, khu vực lân cận xung quanh",
     "reading": "へん",
     "sinoVietnamese": "",
-    "example": "この辺にホテルはありますか。 (Có khách sạn nào quanh đây không?)"
+    "example": "この辺にはおしゃれなカフェがたくさんあって、散歩が楽しいです。 (Xung quanh khu vực này có nhiều quán cà phê xinh xắn nên đi dạo rất thích.)"
   },
   {
     "word": "ペン",
-    "meaning": "bút mực",
+    "meaning": "bút mực, cây bút viết",
     "reading": "ペン",
     "sinoVietnamese": "",
-    "example": "リンゴと本の間にペンがあります。 (Có một cây bút ở giữa quả táo và cuốn sách.)"
+    "example": "重要書類にサインをするために、黒いインクのボールペンを取り出した。 (Tôi lấy chiếc bút bi mực đen ra để ký tên vào các tài liệu quan trọng.)"
   },
   {
     "word": "便利",
@@ -98,11 +98,11 @@
     "example": "ポケットに何を持っていますか。 (Bạn có gì trong túi?)"
   },
   {
-    "word": "ポ���ト",
-    "meaning": "bài đăng",
+    "word": "ポスト",
+    "meaning": "hòm thư, thùng thư bưu điện màu đỏ",
     "reading": "ポスト",
     "sinoVietnamese": "",
-    "example": "ポストはどこにありますか。 (Bài đăng ở đâu?)"
+    "example": "切手を貼った手紙を、駅前の赤いポストに投函しました。 (Tôi đã dán tem rồi thả bức thư vào thùng thư màu đỏ trước nhà ga.)"
   },
   {
     "word": "細い",
@@ -176,10 +176,10 @@
   },
   {
     "word": "マッチ",
-    "meaning": "trận đấu",
+    "meaning": "que diêm, bao diêm dùng để đánh lửa",
     "reading": "マッチ",
     "sinoVietnamese": "",
-    "example": "マッチありますか。 (Bạn có trận đấu không?)"
+    "example": "停電になったので、マッチをすってテーブルのろうそくに火を灯した。 (Vì bị mất điện nên tôi đã quẹt diêm thắp ngọn nến trên bàn.)"
   },
   {
     "word": "丸い",
@@ -204,10 +204,10 @@
   },
   {
     "word": "見せる",
-    "meaning": "hiển thị",
+    "meaning": "cho xem, xuất trình",
     "reading": "みせる",
     "sinoVietnamese": "KIẾN",
-    "example": "パスポートを見せてくれませんか。 (Bạn có thể vui lòng cho tôi xem hộ chiếu của bạn được không?)"
+    "example": "搭乗口の係員に、手元の航空券と搭乗券を提示して見せました。 (Tại cửa lên máy bay, tôi xuất trình vé máy bay và thẻ lên tàu trên tay cho nhân viên xem.)"
   },
   {
     "word": "三日",
@@ -316,10 +316,10 @@
   },
   {
     "word": "夕方",
-    "meaning": "chiều tối, hoàng hôn",
+    "meaning": "chiều tối, lúc hoàng hôn chập choạng",
     "reading": "ゆうがた",
     "sinoVietnamese": "PHƯƠNG",
-    "example": "夕方になると、涼しい風が吹いて過ごしやすくなります。 (Cứ đến chiều tối là gió mát thổi về, trời dễ chịu hơn.)"
+    "example": "夕方になると、西の空がオレンジ色に美しく染まります。 (Khi chiều tà buông xuống, bầu trời phía tây nhuộm một màu cam tuyệt đẹp.)"
   },
   {
     "word": "夕飯",
@@ -428,10 +428,10 @@
   },
   {
     "word": "零",
-    "meaning": "không",
-    "reading": "れい",
+    "meaning": "số không (0)",
+    "reading": "れい / ゼロ",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりの零を選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn chiếc Zero hoàn hảo cho mình.)"
+    "example": "真冬の夜は気温が零度を下回り、路面が凍結します。 (Đêm đông nhiệt độ tụt xuống dưới 0 độ làm mặt đường đóng băng.)"
   },
   {
     "word": "レコード",

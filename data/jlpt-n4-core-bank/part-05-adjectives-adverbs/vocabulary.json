@@ -99,10 +99,10 @@
   },
   {
     "word": "直る",
-    "meaning": "được sửa chữa",
+    "meaning": "được sửa chữa xong, phục hồi (máy móc: 時計が直る)",
     "reading": "なおる",
     "sinoVietnamese": "TRỰC",
-    "example": "毎日欠かさずに、直るようにしています。 (Tôi cố gắng sửa nó mỗi ngày mà không thất bại.)"
+    "example": "故障していたパソコンが直って、保存していたデータも無事でした。 (Chiếc máy tính bị hỏng đã được sửa xong, dữ liệu lưu trữ vẫn còn nguyên vẹn.)"
   },
   {
     "word": "中々",
@@ -162,10 +162,10 @@
   },
   {
     "word": "なるほど",
-    "meaning": "hiểu, biết",
+    "meaning": "hóa ra là vậy, thảo nào (hiểu ra chân lý)",
     "reading": "なるほど",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要ななるほどをしっかり入れて出かけました。 (Tôi gói ghém mọi thứ cần thiết vào túi rồi đi ra ngoài.)"
+    "example": "先生の詳しい解説を聞いて、「なるほど、そういうことか」と納得しました。 (Nghe thầy phân tích cặn kẽ, tôi gật gù: \"Hóa ra là thế, chuẩn rồi\".)"
   },
   {
     "word": "慣れる",
@@ -288,10 +288,10 @@
   },
   {
     "word": "拝見",
-    "meaning": "xem, nhìn",
+    "meaning": "xem, nhìn (khiêm nhường ngữ của 見る)",
     "reading": "はいけん",
     "sinoVietnamese": "KIẾN",
-    "example": "パスポートを拝見できますか。 (Tôi có thể xem hộ chiếu của bạn được không?)"
+    "example": "ご本人様確認のため、お手持ちの身分証明書を拝見できますでしょうか。 (Để xác nhận danh tính quý khách, tôi có thể xin phép được xem giấy tờ tùy thân của quý khách được không ạ?)"
   },
   {
     "word": "運ぶ",
@@ -344,10 +344,10 @@
   },
   {
     "word": "ハンドバッグ",
-    "meaning": "túi xách",
+    "meaning": "túi xách tay nữ",
     "reading": "ハンドバッグ",
     "sinoVietnamese": "",
-    "example": "父から大切なハンドバッグを譲り受けて、大事に使っています。 (Tôi được thừa kế một chiếc túi xách quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "誕生日に母へ上品な革のハンドバッグをプレゼントしました。 (Nhân dịp sinh nhật mẹ, tôi tặng mẹ chiếc túi xách tay bằng da sang trọng.)"
   },
   {
     "word": "冷える",

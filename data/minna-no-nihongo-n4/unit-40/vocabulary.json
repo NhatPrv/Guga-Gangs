@@ -1,38 +1,38 @@
 [
   {
     "word": "数えます",
-    "meaning": "giảm giá",
+    "meaning": "đếm (số lượng, tiền)",
     "reading": "かぞえます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、数えますようにしています。 (Tôi cố gắng đếm chúng mỗi ngày mà không thất bại.)"
+    "example": "レジを閉める前に、金庫の中の現金を1枚ずつ正確に数えました。 (Trước khi chốt ca thu ngân, tôi cẩn thận đếm từng tờ tiền mặt trong két.)"
   },
   {
     "word": "測ります/量ります",
-    "meaning": "đo, cân",
+    "meaning": "đo đạc (chiều dài, cân nặng, thể tích)",
     "reading": "はかります",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、測ります/量りますようにしています。 (Tôi cố gắng đo/đo mọi thứ mỗi ngày mà không thất bại.)"
+    "example": "健康診断で身長と体重を測り、視力検査を受けました。 (Trong đợt khám sức khỏe, tôi được đo chiều cao, cân nặng và kiểm tra thị lực.)"
   },
   {
     "word": "確かめます",
-    "meaning": "xác nhận",
+    "meaning": "kiểm tra, xác nhận (kiểm tra lại cho chắc chắn, tránh sai sót)",
     "reading": "たしかめます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、確かめますようにしています。 (Tôi cố gắng kiểm tra nó mỗi ngày mà không thất bại.)"
+    "example": "飛行機のチケットの日時と座席番号をもう一度確かめました。 (Tôi kiểm tra lại lần nữa ngày giờ và số ghế trên vé máy bay.)"
   },
   {
     "word": "合います",
-    "meaning": "trung bình, thích hợp",
+    "meaning": "vừa vặn, hợp [kích cỡ, khẩu vị: サイズ/味が合う]",
     "reading": "あいます",
     "sinoVietnamese": "HỢP",
-    "example": "毎日欠かさずに、合いますようにしています。 (Tôi cố gắng mặc nó mỗi ngày mà không thất bại.)"
+    "example": "靴屋で試着した革靴が自分の足の形にぴったり合って、とても歩きやすかった。 (Đôi giày da tôi thử ở tiệm giày vừa vặn ôm khít phom chân, đi lại cực kỳ êm ái.)"
   },
   {
     "word": "出発します",
-    "meaning": "khởi hành và khởi hành",
+    "meaning": "khởi hành, xuất phát",
     "reading": "しゅっぱつします",
     "sinoVietnamese": "XUẤT",
-    "example": "毎日仕事が終わったあと、日本語を出発します。 (Sau khi kết thúc công việc hàng ngày, tôi đi sang tiếng Nhật.)"
+    "example": "新幹線は定刻通りに東京駅のホームを出発しました。 (Đoàn tàu Shinkansen đã rời ga Tokyo đúng giờ theo lịch trình.)"
   },
   {
     "word": "到着します。",
@@ -43,52 +43,52 @@
   },
   {
     "word": "酔います",
-    "meaning": "say rượu",
+    "meaning": "say (rượu: 酒に酔う), say xe (車に酔う)",
     "reading": "よいます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、酔いますようにしています。 (Tôi cố gắng say mỗi ngày mà không thất bại.)"
+    "example": "山道でバスが激しく揺れたので、乗り物に酔ってしまいました。 (Xe buýt lắc lư dữ dội trên đường đèo làm tôi bị say xe mất.)"
   },
   {
     "word": "危険（な）",
-    "meaning": "nguy hiểm",
+    "meaning": "nguy hiểm, mất an toàn",
     "reading": "きけん（な）",
     "sinoVietnamese": "NGUY HIỂM",
-    "example": "田中さんはいつも親切で、とても危険な人です。 (Ông Tanaka luôn tốt bụng và là người rất nguy hiểm.)"
+    "example": "歩行中のスマートフォン操作は周囲への注意が散漫になり、事故につながり大変危険です。 (Vừa đi bộ vừa bấm điện thoại làm phân tán sự chú ý xung quanh, rất nguy hiểm và dễ dẫn đến tai nạn.)"
   },
   {
     "word": "忘年会",
-    "meaning": "bữa tiệc cuối năm",
+    "meaning": "tiệc tất niên cuối năm",
     "reading": "ぼうねんかい",
     "sinoVietnamese": "VONG NIÊN HỘI",
-    "example": "忘年会は家族と一緒に楽しい旅行に出かける計画です。 (Đối với bữa tiệc cuối năm, hãy lên kế hoạch cho một chuyến du lịch vui vẻ cùng gia đình.)"
+    "example": "年末に会社の同僚たちと居酒屋で賑やかに忘年会を開きました。 (Cuối năm tôi cùng đồng nghiệp tụ tập liên hoan tiệc tất niên rôm rả tại quán nhậu.)"
   },
   {
     "word": "新年会",
-    "meaning": "tiệc đón năm mới, tân niên",
+    "meaning": "tiệc tân niên đầu năm mới",
     "reading": "しんねんかい",
     "sinoVietnamese": "TÂN NIÊN HỘI",
-    "example": "新年会は家族と一緒に楽しい旅行に出かける計画です。 (Đối với bữa tiệc năm mới, tôi dự định sẽ có một chuyến du lịch vui vẻ cùng gia đình.)"
+    "example": "年明けの最初の営業日に、社員一同で新年会を行いました。 (Vào ngày làm việc đầu tiên của năm mới, toàn thể nhân viên cùng mở tiệc tân niên.)"
   },
   {
     "word": "二次会",
-    "meaning": "bên thứ hai, tăng thêm hai",
+    "meaning": "tăng hai, buổi liên hoan chầu hai",
     "reading": "にじかい",
     "sinoVietnamese": "NHỊ HỘI",
-    "example": "レストランで人気の二次会を注文して味わいました。 (Tôi gọi món và thưởng thức bữa tiệc sau bữa tiệc nổi tiếng tại nhà hàng.)"
+    "example": "一次会の宴会が終わった後、有志でカラオケの二次会へ行きました。 (Sau khi tàn tiệc chầu một, mấy anh em rủ nhau đi hát karaoke tăng hai.)"
   },
   {
     "word": "大会",
-    "meaning": "đại hội và các cuộc thi",
+    "meaning": "đại hội thể thao, cuộc thi quy mô lớn",
     "reading": "たいかい",
     "sinoVietnamese": "ĐẠI HỘI",
-    "example": "健康的な生活を送るために、毎日新鮮な大会をとるようにしています。 (Tôi cố gắng tham gia các cuộc thi mới mỗi ngày để có một cuộc sống khỏe mạnh.)"
+    "example": "全国から予選を勝ち抜いた精鋭たちが集まり、東京体育館で熱戦の大会が開催された。 (Các tuyển thủ xuất sắc vượt qua vòng loại toàn quốc đã quy tụ, tranh tài quyết liệt tại nhà thi đấu Tokyo.)"
   },
   {
     "word": "マラソン",
-    "meaning": "chạy marathon",
+    "meaning": "chạy việt dã Ma-ra-tông (cự ly 42.195 km)",
     "reading": "マラソン",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いマラソンを見に行きました。 (Tôi và bạn bè đã đi xem một cuộc chạy marathon khác thường và thú vị.)"
+    "example": "毎週末の地道な走り込みを重ねた末、ホノルルマラソンを無事に四時間台で完走した。 (Sau nhiều tháng miệt mài rèn thể lực cuối tuần, tôi đã hoàn thành cự ly chạy marathon trong 4 tiếng.)"
   },
   {
     "word": "コンテスト",
@@ -99,80 +99,80 @@
   },
   {
     "word": "表",
-    "meaning": "mặt trước, bề mặt, biểu bảng",
+    "meaning": "mặt trước, bề nổi, bảng biểu",
     "reading": "おもて",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要な表をしっかり入れて出かけました。 (Tôi đóng gói những chiếc bàn cần thiết vào túi và đi ra ngoài.)"
+    "example": "手紙の表に宛先の住所と氏名を丁寧に毛筆で書きました。 (Mặt trước phong bì tôi nắn nót viết địa chỉ và tên người nhận bằng bút lông.)"
   },
   {
     "word": "裏",
-    "meaning": "đằng sau, phía sau",
+    "meaning": "mặt sau, mặt trái",
     "reading": "うら",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりの裏を選びました。 (Tôi đã tham khảo ý kiến ​​của nhân viên cửa hàng và chọn lớp lót phù hợp nhất với mình.)"
+    "example": "プリントの裏にメモスペースがあるので、そこに書き留めてください。 (Mặt sau của tờ in có chừa chỗ ghi chú, bạn hãy viết vào đó nhé.)"
   },
   {
     "word": "申し込み",
-    "meaning": "đăng ký",
+    "meaning": "sự đăng ký, đơn đăng ký",
     "reading": "もうしこみ",
     "sinoVietnamese": "NHẬP",
-    "example": "日本語能力試験の申し込み用紙を締め切り日までに提出しました。(Tôi đã nộp phiếu đăng ký dự thi JLPT trước ngày hết hạn.)"
+    "example": "資格試験の申し込み締め切りは今週の金曜日までです。 (Hạn chót nộp đơn đăng ký dự thi chứng chỉ là đến thứ Sáu tuần này.)"
   },
   {
     "word": "本当",
-    "meaning": "thực",
+    "meaning": "sự thật, tính chân thực",
     "reading": "ほんとう",
     "sinoVietnamese": "BẢN",
-    "example": "丁寧にお手入れをしながら、お気に入りの本当を長く愛用しています。 (Tôi sử dụng những món đồ yêu thích của mình đã lâu, chăm sóc chúng cẩn thận.)"
+    "example": "最初は信じられなかった奇跡のような出来事だが、調べてみると紛れもない本当の話だった。 (Lúc đầu chuyện kỳ diệu đó khó tin thật, nhưng kiểm tra lại thì quả đúng là câu chuyện có thật 100%.)"
   },
   {
     "word": "まちがい",
-    "meaning": "lỗi",
+    "meaning": "lỗi sai, sự nhầm lẫn",
     "reading": "まちがい",
     "sinoVietnamese": "",
-    "example": "この本はとてもまちがいので、おすすめです。 (Cuốn sách này rất khác biệt và tôi đánh giá cao nó.)"
+    "example": "テストの答案用紙を見直していたら、計算の単純なまちがいに気付いて慌てて消しゴムで直した。 (Soát lại bài thi, tôi phát hiện một lỗi tính toán sơ đẳng nên vội vàng lấy tẩy sửa lại.)"
   },
   {
     "word": "傷",
-    "meaning": "viết tình yêu",
+    "meaning": "vết trầy xước, vết thương",
     "reading": "きず",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りの傷を長く愛用しています。 (Tôi sử dụng những vết sẹo yêu thích của mình trong một thời gian dài, chăm sóc chúng cẩn thận.)"
+    "example": "テーブルの角にぶつかって、膝に小さな擦り傷ができました。 (Va vào cạnh bàn khiến đầu gối tôi bị một vết trầy xước nhỏ.)"
   },
   {
     "word": "長さ",
     "meaning": "chiều dài",
     "reading": "ながさ",
     "sinoVietnamese": "TRƯỜNG",
-    "example": "大学を卒業した後、憧れの長さとして働き始めました。 (Sau khi tốt nghiệp đại học, tôi bắt đầu đi làm sinh viên lâu năm.)"
+    "example": "巻尺を使って部屋のカーテンレールの長さを正確に測りました。 (Tôi dùng thước dây để đo chính xác chiều dài thanh treo rèm trong phòng.)"
   },
   {
     "word": "重さ",
-    "meaning": "cân nặng, trọng lượng",
+    "meaning": "trọng lượng, cân nặng",
     "reading": "おもさ",
     "sinoVietnamese": "TRỌNG",
-    "example": "丁寧にお手入れをしながら、お気に入りの重さを長く愛用しています。 (Tôi sử dụng trọng lượng yêu thích của mình trong một thời gian dài và chăm sóc nó cẩn thận.)"
+    "example": "郵便局の窓口で荷物の重さを量ってもらい、送料を支払いました。 (Tại quầy bưu điện tôi nhờ cân trọng lượng kiện hàng rồi trả cước phí.)"
   },
   {
     "word": "高さ",
-    "meaning": "chiều cao",
+    "meaning": "chiều cao, độ cao",
     "reading": "たかさ",
     "sinoVietnamese": "CAO",
-    "example": "店員さんに相談して、自分にぴったりの高さを選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn độ cao phù hợp với mình.)"
+    "example": "東京スカイツリーの高さは634メートルで、展望台からの眺めが絶景です。 (Chiều cao của tháp Tokyo Skytree là 634m, view ngắm từ đài quan sát đẹp tuyệt đỉnh.)"
   },
   {
-    "word": "ー便",
-    "meaning": "chuyến bay-",
+    "word": "～便",
+    "meaning": "chuyến bay số ～ (hàng không: JL123便)",
     "reading": "―びん",
     "sinoVietnamese": "TIỆN",
-    "example": "店員さんに相談して、自分にぴったりのー便を選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được chuyến bay phù hợp nhất với mình.)"
+    "example": "ハノイ行きの最終便は、天候不良の影響により出発時刻が三十分遅延する見込みです。 (Chuyến bay cuối ngày đi Hà Nội dự kiến khởi hành muộn 30 phút do thời tiết xấu.)"
   },
   {
-    "word": "ー号",
-    "meaning": "số-",
+    "word": "～号",
+    "meaning": "chuyến tàu số ～, số phòng ～, cơn bão số ～",
     "reading": "―ごう",
     "sinoVietnamese": "HIỆU",
-    "example": "カバンの中に必要なー号をしっかり入れて出かけました。 (Tôi bỏ những thứ cần thiết vào túi và đi ra ngoài.)"
+    "example": "大型で非常に強い勢力を持つ台風十号が、明日の夜遅くに九州地方へ接近する見通しです。 (Cơn bão số 10 với cường độ rất mạnh dự báo sẽ áp sát khu vực Kyushu vào đêm muộn ngày mai.)"
   },
   {
     "word": "―こ",
@@ -182,88 +182,88 @@
     "example": "日本の伝統的な―この味付けがとても口に合います。 (Gia vị truyền thống của Nhật Bản - loại gia vị này rất ngon miệng.)"
   },
   {
-    "word": "ー本",
-    "meaning": "mảnh",
+    "word": "～本",
+    "meaning": "～ chai, lọ, cây, que (đơn vị đếm vật thon dài: ほん/ぽん/ぼん)",
     "reading": "―ほん",
     "sinoVietnamese": "BẢN",
-    "example": "友達と一緒に、珍しくて面白いー本を見に行きました。 (Tôi và bạn tôi đi xem một số cuốn sách lạ và thú vị.)"
+    "example": "喉の渇きを潤すために、駅のホームの自動販売機で冷たいお茶を一本買いました。 (Để làm dịu cơn khát cổ họng, tôi mua một chai trà lạnh ở máy bán nước tự động trên sân ga.)"
   },
   {
-    "word": "―はい",
-    "meaning": "～ chén, ～ ly, ～ cốc",
+    "word": "～杯",
+    "meaning": "～ chén, tách, bát, ly (đơn vị đếm đồ uống trong cốc/bát: はい/ぱい/ばい)",
     "reading": "―はい",
     "sinoVietnamese": "",
-    "example": "この本はとても―はいので、おすすめです。 (Tôi đánh giá cao cuốn sách này.)"
+    "example": "寒い冬の夜、湯気の立つ熱い味噌汁をもう一杯おかわりして体を温めた。 (Trong đêm đông giá rét, tôi xin thêm một bát súp miso bốc khói nghi ngút để sưởi ấm cơ thể.)"
   },
   {
-    "word": "―キロ",
-    "meaning": "～ ki-lô (kg hoặc km)",
+    "word": "～キロ",
+    "meaning": "～ ki-lô (ki-lô-gam kg hoặc ki-lô-mét km)",
     "reading": "―キロ",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりの―キロを選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được chiếc cân phù hợp với mình.)"
+    "example": "毎日のジョギングで基礎体力を鍛えた結果、体重が無理なく三キロ減量できました。 (Nhờ chạy bộ rèn thể lực mỗi ngày, tôi đã giảm được 3 kg một cách nhẹ nhàng, khỏe khoắn.)"
   },
   {
-    "word": "―グラム",
-    "meaning": "～ gam",
+    "word": "～グラム",
+    "meaning": "～ gam (đơn vị đo khối lượng)",
     "reading": "―グラム",
     "sinoVietnamese": "",
-    "example": "父から大切な―グラムを譲り受けて、大事に使っています。 (Tôi thừa hưởng chiếc Gram quý giá của mình từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "ステーキの専門店で、霜降りの極上和牛を三百グラム注文して堪能しました。 (Tại nhà hàng chuyên bò bít tết, tôi đã gọi một miếng bò Wagyu thượng hạng 300 gam thưởng thức.)"
   },
   {
-    "word": "ーセンチ",
-    "meaning": "～ cen-ti-mét (cm)",
+    "word": "～センチ",
+    "meaning": "～ xăng-ti-mét (cm)",
     "reading": "ーセンチ",
     "sinoVietnamese": "",
-    "example": "父から大切なーセンチを譲り受けて、大事に使っています。 (Tôi thừa hưởng từng centimet quý giá từ cha mình và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "健康診断で身長を計測したところ、去年よりも一センチ背が伸びていました。 (Đo chiều cao trong đợt khám sức khỏe, tôi thấy mình đã cao thêm một xăng-ti-mét so với năm ngoái.)"
   },
   {
-    "word": "ーミリ",
+    "word": "～ミリ",
     "meaning": "～ mi-li-mét (mm)",
     "reading": "ーミリ",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わるーミリについて興味深く学びました。 (Tôi đã tìm hiểu rất thú vị về Miri, nó liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+    "example": "精密部品の金型加工では、わずか零点一ミリの狂いも許されない厳密さが求められる。 (Trong gia công khuôn mẫu linh kiện chính xác, độ sai số 0.1 mm cũng tuyệt đối không được phép xảy ra.)"
   },
   {
-    "word": "ー以上",
-    "meaning": "trở lên, trên",
+    "word": "～以上",
+    "meaning": "từ ～ trở lên (bao gồm cả mốc tính)",
     "reading": "―いじょう",
     "sinoVietnamese": "DĨ THƯỢNG",
-    "example": "友達と一緒に、珍しくて面白いー以上を見に行きました。 (Tôi và bạn tôi đã đi xem địa điểm khác thường và thú vị này.)"
+    "example": "このアトラクションは安全確保のため、身長百二十センチ以上のお子様のみ搭乗可能です。 (Để đảm bảo an toàn, trò chơi này chỉ dành cho trẻ em có chiều cao từ 120 cm trở lên tham gia.)"
   },
   {
-    "word": "ー以下",
-    "meaning": "xuống, bên dưới",
+    "word": "～以下",
+    "meaning": "từ ～ trở xuống, dưới mốc ～",
     "reading": "―いか",
     "sinoVietnamese": "DĨ HẠ",
-    "example": "健康的な生活を送るために、毎日新鮮なー以下をとるようにしています。 (Để có một cuộc sống khỏe mạnh, tôi cố gắng ăn thực phẩm tươi sống mỗi ngày.)"
+    "example": "小学生以下の小さなお子様は、保護者の方の同伴が必要となります。 (Trẻ nhỏ từ độ tuổi tiểu học trở xuống bắt buộc phải có phụ huynh đi cùng giám sát.)"
   },
   {
     "word": "どうでしょうか",
-    "meaning": "thấy thế nào ạ? (lịch sự của どうですか)",
+    "meaning": "thấy thế nào ạ? (cách hỏi ý kiến trang trọng của どうですか)",
     "reading": "どうでしょうか",
     "sinoVietnamese": "",
-    "example": "使いやすいどうでしょうかのおかげで、毎日の生活がとても快適になりました。 (Nhờ tính dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+    "example": "「新しいオフィスのレイアウト案を作成してみたのですが、社長、いかがでしょうか。」 (\"Em vừa dựng xong phương án bố trí mặt bằng văn phòng mới, thưa giám đốc xem có được không ạ?\")"
   },
   {
     "word": "成績",
-    "meaning": "kết quả, thành tựu",
+    "meaning": "kết quả học tập, thành tích thi đua",
     "reading": "せいせき",
     "sinoVietnamese": "THÀNH",
-    "example": "日本の文化や生活に関わる成績について興味深く学びました。 (Tôi rất thích thú tìm hiểu về các lớp học liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+    "example": "毎日真面目に勉強を続けた結果、期末テストで優秀な成績を収めました。 (Chăm chỉ học tập mỗi ngày, tôi đã đạt thành tích xuất sắc trong kỳ thi cuối kỳ.)"
   },
   {
     "word": "様子",
-    "meaning": "vẻ ngoài, tình hình",
+    "meaning": "tình hình, trạng thái, dáng vẻ",
     "reading": "ようす",
     "sinoVietnamese": "TỬ",
-    "example": "誕生日に様子へ感謝の気持ちを込めて手紙を書きました。 (Vào ngày sinh nhật của anh ấy, tôi đã viết một lá thư để bày tỏ lòng biết ơn của mình.)"
+    "example": "体調を崩した友達の様子を見に、お見舞いに行ってきました。 (Tôi ghé thăm để xem tình hình sức khỏe của người bạn bị ốm.)"
   },
   {
     "word": "事件",
-    "meaning": "trường hợp",
+    "meaning": "vụ án, biến cố, sự việc bất thường",
     "reading": "じけん",
     "sinoVietnamese": "SỰ",
-    "example": "私の弟は今年から新しい事件に通い始めました。 (Em trai tôi bắt đầu đi vào vụ án mới trong năm nay.)"
+    "example": "警察は目撃者の証言をもとに、昨夜起きた事件の真相を追っています。 (Cảnh sát đang lần theo lời khai nhân chứng để điều tra chân tướng vụ án đêm qua.)"
   },
   {
     "word": "爆弾",
@@ -274,38 +274,38 @@
   },
   {
     "word": "積みます",
-    "meaning": "di chuyển lên, xếp hàng",
+    "meaning": "chất lên xe, xếp hàng hóa (荷物を積む)",
     "reading": "つみます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、積みますようにしています。 (Tôi cố gắng tích lũy nó mỗi ngày mà không thất bại.)"
+    "example": "キャンプ場へ向かう前に、車の広いトランクにテントやバーベキュー用品を積みました。 (Trước khi lên đường đi cắm trại, tôi đã xếp lều bạt và dụng cụ nướng thịt vào cốp xe ô tô.)"
   },
   {
     "word": "運転手",
-    "meaning": "người lái xe",
+    "meaning": "người lái xe, tài xế",
     "reading": "うんてんしゅ",
     "sinoVietnamese": "VẬN CHUYỂN THỦ",
-    "example": "雨の日は歩かずに運転手で駅まで向かいます。 (Vào những ngày mưa, tôi bắt tài xế đến ga thay vì đi bộ.)"
+    "example": "ベテランのバスの運転手さんが安全に目的地まで送り届けてくれました。 (Bác tài xế xe buýt lâu năm đã đưa chúng tôi đến đích một cách an toàn.)"
   },
   {
     "word": "離れた",
-    "meaning": "xa rồi, xa lắm",
+    "meaning": "cách xa, cách biệt (về khoảng cách)",
     "reading": "はなれた",
     "sinoVietnamese": "",
-    "example": "父から大切な離れたを譲り受けて、大事に使っています。 (Tôi được thừa kế một chiếc ô tô quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "都会の喧騒から遠く離れた静かな山里で、澄んだ空気を吸って心身を癒やした。 (Tại một ngôi làng trên núi cách xa sự ồn ào của phố thị, tôi hít thở bầu không khí trong lành thanh lọc tâm hồn.)"
   },
   {
-    "word": "ゆうに",
-    "meaning": "vội vã, đột ngột",
-    "reading": "ゆうに",
+    "word": "急に",
+    "meaning": "đột ngột, bất thình lình (đã sửa lỗi chính tả từ ゆうに)",
+    "reading": "きゅうに",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なゆうにをしっかり入れて出かけました。 (Tôi gói ghém tất cả những thứ cần thiết vào túi rồi đi ra ngoài.)"
+    "example": "夕方に空が暗くなったかと思うと、前ぶれもなく急に大粒の雨が激しく降り出した。 (Chiều muộn trời sầm tối lại, rồi bất thình lình cơn mưa rào trút nước như trút không báo trước.)"
   },
   {
     "word": "動かします",
-    "meaning": "khởi động, chạy",
+    "meaning": "vận hành, làm cho máy móc chuyển động (máy móc: 機械を動かす)",
     "reading": "うごかします",
     "sinoVietnamese": "ĐỘNG",
-    "example": "毎日仕事が終わったあと、日本語を動かします。 (Mỗi ngày sau giờ làm việc, tôi đều áp dụng tiếng Nhật vào thực hành.)"
+    "example": "レバーを手前に引いてエンジンのスイッチを入れると、大型の建設機械が力強く動いた。 (Kéo cần gạt về phía mình rồi bật công tắc, cỗ máy công trình hạng nặng gầm vang chuyển động.)"
   },
   {
     "word": "一所懸命",
@@ -323,23 +323,23 @@
   },
   {
     "word": "手に入れます",
-    "meaning": "được, được, thắng",
+    "meaning": "sở hữu được, có trong tay",
     "reading": "てにいれます",
     "sinoVietnamese": "THỦ NHẬP",
-    "example": "毎日欠かさずに、手に入れますようにしています。 (Tôi cố gắng đạt được nó mỗi ngày mà không thất bại.)"
+    "example": "ずっと探していた絶版の貴重な専門書をついに手に入れました。 (Cuối cùng tôi đã có được cuốn sách chuyên ngành quý hiếm đã ngừng xuất bản.)"
   },
   {
     "word": "今でも",
-    "meaning": "bây giờ",
+    "meaning": "ngay cả bây giờ, cho đến tận hôm nay",
     "reading": "いまでも",
     "sinoVietnamese": "KIM",
-    "example": "今でもまでに提出しなければならない大事な書類があります。 (Vẫn còn những tài liệu quan trọng cần phải nộp.)"
+    "example": "祖母が若い頃に愛用していたアンティークの懐中時計は、今でも正確に時を刻んでいます。 (Chiếc đồng hồ bỏ túi cổ của bà tôi dùng thời trẻ, cho đến tận hôm nay vẫn chạy giờ rất chuẩn xác.)"
   },
   {
     "word": "うわさします",
-    "meaning": "tin đồn",
+    "meaning": "đồn đại, bàn tán xôn xao",
     "reading": "うわさします",
     "sinoVietnamese": "",
-    "example": "毎日仕事が終わったあと、日本語をうわさします。 (Mỗi ngày sau giờ làm việc, tôi lại buôn chuyện về tiếng Nhật.)"
+    "example": "あの二人が近々結婚するらしいという噂が、社内で密かに囁かれています。 (Tin đồn hai người họ sắp làm đám cưới đang được mọi người trong công ty xì xào bàn tán.)"
   }
 ]

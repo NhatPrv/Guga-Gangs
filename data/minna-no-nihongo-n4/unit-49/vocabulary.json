@@ -1,52 +1,52 @@
 [
   {
     "word": "勤め増す「会社に～」",
-    "meaning": "làm việc ở công ty",
-    "reading": "つとめます [かいしゃに~]",
+    "meaning": "công tác, làm việc tại (勤める)",
+    "reading": "つとめます",
     "sinoVietnamese": "HỘI XÃ",
-    "example": "父は長い間、日本の大手自動車会社に勤めていました。 (Bố tôi làm việc cho một công ty ô tô lớn của Nhật Bản trong một thời gian dài.)"
+    "example": "父は長年にわたり日本の大手自動車メーカーに勤めていました。 (Bố tôi đã công tác cống hiến nhiều năm tại tập đoàn ô tô lớn của Nhật.)"
   },
   {
     "word": "過ごします",
-    "meaning": "thông qua",
+    "meaning": "trải qua, sinh hoạt (kỳ nghỉ, thời gian)",
     "reading": "すごします",
     "sinoVietnamese": "",
-    "example": "毎日仕事が終わったあと、日本語を過ごします。 (Mỗi ngày sau giờ làm việc, tôi đều dành thời gian học tiếng Nhật.)"
+    "example": "年末年始の休暇は実家で家族とこたつに入ってのんびり過ごしました。 (Kỳ nghỉ Tết tôi về quê sưởi bàn Kotatsu thảnh thơi cùng gia đình.)"
   },
   {
     "word": "寄ります「銀行に～」",
-    "meaning": "chuyến thăm",
-    "reading": "よります [ぎんこうに~]",
+    "meaning": "ghé qua, tạt vào (ngân hàng, cửa hàng tiện lợi)",
+    "reading": "よります",
     "sinoVietnamese": "NGÂN HÀNH",
-    "example": "会社からの帰り道に銀行に寄って、家賃を振り込みました。 (Trên đường đi làm về, tôi dừng lại ở ngân hàng và chuyển tiền thuê nhà.)"
+    "example": "会社からの帰り道に銀行に寄って、家賃を口座に振り込みました。 (Trên đường đi làm về tôi ghé vào ngân hàng để chuyển khoản tiền thuê nhà.)"
   },
   {
     "word": "召し上がります",
-    "meaning": "ăn, uống",
+    "meaning": "dùng bữa, ăn, uống (tôn kính ngữ của 食べる, 飲む)",
     "reading": "めしあがります",
     "sinoVietnamese": "THƯỢNG",
-    "example": "毎日欠かさずに、召し上がりますようにしています。 (Tôi cố gắng ăn nó mỗi ngày mà không thất bại.)"
+    "example": "温かいうちに、どうぞお菓子を召し上がってください。 (Xin kính mời quý khách dùng chút bánh ngọt trong lúc bánh còn ấm ạ.)"
   },
   {
     "word": "おっしゃいます",
-    "meaning": "nói",
+    "meaning": "nói, phát biểu (tôn kính ngữ của 言う)",
     "reading": "おっしゃいます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、おっしゃいますようにしています。 (Tôi cố gắng lắng nghe những gì bạn nói mỗi ngày mà không thất bại.)"
+    "example": "先生がおっしゃったアドバイスを心に留めて努力を続けます。 (Tôi luôn ghi khắc trong tim lời khuyên quý báu mà thầy đã căn dặn.)"
   },
   {
     "word": "なさいます",
-    "meaning": "làm",
+    "meaning": "làm, thực hiện (tôn kính ngữ của する)",
     "reading": "なさいます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、なさいますようにしています。 (Tôi cố gắng ăn nó mỗi ngày mà không thất bại.)"
+    "example": "週末はゴルフをなさると部長から伺いました。 (Tôi được nghe nói cuối tuần này trưởng phòng sẽ đi chơi golf ạ.)"
   },
   {
     "word": "ご覧になります",
-    "meaning": "xem",
+    "meaning": "nhìn, xem (tôn kính ngữ của 見る)",
     "reading": "ごらんになります",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、ご覧になりますようにしています。 (Tôi đảm bảo kiểm tra nó mỗi ngày.)"
+    "example": "壁に掲示された新しい案内資料をどうぞご覧になってください。 (Kính mời quý vị cùng xem bản tài liệu hướng dẫn mới được dán trên tường.)"
   },
   {
     "word": "あいさつ",
@@ -57,10 +57,10 @@
   },
   {
     "word": "旅館",
-    "meaning": "nhà nghỉ, nhà nghỉ",
+    "meaning": "nhà trọ truyền thống kiểu Nhật (ryokan)",
     "reading": "りょかん",
     "sinoVietnamese": "LỮ QUÁN",
-    "example": "家から歩いて10分ほどのところに大きな旅館があります。 (Có một quán trọ lớn cách nhà tôi khoảng 10 phút đi bộ.)"
+    "example": "源泉かけ流しの天然温泉と豪華な会席料理が自慢の、老舗の温泉旅館に宿泊した。 (Tôi đã nghỉ đêm tại một nhà trọ truyền thống lâu đời nổi tiếng với suối nước nóng tự nhiên và ẩm thực Kaiseki thịnh soạn.)"
   },
   {
     "word": "会場",
@@ -71,17 +71,17 @@
   },
   {
     "word": "バスてい",
-    "meaning": "trạm dừng xe buýt",
+    "meaning": "trạm dừng xe buýt, bến xe buýt",
     "reading": "バスてい",
     "sinoVietnamese": "",
-    "example": "この本はとてもバスていので、おすすめです。 (Cuốn sách này rất nhiều thông tin và tôi đánh giá cao nó.)"
+    "example": "小雨が降る肌寒い夕暮れ時、傘をさしながら次のバスが到着するのをバス停で待った。 (Trong buổi hoàng hôn se lạnh lất phất mưa, tôi che ô đứng chờ chuyến xe buýt tiếp theo tại trạm dừng.)"
   },
   {
     "word": "貿易",
-    "meaning": "buôn bán và buôn bán",
+    "meaning": "thương mại quốc tế, xuất nhập khẩu",
     "reading": "ぼうえき",
     "sinoVietnamese": "DỊ",
-    "example": "カバンの中に必要な貿易をしっかり入れて出かけました。 (Tôi đóng gói tất cả các mặt hàng thương mại cần thiết vào túi của mình và đi ra ngoài.)"
+    "example": "海運会社で国際貿易の実務を担当し、世界各国の港へコンテナ貨物を輸出入している。 (Đảm nhiệm nghiệp vụ thương mại quốc tế tại hãng tàu biển, tôi phụ trách xuất nhập khẩu hàng container khắp năm châu.)"
   },
   {
     "word": "～様",
@@ -92,10 +92,10 @@
   },
   {
     "word": "帰りに",
-    "meaning": "trên đường về, trên đường về",
+    "meaning": "trên đường đi về (nhà, công ty: 帰りがけに)",
     "reading": "かえりに",
     "sinoVietnamese": "QUY",
-    "example": "父から大切な帰りにを譲り受けて、大事に使っています。 (Tôi đã nhận được một món quà quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "仕事の帰りに駅前のスーパーへ立ち寄り、夕食用の新鮮な食材をカゴいっぱいに買った。 (Trên đường đi làm về tôi ghé vào siêu thị trước ga, chọn mua một giỏ đầy ắp thực phẩm tươi ngon cho bữa tối.)"
   },
   {
     "word": "たまに",
@@ -106,17 +106,17 @@
   },
   {
     "word": "ちっとも",
-    "meaning": "một chút cũng được",
+    "meaning": "một chút cũng không... (luôn đi cùng phủ định, nhấn mạnh hơn 全然)",
     "reading": "ちっとも",
     "sinoVietnamese": "",
-    "example": "父から大切なちっともを譲り受けて、大事に使っています。 (Tôi đã nhận được một món đồ nhỏ quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "難解な専門書を数時間かけて読み進めてみたが、ちっとも理解できず途方に暮れた。 (Tôi cặm cụi đọc cuốn sách chuyên ngành hóc búa suốt mấy tiếng mà chẳng hiểu được tí nào, đành chịu thua.)"
   },
   {
     "word": "遠慮なく",
-    "meaning": "xin đừng ngần ngại",
+    "meaning": "không khách sáo, cứ tự nhiên (thoải mái làm gì đó không cần giữ kẽ lịch sự)",
     "reading": "えんりょなく",
     "sinoVietnamese": "VIỄN",
-    "example": "毎日欠かさずに、遠慮なくようにしています。 (Tôi cố gắng làm điều đó mỗi ngày mà không do dự.)"
+    "example": "喉が渇いたら、どうぞ遠慮なくお茶をおかわりしてくださいね。 (Nếu khát nước bạn cứ tự nhiên lấy thêm trà, đừng ngại ngùng gì nhé.)"
   },
   {
     "word": "～年～（1年3組）",
@@ -134,45 +134,45 @@
   },
   {
     "word": "よろしくお伝えください",
-    "meaning": "xin gửi lời chào trân trọng của tôi",
+    "meaning": "xin vui lòng chuyển lời hỏi thăm sức khỏe của tôi tới ～",
     "reading": "よろしくおつたえください",
     "sinoVietnamese": "",
-    "example": "この本はとてもよろしくお伝えくださいので、おすすめです。 (Cảm ơn bạn rất nhiều vì cuốn sách này, tôi đánh giá cao nó.)"
+    "example": "「ご両親様にも、どうぞよろしくお伝えください。」「ありがとうございます、伝えておきます。」 (\"Xin gửi lời hỏi thăm sức khỏe chân thành của cháu tới hai bác nhé.\" \"Cảm ơn bạn, tôi sẽ chuyển lời.\")"
   },
   {
     "word": "失礼いたします",
-    "meaning": "tôi xin phép (khiêm nhường ngữ)",
+    "meaning": "tôi xin phép làm phiền / xin phép ra về (khiêm nhường ngữ lịch sự)",
     "reading": "しつれいいたします",
     "sinoVietnamese": "",
-    "example": "毎日仕事が終わったあと、日本語を失礼いたします。 (Sau giờ làm việc hàng ngày, xin thứ lỗi cho tiếng Nhật của tôi.)"
+    "example": "「本日はお忙しい中お時間をいただきありがとうございました。それでは、失礼いたします。」 (\"Hôm nay cảm ơn quý vị đã bớt chút thời gian tiếp đón. Tôi xin phép ra về ạ.\")"
   },
   {
     "word": "講師",
-    "meaning": "bài giảng",
+    "meaning": "giảng viên, báo cáo viên (đã sửa nghĩa sai từ bài giảng)",
     "reading": "こうし",
     "sinoVietnamese": "",
-    "example": "父から大切な講師を譲り受けて、大事に使っています。 (Tôi được thừa hưởng một giảng viên quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "ビジネス実務の第一線で活躍する特別講師を招き、全社員向けの特別セミナーを実施した。 (Chúng tôi mời một giảng viên đặc biệt đang trực tiếp quản trị doanh nghiệp tới giảng dạy chuyên đề cho toàn thể nhân viên.)"
   },
   {
     "word": "多くの～",
     "meaning": "nhiều ～, phần lớn ～",
     "reading": "おおくの~",
     "sinoVietnamese": "ĐA",
-    "example": "カバンの中に必要な多くの～をしっかり入れて出かけました。 (Tôi nhét rất nhiều thứ cần thiết vào túi và đi ra ngoài.)"
+    "example": "歴史ある名所旧跡には、四季を通じて世界中から多くの観光客が足を運んでいます。 (Tại các danh lam thắng cảnh lịch sử lâu đời, quanh năm bốn mùa đều có rất đông du khách quốc tế ghé thăm.)"
   },
   {
     "word": "作品",
-    "meaning": "làm việc",
+    "meaning": "tác phẩm nghệ thuật, văn học, hội họa (đã sửa nghĩa sai từ làm việc)",
     "reading": "さくひん",
     "sinoVietnamese": "TÁC",
-    "example": "丁寧にお手入れをしながら、お気に入りの作品を長く愛用しています。 (Tôi sử dụng những món đồ yêu thích của mình đã lâu, chăm sóc chúng cẩn thận.)"
+    "example": "ルーブル美術館の展示室に飾られたレオナルド・ダ・ヴィンチの不朽の名作に圧倒された。 (Tôi hoàn toàn bị choáng ngợp trước những danh tác bất hủ của Leonardo da Vinci trưng bày tại bảo tàng Louvre.)"
   },
   {
     "word": "受賞します",
-    "meaning": "được trao giải",
+    "meaning": "đoạt giải thưởng, nhận giải",
     "reading": "じゅしょうします",
     "sinoVietnamese": "THỤ",
-    "example": "毎日仕事が終わったあと、日本語を受賞します。 (Mỗi ngày sau giờ làm việc tôi đều nhận được giải thưởng tiếng Nhật.)"
+    "example": "独自の視点で社会問題に鋭く切り込んだドキュメンタリー映画が、国際映画祭で最優秀賞を受賞した。 (Bộ phim tài liệu với góc nhìn sắc sảo về vấn đề xã hội đã xuất sắc đoạt giải thưởng cao nhất tại liên hoan phim quốc tế.)"
   },
   {
     "word": "世界的に",
@@ -211,17 +211,17 @@
   },
   {
     "word": "お持ちです",
-    "meaning": "có mang theo, đang sở hữu (kính ngữ)",
+    "meaning": "có mang theo, đang sở hữu (kính ngữ của 持っている)",
     "reading": "お持ちです",
     "sinoVietnamese": "TRÌ",
-    "example": "毎日欠かさずに、お持ちですようにしています。 (Tôi cố gắng mang nó bên mình mỗi ngày mà không thất bại.)"
+    "example": "「会員証やポイントカードをお持ちでしたら、お会計の前にご提示ください。」 (\"Nếu quý khách có mang theo thẻ hội viên hoặc thẻ tích điểm, xin vui lòng xuất trình trước khi thanh toán ạ.\")"
   },
   {
     "word": "作曲",
-    "meaning": "âm nhạc",
+    "meaning": "sáng tác ca khúc, phổ nhạc (đã sửa nghĩa sai từ âm nhạc)",
     "reading": "さっきょく",
     "sinoVietnamese": "TÁC",
-    "example": "丁寧にお手入れをしながら、お気に入りの作曲を長く愛用しています。 (Với sự cẩn thận cẩn thận, bạn có thể sử dụng các tác phẩm yêu thích của mình trong một thời gian dài.)"
+    "example": "映画の感動的なクライマックスシーンに流れる切ない旋律は、著名な音楽家によって作曲された。 (Giai điệu da diết vang lên trong phân cảnh cao trào xúc động của bộ phim do một nhạc sĩ lừng danh phổ nhạc.)"
   },
   {
     "word": "活動",

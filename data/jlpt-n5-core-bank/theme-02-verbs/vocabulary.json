@@ -43,10 +43,10 @@
   },
   {
     "word": "帰る",
-    "meaning": "về, trở về",
+    "meaning": "về, trở về (nhà, quê hương, đất nước)",
     "reading": "かえる",
     "sinoVietnamese": "QUY",
-    "example": "週末は家族と一緒にスーパーへ帰る。 (Cuối tuần tôi lại cùng gia đình đi siêu thị.)"
+    "example": "仕事が定時に終わったので、寄り道せずに真っ直ぐ家に帰りました。 (Vì công việc kết thúc đúng giờ nên tôi về thẳng nhà chứ không la cà đâu cả.)"
   },
   {
     "word": "かかる",
@@ -106,10 +106,10 @@
   },
   {
     "word": "カレー",
-    "meaning": "cà ri",
+    "meaning": "món cơm cà ri (món ăn quen thuộc của Nhật)",
     "reading": "カレー",
     "sinoVietnamese": "",
-    "example": "このレストランのカレーはうまいよ。 (Món cà ri ở nhà hàng này rất ngon.)"
+    "example": "タマネギとジャガイモをたっぷり煮込んで、おいしいカレーを作った。 (Tôi đã hầm thật nhiều hành tây và khoai tây để nấu món cơm cà ri thơm ngon.)"
   },
   {
     "word": "カレンダー",
@@ -200,7 +200,7 @@
     "meaning": "thịt bò",
     "reading": "ぎゅうにく",
     "sinoVietnamese": "NHỤC",
-    "example": "すき焼きを作るときは、柔らかくて上質な牛肉を使います。(Khi nấu món Sukiyaki, tôi dùng thịt bò mềm và hảo hạng.)"
+    "example": "すき焼きの鍋に、スライスした新鮮な牛肉を入れました。 (Tôi đã cho những lát thịt bò tươi ngon vào nồi lẩu sukiyaki.)"
   },
   {
     "word": "今日",
@@ -456,10 +456,10 @@
   },
   {
     "word": "こんにちは",
-    "meaning": "xin chào",
+    "meaning": "xin chào (chào ban ngày)",
     "reading": "こんにちは",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりのこんにちはを選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn lời chào hoàn hảo cho mình.)"
+    "example": "近所の人とすれ違うときは、笑顔で「こんにちは」と元気に挨拶します。 (Khi đi ngang qua hàng xóm, tôi luôn tươi cười cất tiếng chào \"Xin chào\".)"
   },
   {
     "word": "こんばんは",

@@ -1,24 +1,24 @@
 [
   {
     "word": "考えます",
-    "meaning": "nghĩ, nghĩ",
+    "meaning": "suy nghĩ, đắn đo (phương hướng, giải pháp)",
     "reading": "かんがえます",
     "sinoVietnamese": "KHẢO",
-    "example": "毎日欠かさずに、考えますようにしています。 (Tôi cố gắng nghĩ về nó mỗi ngày mà không thất bại.)"
+    "example": "今後のキャリアプランについて、一人静かな部屋でじっくりと考えました。 (Về kế hoạch phát triển sự nghiệp trong tương lai, tôi đã ngồi một mình trong phòng yên tĩnh suy ngẫm thấu đáo.)"
   },
   {
     "word": "着きます",
-    "meaning": "",
-    "reading": "つきます（駅に～）",
+    "meaning": "đến nơi, cập bến (ga: 駅に着く)",
+    "reading": "つきます",
     "sinoVietnamese": "TRỨ",
-    "example": "毎日欠かさずに、着きますようにしています。 (Tôi cố gắng đến nơi mỗi ngày mà không thất bại.)"
+    "example": "定刻通りに新幹線が京都駅のホームに静かに着きました。 (Đúng theo lịch trình, đoàn tàu Shinkansen đã cập bến sân ga Kyoto một cách êm ả.)"
   },
   {
     "word": "留学します",
-    "meaning": "học tập",
+    "meaning": "du học (ở nước ngoài: 日本へ留学する)",
     "reading": "りゅうがくします",
     "sinoVietnamese": "HỌC",
-    "example": "毎日仕事が終わったあと、日本語を留学します。 (Mỗi ngày sau giờ làm việc, tôi đều học tiếng Nhật ở nước ngoài.)"
+    "example": "先端のロボット工学を学ぶために、来年の秋から日本へ留学します。 (Để theo đuổi ngành kỹ thuật robot tiên tiến, tôi sẽ sang Nhật du học từ mùa thu tới.)"
   },
   {
     "word": "田舎",
@@ -36,24 +36,24 @@
   },
   {
     "word": "グループ",
-    "meaning": "nhóm",
+    "meaning": "nhóm, đội nhóm làm việc (group)",
     "reading": "グループ",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なグループをしっかり入れて出かけました。 (I packed the necessary groups in my bag and headed out.)"
+    "example": "大学のゼミで四人のグループを組み、共同で研究発表の資料を作成した。 (Trong lớp hội thảo ở trường đại học, chúng tôi lập nhóm bốn người cùng soạn bài thuyết trình.)"
   },
   {
     "word": "チャンス",
-    "meaning": "cơ hội",
+    "meaning": "cơ hội tốt, thời cơ ngàn vàng (chance)",
     "reading": "チャンス",
     "sinoVietnamese": "",
-    "example": "全員で力を合わせて、素晴らしいチャンスを成功させました。 (Tất cả chúng ta đã làm việc cùng nhau để biến cơ hội tuyệt vời này thành công.)"
+    "example": "海外で自分の語学力を試す絶好のチャンスが巡ってきたので、迷わず応募した。 (Thời cơ vàng để thử sức năng lực ngoại ngữ ở nước ngoài đã đến, tôi không ngần ngại nộp đơn đăng ký.)"
   },
   {
     "word": "億",
-    "meaning": "một trăm triệu",
+    "meaning": "trăm triệu (đơn vị số 100.000.000)",
     "reading": "おく",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りの億を長く愛用しています。 (Mình dùng 100 triệu yêu thích đã lâu, giữ gìn cẩn thận.)"
+    "example": "新しく開発されたその画期的な薬は、世界中で一億人以上の命を救った。 (Loại thuốc đột phá mới phát triển ấy đã cứu sống hơn một trăm triệu người trên khắp thế giới.)"
   },
   {
     "word": "もし",
@@ -64,10 +64,10 @@
   },
   {
     "word": "転勤",
-    "meaning": "số dư",
+    "meaning": "chuyển công tác (chuyển sang chi nhánh khác)",
     "reading": "てんきん",
     "sinoVietnamese": "CHUYỂN",
-    "example": "友達と一緒に、珍しくて面白い転勤を見に行きました。 (Tôi và bạn bè đã đến xem một cuộc chuyển giao bất thường và thú vị.)"
+    "example": "来月から福岡支店への転勤を命じられたので、週末に部屋探しの準備を始めた。 (Vì được điều động chuyển công tác tới chi nhánh Fukuoka từ tháng sau, cuối tuần tôi bắt đầu tìm thuê nhà.)"
   },
   {
     "word": "こと",
@@ -85,23 +85,23 @@
   },
   {
     "word": "どうぞ元気で",
-    "meaning": "chúc tất cả các bạn sức khỏe tốt",
+    "meaning": "chúc bạn lên đường mạnh khỏe nhé (lời chúc người sắp đi xa)",
     "reading": "どうぞおげんきで",
     "sinoVietnamese": "KHÍ",
-    "example": "日本の伝統的などうぞ元気での味付けがとても口に合います。 (Gia vị truyền thống của Nhật Bản rất ngon miệng.)"
+    "example": "遠くの街へ引っ越していく親友と空港で握手を交わし、「どうぞ元気でね」と伝えた。 (Bắt tay người bạn thân sắp chuyển nhà đi một thành phố xa tại sân bay, tôi chúc bạn: \"Cậu đi mạnh khỏe nhé!\")"
   },
   {
     "word": "（いろいろ）お世話になりました",
-    "meaning": "bạn đã giúp tôi rất nhiều",
+    "meaning": "xin cảm ơn quý vị đã giúp đỡ tôi rất nhiều trong thời gian qua",
     "reading": "（いろいろ）おせわになりました",
     "sinoVietnamese": "THẾ THOẠI",
-    "example": "カバンの中に必要なお世話になりましたをしっかり入れて出かけました。 (Tôi bỏ tất cả những thứ tôi cần vào túi và đi ra ngoài.)"
+    "example": "退職の挨拶回りで、「これまでいろいろとお世話になりました」と社員一同に深く頭を下げた。 (Đi chào tạm biệt các phòng ban trước khi nghỉ việc, tôi cúi đầu cảm tạ: \"Xin cảm ơn mọi người đã hết lòng giúp đỡ tôi suốt thời gian qua\".)"
   },
   {
     "word": "頑張ります",
-    "meaning": "thử",
+    "meaning": "cố gắng, nỗ lực hết mình",
     "reading": "がんばります",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、頑張りますようにしています。 (Tôi cố gắng làm hết sức mình mỗi ngày mà không thất bại.)"
+    "example": "日本語能力試験で必ず満点合格できるように、最後まで諦めずに頑張ります。 (Để đạt điểm tuyệt đối trong kỳ thi JLPT, tôi sẽ dốc sức nỗ lực đến cùng không bỏ cuộc.)"
   }
 ]

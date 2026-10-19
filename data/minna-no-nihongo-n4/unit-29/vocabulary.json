@@ -1,303 +1,303 @@
 [
   {
     "word": "閉まります",
-    "meaning": "đóng",
+    "meaning": "đóng (tự động từ: cửa tự đóng)",
     "reading": "しまります",
     "sinoVietnamese": "BẾ",
-    "example": "毎日欠かさずに、閉まりますようにしています。 (Tôi đảm bảo đóng nó mỗi ngày mà không thất bại.)"
+    "example": "強い風で窓が急にバタンと閉まりました。 (Vì gió lớn thổi mạnh nên cửa sổ đột ngột đóng sầm lại.)"
   },
   {
     "word": "つきます",
-    "meaning": "bật lên, sáng lên",
+    "meaning": "bật sáng (tự động từ: đèn/điện tự bật)",
     "reading": "つきます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、つきますようにしています。 (Tôi cố gắng sử dụng nó mỗi ngày mà không thất bại.)"
+    "example": "部屋に入るとセンサーが反応して電気がつきます。 (Khi bước vào phòng, cảm biến kích hoạt và đèn tự động bật sáng.)"
   },
   {
     "word": "消えます",
-    "meaning": "tắt",
+    "meaning": "tắt, biến mất (tự động từ: đèn/lửa tự tắt)",
     "reading": "きえます",
     "sinoVietnamese": "TIÊU",
-    "example": "毎日欠かさずに、消えますようにしています。 (Tôi cố gắng làm cho nó biến mất mỗi ngày.)"
+    "example": "雷の音とともに、家中の電気がパッと消えました。 (Cùng với tiếng sấm sét, đèn trong cả nhà bỗng nhiên phụt tắt.)"
   },
   {
     "word": "込みます",
-    "meaning": "hướng đông",
+    "meaning": "đông đúc, chen chúc (tự động từ: đường sá, xe cộ)",
     "reading": "こみます",
     "sinoVietnamese": "NHẬP",
-    "example": "毎日欠かさずに、込みますようにしています。 (Tôi cố gắng tham gia vào nó mỗi ngày mà không thất bại.)"
+    "example": "朝のラッシュアワーなので、電車がひどく込んでいます。 (Đang vào giờ cao điểm buổi sáng nên tàu điện rất đông đúc.)"
   },
   {
     "word": "すきます",
-    "meaning": "vắng mặt",
+    "meaning": "vắng vẻ, thoáng đãng (tự động từ: đường sá, toa tàu)",
     "reading": "すきます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、すきますようにしています。 (Tôi cố gắng tận hưởng nó mỗi ngày mà không thất bại.)"
+    "example": "日曜日の早朝は道路がすいていてドライブに快適です。 (Sáng sớm Chủ nhật đường sá rất vắng nên lái xe vô cùng thoải mái.)"
   },
   {
     "word": "壊れます",
-    "meaning": "bị hỏng",
+    "meaning": "bị hỏng (tự động từ: máy móc, đồ đạc)",
     "reading": "こわれます",
     "sinoVietnamese": "HOẠI",
-    "example": "毎日欠かさずに、壊れますようにしています。 (Tôi cố gắng đảm bảo rằng nó bị hỏng mỗi ngày mà không bị hỏng.)"
+    "example": "手を滑らせて落としたスマートフォンが壊れてしまいました。 (Do trượt tay làm rơi nên chiếc điện thoại thông minh đã bị hỏng mất.)"
   },
   {
     "word": "割れます",
-    "meaning": "có thể nghe thấy",
+    "meaning": "bị vỡ (tự động từ: bát đĩa, cốc chén, gương kính)",
     "reading": "われます",
     "sinoVietnamese": "CÁT",
-    "example": "毎日欠かさずに、割れますようにしています。 (Tôi cố gắng phá vỡ nó mỗi ngày mà không thất bại.)"
+    "example": "床に落ちて、お気に入りのガラスのコップが割れました。 (Rơi xuống sàn nhà làm chiếc cốc thủy tinh yêu thích bị vỡ tan.)"
   },
   {
     "word": "折れます",
-    "meaning": "bị hỏng",
+    "meaning": "bị gãy (tự động từ: cành cây, xương, que, gậy)",
     "reading": "おれます",
     "sinoVietnamese": "CHIẾT",
-    "example": "毎日欠かさずに、折れますようにしています。 (Tôi cố gắng phá vỡ nó mỗi ngày mà không thất bại.)"
+    "example": "昨夜の大風で、庭の桜の木の枝が折れてしまいました。 (Cơn gió to tối qua đã làm cành cây anh đào trong vườn bị gãy mất.)"
   },
   {
     "word": "汚れます",
-    "meaning": "dơ bẩn",
+    "meaning": "bị bẩn, lấm lem (tự động từ: quần áo, phòng ốc)",
     "reading": "よごれます",
     "sinoVietnamese": "Ô",
-    "example": "毎日欠かさずに、汚れますようにしています。 (Tôi cố gắng làm bẩn nó mỗi ngày mà không thất bại.)"
+    "example": "泥道で転んでしまって、白いズボンがひどく汚れました。 (Bị ngã trên đường bùn lầy nên chiếc quần trắng bị lấm bẩn nhiều.)"
   },
   {
     "word": "付きます",
-    "meaning": "dính, dính",
+    "meaning": "dính, có kèm, có gắn (tự động từ)",
     "reading": "つきます",
     "sinoVietnamese": "PHÓ",
-    "example": "毎日欠かさずに、付きますようにしています。 (Tôi cố gắng làm theo nó mỗi ngày mà không thất bại.)"
+    "example": "このコートには暖かいフードが付いています。 (Chiếc áo khoác này có đính kèm một chiếc mũ trùm đầu rất ấm.)"
   },
   {
     "word": "外れます",
-    "meaning": "trượt, bùng, rơi ra",
+    "meaning": "bị bung, bị tuột (tự động từ: cúc áo, ốc vít)",
     "reading": "はずれます",
     "sinoVietnamese": "NGOẠI",
-    "example": "毎日欠かさずに、外れますようにしています。 (Tôi cố gắng loại bỏ nó mỗi ngày mà không thất bại.)"
+    "example": "シャツのボタンが外れているのに気がつきました。 (Tôi nhận ra chiếc cúc áo sơ mi đang bị tuột ra.)"
   },
   {
     "word": "止まります",
-    "meaning": "tạnh",
+    "meaning": "dừng lại (tự động từ: xe cộ, thang máy, đồng hồ)",
     "reading": "とまります",
     "sinoVietnamese": "CHỈ",
-    "example": "毎日欠かさずに、止まりますようにしています。 (Tôi cố gắng dừng lại mỗi ngày mà không thất bại.)"
+    "example": "信号が赤になったので、走っていた車が止まりました。 (Vì đèn giao thông chuyển sang màu đỏ nên chiếc xe đang chạy đã dừng lại.)"
   },
   {
     "word": "まちがえます",
-    "meaning": "nhầm lẫn, sai",
+    "meaning": "nhầm lẫn, làm sai",
     "reading": "まちがえます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、まちがえますようにしています。 (Tôi cố gắng phạm sai lầm mỗi ngày mà không thất bại.)"
+    "example": "似た漢字をうっかり書きまちがえてしまいました。 (Tôi đã lỡ viết nhầm một chữ Hán nhìn gần giống nhau.)"
   },
   {
     "word": "落とします",
-    "meaning": "đánh rơi, đánh rơi",
+    "meaning": "đánh rơi, làm rớt (tha động từ)",
     "reading": "おとします",
     "sinoVietnamese": "LẠC",
-    "example": "毎日仕事が終わったあと、日本語を落とします。 (Mỗi ngày sau khi làm việc, tôi bỏ tiếng Nhật của mình.)"
+    "example": "ポケットから定期券をうっかり落としてしまいました。 (Tôi lỡ làm rơi chiếc vé tháng từ trong túi áo ra ngoài.)"
   },
   {
     "word": "掛かります",
-    "meaning": "khóa lại",
+    "meaning": "khóa lại (tự động từ: chìa khóa đang khóa)",
     "reading": "かかります",
     "sinoVietnamese": "QUẢI",
-    "example": "毎日欠かさずに、掛かりますようにしています。 (Tôi cố gắng sử dụng nó mỗi ngày mà không thất bại.)"
+    "example": "ドアにかぎが掛かっているので、中に入れません。 (Cửa đang bị khóa nên tôi không thể đi vào bên trong được.)"
   },
   {
     "word": "ふきます",
-    "meaning": "cây lau nhà",
+    "meaning": "lau chùi (bàn ghế, cửa sổ)",
     "reading": "ふきます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、ふきますようにしています。 (Tôi cố gắng lau nó mỗi ngày mà không thất bại.)"
+    "example": "食事の前に台拭きでテーブルの上をきれいにふきます。 (Trước bữa ăn, tôi dùng khăn lau thật sạch mặt bàn.)"
   },
   {
     "word": "とりかえます",
-    "meaning": "thay thế, đổi mới (pin, bóng đèn)",
+    "meaning": "thay thế, đổi mới (bóng đèn, pin, đồ cũ)",
     "reading": "とりかえます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、とりかえますようにしています。 (Tôi cố gắng thay đổi nó mỗi ngày mà không thất bại.)"
+    "example": "切れた電球を新しいLEDライトにとりかえました。 (Tôi đã thay bóng đèn bị cháy bằng một chiếc đèn LED mới.)"
   },
   {
     "word": "片付けます",
-    "meaning": "dọn dẹp",
+    "meaning": "dọn dẹp, thu dọn",
     "reading": "かたづけます",
     "sinoVietnamese": "PHÓ",
-    "example": "毎日欠かさずに、片付けますようにしています。 (Tôi cố gắng dọn dẹp mỗi ngày mà không thất bại.)"
+    "example": "勉強が終わったら、使った辞書やノートを片付けましょう。 (Sau khi học xong, chúng ta hãy dọn dẹp từ điển và vở đã dùng nhé.)"
   },
   {
     "word": "皿",
-    "meaning": "tấm",
-    "reading": "さら　（おさら）",
+    "meaning": "cái đĩa ăn",
+    "reading": "さら",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わる皿について興味深く学びました。 (Tôi đã tìm hiểu rất thú vị về những món ăn liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+    "example": "料理を盛り付けるために大きなお皿を用意しました。 (Tôi chuẩn bị một chiếc đĩa lớn để bày biện món ăn.)"
   },
   {
     "word": "茶碗",
-    "meaning": "bát",
-    "reading": "ちゃわん　（おちゃわん）",
+    "meaning": "cái bát ăn cơm, chén trà",
+    "reading": "ちゃわん",
     "sinoVietnamese": "TRÀ",
-    "example": "暑い夏の日には冷たい茶碗を飲むと元気が出ます。 (Uống một bát trà lạnh vào ngày hè nóng bức sẽ giúp bạn vui lên.)"
+    "example": "炊きたてのご飯をお茶碗によそいました。 (Tôi xới cơm vừa mới nấu chín vào chiếc bát ăn cơm.)"
   },
   {
     "word": "ガラス",
-    "meaning": "kính",
+    "meaning": "kính, thủy tinh",
     "reading": "ガラス",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なガラスをしっかり入れて出かけました。 (Tôi đóng gói tất cả những chiếc ly cần thiết vào túi và đi ra ngoài.)"
+    "example": "窓のガラスを雑巾できれいに拭き掃除しました。 (Tôi dùng giẻ lau sạch sẽ tấm kính cửa sổ.)"
   },
   {
     "word": "袋",
-    "meaning": "túi xách",
+    "meaning": "túi, bao bì",
     "reading": "ふくろ",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白い袋を見に行きました。 (Tôi và bạn tôi đã đi xem một số chiếc túi lạ và thú vị.)"
+    "example": "スーパーのレジでビニール袋を1枚もらいました。 (Tại quầy thu ngân siêu thị tôi xin một chiếc túi nilon.)"
   },
   {
     "word": "書類",
-    "meaning": "giấy tờ",
+    "meaning": "tài liệu, giấy tờ công việc",
     "reading": "しょるい",
     "sinoVietnamese": "THƯ",
-    "example": "日本の文化や生活に関わる書類について興味深く学びました。 (Tôi rất thích thú tìm hiểu các tài liệu liên quan đến văn hóa và đời sống Nhật Bản.)"
+    "example": "会議で配る大切な書類をファイルにまとめました。 (Tôi đã tập hợp những tài liệu quan trọng phát trong cuộc họp vào bìa hồ sơ.)"
   },
   {
     "word": "枝",
     "meaning": "cành cây",
     "reading": "えだ",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要な枝をしっかり入れて出かけました。 (Tôi gói tất cả những cành cây tôi cần vào túi và đi ra ngoài.)"
+    "example": "公園の木の枝に小さな小鳥が止まって鳴いています。 (Trên cành cây trong công viên có một chú chim nhỏ đang đậu hót.)"
   },
   {
     "word": "駅員",
     "meaning": "nhân viên nhà ga",
     "reading": "えきいん",
     "sinoVietnamese": "DỊCH VIÊN",
-    "example": "あの病院の駅員はとても親切で丁寧に説明してくれます。 (Nhân viên trạm ở bệnh viện đó rất tốt bụng và giải thích chi tiết.)"
+    "example": "乗り換えのホームが分からなかったので駅員さんに聞きました。 (Vì không biết sân ga chuyển tàu ở đâu nên tôi đã hỏi nhân viên nhà ga.)"
   },
   {
     "word": "返事",
-    "meaning": "câu trả lời",
+    "meaning": "câu trả lời, sự đáp lại",
     "reading": "へんじ",
     "sinoVietnamese": "SỰ",
-    "example": "カバンの中に必要な返事をしっかり入れて出かけました。 (Tôi gói tất cả những câu trả lời tôi cần vào túi và đi ra ngoài.)"
+    "example": "名前を呼ばれたら、大きな声で「はい」と返事をします。 (Khi được gọi tên, ta hãy đáp lại thật to \"Có\" nhé.)"
   },
   {
     "word": "お先にどうぞ",
-    "meaning": "đầu tiên, trước hết",
+    "meaning": "xin mời đi trước, xin mời làm trước",
     "reading": "おさきにどうぞ",
     "sinoVietnamese": "TIÊN",
-    "example": "丁寧にお手入れをしながら、お気に入りのお先にどうぞを長く愛用しています。 (Tôi đã sử dụng O-Saki ni Please yêu thích của mình trong một thời gian dài và luôn giữ gìn nó cẩn thận.)"
+    "example": "エレベーターの前で「お先にどうぞ」と笑顔で譲りました。 (Trước thang máy, tôi mỉm cười nhường: \"Xin mời anh/chị đi trước ạ\".)"
   },
   {
     "word": "源氏物語",
-    "meaning": "tiểu thuyết được viết vào thời heian",
+    "meaning": "Truyện Genji (tiểu thuyết cổ điển Nhật Bản)",
     "reading": "げんじものがたり",
     "sinoVietnamese": "VẬT NGỮ",
-    "example": "日本の文化や生活に関わる源氏物語について興味深く学びました。 (Tôi rất thích thú tìm hiểu về Truyện Genji, một tác phẩm gắn liền với văn hóa và đời sống Nhật Bản.)"
+    "example": "平安時代に紫式部によって書かれた源氏物語を読みました。 (Tôi đã đọc cuốn Truyện Genji do nữ sĩ Murasaki Shikibu viết thời Heian.)"
   },
   {
     "word": "今の電車",
-    "meaning": "tàu vừa chạy",
+    "meaning": "chuyến tàu điện vừa rồi",
     "reading": "いまのでんしゃ",
     "sinoVietnamese": "KIM ĐIỆN XA",
-    "example": "今の電車の窓から見える景色がとても素晴らしいです。 (Khung cảnh nhìn từ cửa sổ tàu thật tuyệt vời.)"
+    "example": "今の電車に傘を忘れてきてしまったかもしれません。 (Có lẽ tôi đã để quên chiếc ô trên chuyến tàu điện vừa rồi mất rồi.)"
   },
   {
     "word": "忘れ物",
-    "meaning": "quên nó đi",
+    "meaning": "đồ bỏ quên",
     "reading": "わすれもの",
     "sinoVietnamese": "VONG VẬT",
-    "example": "友達と一緒に、珍しくて面白い忘れ物を見に行きました。 (Tôi và bạn tôi đi tìm một số món đồ thất lạc bất thường và thú vị.)"
+    "example": "駅の忘れ物センターに問い合わせてみましょう。 (Chúng ta hãy thử liên hệ hỏi trung tâm tìm đồ thất lạc của nhà ga xem sao.)"
   },
   {
     "word": "このくらい",
-    "meaning": "cỡ này, cỡ này",
+    "meaning": "cỡ chừng này, khoảng độ này",
     "reading": "このくらい",
     "sinoVietnamese": "",
-    "example": "この本はとてもこのくらいので、おすすめです。 (Cuốn sách này rất hay nên tôi đánh giá cao nó.)"
+    "example": "このくらいの大きさのスーツケースなら機内に持ち込めます。 (Chiếc vali cỡ chừng này thì có thể xách tay mang lên máy bay được.)"
   },
   {
     "word": "側",
-    "meaning": "phía, bên cạnh",
+    "meaning": "phía, bên (hướng)",
     "reading": "がわ",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりの側を選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn bên phù hợp nhất với mình.)"
+    "example": "道路の右側を一列になって安全に歩きましょう。 (Chúng ta hãy xếp thành một hàng đi an toàn bên phía tay phải con đường.)"
   },
   {
     "word": "覚えていません",
     "meaning": "tôi không nhớ",
     "reading": "おぼえていません",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白い覚えていませんを見に行きました。 (Cùng với bạn bè, tôi đi xem một điều gì đó bất thường và thú vị mà tôi không nhớ.)"
+    "example": "パスワードをメモしていなかったので、覚えていません。 (Vì không ghi chép lại mật khẩu nên giờ tôi không nhớ nữa.)"
   },
   {
     "word": "網棚",
-    "meaning": "giá để hành lý",
+    "meaning": "giá để hành lý trên tàu xe",
     "reading": "あみだな",
     "sinoVietnamese": "",
-    "example": "新しい網棚を手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một chiếc kệ mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+    "example": "電車の網棚に重い荷物を載せて席に座りました。 (Tôi đặt hành lý nặng lên giá để đồ trên tàu rồi ngồi vào ghế.)"
   },
   {
     "word": "確か",
-    "meaning": "có lẽ, có thể",
+    "meaning": "chắc là, hình như (nhớ mang máng nhưng khá tự tin)",
     "reading": "たしか",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わる確かについて興味深く学びました。 (Tôi đã học được những điều thú vị về văn hóa và cuộc sống Nhật Bản.)"
+    "example": "確か駅前のロータリーの右側に、処方箋を扱っている調剤薬局があったはずです。 (Tôi nhớ chắc mẩm là phía bên phải vòng xoay trước ga có một hiệu thuốc bán theo đơn.)"
   },
   {
     "word": "ああ、よかった",
-    "meaning": "ôi, may mắn thay",
+    "meaning": "ôi may quá, tốt quá rồi",
     "reading": "ああ、よかった",
     "sinoVietnamese": "",
-    "example": "父から大切なああよかったを譲り受けて、大事に使っています。 (Tôi thừa hưởng Aa Yokita quý giá của mình từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "なくしたと思っていた財布が見つかって、ああ、よかった。 (Tìm thấy chiếc ví cứ ngỡ là đã mất rồi, ôi thật là may quá.)"
   },
   {
     "word": "地震",
     "meaning": "trận động đất",
     "reading": "じしん",
     "sinoVietnamese": "ĐỊA",
-    "example": "静かな夜に外から聞こえる地震の音に耳を澄ませました。 (Vào một đêm yên tĩnh, tôi chăm chú lắng nghe tiếng động đất từ ​​bên ngoài truyền đến.)"
+    "example": "大きな地震が起きたときは、まず頭を守って机の下に入ります。 (Khi xảy ra động đất lớn, trước tiên hãy bảo vệ đầu và chui xuống gầm bàn.)"
   },
   {
     "word": "壁",
     "meaning": "bức tường",
     "reading": "かべ",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わる壁について興味深く学びました。 (Tôi rất thích thú tìm hiểu về những rào cản liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+    "example": "白い壁にお気に入りの絵葉書を貼って飾りました。 (Tôi dán tấm bưu thiếp yêu thích lên bức tường trắng để trang trí.)"
   },
   {
     "word": "針",
-    "meaning": "theo chiều kim đồng hồ",
+    "meaning": "kim đồng hồ, cây kim may",
     "reading": "はり",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要な針をしっかり入れて出かけました。 (Tôi đảm bảo đã bỏ những chiếc kim tiêm cần thiết vào túi và đi ra ngoài.)"
+    "example": "時計の針がちょうど正午の12時を指しています。 (Kim đồng hồ đang chỉ đúng 12 giờ trưa.)"
   },
   {
     "word": "駅前",
-    "meaning": "trước nhà ga",
+    "meaning": "khu vực trước nhà ga",
     "reading": "えきまえ",
     "sinoVietnamese": "DỊCH TIỀN",
-    "example": "一度は歴史のある有名な駅前に行ってみたいです。 (Tôi muốn đến một nhà ga lịch sử nổi tiếng ít nhất một lần.)"
+    "example": "駅前のカフェで待ち合わせてから一緒に出かけましょう。 (Chúng ta hẹn gặp ở quán cà phê trước ga rồi cùng đi nhé.)"
   },
   {
     "word": "倒れます",
-    "meaning": "đổ",
+    "meaning": "bị đổ, ngã quỵ (tự động từ: cây cối, cột điện)",
     "reading": "たおれます",
     "sinoVietnamese": "ĐẢO",
-    "example": "毎日欠かさずに、倒れますようにしています。 (Tôi cố gắng gục ngã mỗi ngày mà không thất bại.)"
+    "example": "激しい台風の暴風で、道端の街路樹が倒れました。 (Vì gió bão dữ dội nên cây xanh ven đường đã bị ngã đổ.)"
   },
   {
     "word": "西の方",
-    "meaning": "hướng tây",
+    "meaning": "phía tây, hướng tây",
     "reading": "にしのほう",
     "sinoVietnamese": "TÂY",
-    "example": "日本の文化や生活に関わる西の方について興味深く学びました。 (Thật thú vị khi tìm hiểu về phía Tây, nơi gắn liền với văn hóa và cuộc sống Nhật Bản.)"
+    "example": "夕方になると西の方の空が赤く染まっていきます。 (Khi hoàng hôn buông xuống, bầu trời phía tây dần nhuộm một màu đỏ rực.)"
   },
   {
     "word": "燃えます",
-    "meaning": "lửa",
+    "meaning": "cháy được, bốc cháy (tự động từ)",
     "reading": "もえます",
     "sinoVietnamese": "NHIÊN",
-    "example": "毎日欠かさずに、燃えますようにしています。 (Tôi cố gắng giữ cho nó cháy hàng ngày mà không thất bại.)"
+    "example": "プラスチックは分別して、燃えないゴミの日に出します。 (Đồ nhựa cần được phân loại và vứt vào ngày rác không cháy được.)"
   }
 ]

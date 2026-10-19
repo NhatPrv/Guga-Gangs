@@ -193,14 +193,14 @@
     "meaning": "bao nhiêu tuổi",
     "reading": "おいくつ",
     "sinoVietnamese": "",
-    "example": "失礼ですが、おいくつですか。 (Xin lỗi, nhưng bạn bao nhiêu tuổi?.)"
+    "example": "「失礼ですが、おいくつですか」「今年で二十五歳になります」 (Xin lỗi mạo muội hỏi bạn bao nhiêu tuổi ạ? - Dạ năm nay tôi tròn 25 tuổi.)"
   },
   {
     "word": "はい",
     "meaning": "vâng, dạ, đúng vậy",
     "reading": "はい",
     "sinoVietnamese": "",
-    "example": "この本はとてもはいので、おすすめです。 (Cuốn sách này rất hay và tôi đánh giá cao nó.)"
+    "example": "先生に名前を呼ばれたら、元気に「はい」と返事をします。 (Khi được thầy giáo gọi tên, ta hãy đáp lời \"Vâng\" thật dõng dạc nhé.)"
   },
   {
     "word": "いいえ",
@@ -214,21 +214,21 @@
     "meaning": "xin lỗi, thất lễ nhưng...",
     "reading": "しつれいですが",
     "sinoVietnamese": "",
-    "example": "失礼ですが、お名前を教えていただけますか。 (Xin lỗi, nhưng bạn có thể cho tôi biết tên của bạn được không?.)"
+    "example": "失礼ですが、お名前をもう一度教えていただけますか。 (Xin lỗi mạo muội hỏi bạn có thể nhắc lại tên một lần nữa được không ạ?)"
   },
   {
     "word": "お名前は？",
-    "meaning": "tên của bạn là gì?",
+    "meaning": "tên của bạn là gì? (cách hỏi tên lịch sự)",
     "reading": "おなまえは？",
     "sinoVietnamese": "DANH TIỀN",
-    "example": "初めまして、お名前は何とおっしゃいますか。 (Rất vui được gặp bạn tên của bạn là gì?.)"
+    "example": "失礼ですが、お名前は何とおっしゃいますか。 (Xin lỗi làm phiền một chút, quý khách tên là gì ạ?)"
   },
   {
     "word": "初めまして。",
-    "meaning": "rất vui được làm quen",
+    "meaning": "rất vui được làm quen (chào hỏi khi lần đầu gặp mặt)",
     "reading": "はじめまして",
     "sinoVietnamese": "",
-    "example": "初めまして、どうぞよろしく。 (Rất vui được làm quen với bạn.)"
+    "example": "初めまして、ベトナムから参りましたナムと申します。どうぞよろしく。 (Rất vui được gặp bạn lần đầu, tôi tên là Nam đến từ Việt Nam. Rất mong được giúp đỡ.)"
   },
   {
     "word": "どうぞよろしく[お願いします]。",

@@ -51,7 +51,7 @@
   {
     "word": "ずっと",
     "reading": "ずっと",
-    "meaning": "hơn hẳn / suốt từ đó đến giờ",
+    "meaning": "suốt, hơn hẳn (diễn tả thời gian liên tục hoặc sự chênh lệch lớn khi so sánh)",
     "sinoVietnamese": "",
     "example": "新幹線は普通電車よりずっと速いです。 (Tàu Shinkansen nhanh hơn hẳn so với tàu thông thường.)"
   },
@@ -142,7 +142,7 @@
   {
     "word": "決して",
     "reading": "けっして",
-    "meaning": "tuyệt đối không bao giờ",
+    "meaning": "tuyệt đối không bao giờ (luôn đi cùng thể phủ định: 決して〜ない)",
     "sinoVietnamese": "QUYẾT",
     "example": "この秘密は決して誰にも言いません。 (Bí mật này tôi tuyệt đối không nói cho bất kỳ ai.)"
   },
@@ -191,7 +191,7 @@
   {
     "word": "ますます",
     "reading": "ますます",
-    "meaning": "ngày càng, càng ngày càng",
+    "meaning": "ngày càng, càng ngày càng (mức độ biến đổi tăng dần theo thời gian)",
     "sinoVietnamese": "",
     "example": "日本語を勉強すればするほど、ますます面白くなります。 (Càng học tiếng Nhật, tôi lại càng thấy thú vị hơn.)"
   },

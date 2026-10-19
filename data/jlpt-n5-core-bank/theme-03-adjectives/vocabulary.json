@@ -36,10 +36,10 @@
   },
   {
     "word": "静か",
-    "meaning": "yên tĩnh",
+    "meaning": "yên tĩnh, thanh bình (không có tiếng ồn ào)",
     "reading": "しずか",
     "sinoVietnamese": "TĨNH",
-    "example": "キャプテンは静かにするように命じた。 (Thuyền trưởng ra lệnh cho họ im lặng.)"
+    "example": "夜の図書館はとても静かで、集中して勉強がはかどります。 (Thư viện vào ban đêm rất yên tĩnh nên tôi học tập rất tập trung và hiệu quả.)"
   },
   {
     "word": "七",
@@ -127,7 +127,7 @@
   },
   {
     "word": "丈夫",
-    "meaning": "mạnh mẽ",
+    "meaning": "chắc chắn, bền bỉ (dùng cho đồ vật bền, hoặc sức khỏe dẻo dai)",
     "reading": "じょうぶ",
     "sinoVietnamese": "",
     "example": "このロープはとてもじょうぶだ。 (Dây này rất chắc chắn.)"
@@ -204,10 +204,10 @@
   },
   {
     "word": "住む",
-    "meaning": "sống ở",
+    "meaning": "sinh sống, cư trú tại đâu",
     "reading": "すむ",
     "sinoVietnamese": "TRÚ",
-    "example": "時間があるときは、自分のペースでゆっくり住むのが好きです。 (Khi có thời gian, tôi thích sống theo nhịp độ của riêng mình.)"
+    "example": "緑が多くて空気がきれいな郊外の町に家族と一緒に住んでいます。 (Tôi đang sống cùng gia đình tại một thị trấn ngoại ô nhiều cây xanh và không khí trong lành.)"
   },
   {
     "word": "スリッパ",
@@ -295,10 +295,10 @@
   },
   {
     "word": "そば",
-    "meaning": "gần",
+    "meaning": "bên cạnh, gần sát bên",
     "reading": "そば",
     "sinoVietnamese": "",
-    "example": "ガレージは家のそばにあります。 (Gara nằm cạnh nhà.)"
+    "example": "子どもが寝付くまで、母親はずっとベッドのそばに付き添っていた。 (Người mẹ đã ngồi túc trực bên cạnh giường cho đến khi đứa con ngủ say.)"
   },
   {
     "word": "空",

@@ -50,17 +50,17 @@
   },
   {
     "word": "空く",
-    "meaning": "mở ra",
-    "reading": "あく",
+    "meaning": "trống rỗng, vắng (chỗ ngồi, dạ dày: お腹が空く)",
+    "reading": "すく / あく",
     "sinoVietnamese": "KHÔNG",
-    "example": "毎日欠かさずに、空くようにしています。 (Tôi cố gắng để nó trống mỗi ngày mà không thất bại.)"
+    "example": "たくさん運動したあとなので、お腹がペコペコに空きました。 (Vận động nhiều xong xuôi, bụng tôi đói cồn cào cả lên.)"
   },
   {
     "word": "アクセサリー",
-    "meaning": "phụ kiện",
+    "meaning": "đồ trang sức, phụ kiện làm đẹp",
     "reading": "アクセサリー",
     "sinoVietnamese": "",
-    "example": "父から大切なアクセサリを譲り受けて、大事に使っています。 (Tôi thừa hưởng một phụ kiện quan trọng từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "シンプルなワンピースに上品な真珠のアクセサリーを合わせました。 (Chiếc đầm liền giản dị được phối cùng phụ kiện ngọc trai quý phái.)"
   },
   {
     "word": "浅い",
@@ -134,10 +134,10 @@
   },
   {
     "word": "あんな",
-    "meaning": "như vậy",
+    "meaning": "như thế kia (tính từ chỉ thị)",
     "reading": "あんな",
     "sinoVietnamese": "",
-    "example": "田中さんはいつも親切で、とてもあんなな人です。 (Anh Tanaka luôn là người tốt bụng và rất tốt bụng.)"
+    "example": "あんなに広い庭のある一軒家に一度住んでみたいです。 (Tôi ước một lần được sống trong ngôi nhà có khoảng sân vườn rộng như thế kia.)"
   },
   {
     "word": "案内",
@@ -337,7 +337,7 @@
   },
   {
     "word": "おかげ",
-    "meaning": "nhờ có",
+    "meaning": "nhờ có, nhờ vào (mang sắc thái biết ơn vì dẫn đến kết quả tốt đẹp)",
     "reading": "おかげ",
     "sinoVietnamese": "",
     "example": "私が今日あるのは両親のおかげである。 (Tôi có được như ngày hôm nay là nhờ bố mẹ tôi.)"
@@ -407,10 +407,10 @@
   },
   {
     "word": "おつり",
-    "meaning": "tiền thối lại, tiền thừa",
+    "meaning": "tiền thừa, tiền thối lại (khi mua sắm)",
     "reading": "おつり",
     "sinoVietnamese": "",
-    "example": "１ドルでおつりがありますか。 (Bạn có tiền lẻ 1$ không?)"
+    "example": "千円札を出して缶ジュースを買い、小銭のおつりを受け取りました。 (Tôi đưa tờ 1.000 yên mua lon nước ngọt và nhận lại tiền thừa bằng tiền xu.)"
   },
   {
     "word": "落す",
@@ -428,10 +428,10 @@
   },
   {
     "word": "踊る",
-    "meaning": "nhảy múa, khiêu vũ",
+    "meaning": "nhảy múa, khiêu vũ (theo điệu nhạc)",
     "reading": "おどる",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、踊るようにしています。 (Tôi cố gắng nhảy mỗi ngày mà không thất bại.)"
+    "example": "夏祭りの夜に浴衣を着て、みんなで輪になって楽しく踊りました。 (Đêm hội mùa hè tôi mặc Yukata cùng mọi người hòa vào vòng tròn nhảy múa.)"
   },
   {
     "word": "驚く",

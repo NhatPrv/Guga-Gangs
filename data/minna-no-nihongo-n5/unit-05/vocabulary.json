@@ -8,24 +8,24 @@
   },
   {
     "word": "行きます",
-    "meaning": "đi",
+    "meaning": "đi (di chuyển đến một địa điểm xa người nói)",
     "reading": "いきます",
     "sinoVietnamese": "HÀNH",
-    "example": "週末は家族と一緒にスーパーへ行きます。 (Cuối tuần tôi cùng gia đình đi siêu thị.)"
+    "example": "毎朝八時に家を出て、歩いて近くの駅へ行きます。 (Mỗi sáng tôi rời nhà lúc 8 giờ và đi bộ ra ga tàu gần nhà.)"
   },
   {
     "word": "来ます",
-    "meaning": "đến",
+    "meaning": "đến (di chuyển về phía người nói)",
     "reading": "きます",
     "sinoVietnamese": "LAI",
-    "example": "週末は家族と一緒にスーパーへ来ます。 (Tôi đi siêu thị cùng gia đình vào cuối tuần.)"
+    "example": "明日の午後三時に、田中さんが私たちのオフィスに来ます。 (Chiều mai lúc 3 giờ, anh Tanaka sẽ đến văn phòng của chúng tôi.)"
   },
   {
     "word": "帰ります",
-    "meaning": "về",
+    "meaning": "về, trở về (về nhà, về quê hương)",
     "reading": "かえります",
     "sinoVietnamese": "QUY",
-    "example": "週末は家族と一緒にスーパーへ帰ります。 (Cuối tuần tôi lại cùng gia đình đi siêu thị.)"
+    "example": "週末は久しぶりに実家へ帰って、両親と一緒に晩ご飯を食べます。 (Cuối tuần tôi sẽ về quê sau chuỗi ngày dài và ăn bữa tối cùng bố mẹ.)"
   },
   {
     "word": "学校",
@@ -39,14 +39,14 @@
     "meaning": "siêu thị",
     "reading": "スーパー",
     "sinoVietnamese": "",
-    "example": "スーパーで新鮮な野菜と果物を買いました。 (Tôi mua rau quả tươi ở siêu thị.)"
+    "example": "夕方に近所のスーパーへ行って今晩のおかずの買い物をしました。 (Buổi chiều tôi ra siêu thị gần nhà mua đồ về nấu món ăn tối.)"
   },
   {
     "word": "駅",
     "meaning": "nhà ga",
     "reading": "えき",
     "sinoVietnamese": "DỊCH",
-    "example": "駅の前で友達と待ち合わせをしています。 (Tôi đang gặp bạn tôi ở trước nhà ga.)"
+    "example": "朝の通勤時間帯なので、駅のホームは多くの人で混雑しています。 (Đang là giờ đi làm buổi sáng nên sân ga chật ních dòng người qua lại.)"
   },
   {
     "word": "飛行機",
@@ -200,7 +200,7 @@
     "meaning": "năm nay",
     "reading": "ことし",
     "sinoVietnamese": "",
-    "example": "ことしまでに提出しなければならない大事な書類があります。 (Có những tài liệu quan trọng phải được nộp trong năm nay.)"
+    "example": "ことしの春に大学を無事に卒業して、IT企業に入社しました。 (Mùa xuân năm nay tôi đã tốt nghiệp đại học thuận lợi và vào làm tại công ty IT.)"
   },
   {
     "word": "来年",
@@ -225,10 +225,10 @@
   },
   {
     "word": "１日",
-    "meaning": "ngày mùng 1, 1 ngày",
+    "meaning": "ngày mùng 1 hàng tháng, hoặc 1 ngày",
     "reading": "ついたち",
     "sinoVietnamese": "NHẬT",
-    "example": "１日までに提出しなければならない大事な書類があります。 (Có những tài liệu quan trọng phải được nộp trước ngày 1.)"
+    "example": "５月１日はメーデーで、世界中の多くの国で祝日となっています。 (Ngày mùng 1 tháng 5 là ngày Quốc tế Lao động, ngày nghỉ lễ ở nhiều nước trên thế giới.)"
   },
   {
     "word": "２日",
@@ -274,10 +274,10 @@
   },
   {
     "word": "８日",
-    "meaning": "ngày mùng 8, 8 ngày",
+    "meaning": "ngày mùng 8 hàng tháng, hoặc 8 ngày",
     "reading": "ようか",
     "sinoVietnamese": "NHẬT",
-    "example": "８日までに提出しなければならない大事な書類があります。 (Có những tài liệu quan trọng phải được nộp trước ngày 8.)"
+    "example": "私の妹の二十歳の誕生日は、ちょうど来月の８日です。 (Sinh nhật tròn hai mươi tuổi của em gái tôi rơi đúng vào ngày mùng 8 tháng sau.)"
   },
   {
     "word": "９日",
@@ -302,10 +302,10 @@
   },
   {
     "word": "２０日",
-    "meaning": "ngày 20, 20 ngày",
+    "meaning": "ngày 20 hàng tháng, hoặc 20 ngày (đọc là はつか)",
     "reading": "はつか",
     "sinoVietnamese": "NHẬT",
-    "example": "２０日までに提出しなければならない大事な書類があります。 (Có những tài liệu quan trọng phải nộp trước ngày 20.)"
+    "example": "毎月２０日は、会社の給料が銀行口座に振り込まれる日です。 (Ngày 20 hàng tháng là ngày công ty chuyển khoản tiền lương vào tài khoản ngân hàng.)"
   },
   {
     "word": "２４日",
@@ -375,6 +375,6 @@
     "meaning": "không có chi, không dám",
     "reading": "どういたしまして",
     "sinoVietnamese": "",
-    "example": "お礼を言われて、「どういたしまして」と笑顔で答えました。 (Khi anh ấy cảm ơn tôi, tôi mỉm cười đáp lại: \"Không có gì.\".)"
+    "example": "お礼を言われたので、「どういたしまして」と笑顔で返しました。 (Được cảm ơn, tôi mỉm cười đáp lại: \"Dạ không có chi đâu ạ\".)"
   }
 ]

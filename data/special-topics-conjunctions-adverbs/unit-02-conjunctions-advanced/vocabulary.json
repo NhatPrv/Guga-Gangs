@@ -51,7 +51,7 @@
   {
     "word": "あるいは",
     "reading": "あるいは",
-    "meaning": "hoặc là, có lẽ",
+    "meaning": "hoặc là, hoặc có thể (liên từ nối giữa các lựa chọn)",
     "sinoVietnamese": "",
     "example": "メール、あるいは電話でご連絡ください。 (Xin vui lòng liên hệ qua email, hoặc là gọi điện thoại.)"
   },
@@ -121,14 +121,14 @@
   {
     "word": "とはいえ",
     "reading": "とはいえ",
-    "meaning": "mặc dù nói là vậy nhưng",
+    "meaning": "mặc dù nói là vậy nhưng (thừa nhận vế trước nhưng đưa ra ý kiến ngược lại)",
     "sinoVietnamese": "",
     "example": "春になったとはいえ、朝晩はまだ冷え込みます。 (Mặc dù nói là đã sang xuân nhưng sáng tối trời vẫn còn se lạnh.)"
   },
   {
     "word": "にもかかわらず",
     "reading": "にもかかわらず",
-    "meaning": "mặc dù, bất chấp",
+    "meaning": "mặc dù, bất chấp (kết quả xảy ra trái ngược hoàn toàn với dự đoán thông thường)",
     "sinoVietnamese": "",
     "example": "大雨にもかかわらず、多くの観客が集まりました。 (Bất chấp cơn mưa to, rất nhiều khán giả đã đến tụ họp.)"
   },

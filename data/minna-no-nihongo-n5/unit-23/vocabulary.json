@@ -1,115 +1,115 @@
 [
   {
     "word": "道",
-    "meaning": "đường phố",
+    "meaning": "con đường, tuyến đường đi",
     "reading": "みち",
     "sinoVietnamese": "ĐẠO",
-    "example": "丁寧にお手入れをしながら、お気に入りの道を長く愛用しています。 (Tôi sử dụng con đường yêu thích của mình trong một thời gian dài và chăm sóc nó cẩn thận.)"
+    "example": "駅へ続く細い道を道なりに進むと、右手に赤い屋根の郵便局が見えてきます。 (Đi dọc theo con đường nhỏ dẫn ra ga, bạn sẽ thấy bưu điện mái đỏ ở bên tay phải.)"
   },
   {
-    "word": "操作店",
-    "meaning": "ngã tư",
+    "word": "交差点",
+    "meaning": "ngã tư đường, giao lộ (đã sửa lỗi chính tả từ 操作店 thành 交差点)",
     "reading": "こうさてん",
     "sinoVietnamese": "TÁC ĐIẾM",
-    "example": "一度は歴史のある有名な操作店に行ってみたいです。 (Tôi muốn đến một cửa hàng vận hành nổi tiếng có lịch sử ít nhất một lần.)"
+    "example": "歩行者の安全のため、信号のある大きな交差点を渡る際は左右をよく確認した。 (Để đảm bảo an toàn cho người đi bộ, khi băng qua ngã tư lớn có đèn tín hiệu tôi nhìn kỹ hai bên.)"
   },
   {
     "word": "信号",
-    "meaning": "đèn giao thông",
+    "meaning": "đèn tín hiệu giao thông",
     "reading": "しんごう",
     "sinoVietnamese": "TÍN HIỆU",
-    "example": "カバンの中に必要な信号をしっかり入れて出かけました。 (Tôi gói ghém những tín hiệu cần thiết vào túi rồi đi ra ngoài.)"
+    "example": "横断歩道の信号が青に変わるのを確認してから、ゆっくり道路を渡りました。 (Chờ đèn tín hiệu ở vạch sang đường chuyển sang màu xanh, tôi mới thong thả bước qua đường.)"
   },
   {
     "word": "引越しします",
-    "meaning": "chuyển nhà",
+    "meaning": "chuyển nhà sang nơi ở mới",
     "reading": "ひっこしします",
     "sinoVietnamese": "",
-    "example": "毎日仕事が終わったあと、日本語を引越しします。 (Mỗi ngày sau giờ làm việc tôi đều di chuyển tiếng Nhật.)"
+    "example": "転勤が決まったため、来月の初旬に会社の寮から新しいマンションへ引越しします。 (Vì có quyết định chuyển công tác, đầu tháng sau tôi sẽ chuyển nhà từ ký túc xá sang căn hộ mới.)"
   },
   {
     "word": "回します",
-    "meaning": "làm hỏng việc",
+    "meaning": "vặn, xoay (núm xoay, chìa khóa)",
     "reading": "まわします",
     "sinoVietnamese": "",
-    "example": "毎日仕事が終わったあと、日本語を回します。 (Mỗi ngày sau giờ làm việc, tôi đều truyền đạt tiếng Nhật.)"
+    "example": "水道の蛇口を右へ回すと、勢いよくきれいな水が流れ出しました。 (Vặn vòi nước sang bên phải, dòng nước trong veo liền tuôn trào mát rượi.)"
   },
   {
     "word": "引きます",
-    "meaning": "kéo",
+    "meaning": "kéo (cửa kéo, dây: ドアを引く)",
     "reading": "ひきます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、引きますようにしています。 (Tôi cố gắng kéo nó mỗi ngày mà không thất bại.)"
+    "example": "ドアの取っ手を強く引いて開けると、中から温かい光が漏れてきました。 (Tôi kéo mạnh tay nắm cửa mở ra, ánh sáng ấm áp bên trong liền ùa tới.)"
   },
   {
     "word": "変えます",
-    "meaning": "thay đổi",
+    "meaning": "thay đổi (kế hoạch, mật khẩu)",
     "reading": "かえます",
     "sinoVietnamese": "BIẾN",
-    "example": "毎日欠かさずに、変えますようにしています。 (Tôi cố gắng thay đổi nó mỗi ngày mà không thất bại.)"
+    "example": "安全性を高めるために、定期的にアカウントのパスワードを変えています。 (Để nâng cao tính bảo mật, tôi thường xuyên đổi mật khẩu tài khoản định kỳ.)"
   },
   {
     "word": "触ります",
-    "meaning": "chạm, chạm",
+    "meaning": "chạm vào, sờ vào (đồ vật: ボタンに触る)",
     "reading": "さわります",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、触りますようにしています。 (Tôi cố gắng chạm vào nó mỗi ngày mà không thất bại.)"
+    "example": "展示室の美術品は壊れやすいので、絶対に手で触らないでください。 (Các hiện vật mỹ thuật trong phòng trưng bày rất dễ vỡ, xin tuyệt đối không sờ tay vào.)"
   },
   {
     "word": "出ます",
-    "meaning": "đến",
+    "meaning": "nhả ra, chảy ra [tiền thừa, nước: お釣り/水が出る]",
     "reading": "でます",
     "sinoVietnamese": "XUẤT",
-    "example": "毎日欠かさずに、出ますようにしています。 (Tôi cố gắng xuất hiện mỗi ngày mà không thất bại.)"
+    "example": "切符売り場で千円札を入れてボタンを押すと、下から切符とお釣りが出ます。 (Đút tờ 1.000 yên tại quầy bán vé rồi bấm nút, vé và tiền thừa sẽ nhả ra từ bên dưới.)"
   },
   {
     "word": "動きます。",
-    "meaning": "chuyển động, chạy",
+    "meaning": "hoạt động, chuyển động (máy móc: 機械が動く)",
     "reading": "うごきます",
     "sinoVietnamese": "ĐỘNG",
-    "example": "スイッチを入れると、大きなモーターが力強く動きます。 (Khi bạn bật công tắc, động cơ lớn sẽ chuyển động mạnh mẽ.)"
+    "example": "電源プラグをコンセントに差し込むと、モーターが力強く動きました。 (Cắm phích vào ổ điện, động cơ liền khởi động chạy một cách mạnh mẽ.)"
   },
   {
     "word": "歩きます",
-    "meaning": "đi dạo phố)",
+    "meaning": "đi bộ (tản bộ trên vỉa hè)",
     "reading": "あるきます",
     "sinoVietnamese": "BỘ",
-    "example": "毎日欠かさずに、歩きますようにしています。 (Tôi cố gắng đi bộ mỗi ngày mà không thất bại.)"
+    "example": "春のうららかな陽気の中、桜並木の下を気持ちよく歩きました。 (Dưới tiết trời xuân ấm áp, tôi thảnh thơi rảo bước dưới những hàng cây hoa anh đào rực rỡ.)"
   },
   {
     "word": "渡ります",
-    "meaning": "chéo",
+    "meaning": "băng qua (cầu, đường: 橋/道を渡る)",
     "reading": "わたります",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、渡りますようにしています。 (Tôi cố gắng vượt qua nó mỗi ngày mà không thất bại.)"
+    "example": "信号が青に変わったのを確認してから、横断歩道を渡りました。 (Chờ đèn tín hiệu chuyển xanh an toàn, tôi mới bước qua vạch sang đường.)"
   },
   {
     "word": "気を付けます",
-    "meaning": "hãy cẩn thận",
+    "meaning": "chú ý, cẩn thận",
     "reading": "きをつけます",
     "sinoVietnamese": "KHÍ PHÓ",
-    "example": "毎日欠かさずに、気を付けますようにしています。 (Tôi cố gắng cẩn thận mỗi ngày để không bỏ lỡ.)"
+    "example": "暗い夜道を歩くときは、後ろから来る自転車や車によく気を付けます。 (Lúc đi bộ đường tối ban đêm, tôi luôn chú ý quan sát xe cộ từ phía sau.)"
   },
   {
     "word": "電気屋",
-    "meaning": "cửa hàng điện",
+    "meaning": "cửa hàng điện máy, đồ gia dụng",
     "reading": "でんきや",
     "sinoVietnamese": "ĐIỆN KHÍ ỐC",
-    "example": "自然が豊かな電気屋でのんびり過ごすのが好きです。 (Tôi thích dành thời gian thư giãn trong một cửa hàng điện được bao quanh bởi thiên nhiên.)"
+    "example": "壊れた冷蔵庫を買い替えるため、週末に駅前の大型電気屋へ下見に行きました。 (Để mua tủ lạnh mới thay cho chiếc đã hỏng, cuối tuần tôi đến cửa hàng điện máy lớn trước ga xem thử.)"
   },
   {
     "word": "故障",
-    "meaning": "bị hỏng",
+    "meaning": "sự cố hỏng hóc (máy móc, thiết bị)",
     "reading": "こしょう",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりの故障を選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn trục trặc phù hợp nhất với mình.)"
+    "example": "洗濯機が突然故障して動かなくなってしまったので、修理センターに電話した。 (Máy giặt đột nhiên bị hỏng không hoạt động nên tôi đã gọi điện tới trung tâm sửa chữa.)"
   },
   {
-    "word": "ー屋",
-    "meaning": "cửa hàng-",
+    "word": "～屋",
+    "meaning": "cửa hàng ～, tiệm ～ (hậu tố ghép sau mặt hàng)",
     "reading": "―や",
     "sinoVietnamese": "ỐC",
-    "example": "自然が豊かなー屋でのんびり過ごすのが好きです。 (Tôi thích dành thời gian thư giãn ở một nơi được bao quanh bởi thiên nhiên.)"
+    "example": "路地裏にある小さな果物屋で、みずみずしくて甘いみかんを一袋買いました。 (Tại tiệm hoa quả nhỏ nằm sâu trong ngõ, tôi đã mua một túi quýt ngọt mọng nước.)"
   },
   {
     "word": "サイズ",
@@ -120,52 +120,52 @@
   },
   {
     "word": "音",
-    "meaning": "âm thanh, tiếng động",
+    "meaning": "âm thanh, tiếng động phát ra",
     "reading": "おと",
     "sinoVietnamese": "ÂM",
-    "example": "父から大切な音を譲り受けて、大事に使っています。 (Tôi thừa hưởng âm thanh quý giá này từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "静かな夜の部屋で、時計の針が刻むカチカチという小さな音が響いていた。 (Trong căn phòng đêm yên ắng, tiếng kim đồng hồ tích tắc gõ nhịp nghe thật rõ.)"
   },
   {
     "word": "機械",
-    "meaning": "máy móc",
+    "meaning": "máy móc, thiết bị cơ khí",
     "reading": "きかい",
     "sinoVietnamese": "KI GIỚI",
-    "example": "父から大切な機械を譲り受けて、大事に使っています。 (Tôi thừa hưởng một chiếc máy quan trọng từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "工場の生産ラインでは、最新鋭の精密機械が休みなく稼働しています。 (Trên dây chuyền sản xuất của nhà máy, các cỗ máy chính xác tối tân hoạt động không ngừng nghỉ.)"
   },
   {
     "word": "つまみ",
-    "meaning": "núm vặn",
+    "meaning": "núm vặn điều chỉnh (trên bếp gas, đài phát thanh)",
     "reading": "つまみ",
     "sinoVietnamese": "",
-    "example": "父から大切なつまみを譲り受けて、大事に使っています。 (Tôi thừa hưởng chiếc núm quý giá này từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "ラジオのつまみを右に回して、聞き取りやすい音量に調節しました。 (Tôi vặn núm điều chỉnh trên đài sang bên phải để chỉnh âm lượng vừa nghe.)"
   },
   {
     "word": "角",
-    "meaning": "góc",
+    "meaning": "góc phố, khúc quanh ngã rẽ",
     "reading": "かど",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りの角を長く愛用しています。 (Tôi sử dụng chiếc sừng yêu thích của mình đã lâu, chăm sóc chúng cẩn thận.)"
+    "example": "二つ目の角を左に曲がると、目の前に目指していたカフェが現れます。 (Rẽ trái ở góc phố thứ hai, quán cà phê bạn đang tìm sẽ hiện ra ngay trước mắt.)"
   },
   {
     "word": "橋",
-    "meaning": "cầu",
+    "meaning": "cây cầu bắc qua sông",
     "reading": "はし",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりの橋を選びました。 (Tôi đã tham khảo ý kiến ​​của nhân viên cửa hàng và chọn được cây cầu phù hợp nhất với mình.)"
+    "example": "大きな川にかかる石造りの古い橋を渡って、対岸の城下町へと向かった。 (Tôi đi qua cây cầu đá cổ kính bắc qua dòng sông lớn để sang khu phố cổ bên kia bờ.)"
   },
   {
     "word": "駐車場",
-    "meaning": "bãi đậu xe",
+    "meaning": "bãi đỗ xe, bãi gửi xe ô tô",
     "reading": "ちゅうしゃじょう",
     "sinoVietnamese": "XA",
-    "example": "一度は歴史のある有名な駐車場に行ってみたいです。 (Tôi muốn đến bãi đậu xe lịch sử nổi tiếng ít nhất một lần.)"
+    "example": "週末のショッピングモールは大変混雑していて、駐車場に入るまで三十分も待った。 (Trung tâm thương mại cuối tuần đông nghẹt người, tôi phải chờ 30 phút mới vào được bãi đỗ xe.)"
   },
   {
     "word": "お正月",
-    "meaning": "năm mới",
+    "meaning": "ngày Tết Dương lịch (kỳ nghỉ năm mới quan trọng nhất của Nhật)",
     "reading": "おしょうがつ",
     "sinoVietnamese": "CHÍNH NGUYỆT",
-    "example": "お正月までに提出しなければならない大事な書類があります。 (Có những tài liệu quan trọng phải được nộp trước Tết.)"
+    "example": "お正月には家族揃ってお雑煮を食べ、近くの神社へ初詣に出かけます。 (Vào dịp Tết, cả nhà tôi quây quần ăn món bánh dày ozoni và cùng đi lễ đền Thần đạo đầu năm.)"
   },
   {
     "word": "ごちそうさまでした",

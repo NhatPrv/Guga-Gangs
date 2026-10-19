@@ -15,10 +15,10 @@
   },
   {
     "word": "腰",
-    "meaning": "hông",
+    "meaning": "vùng hông, thắt lưng",
     "reading": "こし",
     "sinoVietnamese": "",
-    "example": "父から大切な腰を譲り受けて、大事に使っています。 (Tôi thừa hưởng vòng eo quý giá của mình từ cha tôi và tôi sử dụng nó một cách hết sức cẩn thận.)"
+    "example": "重い荷物を急に持ち上げた拍子に、腰を痛めてしまいました。 (Đúng lúc nhấc bổng vật nặng lên thì tôi bị đau thắt lưng.)"
   },
   {
     "word": "個人",
@@ -78,10 +78,10 @@
   },
   {
     "word": "諺",
-    "meaning": "câu tục ngữ",
+    "meaning": "tục ngữ, ngạn ngữ dân gian",
     "reading": "ことわざ",
     "sinoVietnamese": "",
-    "example": "このことわざが使われるのを聞いた事があります。 (Tôi đã từng nghe câu tục ngữ này được sử dụng trước đây.)"
+    "example": "「失敗は成功のもと」ということわざをいつも心に留めています。 (Tôi luôn ghi nhớ câu tục ngữ \"Thất bại là mẹ thành công\" trong lòng.)"
   },
   {
     "word": "断る",
@@ -274,10 +274,10 @@
   },
   {
     "word": "サイン",
-    "meaning": "chữ ký",
+    "meaning": "chữ ký, ký tên (hợp đồng)",
     "reading": "サイン",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いサインを見に行きました。 (Tôi và bạn tôi đi xem một số dấu hiệu khác thường và thú vị.)"
+    "example": "契約内容を確認した後、書類の署名欄にペンでサインをしました。 (Sau khi đọc kỹ hợp đồng, tôi ký tên bằng bút mực vào ô chữ ký.)"
   },
   {
     "word": "境",
@@ -589,10 +589,10 @@
   },
   {
     "word": "自殺",
-    "meaning": "tự sát",
+    "meaning": "tự tử, tự vẫn",
     "reading": "じさつ",
     "sinoVietnamese": "TỰ",
-    "example": "父から大切な自殺を譲り受けて、大事に使っています。 (Tôi thừa hưởng một con dao tự sát quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "社会的な孤立やストレスから尊い命を絶つ自殺を防ぐ支援が重要です。 (Hỗ trợ ngăn chặn nạn tự sát do cô lập và áp lực xã hội là điều tối quan trọng.)"
   },
   {
     "word": "事実",
@@ -799,10 +799,10 @@
   },
   {
     "word": "支払",
-    "meaning": "thanh toán",
+    "meaning": "việc thanh toán, chi trả tiền bạc",
     "reading": "しはらい",
     "sinoVietnamese": "CHI PHẤT",
-    "example": "どのような支払方法がありますか。 (Những phương thức thanh toán nào bạn chấp nhận?)"
+    "example": "レジでの支払いは、スマホのQRコード決済を利用しました。 (Lúc thanh toán tại quầy thu ngân, tôi đã dùng phương thức quét mã QR trên điện thoại.)"
   },
   {
     "word": "支払う",
@@ -1058,10 +1058,10 @@
   },
   {
     "word": "主張",
-    "meaning": "yêu sách",
+    "meaning": "chủ trương, bày tỏ rõ quan điểm cá nhân",
     "reading": "しゅちょう",
     "sinoVietnamese": "CHỦ",
-    "example": "私たちはその重要性を主張した。 (Chúng tôi nhấn mạnh vào tầm quan trọng của nó.)"
+    "example": "会議の席で、自分の意見や主張をはっきりと述べました。 (Trong cuộc họp, tôi đã trình bày rõ ràng quan điểm và chủ trương của mình.)"
   },
   {
     "word": "出身",
@@ -1296,10 +1296,10 @@
   },
   {
     "word": "承認",
-    "meaning": "sự công nhận",
+    "meaning": "sự phê duyệt, chấp thuận chính thức",
     "reading": "しょうにん",
     "sinoVietnamese": "THỪA NHẬN",
-    "example": "私はあなたの計画を承認できない。 (Tôi không thể phê duyệt kế hoạch của bạn.)"
+    "example": "提出した企画書が、役員会議で無事に承認されました。 (Bản đề xuất kế hoạch mà tôi nộp đã được ban giám đốc chính thức phê duyệt thuận lợi.)"
   },
   {
     "word": "少年",
@@ -1352,10 +1352,10 @@
   },
   {
     "word": "職",
-    "meaning": "việc làm",
+    "meaning": "công ăn việc làm, chức vụ",
     "reading": "しょく",
     "sinoVietnamese": "CHỨC",
-    "example": "父から大切な職を譲り受けて、大事に使っています。 (Tôi kế thừa công việc quan trọng này từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "厳しい就職活動を乗り越えて、IT企業でエンジニアの職に就きました。 (Vượt qua kỳ ứng tuyển khắt khe, tôi đã nhận công việc kỹ sư tại một công ty IT.)"
   },
   {
     "word": "職業",
@@ -1373,10 +1373,10 @@
   },
   {
     "word": "植物",
-    "meaning": "thực vật",
+    "meaning": "thực vật, cây cỏ cảnh",
     "reading": "しょくぶつ",
     "sinoVietnamese": "THỰC VẬT",
-    "example": "日本の文化や生活に関わる植物について興味深く学びました。 (Tôi đã tìm hiểu một cách thú vị về các loài thực vật gắn liền với văn hóa và cuộc sống của người Nhật.)"
+    "example": "ベランダの日当たりの良い場所に色鮮やかな観葉植物を並べました。 (Tôi xếp những chậu cây cảnh xanh mướt ra góc ban công nhiều nắng.)"
   },
   {
     "word": "食物",
@@ -1450,10 +1450,10 @@
   },
   {
     "word": "処理",
-    "meaning": "chế biến",
+    "meaning": "xử lý, giải quyết (dữ liệu, sự cố, rác thải)",
     "reading": "しょり",
     "sinoVietnamese": "LÝ",
-    "example": "友達と一緒に、珍しくて面白い処理を見に行きました。 (Tôi đi cùng một người bạn để xem một phương pháp điều trị khác thường và thú vị.)"
+    "example": "コンピューターを使って、膨大なデータを短時間で処理します。 (Tôi dùng máy tính để xử lý một lượng lớn dữ liệu trong thời gian ngắn.)"
   },
   {
     "word": "知らせ",

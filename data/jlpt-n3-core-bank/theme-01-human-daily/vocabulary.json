@@ -148,10 +148,10 @@
   },
   {
     "word": "あっ",
-    "meaning": "à!",
+    "meaning": "a!, ối! (tiếng thốt lên bất ngờ)",
     "reading": "あっ",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いあっを見に行きました。 (Tôi đã đi xem một Ah khác thường và thú vị cùng với bạn bè của mình.)"
+    "example": "あっ、部屋の鍵を机の上に忘れてきてしまいました。 (A, tôi lỡ để quên chìa khóa phòng trên bàn mất rồi.)"
   },
   {
     "word": "扱う",
@@ -253,14 +253,14 @@
   },
   {
     "word": "或",
-    "meaning": "một điều nhất định...",
+    "meaning": "hoặc là, có thể là (dùng để đưa ra lựa chọn hoặc khả năng khác)",
     "reading": "ある",
     "sinoVietnamese": "",
     "example": "ある学生に会うところです。 (Tôi sắp gặp một sinh viên.)"
   },
   {
     "word": "あるいは",
-    "meaning": "hoặc",
+    "meaning": "hoặc là, hoặc có thể (liên từ nối giữa các lựa chọn)",
     "reading": "あるいは",
     "sinoVietnamese": "",
     "example": "ガスで調理しますか、あるいは電気ですか。 (Bạn nấu ăn bằng ga hay điện?)"
@@ -449,10 +449,10 @@
   },
   {
     "word": "抱く",
-    "meaning": "(từ lóng) ôm lấy",
-    "reading": "いだく",
+    "meaning": "ôm ấp (người thân: だく), ấp ủ (hoài bão, ước mơ: いだく)",
+    "reading": "だく / いだく",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、抱くようにしています。 (Tôi cố gắng ôm cô ấy mỗi ngày mà không thất bại.)"
+    "example": "母親が泣き叫ぶ赤ちゃんを優しく胸に抱いてあやしました。 (Người mẹ âu yếm ôm em bé đang khóc vào lòng vỗ về.)"
   },
   {
     "word": "いたずら",
@@ -463,10 +463,10 @@
   },
   {
     "word": "痛み",
-    "meaning": "đau đớn",
+    "meaning": "cơn đau, cảm giác đau đớn",
     "reading": "いたみ",
     "sinoVietnamese": "THỐNG",
-    "example": "ここにしつこい痛みがあります。 (Có một nỗi đau dai dẳng ở đây.)"
+    "example": "薬を飲んだら、胃の痛みが少し治まりました。 (Uống thuốc xong, cơn đau dạ dày của tôi đã dịu đi một chút.)"
   },
   {
     "word": "至る",
@@ -575,10 +575,10 @@
   },
   {
     "word": "いつまでも",
-    "meaning": "mãi mãi",
+    "meaning": "mãi mãi, mãi không thôi (diễn tả trạng thái kéo dài vô tận hoặc không dứt)",
     "reading": "いつまでも",
     "sinoVietnamese": "",
-    "example": "私はいつまでも彼の名を覚えている。 (Tôi sẽ luôn nhớ tên anh ấy.)"
+    "example": "祖父の優しい笑顔を、いつまでも忘れません。 (Tôi sẽ không bao giờ quên nụ cười hiền hậu của ông nội.)"
   },
   {
     "word": "移動",
@@ -806,10 +806,10 @@
   },
   {
     "word": "撃つ",
-    "meaning": "tấn công",
+    "meaning": "bắn (súng, cung tên)",
     "reading": "うつ",
     "sinoVietnamese": "",
-    "example": "先生のアドバイスをよく聞いて、正しく撃つように練習しました。 (Tôi chăm chú lắng nghe lời khuyên của thầy và tập bắn một cách chính xác.)"
+    "example": "警察官は威嚇のために空に向けてピストルを撃った。 (Viên cảnh sát đã bắn chỉ thiên một phát súng để đe dọa.)"
   },
   {
     "word": "移す",
@@ -883,10 +883,10 @@
   },
   {
     "word": "柄",
-    "meaning": "xử lý",
-    "reading": "え",
+    "meaning": "hoa văn, họa tiết (áo, vải)",
+    "reading": "がら",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりの柄を選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn mẫu phù hợp với mình.)"
+    "example": "この着物は鮮やかな桜の花の柄が美しく描かれています。 (Bộ kimono này được vẽ họa tiết hoa anh đào tươi tắn rất đẹp.)"
   },
   {
     "word": "永遠",
@@ -1156,7 +1156,7 @@
   },
   {
     "word": "おそらく",
-    "meaning": "có lẽ",
+    "meaning": "có lẽ, có thể (dùng trong suy đoán có độ tin cậy khá cao, văn phong lịch sự)",
     "reading": "おそらく",
     "sinoVietnamese": "",
     "example": "首相はおそらく辞任するであろう。 (Thủ tướng chắc chắn sẽ từ chức.)"
@@ -1282,10 +1282,10 @@
   },
   {
     "word": "およそ",
-    "meaning": "về",
+    "meaning": "khoảng chừng, đại khái, xấp xỉ",
     "reading": "およそ",
     "sinoVietnamese": "",
-    "example": "およそどれくらいの価値がありますか。 (Nó có giá trị khoảng bao nhiêu?)"
+    "example": "駅から目的地までは、およそ徒歩十五分ほどかかります。 (Từ nhà ga đến điểm đến mất khoảng chừng 15 phút đi bộ.)"
   },
   {
     "word": "及ぼす",
@@ -1520,10 +1520,10 @@
   },
   {
     "word": "限る",
-    "meaning": "hạn chế",
+    "meaning": "chỉ riêng, giới hạn (hoặc dùng trong cấu trúc: không hẳn là...)",
     "reading": "かぎる",
     "sinoVietnamese": "",
-    "example": "金持ちが必ずしも幸福とは限らない。 (Người giàu chưa chắc đã hạnh phúc.)"
+    "example": "値段が高いものが、必ずしも品質が良いとは限らない。 (Đồ đắt tiền chưa chắc chất lượng đã luôn tốt.)"
   },
   {
     "word": "学",
@@ -1548,7 +1548,7 @@
   },
   {
     "word": "確実",
-    "meaning": "sự chắc chắn",
+    "meaning": "chắc chắn, xác thực (mức độ tin cậy cao, không còn nghi ngờ)",
     "reading": "かくじつ",
     "sinoVietnamese": "XÁC THỰC",
     "example": "これは遅いけど確実な方法だ。 (Đây là một phương pháp chậm nhưng đáng tin cậy.)"
@@ -1618,17 +1618,17 @@
   },
   {
     "word": "加減",
-    "meaning": "phép cộng và phép trừ",
+    "meaning": "mức độ, sự điều chỉnh (sức khỏe, lửa)",
     "reading": "かげん",
     "sinoVietnamese": "GIA",
-    "example": "日本の文化や生活に関わる加減について興味深く学びました。 (Tôi rất thích thú tìm hiểu về tầm quan trọng của văn hóa và cuộc sống Nhật Bản.)"
+    "example": "おばあちゃん、最近のお体の加減はいかがですか。 (Bà ơi, dạo này tình hình sức khỏe trong người bà thế nào rồi ạ?)"
   },
   {
     "word": "過去",
-    "meaning": "quá khứ",
+    "meaning": "quá khứ, thời gian đã qua",
     "reading": "かこ",
     "sinoVietnamese": "",
-    "example": "私はいつまでも過去にこだわらないようにと心がけている。 (Tôi cố gắng không mãi mãi đắm chìm trong quá khứ.)"
+    "example": "過去の失敗を悔やむより、未来のことを考えよう。 (Thay vì hối tiếc về những thất bại trong quá khứ, hãy nghĩ về tương lai.)"
   },
   {
     "word": "籠",
@@ -1712,7 +1712,7 @@
     "meaning": "vai",
     "reading": "かた",
     "sinoVietnamese": "",
-    "example": "肩が痛い。 (Vai tôi đau quá.)"
+    "example": "パソコンを長時間使ったので、肩がひどく凝って痛いです。 (Vì dùng máy tính trong thời gian dài nên vai tôi bị mỏi và đau nhức.)"
   },
   {
     "word": "硬い",

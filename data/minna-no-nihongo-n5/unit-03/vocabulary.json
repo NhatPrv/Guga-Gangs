@@ -15,17 +15,17 @@
   },
   {
     "word": "あそこ",
-    "meaning": "ở đằng kia",
+    "meaning": "ở đằng kia (nơi xa cả người nói lẫn người nghe)",
     "reading": "あそこ",
     "sinoVietnamese": "",
-    "example": "あそこに銀行と郵便局があります。 (Ở đằng kia có ngân hàng và bưu điện.)"
+    "example": "あそこにある白い建物が、私たちが通っている学校です。 (Tòa nhà màu trắng ở đằng kia chính là trường học mà chúng tôi đang theo học.)"
   },
   {
     "word": "どこ",
-    "meaning": "ở đâu",
+    "meaning": "ở đâu, chỗ nào (từ để hỏi nơi chốn)",
     "reading": "どこ",
     "sinoVietnamese": "",
-    "example": "すみません、お手洗いはどこにありますか。 (Xin lỗi, nhà vệ sinh ở đâu?.)"
+    "example": "「すみません、お手洗いはどこにありますか。」「あちらの突き当たりです。」 (\"Xin lỗi, nhà vệ sinh ở đâu vậy ạ?\" \"Ở cuối hành lang đằng kia ạ.\")"
   },
   {
     "word": "こちら",
@@ -99,17 +99,17 @@
   },
   {
     "word": "トイレ",
-    "meaning": "nhà vệ sinh",
+    "meaning": "nhà vệ sinh, phòng vệ sinh",
     "reading": "トイレ",
     "sinoVietnamese": "",
-    "example": "すみません、トイレをお借りしてもよろしいですか。 (Xin lỗi, tôi có thể mượn nhà vệ sinh của bạn được không?.)"
+    "example": "授業が始まる前に、急いでトイレへ行って手を洗いました。 (Trước khi tiết học bắt đầu, tôi tranh thủ chạy vào nhà vệ sinh rửa tay.)"
   },
   {
     "word": "階段",
     "meaning": "cầu thang",
     "reading": "かいだん",
     "sinoVietnamese": "GIAI ĐOẠN",
-    "example": "健康のためにエレベーターを使わず階段を上ります。 (Vì sức khỏe của mình, tôi đi lên cầu thang bộ thay vì sử dụng thang máy.)"
+    "example": "毎朝健康のためにエレベーターを使わずに階段を上っています。 (Mỗi sáng vì sức khỏe tôi đều đi cầu thang bộ chứ không đi thang máy.)"
   },
   {
     "word": "エレベーター",
@@ -130,7 +130,7 @@
     "meaning": "quốc gia, đất nước",
     "reading": "くに",
     "sinoVietnamese": "QUỐC",
-    "example": "自然が豊かな国でのんびり過ごすのが好きです。 (Tôi thích dành thời gian thư giãn ở những đất nước giàu thiên nhiên.)"
+    "example": "「お国はどちらですか」「東南アジアのベトナムです」 (Quê hương bạn ở đâu vậy? - Dạ là Việt Nam ở Đông Nam Á ạ.)"
   },
   {
     "word": "会社",
@@ -141,10 +141,10 @@
   },
   {
     "word": "うち",
-    "meaning": "nhà, ngôi nhà",
+    "meaning": "ngôi nhà của mình",
     "reading": "うち",
     "sinoVietnamese": "",
-    "example": "仕事が終わったらすぐにうちへ帰ります。 (Tôi sẽ về nhà ngay sau khi làm việc xong.)"
+    "example": "緑に囲まれた閑静な郊外の町に、私たちが暮らすうちが建っています。 (Ngôi nhà chúng tôi đang sống nằm ở một thị trấn ngoại ô yên ả nhiều cây xanh.)"
   },
   {
     "word": "電話",
@@ -179,7 +179,7 @@
     "meaning": "thuốc lá",
     "reading": "タバコ",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なタバコをしっかり入れて出かけました。 (Tôi gói tất cả số thuốc lá cần thiết vào túi và đi ra ngoài.)"
+    "example": "健康を気遣って、長年吸っていたタバコをきっぱりやめました。 (Nghĩ cho sức khỏe, tôi đã cai dứt điểm thuốc lá sau bao năm hút.)"
   },
   {
     "word": "売り場",
@@ -193,7 +193,7 @@
     "meaning": "dưới lòng đất",
     "reading": "ちか",
     "sinoVietnamese": "",
-    "example": "父から大切なちかを譲り受けて、大事に使っています。 (Tôi thừa hưởng chika quý giá của mình từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "駅ビルの地下には安くておいしい飲食店街が広がっています。 (Dưới tầng hầm tòa nhà ga có cả một khu phố ẩm thực ngon bổ rẻ.)"
   },
   {
     "word": "いくら",
@@ -225,17 +225,17 @@
   },
   {
     "word": "すみません",
-    "meaning": "xin lỗi",
+    "meaning": "xin lỗi, làm phiền (dùng để xin lỗi hoặc gọi nhân viên/nhờ vả)",
     "reading": "すみません",
     "sinoVietnamese": "",
-    "example": "すみません、写真を撮っていただけませんか。 (Xin lỗi, tôi có thể chụp ảnh được không?.)"
+    "example": "すみません、落としましたよ、ハンカチ。 (Xin lỗi, bạn làm rơi chiếc khăn tay này.)"
   },
   {
     "word": "(を）みせてください",
-    "meaning": "xin hãy cho tôi xem ～",
+    "meaning": "xin hãy cho tôi xem ～ (nói khi mua sắm hoặc muốn xem đồ vật)",
     "reading": "(を）みせてください",
     "sinoVietnamese": "",
-    "example": "すみません、その時計を見せてください。 (Xin lỗi, hãy cho tôi xem chiếc đồng hồ đó.)"
+    "example": "ショーケースの中にある黒い革の財布をみせてください。 (Làm ơn cho tôi xem chiếc ví da màu đen trong tủ kính với ạ.)"
   },
   {
     "word": "じゃ（~を）ください",
@@ -246,23 +246,23 @@
   },
   {
     "word": "しんおおさか",
-    "meaning": "địa danh ở nhật bản",
+    "meaning": "ga Shin-Osaka (nhà ga Shinkansen lớn tại Osaka)",
     "reading": "しんおおさか",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りのしんおおさかを長く愛用しています。 (Tôi đã sử dụng chiếc Shin Osaka yêu thích của mình được lâu rồi, giữ gìn cẩn thận.)"
+    "example": "東京から新幹線に乗って、約２時間半で新大阪に着きました。 (Tôi đi tàu Shinkansen từ Tokyo và đến Shin-Osaka sau khoảng 2 tiếng rưỡi.)"
   },
   {
     "word": "イタリア",
     "meaning": "ý",
     "reading": "イタリア",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なイタリアをしっかり入れて出かけました。 (Tôi đóng gói tất cả những món đồ Ý tôi cần vào túi và đi ra ngoài.)"
+    "example": "本場のパスタとピザを味わうためにイタリアへ旅行に行きました。 (Để thưởng thức mì Ý và pizza chính gốc, tôi đã đi du lịch Ý.)"
   },
   {
     "word": "スイス",
     "meaning": "thụy sĩ",
     "reading": "スイス",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なスイスをしっかり入れて出かけました。 (Tôi gói tất cả số tiền Thụy Sĩ tôi cần vào túi và đi ra ngoài.)"
+    "example": "白銀の雄大なアルプス山脈を見るためにスイスを訪れました。 (Tôi đã đến Thụy Sĩ để chiêm ngưỡng dãy Alps tuyết phủ hùng vĩ.)"
   }
 ]

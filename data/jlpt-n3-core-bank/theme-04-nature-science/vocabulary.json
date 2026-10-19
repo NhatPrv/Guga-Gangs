@@ -43,10 +43,10 @@
   },
   {
     "word": "スタンド",
-    "meaning": "đứng",
+    "meaning": "đèn bàn học (desk lamp) hoặc khán đài sân vận động",
     "reading": "スタンド",
     "sinoVietnamese": "",
-    "example": "次のスタンドまでどのくらいありますか。 (Còn bao xa nữa mới tới điểm dừng tiếp theo?)"
+    "example": "部屋の明かりを消して、電気スタンドの光だけで読書をしました。 (Tôi tắt đèn phòng và chỉ đọc sách dưới ánh sáng của chiếc đèn bàn.)"
   },
   {
     "word": "頭痛",
@@ -92,10 +92,10 @@
   },
   {
     "word": "鋭い",
-    "meaning": "nhọn",
+    "meaning": "sắc bén (dao kéo), nhạy bén, sắc sảo (giác quan, ánh mắt)",
     "reading": "するどい",
     "sinoVietnamese": "",
-    "example": "ここに鋭い痛みがあります。 (Ở đây có một cơn đau dữ dội.)"
+    "example": "探偵は鋭い観察眼で、犯人が残したわずかな痕跡を見抜いた。 (Thám tử với con mắt quan sát sắc sảo đã nhận ra dấu vết nhỏ mà thủ phạm để lại.)"
   },
   {
     "word": "せい",
@@ -316,7 +316,7 @@
   },
   {
     "word": "絶対",
-    "meaning": "tuyệt đối",
+    "meaning": "nhất định, tuyệt đối (thường đi với thể phủ định: tuyệt đối không...)",
     "reading": "ぜったい",
     "sinoVietnamese": "ĐỐI",
     "example": "アーア、絶対うまくいくと思ったのになあ。 (Ah, tôi nghĩ nó chắc chắn sẽ thành công.)"
@@ -435,10 +435,10 @@
   },
   {
     "word": "想像",
-    "meaning": "trí tưởng tượng",
+    "meaning": "sự tưởng tượng, hình dung",
     "reading": "そうぞう",
     "sinoVietnamese": "TƯỞNG",
-    "example": "父から大切な想像を譲り受けて、大事に使っています。 (Tôi thừa hưởng trí tưởng tượng quý giá này từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "100年後の未来の地球の姿を自由に想像してみました。 (Tôi thỏa sức tưởng tượng về diện mạo Trái Đất 100 năm sau trong tương lai.)"
   },
   {
     "word": "相続",
@@ -568,17 +568,17 @@
   },
   {
     "word": "それと",
-    "meaning": "và sau đó",
+    "meaning": "và còn, thêm nữa (liên từ nối ý)",
     "reading": "それと",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なそれとをしっかり入れて出かけました。 (Tôi gói ghém mọi thứ cần thiết vào túi và đi ra ngoài.)"
+    "example": "コーヒーをホットで一つ、それとチーズケーキをお願いします。 (Cho tôi một cà phê nóng, và thêm một bánh phô mai nữa nhé.)"
   },
   {
     "word": "それとも",
-    "meaning": "hoặc",
+    "meaning": "hoặc là, hay là (lựa chọn giữa A và B)",
     "reading": "それとも",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なそれともをしっかり入れて出かけました。 (Tôi gói ghém mọi thứ cần thiết vào túi và đi ra ngoài.)"
+    "example": "移動は電車で行きますか、それともタクシーにしますか。 (Chúng ta sẽ đi bằng tàu điện, hay là bắt taxi đi vậy?)"
   },
   {
     "word": "損",
@@ -974,10 +974,10 @@
   },
   {
     "word": "種",
-    "meaning": "hạt giống",
+    "meaning": "hạt giống (cây trồng) hoặc nguồn cơn, mầm mống",
     "reading": "たね",
     "sinoVietnamese": "",
-    "example": "そんなことをすれば笑いものの種なるよ。 (Nếu bạn làm vậy, bạn sẽ trở thành trò cười.)"
+    "example": "春になったら庭の花壇にヒマワリの種をまくつもりです。 (Đến mùa xuân, tôi định gieo hạt hoa hướng dương vào bồn hoa trong vườn.)"
   },
   {
     "word": "束",
@@ -1079,10 +1079,10 @@
   },
   {
     "word": "誰か",
-    "meaning": "ai đó",
+    "meaning": "ai đó (người không rõ)",
     "reading": "だれか",
     "sinoVietnamese": "",
-    "example": "父から大切な誰かを譲り受けて、大事に使っています。 (Tôi được thừa hưởng một điều gì đó đặc biệt từ cha tôi và tôi đã sử dụng nó một cách cẩn thận.)"
+    "example": "玄関のチャイムが鳴ったので、外に誰か来たようです。 (Chuông cửa reo nên có vẻ như ngoài cửa có ai đó vừa đến.)"
   },
   {
     "word": "段",
@@ -1163,10 +1163,10 @@
   },
   {
     "word": "地位",
-    "meaning": "(xã hội) địa vị",
+    "meaning": "địa vị xã hội, vị thế trong tổ chức",
     "reading": "ちい",
     "sinoVietnamese": "VỊ",
-    "example": "彼は会社で高い地位にあります。 (Anh ấy giữ chức vụ cao trong công ty.)"
+    "example": "長年のたゆまぬ努力が実を結び、会社で高い地位を築いた。 (Nỗ lực không ngừng nghỉ suốt nhiều năm đã đơm hoa kết trái, giúp anh ấy tạo dựng được vị thế cao trong công ty.)"
   },
   {
     "word": "地域",
@@ -1282,10 +1282,10 @@
   },
   {
     "word": "中央",
-    "meaning": "trung tâm",
+    "meaning": "trung tâm, chính giữa",
     "reading": "ちゅうおう",
     "sinoVietnamese": "TRUNG",
-    "example": "私たちはその部屋の中央に座った。 (Chúng tôi ngồi ở giữa phòng.)"
+    "example": "広場の中央には、大きな噴水が設置されています。 (Ở chính giữa quảng trường có lắp đặt một đài phun nước lớn.)"
   },
   {
     "word": "中学",
@@ -1506,10 +1506,10 @@
   },
   {
     "word": "常に",
-    "meaning": "luôn luôn",
+    "meaning": "thường xuyên, luôn luôn (văn phong trang trọng hơn いつも)",
     "reading": "つねに",
     "sinoVietnamese": "",
-    "example": "常に疲労感があります。 (Tôi luôn cảm thấy mệt mỏi.)"
+    "example": "プロの料理人として、常に衛生管理に細心の注意を払っています。 (Là một đầu bếp chuyên nghiệp, tôi luôn hết sức chú ý đến vấn đề quản lý vệ sinh.)"
   },
   {
     "word": "翼",
@@ -1534,10 +1534,10 @@
   },
   {
     "word": "詰める",
-    "meaning": "đóng gói",
+    "meaning": "nhét vào, nhồi vào, rút ngắn khoảng cách",
     "reading": "つめる",
     "sinoVietnamese": "",
-    "example": "このブラウスをつめていただけますか。 (Bạn có thể vui lòng gói chiếc áo này cho tôi được không?)"
+    "example": "旅行用のスーツケースにお土産を隙間なく詰め込みました。 (Tôi đã nhét kín quà lưu niệm vào chiếc vali du lịch không còn một kẽ hở.)"
   },
   {
     "word": "積もる",

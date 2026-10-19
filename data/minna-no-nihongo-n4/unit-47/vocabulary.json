@@ -1,66 +1,66 @@
 [
   {
     "word": "集まります「人が～」",
-    "meaning": "người tập trung, tụ tập",
-    "reading": "あつまります [ひとが~]",
+    "meaning": "tụ họp, tập hợp lại (người tụ tập)",
+    "reading": "あつまります",
     "sinoVietnamese": "TẬP NHÂN",
-    "example": "駅前の広場に大勢の人が集まっています。 (Một lượng lớn người dân đang tập trung tại quảng trường phía trước nhà ga.)"
+    "example": "駅前の広場に大道芸を見ようと大勢の観客が集まりました。 (Tại bãi đất trống trước ga, rất đông khán giả đã tụ tập xem biểu diễn đường phố.)"
   },
   {
     "word": "別れます「人が」",
-    "meaning": "mọi người chia tay, ly tán",
-    "reading": "わかれます [ひとが~]",
+    "meaning": "chia tay, chia ly (người chia tay)",
+    "reading": "わかれます",
     "sinoVietnamese": "BIỆT NHÂN",
-    "example": "成田空港で留学する親友と別れました。 (Tôi tạm biệt người bạn thân đang du học ở sân bay Narita.)"
+    "example": "成田空港の出発ゲートで、母国へ帰る留学生の友人と笑顔で別れました。 (Tại cửa khởi hành sân bay Narita, tôi mỉm cười chia tay người bạn về nước.)"
   },
   {
     "word": "長生きます",
-    "meaning": "sống lâu",
-    "reading": "ながいきます",
+    "meaning": "sống lâu, thọ (長生きする)",
+    "reading": "ながいきします",
     "sinoVietnamese": "TRƯỜNG SINH",
-    "example": "毎日欠かさずに、長生きますようにしています。 (Tôi cố gắng sống thật lâu mà không bỏ lỡ nó mỗi ngày.)"
+    "example": "祖父母には栄養バランスの良い食事をとって、いつまでも長生きしてほしいです。 (Tôi mong ông bà ăn uống đủ chất và sống thật lâu thật thọ cùng con cháu.)"
   },
   {
     "word": "「音/声が～」します",
-    "meaning": "phát ra âm thanh / nghe thấy tiếng nói",
+    "meaning": "nghe thấy âm thanh, phát ra tiếng động [音/声がする]",
     "reading": "[おと/こえが~] します",
     "sinoVietnamese": "ÂM THANH",
-    "example": "毎日仕事が終わったあと、日本語を「音/声が～」します。 (Mỗi ngày sau giờ làm việc, tôi nghe âm thanh của tiếng Nhật.)"
+    "example": "静かな夜の庭の茂みから、草を踏みしめるようなガサガサという小さな音がします。 (Từ bụi cây trong vườn đêm thanh vắng, nghe thấy tiếng sột soạt nho nhỏ như tiếng giẫm lên cỏ.)"
   },
   {
     "word": "「味が～」します",
-    "meaning": "có mùi vị, nếm thấy vị",
+    "meaning": "có vị, nếm thấy mùi vị [味がする]",
     "reading": "[あじが~] します",
     "sinoVietnamese": "VỊ",
-    "example": "毎日仕事が終わったあと、日本語を「味が～」します。 (Mỗi ngày sau giờ làm việc, tôi đều được thưởng thức hương vị của tiếng Nhật.)"
+    "example": "この手作りのクッキーは、隠し味にレモンの皮が入っていて爽やかな味がします。 (Món bánh quy tự làm này có thêm chút vỏ chanh làm gia vị bí mật nên ăn có vị thanh mát.)"
   },
   {
     "word": "[においが~] します",
-    "meaning": "có mùi hương, bốc mùi",
+    "meaning": "ngửi thấy mùi hương, có mùi bốc lên [においがする]",
     "reading": "[においが~] します",
     "sinoVietnamese": "",
-    "example": "毎日仕事が終わったあと、日本語を[においが~] します。 (Mỗi ngày sau giờ làm việc, tôi đều [ngửi thấy] tiếng Nhật.)"
+    "example": "パン屋の前を通りかかると、焼きたての香ばしいクロワッサンの甘いにおいがします。 (Đi ngang qua tiệm bánh mì, tôi ngửi thấy mùi thơm ngòn ngọt quyến rũ của mẻ bánh sừng bò mới ra lò.)"
   },
   {
     "word": "「傘を～」さします",
-    "meaning": "giương ô, che dù",
+    "meaning": "che ô, giương dù [傘をさす]",
     "reading": "[かさを~] さします",
     "sinoVietnamese": "",
-    "example": "毎日仕事が終わったあと、日本語を「傘を～」さします。 (Mỗi ngày sau giờ làm việc, chúng tôi nói \"Umaya wo\" bằng tiếng Nhật.)"
+    "example": "突然ポツポツと大粒の雨が降ってきたので、カバンから折りたたみ傘を出してさしました。 (Bất thình lình mưa hạt to trút xuống, tôi liền lấy cây dù gấp trong cặp ra giương lên che.)"
   },
   {
     "word": "ひどい",
-    "meaning": "xấu, tệ",
+    "meaning": "tồi tệ, khủng khiếp, nghiêm trọng",
     "reading": "ひどい",
     "sinoVietnamese": "",
-    "example": "この本はとてもひどいので、おすすめです。 (Cuốn sách này tệ đến mức tôi giới thiệu nó.)"
+    "example": "台風が直撃した沿岸地域では、強風と高波によってひどい被害がもたらされた。 (Tại vùng duyên hải nơi tâm bão quét qua, gió bão và sóng lớn đã gây ra thiệt hại vô cùng nặng nề.)"
   },
   {
     "word": "天気予報",
-    "meaning": "dự báo thời tiết",
+    "meaning": "bản tin dự báo thời tiết",
     "reading": "てんきよほう",
     "sinoVietnamese": "THIÊN KHÍ DỰ BÁO",
-    "example": "店員さんに相談して、自分にぴったりの天気予報を選びました。 (Tôi đã tham khảo ý kiến ​​của nhân viên cửa hàng và chọn dự báo thời tiết phù hợp với mình nhất.)"
+    "example": "毎朝出かける前にテレビの天気予報を確認し、降水確率が高ければ折りたたみ傘を持参する。 (Mỗi sáng trước khi ra ngoài tôi đều xem dự báo thời tiết trên TV, nếu xác suất mưa cao sẽ mang theo ô gấp.)"
   },
   {
     "word": "発表",
@@ -71,10 +71,10 @@
   },
   {
     "word": "実験",
-    "meaning": "thí nghiệm, thí nghiệm",
+    "meaning": "thí nghiệm khoa học, thử nghiệm",
     "reading": "じっけん",
     "sinoVietnamese": "NGHIỆM",
-    "example": "カバンの中に必要な実験をしっかり入れて出かけました。 (Tôi gói ghém tất cả những thí nghiệm cần thiết vào túi và đi ra ngoài.)"
+    "example": "理科の実験室で薬品を慎重に配合し、化学反応の変化をフラスコの中で観察した。 (Trong phòng thí nghiệm khoa học, tôi cẩn thận phối trộn hóa chất quan sát phản ứng hóa học trong bình tam giác.)"
   },
   {
     "word": "人口",
@@ -85,24 +85,24 @@
   },
   {
     "word": "におい",
-    "meaning": "mùi",
+    "meaning": "mùi hương, mùi vị",
     "reading": "におい",
     "sinoVietnamese": "",
-    "example": "この本はとてもにおいので、おすすめです。 (Cuốn sách này có mùi rất tuyệt và tôi đánh giá cao nó.)"
+    "example": "春の陽気に誘われて公園を歩くと、満開の沈丁花の甘く心地よいにおいが漂ってきた。 (Đi dạo công viên trong tiết trời xuân ấm áp, hương hoa thụy hương thơm ngát phảng phất đưa lại.)"
   },
   {
     "word": "科学",
-    "meaning": "khoa học",
+    "meaning": "khoa học, công nghệ tự nhiên",
     "reading": "かがく",
     "sinoVietnamese": "HỌC",
-    "example": "店員さんに相談して、自分にぴったりの科学を選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn môn khoa học phù hợp nhất với mình.)"
+    "example": "最新の科学技術の進展によって、かつては不治の病とされた難病の治療法が確立された。 (Nhờ sự tiến bộ của khoa học kỹ thuật hiện đại, các phương pháp chữa trị căn bệnh nan y đã được xác lập.)"
   },
   {
     "word": "医学",
-    "meaning": "y học",
+    "meaning": "y học, y khoa",
     "reading": "いがく",
     "sinoVietnamese": "Y HỌC",
-    "example": "店員さんに相談して、自分にぴったりの医学を選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được loại thuốc phù hợp nhất với mình.)"
+    "example": "将来は医学の道へ進み、最先端の再生医療の研究で多くの苦しむ患者を救いたい。 (Tương lai tôi muốn theo đuổi ngành y học, nghiên cứu y học tái tạo tiên tiến để cứu chữa cho nhiều bệnh nhân.)"
   },
   {
     "word": "文学",
@@ -134,31 +134,31 @@
   },
   {
     "word": "反対",
-    "meaning": "phản đối",
+    "meaning": "phản đối, không đồng tình",
     "reading": "はんたい",
     "sinoVietnamese": "PHẢN ĐỐI",
-    "example": "丁寧にお手入れをしながら、お気に入りの反対を長く愛用しています。 (Tôi đã sử dụng đối diện với yêu thích của tôi trong một thời gian dài, chăm sóc nó cẩn thận.)"
+    "example": "住民の安全を脅かす危険な開発計画に対して、町内会全体で一致団結して反対の声を上げた。 (Trước dự án quy hoạch nguy hiểm đe dọa an toàn cư dân, cả khu phố đã đồng lòng lên tiếng phản đối.)"
   },
   {
     "word": "男性",
-    "meaning": "nam giới",
+    "meaning": "nam giới, phái nam",
     "reading": "だんせい",
     "sinoVietnamese": "NAM",
-    "example": "将来は男性と一緒に海外旅行に行きたいと思っています。 (Trong tương lai, tôi muốn đi du lịch nước ngoài cùng một người đàn ông.)"
+    "example": "料理教室には女性だけでなく、男性の参加者も多く集まっています。 (Tại lớp học nấu ăn không chỉ có nữ giới mà rất nhiều nam giới cũng tham gia.)"
   },
   {
     "word": "女性",
-    "meaning": "nữ",
+    "meaning": "nữ giới, phái nữ",
     "reading": "じょせい",
     "sinoVietnamese": "NỮ",
-    "example": "女性が健康で幸せに暮らせることをいつも願っています。 (Tôi luôn mong phụ nữ có thể sống khỏe mạnh và hạnh phúc.)"
+    "example": "多くの女性が社会の様々な分野でリーダーとして活躍しています。 (Rất nhiều phụ nữ đang tỏa sáng và giữ vai trò lãnh đạo ở nhiều lĩnh vực.)"
   },
   {
     "word": "~によると",
-    "meaning": "thông báo, cho biết",
+    "meaning": "theo như nguồn tin ～ (dẫn nguồn tin tức)",
     "reading": "~によると",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りの~によるとを長く愛用しています。 (Món đồ mình yêu thích đã lâu rồi, giữ gìn cẩn thận.)"
+    "example": "今朝の新聞の報道によると、世界経済の成長率は来期にかけて緩やかに回復する見込みだ。 (Theo thông tin trên báo sáng nay, tốc độ tăng trưởng kinh tế thế giới dự kiến sẽ dần hồi phục vào kỳ tới.)"
   },
   {
     "word": "イラン",
@@ -169,24 +169,24 @@
   },
   {
     "word": "婚約します",
-    "meaning": "sự đính hôn",
+    "meaning": "đính hôn, hứa hôn",
     "reading": "こんやくします",
     "sinoVietnamese": "HÔN ƯỚC",
-    "example": "毎日仕事が終わったあと、日本語を婚約します。 (Mỗi ngày sau giờ làm việc, tôi sẽ giao lưu với người Nhật.)"
+    "example": "3年間の交際を経て、大好きな彼女と正式に婚約しました。 (Sau 3 năm hẹn hò tìm hiểu, tôi đã chính thức làm lễ đính hôn cùng bạn gái.)"
   },
   {
     "word": "相手",
-    "meaning": "khán giả, đối tác, nửa kia",
+    "meaning": "đối phương, đối tác, bạn đời",
     "reading": "あいて",
     "sinoVietnamese": "THỦ",
-    "example": "カバンの中に必要な相手をしっかり入れて出かけました。 (Tôi nhét người cần thiết vào túi và đi ra ngoài.)"
+    "example": "ビジネスの商談を円滑に進めるためには、交渉相手の立場に立った配慮が欠かせない。 (Để đàm phán kinh doanh diễn ra thuận lợi, việc suy nghĩ cho lập trường của đối tác là điều không thể thiếu.)"
   },
   {
     "word": "知り合います",
-    "meaning": "làm quen",
+    "meaning": "quen biết nhau (lần đầu gặp gỡ)",
     "reading": "しりあいます",
     "sinoVietnamese": "TRI HỢP",
-    "example": "毎日欠かさずに、知り合いますようにしています。 (Tôi cố gắng tìm hiểu nhau mỗi ngày mà không thất bại.)"
+    "example": "日本語学校のオリエンテーションで世界各国の留学生と知り合いました。 (Trong buổi định hướng của trường tiếng Nhật, tôi đã làm quen với nhiều bạn bè quốc tế.)"
   },
   {
     "word": "平均十冥",
@@ -204,10 +204,10 @@
   },
   {
     "word": "博士",
-    "meaning": "bác sĩ",
+    "meaning": "tiến sĩ (học vị cao nhất, đã sửa nghĩa từ bác sĩ)",
     "reading": "はかせ",
     "sinoVietnamese": "",
-    "example": "博士の仕事は忙しいですが、とてもやりがいがあります。 (Công việc của bác sĩ rất bận rộn nhưng cũng rất bổ ích.)"
+    "example": "ノーベル物理学賞を受賞した高名な博士が、大学のホールで記念講演を行った。 (Vị tiến sĩ lừng danh từng nhận giải Nobel Vật lý đã có buổi thuyết trình kỷ niệm tại giảng đường đại học.)"
   },
   {
     "word": "脳",
@@ -217,25 +217,25 @@
     "example": "使いやすい脳のおかげで、毎日の生活がとても快適になりました。 (Bộ não dễ sử dụng của tôi đã giúp cuộc sống hàng ngày của tôi dễ dàng hơn nhiều.)"
   },
   {
-    "word": "ホルチン",
-    "meaning": "hoóc-môn (nội tiết tố)",
-    "reading": "ホルチン",
+    "word": "ホルモン",
+    "meaning": "hoóc-môn, nội tiết tố cơ thể (đã sửa lỗi chính tả)",
+    "reading": "ホルモン",
     "sinoVietnamese": "",
-    "example": "父から大切なホルチンを譲り受けて、大事に使っています。 (Tôi thừa kế chiếc Horchin quý giá của mình từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "成長ホルモンの分泌を促すためには、毎晩十分な質の高い睡眠を確保することが不可欠です。 (Để kích thích sự tiết hoóc-môn tăng trưởng, việc đảm bảo giấc ngủ sâu mỗi đêm là vô cùng cần thiết.)"
   },
   {
     "word": "化粧品",
-    "meaning": "mỹ phẩm",
+    "meaning": "mỹ phẩm làm đẹp",
     "reading": "けしょうひん",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりの化粧品を選びました。 (Tôi đã tham khảo ý kiến ​​của nhân viên cửa hàng và lựa chọn loại mỹ phẩm phù hợp với mình.)"
+    "example": "敏感肌でも安心して毎日使えるように、無香料で肌に優しい天然成分の化粧品を選んだ。 (Để da nhạy cảm cũng an tâm dùng hằng ngày, tôi chọn mỹ phẩm thiên nhiên dịu nhẹ không hương liệu.)"
   },
   {
     "word": "調べ",
-    "meaning": "khảo sát và nghiên cứu",
+    "meaning": "kết quả điều tra, cuộc khảo sát",
     "reading": "しらべ",
     "sinoVietnamese": "ĐIỀU",
-    "example": "店員さんに相談して、自分にぴったりの調べを選びました。 (Tôi đã tham khảo ý kiến ​​của nhân viên cửa hàng và lựa chọn nghiên cứu phù hợp với mình nhất.)"
+    "example": "警察の厳密な調べによって、防犯カメラの映像から事件の手がかりがついに特定された。 (Qua cuộc điều tra gắt gao của cảnh sát, manh mối vụ án cuối cùng đã được xác định từ hình ảnh camera.)"
   },
   {
     "word": "化粧「～をします」",

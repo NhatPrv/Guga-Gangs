@@ -1,52 +1,52 @@
 [
   {
     "word": "要ります",
-    "meaning": "cần",
-    "reading": "[ビザが～」いります",
+    "meaning": "cần thiết (cần có: ビザが要る)",
+    "reading": "いります",
     "sinoVietnamese": "YẾU",
-    "example": "毎日欠かさずに、要りますようにしています。 (Tôi cố gắng sử dụng nó mỗi ngày mà không thất bại.)"
+    "example": "海外へ旅行するときは、有効期限内のパスポートが絶対に要ります。 (Khi đi du lịch nước ngoài, hộ chiếu còn hạn là thứ tuyệt đối bắt buộc phải có.)"
   },
   {
     "word": "調べます",
-    "meaning": "tìm hiểu và điều tra",
+    "meaning": "tra cứu, điều tra (từ điển, internet)",
     "reading": "しらべます",
     "sinoVietnamese": "ĐIỀU",
-    "example": "毎日欠かさずに、調べますようにしています。 (Tôi cố gắng kiểm tra nó mỗi ngày mà không thất bại.)"
+    "example": "電車の乗り換えルートや到着時刻をスマートフォンのアプリで調べました。 (Tôi tra cứu lộ trình chuyển tàu và giờ đến trên ứng dụng điện thoại.)"
   },
   {
     "word": "直します",
-    "meaning": "sửa chữa",
+    "meaning": "sửa chữa (lỗi sai, viết lại cho đúng)",
     "reading": "なおします",
     "sinoVietnamese": "TRỰC",
-    "example": "毎日仕事が終わったあと、日本語を直します。 (Mỗi ngày sau giờ làm việc, tôi đều sửa tiếng Nhật của mình.)"
+    "example": "先生に赤ペンで直してもらった作文を、もう一度きれいに書き直しました。 (Bài văn được thầy chữa bằng bút đỏ, tôi nắn nót viết lại cho thật chuẩn.)"
   },
   {
     "word": "修理します",
-    "meaning": "sữa tươi",
+    "meaning": "sửa chữa (máy móc, xe cộ, đồ gia dụng)",
     "reading": "しゅうりします",
     "sinoVietnamese": "LÝ",
-    "example": "毎日仕事が終わったあと、日本語を修理します。 (Mỗi ngày sau giờ làm việc, tôi sửa tiếng Nhật của mình.)"
+    "example": "画面が割れてしまったスマートフォンを専門の修理店で直してもらいました。 (Chiếc điện thoại vỡ màn hình đã được thợ ở tiệm sửa chữa phục hồi lại như mới.)"
   },
   {
     "word": "電話します",
-    "meaning": "gọi",
+    "meaning": "gọi điện thoại (liên lạc bằng điện thoại)",
     "reading": "でんわします",
     "sinoVietnamese": "ĐIỆN THOẠI",
-    "example": "毎日仕事が終わったあと、日本語を電話します。 (Mỗi ngày sau giờ làm việc, tôi gọi cho bạn bằng tiếng Nhật.)"
+    "example": "仕事の都合で約束の時間に遅れそうだったので、急いで友人に電話しました。 (Vì bận việc suýt trễ giờ hẹn nên tôi vội vàng gọi điện thoại báo cho bạn.)"
   },
   {
     "word": "僕",
-    "meaning": "tôi",
+    "meaning": "tôi, mình, tớ (đại từ xưng hô thân mật của nam giới)",
     "reading": "ぼく",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白い僕を見に行きました。 (Tôi và bạn bè đến gặp tôi, điều đó thật bất thường và thú vị.)"
+    "example": "僕の将来の夢は、世界中を飛び回る国際的なジャーナリストになることです。 (Ước mơ tương lai của tớ là trở thành một nhà báo quốc tế đi khắp năm châu bốn bể.)"
   },
   {
     "word": "君",
-    "meaning": "bạn, anh, chị",
+    "meaning": "cậu, em, bạn (cách gọi thân mật với người ngang hàng hoặc nhỏ tuổi)",
     "reading": "きみ",
     "sinoVietnamese": "",
-    "example": "父から大切な君を譲り受けて、大事に使っています。 (Tôi thừa kế em quý giá của tôi từ cha tôi và tôi đã sử dụng nó một cách cẩn thận.)"
+    "example": "「君が書いたプレゼンの企画案、とても独創的で素晴らしいね。」 (\"Bản đề xuất thuyết trình mà cậu viết rất độc đáo và tuyệt vời đấy.\")"
   },
   {
     "word": "うん",
@@ -57,10 +57,10 @@
   },
   {
     "word": "ううん",
-    "meaning": "no",
+    "meaning": "không, hông (cách nói thân mật của いいえ)",
     "reading": "ううん",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なううんをしっかり入れて出かけました。 (Tôi đóng gói tất cả những vật dụng cần thiết vào túi và đi ra ngoài.)"
+    "example": "「昨日の宿題、もう終わった？」「ううん、まだ難しくて終わってないよ。」 (\"Bài tập hôm qua cậu làm xong chưa?\" \"Hông, bài khó quá tớ vẫn chưa làm xong.\")"
   },
   {
     "word": "言葉",
@@ -71,31 +71,31 @@
   },
   {
     "word": "物価",
-    "meaning": "giá, giá, giá",
+    "meaning": "giá cả sinh hoạt, mức giá thị trường",
     "reading": "ぶっか",
     "sinoVietnamese": "VẬT GIÁ",
-    "example": "日本の文化や生活に関わる物価について興味深く学びました。 (Tôi đã học được điều thú vị về văn hóa Nhật Bản và những giá cả liên quan đến cuộc sống hàng ngày.)"
+    "example": "東京は交通の利便性が非常に高い反面、地方に比べると物価が高いです。 (Tokyo giao thông đi lại cực kỳ tiện lợi nhưng bù lại giá cả sinh hoạt đắt hơn vùng quê.)"
   },
   {
     "word": "着物",
-    "meaning": "tiếng Nhật",
+    "meaning": "áo Kimono (trang phục truyền thống Nhật Bản)",
     "reading": "きもの",
     "sinoVietnamese": "TRỨ VẬT",
-    "example": "父から大切な着物を譲り受けて、大事に使っています。 (Tôi đã nhận được một bộ kimono quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "成人式の記念日に、色鮮やかな絹の着物を着て家族と記念撮影をした。 (Vào ngày lễ trưởng thành, tôi mặc bộ kimono lụa rực rỡ chụp ảnh kỷ niệm cùng gia đình.)"
   },
   {
     "word": "始め",
-    "meaning": "bắt đầu",
+    "meaning": "lúc ban đầu, sự khởi đầu",
     "reading": "はじめ",
     "sinoVietnamese": "THỦY",
-    "example": "友達と一緒に、珍しくて面白い始めを見に行きました。 (Tôi và bạn bè đã đến xem sự khởi đầu bất thường và thú vị.)"
+    "example": "仕事の始めは誰でも失敗するものだから、落ち込まずに前を向こう。 (Lúc mới bắt đầu đi làm thì ai cũng có vấp váp, đừng nản lòng mà hãy hướng về phía trước.)"
   },
   {
     "word": "終わり",
-    "meaning": "kết thúc",
+    "meaning": "sự kết thúc, phần cuối",
     "reading": "おわり",
     "sinoVietnamese": "CHUNG",
-    "example": "店員さんに相談して、自分にぴったりの終わりを選びました。 (Tôi đã tham khảo ý kiến ​​của nhân viên cửa hàng và chọn loại hoàn thiện phù hợp với mình.)"
+    "example": "長い一日の仕事の終わりに飲む一杯の温かいお茶は、何よりの癒やしです。 (Một tách trà nóng vào lúc kết thúc một ngày làm việc dài là niềm an ủi tuyệt vời nhất.)"
   },
   {
     "word": "どっち",
@@ -113,17 +113,17 @@
   },
   {
     "word": "みんなで",
-    "meaning": "mọi người",
+    "meaning": "mọi người cùng nhau làm gì đó",
     "reading": "みんなで",
     "sinoVietnamese": "",
-    "example": "父から大切なみんなでを譲り受けて、大事に使っています。 (Tôi thừa kế chiếc Minnado quý giá của mình từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "金曜日の夜に、オフィスの仲間みんなで居酒屋へ行って打ち上げをした。 (Vào tối thứ Sáu, toàn bộ anh em trong văn phòng cùng nhau đi quán nhậu ăn mừng.)"
   },
   {
     "word": "～けど",
-    "meaning": "nhưng mà (văn nói)",
+    "meaning": "nhưng mà... (từ nối thân mật trong văn nói)",
     "reading": "～けど",
     "sinoVietnamese": "",
-    "example": "健康的な生活を送るために、毎日新鮮な～けどをとるようにしています。 (Để có một cuộc sống khỏe mạnh, tôi cố gắng chữa lành vết loét mỗi ngày.)"
+    "example": "このケーキ、見た目は少し地味だけど、味は驚くほど濃厚でおいしいよ。 (Chiếc bánh ngọt này nhìn bề ngoài hơi giản dị nhưng vị thì đậm đà ngon đến bất ngờ đấy.)"
   },
   {
     "word": "国へ帰るの",
@@ -134,23 +134,23 @@
   },
   {
     "word": "どうしようかな",
-    "meaning": "cái gì",
+    "meaning": "phải làm sao bây giờ nhỉ? (tự nhủ khi phân vân)",
     "reading": "どうしようかな",
     "sinoVietnamese": "",
-    "example": "田中さんはいつも親切で、とてもどうしようかなな人です。 (Anh Tanaka luôn là người tốt bụng và rất tốt bụng.)"
+    "example": "雨が降ってきたけれど傘がないな、コンビニで買おうかどうしようかな。 (Trời bắt đầu đổ mưa mà không mang ô, nên vào cửa hàng tiện lợi mua ô hay làm sao bây giờ nhỉ?)"
   },
   {
     "word": "良かったら",
-    "meaning": "nếu bạn thích nó",
+    "meaning": "nếu được, nếu bạn không phiền (lời mời lịch sự nhẹ nhàng)",
     "reading": "良かったら",
     "sinoVietnamese": "LƯƠNG",
-    "example": "日本の文化や生活に関わる良かったらについて興味深く学びました。 (Tôi rất thích thú tìm hiểu những điều tốt đẹp liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+    "example": "田舎から甘いリンゴがたくさん届いたので、良かったら少し召し上がりませんか。 (Dưới quê vừa gửi lên nhiều táo ngọt, nếu bạn không phiền thì dùng thử một ít nhé.)"
   },
   {
     "word": "色々",
-    "meaning": "nhiều thứ, đa dạng",
+    "meaning": "nhiều điều, đa dạng thứ",
     "reading": "いろいろ",
     "sinoVietnamese": "SẮC",
-    "example": "父から大切な色々を譲り受けて、大事に使っています。 (Tôi thừa hưởng nhiều thứ quan trọng từ cha tôi và tôi sử dụng chúng một cách cẩn thận.)"
+    "example": "日本に留学している間に、文化や習慣の違いについて色々と体験しました。 (Trong thời gian du học tại Nhật, tôi đã trải nghiệm nhiều điều về sự khác biệt văn hóa và tập quán.)"
   }
 ]

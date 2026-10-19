@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-19T17:08:08.512Z",
+  "generatedAt": "2026-10-19T19:12:56.770Z",
   "stats": {
     "totalCurricula": 7,
     "totalUnits": 71,
-    "totalVocab": 4264,
+    "totalVocab": 4263,
     "totalKanji": 723
   },
   "curricula": [
@@ -171,7 +171,7 @@
           "description": "Từ vựng và Hán tự trọng tâm Bài 16 giáo trình Minna no Nihongo I",
           "vocabPath": "data/minna-no-nihongo-n5/unit-16/vocabulary.json",
           "kanjiPath": "data/minna-no-nihongo-n5/unit-16/kanji.json",
-          "vocabCount": 46,
+          "vocabCount": 45,
           "kanjiCount": 6
         },
         {

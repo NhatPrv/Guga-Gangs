@@ -1,122 +1,122 @@
 [
   {
     "word": "増えます",
-    "meaning": "tăng, tăng",
+    "meaning": "tăng lên (tự động từ: số lượng, cân nặng, xuất khẩu)",
     "reading": "ふえます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、増えますようにしています。 (Tôi cố gắng tăng nó mỗi ngày mà không thất bại.)"
+    "example": "最近この街に住む外国人観光客の数が急速に増えています。 (Dạo gần đây số lượng du khách nước ngoài đến thành phố này đang tăng vọt.)"
   },
   {
     "word": "減ります",
-    "meaning": "giảm, giảm",
+    "meaning": "giảm đi (tự động từ: dân số, chi phí, rác thải)",
     "reading": "へります",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、減りますようにしています。 (Tôi cố gắng giảm nó mỗi ngày mà không bỏ sót nó.)"
+    "example": "ペーパーレス化を進めたことで、職場の紙の消費量が減りました。 (Đẩy mạnh số hóa không dùng giấy đã giúp lượng giấy tiêu thụ ở văn phòng giảm rõ rệt.)"
   },
   {
     "word": "上がります",
-    "meaning": "tăng, tăng",
+    "meaning": "tăng giá, đi lên (tự động từ: giá cả: 物価が上がる)",
     "reading": "あがります",
     "sinoVietnamese": "THƯỢNG",
-    "example": "毎日欠かさずに、上がりますようにしています。 (Tôi cố gắng cải thiện bản thân mỗi ngày mà không thất bại.)"
+    "example": "円安の影響で、輸入品の食料品の値段が上がっています。 (Do ảnh hưởng đồng Yên giảm giá, giá các mặt hàng thực phẩm nhập khẩu tăng lên.)"
   },
   {
     "word": "下がります",
-    "meaning": "giảm, giảm",
+    "meaning": "hạ giá, tụt xuống (tự động từ: nhiệt độ, giá cả)",
     "reading": "さがります",
     "sinoVietnamese": "HẠ",
-    "example": "毎日欠かさずに、下がりますようにしています。 (Tôi cố gắng duy trì nó mỗi ngày mà không thất bại.)"
+    "example": "夕方から冷たい雨が降り、気温が急激に下がりました。 (Từ chiều có mưa lạnh trút xuống khiến nhiệt độ tụt dốc nhanh chóng.)"
   },
   {
     "word": "切れます",
-    "meaning": "bị hỏng",
+    "meaning": "bị đứt (dây), hết (pin: 電池が切れる)",
     "reading": "きれます",
     "sinoVietnamese": "THIẾT",
-    "example": "毎日欠かさずに、切れますようにしています。 (Tôi cố gắng cắt nó mỗi ngày mà không thất bại.)"
+    "example": "重い荷物を持ち上げた拍子に、紙袋の取っ手が切れてしまいました。 (Đúng lúc nhấc túi đồ nặng lên thì quai túi giấy bị đứt phụt mất.)"
   },
   {
     "word": "とれます",
-    "meaning": "trượt đi",
+    "meaning": "bị tuột, bị rơi ra (cúc áo: ボタンがとれる)",
     "reading": "とれます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、とれますようにしています。 (Tôi cố gắng dùng nó mỗi ngày mà không thất bại.)"
+    "example": "コートの第一ボタンがとれてしまったので、針と糸で縫い直しました。 (Cúc đầu tiên của áo khoác bị đứt tuột nên tôi lấy kim chỉ khâu lại.)"
   },
   {
-    "word": "おちゃます",
-    "meaning": "ngã",
-    "reading": "おちゃます",
+    "word": "落ちます",
+    "meaning": "rơi, rớt xuống [đồ đạc, quả: 荷物/果物が落ちる] (đã sửa lỗi chính tả)",
+    "reading": "おちます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、おちゃますようにしています。 (Tôi cố gắng vui vẻ với nó mỗi ngày mà không thất bại.)"
+    "example": "秋風が木々を揺らし、枝の上から赤く熟したリンゴの実がポトリと落ちた。 (Gió thu lay động tán cây, từ trên cành một quả táo chín đỏ mọng rơi rụng xuống đất.)"
   },
   {
     "word": "丈夫「な」",
-    "meaning": "chắc chắn, bền bỉ",
+    "meaning": "chắc chắn, bền bỉ (dùng cho đồ vật bền, hoặc sức khỏe dẻo dai)",
     "reading": "じょうぶ「な」",
     "sinoVietnamese": "",
     "example": "休日は丈夫と一緒に美味しいご飯を食べに行きます。 (Vào những ngày nghỉ, tôi đi ăn đồ ăn ngon với Tsuyoshi.)"
   },
   {
     "word": "変「な」",
-    "meaning": "kỳ lạ, kỳ quặc",
+    "meaning": "kỳ lạ, kỳ quặc, bất thường",
     "reading": "へん「な」",
     "sinoVietnamese": "BIẾN",
-    "example": "友達と一緒に、珍しくて面白い変を見に行きました。 (Tôi và bạn bè đã đến xem một số sự kiện bất thường và thú vị.)"
+    "example": "真夜中の静まり返った部屋の奥から、何やらガタガタと変な物音が聞こえた。 (Từ sâu trong căn phòng tĩnh mịch giữa đêm khuya, tôi nghe thấy tiếng động lách cách rất kỳ lạ.)"
   },
   {
     "word": "幸せ",
-    "meaning": "hạnh phúc",
+    "meaning": "hạnh phúc, niềm vui sướng an lành",
     "reading": "しあわせ",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りの幸せを長く愛用しています。 (Với sự chăm sóc cẩn thận, bạn có thể sử dụng hạnh phúc yêu thích của mình trong một thời gian dài.)"
+    "example": "家族みんなが病気もせず、笑顔で食卓を囲める日常が何よりの幸せです。 (Cả gia đình không ốm đau gì, cùng quây quần bên mâm cơm rộn rã tiếng cười là niềm hạnh phúc lớn nhất.)"
   },
   {
     "word": "うまい",
-    "meaning": "ngon miệng, khéo léo, giỏi",
+    "meaning": "ngon miệng, khéo léo (văn nói thân mật)",
     "reading": "うまい",
     "sinoVietnamese": "",
-    "example": "この部屋は明るくて静かで、とてもうまい雰囲気が漂っています。 (Căn phòng này sáng sủa, yên tĩnh và có bầu không khí tuyệt vời.)"
+    "example": "運動した後に飲む冷たい一杯の水は本当にうまいですね。 (Sau khi vận động xong, uống một cốc nước mát lạnh thật là đã!)"
   },
   {
     "word": "ガソリン",
-    "meaning": "xăng",
+    "meaning": "nhiên liệu xăng",
     "reading": "ガソリン",
     "sinoVietnamese": "",
-    "example": "遠くへドライブに出かける前に、ガソリンスタンドで満タンに給油しました。(Trước khi lái xe đi chơi xa, tôi đã đổ đầy bình tại trạm xăng.)"
+    "example": "高速道路に乗る前に、ガソリンスタンドで満タンに給油しました。 (Trước khi vào đường cao tốc, tôi ghé trạm xăng đổ đầy bình nhiên liệu.)"
   },
   {
     "word": "暖房",
-    "meaning": "thiết bị sưởi ấm, lò sưởi, điều hòa không khí",
+    "meaning": "lò sưởi, chế độ sưởi ấm mùa đông",
     "reading": "だんぼう",
     "sinoVietnamese": "NOÃN",
-    "example": "丁寧にお手入れをしながら、お気に入りの暖房を長く愛用しています。 (Nếu cẩn thận, bạn có thể sử dụng máy sưởi yêu thích của mình trong một thời gian dài.)"
+    "example": "雪が降り積もって冷え込んできたので、リビングの暖房をつけて部屋を暖めた。 (Tuyết rơi dày trời trở lạnh căm căm nên tôi bật máy sưởi phòng khách cho ấm áp.)"
   },
   {
     "word": "冷房",
-    "meaning": "thiết bị làm mát, điều hòa không khí",
+    "meaning": "máy lạnh, chế độ làm mát mùa hè",
     "reading": "れいぼう",
     "sinoVietnamese": "LÃNH",
-    "example": "父から大切な冷房を譲り受けて、大事に使っています。 (Tôi thừa hưởng một chiếc điều hòa quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "真夏の厳しい猛暑が続く日は、無理をせず室内の冷房を適切に利用しましょう。 (Những ngày hè nắng nóng gay gắt kéo dài, chúng ta hãy bật điều hòa mát trong phòng để giữ sức.)"
   },
   {
     "word": "センス",
-    "meaning": "có năng khiếu",
+    "meaning": "gu thẩm mỹ, cảm khiếu tinh tế",
     "reading": "センス",
     "sinoVietnamese": "",
-    "example": "彼女はいつもおしゃれで、洋服のコーディネートに素晴らしいセンスがあります。(Cô ấy luôn ăn mặc thời trang và có gu thẩm mỹ tuyệt vời khi phối quần áo.)"
+    "example": "彼女はいつも色使いが素敵な服を着ていて、ファッションセンスが良いです。 (Cô ấy luôn diện những trang phục phối màu tuyệt đẹp, gu thời trang rất tinh tế.)"
   },
   {
     "word": "今にも",
-    "meaning": "bất kỳ lúc nào, sắp sửa",
+    "meaning": "sắp sửa... đến nơi rồi (chuẩn bị xảy ra ngay)",
     "reading": "いまにも",
     "sinoVietnamese": "KIM",
-    "example": "昨日の今にもは久しぶりにゆっくり家で休むことができました。 (Hôm qua, lần đầu tiên sau một thời gian dài tôi đã có thể thư giãn ở nhà.)"
+    "example": "空が真っ黒になってきて、今にも激しい夕立が降り出しそうです。 (Trời tối sầm lại, trông như sắp đổ một trận mưa rào dữ dội đến nơi rồi.)"
   },
   {
     "word": "わあ",
-    "meaning": "Oh!",
+    "meaning": "oa! chà! (thán từ thốt lên khi kinh ngạc, thích thú)",
     "reading": "わあ",
     "sinoVietnamese": "",
-    "example": "父から大切なわあを譲り受けて、大事に使っています。 (Tôi thừa hưởng một waa quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "夜空に色とりどりの巨大な花火が打ち上がると、観客から「わあ」と大歓声が上がった。 (Khi chùm pháo hoa khổng lồ rực rỡ bừng sáng trên trời đêm, khán giả đồng thanh reo lên: \"Oa, đẹp quá!\")"
   },
   {
     "word": "会員",
@@ -127,10 +127,10 @@
   },
   {
     "word": "適当「な」",
-    "meaning": "thích hợp, vừa phải",
+    "meaning": "thích hợp, vừa phải, phù hợp",
     "reading": "てきとう「な」",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わる適当について興味深く学びました。 (Tôi đã học được những điều thú vị về văn hóa và cuộc sống Nhật Bản.)"
+    "example": "健康を保つためには、自分の体力に合った適当な運動を毎日継続することが大切だ。 (Để giữ sức khỏe, việc duy trì bài tập thể dục vừa sức với thể lực mỗi ngày là rất quan trọng.)"
   },
   {
     "word": "年齢",
@@ -141,38 +141,38 @@
   },
   {
     "word": "収入",
-    "meaning": "thu nhập",
+    "meaning": "thu nhập, tiền kiếm được hằng tháng",
     "reading": "しゅうにゅう",
     "sinoVietnamese": "NHẬP",
-    "example": "丁寧にお手入れをしながら、お気に入りの収入を長く愛用しています。 (Với sự cẩn thận cẩn thận, bạn có thể sử dụng thu nhập yêu thích của mình trong một thời gian dài.)"
+    "example": "毎月の安定した給与収入の中から、将来の投資資金を計画的に積み立てている。 (Từ nguồn thu nhập lương ổn định hàng tháng, tôi trích một phần tích lũy cho quỹ đầu tư tương lai.)"
   },
   {
     "word": "ぴったり",
-    "meaning": "vừa phải, đúng",
+    "meaning": "vừa khít, vừa vặn hoàn hảo",
     "reading": "ぴったり",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりのぴったりを選びました。 (Tôi đã tham khảo ý kiến ​​của nhân viên cửa hàng và chọn được chiếc vừa vặn nhất với mình.)"
+    "example": "試着室で履いてみたジーンズのウエストが、まるでオーダーメイドのようにぴったりだった。 (Chiếc quần bò tôi thử trong phòng thay đồ vừa khít vòng eo như thể được may đo riêng vậy.)"
   },
   {
     "word": "そのうえ",
-    "meaning": "hơn nữa",
+    "meaning": "hơn nữa, thêm vào đó (bổ sung lý do cùng chiều)",
     "reading": "そのうえ",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いそのうえを見に行きました。 (Tôi và bạn tôi đi xem có gì lạ và thú vị hơn.)"
+    "example": "この定食屋は値段がとてもリーズナブルで、そのうえボリュームも満点です。 (Quán cơm bình dân này giá cả rất phải chăng, hơn nữa suất ăn lại đầy đặn no nê.)"
   },
   {
     "word": "～と言います",
-    "meaning": "được gọi là ～, có tên là ～",
+    "meaning": "được gọi là ～, có tên gọi là ～",
     "reading": "～といいます",
     "sinoVietnamese": "NGÔN",
-    "example": "毎日欠かさずに、～と言いますようにしています。 (Tôi cố gắng nói ~ mỗi ngày mà không thất bại.)"
+    "example": "この可愛らしい小さな黄色い花は、日本語でタンポポと言います。 (Loài hoa nhỏ xinh xắn màu vàng này trong tiếng Nhật được gọi là hoa bồ công anh.)"
   },
   {
     "word": "ばら",
-    "meaning": "hoa hồng",
+    "meaning": "hoa hồng (loài hoa biểu tượng của tình yêu)",
     "reading": "ばら",
     "sinoVietnamese": "",
-    "example": "父から大切なばらを譲り受けて、大事に使っています。 (Tôi được thừa hưởng một bông hồng quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "母の日の感謝の気持ちを込めて、真っ赤なばらの花束をプレゼントした。 (Gửi gắm lòng biết ơn nhân Ngày của Mẹ, tôi đã tặng bà một bó hoa hồng đỏ thắm.)"
   },
   {
     "word": "ドライブ",

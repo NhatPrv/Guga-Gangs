@@ -1,59 +1,59 @@
 [
   {
     "word": "思います",
-    "meaning": "nghĩ",
+    "meaning": "nghĩ rằng, cho rằng (bày tỏ quan điểm cá nhân)",
     "reading": "おもいます",
     "sinoVietnamese": "TƯ",
-    "example": "毎日欠かさずに、思いますようにしています。 (Tôi cố gắng làm những gì tôi muốn mỗi ngày mà không thất bại.)"
+    "example": "日本で生活するためには、日常会話の能力が最も大切だと思います。 (Tôi cho rằng để sinh sống ở Nhật, khả năng giao tiếp thường nhật là quan trọng nhất.)"
   },
   {
     "word": "言います",
-    "meaning": "nói",
+    "meaning": "nói rằng (phát biểu lời nói)",
     "reading": "いいます",
     "sinoVietnamese": "NGÔN",
-    "example": "毎日欠かさずに、言いますようにしています。 (Tôi cố gắng nói điều đó mỗi ngày mà không thất bại.)"
+    "example": "先生は「諦めずに努力を続ければ必ず道は開ける」と言いました。 (Thầy giáo từng nói: \"Nếu không bỏ cuộc mà kiên trì nỗ lực thì ắt sẽ mở ra con đường\".)"
   },
   {
     "word": "足ります",
-    "meaning": "đủ rồi",
+    "meaning": "đủ, đầy đủ (tiền nong, thời gian: 時間が足りる)",
     "reading": "たります",
     "sinoVietnamese": "TÚC",
-    "example": "毎日欠かさずに、足りますようにしています。 (Tôi cố gắng có đủ mà không thiếu nó mỗi ngày.)"
+    "example": "試験の時間は60分間ありましたが、問題を解くのに十分足りました。 (Thời gian thi kéo dài 60 phút và hoàn toàn đủ để tôi hoàn thành hết bài làm.)"
   },
   {
     "word": "勝ちます",
-    "meaning": "đã thắng",
+    "meaning": "chiến thắng (trận đấu, đối thủ: 試合に勝つ)",
     "reading": "かちます",
     "sinoVietnamese": "THẮNG",
-    "example": "毎日欠かさずに、勝ちますようにしています。 (Tôi cố gắng giành chiến thắng mỗi ngày mà không thất bại.)"
+    "example": "チーム全員で力を合わせて、強豪校との決勝戦で見事に勝ちました。 (Toàn đội cùng nhau hợp sức và đã xuất sắc giành chiến thắng trong trận chung kết.)"
   },
   {
     "word": "負けます",
-    "meaning": "thua",
+    "meaning": "thua cuộc, thất bại (試合に負ける)",
     "reading": "まけます",
     "sinoVietnamese": "PHỤ",
-    "example": "毎日欠かさずに、負けますようにしています。 (Tôi cố gắng thua mà không thất bại mỗi ngày.)"
+    "example": "試合に負けて悔しかったですが、全力を出し切ったので後悔はありません。 (Thua trận tuy rất tiếc nuối nhưng vì đã dốc hết sức nên tôi không hề hối hận.)"
   },
   {
     "word": "役に立ちます",
-    "meaning": "giúp đỡ",
+    "meaning": "có ích, giúp ích (hữu dụng trong đời sống)",
     "reading": "やくにたちます",
     "sinoVietnamese": "LẬP",
-    "example": "毎日欠かさずに、役に立ちますようにしています。 (Tôi cố gắng trở nên hữu ích mỗi ngày mà không thất bại.)"
+    "example": "学生時代に培ったパソコンのスキルが、現在の職場で大いに役に立っています。 (Kỹ năng tin học tích lũy thời sinh viên đang giúp ích rất nhiều cho công việc hiện tại.)"
   },
   {
     "word": "むだ",
-    "meaning": "vô ích",
+    "meaning": "lãng phí, vô ích, không cần thiết",
     "reading": "むだ",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりのむだを選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn chiếc Muda phù hợp với mình.)"
+    "example": "使っていない部屋の照明をつけっぱなしにしておくのは、電気の無駄です。 (Cứ để đèn sáng trưng ở căn phòng không ai dùng là một sự lãng phí điện năng.)"
   },
   {
     "word": "不便",
-    "meaning": "sự bất tiện",
+    "meaning": "bất tiện, không thuận tiện",
     "reading": "ふべん",
     "sinoVietnamese": "BẤT TIỆN",
-    "example": "日本の文化や生活に関わる不便について興味深く学びました。 (Tôi rất thích thú tìm hiểu về những bất tiện liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+    "example": "近くにスーパーや駅がない地域に住むと、毎日の買い物が少し不便です。 (Sống ở khu vực gần nhà không có siêu thị hay ga tàu thì việc mua sắm hằng ngày hơi bất tiện.)"
   },
   {
     "word": "同じ",
@@ -64,17 +64,17 @@
   },
   {
     "word": "すごい",
-    "meaning": "tuyệt vời",
+    "meaning": "tuyệt vời, ghê gớm, cừ khôi (khen ngợi)",
     "reading": "すごい",
     "sinoVietnamese": "",
-    "example": "この本はとてもすごいので、おすすめです。 (Cuốn sách này thật tuyệt vời và tôi đánh giá cao nó.)"
+    "example": "彼はわずか半年で難関の日本語能力試験N1に合格したなんて、本当にすごいです。 (Anh ấy chỉ mất vỏn vẹn nửa năm để đỗ kỳ thi JLPT N1 khó nhằn, thực sự quá đỉnh.)"
   },
   {
     "word": "首相",
-    "meaning": "thủ tướng",
+    "meaning": "thủ tướng chính phủ",
     "reading": "しゅしょう",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わる首相について興味深く学びました。 (Tôi được biết rất thú vị về Thủ tướng, người có liên quan đến văn hóa và đời sống Nhật Bản.)"
+    "example": "内外の重要課題について説明するため、首相が国会で所信表明演説を行った。 (Để giải trình về các vấn đề trọng đại trong và ngoài nước, thủ tướng đã đọc diễn văn tại quốc hội.)"
   },
   {
     "word": "大統領",
@@ -85,10 +85,10 @@
   },
   {
     "word": "政治",
-    "meaning": "chính trị",
+    "meaning": "chính trị, nền chính trị quốc gia",
     "reading": "せいじ",
     "sinoVietnamese": "",
-    "example": "父から大切な政治を譲り受けて、大事に使っています。 (Tôi kế thừa quan điểm chính trị quan trọng từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "若い世代も無関心にならず、国の将来を決める政治に積極的に関心を持つべきだ。 (Thế hệ trẻ cũng không nên thờ ơ mà cần tích cực quan tâm đến nền chính trị định đoạt tương lai đất nước.)"
   },
   {
     "word": "ニュース",
@@ -99,10 +99,10 @@
   },
   {
     "word": "スピーチ",
-    "meaning": "lời nói",
+    "meaning": "bài phát biểu, bài diễn văn (speech)",
     "reading": "スピーチ",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いスピーチを見に行きました。 (Tôi và bạn bè đã đến xem một bài phát biểu thú vị và khác thường.)"
+    "example": "友人の結婚披露宴で、新郎新婦へのお祝いのスピーチを心を込めて行いました。 (Tại tiệc cưới của bạn thân, tôi đã dành trọn tấm lòng phát biểu chúc mừng cô dâu chú rể.)"
   },
   {
     "word": "試合",
@@ -127,24 +127,24 @@
   },
   {
     "word": "話",
-    "meaning": "câu chuyện",
+    "meaning": "câu chuyện, cuộc trò chuyện",
     "reading": "はなし",
     "sinoVietnamese": "THOẠI",
-    "example": "父から大切な話を譲り受けて、大事に使っています。 (Tôi kế thừa những câu chuyện quan trọng từ cha tôi và sử dụng chúng một cách cẩn thận.)"
+    "example": "祖母から昔の街の様子や暮らしについての興味深い話をたくさん聞きました。 (Tôi đã được nghe bà kể nhiều câu chuyện thú vị về cuộc sống và phố phường ngày xưa.)"
   },
   {
     "word": "ユーモア",
-    "meaning": "hài hước",
+    "meaning": "khiếu hài hước, tính khôi hài",
     "reading": "ユーモア",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わるユーモアについて興味深く学びました。 (Tôi đã tìm hiểu một cách thú vị về sự hài hước gắn liền với văn hóa và cuộc sống Nhật Bản.)"
+    "example": "課長はいつもユーモアを交えて話してくれるので、職場の雰囲気が明るくなります。 (Trưởng phòng nói chuyện lúc nào cũng pha chút hóm hỉnh nên không khí nơi làm việc rất vui vẻ.)"
   },
   {
     "word": "デザイン",
-    "meaning": "thiết kế",
+    "meaning": "kiểu dáng thiết kế (design)",
     "reading": "デザイン",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いデザインを見に行きました。 (Tôi và bạn tôi đã đi xem một số thiết kế khác thường và thú vị.)"
+    "example": "機能性が高いうえに、シンプルで洗練されたデザインの家具が気に入っています。 (Tôi rất ưng món đồ nội thất này vì vừa tiện dụng lại có thiết kế tối giản, tinh tế.)"
   },
   {
     "word": "交通",
@@ -162,31 +162,31 @@
   },
   {
     "word": "最近",
-    "meaning": "gần đây",
+    "meaning": "dạo gần đây, thời gian gần đây",
     "reading": "さいきん",
     "sinoVietnamese": "CẬN",
-    "example": "父から大切な最近を譲り受けて、大事に使っています。 (Tôi thừa hưởng một thứ quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "最近は気温の寒暖差が激しいので、体調管理に十分気をつけて過ごしています。 (Dạo gần đây nhiệt độ chênh lệch nóng lạnh thất thường nên tôi rất chú ý giữ gìn sức khỏe.)"
   },
   {
     "word": "たぶん",
-    "meaning": "chắc chắn rồi, có thể",
+    "meaning": "có lẽ, có thể (phỏng đoán khả năng xảy ra khoảng 70-80%)",
     "reading": "たぶん",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なたぶんをしっかり入れて出かけました。 (Tôi gói ghém mọi thứ cần thiết vào túi rồi đi ra ngoài.)"
+    "example": "西の空に黒い雨雲が広がってきたので、たぶん夕方には雨が降り出すでしょう。 (Mây đen giăng kín bầu trời phía tây nên có lẽ đến chiều muộn trời sẽ bắt đầu đổ mưa.)"
   },
   {
     "word": "きっと",
-    "meaning": "chắc chắn, chắc chắn",
+    "meaning": "chắc chắn sẽ, nhất định (thể hiện sự tin tưởng gần như tuyệt đối)",
     "reading": "きっと",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いきっとを見に行きました。 (Tôi và bạn bè đã đến xem Kitto khác thường và thú vị.)"
+    "example": "毎日の努力を欠かさず積み重ねてきたのだから、明日の試験はきっと合格できます。 (Vì đã nỗ lực chăm chỉ mỗi ngày nên kỳ thi ngày mai chắc chắn bạn sẽ vượt qua được thôi.)"
   },
   {
     "word": "本当に",
-    "meaning": "thực sự",
+    "meaning": "thực sự, quả thật là (nhấn mạnh sự thật)",
     "reading": "ほんとうに",
     "sinoVietnamese": "BẢN",
-    "example": "友達と一緒に、珍しくて面白い本当にを見に行きました。 (Bạn bè của tôi và tôi đã đến xem nơi thực sự khác thường và thú vị này.)"
+    "example": "困っていたときに親身になって助けていただき、本当にありがとうございました。 (Lúc gặp khó khăn được bạn hết lòng giúp đỡ, tôi thực sự cảm ơn bạn rất nhiều.)"
   },
   {
     "word": "そんなに",
@@ -197,10 +197,10 @@
   },
   {
     "word": "～について",
-    "meaning": "về vấn đề ～",
+    "meaning": "về vấn đề ～ (chỉ đối tượng nghiên cứu, thảo luận)",
     "reading": "～について",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りの～についてを長く愛用しています。 (Tôi đã sử dụng những món đồ yêu thích của mình từ lâu, giữ gìn cẩn thận.)"
+    "example": "ゼミの授業で、日本の少子高齢化問題について白熱した議論を交わしました。 (Trong giờ thảo luận chuyên đề, chúng tôi đã tranh luận sôi nổi về vấn đề già hóa dân số ở Nhật.)"
   },
   {
     "word": "しかたがありません",
@@ -211,17 +211,17 @@
   },
   {
     "word": "しばらくですね",
-    "meaning": "đã lâu không gặp",
+    "meaning": "đã lâu không gặp bạn nhỉ! (lời chào khi lâu ngày tái ngộ)",
     "reading": "しばらくですね",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わるしばらくですねについて興味深く学びました。 (Tôi đã tìm hiểu rất thú vị về khoảng thời gian liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+    "example": "同窓会で旧友の顔を見て、「やあ、しばらくですね。元気だった？」と声をかけた。 (Gặp lại bạn cũ ở buổi họp lớp, tôi cất tiếng chào: \"Chào cậu, lâu lắm rồi không gặp nhỉ. Vẫn khỏe chứ?\")"
   },
   {
     "word": "～でも飲みませんか",
-    "meaning": "cà phê",
+    "meaning": "uống chút ～ nhé? (lời rủ rê dùng đồ uống nhẹ nhàng)",
     "reading": "～でものみませんか",
     "sinoVietnamese": "ẨM",
-    "example": "カバンの中に必要な～でも飲みませんかをしっかり入れて出かけました。 (Tôi đóng gói tất cả những vật dụng cần thiết vào túi và đi ra ngoài.)"
+    "example": "仕事が一区切りついたので、駅前のカフェで温かいコーヒーでも飲みませんか。 (Công việc xong xuôi một chặng rồi, mình ra quán cà phê trước ga uống chút cà phê nóng nhé?)"
   },
   {
     "word": "見ないと。。。",
@@ -232,16 +232,16 @@
   },
   {
     "word": "もちろん",
-    "meaning": "tất nhiên",
+    "meaning": "tất nhiên, đương nhiên rồi",
     "reading": "もちろん",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りのもちろんを長く愛用しています。 (Tất nhiên là tôi đã sử dụng chiếc yêu thích của mình từ lâu rồi, giữ gìn cẩn thận.)"
+    "example": "「今週末の歓迎会、あなたも参加できる？」「ええ、もちろん喜んで参加します。」 (\"Buổi tiệc chào mừng cuối tuần này bạn tham gia được chứ?\" \"Vâng, tất nhiên tôi rất sẵn lòng tham gia.\")"
   },
   {
     "word": "カンガルー",
-    "meaning": "chuột túi",
+    "meaning": "chuột túi kangaroo (động vật biểu tượng của nước Úc)",
     "reading": "カンガルー",
     "sinoVietnamese": "",
-    "example": "父から大切なカンガルを譲り受けて、大事に使っています。 (Tôi thừa hưởng một con Kangal quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "オーストラリアの自然公園で、お腹の袋に赤ちゃんを入れたカンガルーを見学した。 (Tại công viên tự nhiên ở Úc, tôi đã được tận mắt thấy chú chuột túi mang con nhỏ trong túi bụng.)"
   }
 ]

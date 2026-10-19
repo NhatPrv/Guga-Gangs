@@ -1,143 +1,143 @@
 [
   {
     "word": "つけます II",
-    "meaning": "bật lên",
-    "reading": "つけます II",
+    "meaning": "bật (đèn, điều hòa: 電気を～)",
+    "reading": "つけます",
     "sinoVietnamese": "",
-    "example": "時間があるときは、自分のペースでゆっくりつけますのが好きです。 (Khi có thời gian, tôi thích mặc nó một cách chậm rãi theo nhịp độ của riêng mình.)"
+    "example": "部屋が暗くなってきたので、天井の電気をつけて明るくしました。 (Trời tối dần nên tôi bật đèn trần lên cho căn phòng sáng sủa.)"
   },
   {
     "word": "消します",
-    "meaning": "tắt",
-    "reading": "けしますＩ",
+    "meaning": "tắt (điện, tivi, máy móc)",
+    "reading": "けします",
     "sinoVietnamese": "TIÊU",
-    "example": "毎日仕事が終わったあと、日本語を消します。 (Mỗi ngày sau giờ làm việc, tôi đều xóa tiếng Nhật.)"
+    "example": "部屋を出て外出するときは、必ずエアコンのスイッチを消してください。 (Khi rời khỏi phòng đi ra ngoài, nhất định hãy tắt công tắc máy điều hòa nhé.)"
   },
   {
     "word": "開けます",
-    "meaning": "mở",
-    "reading": "あけます II",
+    "meaning": "mở (cửa sổ, cửa ra vào, sách)",
+    "reading": "あけます",
     "sinoVietnamese": "KHAI",
-    "example": "毎日欠かさずに、開けますようにしています。 (Tôi cố gắng mở nó mỗi ngày mà không thất bại.)"
+    "example": "空気を入れ替えるために、リビングの大きな窓を開けました。 (Để không khí trong phòng được lưu thông, tôi mở toang cánh cửa sổ lớn ở phòng khách.)"
   },
   {
     "word": "閉めます",
-    "meaning": "đóng",
-    "reading": "しめます II",
+    "meaning": "đóng (cửa sổ, cửa ra vào)",
+    "reading": "しめます",
     "sinoVietnamese": "BẾ",
-    "example": "毎日欠かさずに、閉めますようにしています。 (Tôi cố gắng đóng nó mỗi ngày mà không thất bại.)"
+    "example": "外から冷たい風が吹き込んできたので、窓をしっかり閉めました。 (Vì gió lạnh bên ngoài lùa vào nên tôi đóng chặt cửa sổ lại.)"
   },
   {
     "word": "急ぎます",
-    "meaning": "nhanh lên",
-    "reading": "いそぎます I",
+    "meaning": "khẩn trương, vội vã",
+    "reading": "いそぎます",
     "sinoVietnamese": "CẤP",
-    "example": "毎日欠かさずに、急ぎますようにしています。 (Tôi cố gắng nhanh lên để không bỏ lỡ nó mỗi ngày.)"
+    "example": "電車の発車時刻が迫っているので、駅の階段を急いで駆け上がりました。 (Giờ tàu chạy đã cận kề nên tôi vội vã rảo bước chạy nhanh lên cầu thang ga.)"
   },
   {
     "word": "待ちます",
-    "meaning": "chờ đợi",
-    "reading": "まちます I",
+    "meaning": "chờ đợi (ai đó, xe buýt)",
+    "reading": "まちます",
     "sinoVietnamese": "ĐÃI",
-    "example": "毎日欠かさずに、待ちますようにしています。 (Tôi cố gắng chờ đợi mỗi ngày mà không thất bại.)"
+    "example": "駅前の喫茶店で温かいコーヒーを飲みながら友達が来るのを待ちました。 (Ngồi nhâm nhi tách cà phê ấm ở quán nước trước ga, tôi đợi người bạn đến.)"
   },
   {
     "word": "止めます",
-    "meaning": "chiếc ô, chiếc dù",
-    "reading": "とめます II",
+    "meaning": "dừng đỗ (xe ô tô, xe máy)",
+    "reading": "とめます",
     "sinoVietnamese": "CHỈ",
-    "example": "毎日欠かさずに、止めますようにしています。 (Tôi cố gắng ngăn chặn nó mỗi ngày mà không thất bại.)"
+    "example": "指定されたコインパーキングに車をバックできちんと止めました。 (Tôi lùi xe đỗ cẩn thận và ngay ngắn vào bãi đỗ xe trả tiền tự động quy định.)"
   },
   {
     "word": "曲がります [右へ～]",
-    "meaning": "rẽ, quẹo [về bên phải]",
-    "reading": "まがります I [みぎへ～]",
+    "meaning": "rẽ (sang phải/trái)",
+    "reading": "まがります",
     "sinoVietnamese": "HỮU",
-    "example": "次の交差点を右へ曲がると、左手に駅が見えます。(Hễ rẽ phải ở ngã tư tiếp theo, bạn sẽ nhìn thấy nhà ga ở bên tay trái.)"
+    "example": "次の大きな交差点を右へ曲がると、左手に郵便局が見えてきます。 (Rẽ phải ở ngã tư lớn tiếp theo là bạn sẽ thấy bưu điện nằm ở phía tay trái.)"
   },
   {
     "word": "持ちます",
-    "meaning": "mang, giữ",
-    "reading": "もちます I",
+    "meaning": "cầm, nắm, xách (hành lý)",
+    "reading": "もちます",
     "sinoVietnamese": "TRÌ",
-    "example": "毎日欠かさずに、持ちますようにしています。 (Tôi cố gắng mang nó bên mình mỗi ngày mà không thất bại.)"
+    "example": "重そうな荷物を持っていたお年寄りに「手伝いましょうか」と声をかけました。 (Thấy cụ già mang túi đồ nặng, tôi cất lời: \"Cháu xách giúp cụ nhé ạ\".)"
   },
   {
     "word": "取ります",
-    "meaning": "lấy",
-    "reading": "とります I",
+    "meaning": "lấy giúp (muối, tài liệu: 塩を取る)",
+    "reading": "とります",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、取りますようにしています。 (Tôi cố gắng dùng nó mỗi ngày mà không thất bại.)"
+    "example": "すみませんが、そこのテーブルの上にある塩を取っていただけませんか。 (Xin lỗi bạn lấy giùm tôi lọ muối ở trên chiếc bàn kia với được không ạ?)"
   },
   {
     "word": "手伝います",
-    "meaning": "làm việc",
-    "reading": "てつだいます I",
+    "meaning": "giúp đỡ, phụ giúp (công việc, dọn dẹp)",
+    "reading": "てつだいます",
     "sinoVietnamese": "THỦ",
-    "example": "毎日欠かさずに、手伝いますようにしています。 (Tôi cố gắng giúp đỡ mỗi ngày mà không thất bại.)"
+    "example": "週末に引越しをする同僚の荷造りをみんなで手伝いました。 (Chúng tôi cùng xắn tay giúp người đồng nghiệp đóng gói đồ đạc chuyển nhà cuối tuần.)"
   },
   {
     "word": "呼びます",
-    "meaning": "xe taxi",
-    "reading": "よびます I",
+    "meaning": "gọi (taxi: タクシーを呼ぶ / gọi tên)",
+    "reading": "よびます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、呼びますようにしています。 (Tôi cố gắng gọi cho cô ấy mỗi ngày mà không thất bại.)"
+    "example": "雨が激しく降ってきたので、スマホの配車アプリでタクシーを呼びました。 (Trời đổ mưa to dữ dội nên tôi dùng ứng dụng gọi taxi trên điện thoại để bắt xe.)"
   },
   {
     "word": "話します",
-    "meaning": "nói chuyện, nói chuyện",
-    "reading": "はなします I",
+    "meaning": "nói chuyện, trò chuyện",
+    "reading": "はなします",
     "sinoVietnamese": "THOẠI",
-    "example": "毎日仕事が終わったあと、日本語を話します。 (Tôi nói tiếng Nhật mỗi ngày sau giờ làm việc.)"
+    "example": "日本語が上手になるために、学校の先生と積極的に日本語で話します。 (Để giỏi tiếng Nhật, tôi chủ động nói chuyện thật nhiều với thầy cô giáo.)"
   },
   {
     "word": "見せます",
-    "meaning": "hiển thị và gửi",
-    "reading": "みせます II",
+    "meaning": "cho xem, xuất trình (vé, ảnh, hộ chiếu)",
+    "reading": "みせます",
     "sinoVietnamese": "KIẾN",
-    "example": "暇なときは、家でゆっくり本を見せますのが好きです。 (Khi có thời gian rảnh, tôi thích thư giãn và đọc sách ở nhà.)"
+    "example": "空港の入国審査のカウンターで審査官にパスポートを見せました。 (Tại quầy kiểm soát nhập cảnh sân bay, tôi xuất trình hộ chiếu cho viên chức xem.)"
   },
   {
     "word": "教えます",
-    "meaning": "kể",
-    "reading": "おしえます II",
+    "meaning": "chỉ dẫn, dạy (đường đi: 道を教える / số điện thoại)",
+    "reading": "おしえます",
     "sinoVietnamese": "GIÁO",
-    "example": "毎日欠かさずに、教えますようにしています。 (Tôi cố gắng dạy họ mỗi ngày mà không thất bại.)"
+    "example": "駅までの行き方が分からない観光客に、地図を見せながら親切に道を教えました。 (Tôi mở bản đồ nhiệt tình chỉ đường cho vị khách du lịch chưa biết lối ra ga.)"
   },
   {
     "word": "始めます",
-    "meaning": "bắt đầu",
-    "reading": "はじめます II",
+    "meaning": "bắt đầu (buổi học, công việc: 授業を始める)",
+    "reading": "はじめます",
     "sinoVietnamese": "THỦY",
-    "example": "毎日欠かさずに、始めますようにしています。 (Tôi cố gắng bắt đầu nó mỗi ngày mà không thất bại.)"
+    "example": "チャイムが鳴ったので、教科書を開いて今日の授業を始めましょう。 (Chuông đã reo rồi, chúng ta hãy mở sách giáo khoa ra bắt đầu buổi học hôm nay nhé.)"
   },
   {
     "word": "降ります",
-    "meaning": "rơi [mưa, tuyết]",
+    "meaning": "rơi [mưa, tuyết: 雨/雪が降る]",
     "reading": "ふります I",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、降りますようにしています。 (Tôi cố gắng xuống tàu mỗi ngày mà không thất bại.)"
+    "example": "午後から冷たい雨がポツポツと降り始めました。 (Từ buổi chiều những hạt mưa lạnh bắt đầu rơi lác đác.)"
   },
   {
-    "word": "コピーします III",
-    "meaning": "sao chép",
+    "word": "コピーします",
+    "meaning": "sao chép, photocopy (tài liệu: 資料をコピーする)",
     "reading": "コピーします III",
     "sinoVietnamese": "",
-    "example": "父から大切なコピーします Iを譲り受けて、大事に使っています。 (Tôi thừa hưởng một bản sao quý giá của I từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "会議で使用する企画書を、複合機で十部コピーしました。 (Tôi đã dùng máy đa năng photocopy mười bản đề xuất kế hoạch để dùng trong cuộc họp.)"
   },
   {
     "word": "エアコン",
-    "meaning": "máy điều hòa không khí",
+    "meaning": "máy điều hòa nhiệt độ",
     "reading": "エアコン",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いエアコンを見に行きました。 (Tôi và bạn tôi đi xem một số máy điều hòa không khí lạ và thú vị.)"
+    "example": "蒸し暑いので、リモコンでエアコンの冷房をつけました。 (Vì trời oi bức nên tôi lấy điều khiển bật chế độ làm mát của điều hòa.)"
   },
   {
     "word": "パスポート",
-    "meaning": "hộ chiếu",
+    "meaning": "hộ chiếu (giấy thông hành quốc tế)",
     "reading": "パスポート",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なパスポートをしっかり入れて出かけました。 (Tôi bỏ tất cả hộ chiếu cần thiết vào túi và đi ra ngoài.)"
+    "example": "空港の出国審査のゲートで、係員にパスポートを提示しました。 (Tại cổng kiểm tra xuất cảnh ở sân bay, tôi đã xuất trình hộ chiếu cho nhân viên.)"
   },
   {
     "word": "名前",
@@ -148,59 +148,59 @@
   },
   {
     "word": "住所",
-    "meaning": "địa chỉ",
+    "meaning": "địa chỉ nhà, nơi cư trú",
     "reading": "じゅうしょ",
     "sinoVietnamese": "TRÚ SỞ",
-    "example": "来週の月曜日に手続きのために住所へ行きます。 (Tôi sẽ đến địa chỉ vào thứ Hai tuần sau để làm thủ tục.)"
+    "example": "荷物を送るために、伝票に届け先の住所を楷書で記入した。 (Để gửi kiện hàng, tôi đã viết nắn nót địa chỉ người nhận lên phiếu gửi.)"
   },
   {
     "word": "地図",
-    "meaning": "bản đồ",
+    "meaning": "bản đồ địa lý",
     "reading": "ちず",
     "sinoVietnamese": "ĐỊA ĐỒ",
-    "example": "店員さんに相談して、自分にぴったりの地図を選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được bản đồ phù hợp với mình.)"
+    "example": "初めて訪れる観光地なので、駅で配られている観光地図を開いて歩いた。 (Vì là điểm du lịch lần đầu ghé thăm nên tôi mở tấm bản đồ du lịch phát tại ga ra để đi dạo.)"
   },
   {
     "word": "塩",
-    "meaning": "muối",
+    "meaning": "muối ăn (gia vị)",
     "reading": "しお",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わる塩について興味深く学びました。 (Tôi đã tìm hiểu rất thú vị về muối vì nó liên quan đến văn hóa và cuộc sống của người Nhật.)"
+    "example": "スープの味が少し薄かったので、塩を少々振って味を調えました。 (Vị món súp hơi nhạt một chút nên tôi đã rắc thêm một ít muối để nêm lại cho vừa miệng.)"
   },
   {
     "word": "砂糖",
-    "meaning": "đường ăn",
+    "meaning": "đường ăn (gia vị ngọt)",
     "reading": "さとう",
     "sinoVietnamese": "",
-    "example": "暑い夏の日には冷たい砂糖を飲むと元気が出ます。 (Uống đường lạnh vào ngày hè nóng bức sẽ giúp bạn có thêm năng lượng.)"
+    "example": "ブラックコーヒーに角砂糖を一つ入れて、スプーンでよくかき混ぜた。 (Tôi thả một viên đường vào tách cà phê đen rồi dùng thìa khuấy đều.)"
   },
   {
     "word": "読み方",
-    "meaning": "đọc",
+    "meaning": "cách đọc (chữ Kanji, từ ngữ)",
     "reading": "よみかた",
     "sinoVietnamese": "ĐỘC",
-    "example": "友達と一緒に、珍しくて面白い読み方を見に行きました。 (Tôi và bạn tôi đến xem một cách đọc khác thường và thú vị.)"
+    "example": "この難しい漢字の読み方が分からないので、電子辞書で調べました。 (Vì không biết cách đọc của chữ Hán khó này nên tôi đã tra trong từ điển điện tử.)"
   },
   {
     "word": "～方",
-    "meaning": "cách làm ～",
+    "meaning": "cách làm ～ (hậu tố ghép sau động từ thể ます)",
     "reading": "～かた",
     "sinoVietnamese": "PHƯƠNG",
-    "example": "週末は家族みんなで美味しい～方を囲んで楽しく過ごします。 (Cuối tuần cả nhà cùng quây quần thưởng thức những món ăn ngon.)"
+    "example": "日本語学校の先生に、きれいなひらがなの書き方を教わりました。 (Tôi được giáo viên trường tiếng Nhật hướng dẫn cách viết chữ hiragana thật đẹp.)"
   },
   {
     "word": "ゆっくり",
-    "meaning": "chậm, nhàn nhã, thoải mái",
+    "meaning": "chậm rãi, thong thả, từ tốn",
     "reading": "ゆっくり",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりのゆっくりを選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được bộ Yukuri phù hợp với mình.)"
+    "example": "休日はどこにも出かけず、自宅のリビングでゆっくり音楽を聴いて過ごす。 (Ngày nghỉ tôi không đi đâu cả mà ở nhà thong thả thưởng thức âm nhạc tại phòng khách.)"
   },
   {
     "word": "すぐ",
-    "meaning": "ngay lập tức",
+    "meaning": "ngay lập tức, tức thì (thời gian ngắn)",
     "reading": "すぐ",
     "sinoVietnamese": "",
-    "example": "父から大切なすぐを譲り受けて、大事に使っています。 (Tôi đã nhận được một chiếc Sugu quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "注文の確認メールを受信した後、担当者からすぐ返信が届いた。 (Sau khi nhận email xác nhận đơn hàng, người phụ trách đã lập tức gửi phản hồi.)"
   },
   {
     "word": "また",
@@ -211,65 +211,65 @@
   },
   {
     "word": "あとで",
-    "meaning": "lát nữa, để sau",
+    "meaning": "lát nữa, để sau (thực hiện sau một lúc)",
     "reading": "あとで",
     "sinoVietnamese": "",
-    "example": "父から大切なあとでを譲り受けて、大事に使っています。 (Tôi thừa hưởng dư vị quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "「今、少し話せる？」「会議の準備があるから、あとで連絡するね。」 (\"Bây giờ bạn nói chuyện chút được không?\" \"Tôi đang chuẩn bị họp nên lát nữa tôi liên lạc lại nhé.\")"
   },
   {
     "word": "もう 少し",
-    "meaning": "chỉ một chút nữa thôi",
+    "meaning": "thêm một chút nữa (về số lượng hoặc mức độ)",
     "reading": "もう すこし",
     "sinoVietnamese": "THIỂU",
-    "example": "友達と一緒に、珍しくて面白いもう 少しを見に行きました。 (Tôi và bạn tôi đi xem thêm một số điều khác thường và thú vị hơn.)"
+    "example": "声が小さくて聞こえにくいので、もう少し大きな声で話していただけますか。 (Giọng bạn hơi nhỏ khó nghe, bạn có thể nói to hơn một chút được không ạ?)"
   },
   {
     "word": "もう～",
-    "meaning": "thêm một ～ nữa",
+    "meaning": "thêm một ～ nữa (lần nữa, cái nữa)",
     "reading": "もう～",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りのもう～を長く愛用しています。 (Tôi đã sử dụng Mo~ yêu thích của mình trong một thời gian dài và chăm sóc nó rất cẩn thận.)"
+    "example": "とてもおいしかったので、熱い緑茶をもう一杯おかわりしました。 (Ngon quá nên tôi đã xin dùng thêm một tách trà xanh nóng nữa.)"
   },
   {
     "word": "いいですよ。",
-    "meaning": "được chứ, được đấy",
+    "meaning": "được chứ, được đấy (chấp thuận một cách thoải mái)",
     "reading": "いいですよ。",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わるいいですよについて興味深く学びました。 (Tôi rất thích thú tìm hiểu về iidayo, thứ liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+    "example": "「この雑誌をお借りしてもいいですか。」「ええ、もちろんいいですよ。」 (\"Tôi mượn cuốn tạp chí này có được không?\" \"Vâng, tất nhiên là được chứ.\")"
   },
   {
     "word": "さあ",
-    "meaning": "đến",
+    "meaning": "nào, thôi nào (lời giục giã hoặc khi chưa biết rõ)",
     "reading": "さあ",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わるさあについて興味深く学びました。 (Tôi đã tìm hiểu rất thú vị về saa, nó liên quan đến văn hóa và cuộc sống của người Nhật.)"
+    "example": "「さあ、休憩時間は終わりです。午後の作業を始めましょう。」 (\"Nào, giờ giải lao hết rồi. Chúng ta cùng bắt đầu công việc buổi chiều thôi.\")"
   },
   {
     "word": "あれ？",
-    "meaning": "chiếc ô, chiếc dù",
+    "meaning": "ơ kìa? ủa? (tiếng thốt ngạc nhiên khi thấy điều bất ngờ)",
     "reading": "あれ？",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いあれ？を見に行きました。 (Bạn muốn làm điều gì đó khác thường và thú vị với bạn bè của mình? Tôi đã đi xem nó.)"
+    "example": "あれ？ ポケットに入れておいたはずの部屋の鍵が見当たりません。 (Ơ kìa? Chiếc chìa khóa phòng rõ ràng tôi bỏ trong túi mà giờ tìm không thấy đâu.)"
   },
   {
     "word": "まっすぐ",
-    "meaning": "thẳng",
+    "meaning": "thẳng, đi thẳng (không rẽ)",
     "reading": "まっすぐ",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いまっすぐを見に行きました。 (Tôi và bạn bè đã đi xem Straight khác thường và thú vị.)"
+    "example": "この大通りをまっすぐ歩くと、五分ほどで大きな図書館が見えてきます。 (Đi thẳng theo đại lộ này khoảng năm phút, bạn sẽ nhìn thấy một thư viện lớn.)"
   },
   {
     "word": "お釣り",
-    "meaning": "tiền thối lại, tiền thừa",
+    "meaning": "tiền thừa, tiền thối lại",
     "reading": "おつり",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りのお釣りを長く愛用しています。 (Bạn có thể sử dụng chiếc cần câu yêu thích của mình trong thời gian dài nếu bảo quản nó cẩn thận.)"
+    "example": "売店で千円札を出して新聞を買い、百円玉三枚のお釣りを受け取りました。 (Tôi đưa tờ một nghìn yên mua tờ báo ở sạp và nhận lại ba đồng xu một trăm yên tiền thừa.)"
   },
   {
     "word": "これでお願いします",
-    "meaning": "cái này",
+    "meaning": "xin gửi khoản này / nhờ bạn thanh toán giúp cái này",
     "reading": "これでおねがいします",
     "sinoVietnamese": "",
-    "example": "毎日仕事が終わったあと、日本語をこれでお願いします。 (Mỗi ngày sau khi làm việc, hãy đọc tiếng Nhật này.)"
+    "example": "お会計の際に、レジの店員さんに「これでお願いします」とクレジットカードを渡した。 (Lúc thanh toán, tôi đưa thẻ tín dụng cho nhân viên thu ngân và nói \"Làm ơn thanh toán giúp tôi bằng thẻ này ạ\".)"
   }
 ]

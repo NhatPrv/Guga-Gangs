@@ -64,10 +64,10 @@
   },
   {
     "word": "必ずしも",
-    "meaning": "(không) luôn luôn",
+    "meaning": "chưa hẳn, không nhất thiết (luôn đi cùng thể phủ định 〜ない)",
     "reading": "かならずしも",
     "sinoVietnamese": "TẤT",
-    "example": "金持ちが必ずしも幸福とは限らない。 (Người giàu chưa chắc đã hạnh phúc.)"
+    "example": "有名大学を出た人が、必ずしも仕事ができるとは言えない。 (Người tốt nghiệp đại học danh tiếng chưa hẳn đã là người làm việc giỏi.)"
   },
   {
     "word": "金",
@@ -78,10 +78,10 @@
   },
   {
     "word": "金持ち",
-    "meaning": "người đàn ông giàu có",
+    "meaning": "người giàu có, đại gia",
     "reading": "かねもち",
     "sinoVietnamese": "KIM TRÌ",
-    "example": "金持ちが必ずしも幸福とは限らない。 (Người giàu chưa chắc đã hạnh phúc.)"
+    "example": "彼は事業で大成功を収めて、大金持ちになった。 (Anh ấy đã thành công lớn trong sự nghiệp kinh doanh và trở thành một người rất giàu có.)"
   },
   {
     "word": "可能",
@@ -267,10 +267,10 @@
   },
   {
     "word": "患者",
-    "meaning": "một bệnh nhân",
+    "meaning": "bệnh nhân, người đang điều trị bệnh",
     "reading": "かんじゃ",
     "sinoVietnamese": "GIẢ",
-    "example": "私はあなたの第一号の患者になるわ。 (Tôi sẽ là bệnh nhân đầu tiên của bạn.)"
+    "example": "医師は一人ひとりの患者の話を丁寧に聞き取った。 (Bác sĩ đã lắng nghe cẩn thận câu chuyện của từng bệnh nhân một.)"
   },
   {
     "word": "勘定",
@@ -540,10 +540,10 @@
   },
   {
     "word": "気の毒",
-    "meaning": "đáng thương",
+    "meaning": "đáng thương, tội nghiệp (bày tỏ sự cảm thông sâu sắc trước hoàn cảnh khó khăn của người khác)",
     "reading": "きのどく",
     "sinoVietnamese": "KHÍ",
-    "example": "私たちはその老夫婦を気の毒に思った。 (Chúng tôi cảm thấy tiếc cho đôi vợ chồng già.)"
+    "example": "火事で家を失った家族の姿を見て、本当に気の毒に思った。 (Nhìn cảnh gia đình mất nhà sau vụ hỏa hoạn, tôi thực sự thấy rất tội nghiệp.)"
   },
   {
     "word": "寄付",
@@ -596,17 +596,17 @@
   },
   {
     "word": "逆",
-    "meaning": "đảo ngược",
+    "meaning": "ngược lại, trái ngược",
     "reading": "ぎゃく",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要な逆をしっかり入れて出かけました。 (Tôi đóng gói những thứ cần thiết vào túi và đi ra ngoài.)"
+    "example": "急いで靴を履いたら、左右を逆に履いてしまいました。 (Vội vàng xỏ giày nên tôi đã đi ngược chiếc bên trái sang bên phải.)"
   },
   {
     "word": "キャプテン",
-    "meaning": "đội trưởng",
+    "meaning": "đội trưởng (trong thể thao hoặc hàng hải)",
     "reading": "キャプテン",
     "sinoVietnamese": "",
-    "example": "キャプテンは静かにするように命じた。 (Thuyền trưởng ra lệnh cho họ im lặng.)"
+    "example": "サッカー部のキャプテンとして、チーム全員を引っ張っています。 (Với tư cách là đội trưởng đội bóng đá, anh ấy dẫn dắt toàn bộ đội bóng.)"
   },
   {
     "word": "球",
@@ -666,10 +666,10 @@
   },
   {
     "word": "急速",
-    "meaning": "nhanh chóng (ví dụ: tiến độ)",
+    "meaning": "nhanh chóng, cấp tốc (diễn tả sự biến đổi với tốc độ cao)",
     "reading": "きゅうそく",
     "sinoVietnamese": "CẤP",
-    "example": "コンピューターは急速な進化を遂げた。 (Máy tính đã phát triển nhanh chóng.)"
+    "example": "モバイル端末の目覚ましい普及に伴い、デジタル技術が急速に進歩した。 (Cùng với sự phổ biến vượt bậc của thiết bị di động, công nghệ số đã tiến bộ chóng mặt.)"
   },
   {
     "word": "器用",
@@ -932,10 +932,10 @@
   },
   {
     "word": "管",
-    "meaning": "ống",
+    "meaning": "đường ống, ống dẫn (nước, khí)",
     "reading": "くだ",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りの管を長く愛用しています。 (Tôi sử dụng những chiếc tẩu yêu thích của mình đã lâu và chăm sóc chúng cẩn thận.)"
+    "example": "寒波の影響で水道の管が凍りついて破裂してしまいました。 (Do đợt rét đậm nên đường ống nước bị đóng băng và nứt vỡ mất.)"
   },
   {
     "word": "具体",
@@ -1149,10 +1149,10 @@
   },
   {
     "word": "景気",
-    "meaning": "tình trạng",
+    "meaning": "tình hình kinh tế, tình trạng kinh doanh buôn bán",
     "reading": "けいき",
     "sinoVietnamese": "CẢNH KHÍ",
-    "example": "コンピューター業界は景気がいい。 (Ngành công nghiệp máy tính đang bùng nổ.)"
+    "example": "政府の新しい経済政策のおかげで、景気が回復してきた。 (Nhờ chính sách kinh tế mới của chính phủ, tình hình kinh tế đã dần phục hồi.)"
   },
   {
     "word": "傾向",
@@ -1212,10 +1212,10 @@
   },
   {
     "word": "ケース",
-    "meaning": "trường hợp",
+    "meaning": "trường hợp (case) hoặc hộp, ốp bảo vệ đồ vật",
     "reading": "ケース",
     "sinoVietnamese": "",
-    "example": "家から歩いて10分ほどのところに大きなケースがあります。 (Có một vụ án lớn cách nhà tôi khoảng 10 phút đi bộ.)"
+    "example": "大切な楽器を衝撃から守るため、頑丈な専用ケースに入れて持ち運んでいる。 (Để bảo vệ nhạc cụ quý khỏi va đập, tôi luôn bỏ nó vào hộp chuyên dụng rất chắc chắn khi mang đi.)"
   },
   {
     "word": "ゲーム",
@@ -1254,10 +1254,10 @@
   },
   {
     "word": "けち",
-    "meaning": "sự keo kiệt",
-    "reading": "けち",
+    "meaning": "keo kiệt, bủn xỉn, bủn xỉn",
+    "reading": "けち「な」",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なけちをしっかり入れて出かけました。 (Tôi gói ghém những thứ cần thiết vào túi rồi đi ra ngoài.)"
+    "example": "彼は大金持ちなのに、とてもけちで後輩におごりません。 (Anh ấy tuy rất giàu nhưng lại rất keo kiệt, chẳng bao giờ khao đàn em.)"
   },
   {
     "word": "結果",
@@ -1604,10 +1604,10 @@
   },
   {
     "word": "幸福",
-    "meaning": "hạnh phúc",
+    "meaning": "hạnh phúc, sự sung sướng viên mãn",
     "reading": "こうふく",
     "sinoVietnamese": "",
-    "example": "金持ちが必ずしも幸福とは限らない。 (Người giàu chưa chắc đã hạnh phúc.)"
+    "example": "家族みんなが健康で平和に暮らせることが、一番の幸福です。 (Việc cả gia đình khỏe mạnh và sống bình yên chính là niềm hạnh phúc lớn nhất.)"
   },
   {
     "word": "公平",
@@ -1667,10 +1667,10 @@
   },
   {
     "word": "ゴール",
-    "meaning": "mục tiêu",
+    "meaning": "vạch đích, khung thành (thể thao)",
     "reading": "ゴール",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なゴールをしっかり入れて出かけました。 (Tôi đóng gói những mục tiêu cần thiết vào túi và đi ra ngoài.)"
+    "example": "マラソン選手が最後の力を振り絞ってゴールを駆け抜けました。 (Vận động viên marathon dốc hết chút sức tàn lao nhanh qua vạch đích.)"
   },
   {
     "word": "誤解",

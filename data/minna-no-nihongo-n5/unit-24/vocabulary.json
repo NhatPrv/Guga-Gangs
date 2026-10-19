@@ -1,59 +1,59 @@
 [
   {
     "word": "くれます",
-    "meaning": "tặng, cho",
+    "meaning": "cho tôi, tặng tôi (người khác làm cho mình)",
     "reading": "くれます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、くれますようにしています。 (Tôi cố gắng trao nó cho bạn mỗi ngày mà không thất bại.)"
+    "example": "誕生日に日本のホストファミリーが素敵なアルバムをくれました。 (Vào ngày sinh nhật, gia đình cha mẹ nuôi người Nhật đã tặng cho tôi một cuốn album rất đẹp.)"
   },
   {
     "word": "連れて行きます",
-    "meaning": "dẫn đi",
+    "meaning": "dẫn đi (dẫn ai đi đâu)",
     "reading": "つれていきます",
     "sinoVietnamese": "LIÊN HÀNH",
-    "example": "週末は家族と一緒にスーパーへ連れて行きます。 (Cuối tuần tôi đưa gia đình đi siêu thị.)"
+    "example": "週末に日本から遊びに来た友達を浅草の浅草寺へ連れて行きました。 (Cuối tuần tôi dẫn người bạn mới từ Nhật sang chơi đi tham quan chùa Asakusa.)"
   },
   {
     "word": "連れて来ます",
-    "meaning": "dẫn đến",
+    "meaning": "dẫn đến (dẫn ai đến đây)",
     "reading": "つれてきます",
     "sinoVietnamese": "LIÊN LAI",
-    "example": "週末は家族と一緒にスーパーへ連れて来ます。 (Cuối tuần tôi đưa gia đình đi siêu thị.)"
+    "example": "明日のホームパーティーに私の仲のいいベトナム人の友達を連れて来ます。 (Trong bữa tiệc tại nhà ngày mai, tôi sẽ dẫn người bạn thân Việt Nam đến cùng.)"
   },
   {
     "word": "送ります",
-    "meaning": "đưa, mang, tiễn",
+    "meaning": "tiễn đưa ai đó (ra ga, về nhà: 人を送る)",
     "reading": "おくります",
     "sinoVietnamese": "TỐNG",
-    "example": "毎日欠かさずに、送りますようにしています。 (Tôi cố gắng gửi nó mỗi ngày mà không thất bại.)"
+    "example": "夜道は暗くて物騒なので、車で彼女を家の玄関先まで送りました。 (Đường đêm tối nguy hiểm nên tôi đã lái xe đưa cô ấy về tận trước cửa nhà.)"
   },
   {
     "word": "紹介します",
-    "meaning": "giới thiệu",
+    "meaning": "giới thiệu (bạn bè, đối tác)",
     "reading": "しょうかいします",
     "sinoVietnamese": "",
-    "example": "毎日仕事が終わったあと、日本語を紹介します。 (Mỗi ngày sau giờ làm việc tôi sẽ giới thiệu tiếng Nhật cho các bạn.)"
+    "example": "同じクラスに新しく入ってきた留学生のみんなを先生に紹介しました。 (Tôi giới thiệu những bạn du học sinh mới vào lớp cho thầy giáo làm quen.)"
   },
   {
     "word": "案内します",
-    "meaning": "chỉ đường, hướng dẫn",
+    "meaning": "hướng dẫn, dẫn đường (thăm quan thành phố)",
     "reading": "あんないします",
     "sinoVietnamese": "ÁN NỘI",
-    "example": "毎日仕事が終わったあと、日本語を案内します。 (Hàng ngày sau giờ làm mình sẽ hướng dẫn các bạn học tiếng Nhật.)"
+    "example": "東京を初めて訪れた友人に、秋葉原や銀座の街並みを一日案内しました。 (Tôi dành trọn một ngày dẫn người bạn lần đầu đến Tokyo đi dạo phố Akihabara và Ginza.)"
   },
   {
     "word": "説明します",
-    "meaning": "giải thích, trình bày",
+    "meaning": "giải thích, thuyết minh (cách dùng, nội quy)",
     "reading": "せつめいします",
     "sinoVietnamese": "MINH",
-    "example": "毎日仕事が終わったあと、日本語を説明します。 (Mỗi ngày sau giờ làm việc, tôi sẽ giải thích tiếng Nhật cho bạn.)"
+    "example": "新入社員に向けて、社内システムの基本的な使い方を分かりやすく説明しました。 (Tôi giải thích dễ hiểu về cách sử dụng hệ thống nội bộ cho các bạn nhân viên mới.)"
   },
   {
     "word": "いれます",
-    "meaning": "cà phê",
+    "meaning": "pha cà phê, hãm trà [お茶/コーヒーをいれる]",
     "reading": "いれます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、いれますようにしています。 (Tôi cố gắng sử dụng nó mỗi ngày mà không thất bại.)"
+    "example": "朝起きたら、まず豆を挽いて香りの良いドリップコーヒーをいれます。 (Sáng dậy, trước tiên tôi xay hạt cà phê rồi pha một tách cà phê phin thơm lừng.)"
   },
   {
     "word": "おじいさん / おじいちゃん",
@@ -63,11 +63,11 @@
     "example": "おじいさん / おじいちゃんの笑顔を見ると、とても元気が出ます。 (Ông/Nhìn thấy nụ cười của ông mà tôi thấy vui quá.)"
   },
   {
-    "word": "おばあさん /　おばあちゃん",
-    "meaning": "mẹ",
+    "word": "おばあさん",
+    "meaning": "người bà, cụ bà (đã sửa nghĩa từ mẹ thành bà)",
     "reading": "おばあさん /　おばあちゃん",
     "sinoVietnamese": "",
-    "example": "先週、久しぶりにおばあさん /　おばあちゃんと会って楽しい時間を過ごしました。 (Tuần trước, tôi đã gặp bà/bà tôi lần đầu tiên sau một thời gian dài và đã có khoảng thời gian tuyệt vời.)"
+    "example": "電車の中で立っているおばあさんに気付き、すぐに席を譲りました。 (Thấy một cụ bà đang đứng trên toa tàu, tôi liền đứng dậy nhường ghế ngay lập tức.)"
   },
   {
     "word": "準備",
@@ -78,10 +78,10 @@
   },
   {
     "word": "意味",
-    "meaning": "ý nghĩa",
+    "meaning": "ý nghĩa của từ ngữ, thông điệp",
     "reading": "いみ",
     "sinoVietnamese": "Ý VỊ",
-    "example": "友達と一緒に、珍しくて面白い意味を見に行きました。 (Tôi và bạn bè đi xem có ý nghĩa khác thường và thú vị.)"
+    "example": "辞書を引いて、ことわざの深い意味や使い方の例文をじっくり調べました。 (Tôi tra từ điển để tìm hiểu kỹ lưỡng ý nghĩa sâu sắc và câu ví dụ của câu tục ngữ.)"
   },
   {
     "word": "お菓子",
@@ -92,31 +92,31 @@
   },
   {
     "word": "全部",
-    "meaning": "tất cả, tất cả",
+    "meaning": "toàn bộ, tất cả mọi thứ",
     "reading": "ぜんぶ",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりの全部を選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn tất cả những món đồ phù hợp với mình.)"
+    "example": "テーブルの上に並べられたおいしい料理を、残さず全部きれいに平らげた。 (Những món ăn ngon bày trên bàn, tôi đã ăn sạch sẽ toàn bộ không để lại chút nào.)"
   },
   {
     "word": "自分で",
-    "meaning": "bản thân tôi",
+    "meaning": "tự bản thân mình làm (không nhờ vả)",
     "reading": "じぶんで",
     "sinoVietnamese": "TỰ PHÂN",
-    "example": "自分でまでに提出しなければならない大事な書類があります。 (Có những tài liệu quan trọng mà bạn phải tự mình nộp.)"
+    "example": "自立した生活を送るため、毎日の料理や洗濯はすべて自分でこなしています。 (Để sống cuộc sống tự lập, việc nấu ăn giặt giũ hằng ngày tôi đều tự mình làm hết.)"
   },
   {
     "word": "他に",
-    "meaning": "cái đó",
+    "meaning": "ngoài ra, bên cạnh đó (chỉ sự vật khác)",
     "reading": "ほかに",
     "sinoVietnamese": "",
-    "example": "暑い夏の日には冷たい他にを飲むと元気が出ます。 (Uống một thức uống lạnh vào ngày hè nóng nực sẽ tiếp thêm sinh lực cho bạn.)"
+    "example": "「この書類の他に、何か提出するものはありますか。」「身分証明書が必要です。」 (\"Ngoài tài liệu này ra thì còn cần nộp thêm gì nữa không ạ?\" \"Cần thêm giấy tờ tùy thân nữa ạ.\")"
   },
   {
     "word": "お弁当",
-    "meaning": "bữa trưa",
+    "meaning": "cơm hộp bento (bữa ăn mang theo)",
     "reading": "おべんとう",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りのお弁当を長く愛用しています。 (Bạn có thể sử dụng hộp cơm bento yêu thích của mình trong thời gian dài nếu bảo quản nó cẩn thận.)"
+    "example": "母が毎朝早起きして作ってくれる彩り豊かなお弁当を、職場で食べるのが楽しみです。 (Được thưởng thức hộp cơm bento đầy màu sắc mẹ dậy sớm nấu cho mỗi sáng là niềm vui ở chỗ làm của tôi.)"
   },
   {
     "word": "母の日",

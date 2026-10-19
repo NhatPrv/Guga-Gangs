@@ -99,17 +99,17 @@
   },
   {
     "word": "雰囲気",
-    "meaning": "bầu không khí (ví dụ như âm nhạc)",
+    "meaning": "bầu không khí (tâm trạng nơi chốn, khung cảnh)",
     "reading": "ふんいき",
     "sinoVietnamese": "KHÍ",
-    "example": "このレストランの雰囲気が好き。 (Tôi thích không khí của nhà hàng này.)"
+    "example": "この喫茶店はジャズが静かに流れていて、落ち着いた雰囲気が漂っている。 (Quán cà phê này mở nhạc jazz nhè nhẹ, toát lên một bầu không khí rất thanh tĩnh.)"
   },
   {
     "word": "分析",
-    "meaning": "phân tích",
+    "meaning": "phân tích (số liệu, nguyên nhân sự việc)",
     "reading": "ぶんせき",
     "sinoVietnamese": "PHÂN",
-    "example": "私はあなたの分析に全く賛成です。 (Tôi hoàn toàn đồng ý với phân tích của bạn.)"
+    "example": "アンケートの調査結果を詳しく分析して、新商品の開発に役立てます。 (Chúng tôi phân tích chi tiết kết quả khảo sát bảng hỏi để phục vụ việc phát triển sản phẩm mới.)"
   },
   {
     "word": "文明",
@@ -225,10 +225,10 @@
   },
   {
     "word": "方向",
-    "meaning": "phương hướng",
+    "meaning": "phương hướng, chiều hướng phát triển",
     "reading": "ほうこう",
     "sinoVietnamese": "",
-    "example": "チーズの棚はどちらの方向にありますか。 (Kệ phô mai ở hướng nào?)"
+    "example": "道に迷ってしまったので、スマホの地図アプリで進行方向を確認した。 (Vì bị lạc đường nên tôi đã mở ứng dụng bản đồ trên điện thoại để kiểm tra lại hướng đi.)"
   },
   {
     "word": "報告",
@@ -351,10 +351,10 @@
   },
   {
     "word": "ほぼ",
-    "meaning": "gần như",
+    "meaning": "gần như, hầu như (khoảng 90%)",
     "reading": "ほぼ",
     "sinoVietnamese": "",
-    "example": "父から大切なほぼを譲り受けて、大事に使っています。 (Tôi thừa hưởng hầu hết những thứ quý giá của mình từ cha tôi và tôi sử dụng chúng một cách cẩn thận.)"
+    "example": "準備作業がほぼ完了したので、予定通りイベントを開催できます。 (Công tác chuẩn bị gần như hoàn tất nên sự kiện có thể diễn ra đúng dự kiến.)"
   },
   {
     "word": "微笑む",
@@ -393,10 +393,10 @@
   },
   {
     "word": "まあ",
-    "meaning": "(nữ) bạn có thể nói",
+    "meaning": "chà, tạm được (thôi thì, xem ra)",
     "reading": "まあ",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いまあを見に行きました。 (Tôi và bạn bè đến gặp Maa, điều đó thật bất thường và thú vị.)"
+    "example": "完璧とは言えませんが、初めての挑戦としてはまあ良い出来です。 (Chưa hẳn hoàn hảo nhưng với lần đầu thử sức thì xem ra thế là tạm ổn.)"
   },
   {
     "word": "マーケット",
@@ -477,7 +477,7 @@
   },
   {
     "word": "ますます",
-    "meaning": "ngày càng",
+    "meaning": "ngày càng, càng ngày càng (mức độ biến đổi tăng dần theo thời gian)",
     "reading": "ますます",
     "sinoVietnamese": "",
     "example": "われわれは彼をますます尊敬した。 (Chúng tôi càng tôn trọng anh ấy hơn.)"
@@ -638,10 +638,10 @@
   },
   {
     "word": "ミス",
-    "meaning": "lỡ (lỗi, lỗi, thất bại)",
+    "meaning": "lỗi lầm, sai sót sơ suất (mistake)",
     "reading": "ミス",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りのミスを長く愛用しています。 (Tôi đã sử dụng chiếc Misu yêu thích của mình từ lâu, giữ gìn cẩn thận.)"
+    "example": "提出する前にもう一度見直して、計算ミスを防ぎました。 (Trước khi nộp bài tôi rà soát lại lần nữa để tránh lỗi tính toán sơ đẳng.)"
   },
   {
     "word": "満ちる",
@@ -715,10 +715,10 @@
   },
   {
     "word": "向かい",
-    "meaning": "đối mặt",
+    "meaning": "phía đối diện, đối diện qua đường",
     "reading": "むかい",
     "sinoVietnamese": "",
-    "example": "その店は通りの向かいにあります。 (Cửa hàng ở bên kia đường.)"
+    "example": "銀行の建物の向かい側に、新しくコンビニがオープンしました。 (Ở phía đối diện tòa nhà ngân hàng, một cửa hàng tiện lợi mới vừa khai trương.)"
   },
   {
     "word": "迎え",
@@ -806,10 +806,10 @@
   },
   {
     "word": "命じる",
-    "meaning": "đặt hàng",
+    "meaning": "ra lệnh, chỉ thị, bổ nhiệm chức vụ",
     "reading": "めいじる",
     "sinoVietnamese": "",
-    "example": "キャプテンは静かにするように命じた。 (Thuyền trưởng ra lệnh cho họ im lặng.)"
+    "example": "裁判長は被告人に対して、被害者への損害賠償を命じた。 (Thẩm phán đã ra lệnh cho bị cáo phải bồi thường thiệt hại cho nạn nhân.)"
   },
   {
     "word": "名人",
@@ -1072,10 +1072,10 @@
   },
   {
     "word": "厄介",
-    "meaning": "rắc rối",
+    "meaning": "phiền phức, rắc rối, làm phiền (mang sắc thái ngán ngẩm)",
     "reading": "やっかい",
     "sinoVietnamese": "",
-    "example": "そんなことをするとやっかいなことを招くことになる。 (Làm như vậy sẽ dẫn đến rắc rối.)"
+    "example": "ウイルスの感染によって、パソコンが厄介なトラブルに見舞われた。 (Do bị nhiễm virus, máy tính của tôi đã gặp phải sự cố vô cùng phiền toái.)"
   },
   {
     "word": "宿",
@@ -1128,10 +1128,10 @@
   },
   {
     "word": "勇気",
-    "meaning": "lòng can đảm",
+    "meaning": "lòng dũng cảm, dũng khí dám đương đầu",
     "reading": "ゆうき",
     "sinoVietnamese": "KHÍ",
-    "example": "彼女に電話する勇気はありますか。 (Bạn có đủ can đảm để gọi cho cô ấy không?)"
+    "example": "困難な状況に直面しても、立ち向かう勇気を持つことが大切です。 (Dù phải đối mặt với hoàn cảnh khó khăn, việc giữ vững lòng dũng cảm đương đầu là điều rất quan trọng.)"
   },
   {
     "word": "有効",
@@ -1198,10 +1198,10 @@
   },
   {
     "word": "床",
-    "meaning": "sàn nhà",
+    "meaning": "sàn nhà, nền nhà",
     "reading": "ゆか",
     "sinoVietnamese": "",
-    "example": "床の上に何がありますか。 (Có gì trên sàn vậy?)"
+    "example": "リビングの床にジュースをこぼしてしまったので、雑巾ですぐに拭いた。 (Tôi lỡ làm đổ nước trái cây ra sàn phòng khách nên đã lấy giẻ lau sạch ngay lập tức.)"
   },
   {
     "word": "愉快",
@@ -1443,10 +1443,10 @@
   },
   {
     "word": "ライター",
-    "meaning": "nhẹ hơn",
+    "meaning": "cái bật lửa, người viết văn/viết báo",
     "reading": "ライター",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりのライタを選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được chiếc bật lửa hoàn hảo cho mình.)"
+    "example": "ガスコンロがつかないので、引き出しからライターを出して火をつけました。 (Bếp ga không đánh lửa nên tôi lấy chiếc bật lửa trong ngăn kéo ra châm.)"
   },
   {
     "word": "楽",
@@ -1548,10 +1548,10 @@
   },
   {
     "word": "礼儀",
-    "meaning": "cách cư xử",
+    "meaning": "lễ nghi, phép lịch sự, cung cách ứng xử",
     "reading": "れいぎ",
     "sinoVietnamese": "",
-    "example": "そんなことをするのは礼儀の常識を欠いている。 (Làm một việc như vậy thiếu ý thức lễ nghi thông thường.)"
+    "example": "目上の人と話すときは、きちんとした礼儀を守るべきです。 (Khi nói chuyện với người lớn tuổi, chúng ta nên tuân thủ phép lịch sự đúng mực.)"
   },
   {
     "word": "冷静",
@@ -1695,10 +1695,10 @@
   },
   {
     "word": "悪口",
-    "meaning": "lạm dụng",
+    "meaning": "nói xấu, lời thóa mạ sau lưng",
     "reading": "わるくち",
     "sinoVietnamese": "ÁC KHẨU",
-    "example": "日本の文化や生活に関わる悪口について興味深く学びました。 (Thật thú vị khi tìm hiểu về ngôn ngữ xấu liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+    "example": "人の悪口を言うのはやめて、相手の良いところに目を向けましょう。 (Đừng bao giờ nói xấu sau lưng người khác, hãy nhìn vào ưu điểm của họ.)"
   },
   {
     "word": "我々",

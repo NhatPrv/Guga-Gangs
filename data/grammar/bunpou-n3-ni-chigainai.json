@@ -3,7 +3,7 @@
   "level": "N3",
   "unitId": "grammar-n3-unit-01",
   "title": "〜に違いない / 〜に相違ない",
-  "meaning": "Chắc chắn là... / Nhất định là...",
+  "meaning": "Chắc chắn là..., nhất định là... (suy đoán chắc chắn dựa trên chứng cứ hoặc nhận định xác thực)",
   "connection": "Thể thường (bỏ だ) + に違いない",
   "usageNotes": "Diễn tả sự phán đoán với độ tin cậy rất cao của người nói dựa trên trực giác hoặc bằng chứng.",
   "questions": [
@@ -87,5 +87,6 @@
       "correctIndex": 0,
       "explanation": "Danh từ + に違いない ➔ あの男に違いない."
     }
-  ]
+  ],
+  "meaningVi": "Chắc chắn là..., nhất định là... (suy đoán chắc chắn dựa trên chứng cứ hoặc nhận định xác thực)"
 }

@@ -1,11 +1,11 @@
 {
   "hub": "vocab",
   "title": "Cây danh mục Từ vựng JLPT (N5 - N3)",
-  "generatedAt": "2026-10-19T17:08:13.078Z",
+  "generatedAt": "2026-10-19T19:13:05.678Z",
   "stats": {
     "totalCurricula": 6,
     "totalUnits": 71,
-    "totalVocab": 4264
+    "totalVocab": 4263
   },
   "curricula": [
     {
@@ -141,7 +141,7 @@
           "order": 16,
           "description": "Từ vựng và Hán tự trọng tâm Bài 16 giáo trình Minna no Nihongo I",
           "vocabPath": "data/minna-no-nihongo-n5/unit-16/vocabulary.json",
-          "vocabCount": 46
+          "vocabCount": 45
         },
         {
           "id": "unit-17",

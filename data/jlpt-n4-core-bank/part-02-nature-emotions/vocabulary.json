@@ -57,10 +57,10 @@
   },
   {
     "word": "ガソリンスタンド",
-    "meaning": "nhà ga",
+    "meaning": "cây xăng, trạm tiếp nhiên liệu",
     "reading": "ガソリンスタンド",
     "sinoVietnamese": "",
-    "example": "この辺にガソリンスタンドはありますか。 (Xung quanh đây có trạm xăng không?)"
+    "example": "ドライブの途中で燃料が減ってきたので、近くのガソリンスタンドに寄った。 (Đang trên chuyến đi chơi xa thì xe sắp hết xăng nên tôi ghé vào cây xăng gần đó.)"
   },
   {
     "word": "堅い",
@@ -302,10 +302,10 @@
   },
   {
     "word": "けがする",
-    "meaning": "làm tổn thương",
+    "meaning": "bị thương, gặp chấn thương",
     "reading": "けがする",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、けがするようにしています。 (Tôi cố gắng để bị thương mỗi ngày mà không thất bại.)"
+    "example": "サッカーの練習中に転んで足首をけがしてしまいました。 (Trong lúc tập bóng đá tôi bị ngã và chấn thương mắt cá chân mất.)"
   },
   {
     "word": "消しゴム",
@@ -323,7 +323,7 @@
   },
   {
     "word": "決して",
-    "meaning": "không bao giờ",
+    "meaning": "tuyệt đối không bao giờ (luôn đi cùng thể phủ định: 決して〜ない)",
     "reading": "けっして",
     "sinoVietnamese": "",
     "example": "これは決して小さなことではない。 (Đây không phải là chuyện nhỏ.)"
@@ -351,10 +351,10 @@
   },
   {
     "word": "研究室",
-    "meaning": "căn phòng",
+    "meaning": "phòng nghiên cứu của giáo sư, phòng thí nghiệm học thuật",
     "reading": "けんきゅうしつ",
     "sinoVietnamese": "NGHIÊN CỨU THẤT",
-    "example": "私たちはその研究室を利用した。 (Chúng tôi đã sử dụng phòng thí nghiệm đó.)"
+    "example": "卒業論文のテーマについて相談するために、教授の研究室を訪ねました。 (Tôi đã đến phòng nghiên cứu của giáo sư để trao đổi về đề tài khóa luận tốt nghiệp.)"
   },
   {
     "word": "見物",
@@ -372,10 +372,10 @@
   },
   {
     "word": "こう",
-    "meaning": "lối này",
+    "meaning": "như thế này (cách thức này)",
     "reading": "こう",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、こうようにしています。 (Tôi làm điều này mỗi ngày mà không thất bại.)"
+    "example": "先生が「こうやって書くときれいな字になりますよ」と教えてくれました。 (Thầy giáo chỉ cho tôi: \"Viết như thế này nét chữ sẽ rất đẹp đấy\".)"
   },
   {
     "word": "工業",

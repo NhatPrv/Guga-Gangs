@@ -1,24 +1,24 @@
 [
   {
     "word": "焼きます",
-    "meaning": "nướng",
+    "meaning": "nướng (thịt, cá, bánh: 魚を焼く)",
     "reading": "やきます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、焼きますようにしています。 (Tôi cố gắng nướng nó mỗi ngày mà không thất bại.)"
+    "example": "七輪の炭火で脂ののった秋刀魚を香ばしく焼きました。 (Trên bếp than hồng, tôi nướng những con cá thu đao béo ngậy thơm lừng.)"
   },
   {
     "word": "渡します",
-    "meaning": "đưa ra",
+    "meaning": "trao tận tay, đưa cho (giấy tờ, quà)",
     "reading": "わたします",
     "sinoVietnamese": "",
-    "example": "毎日仕事が終わったあと、日本語を渡します。 (Mỗi ngày sau giờ làm việc, tôi đều dạy họ tiếng Nhật.)"
+    "example": "卒業式の壇上で、校長先生から一人ひとりに卒業証書が手渡されました。 (Trên bục lễ tốt nghiệp, thầy hiệu trưởng đã tận tay trao bằng cho từng học sinh.)"
   },
   {
     "word": "帰ってきます",
-    "meaning": "để lại vị trí cũ",
+    "meaning": "trở về (về nhà, về nước)",
     "reading": "かえってきます",
     "sinoVietnamese": "QUY",
-    "example": "週末は家族と一緒にスーパーへ帰ってきます。 (Cuối tuần tôi lại cùng gia đình đi siêu thị.)"
+    "example": "出張で海外に行っていた父が無事に今夜帰ってきます。 (Bố tôi đi công tác nước ngoài tối nay sẽ trở về nhà an toàn.)"
   },
   {
     "word": "出ます「バスが」",
@@ -29,31 +29,31 @@
   },
   {
     "word": "宅配便",
-    "meaning": "dịch vụ giao hàng tận nhà",
+    "meaning": "dịch vụ chuyển phát nhanh tận nhà",
     "reading": "たくはいびん",
     "sinoVietnamese": "PHỐI TIỆN",
-    "example": "新しい宅配便を手に入れて、仕事の効率がぐんと上がりました。 (Tôi nhận được dịch vụ chuyển phát nhanh mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+    "example": "田舎の実家から採れたての新鮮な野菜が宅配便で届きました。 (Thùng rau tươi vừa hái ở quê nhà đã được gửi chuyển phát nhanh tới tận cửa.)"
   },
   {
     "word": "原因",
-    "meaning": "lý do",
+    "meaning": "nguyên nhân, căn nguyên",
     "reading": "げんいん",
     "sinoVietnamese": "",
-    "example": "使いやすい原因のおかげで、毎日の生活がとても快適になりました。 (Nhờ tính chất dễ sử dụng, nó đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
+    "example": "エンジニアがシステム障害の根本的な原因を徹底的に調査しています。 (Các kỹ sư đang điều tra kỹ lưỡng nguyên nhân gốc rễ của sự cố hệ thống.)"
   },
   {
     "word": "注射",
-    "meaning": "tiêm",
+    "meaning": "mũi tiêm phòng, tiêm thuốc",
     "reading": "ちゅうしゃ",
     "sinoVietnamese": "",
-    "example": "新しい注射を手に入れて、仕事の効率がぐんと上がりました。 (Tôi được tiêm một mũi mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+    "example": "インフルエンザを予防するために、病院でワクチンの予防注射を受けました。 (Để phòng ngừa cúm mùa, tôi đã đến bệnh viện tiêm một mũi vắc-xin.)"
   },
   {
     "word": "食欲",
-    "meaning": "đói",
+    "meaning": "sự thèm ăn, cảm giác ngon miệng",
     "reading": "しょくよく",
     "sinoVietnamese": "THỰC",
-    "example": "日本の伝統的な食欲の味付けがとても口に合います。 (Gia vị ngon miệng truyền thống của Nhật Bản rất ngon miệng.)"
+    "example": "風邪が治って元気になったら、自然と食欲が戻ってきました。 (Sau khi khỏi cảm cúm người khỏe lại, cảm giác thèm ăn của tôi tự nhiên quay trở lại.)"
   },
   {
     "word": "ステレオ",
@@ -71,10 +71,10 @@
   },
   {
     "word": "たった今",
-    "meaning": "bây giờ",
+    "meaning": "vừa mới tức thì (vừa xong tích tắc)",
     "reading": "たったいま",
     "sinoVietnamese": "KIM",
-    "example": "たった今は家族と一緒に楽しい旅行に出かける計画です。 (Hiện tại tôi đang có kế hoạch đi du lịch vui vẻ cùng gia đình.)"
+    "example": "たった今、成田空港に到着したばかりの友達から着信がありました。 (Tôi vừa nhận được cuộc gọi từ người bạn mới hạ cánh xuống sân bay Narita tức thì.)"
   },
   {
     "word": "今いいでしょうか",
@@ -85,24 +85,24 @@
   },
   {
     "word": "ガスサービスセンター",
-    "meaning": "trung tâm, ở giữa",
+    "meaning": "trung tâm dịch vụ cung cấp khí gas (cơ quan hỗ trợ gas dân dụng)",
     "reading": "ガスサービスセンター",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わるガスサービスセンタについて興味深く学びました。 (Tôi rất thích thú tìm hiểu về các trung tâm dịch vụ gas, những thứ gắn liền với văn hóa và đời sống Nhật Bản.)"
+    "example": "引っ越し当日にガスを開栓してもらうため、事前にガスサービスセンターへ連絡を入れた。 (Để được mở khóa van gas vào đúng ngày dọn nhà, tôi đã liên hệ trước với trung tâm dịch vụ gas.)"
   },
   {
     "word": "ガスコンロ",
-    "meaning": "bếp gas",
+    "meaning": "bếp gas nấu ăn gia đình",
     "reading": "ガスコンロ",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なガスコンロをしっかり入れて出かけました。 (Tôi nhét chiếc bếp gas cần thiết vào túi và đi ra ngoài.)"
+    "example": "安全装置が付いた最新式のガスコンロをキッチンに設置し、火災予防に配慮した。 (Tôi lắp đặt chiếc bếp gas đời mới có cảm biến an toàn trong bếp để phòng chống cháy nổ.)"
   },
   {
     "word": "具合",
-    "meaning": "trạng thái, trạng thái",
+    "meaning": "thể trạng sức khỏe, tình trạng máy móc",
     "reading": "ぐあい",
     "sinoVietnamese": "CỤ HỢP",
-    "example": "丁寧にお手入れをしながら、お気に入りの具合を長く愛用しています。 (Trong khi chăm sóc nó cẩn thận, bạn có thể sử dụng nó trong thời gian dài trong tình trạng yêu thích.)"
+    "example": "少し体の具合が悪いので、早めに帰宅して薬を飲んで寝ます。 (Thể trạng trong người hơi mệt nên tôi xin về sớm uống thuốc rồi nghỉ ngơi.)"
   },
   {
     "word": "どちら様でしょうか",
@@ -113,17 +113,17 @@
   },
   {
     "word": "向かいます",
-    "meaning": "hướng tới",
+    "meaning": "hướng về, đi về phía (đích đến)",
     "reading": "むかいます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、向かいますようにしています。 (Tôi cố gắng đến đó mỗi ngày mà không thất bại.)"
+    "example": "待ち合わせのカフェへ向かって、駅から足早に歩いています。 (Tôi đang rảo bước nhanh từ nhà ga hướng về quán cà phê nơi đã hẹn.)"
   },
   {
     "word": "お待たせしました",
-    "meaning": "xin lỗi đã để bạn phải chờ đợi",
+    "meaning": "xin lỗi đã để quý khách phải chờ lâu (lời phục vụ khi mang đồ ra)",
     "reading": "おまたせしました。",
     "sinoVietnamese": "ĐÃI",
-    "example": "父から大切なお待たせしましたを譲り受けて、大事に使っています。 (Tôi thừa hưởng cuốn sách Xin lỗi để bạn chờ đợi quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "ウェイターが湯気の立つ温かい料理をテーブルに運び、「大変お待たせいたしました」と一礼した。 (Người phục vụ bưng món ăn nóng hổi bốc khói ra bàn và cúi chào: \"Xin lỗi đã để quý khách đợi lâu ạ\".)"
   },
   {
     "word": "知識",
@@ -155,38 +155,38 @@
   },
   {
     "word": "システム",
-    "meaning": "hệ thống",
+    "meaning": "hệ thống phần mềm, cơ chế vận hành (system)",
     "reading": "システム",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りのシステムを長く愛用しています。 (Tôi sử dụng hệ thống yêu thích của mình trong một thời gian dài và chăm sóc nó cẩn thận.)"
+    "example": "社内の業務効率を飛躍的に向上させるため、次世代のクラウド業務システムを導入した。 (Để nâng cao vượt bậc hiệu suất làm việc nội bộ, công ty đã đưa vào hệ thống điện toán đám mây thế hệ mới.)"
   },
   {
     "word": "キーワード",
-    "meaning": "chìa khóa",
+    "meaning": "từ khóa tìm kiếm, từ mấu chốt (keyword)",
     "reading": "キーワード",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なキーワードをしっかり入れて出かけました。 (Tôi nhét những từ khóa cần thiết vào túi và đi ra ngoài.)"
+    "example": "検索エンジンの入力欄に適切なキーワードを入力して、欲しい情報を素早くヒットさせた。 (Nhập từ khóa chuẩn xác vào thanh tìm kiếm, tôi nhanh chóng tìm ra thông tin mình cần.)"
   },
   {
     "word": "一部分",
-    "meaning": "một phần",
+    "meaning": "một phần, một bộ phận",
     "reading": "いちぶぶん",
     "sinoVietnamese": "NHẤT PHÂN",
-    "example": "一部分までに提出しなければならない大事な書類があります。 (Có những giấy tờ quan trọng phải nộp trước.)"
+    "example": "激しい嵐によって屋根の一部が吹き飛ばされ、翌朝すぐに修理の手配を行った。 (Cơn bão dữ dội đã thổi bay một phần mái nhà, sáng hôm sau tôi lập tức gọi thợ sửa chữa.)"
   },
   {
     "word": "入力します",
-    "meaning": "đầu vào",
+    "meaning": "nhập dữ liệu, gõ văn bản vào máy tính",
     "reading": "にゅうりょくします",
     "sinoVietnamese": "NHẬP LỰC",
-    "example": "毎日仕事が終わったあと、日本語を入力します。 (Mỗi ngày sau giờ làm việc, tôi gõ tiếng Nhật.)"
+    "example": "会員登録の専用画面で、氏名やメールアドレスなどの必要事項をキーボードで入力した。 (Trên màn hình đăng ký thành viên, tôi gõ bàn phím nhập các thông tin cần thiết như họ tên, email.)"
   },
   {
     "word": "秒",
-    "meaning": "giây",
+    "meaning": "giây (đơn vị đo thời gian)",
     "reading": "びょう",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わる秒について興味深く学びました。 (Tôi đã tìm hiểu được những điều thú vị về những giây phút liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+    "example": "陸上短距離走の百メートル走で、自己ベストとなる十秒台の記録を叩き出した。 (Ở cự ly chạy nước rút 100 mét, anh ấy đã xác lập kỷ lục cá nhân tốt nhất trong khoảng 10 giây.)"
   },
   {
     "word": "出ます「本が～」",

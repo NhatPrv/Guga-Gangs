@@ -1,94 +1,94 @@
 [
   {
     "word": "立ちます",
-    "meaning": "đứng",
+    "meaning": "đứng dậy, đứng (tự động từ)",
     "reading": "たちます",
     "sinoVietnamese": "LẬP",
-    "example": "毎日欠かさずに、立ちますようにしています。 (Tôi cố gắng đứng lên mỗi ngày mà không thất bại.)"
+    "example": "電車でお年寄りが乗ってきたので、すぐに席を立って譲りました。 (Thấy cụ già bước lên tàu điện, tôi lập tức đứng dậy nhường chỗ.)"
   },
   {
     "word": "座ります",
-    "meaning": "ngồi",
+    "meaning": "ngồi xuống (ghế: いすに座る)",
     "reading": "すわります",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、座りますようにしています。 (Tôi cố gắng ngồi xuống mỗi ngày mà không thất bại.)"
+    "example": "公園の木陰のベンチに座って、持ってきたお弁当を食べました。 (Ngồi trên chiếc ghế dài dưới bóng râm công viên, tôi ăn hộp cơm mang theo.)"
   },
   {
     "word": "使います",
-    "meaning": "sử dụng, sử dụng",
+    "meaning": "sử dụng, dùng (máy tính, bút, dụng cụ)",
     "reading": "つかいます",
     "sinoVietnamese": "SỬ",
-    "example": "毎日欠かさずに、使いますようにしています。 (Tôi cố gắng sử dụng nó mỗi ngày mà không thất bại.)"
+    "example": "料理を作るときは、よく研いだ包丁を注意しながら使います。 (Khi nấu ăn, tôi cẩn thận dùng con dao làm bếp đã được mài sắc.)"
   },
   {
     "word": "置きます",
-    "meaning": "đặt",
+    "meaning": "đặt, để (đồ vật lên bàn)",
     "reading": "おきます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、置きますようにしています。 (Tôi cố gắng để nó ở đó mỗi ngày mà không thất bại.)"
+    "example": "脱いだ靴を玄関の隅にきれいに揃えて置きました。 (Tôi xếp đôi giày đã cởi ngay ngắn gọn gàng vào góc tiền sảnh.)"
   },
   {
     "word": "作ります，造ります",
-    "meaning": "chế tạo, chế tạo, chế tạo",
+    "meaning": "chế tạo, nấu nướng, làm ra",
     "reading": "つくります",
     "sinoVietnamese": "TÁC",
-    "example": "毎日欠かさずに、作ります，造りますようにしています。 (Tôi cố gắng làm điều gì đó mỗi ngày mà không thất bại.)"
+    "example": "週末に市場で買った新鮮な材料を使って、美味しいカレーを作りました。 (Dùng nguyên liệu tươi ngon mua ở chợ cuối tuần, tôi đã nấu nồi cà ri tuyệt hảo.)"
   },
   {
     "word": "売ります",
-    "meaning": "bán",
+    "meaning": "bán (hàng hóa, vé)",
     "reading": "うります",
     "sinoVietnamese": "MẠI",
-    "example": "毎日欠かさずに、売りますようにしています。 (Tôi cố gắng bán nó mỗi ngày mà không thất bại.)"
+    "example": "駅前のベーカリーでは、毎日焼きたての美味しいパンを売っています。 (Tiệm bánh trước ga ngày nào cũng bày bán những mẻ bánh mì nướng thơm lừng.)"
   },
   {
     "word": "知ります",
-    "meaning": "biết",
+    "meaning": "biết, nhận biết (thông tin)",
     "reading": "しります",
     "sinoVietnamese": "TRI",
-    "example": "毎日欠かさずに、知りますようにしています。 (Tôi cố gắng tìm hiểu về nó mỗi ngày mà không thất bại.)"
+    "example": "ニュースを見て初めてその大事件の真相を知りました。 (Xem bản tin thời sự tôi mới vỡ lẽ biết được chân tướng vụ đại án đó.)"
   },
   {
     "word": "住みます",
-    "meaning": "sống ở",
+    "meaning": "sinh sống, định cư (ở đâu: 大阪に住む)",
     "reading": "すみます",
     "sinoVietnamese": "TRÚ",
-    "example": "毎日欠かさずに、住みますようにしています。 (Tôi cố gắng sống mà không bỏ lỡ nó mỗi ngày.)"
+    "example": "日本の大学を卒業した後は、交通が便利な東京に住みたいです。 (Sau khi tốt nghiệp đại học ở Nhật, tôi muốn sinh sống tại Tokyo tiện nghi.)"
   },
   {
     "word": "研究します",
-    "meaning": "nghiên cứu",
+    "meaning": "nghiên cứu (chuyên ngành khoa học)",
     "reading": "けんきゅうします",
     "sinoVietnamese": "NGHIÊN CỨU",
-    "example": "毎日仕事が終わったあと、日本語を研究します。 (Tôi học tiếng Nhật mỗi ngày sau giờ làm việc.)"
+    "example": "大学院の実験室で再生可能エネルギーの新しい技術を研究しています。 (Tại phòng thí nghiệm cao học, tôi đang nghiên cứu công nghệ năng lượng tái tạo mới.)"
   },
   {
     "word": "知って います",
-    "meaning": "biết",
-    "reading": "しって います",
+    "meaning": "đang biết, nắm rõ",
+    "reading": "しっています",
     "sinoVietnamese": "TRI",
-    "example": "毎日欠かさずに、知って いますようにしています。 (Tôi chắc chắn rằng tôi biết điều đó mỗi ngày mà không thất bại.)"
+    "example": "「あの有名なピアニストを知っていますか」「はい、よく知っています」 (Bạn có biết người nghệ sĩ dương cầm nổi tiếng kia không? - Vâng, tôi biết rất rõ ạ.)"
   },
   {
     "word": "住んで います [大阪に～]",
-    "meaning": "đang sống [ở Osaka]",
-    "reading": "すんで います [おおさかに～]",
+    "meaning": "đang cư trú, đang sống tại",
+    "reading": "すんでいます",
     "sinoVietnamese": "TRÚ ĐẠI",
-    "example": "先生のアドバイスをよく聞いて、正しく住んで いますように練習しました。 (Tôi chăm chú lắng nghe lời khuyên của thầy và rèn luyện cách sống đúng đắn.)"
+    "example": "私は現在、緑が多くて静かな神奈川県の横浜市に住んでいます。 (Hiện tại tôi đang sống tại thành phố Yokohama thanh bình nhiều cây xanh ở Kanagawa.)"
   },
   {
     "word": "資料",
-    "meaning": "tài liệu, vật liệu",
+    "meaning": "tài liệu, tư liệu phục vụ cuộc họp/học tập",
     "reading": "しりょう",
     "sinoVietnamese": "LIỆU",
-    "example": "店員さんに相談して、自分にぴったりの資料を選びました。 (Tôi đã tham khảo ý kiến ​​của nhân viên cửa hàng và lựa chọn những chất liệu phù hợp nhất với mình.)"
+    "example": "明日のプレゼンに向けて、グラフを含めた発表用の資料を印刷しました。 (Chuẩn bị cho bài thuyết trình ngày mai, tôi đã in tập tài liệu gồm các biểu đồ.)"
   },
   {
     "word": "カタログ",
-    "meaning": "danh mục",
+    "meaning": "cuốn danh mục sản phẩm (catalogue)",
     "reading": "カタログ",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りのカタログを長く愛用しています。 (Tôi sử dụng các danh mục yêu thích của mình trong một thời gian dài, chăm sóc chúng cẩn thận.)"
+    "example": "家電量販店で最新のノートパソコンのカタログをもらって持ち帰った。 (Tôi lấy cuốn danh mục laptop đời mới nhất ở siêu thị điện máy mang về nhà xem.)"
   },
   {
     "word": "時刻表",
@@ -113,17 +113,17 @@
   },
   {
     "word": "ソフト",
-    "meaning": "phần mềm",
+    "meaning": "phần mềm máy tính (software)",
     "reading": "ソフト",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりのソフトを選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn phần mềm hoàn hảo cho mình.)"
+    "example": "パソコンの動作を安定させるため、最新のウイルス対策ソフトを導入した。 (Để máy tính hoạt động ổn định, tôi đã cài đặt phần mềm diệt virus phiên bản mới nhất.)"
   },
   {
     "word": "専門",
-    "meaning": "chuyên môn hóa",
+    "meaning": "chuyên môn, ngành nghề chuyên sâu",
     "reading": "せんもん",
     "sinoVietnamese": "MÔN",
-    "example": "友達と一緒に、珍しくて面白い専門を見に行きました。 (Tôi và bạn tôi đi xem một đặc sản lạ và thú vị.)"
+    "example": "大学院では、人工知能と自然言語処理の分野を専門に研究しています。 (Ở bậc cao học, tôi nghiên cứu chuyên sâu về lĩnh vực trí tuệ nhân tạo và xử lý ngôn ngữ tự nhiên.)"
   },
   {
     "word": "歯医者",
@@ -141,10 +141,10 @@
   },
   {
     "word": "プレイガイド",
-    "meaning": "văn phòng làm việc",
+    "meaning": "quầy bán vé xem kịch, hòa nhạc (playguide)",
     "reading": "プレイガイド",
     "sinoVietnamese": "",
-    "example": "兄は将来、立派なプレイガイドになるために毎日熱心に勉強しています。 (Anh trai tôi đang học tập chăm chỉ mỗi ngày để trở thành một hướng dẫn viên chơi giỏi trong tương lai.)"
+    "example": "人気のミュージカルのチケットを予約するため、駅前のプレイガイドに並んだ。 (Để đặt mua vé xem vở nhạc kịch ăn khách, tôi đã xếp hàng tại quầy bán vé trước ga.)"
   },
   {
     "word": "独身",
@@ -155,37 +155,37 @@
   },
   {
     "word": "特に",
-    "meaning": "đặc biệt",
+    "meaning": "đặc biệt là (nhấn mạnh sự nổi trội)",
     "reading": "とくに",
     "sinoVietnamese": "ĐẶC",
-    "example": "日本の文化や生活に関わる特にについて興味深く学びました。 (Tôi thấy rất thú vị khi tìm hiểu về văn hóa và cuộc sống Nhật Bản.)"
+    "example": "果物はどれも好きですが、夏の時期は特に甘いスイカが一番の好物です。 (Hoa quả nào tôi cũng thích, nhưng mùa hè thì đặc biệt là dưa hấu ngọt luôn là món ưa chuộng nhất.)"
   },
   {
     "word": "思い出します",
-    "meaning": "nhớ, nhớ lại",
+    "meaning": "nhớ lại, hồi tưởng lại",
     "reading": "思い出します",
     "sinoVietnamese": "TƯ XUẤT",
-    "example": "毎日仕事が終わったあと、日本語を思い出します。 (Mỗi ngày sau giờ làm việc, tôi đều nhớ đến tiếng Nhật.)"
+    "example": "古いアルバムの写真を開くと、楽しかった幼い頃の思い出が次々とよみがえる。 (Khi mở cuốn album ảnh cũ, những kỷ niệm thời thơ ấu vui tươi lại ùa về trong tâm trí tôi.)"
   },
   {
     "word": "ご家族",
-    "meaning": "gia đình",
+    "meaning": "gia đình của bạn (kính ngữ khi nhắc đến người thân của đối phương)",
     "reading": "ご家族",
     "sinoVietnamese": "TỘC",
-    "example": "専門的な知識を持ったご家族に相談することをおすすめします。 (Chúng tôi khuyên bạn nên tham khảo ý kiến ​​của một thành viên trong gia đình có kiến ​​thức chuyên môn.)"
+    "example": "「国のご家族はお元気でいらっしゃいますか。」「はい、おかげさまで。」 (\"Gia đình của bạn ở quê nhà vẫn mạnh khỏe chứ ạ?\" \"Vâng, trộm vía mọi người vẫn khỏe ạ.\")"
   },
   {
     "word": "いらっしゃいます",
-    "meaning": "kính ngữ của います (ở, có)",
+    "meaning": "ở, có, đi, đến (kính ngữ của います, いきます, きます)",
     "reading": "いらっしゃいます",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、いらっしゃいますようにしています。 (Tôi hy vọng được gặp bạn mỗi ngày mà không thất bại.)"
+    "example": "「社長は奥の応接室にいらっしゃいますので、どうぞご案内いたします。」 (\"Giám đốc đang ở phòng tiếp khách phía trong, xin mời quý khách đi theo tôi ạ.\")"
   },
   {
     "word": "高校",
-    "meaning": "trường học",
+    "meaning": "trường trung học phổ thông, trường cấp ba",
     "reading": "高校",
     "sinoVietnamese": "CAO HIỆU",
-    "example": "家から歩いて10分ほどのところに大きな高校があります。 (Có một trường trung học lớn cách nhà tôi khoảng 10 phút đi bộ.)"
+    "example": "地元の公立高校に通っていた頃は、毎朝自転車で坂道を登っていました。 (Hồi còn học ở trường cấp ba công lập địa phương, sáng nào tôi cũng đạp xe leo dốc.)"
   }
 ]

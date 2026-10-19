@@ -1,289 +1,289 @@
 [
   {
     "word": "診る",
-    "meaning": "khám bệnh, chẩn đoán",
-    "reading": "みます",
+    "meaning": "khám bệnh, chẩn đoán (bác sĩ khám)",
+    "reading": "みる",
     "sinoVietnamese": "CHẨN",
-    "example": "毎日欠かさずに、診るようにしています。 (Tôi cố gắng kiểm tra nó mỗi ngày mà không thất bại.)"
+    "example": "熱が高いので、お医者さんに診てもらいました。 (Vì sốt cao nên tôi đã được bác sĩ khám bệnh cho.)"
   },
   {
     "word": "捜す",
-    "meaning": "tìm thấy",
-    "reading": "さがします",
+    "meaning": "tìm kiếm (đồ vật bị mất, người mất tích)",
+    "reading": "さがす",
     "sinoVietnamese": "SƯU",
-    "example": "毎日欠かさずに、捜すようにしています。 (Tôi cố gắng tìm kiếm nó mỗi ngày mà không thất bại.)"
+    "example": "落とした鍵を家の中で一生懸命捜しています。 (Tôi đang cố gắng tìm kiếm chiếc chìa khóa bị đánh rơi trong nhà.)"
   },
   {
     "word": "探す",
-    "meaning": "tìm kiếm",
-    "reading": "さがします",
+    "meaning": "tìm kiếm (việc làm, nhà ở, cơ hội mong muốn)",
+    "reading": "さがす",
     "sinoVietnamese": "THÁM",
-    "example": "毎日欠かさずに、探すようにしています。 (Tôi cố gắng tìm kiếm nó mỗi ngày mà không thất bại.)"
+    "example": "来月から住む新しいアパートを探しています。 (Tôi đang tìm kiếm một căn hộ mới để chuyển đến sống từ tháng sau.)"
   },
   {
     "word": "時間に遅れる",
-    "meaning": "chiều tối",
-    "reading": "おくれます",
+    "meaning": "muộn giờ, trễ hẹn",
+    "reading": "じかんにおくれる",
     "sinoVietnamese": "THỜI GIAN TRÌ",
-    "example": "毎日欠かさずに、時間に遅れるようにしています。 (Tôi cố gắng đến đúng giờ mỗi ngày mà không thất bại.)"
+    "example": "電車の事故で約束の時間に遅れてしまいました。 (Do sự cố tàu điện nên tôi đã bị muộn giờ hẹn mất rồi.)"
   },
   {
     "word": "会議に間に合う",
-    "meaning": "đúng giờ",
-    "reading": "まにあいます",
+    "meaning": "kịp giờ họp",
+    "reading": "かいぎにまにあう",
     "sinoVietnamese": "HỘI GIAN HỢP",
-    "example": "毎日欠かさずに、会議に間に合うようにしています。 (Tôi đảm bảo có mặt đúng giờ trong các cuộc họp hàng ngày.)"
+    "example": "タクシーに乗ったので、午後の大事な会議に間に合いました。 (Nhờ bắt taxi nên tôi đã kịp giờ cuộc họp quan trọng buổi chiều.)"
   },
   {
     "word": "宿題をやる",
     "meaning": "làm bài tập về nhà",
-    "reading": "やります",
+    "reading": "しゅくだいをする",
     "sinoVietnamese": "TÚC ĐỀ",
-    "example": "毎日欠かさずに、宿題をやるようにしています。 (Tôi cố gắng làm bài tập về nhà mỗi ngày mà không thất bại.)"
+    "example": "テレビを見る前に、まず日本語の宿題をやります。 (Trước khi xem tivi, trước hết tôi sẽ làm bài tập tiếng Nhật đã.)"
   },
   {
     "word": "ごみを拾う",
     "meaning": "nhặt rác",
-    "reading": "ひろいます",
+    "reading": "ごみをひろう",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、ごみを拾うようにしています。 (Tôi cố gắng nhặt rác mỗi ngày mà không thất bại.)"
+    "example": "公園のボランティア活動でみんなでごみを拾いました。 (Trong hoạt động tình nguyện ở công viên, mọi người cùng nhau nhặt rác.)"
   },
   {
     "word": "学校に連絡する",
-    "meaning": "liên hệ",
-    "reading": "れんらくします",
+    "meaning": "liên lạc, báo cho nhà trường",
+    "reading": "がっこうにれんらくする",
     "sinoVietnamese": "HỌC HIỆU LIÊN LẠC",
-    "example": "毎日欠かさずに、学校に連絡するようにしています。 (Tôi cố gắng liên lạc với trường mỗi ngày mà không thất bại.)"
+    "example": "風邪で休むときは、朝8時までに学校に連絡してください。 (Khi nghỉ ốm vì cảm cúm, hãy liên lạc báo cho nhà trường trước 8 giờ sáng.)"
   },
   {
     "word": "気分がいい",
-    "meaning": "tâm trạng tốt, cơ thể tốt",
+    "meaning": "tâm trạng sảng khoái, thể trạng tốt",
     "reading": "きぶんがいい",
     "sinoVietnamese": "KHÍ PHÂN",
-    "example": "この本はとても気分がいいので、おすすめです。 (Cuốn sách này làm cho tôi cảm thấy thực sự tốt và tôi đánh giá cao nó.)"
+    "example": "朝の澄んだ空気を吸うと、とても気分がいいです。 (Hít thở không khí trong lành buổi sáng khiến tâm trạng thật sảng khoái.)"
   },
   {
     "word": "気分が悪い",
-    "meaning": "tâm trạng tồi tệ",
+    "meaning": "khó chịu, người không khỏe, tâm trạng xấu",
     "reading": "きぶんがわるい",
     "sinoVietnamese": "KHÍ PHÂN ÁC",
-    "example": "この本はとても気分が悪いので、おすすめです。 (Cuốn sách này khiến tôi cảm thấy rất tệ và tôi đánh giá cao nó.)"
+    "example": "船に酔って気分が悪くなってしまいました。 (Tôi bị say sóng nên thấy trong người rất khó chịu.)"
   },
   {
     "word": "運動会",
-    "meaning": "thi đấu thể thao",
+    "meaning": "ngày hội thể thao",
     "reading": "うんどうかい",
     "sinoVietnamese": "VẬN ĐỘNG HỘI",
-    "example": "運動会の準備のために、朝早くから会場へ向かいました。 (Tôi đến địa điểm thi đấu từ sáng sớm để chuẩn bị cho ngày thể thao.)"
+    "example": "秋晴れの日に小学校の運動会が行われました。 (Ngày hội thể thao của trường tiểu học được tổ chức vào một ngày thu đẹp trời.)"
   },
   {
     "word": "盆踊り",
-    "meaning": "lễ hội khiêu vũ obon",
+    "meaning": "điệu múa Bon (múa lễ hội truyền thống mùa hè)",
     "reading": "ぼんおどり",
     "sinoVietnamese": "",
-    "example": "盆踊りが終わった後、参加者みんなで記念写真を撮りました。 (Sau khi điệu múa Bon kết thúc, tất cả người tham gia chụp ảnh lưu niệm.)"
+    "example": "浴衣を着て夏祭りの盆踊りに参加しました。 (Tôi mặc áo Yukata và tham gia điệu múa Bon tại lễ hội mùa hè.)"
   },
   {
     "word": "フリーマーケット",
-    "meaning": "chợ đồ cũ, chợ trời",
+    "meaning": "chợ trời, hội chợ đồ cũ",
     "reading": "フリーマーケット",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わるフリーマーケットについて興味深く学びました。 (Tôi đã tìm hiểu rất thú vị về những khu chợ trời gắn liền với văn hóa và cuộc sống của người Nhật.)"
+    "example": "フリーマーケットで可愛いアンティークの皿を見つけました。 (Tôi đã tìm thấy chiếc đĩa cổ rất dễ thương ở chợ trời.)"
   },
   {
     "word": "場所",
-    "meaning": "địa điểm, địa điểm",
+    "meaning": "địa điểm, nơi chốn",
     "reading": "ばしょ",
     "sinoVietnamese": "SỞ",
-    "example": "駅の前に新しく近代的な場所が建てられました。 (Một địa điểm mới, hiện đại được xây dựng trước nhà ga.)"
+    "example": "明日のバーベキューをする場所はどこですか。 (Địa điểm tổ chức tiệc nướng ngày mai là ở đâu vậy?)"
   },
   {
     "word": "ボランティア",
-    "meaning": "công tác từ thiện, tình nguyện viên",
+    "meaning": "tình nguyện viên, hoạt động tình nguyện",
     "reading": "ボランティア",
     "sinoVietnamese": "",
-    "example": "父から大切なボランティアを譲り受けて、大事に使っています。 (Tôi thừa hưởng một tình nguyện viên có giá trị từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "休日に地域のボランティアとして清掃活動に参加しています。 (Vào ngày nghỉ, tôi tham gia hoạt động dọn dẹp với tư cách tình nguyện viên địa phương.)"
   },
   {
     "word": "ごみ",
     "meaning": "rác thải",
     "reading": "ごみ",
     "sinoVietnamese": "",
-    "example": "父から大切なごみを譲り受けて、大事に使っています。 (Tôi được thừa hưởng một thứ rác rưởi quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "ごみは決められた曜日に出してください。 (Xin vui lòng vứt rác vào đúng những ngày quy định.)"
   },
   {
     "word": "国会議事堂",
-    "meaning": "tòa nhà quốc hội",
+    "meaning": "tòa nhà Quốc hội",
     "reading": "こっかいぎじどう",
     "sinoVietnamese": "QUỐC HỘI",
-    "example": "夕方になると、国会議事堂の周辺は涼しい風が吹いて快適です。 (Vào buổi tối, khu vực xung quanh Tòa nhà Quốc hội thật dễ chịu với làn gió mát.)"
+    "example": "東京観光で歴史のある国会議事堂を見学しました。 (Trong chuyến tham quan Tokyo, tôi đã đến thăm tòa nhà Quốc hội có bề dày lịch sử.)"
   },
   {
     "word": "平日/週末",
-    "meaning": "các ngày trong tuần",
-    "reading": "へいじつ",
+    "meaning": "ngày thường / cuối tuần",
+    "reading": "へいじつ / しゅうまつ",
     "sinoVietnamese": "NHẬT",
-    "example": "平日は会社で一生懸命働き、週末は家族とゆっくり過ごします。(Ngày thường tôi chăm chỉ làm việc ở công ty, cuối tuần thì thư thả bên gia đình.)"
+    "example": "平日は会社で働き、週末は家でゆっくり休みます。 (Ngày thường tôi làm việc ở công ty, còn cuối tuần thì nghỉ ngơi thảnh thơi ở nhà.)"
   },
   {
     "word": "大阪弁(方言）",
-    "meaning": "osaka, phương ngữ",
-    "reading": "べん　（ほうげん）",
+    "meaning": "tiếng địa phương Osaka (phương ngữ)",
+    "reading": "おおさかべん",
     "sinoVietnamese": "ĐẠI NGÔN",
-    "example": "彼は面白い大阪弁で話します。 (Anh ấy nói chuyện bằng phương ngữ Osaka rất thú vị.)"
+    "example": "関西に住んでいるうちに、自然と大阪弁を覚えました。 (Trong thời gian sống ở vùng Kansai, tôi đã tự nhiên học được tiếng Osaka.)"
   },
   {
     "word": "今度",
-    "meaning": "lần sau",
+    "meaning": "lần tới, dịp tới (sắp tới)",
     "reading": "こんど",
     "sinoVietnamese": "KIM",
-    "example": "今度は家族と一緒に楽しい旅行に出かける計画です。 (Lần này tôi dự định sẽ có một chuyến du lịch vui vẻ cùng gia đình.)"
+    "example": "今度の日曜日にみんなで映画を見に行きませんか。 (Chủ nhật tới này mọi người cùng đi xem phim nhé?)"
   },
   {
     "word": "ずいぶん",
-    "meaning": "khá, tương đối",
+    "meaning": "khá là, nhiều hơn tưởng tượng",
     "reading": "ずいぶん",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なずいぶんをしっかり入れて出かけました。 (Tôi bỏ mọi thứ tôi cần vào túi và đi ra ngoài.)"
+    "example": "しばらく会わない間に、日本語がずいぶん上手になりましたね。 (Sau một thời gian không gặp, tiếng Nhật của bạn đã tiến bộ khá nhiều nhỉ.)"
   },
   {
     "word": "直接",
-    "meaning": "trực tiếp",
+    "meaning": "trực tiếp (không qua trung gian)",
     "reading": "ちょくせつ",
     "sinoVietnamese": "TRỰC TIẾP",
-    "example": "丁寧にお手入れをしながら、お気に入りの直接を長く愛用しています。 (Tôi đã sử dụng trực tiếp yêu thích của mình từ lâu, chăm sóc nó cẩn thận.)"
+    "example": "メールではなく、直接会って大事な話をしたいです。 (Không phải qua email, tôi muốn gặp mặt trực tiếp để nói chuyện quan trọng.)"
   },
   {
     "word": "いつでも",
-    "meaning": "luôn luôn",
+    "meaning": "bất cứ lúc nào",
     "reading": "いつでも",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りのいつでもを長く愛用しています。 (Tôi luôn sử dụng chiếc máy yêu thích của mình trong thời gian dài và chăm sóc nó cẩn thận.)"
+    "example": "分からないことがあったら、いつでも質問してください。 (Nếu có điều gì không hiểu, bạn hãy hỏi tôi bất cứ lúc nào nhé.)"
   },
   {
     "word": "どこでも",
-    "meaning": "mọi người",
+    "meaning": "bất cứ nơi đâu, bất kỳ chỗ nào",
     "reading": "どこでも",
     "sinoVietnamese": "",
-    "example": "使いやすいどこでものおかげで、毎日の生活がとても快適になりました。 (Dễ dàng sử dụng ở mọi nơi đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
+    "example": "ポータブルWi-Fiがあれば、旅先の山奥でもどこでも快適に仕事ができます。 (Có bộ phát Wi-Fi cầm tay thì dù ở tận vùng núi sâu chuyến đi, ta vẫn làm việc ngon lành ở bất cứ nơi đâu.)"
   },
   {
     "word": "だれでも",
-    "meaning": "nhất định",
+    "meaning": "bất kỳ ai (ai cũng vậy, không phân biệt đối tượng)",
     "reading": "だれでも",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いだれでもを見に行きました。 (Tôi và các bạn đi xem Một Người Khác Thường Và Thú Vị.)"
+    "example": "このスマートフォンの操作は簡単で、だれでも使えます。 (Thao tác trên điện thoại này rất đơn giản, bất kỳ ai cũng có thể dùng được.)"
   },
   {
     "word": "なんでも",
-    "meaning": "cái gì cũng được",
+    "meaning": "bất cứ thứ gì",
     "reading": "なんでも",
     "sinoVietnamese": "",
-    "example": "健康的な生活を送るために、毎日新鮮ななんでもをとるようにしています。 (Để có một cuộc sống khỏe mạnh, tôi cố gắng ăn mọi thứ tươi ngon mỗi ngày.)"
+    "example": "日本の食べ物はなんでも美味しくて好きです。 (Đồ ăn Nhật Bản bất cứ món gì tôi cũng thấy ngon và yêu thích.)"
   },
   {
     "word": "こんな…",
     "meaning": "như thế này...",
-    "reading": "こんな…",
+    "reading": "こんな",
     "sinoVietnamese": "",
-    "example": "新しいこんな…を手に入れて、仕事の効率がぐんと上がりました。 (Tôi có được điều mới này và hiệu quả công việc của tôi đã được cải thiện rất nhiều.)"
+    "example": "こんなに綺麗な桜を見るのは生まれて初めてです。 (Đây là lần đầu tiên trong đời tôi được ngắm hoa anh đào đẹp như thế này.)"
   },
   {
     "word": "そんな…",
     "meaning": "như thế đó...",
-    "reading": "そんな…",
+    "reading": "そんな",
     "sinoVietnamese": "",
-    "example": "丁寧にお手入れをしながら、お気に入りのそんな…を長く愛用しています。 (Tôi đã sử dụng những món đồ yêu thích của mình từ lâu, giữ gìn cẩn thận.)"
+    "example": "そんなに心配しなくても、彼はきっと合格しますよ。 (Không cần lo lắng đến mức đó đâu, anh ấy chắc chắn sẽ đỗ thôi.)"
   },
   {
     "word": "あんな…",
     "meaning": "như thế kia...",
-    "reading": "あんな…",
+    "reading": "あんな",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わるあんな…について興味深く学びました。 (Tôi đã học được những điều rất thú vị liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+    "example": "あんなに広い家に一度住んでみたいものです。 (Tôi ước một lần được sống trong một ngôi nhà rộng lớn như thế kia.)"
   },
   {
     "word": "片付く",
-    "meaning": "sắp xếp, dọn dẹp",
-    "reading": "かたづきます",
+    "meaning": "được dọn dẹp ngăn nắp (tự động từ)",
+    "reading": "かたづく",
     "sinoVietnamese": "PHÓ",
-    "example": "毎日欠かさずに、片付くようにしています。 (Tôi cố gắng giữ mọi thứ ngăn nắp mỗi ngày mà không thất bại.)"
+    "example": "大掃除をしたので、散らかっていた部屋が綺麗に片付きました。 (Sau khi tổng vệ sinh, căn phòng bừa bộn đã được dọn dẹp ngăn nắp.)"
   },
   {
     "word": "燃えるごみ",
-    "meaning": "rác dễ cháy",
+    "meaning": "rác cháy được",
     "reading": "もえるごみ",
     "sinoVietnamese": "NHIÊN",
-    "example": "日本の文化や生活に関わる燃えるごみについて興味深く学びました。 (Thật thú vị khi được tìm hiểu về rác cháy được liên quan đến văn hóa và đời sống người Nhật.)"
+    "example": "月曜日と木曜日は燃えるごみを出す日です。 (Thứ Hai và thứ Năm là ngày vứt rác cháy được.)"
   },
   {
     "word": "置き場",
-    "meaning": "nơi này đến nơi khác, nơi này đến nơi khác",
+    "meaning": "nơi để, chỗ quy định để đồ/rác",
     "reading": "おきば",
     "sinoVietnamese": "TRƯỜNG",
-    "example": "置き場で新鮮な野菜や美味しい特産品を買いました。 (Chúng tôi mua rau tươi và đặc sản thơm ngon tại khu vực kho.)"
+    "example": "アパートのごみ置き場のルールをしっかり守りましょう。 (Hãy tuân thủ nghiêm túc quy định tại nơi tập kết rác của khu chung cư.)"
   },
   {
     "word": "瓶",
-    "meaning": "chai",
+    "meaning": "chai, lọ thủy tinh",
     "reading": "びん",
     "sinoVietnamese": "",
-    "example": "使いやすい瓶のおかげで、毎日の生活がとても快適になりました。 (Dạng chai dễ sử dụng đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
+    "example": "ジャムの空き瓶を洗ってリサイクルに出しました。 (Tôi rửa sạch lọ mứt rỗng rồi đem đi tái chế.)"
   },
   {
     "word": "缶",
-    "meaning": "lon và hộp kim loại",
+    "meaning": "lon, hộp kim loại",
     "reading": "かん",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要な缶をしっかり入れて出かけました。 (Tôi đóng gói tất cả những đồ hộp cần thiết vào túi và đi ra ngoài.)"
+    "example": "自動販売機で温かい缶コーヒーを買いました。 (Tôi đã mua một lon cà phê ấm ở máy bán hàng tự động.)"
   },
   {
     "word": "ガス",
-    "meaning": "khí đốt",
+    "meaning": "khí gas",
     "reading": "ガス",
     "sinoVietnamese": "",
-    "example": "使いやすいガスのおかげで、毎日の生活がとても快適になりました。 (Nhờ dễ sử dụng gas, cuộc sống hàng ngày đã trở nên thoải mái hơn rất nhiều.)"
+    "example": "料理が終わったら、ガスの元栓を必ず閉めてください。 (Sau khi nấu ăn xong, nhất định phải khóa van bình gas lại.)"
   },
   {
     "word": "ガス会社",
-    "meaning": "công ty gas",
-    "reading": "がいしゃ",
+    "meaning": "công ty cung cấp gas",
+    "reading": "ガスがいしゃ",
     "sinoVietnamese": "HỘI XÃ",
-    "example": "家から歩いて10分ほどのところに大きなガス会社があります。 (Có một công ty gas lớn cách nhà tôi khoảng 10 phút đi bộ.)"
+    "example": "引っ越しが決まったので、ガス会社に連絡して開栓を頼みました。 (Vì đã chốt ngày chuyển nhà nên tôi gọi cho công ty gas để nhờ mở khóa gas.)"
   },
   {
     "word": "宇宙",
     "meaning": "vũ trụ",
     "reading": "うちゅう",
     "sinoVietnamese": "VŨ TRỤ",
-    "example": "店員さんに相談して、自分にぴったりの宇宙を選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được vũ trụ hoàn hảo cho mình.)"
+    "example": "望遠鏡で夜空を眺めて、無限の宇宙に思いを馳せます。 (Ngắm bầu trời đêm qua kính thiên văn, lòng tôi hướng về vũ trụ bao la.)"
   },
   {
     "word": "田中様、お客様",
-    "meaning": "thưa ngài, cái",
-    "reading": "さま",
+    "meaning": "Ngài Tanaka, Quý khách hàng (cách gọi kính trọng)",
+    "reading": "たなかさま、おきゃくさま",
     "sinoVietnamese": "TRUNG",
-    "example": "日本の伝統的な田中様お客様の味付けがとても口に合います。 (Món gia vị truyền thống Nhật Bản của khách hàng ông Tanaka rất ngon miệng.)"
+    "example": "お客様、お待たせいたしました。こちらへどうぞ。 (Kính thưa quý khách, xin lỗi đã để quý khách đợi lâu. Mời quý khách đi lối này.)"
   },
   {
     "word": "宇宙船",
     "meaning": "tàu vũ trụ",
     "reading": "うちゅうせん",
     "sinoVietnamese": "VŨ TRỤ",
-    "example": "旅行の移動は速くて便利な宇宙船を利用しました。 (Tàu vũ trụ được sử dụng để đi lại, rất nhanh chóng và thuận tiện.)"
+    "example": "宇宙船が国際宇宙ステーションに無事ドッキングしました。 (Tàu vũ trụ đã kết nối thành công và an toàn với trạm vũ trụ quốc tế.)"
   },
   {
     "word": "怖い",
-    "meaning": "đáng sợ, đáng sợ",
+    "meaning": "đáng sợ, sợ hãi",
     "reading": "こわい",
     "sinoVietnamese": "",
-    "example": "この本はとても怖いので、おすすめです。 (Cuốn sách này rất đáng sợ và tôi đánh giá cao nó.)"
+    "example": "夜遅くに一人で暗い夜道を歩くのはとても怖いです。 (Đi bộ một mình trên con đường tối lúc đêm muộn thật là đáng sợ.)"
   },
   {
     "word": "宇宙飛行士",
     "meaning": "phi hành gia",
     "reading": "うちゅうひこうし",
     "sinoVietnamese": "VŨ TRỤ HÀNH",
-    "example": "経験豊富な宇宙飛行士として、多くのお客さんから信頼されています。 (Là một phi hành gia giàu kinh nghiệm nên ông được nhiều khách hàng tin tưởng.)"
+    "example": "将来宇宙飛行士になって月面を歩くのが彼の夢です。 (Trở thành phi hành gia và bước đi trên mặt trăng là ước mơ của cậu ấy.)"
   }
 ]

@@ -1,59 +1,59 @@
 [
   {
     "word": "着ます",
-    "meaning": "áo sơ mi",
-    "reading": "きます「シャツを～」",
+    "meaning": "mặc (áo sơ mi, áo khoác, vest: シャツを着る)",
+    "reading": "きます",
     "sinoVietnamese": "TRỨ",
-    "example": "毎日欠かさずに、着ますようにしています。 (Tôi cố gắng mặc nó mỗi ngày mà không thất bại.)"
+    "example": "面接を受けるために、清潔感のある白いシャツとスーツを着ました。 (Để đi phỏng vấn, tôi diện bộ vest lịch lãm cùng chiếc áo sơ mi trắng tinh tươm.)"
   },
   {
     "word": "はきます「くつを～」",
-    "meaning": "đi, xỏ [giày, tất]",
-    "reading": "はきます「くつを～」",
+    "meaning": "xỏ, đi (quần, giày dép, váy: 靴をはく)",
+    "reading": "はきます",
     "sinoVietnamese": "",
-    "example": "新しい革靴を履いて面接に行きました。 (Tôi đến phỏng vấn với đôi giày da mới.)"
+    "example": "休日のウォーキングのために、履き心地の良いスニーカーをはきました。 (Để đi bộ thể dục ngày nghỉ, tôi xỏ đôi giày thể thao êm ái.)"
   },
   {
     "word": "かぶります「ぼうしを～」",
-    "meaning": "đội [mũ, nón]",
-    "reading": "かぶります「ぼうしを～」",
+    "meaning": "đội (mũ nón: 帽子をかぶる)",
+    "reading": "かぶります",
     "sinoVietnamese": "",
-    "example": "日差しが強いので、麦わら帽子を被って出かけます。 (Nắng gắt nên tôi đội mũ rơm khi ra ngoài.)"
+    "example": "真夏の強い日差しを遮るために、つばの広い麦わら帽子をかぶりました。 (Để che bớt ánh nắng hè gay gắt, tôi đội một chiếc mũ cói vành rộng.)"
   },
   {
     "word": "かけます「めがねを～」",
-    "meaning": "đeo [kính]",
-    "reading": "かけます「めがねを～」",
+    "meaning": "đeo (kính mắt: めがねをかける)",
+    "reading": "かけます",
     "sinoVietnamese": "",
-    "example": "パソコンの画面を見るときは眼鏡を掛けます。 (Đeo kính khi nhìn vào màn hình máy tính.)"
+    "example": "黒板の小さな文字がよく見えるように、度数の合った眼鏡をかけました。 (Để nhìn rõ chữ nhỏ trên bảng, tôi đeo chiếc kính cận vừa độ vào.)"
   },
   {
     "word": "生まれます",
-    "meaning": "sinh ra",
+    "meaning": "sinh ra, chào đời (ở đâu: ハノイで生まれる)",
     "reading": "うまれます",
     "sinoVietnamese": "SINH",
-    "example": "毎日欠かさずに、生まれますようにしています。 (Tôi cố gắng để được sinh ra mỗi ngày.)"
+    "example": "私は豊かな自然と穏やかな川に囲まれたベトナムの地方都市で生まれました。 (Tôi được sinh ra tại một thành phố êm đềm nhiều cây xanh và sông ngòi ở Việt Nam.)"
   },
   {
-    "word": "コートー",
-    "meaning": "áo khoác",
-    "reading": "コートー",
+    "word": "コート",
+    "meaning": "áo khoác dài, áo măng-tô (đã chuẩn hóa chính tả)",
+    "reading": "コート",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わるコートについて興味深く学びました。 (Tôi đã tìm hiểu rất thú vị về áo khoác, thứ liên quan đến văn hóa và cuộc sống của người Nhật.)"
+    "example": "木枯らしが吹いて寒くなったので、クローゼットからウールのコートを出しました。 (Gió lạnh đầu đông thổi buốt nên tôi lấy chiếc áo khoác măng tô bằng len trong tủ ra mặc.)"
   },
   {
     "word": "スーツ",
-    "meaning": "bộ com-lê, âu phục",
+    "meaning": "bộ com-lê, âu phục công sở",
     "reading": "スーツ",
     "sinoVietnamese": "",
-    "example": "父から大切なスーツを譲り受けて、大事に使っています。 (Tôi thừa hưởng một bộ đồ quan trọng từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+    "example": "就職面接に臨むために、紺色の清潔感のあるスーツに身を包んだ。 (Để bước vào buổi phỏng vấn xin việc, tôi khoác lên mình bộ com-lê màu xanh đen tươm tất.)"
   },
   {
     "word": "セーター",
-    "meaning": "áo len",
+    "meaning": "áo len ấm",
     "reading": "セーター",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わるセータについて興味深く学びました。 (Tôi đã tìm hiểu rất thú vị về theta, thứ liên quan đến văn hóa và cuộc sống của người Nhật.)"
+    "example": "誕生日に母が手編みで編んでくれた、暖かいウールのセーターを大切に着ています。 (Tôi nâng niu mặc chiếc áo len ấm áp do chính tay mẹ đan tặng vào dịp sinh nhật.)"
   },
   {
     "word": "帽子",
@@ -78,52 +78,52 @@
   },
   {
     "word": "家賃",
-    "meaning": "tiền bạc",
+    "meaning": "tiền thuê nhà hàng tháng",
     "reading": "やちん",
     "sinoVietnamese": "",
-    "example": "大学を卒業した後、憧れの家賃として働き始めました。 (Sau khi tốt nghiệp đại học, tôi bắt đầu đi làm thuê.)"
+    "example": "毎月二十五日までに、指定された大家さんの口座へアパートの家賃を振り込みます。 (Trước ngày 25 hàng tháng, tôi đều chuyển khoản tiền thuê căn hộ vào tài khoản của chủ nhà.)"
   },
   {
     "word": "ダイニングキッチン",
-    "meaning": "căn phòng",
+    "meaning": "phòng bếp liền phòng ăn (DK)",
     "reading": "ダイニングキッチン",
     "sinoVietnamese": "",
-    "example": "日本の伝統的なダイニングキッチンの味付けがとても口に合います。 (Gia vị trong nhà bếp truyền thống của Nhật Bản rất ngon miệng.)"
+    "example": "新居のダイニングキッチンは日当たりが良く、家族揃って食事をするのに最適です。 (Phòng ăn liền bếp ở căn nhà mới ngập tràn ánh nắng, rất lý tưởng để cả nhà quây quần ăn cơm.)"
   },
   {
-    "word": "わしつ",
-    "meaning": "tiếng Nhật",
+    "word": "和室",
+    "meaning": "phòng kiểu Nhật (phòng trải chiếu tatami truyền thống)",
     "reading": "わしつ",
     "sinoVietnamese": "",
-    "example": "先生のアドバイスをよく聞いて、正しくわしつように練習しました。 (Tôi chăm chú lắng nghe lời khuyên của thầy và luyện tập đúng cách, bài bản.)"
+    "example": "い草の爽やかな香りが漂う和室で、正座をして静かにお抹茶をいただきました。 (Trong gian phòng kiểu Nhật thoang thoảng hương chiếu cói, tôi ngồi ngay ngắn thưởng trà matcha.)"
   },
   {
-    "word": "押し入れ",
-    "meaning": "tiếng Nhật",
+    "word": "押入れ",
+    "meaning": "tủ âm tường kiểu Nhật (ngăn chứa chăn đệm futon)",
     "reading": "おしいれ",
     "sinoVietnamese": "NHẬP",
-    "example": "カバンの中に必要な押し入れをしっかり入れて出かけました。 (Tôi đóng gói tất cả những vật dụng cần thiết vào túi và đi ra ngoài.)"
+    "example": "朝起きたら敷いていた布団を畳んで、和室の押入れの上の段に収納しました。 (Sáng dậy, tôi gấp gọn tấm đệm nằm rồi cất vào ngăn trên của chiếc tủ âm tường trong phòng.)"
   },
   {
     "word": "布団",
-    "meaning": "chăn",
+    "meaning": "đệm và chăn nằm kiểu Nhật (futon)",
     "reading": "ふとん",
     "sinoVietnamese": "BỐ",
-    "example": "暑い夏の日には冷たい布団を飲むと元気が出ます。 (Uống một tấm nệm lạnh vào ngày hè nóng nực sẽ tiếp thêm sinh lực cho bạn.)"
+    "example": "天気の良い休日に、畳の上で使っている布団をベランダに干して日光に当てた。 (Vào ngày nghỉ trời đẹp, tôi mang tấm đệm nằm trải sàn ra ban công phơi dưới ánh nắng.)"
   },
   {
     "word": "アパート",
-    "meaning": "căn hộ",
+    "meaning": "căn hộ cho thuê (nhà tập thể/chung cư mini)",
     "reading": "アパート",
     "sinoVietnamese": "",
-    "example": "日本の伝統的なアパートの味付けがとても口に合います。 (Gia vị căn hộ truyền thống của Nhật Bản rất ngon miệng.)"
+    "example": "大学のキャンパスから徒歩五分の場所にある、築浅の木造アパートで一人暮らしをしている。 (Tôi đang sống một mình trong một căn hộ tập thể mới xây, cách khuôn viên đại học năm phút đi bộ.)"
   },
   {
     "word": "パリ",
-    "meaning": "pa-ri",
+    "meaning": "thủ đô Paris (Pháp)",
     "reading": "パリ",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なパリをしっかり入れて出かけました。 (Tôi gói tất cả những thứ Paris cần thiết vào túi và đi ra ngoài.)"
+    "example": "芸術とファッションの都であるフランスのパリを訪れ、エッフェル塔を間近で見上げた。 (Ghé thăm kinh đô thời trang và nghệ thuật Paris của Pháp, tôi ngước nhìn tháp Eiffel sừng sững.)"
   },
   {
     "word": "万里の長城",
@@ -134,16 +134,16 @@
   },
   {
     "word": "余暇開発センター",
-    "meaning": "trung tâm phát triển giải trí cho cư dân",
+    "meaning": "Trung tâm Phát triển Hoạt động Giải trí (cơ quan nghiên cứu về đời sống thư giãn tại Nhật)",
     "reading": "よかかいはつセンター",
     "sinoVietnamese": "HẠ KHAI",
-    "example": "店員さんに相談して、自分にぴったりの余暇開発センタを選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được trung tâm phát triển giải trí hoàn hảo cho mình.)"
+    "example": "余暇開発センターが発表した統計資料を参考に、日本人の休日の過ごし方を考察した。 (Tham khảo số liệu của Trung tâm Phát triển Giải trí, tôi đã phân tích thói quen nghỉ ngơi của người Nhật.)"
   },
   {
     "word": "レジャー白書",
-    "meaning": "tờ giấy",
+    "meaning": "Sách Trắng về Giải trí (báo cáo thường niên của Nhật về xu hướng du lịch/nghỉ ngơi)",
     "reading": "レジャーはくしょ",
     "sinoVietnamese": "BẠCH THƯ",
-    "example": "丁寧にお手入れをしながら、お気に入りのレジャー白書を長く愛用しています。 (Tôi đã sử dụng Sách trắng Giải trí yêu thích của mình trong một thời gian dài và giữ gìn nó cẩn thận.)"
+    "example": "最新のレジャー白書によると、近年はキャンプや登山などのアウトドア活動が人気を集めている。 (Theo Sách Trắng về Giải trí mới nhất, những năm gần đây các hoạt động dã ngoại như cắm trại, leo núi rất được ưa chuộng.)"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "word": "きっと",
     "reading": "きっと",
-    "meaning": "chắc chắn là, nhất định",
+    "meaning": "chắc chắn sẽ, nhất định (thể hiện sự tin tưởng gần như tuyệt đối của người nói)",
     "sinoVietnamese": "",
     "example": "明日はきっといい天気になるでしょう。 (Ngày mai chắc chắn trời sẽ đẹp.)"
   },
@@ -16,14 +16,14 @@
   {
     "word": "ぜひ",
     "reading": "ぜひ",
-    "meaning": "nhất định (tha thiết muốn làm)",
+    "meaning": "nhất định, rất mong (bày tỏ mong muốn tha thiết hoặc lời mời chân thành)",
     "sinoVietnamese": "THỊ PHI",
     "example": "日本へ来たら、ぜひ私の家に遊びに来てください。 (Khi đến Nhật Bản, bạn nhất định phải ghé nhà tôi chơi nhé.)"
   },
   {
     "word": "たぶん",
     "reading": "たぶん",
-    "meaning": "có lẽ, có thể",
+    "meaning": "có lẽ, có thể (phỏng đoán khả năng xảy ra khoảng 70-80%)",
     "sinoVietnamese": "ĐA PHẦN",
     "example": "彼は忙しいので、たぶんパーティーには来ないでしょう。 (Anh ấy bận rộn nên có lẽ sẽ không đến bữa tiệc đâu.)"
   },
@@ -72,14 +72,14 @@
   {
     "word": "せっかく",
     "reading": "せっかく",
-    "meaning": "đã mất công, cất công",
+    "meaning": "cất công, mất công, hiếm có dịp (diễn tả sự trân trọng cơ hội/công sức hoặc sự tiếc nuối)",
     "sinoVietnamese": "",
     "example": "せっかく料理を作ったのに、誰も食べてくれませんでした。 (Đã cất công nấu nướng thế mà chẳng có ai ăn giúp cho.)"
   },
   {
     "word": "わざわざ",
     "reading": "わざわざ",
-    "meaning": "cố tình, cất công đặc biệt",
+    "meaning": "cất công, đặc biệt làm gì (dành thời gian/công sức riêng để làm việc gì đó)",
     "sinoVietnamese": "",
     "example": "雨の中をわざわざ届けに来てくれて、ありがとうございます。 (Cảm ơn bạn đã cất công đội mưa mang đến tận nơi cho tôi.)"
   },
@@ -107,7 +107,7 @@
   {
     "word": "しっかり",
     "reading": "しっかり",
-    "meaning": "chắc chắn, vững vàng, cẩn thận",
+    "meaning": "chắc chắn, vững vàng, cẩn thận (làm việc nghiêm túc, chu đáo hoặc đồ vật kiên cố)",
     "sinoVietnamese": "",
     "example": "手すりをしっかりつかんで階段を降りてください。 (Xin hãy nắm chắc tay vịn rồi bước xuống cầu thang nhé.)"
   },

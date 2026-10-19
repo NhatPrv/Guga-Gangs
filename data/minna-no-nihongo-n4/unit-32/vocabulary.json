@@ -1,10 +1,10 @@
 [
   {
     "word": "運動します",
-    "meaning": "vận động, tập thể dục",
+    "meaning": "vận động, tập thể dục thể thao",
     "reading": "うんどうします",
     "sinoVietnamese": "VẬN ĐỘNG",
-    "example": "健康のために、毎朝30分運動したほうがいいですよ。 (Vì sức khỏe, bạn nên tập thể dục 30 phút mỗi sáng.)"
+    "example": "週末の涼しい早朝に、近所のフィットネスクラブで汗を流して運動します。 (Vào sáng sớm mát mẻ cuối tuần, tôi ra câu lạc bộ thể hình gần nhà tập thể dục toát mồ hôi.)"
   },
   {
     "word": "成功します",
@@ -92,10 +92,10 @@
   },
   {
     "word": "十分（な）",
-    "meaning": "đầy đủ, trọn vẹn",
+    "meaning": "đầy đủ, trọn vẹn (không thiếu thốn)",
     "reading": "じゅうぶん（な）",
     "sinoVietnamese": "THẬP PHÂN",
-    "example": "健康のためには、毎晩十分な睡眠をとることが大切です。 (Vì sức khỏe thì mỗi đêm ngủ đủ giấc là điều vô cùng quan trọng.)"
+    "example": "災害時に備えて、家族三日分の食料と飲料水を十分な量備蓄しています。 (Để phòng ngừa khi có thiên tai, tôi đã dự trữ đầy đủ lượng thức ăn và nước uống cho cả nhà dùng trong ba ngày.)"
   },
   {
     "word": "おかしい",
@@ -246,24 +246,24 @@
   },
   {
     "word": "無理をします",
-    "meaning": "làm việc quá sức",
+    "meaning": "làm việc quá sức, gượng ép bản thân",
     "reading": "むりをします",
     "sinoVietnamese": "VÔ LÝ",
-    "example": "毎日仕事が終わったあと、日本語を無理をします。 (Mỗi ngày sau giờ làm việc, tôi đều ép mình học tiếng Nhật.)"
+    "example": "熱があるのに無理をして出勤すると、かえって病状が悪化してしまいますよ。 (Đang sốt mà còn ráng sức đi làm thì bệnh tình sẽ càng trở nặng thêm đấy.)"
   },
   {
     "word": "ゆっくりします",
-    "meaning": "nghỉ ngơi, thư giãn, chăm sóc sức khỏe",
+    "meaning": "nghỉ ngơi thư thả, dưỡng sức nhàn nhã",
     "reading": "ゆっくりします",
     "sinoVietnamese": "",
-    "example": "毎日仕事が終わったあと、日本語をゆっくりします。 (Mỗi ngày sau giờ làm việc, tôi thư giãn và học tiếng Nhật.)"
+    "example": "忙しかった繁忙期が終わったので、週末は温泉旅館に泊まってゆっくりします。 (Đợt cao điểm công việc bận rộn đã qua, cuối tuần tôi sẽ ở nhà trọ suối nước nóng nghỉ ngơi thư thả.)"
   },
   {
     "word": "星占い",
-    "meaning": "bói toán",
+    "meaning": "thuật chiêm tinh, bói toán theo các chòm sao",
     "reading": "ほしうらない",
     "sinoVietnamese": "",
-    "example": "この本はとても星占いので、おすすめです。 (Cuốn sách này rất nhiều thông tin và tôi đánh giá cao nó.)"
+    "example": "朝のテレビ番組の星占いで今日の運勢をチェックするのが、毎日のささやかな楽しみです。 (Xem vận mệnh hôm nay qua mục bói sao trên chương trình truyền hình buổi sáng là niềm vui nho nhỏ mỗi ngày của tôi.)"
   },
   {
     "word": "牡牛座",
@@ -274,10 +274,10 @@
   },
   {
     "word": "困ります",
-    "meaning": "rắc rối, rắc rối, rắc rối",
+    "meaning": "gặp khó khăn, bối rối, rắc rối",
     "reading": "こまります",
     "sinoVietnamese": "KHỐN",
-    "example": "毎日欠かさずに、困りますようにしています。 (Tôi cố gắng không bỏ lỡ nó mỗi ngày để không phải lo lắng về nó.)"
+    "example": "出先でスマートフォンの充電が切れてしまい、連絡が取れなくなって大変困りました。 (Đang ở ngoài đường mà điện thoại hết pin không liên lạc được khiến tôi gặp rắc rối to.)"
   },
   {
     "word": "「宝くじ",
@@ -295,17 +295,17 @@
   },
   {
     "word": "健康",
-    "meaning": "sức khỏe",
+    "meaning": "sức khỏe, sự lành mạnh về thể chất",
     "reading": "けんこう",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりの健康を選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn loại tốt nhất cho sức khỏe và phù hợp với mình.)"
+    "example": "日頃の規則正しい生活習慣と適度な運動が、健やかな健康の土台となります。 (Thói quen sinh hoạt điều độ và tập luyện thể dục vừa sức hằng ngày chính là nền tảng của một sức khỏe dẻo dai.)"
   },
   {
     "word": "恋愛",
-    "meaning": "tình yêu",
+    "meaning": "tình yêu, sự lãng mạn lứa đôi",
     "reading": "れんあい",
     "sinoVietnamese": "ÁI",
-    "example": "カバンの中に必要な恋愛をしっかり入れて出かけました。 (Tôi ra đi với tất cả tình yêu tôi cần trong túi.)"
+    "example": "青春時代の甘酸っぱい恋愛をテーマにした純愛小説を読んで、深く胸を打たれた。 (Đọc cuốn tiểu thuyết lấy chủ đề về tình yêu ngọt ngào thời thanh xuân, lòng tôi xúc động khôn nguôi.)"
   },
   {
     "word": "恋人",
@@ -315,10 +315,10 @@
     "example": "休日は恋人と一緒に美味しいご飯を食べに行きます。 (Vào những ngày nghỉ, tôi đi ăn đồ ăn ngon với bạn trai.)"
   },
   {
-    "word": "お）金持ち",
-    "meaning": "người giàu",
+    "word": "お金持ち",
+    "meaning": "người giàu có, đại gia",
     "reading": "（お）かねもち",
     "sinoVietnamese": "KIM TRÌ",
-    "example": "友達と一緒に、珍しくて面白いお）金持ちを見に行きました。 (Tôi và bạn tôi đi gặp một người đàn ông giàu có () hiếm có và thú vị.)"
+    "example": "彼は一代で巨大なIT企業を築き上げ、一代で世界有数のお金持ちへと登りつめた。 (Tự tay gây dựng nên tập đoàn IT khổng lồ, anh ấy đã vươn lên thành một trong những người giàu có bậc nhất thế giới.)"
   }
 ]

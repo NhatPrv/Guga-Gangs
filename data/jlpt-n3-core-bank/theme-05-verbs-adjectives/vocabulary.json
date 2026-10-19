@@ -29,10 +29,10 @@
   },
   {
     "word": "電子",
-    "meaning": "điện tử",
+    "meaning": "điện tử (electronic, electron)",
     "reading": "でんし",
     "sinoVietnamese": "ĐIỆN TỬ",
-    "example": "電子タイプライターはありますか。 (Bạn có máy đánh chữ điện tử không?)"
+    "example": "分厚い紙の辞書を持ち歩かずに、電子辞書を活用しています。 (Thay vì mang cuốn từ điển giấy dày cộp, tôi sử dụng từ điển điện tử.)"
   },
   {
     "word": "テント",
@@ -330,10 +330,10 @@
   },
   {
     "word": "届く",
-    "meaning": "đạt được",
+    "meaning": "được giao tới, với tới (tự động từ)",
     "reading": "とどく",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、届くようにしています。 (Tôi cố gắng giao nó mỗi ngày mà không thất bại.)"
+    "example": "故郷の両親から送ってもらった小包が午前中に無事届きました。 (Kiện hàng bố mẹ ở quê gửi lên đã được giao đến nơi an toàn vào buổi sáng.)"
   },
   {
     "word": "とにかく",
@@ -344,10 +344,10 @@
   },
   {
     "word": "飛ばす",
-    "meaning": "bỏ qua",
+    "meaning": "làm cho bay lên, phóng đi, lướt qua/bỏ qua",
     "reading": "とばす",
     "sinoVietnamese": "",
-    "example": "私たちはその鳥を飛ばした。 (Chúng tôi thả con chim bay.)"
+    "example": "公園の広い芝生で、子どもたちが紙飛行機を遠くまで飛ばした。 (Trên bãi cỏ rộng ở công viên, lũ trẻ đã phóng máy bay giấy bay thật xa.)"
   },
   {
     "word": "飛び出す",
@@ -379,10 +379,10 @@
   },
   {
     "word": "土曜",
-    "meaning": "thứ bảy",
+    "meaning": "thứ bảy (trong tuần)",
     "reading": "どよう",
     "sinoVietnamese": "THỔ",
-    "example": "土曜に学校がありますか。 (Có trường học vào thứ bảy không?)"
+    "example": "土曜の午後は予定がないので、家で映画を見てのんびり過ごします。 (Chiều thứ bảy tôi không có lịch trình gì nên sẽ thảnh thơi xem phim ở nhà.)"
   },
   {
     "word": "虎",
@@ -435,10 +435,10 @@
   },
   {
     "word": "トン",
-    "meaning": "tấn",
+    "meaning": "tấn (đơn vị đo khối lượng = 1.000 kg)",
     "reading": "トン",
     "sinoVietnamese": "",
-    "example": "店員さんに相談して、自分にぴったりのトンを選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn loại phù hợp nhất với mình.)"
+    "example": "大型貨物船が何万トンもの鉄鉱石を港湾へ運び込みました。 (Chiếc tàu chở hàng khổng lồ vận chuyển hàng vạn tấn quặng sắt về cảng.)"
   },
   {
     "word": "とんでもない",
@@ -463,10 +463,10 @@
   },
   {
     "word": "名",
-    "meaning": "tên",
+    "meaning": "tên gọi, danh tiếng",
     "reading": "な",
     "sinoVietnamese": "DANH",
-    "example": "私はいつまでも彼の名を覚えている。 (Tôi sẽ luôn nhớ tên anh ấy.)"
+    "example": "その勇敢な少年の名は、町中の人々に知れ渡っている。 (Tên tuổi của cậu bé dũng cảm ấy đã được toàn bộ người dân trong thị trấn biết đến.)"
   },
   {
     "word": "内容",
@@ -1002,10 +1002,10 @@
   },
   {
     "word": "吐く",
-    "meaning": "thở",
+    "meaning": "nôn mửa, thở ra (息を吐く)",
     "reading": "はく",
     "sinoVietnamese": "",
-    "example": "毎日欠かさずに、吐くようにしています。 (Tôi cố gắng nôn mỗi ngày mà không thất bại.)"
+    "example": "深呼吸をして、冷たく澄んだ朝の空気をゆっくり口から吐きました。 (Tôi hít một hơi thật sâu rồi từ từ thở ra làn không khí ban mai trong lành.)"
   },
   {
     "word": "拍手",
@@ -1051,10 +1051,10 @@
   },
   {
     "word": "端",
-    "meaning": "cuối (ví dụ: đường phố)",
+    "meaning": "mép, rìa, góc ngoài",
     "reading": "はし",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要な端をしっかり入れて出かけました。 (Tôi bỏ những thứ cần thiết vào túi và đi ra ngoài.)"
+    "example": "ノートの端に先生が口頭で話した重要ポイントをメモしました。 (Ở mép trang vở, tôi ghi vội lời căn dặn quan trọng của thầy.)"
   },
   {
     "word": "始まり",
@@ -1065,10 +1065,10 @@
   },
   {
     "word": "パス",
-    "meaning": "con đường",
+    "meaning": "vượt qua, đỗ (kỳ thi: 試験をパスする)",
     "reading": "パス",
     "sinoVietnamese": "",
-    "example": "日本の文化や生活に関わるパスについて興味深く学びました。 (Tôi đã tìm hiểu một cách thú vị về những con đường liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+    "example": "難しい面接試験を無事にパスして、採用通知を受け取りました。 (Vượt qua vòng phỏng vấn khó khăn, tôi đã nhận được giấy báo trúng tuyển.)"
   },
   {
     "word": "外す",
@@ -1254,10 +1254,10 @@
   },
   {
     "word": "バン",
-    "meaning": "bánh bao",
+    "meaning": "xe tải nhỏ có thùng kín (xe van)",
     "reading": "バン",
     "sinoVietnamese": "",
-    "example": "レストランで人気のバンを注文して味わいました。 (Tôi gọi và nếm thử món bún bình dân ở quán.)"
+    "example": "引っ越しの荷物を運ぶために、レンタカーで大型のバンを借りました。 (Để chở đồ đạc chuyển nhà, tôi đã thuê một chiếc xe van cỡ lớn tại cửa hàng cho thuê xe.)"
   },
   {
     "word": "番",
@@ -1541,17 +1541,17 @@
   },
   {
     "word": "ピン",
-    "meaning": "ghim",
+    "meaning": "chiếc ghim kẹp, ghim cài",
     "reading": "ピン",
     "sinoVietnamese": "",
-    "example": "カバンの中に必要なピンをしっかり入れて出かけました。 (Tôi đảm bảo đã bỏ những chiếc ghim cần thiết vào túi và đi ra ngoài.)"
+    "example": "掲示板に画鋲のピンを使って大切なお知らせの紙を留めました。 (Tôi dùng chiếc đinh ghim kẹp tờ thông báo quan trọng lên bảng tin.)"
   },
   {
     "word": "不",
-    "meaning": "bỏ",
+    "meaning": "bất, không (tiền tố phủ định: 不安, 不便)",
     "reading": "ふ",
     "sinoVietnamese": "BẤT",
-    "example": "友達と一緒に、珍しくて面白い不を見に行きました。 (Tôi và bạn tôi đi xem một cảnh tượng hiếm có và thú vị.)"
+    "example": "先の見えない状況に対して、心の中に少し不安を覚えました。 (Trước tình hình mông lung phía trước, lòng tôi dấy lên chút bất an.)"
   },
   {
     "word": "不安",
