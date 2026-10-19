@@ -659,12 +659,17 @@ async function selectUnit(curriculumId, unitId) {
   state.activeCurriculum = curriculum;
   state.activeUnit = unit;
 
-  // Cập nhật Breadcrumb & Hero Card
-  document.getElementById('breadcrumb-curriculum').textContent = curriculum.title;
-  document.getElementById('breadcrumb-unit').textContent = unit.title;
-  document.getElementById('unit-hero-curriculum').textContent = curriculum.title;
-  document.getElementById('unit-hero-title').textContent = unit.title;
-  document.getElementById('unit-hero-desc').textContent = unit.description || 'Học từ vựng và Hán tự chuẩn JLPT N4.';
+  // Cập nhật Breadcrumb
+  const elBreadcrumbCurr = document.getElementById('breadcrumb-curriculum');
+  if (elBreadcrumbCurr) elBreadcrumbCurr.textContent = curriculum.title;
+  const elBreadcrumbUnit = document.getElementById('breadcrumb-unit');
+  if (elBreadcrumbUnit) elBreadcrumbUnit.textContent = unit.title;
+  const elHeroCurr = document.getElementById('unit-hero-curriculum');
+  if (elHeroCurr) elHeroCurr.textContent = curriculum.title;
+  const elHeroTitle = document.getElementById('unit-hero-title');
+  if (elHeroTitle) elHeroTitle.textContent = unit.title;
+  const elHeroDesc = document.getElementById('unit-hero-desc');
+  if (elHeroDesc) elHeroDesc.textContent = unit.description || '';
 
   // Highlight trên sidebar
   renderTreeView(document.getElementById('sidebar-unit-filter').value);
@@ -1308,14 +1313,17 @@ function shuffleFlashcards() {
  * Đọc liên tục toàn bộ danh sách từ vựng trong bài
  */
 async function pronounceAllWords() {
+  const btn = document.getElementById('btn-pronounce-all');
   if (state.isPlayingAll) {
     synth.cancel();
     state.isPlayingAll = false;
-    document.getElementById('btn-pronounce-all').innerHTML = `
-      <i data-lucide="volume-2" class="w-4 h-4 text-brand-500"></i>
-      Nghe toàn bộ
-    `;
-    lucide.createIcons();
+    if (btn) {
+      btn.innerHTML = `
+        <i data-lucide="volume-2" class="w-4 h-4 text-brand-500"></i>
+        Nghe toàn bộ
+      `;
+      lucide.createIcons();
+    }
     return;
   }
 
@@ -1326,11 +1334,13 @@ async function pronounceAllWords() {
   }
 
   state.isPlayingAll = true;
-  document.getElementById('btn-pronounce-all').innerHTML = `
-    <i data-lucide="square" class="w-4 h-4 text-red-500 fill-red-500"></i>
-    Dừng đọc
-  `;
-  lucide.createIcons();
+  if (btn) {
+    btn.innerHTML = `
+      <i data-lucide="square" class="w-4 h-4 text-red-500 fill-red-500"></i>
+      Dừng đọc
+    `;
+    lucide.createIcons();
+  }
 
   for (let i = 0; i < list.length; i++) {
     if (!state.isPlayingAll) break;
@@ -1343,11 +1353,13 @@ async function pronounceAllWords() {
   }
 
   state.isPlayingAll = false;
-  document.getElementById('btn-pronounce-all').innerHTML = `
-    <i data-lucide="volume-2" class="w-4 h-4 text-brand-500"></i>
-    Nghe toàn bộ
-  `;
-  lucide.createIcons();
+  if (btn) {
+    btn.innerHTML = `
+      <i data-lucide="volume-2" class="w-4 h-4 text-brand-500"></i>
+      Nghe toàn bộ
+    `;
+    lucide.createIcons();
+  }
 }
 
 /**
@@ -1735,7 +1747,10 @@ function setupEventListeners() {
   }
 
   // Pronounce All Button
-  document.getElementById('btn-pronounce-all').onclick = pronounceAllWords;
+  const btnPronounceAll = document.getElementById('btn-pronounce-all');
+  if (btnPronounceAll) {
+    btnPronounceAll.onclick = pronounceAllWords;
+  }
 
   // Flashcard Controls
   document.getElementById('flashcard-element').onclick = flipFlashcard;
