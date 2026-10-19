@@ -133,6 +133,121 @@ function resolveDataPath(relPath) {
   return '/' + clean;
 }
 
+// ====================================================================
+// MODULE: ROUTING & STATE PERSISTENCE (LƯU ĐƯỜNG DẪN & DUYỆT BACK/FORWARD)
+// ====================================================================
+
+let isNavigatingHistory = false;
+
+function buildCurrentRouteHash() {
+  const params = new URLSearchParams();
+  params.set('hub', state.activeHub || 'vocab');
+
+  if (state.activeHub === 'grammar') {
+    if (state.grammar && state.grammar.activeUnit) {
+      params.set('unit', state.grammar.activeUnit.id);
+    }
+  } else {
+    if (state.activeCurriculum) params.set('curr', state.activeCurriculum.id);
+    if (state.activeUnit) params.set('unit', state.activeUnit.id);
+  }
+
+  if (state.currentTab) {
+    params.set('tab', state.currentTab);
+  }
+
+  return '#' + params.toString();
+}
+
+function updateRoute(push = true) {
+  if (isNavigatingHistory) return;
+  const newHash = buildCurrentRouteHash();
+  if (window.location.hash !== newHash) {
+    if (push) {
+      window.history.pushState(null, '', newHash);
+    } else {
+      window.history.replaceState(null, '', newHash);
+    }
+  }
+  try {
+    localStorage.setItem('jlpt_saved_route', newHash);
+  } catch (e) {}
+}
+
+async function applyRoute(routeHash) {
+  if (!routeHash) return false;
+  const clean = routeHash.replace(/^[#?]/, '');
+  if (!clean.includes('=')) return false;
+
+  const params = new URLSearchParams(clean);
+  const targetHub = params.get('hub') || 'vocab';
+  const targetCurr = params.get('curr');
+  const targetUnit = params.get('unit');
+  const targetTab = params.get('tab');
+
+  isNavigatingHistory = true;
+  try {
+    // 1. Kích hoạt giao diện Hub
+    if (typeof window.activateHubUI === 'function') {
+      window.activateHubUI(targetHub);
+    }
+
+    // 2. Kích hoạt Bài học (Unit) tương ứng
+    if (targetHub === 'grammar') {
+      await initGrammarModule();
+      if (targetUnit) {
+        await selectGrammarUnit(targetUnit);
+      } else if (state.grammarManifest && state.grammarManifest.units && state.grammarManifest.units.length > 0) {
+        await selectGrammarUnit(state.grammarManifest.units[0].id);
+      }
+    } else {
+      const manifest = (targetHub === 'kanji') ? state.kanjiManifest : state.vocabManifest;
+      if (manifest && manifest.curricula && manifest.curricula.length > 0) {
+        let cId = targetCurr;
+        let uId = targetUnit;
+        if (!cId && uId) {
+          const foundC = manifest.curricula.find(c => c.units && c.units.some(u => u.id === uId));
+          if (foundC) cId = foundC.id;
+        }
+        if (!cId) cId = manifest.curricula[0].id;
+        const curr = manifest.curricula.find(c => c.id === cId) || manifest.curricula[0];
+        if (curr && curr.units && curr.units.length > 0) {
+          if (!uId || !curr.units.some(u => u.id === uId)) {
+            uId = curr.units[0].id;
+          }
+          await selectUnit(curr.id, uId);
+        }
+      }
+    }
+
+    // 3. Kích hoạt đúng Tab con
+    if (targetTab) {
+      if (typeof window.switchTab === 'function') {
+        await window.switchTab(targetTab);
+      }
+    }
+
+    try {
+      localStorage.setItem('jlpt_saved_route', '#' + params.toString());
+    } catch (e) {}
+
+    return true;
+  } catch (err) {
+    console.warn('Lỗi khi phục hồi route:', err);
+    return false;
+  } finally {
+    isNavigatingHistory = false;
+  }
+}
+
+// Bắt sự kiện quay lui hoặc tiến tới trên trình duyệt
+window.addEventListener('popstate', async () => {
+  const hash = window.location.hash || localStorage.getItem('jlpt_saved_route');
+  if (hash) {
+    await applyRoute(hash);
+  }
+});
+
 /**
  * Nạp song song 3 file Manifest độc lập:
  * 1. data/vocab-manifest.json (Phân hệ Từ vựng)
@@ -158,12 +273,25 @@ async function loadManifest() {
     updateStatsDisplay();
     renderTreeView();
 
-    // Mặc định nạp bài học đầu tiên
-    const currentManifest = (state.activeHub === 'kanji') ? kManifest : vManifest;
-    if (currentManifest && currentManifest.curricula && currentManifest.curricula.length > 0) {
-      const firstCurr = currentManifest.curricula[0];
-      if (firstCurr.units && firstCurr.units.length > 0) {
-        selectUnit(firstCurr.id, firstCurr.units[0].id);
+    // Kiểm tra và phục hồi route từ URL Hash hoặc LocalStorage khi F5 / Reload
+    const initialRoute = window.location.hash || localStorage.getItem('jlpt_saved_route');
+    let routeRestored = false;
+    if (initialRoute) {
+      routeRestored = await applyRoute(initialRoute);
+      if (routeRestored && !window.location.hash) {
+        window.history.replaceState(null, '', buildCurrentRouteHash());
+      }
+    }
+
+    // Nếu không có route hoặc phục hồi thất bại, mặc định nạp bài học đầu tiên
+    if (!routeRestored) {
+      const currentManifest = (state.activeHub === 'kanji') ? kManifest : vManifest;
+      if (currentManifest && currentManifest.curricula && currentManifest.curricula.length > 0) {
+        const firstCurr = currentManifest.curricula[0];
+        if (firstCurr.units && firstCurr.units.length > 0) {
+          await selectUnit(firstCurr.id, firstCurr.units[0].id);
+          updateRoute(false);
+        }
       }
     }
   } catch (err) {
@@ -583,6 +711,7 @@ async function selectGrammarUnit(unitId) {
     renderGrammarOverview();
   }
   renderGrammarTree();
+  updateRoute(true);
 }
 
 /**
@@ -745,6 +874,7 @@ async function selectUnit(curriculumId, unitId) {
 
   // Render nội dung theo view hiện tại mà không đổi tab
   renderCurrentView();
+  updateRoute(true);
 }
 
 /**
@@ -1556,19 +1686,17 @@ function setupEventListeners() {
     }
 
     lucide.createIcons();
+    updateRoute(true);
   }
   window.switchTab = switchTab;
 
   /**
-   * Chuyển đổi giữa 3 Phân hệ Độc lập lớn (Tri-Hub Navigation):
-   * 'vocab' ⟷ 'kanji' ⟷ 'grammar'
+   * Kích hoạt giao diện Hub (Nút bấm, tabs phụ, placeholder, manifest)
    */
-  function switchHub(hub) {
+  function activateHubUI(hub) {
     state.activeHub = hub;
-
     const baseClass = 'hub-switcher-btn px-3 py-1.5 rounded-xl flex items-center gap-1.5 transition ';
 
-    // Reset ô lọc bài học trên sidebar và đổi placeholder theo phân hệ
     const sidebarFilter = document.getElementById('sidebar-unit-filter');
     if (sidebarFilter) {
       sidebarFilter.value = '';
@@ -1587,24 +1715,6 @@ function setupEventListeners() {
       if (navTabsKanji) navTabsKanji.classList.add('hidden');
       if (navTabsGrammar) navTabsGrammar.classList.add('hidden');
 
-      updateStatsDisplay();
-      renderTreeView();
-
-      // Đảm bảo có bài học được chọn trong cây từ vựng
-      const currManifest = state.vocabManifest;
-      if (currManifest && currManifest.curricula && currManifest.curricula.length > 0) {
-        const currExists = state.activeCurriculum && currManifest.curricula.find(c => c.id === state.activeCurriculum.id);
-        const unitExists = currExists && state.activeUnit && currExists.units.find(u => u.id === state.activeUnit.id);
-        if (!unitExists) {
-          const firstC = currManifest.curricula[0];
-          if (firstC.units && firstC.units.length > 0) {
-            selectUnit(firstC.id, firstC.units[0].id);
-          }
-        }
-      }
-
-      switchTab('vocab');
-
     } else if (hub === 'kanji') {
       state.manifest = state.kanjiManifest;
       if (btnHubKanji) btnHubKanji.className = baseClass + 'active bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-sm font-bold';
@@ -1615,31 +1725,6 @@ function setupEventListeners() {
       if (navTabsVocab) navTabsVocab.classList.add('hidden');
       if (navTabsGrammar) navTabsGrammar.classList.add('hidden');
 
-      updateStatsDisplay();
-      renderTreeView();
-
-      // Kiểm tra nếu bài hiện tại có chữ Hán thì nạp, nếu không thì chọn bài đầu tiên có chữ Hán
-      const currManifest = state.kanjiManifest;
-      if (currManifest && currManifest.curricula && currManifest.curricula.length > 0) {
-        const currExists = state.activeCurriculum && currManifest.curricula.find(c => c.id === state.activeCurriculum.id);
-        const unitExists = currExists && state.activeUnit && currExists.units.find(u => u.id === state.activeUnit.id && u.kanjiCount > 0);
-        if (!unitExists) {
-          let found = false;
-          for (const c of currManifest.curricula) {
-            const u = c.units.find(un => un.kanjiCount > 0);
-            if (u) {
-              selectUnit(c.id, u.id);
-              found = true;
-              break;
-            }
-          }
-        } else {
-          selectUnit(currExists.id, unitExists.id);
-        }
-      }
-
-      switchTab('kanji');
-
     } else if (hub === 'grammar') {
       if (btnHubGrammar) btnHubGrammar.className = baseClass + 'active bg-white dark:bg-slate-700 text-purple-600 dark:text-purple-300 shadow-sm font-bold';
       if (btnHubVocab) btnHubVocab.className = baseClass + 'text-slate-600 dark:text-slate-400 hover:text-brand-600 dark:hover:text-brand-400 font-medium';
@@ -1648,7 +1733,55 @@ function setupEventListeners() {
       if (navTabsGrammar) navTabsGrammar.classList.remove('hidden');
       if (navTabsVocab) navTabsVocab.classList.add('hidden');
       if (navTabsKanji) navTabsKanji.classList.add('hidden');
+    }
 
+    updateStatsDisplay();
+    renderTreeView();
+    lucide.createIcons();
+  }
+  window.activateHubUI = activateHubUI;
+
+  /**
+   * Chuyển đổi giữa 3 Phân hệ Độc lập lớn (Tri-Hub Navigation):
+   * 'vocab' ⟷ 'kanji' ⟷ 'grammar'
+   */
+  async function switchHub(hub) {
+    activateHubUI(hub);
+
+    if (hub === 'vocab') {
+      const currManifest = state.vocabManifest;
+      if (currManifest && currManifest.curricula && currManifest.curricula.length > 0) {
+        const currExists = state.activeCurriculum && currManifest.curricula.find(c => c.id === state.activeCurriculum.id);
+        const unitExists = currExists && state.activeUnit && currExists.units.find(u => u.id === state.activeUnit.id);
+        if (!unitExists) {
+          const firstC = currManifest.curricula[0];
+          if (firstC.units && firstC.units.length > 0) {
+            await selectUnit(firstC.id, firstC.units[0].id);
+          }
+        }
+      }
+      await switchTab('vocab');
+
+    } else if (hub === 'kanji') {
+      const currManifest = state.kanjiManifest;
+      if (currManifest && currManifest.curricula && currManifest.curricula.length > 0) {
+        const currExists = state.activeCurriculum && currManifest.curricula.find(c => c.id === state.activeCurriculum.id);
+        const unitExists = currExists && state.activeUnit && currExists.units.find(u => u.id === state.activeUnit.id && u.kanjiCount > 0);
+        if (!unitExists) {
+          for (const c of currManifest.curricula) {
+            const u = c.units.find(un => un.kanjiCount > 0);
+            if (u) {
+              await selectUnit(c.id, u.id);
+              break;
+            }
+          }
+        } else {
+          await selectUnit(currExists.id, unitExists.id);
+        }
+      }
+      await switchTab('kanji');
+
+    } else if (hub === 'grammar') {
       if (!state.grammar.activeUnit && state.grammarManifest && state.grammarManifest.units && state.grammarManifest.units.length > 0) {
         state.grammar.activeUnit = state.grammarManifest.units[0];
       }
@@ -1658,14 +1791,10 @@ function setupEventListeners() {
         if (breadcrumbCurr) breadcrumbCurr.textContent = `JLPT ${state.grammar.activeUnit.level}`;
         if (breadcrumbUnit) breadcrumbUnit.textContent = state.grammar.activeUnit.title;
       }
-
-      updateStatsDisplay();
-      renderTreeView();
-
-      switchTab('grammar');
+      await switchTab('grammar');
     }
 
-    lucide.createIcons();
+    updateRoute(true);
   }
 
   // Gắn sự kiện cho 3 Nút Switcher trên Topbar
