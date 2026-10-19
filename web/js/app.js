@@ -516,41 +516,25 @@ function renderGrammarTree(filterKeyword = '') {
           </div>
         </button>
 
-        <div class="level-children-list px-1.5 pb-1.5 space-y-1.5">
+        <div class="level-children-list px-2 pb-2 space-y-1.5">
           ${filteredUnits.map(({ unit, grammars }) => {
             const isActiveUnit = state.grammar && state.grammar.activeUnit && state.grammar.activeUnit.id === unit.id;
             return `
-              <div class="grammar-unit-card rounded-lg bg-white dark:bg-slate-800/80 border ${isActiveUnit ? 'border-purple-500 dark:border-purple-500 ring-1 ring-purple-500/50' : 'border-slate-200/60 dark:border-slate-700/60'} overflow-hidden">
-                <button class="grammar-unit-btn w-full px-2.5 py-2 flex items-center justify-between text-left text-xs font-semibold text-slate-800 dark:text-slate-200 hover:bg-purple-50/50 transition group" data-unit-id="${unit.id}">
-                  <div class="flex items-center space-x-2 truncate">
-                    <i data-lucide="book-mark" class="w-3.5 h-3.5 text-purple-600 dark:text-purple-400 shrink-0"></i>
-                    <span class="truncate font-bold">${unit.title}</span>
-                  </div>
-                  <div class="flex items-center space-x-1.5 shrink-0">
-                    <span class="px-1.5 py-0.2 rounded bg-purple-100/70 dark:bg-purple-900/40 text-purple-700 dark:text-purple-300 font-mono text-[10px] font-bold">${grammars.length} mẫu</span>
-                    <i data-lucide="chevron-down" class="w-3 h-3 text-slate-400 group-hover:text-slate-600 tree-chevron expanded transition-transform duration-200"></i>
-                  </div>
-                </button>
-
-                <div class="units-list pl-2 pr-1 pb-1 pt-0.5 space-y-0.5 border-t border-slate-100 dark:border-slate-700/40">
-                  ${grammars.map(g => {
-                    const isActive = state.grammar && state.grammar.activeGrammar && state.grammar.activeGrammar.id === g.id;
-                    return `
-                      <button class="grammar-tree-item-btn w-full px-2 py-1.5 rounded-md flex items-center justify-between text-left text-xs transition ${
-                        isActive 
-                          ? 'bg-purple-50 dark:bg-purple-950/70 text-purple-700 dark:text-purple-300 font-bold border-l-2 border-purple-600' 
-                          : 'text-slate-600 dark:text-slate-400 hover:bg-purple-50/50 dark:hover:bg-slate-700/60'
-                      }" data-grammar-id="${g.id}">
-                        <div class="flex items-center space-x-2 truncate">
-                          <span class="w-1.5 h-1.5 rounded-full ${isActive ? 'bg-purple-600' : 'bg-slate-300'} shrink-0"></span>
-                          <span class="truncate font-jp text-[11px]">${g.title}</span>
-                        </div>
-                        <span class="text-[10px] text-purple-600 font-mono shrink-0">5q</span>
-                      </button>
-                    `;
-                  }).join('')}
+              <button 
+                class="grammar-unit-btn w-full px-3 py-2.5 rounded-xl border flex items-center justify-between text-left transition ${
+                  isActiveUnit 
+                    ? 'bg-purple-100/70 dark:bg-purple-950/80 border-purple-500 dark:border-purple-500 text-purple-700 dark:text-purple-300 font-bold shadow-sm ring-1 ring-purple-500/40' 
+                    : 'bg-white dark:bg-slate-800/80 border-slate-200/70 dark:border-slate-700/70 text-slate-800 dark:text-slate-200 hover:border-purple-300 dark:hover:border-purple-700 hover:bg-purple-50/40'
+                }" 
+                data-unit-id="${unit.id}"
+              >
+                <div class="flex items-center space-x-2 truncate">
+                  <span class="truncate text-xs font-extrabold">${unit.title}</span>
                 </div>
-              </div>
+                <span class="px-2 py-0.5 rounded-full bg-purple-100 dark:bg-purple-900/50 text-purple-700 dark:text-purple-300 font-mono text-[11px] font-bold shrink-0">
+                  ${grammars.length} mẫu
+                </span>
+              </button>
             `;
           }).join('')}
         </div>
@@ -579,8 +563,12 @@ function selectGrammarUnit(unitId) {
   document.getElementById('breadcrumb-curriculum').textContent = `JLPT ${unit.level}`;
   document.getElementById('breadcrumb-unit').textContent = unit.title;
 
-  switchTab('grammar-catalog');
-  renderGrammarCatalog();
+  if (state.currentTab === 'grammar-test') {
+    renderGrammarCatalog();
+  } else {
+    switchTab('grammar-catalog');
+    renderGrammarOverview();
+  }
   renderGrammarTree();
 }
 
@@ -614,20 +602,8 @@ function attachTreeEvents() {
 
   // Cấp 2 Ngữ pháp: Chọn bài học Ngữ pháp (Bài 1, Bài 2)
   document.querySelectorAll('.grammar-unit-btn').forEach(btn => {
-    btn.onclick = (e) => {
+    btn.onclick = () => {
       const unitId = btn.getAttribute('data-unit-id');
-      const unitsList = btn.nextElementSibling;
-      const chevron = btn.querySelector('.tree-chevron');
-
-      // Nếu click vào chevron thì chỉ toggle
-      if (e.target.closest('.tree-chevron')) {
-        if (unitsList) {
-          unitsList.classList.toggle('hidden');
-          chevron.classList.toggle('expanded');
-        }
-        return;
-      }
-
       selectGrammarUnit(unitId);
 
       if (window.innerWidth < 1024) {
@@ -1473,7 +1449,12 @@ function setupEventListeners() {
       if (viewGrammar) {
         viewGrammar.classList.remove('hidden');
         initGrammarModule();
-        quitGrammarArena();
+        // Ẩn arena & summary & catalog, chỉ hiện overview
+        document.getElementById('grammar-arena')?.classList.add('hidden');
+        document.getElementById('grammar-summary')?.classList.add('hidden');
+        document.getElementById('grammar-catalog')?.classList.add('hidden');
+        document.getElementById('grammar-overview')?.classList.remove('hidden');
+        renderGrammarOverview();
       }
 
     } else if (tab === 'grammar-flashcard') {
@@ -1487,6 +1468,12 @@ function setupEventListeners() {
       if (viewGrammar) {
         viewGrammar.classList.remove('hidden');
         initGrammarModule();
+        // Ẩn arena & summary & overview, chỉ hiện catalog (Đấu trường trắc nghiệm)
+        document.getElementById('grammar-arena')?.classList.add('hidden');
+        document.getElementById('grammar-summary')?.classList.add('hidden');
+        document.getElementById('grammar-overview')?.classList.add('hidden');
+        document.getElementById('grammar-catalog')?.classList.remove('hidden');
+        renderGrammarCatalog();
       }
     }
 
@@ -2562,19 +2549,177 @@ async function initGrammarModule() {
     }
   }
 
-  // Luôn hiển thị Catalog nếu không trong phiên làm bài
-  const arena = document.getElementById('grammar-arena');
-  const summary = document.getElementById('grammar-summary');
-  const catalog = document.getElementById('grammar-catalog');
+  setupGrammarListeners();
+}
 
-  if (arena && summary && catalog) {
-    if (arena.classList.contains('hidden') && summary.classList.contains('hidden')) {
-      catalog.classList.remove('hidden');
-      renderGrammarCatalog();
-    }
+/**
+ * Hiển thị danh mục tổng quan tất cả ngữ pháp của bài học đang chọn:
+ * Cấu trúc ngữ pháp, Ý nghĩa tiếng Việt, Lưu ý cách dùng và các câu ví dụ mẫu.
+ */
+async function renderGrammarOverview() {
+  const container = document.getElementById('grammar-overview-list');
+  const titleEl = document.getElementById('grammar-overview-title');
+  const countEl = document.getElementById('grammar-overview-count');
+  if (!container) return;
+
+  const manifest = state.grammarManifest || state.grammar.manifest;
+  if (!manifest) return;
+
+  const units = manifest.units || [];
+  let activeUnit = state.grammar.activeUnit || units[0];
+  state.grammar.activeUnit = activeUnit;
+
+  if (titleEl && activeUnit) {
+    titleEl.textContent = `${activeUnit.level} - ${activeUnit.fullName || activeUnit.title}`;
   }
 
-  setupGrammarListeners();
+  const allItems = manifest.items || [];
+  const unitItems = activeUnit 
+    ? allItems.filter(item => item.unitId === activeUnit.id || (activeUnit.grammarIds && activeUnit.grammarIds.includes(item.id)))
+    : allItems;
+
+  if (countEl) countEl.textContent = unitItems.length;
+
+  if (unitItems.length === 0) {
+    container.innerHTML = `
+      <div class="py-12 text-center text-xs text-slate-400 bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-800">
+        Bài học này chưa có mẫu ngữ pháp nào.
+      </div>
+    `;
+    return;
+  }
+
+  // Tải chi tiết các mẫu ngữ pháp để lấy các câu ví dụ thực tế
+  const detailedItems = await Promise.all(
+    unitItems.map(async item => {
+      try {
+        const res = await fetch(`data/grammar/${item.id}.json`);
+        if (res.ok) return await res.json();
+      } catch (e) {
+        console.warn(`Lỗi tải chi tiết mẫu ${item.id}:`, e);
+      }
+      return item;
+    })
+  );
+
+  container.innerHTML = detailedItems.map((item, idx) => {
+    let badgeColor = 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950/80 dark:text-emerald-300 border-emerald-200';
+    if (item.level === 'N5') {
+      badgeColor = 'bg-amber-100 text-amber-800 dark:bg-amber-950/80 dark:text-amber-300 border-amber-200';
+    } else if (item.level === 'N3') {
+      badgeColor = 'bg-indigo-100 text-indigo-800 dark:bg-indigo-950/80 dark:text-indigo-300 border-indigo-200';
+    }
+
+    const questions = item.questions || [];
+    // Lấy 2 câu ví dụ tiêu biểu từ ngân hàng câu hỏi
+    const sampleExamples = questions.slice(0, 2);
+
+    return `
+      <div class="p-6 rounded-2xl bg-white dark:bg-slate-800 border border-slate-200/90 dark:border-slate-700/80 shadow-sm hover:shadow-md transition duration-200 space-y-4">
+        
+        <!-- Header mẫu ngữ pháp -->
+        <div class="flex items-start justify-between gap-4 flex-wrap pb-3 border-b border-slate-100 dark:border-slate-700/60">
+          <div class="space-y-1">
+            <div class="flex items-center gap-2">
+              <span class="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-wider border ${badgeColor}">
+                ${item.level || 'N4'}
+              </span>
+              <span class="text-xs text-slate-400 font-mono">Mẫu #${idx + 1}</span>
+            </div>
+            <h3 class="font-jp text-xl sm:text-2xl font-extrabold text-slate-900 dark:text-white tracking-wide">
+              ${item.title}
+            </h3>
+            <p class="text-sm font-bold text-purple-700 dark:text-purple-300">
+              👉 ${item.meaning}
+            </p>
+          </div>
+
+          <button 
+            type="button" 
+            class="btn-goto-practice-single px-4 py-2 rounded-xl bg-purple-50 hover:bg-purple-600 text-purple-700 hover:text-white dark:bg-purple-950/50 dark:hover:bg-purple-600 dark:text-purple-300 dark:hover:text-white font-bold text-xs flex items-center gap-1.5 transition shadow-sm"
+            data-grammar-id="${item.id}"
+          >
+            <i data-lucide="zap" class="w-4 h-4"></i>
+            Luyện trắc nghiệm mẫu này
+          </button>
+        </div>
+
+        <!-- Cấu trúc ngữ pháp (Connection) & Cách dùng -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs">
+          <div class="p-3.5 rounded-xl bg-purple-50/50 dark:bg-slate-900/60 border border-purple-100 dark:border-purple-900/40">
+            <div class="text-[11px] font-bold text-purple-700 dark:text-purple-300 uppercase tracking-wider mb-1 flex items-center gap-1">
+              <i data-lucide="link-2" class="w-3.5 h-3.5"></i>
+              Cấu trúc ngữ pháp (Kết nối):
+            </div>
+            <div class="font-mono text-xs font-bold text-slate-800 dark:text-slate-200">
+              ${item.connection || '―'}
+            </div>
+          </div>
+
+          <div class="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-900/60 border border-slate-100 dark:border-slate-800">
+            <div class="text-[11px] font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider mb-1 flex items-center gap-1">
+              <i data-lucide="info" class="w-3.5 h-3.5"></i>
+              Lưu ý cách dùng:
+            </div>
+            <p class="text-slate-700 dark:text-slate-300 leading-relaxed">
+              ${item.usageNotes || 'Áp dụng trong các ngữ cảnh giao tiếp và đề thi JLPT.'}
+            </p>
+          </div>
+        </div>
+
+        <!-- Các câu ví dụ thực tế -->
+        ${sampleExamples.length > 0 ? `
+          <div class="space-y-2 pt-1">
+            <div class="text-xs font-bold text-slate-700 dark:text-slate-300 flex items-center gap-1.5">
+              <i data-lucide="quote" class="w-3.5 h-3.5 text-purple-500"></i>
+              Ví dụ mẫu thực tế:
+            </div>
+            <div class="space-y-2">
+              ${sampleExamples.map(ex => `
+                <div class="p-3 rounded-xl bg-slate-50 dark:bg-slate-900/40 border border-slate-100 dark:border-slate-800/80 flex items-start justify-between gap-3 group">
+                  <div class="space-y-1 flex-1">
+                    <p class="font-jp text-sm font-bold text-slate-900 dark:text-slate-100 leading-relaxed">
+                      ${ex.sentenceJa}
+                    </p>
+                    <p class="text-xs text-slate-600 dark:text-slate-400">
+                      ${ex.sentenceVi}
+                    </p>
+                  </div>
+                  <button 
+                    type="button" 
+                    class="btn-speak-example p-2 rounded-lg text-purple-600 dark:text-purple-400 hover:bg-purple-100 dark:hover:bg-slate-800 transition shrink-0" 
+                    title="Phát âm câu ví dụ"
+                    data-sentence="${encodeURIComponent(ex.sentenceJa)}"
+                  >
+                    <i data-lucide="volume-2" class="w-4 h-4"></i>
+                  </button>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        ` : ''}
+
+      </div>
+    `;
+  }).join('');
+
+  lucide.createIcons();
+
+  // Gắn sự kiện click luyện tập riêng từng mẫu
+  container.querySelectorAll('.btn-goto-practice-single').forEach(btn => {
+    btn.onclick = () => {
+      const gId = btn.getAttribute('data-grammar-id');
+      startGrammarQuiz(gId);
+    };
+  });
+
+  // Gắn sự kiện phát âm câu ví dụ
+  container.querySelectorAll('.btn-speak-example').forEach(btn => {
+    btn.onclick = () => {
+      const sent = decodeURIComponent(btn.getAttribute('data-sentence'));
+      speakJapanese(sent);
+    };
+  });
 }
 
 /**
@@ -3114,19 +3259,30 @@ function showGrammarSummary() {
 }
 
 /**
- * Thoát khỏi Grammar Arena quay về danh mục mẫu ngữ pháp
+ * Thoát khỏi Grammar Arena quay về danh mục mẫu ngữ pháp hoặc tổng quan
  */
 function quitGrammarArena() {
   document.getElementById('grammar-arena').classList.add('hidden');
   document.getElementById('grammar-summary').classList.add('hidden');
-  document.getElementById('grammar-catalog').classList.remove('hidden');
-  renderGrammarCatalog();
+  if (state.currentTab === 'grammar-catalog') {
+    document.getElementById('grammar-overview')?.classList.remove('hidden');
+    renderGrammarOverview();
+  } else {
+    document.getElementById('grammar-catalog')?.classList.remove('hidden');
+    renderGrammarCatalog();
+  }
 }
 
 /**
  * Thiết lập các sự kiện của Module Ngữ pháp
  */
 function setupGrammarListeners() {
+  // Nút chuyển từ Tổng quan sang Đấu trường Trắc nghiệm
+  const btnGotoTest = document.getElementById('btn-goto-grammar-test');
+  if (btnGotoTest) {
+    btnGotoTest.onclick = () => switchTab('grammar-test');
+  }
+
   // Level filter buttons
   document.querySelectorAll('.grammar-filter-btn').forEach(btn => {
     btn.onclick = () => {

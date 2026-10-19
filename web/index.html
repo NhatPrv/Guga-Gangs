@@ -194,12 +194,13 @@
             <button 
               id="btn-github-menu" 
               type="button"
-              class="p-2 rounded-lg text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 transition flex items-center gap-1" 
-              title="GitHub Repository & Tác giả"
+              class="p-2 rounded-xl text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 transition flex items-center justify-center" 
+              title="GitHub: Follow tác giả & Đóng góp repo"
               aria-expanded="false"
             >
-              <i data-lucide="github" class="w-4 h-4"></i>
-              <i data-lucide="chevron-down" class="w-3 h-3 text-slate-400"></i>
+              <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24" aria-hidden="true">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" />
+              </svg>
             </button>
 
             <!-- Dropdown content -->
@@ -834,8 +835,47 @@
         <!-- ==================================================== -->
         <section id="view-grammar" class="hidden">
           
-          <!-- 1. GRAMMAR CATALOG: Danh sách các mẫu ngữ pháp để chọn -->
-          <div id="grammar-catalog" class="max-w-5xl mx-auto space-y-6">
+          <!-- 0. GRAMMAR OVERVIEW: Danh mục tổng quan tất cả ngữ pháp của bài hiện tại (Cấu trúc, Nghĩa, Cách dùng, Ví dụ) -->
+          <div id="grammar-overview" class="max-w-5xl mx-auto space-y-6">
+            <!-- Header tổng quan bài học -->
+            <div class="p-6 rounded-2xl bg-gradient-to-r from-purple-800 to-indigo-800 text-white shadow-lg relative overflow-hidden">
+              <div class="relative z-10">
+                <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/20 text-purple-100 text-xs font-semibold uppercase tracking-wider mb-2">
+                  <i data-lucide="book-open" class="w-3.5 h-3.5"></i>
+                  Tổng quan Ngữ pháp bài học
+                </div>
+                <h2 id="grammar-overview-title" class="text-2xl sm:text-3xl font-extrabold tracking-tight mb-2">
+                  JLPT N4 - Bài 1
+                </h2>
+                <p id="grammar-overview-desc" class="text-xs sm:text-sm text-purple-200/90 leading-relaxed">
+                  Tổng hợp tất cả cấu trúc ngữ pháp trọng tâm, giải thích ý nghĩa, quy tắc kết nối và các ví dụ thực tế.
+                </p>
+              </div>
+            </div>
+
+            <!-- Thanh thông tin & Nút chuyển sang đấu trường trắc nghiệm -->
+            <div class="flex items-center justify-between gap-3 flex-wrap">
+              <div class="text-xs text-slate-500 dark:text-slate-400">
+                Bài học gồm: <span id="grammar-overview-count" class="font-bold text-purple-600 dark:text-purple-400">0</span> mẫu ngữ pháp
+              </div>
+              <button 
+                type="button" 
+                id="btn-goto-grammar-test" 
+                class="px-4 py-2 rounded-xl bg-purple-600 hover:bg-purple-700 text-white font-bold text-xs shadow-md shadow-purple-500/20 flex items-center gap-1.5 transition"
+              >
+                <i data-lucide="compass" class="w-4 h-4"></i>
+                Vào Đấu trường Trắc nghiệm
+              </button>
+            </div>
+
+            <!-- Container danh sách thẻ chi tiết từng mẫu ngữ pháp -->
+            <div id="grammar-overview-list" class="space-y-4">
+              <!-- Render động tổng quan cấu trúc, nghĩa, ghi chú và các ví dụ -->
+            </div>
+          </div>
+
+          <!-- 1. GRAMMAR CATALOG: ĐẤU TRƯỜNG TRẮC NGHIỆM (ÔN TẬP NHANH & ÔN TẬP TỔNG HỢP) -->
+          <div id="grammar-catalog" class="hidden max-w-5xl mx-auto space-y-6">
             
             <!-- Hero Banner -->
             <div class="p-6 rounded-2xl bg-gradient-to-r from-purple-900/90 to-indigo-900/90 text-white shadow-xl relative overflow-hidden border border-purple-500/20">
