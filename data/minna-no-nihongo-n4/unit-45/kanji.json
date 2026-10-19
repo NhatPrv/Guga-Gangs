@@ -1,0 +1,102 @@
+[
+  {
+    "id": "k45-1",
+    "character": "謝",
+    "onyomi": "シャ",
+    "kunyomi": "あやま.る",
+    "meaning": "TẠ (chữ Hán TẠ)",
+    "strokes": 17,
+    "examples": [
+      {
+        "compound": "感謝",
+        "reading": "かんしゃ",
+        "meaning": "cảm ơn"
+      },
+      {
+        "compound": "謝る",
+        "reading": "あやまる",
+        "meaning": "xin lỗi"
+      }
+    ]
+  },
+  {
+    "id": "k45-3",
+    "character": "用",
+    "onyomi": "ヨウ",
+    "kunyomi": "もち.いる",
+    "meaning": "DỤNG (chữ Hán DỤNG)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "引用",
+        "reading": "いんよう",
+        "meaning": "trích dẫn"
+      },
+      {
+        "compound": "活用",
+        "reading": "かつよう",
+        "meaning": "sự chia động từ"
+      }
+    ]
+  },
+  {
+    "id": "k45-7",
+    "character": "保",
+    "onyomi": "ホ, ホウ",
+    "kunyomi": "たも.つ",
+    "meaning": "BẢO (chữ Hán BẢO)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "保証",
+        "reading": "ほしょう",
+        "meaning": "đảm bảo"
+      },
+      {
+        "compound": "保存",
+        "reading": "ほぞん",
+        "meaning": "bảo quản"
+      }
+    ]
+  },
+  {
+    "id": "k45-8",
+    "character": "証",
+    "onyomi": "ショウ",
+    "kunyomi": "あかし",
+    "meaning": "CHỨNG (chữ Hán CHỨNG)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "証明",
+        "reading": "しょうめい",
+        "meaning": "bằng chứng"
+      },
+      {
+        "compound": "保証",
+        "reading": "ほしょう",
+        "meaning": "đảm bảo"
+      }
+    ]
+  },
+  {
+    "id": "k45-10",
+    "character": "領",
+    "onyomi": "リョウ",
+    "kunyomi": "えり",
+    "meaning": "LÃNH (chữ Hán LÃNH)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "領収書",
+        "reading": "りょうしゅうしょ",
+        "meaning": "hoá đơn"
+      },
+      {
+        "compound": "大統領",
+        "reading": "だいとうりょう",
+        "meaning": "tổng thống"
+      }
+    ]
+  }
+]

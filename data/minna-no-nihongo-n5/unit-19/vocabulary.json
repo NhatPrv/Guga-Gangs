@@ -1,0 +1,205 @@
+[
+  {
+    "word": "登ります",
+    "meaning": "leo núi)",
+    "reading": "のぼります",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、登りますようにしています。 (Tôi cố gắng leo lên mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "練習します",
+    "meaning": "luyện tập, luyện tập",
+    "reading": "れんしゅうします",
+    "sinoVietnamese": "LUYỆN TẬP",
+    "example": "毎日仕事が終わったあと、日本語を練習します。 (Tôi thực hành tiếng Nhật mỗi ngày sau giờ làm việc.)"
+  },
+  {
+    "word": "掃除します",
+    "meaning": "dọn dẹp",
+    "reading": "そうじします",
+    "sinoVietnamese": "",
+    "example": "毎日仕事が終わったあと、日本語を掃除します。 (Mỗi ngày sau giờ làm việc, tôi dọn dẹp tiếng Nhật.)"
+  },
+  {
+    "word": "洗濯します",
+    "meaning": "rửa",
+    "reading": "せんたくします",
+    "sinoVietnamese": "TẨY",
+    "example": "毎日仕事が終わったあと、日本語を洗濯します。 (Mỗi ngày sau giờ làm việc, tôi giặt quần áo Nhật Bản.)"
+  },
+  {
+    "word": "なります",
+    "meaning": "đến",
+    "reading": "なります",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、なりますようにしています。 (Tôi cố gắng trở nên tốt hơn mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "泊まります",
+    "meaning": "quán trọ",
+    "reading": "とまります",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、泊まりますようにしています。 (Tôi cố gắng ở lại qua đêm mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "眠い",
+    "meaning": "đang ngủ",
+    "reading": "ねむい",
+    "sinoVietnamese": "",
+    "example": "この本はとても眠いので、おすすめです。 (Cuốn sách này rất buồn ngủ và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "強い",
+    "meaning": "mạnh mẽ",
+    "reading": "つよい",
+    "sinoVietnamese": "CƯỜNG",
+    "example": "この本はとても強いので、おすすめです。 (Cuốn sách này rất mạnh mẽ và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "弱い",
+    "meaning": "yếu đuối",
+    "reading": "よわい",
+    "sinoVietnamese": "NHƯỢC",
+    "example": "この本はとても弱いので、おすすめです。 (Cuốn sách này rất yếu và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "調子",
+    "meaning": "trạng thái, trạng thái",
+    "reading": "ちょうし",
+    "sinoVietnamese": "ĐIỀU TỬ",
+    "example": "調子が健康で幸せに暮らせることをいつも願っています。 (Tôi luôn mong rằng bạn luôn khỏe mạnh và sống một cuộc sống hạnh phúc.)"
+  },
+  {
+    "word": "調子が悪い",
+    "meaning": "tình trạng tồi tệ",
+    "reading": "ちょうしがわるい",
+    "sinoVietnamese": "ĐIỀU TỬ ÁC",
+    "example": "この本はとても調子が悪いので、おすすめです。 (Tôi đánh giá cao cuốn sách này vì nó rất hay.)"
+  },
+  {
+    "word": "調子がいい",
+    "meaning": "tình trạng tốt",
+    "reading": "ちょうしがいい",
+    "sinoVietnamese": "ĐIỀU TỬ",
+    "example": "この本はとても調子がいいので、おすすめです。 (Cuốn sách này ở trong tình trạng tuyệt vời và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "相撲",
+    "meaning": "đấu vật sumo",
+    "reading": "すもう",
+    "sinoVietnamese": "",
+    "example": "新しい相撲を手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một sumo mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "パチンコ",
+    "meaning": "trò chơi pachinko",
+    "reading": "パチンコ",
+    "sinoVietnamese": "",
+    "example": "店員さんに相談して、自分にぴったりのパチンコを選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được chiếc pachinko hoàn hảo cho mình.)"
+  },
+  {
+    "word": "ゴルフ",
+    "meaning": "chơi gôn",
+    "reading": "ゴルフ",
+    "sinoVietnamese": "",
+    "example": "店員さんに相談して、自分にぴったりのゴルフを選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được cây gôn phù hợp với mình.)"
+  },
+  {
+    "word": "日",
+    "meaning": "ngày",
+    "reading": "ひ",
+    "sinoVietnamese": "NHẬT",
+    "example": "日までに提出しなければならない大事な書類があります。 (Có những tài liệu quan trọng phải được nộp trước thời hạn.)"
+  },
+  {
+    "word": "もうすぐ",
+    "meaning": "sắp sửa",
+    "reading": "もうすぐ",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要なもうすぐをしっかり入れて出かけました。 (Tôi đóng gói tất cả những vật dụng cần thiết vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "だんだん",
+    "meaning": "dần dần",
+    "reading": "だんだん",
+    "sinoVietnamese": "",
+    "example": "新しいだんだんを手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một dandan mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "一度",
+    "meaning": "một lần",
+    "reading": "いちど",
+    "sinoVietnamese": "NHẤT",
+    "example": "父から大切な一度を譲り受けて、大事に使っています。 (Tôi thừa hưởng món quà quý giá này từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+  },
+  {
+    "word": "一度も",
+    "meaning": "chưa",
+    "reading": "いちども",
+    "sinoVietnamese": "NHẤT",
+    "example": "カバンの中に必要な一度もをしっかり入れて出かけました。 (Tôi gói ghém mọi thứ cần thiết vào túi rồi đi ra ngoài.)"
+  },
+  {
+    "word": "おかげさまで",
+    "meaning": "cảm ơn bạn",
+    "reading": "おかげさまで",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要なおかげさまでをしっかり入れて出かけました。 (Tôi bỏ mọi thứ tôi cần vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "乾杯",
+    "meaning": "cổ vũ",
+    "reading": "かんぱい",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要な乾杯をしっかり入れて出かけました。 (Tôi gói những chiếc bánh mì nướng cần thiết vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "実は",
+    "meaning": "vấn đề là",
+    "reading": "じつは",
+    "sinoVietnamese": "",
+    "example": "日本の文化や生活に関わる実はについて興味深く学びました。 (Tôi rất thích thú tìm hiểu những sự thật liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "ダイエット",
+    "meaning": "chế độ ăn kiêng",
+    "reading": "ダイエット",
+    "sinoVietnamese": "",
+    "example": "健康のために、先月から毎朝のジョギングとダイエットを始めました。(Vì sức khỏe, từ tháng trước tôi đã bắt đầu chạy bộ buổi sáng và ăn kiêng.)"
+  },
+  {
+    "word": "何回も",
+    "meaning": "nhiều lần",
+    "reading": "なんかいも",
+    "sinoVietnamese": "HÀ",
+    "example": "使いやすい何回ものおかげで、毎日の生活がとても快適になりました。 (Nhờ sự dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+  },
+  {
+    "word": "しかし",
+    "meaning": "tuy nhiên",
+    "reading": "しかし",
+    "sinoVietnamese": "",
+    "example": "店員さんに相談して、自分にぴったりのしかしを選びました。 (Tôi đã tham khảo ý kiến ​​của nhân viên cửa hàng và chọn một chiếc phù hợp với mình.)"
+  },
+  {
+    "word": "無理「な」",
+    "meaning": "choáng ngợp",
+    "reading": "むり「な」",
+    "sinoVietnamese": "VÔ LÝ",
+    "example": "丁寧にお手入れをしながら、お気に入りの無理を長く愛用しています。 (Tôi đã sử dụng những món đồ vô lý yêu thích của mình từ lâu, chăm sóc chúng cẩn thận.)"
+  },
+  {
+    "word": "体にいい",
+    "meaning": "tốt cho sức khỏe",
+    "reading": "からだにいい",
+    "sinoVietnamese": "THỂ",
+    "example": "この本はとても体にいいので、おすすめです。 (Cuốn sách này rất hay dành cho bạn nên tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "ケーキ",
+    "meaning": "bánh ngọt",
+    "reading": "ケーキ",
+    "sinoVietnamese": "",
+    "example": "母が作ってくれた手作りのケーキは本当に美味しいです。 (Chiếc bánh mẹ tôi làm thực sự rất ngon.)"
+  }
+]

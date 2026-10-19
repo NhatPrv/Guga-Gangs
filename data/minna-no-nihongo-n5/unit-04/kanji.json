@@ -1,0 +1,162 @@
+[
+  {
+    "id": "k-n5-4-1",
+    "character": "起",
+    "onyomi": "キ",
+    "kunyomi": "お.きる, お.こる, お.こす, おこ.す, た.つ",
+    "meaning": "KHỞI (thức dậy, khởi hành)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "起こる",
+        "reading": "おこる",
+        "meaning": "xảy ra"
+      },
+      {
+        "compound": "起す",
+        "reading": "おこす",
+        "meaning": "đánh thức, gây ra"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-4-2",
+    "character": "寝",
+    "onyomi": "シン",
+    "kunyomi": "ね.る, ね.かす, い.ぬ, みたまや, や.める",
+    "meaning": "TẨM (ngủ, tẩm cung)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "寝坊",
+        "reading": "ねぼう",
+        "meaning": "ngủ muộn"
+      },
+      {
+        "compound": "寝る",
+        "reading": "ねる",
+        "meaning": "đi ngủ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-4-3",
+    "character": "働",
+    "onyomi": "ドウ",
+    "kunyomi": "はたら.く",
+    "meaning": "ĐỘNG (chữ Hán ĐỘNG)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "働き",
+        "reading": "はたらき",
+        "meaning": "làm việc"
+      },
+      {
+        "compound": "労働",
+        "reading": "ろうどう",
+        "meaning": "lao động chân tay"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-4-4",
+    "character": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす.む, やす.まる, やす.める",
+    "meaning": "HƯU (nghỉ ngơi, giải lao)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "休暇",
+        "reading": "きゅうか",
+        "meaning": "kỳ nghỉ"
+      },
+      {
+        "compound": "休憩",
+        "reading": "きゅうけい",
+        "meaning": "nghỉ ngơi"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-4-5",
+    "character": "勉",
+    "onyomi": "ベン",
+    "kunyomi": "つと.める",
+    "meaning": "MIỄN (cố gắng, miệt mài)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "勉強します",
+        "reading": "べんきょうします",
+        "meaning": "học tập"
+      },
+      {
+        "compound": "勉強",
+        "reading": "べんきょう",
+        "meaning": "học tập"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-4-6",
+    "character": "強",
+    "onyomi": "キョウ, ゴウ",
+    "kunyomi": "つよ.い, つよ.まる, つよ.める, し.いる, こわ.い",
+    "meaning": "CƯỜNG (mạnh mẽ, kiên cường)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "強調",
+        "reading": "きょうちょう",
+        "meaning": "sự nhấn mạnh"
+      },
+      {
+        "compound": "強力",
+        "reading": "きょうりょく",
+        "meaning": "mạnh mẽ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-4-7",
+    "character": "終",
+    "onyomi": "シュウ",
+    "kunyomi": "お.わる, -お.わる, おわ.る, お.える, つい, つい.に",
+    "meaning": "CHUNG (kết thúc, chung cuộc)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "終える",
+        "reading": "おえる",
+        "meaning": "kết thúc"
+      },
+      {
+        "compound": "最終",
+        "reading": "さいしゅう",
+        "meaning": "cuối cùng"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-4-8",
+    "character": "銀",
+    "onyomi": "ギン",
+    "kunyomi": "しろがね",
+    "meaning": "NGÂN (bạc, ngân hàng)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "銀",
+        "reading": "ぎん",
+        "meaning": "bạc"
+      },
+      {
+        "compound": "寄ります「銀行に～」",
+        "reading": "よります [ぎんこうに~]",
+        "meaning": "chuyến thăm"
+      }
+    ]
+  }
+]

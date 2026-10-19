@@ -1,0 +1,191 @@
+[
+  {
+    "word": "立ちます",
+    "meaning": "đứng",
+    "reading": "たちます",
+    "sinoVietnamese": "LẬP",
+    "example": "毎日欠かさずに、立ちますようにしています。 (Tôi cố gắng đứng lên mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "座ります",
+    "meaning": "ngồi",
+    "reading": "すわります",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、座りますようにしています。 (Tôi cố gắng ngồi xuống mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "使います",
+    "meaning": "sử dụng, sử dụng",
+    "reading": "つかいます",
+    "sinoVietnamese": "SỬ",
+    "example": "毎日欠かさずに、使いますようにしています。 (Tôi cố gắng sử dụng nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "置きます",
+    "meaning": "đặt",
+    "reading": "おきます",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、置きますようにしています。 (Tôi cố gắng để nó ở đó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "作ります，造ります",
+    "meaning": "chế tạo, chế tạo, chế tạo",
+    "reading": "つくります",
+    "sinoVietnamese": "TÁC",
+    "example": "毎日欠かさずに、作ります，造りますようにしています。 (Tôi cố gắng làm điều gì đó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "売ります",
+    "meaning": "bán",
+    "reading": "うります",
+    "sinoVietnamese": "MẠI",
+    "example": "毎日欠かさずに、売りますようにしています。 (Tôi cố gắng bán nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "知ります",
+    "meaning": "biết",
+    "reading": "しります",
+    "sinoVietnamese": "TRI",
+    "example": "毎日欠かさずに、知りますようにしています。 (Tôi cố gắng tìm hiểu về nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "住みます",
+    "meaning": "sống ở",
+    "reading": "すみます",
+    "sinoVietnamese": "TRÚ",
+    "example": "毎日欠かさずに、住みますようにしています。 (Tôi cố gắng sống mà không bỏ lỡ nó mỗi ngày.)"
+  },
+  {
+    "word": "研究します",
+    "meaning": "nghiên cứu",
+    "reading": "けんきゅうします",
+    "sinoVietnamese": "NGHIÊN CỨU",
+    "example": "毎日仕事が終わったあと、日本語を研究します。 (Tôi học tiếng Nhật mỗi ngày sau giờ làm việc.)"
+  },
+  {
+    "word": "知って います",
+    "meaning": "biết",
+    "reading": "しって います",
+    "sinoVietnamese": "TRI",
+    "example": "毎日欠かさずに、知って いますようにしています。 (Tôi chắc chắn rằng tôi biết điều đó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "住んで います [大阪に～]",
+    "meaning": "đang sống [ở Osaka]",
+    "reading": "すんで います [おおさかに～]",
+    "sinoVietnamese": "TRÚ ĐẠI",
+    "example": "先生のアドバイスをよく聞いて、正しく住んで いますように練習しました。 (Tôi chăm chú lắng nghe lời khuyên của thầy và rèn luyện cách sống đúng đắn.)"
+  },
+  {
+    "word": "資料",
+    "meaning": "tài liệu, vật liệu",
+    "reading": "しりょう",
+    "sinoVietnamese": "LIỆU",
+    "example": "店員さんに相談して、自分にぴったりの資料を選びました。 (Tôi đã tham khảo ý kiến ​​của nhân viên cửa hàng và lựa chọn những chất liệu phù hợp nhất với mình.)"
+  },
+  {
+    "word": "カタログ",
+    "meaning": "danh mục",
+    "reading": "カタログ",
+    "sinoVietnamese": "",
+    "example": "丁寧にお手入れをしながら、お気に入りのカタログを長く愛用しています。 (Tôi sử dụng các danh mục yêu thích của mình trong một thời gian dài, chăm sóc chúng cẩn thận.)"
+  },
+  {
+    "word": "時刻表",
+    "meaning": "lịch trình tàu hỏa",
+    "reading": "じこくひょう",
+    "sinoVietnamese": "THỜI",
+    "example": "環境のために、休日はできるだけ時刻表で移動しています。 (Vì lợi ích môi trường, chúng tôi tuân theo thời gian biểu nhiều nhất có thể vào các ngày nghỉ.)"
+  },
+  {
+    "word": "服",
+    "meaning": "quần áo",
+    "reading": "ふく",
+    "sinoVietnamese": "",
+    "example": "新しい服を手に入れて、仕事の効率がぐんと上がりました。 (Tôi có quần áo mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "製品",
+    "meaning": "sản phẩm",
+    "reading": "せいひん",
+    "sinoVietnamese": "",
+    "example": "新しい製品を手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã có được một sản phẩm mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "ソフト",
+    "meaning": "phần mềm",
+    "reading": "ソフト",
+    "sinoVietnamese": "",
+    "example": "店員さんに相談して、自分にぴったりのソフトを選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn phần mềm hoàn hảo cho mình.)"
+  },
+  {
+    "word": "専門",
+    "meaning": "chuyên môn hóa",
+    "reading": "せんもん",
+    "sinoVietnamese": "MÔN",
+    "example": "友達と一緒に、珍しくて面白い専門を見に行きました。 (Tôi và bạn tôi đi xem một đặc sản lạ và thú vị.)"
+  },
+  {
+    "word": "歯医者",
+    "meaning": "nha sĩ",
+    "reading": "はいしゃ",
+    "sinoVietnamese": "Y GIẢ",
+    "example": "誕生日に歯医者へ感謝の気持ちを込めて手紙を書きました。 (Vào ngày sinh nhật của tôi, tôi đã viết một lá thư cho nha sĩ để bày tỏ lòng biết ơn của mình.)"
+  },
+  {
+    "word": "床屋",
+    "meaning": "tiệm làm tóc",
+    "reading": "とこや",
+    "sinoVietnamese": "ỐC",
+    "example": "床屋にはたくさんの観光客が訪れていて賑やかです。 (Có rất nhiều khách du lịch ghé thăm tiệm cắt tóc và nó rất sôi động.)"
+  },
+  {
+    "word": "プレイガイド",
+    "meaning": "văn phòng làm việc",
+    "reading": "プレイガイド",
+    "sinoVietnamese": "",
+    "example": "兄は将来、立派なプレイガイドになるために毎日熱心に勉強しています。 (Anh trai tôi đang học tập chăm chỉ mỗi ngày để trở thành một hướng dẫn viên chơi giỏi trong tương lai.)"
+  },
+  {
+    "word": "独身",
+    "meaning": "một mình",
+    "reading": "どくしん",
+    "sinoVietnamese": "",
+    "example": "新しい独身を手に入れて、仕事の効率がぐんと上がりました。 (Bây giờ tôi mới độc thân nên tôi đã làm việc hiệu quả hơn rất nhiều.)"
+  },
+  {
+    "word": "特に",
+    "meaning": "đặc biệt",
+    "reading": "とくに",
+    "sinoVietnamese": "ĐẶC",
+    "example": "日本の文化や生活に関わる特にについて興味深く学びました。 (Tôi thấy rất thú vị khi tìm hiểu về văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "思い出します",
+    "meaning": "nhớ, nhớ lại",
+    "reading": "思い出します",
+    "sinoVietnamese": "TƯ XUẤT",
+    "example": "毎日仕事が終わったあと、日本語を思い出します。 (Mỗi ngày sau giờ làm việc, tôi đều nhớ đến tiếng Nhật.)"
+  },
+  {
+    "word": "ご家族",
+    "meaning": "gia đình",
+    "reading": "ご家族",
+    "sinoVietnamese": "TỘC",
+    "example": "専門的な知識を持ったご家族に相談することをおすすめします。 (Chúng tôi khuyên bạn nên tham khảo ý kiến ​​của một thành viên trong gia đình có kiến ​​thức chuyên môn.)"
+  },
+  {
+    "word": "いらっしゃいます",
+    "meaning": "kính ngữ của います (ở, có)",
+    "reading": "いらっしゃいます",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、いらっしゃいますようにしています。 (Tôi hy vọng được gặp bạn mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "高校",
+    "meaning": "trường học",
+    "reading": "高校",
+    "sinoVietnamese": "CAO HIỆU",
+    "example": "家から歩いて10分ほどのところに大きな高校があります。 (Có một trường trung học lớn cách nhà tôi khoảng 10 phút đi bộ.)"
+  }
+]

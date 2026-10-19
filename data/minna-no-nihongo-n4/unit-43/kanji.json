@@ -1,0 +1,82 @@
+[
+  {
+    "id": "k43-1",
+    "character": "増",
+    "onyomi": "ゾウ",
+    "kunyomi": "ま.す, ま.し, ふ.える, ふ.やす",
+    "meaning": "TĂNG (chữ Hán TĂNG)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "増加",
+        "reading": "ぞうか",
+        "meaning": "tăng lên"
+      },
+      {
+        "compound": "増す",
+        "reading": "ます",
+        "meaning": "tăng lên"
+      }
+    ]
+  },
+  {
+    "id": "k43-2",
+    "character": "減",
+    "onyomi": "ゲン",
+    "kunyomi": "へ.る, へ.らす",
+    "meaning": "GIẢM (chữ Hán GIẢM)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "加減",
+        "reading": "かげん",
+        "meaning": "phép cộng và phép trừ"
+      },
+      {
+        "compound": "減らす",
+        "reading": "へらす",
+        "meaning": "giảm bớt"
+      }
+    ]
+  },
+  {
+    "id": "k43-7",
+    "character": "夫",
+    "onyomi": "フ, フウ, ブ",
+    "kunyomi": "おっと, それ",
+    "meaning": "PHU (chữ Hán PHU)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "夫婦",
+        "reading": "ふうふ",
+        "meaning": "cặp vợ chồng"
+      },
+      {
+        "compound": "夫人",
+        "reading": "ふじん",
+        "meaning": "vợ"
+      }
+    ]
+  },
+  {
+    "id": "k43-9",
+    "character": "幸",
+    "onyomi": "コウ",
+    "kunyomi": "さいわ.い, さち, しあわ.せ",
+    "meaning": "HẠNH (chữ Hán HẠNH)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "幸運",
+        "reading": "こううん",
+        "meaning": "chúc may mắn"
+      },
+      {
+        "compound": "幸福",
+        "reading": "こうふく",
+        "meaning": "hạnh phúc"
+      }
+    ]
+  }
+]

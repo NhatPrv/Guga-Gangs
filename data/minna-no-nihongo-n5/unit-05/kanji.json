@@ -1,0 +1,142 @@
+[
+  {
+    "id": "k-n5-5-1",
+    "character": "番",
+    "onyomi": "バン",
+    "kunyomi": "つが.い",
+    "meaning": "PHIÊN (lượt, số thứ tự)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "順番",
+        "reading": "じゅんばん",
+        "meaning": "lần lượt (theo hàng)"
+      },
+      {
+        "compound": "番",
+        "reading": "ばん",
+        "meaning": "số (trong một chuỗi)"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-5-2",
+    "character": "線",
+    "onyomi": "セン",
+    "kunyomi": "すじ",
+    "meaning": "TUYẾN (tuyến đường, đường dây)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "地平線",
+        "reading": "ちへいせん",
+        "meaning": "chân trời"
+      },
+      {
+        "compound": "線",
+        "reading": "せん",
+        "meaning": "đông đúc, tắc nghẽn"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-5-3",
+    "character": "行",
+    "onyomi": "コウ, ギョウ, アン",
+    "kunyomi": "い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう",
+    "meaning": "HÀNH (đi, tiến hành, thực hành)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "行き",
+        "reading": "いき",
+        "meaning": "đang đi"
+      },
+      {
+        "compound": "行儀",
+        "reading": "ぎょうぎ",
+        "meaning": "cách cư xử"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-5-4",
+    "character": "来",
+    "onyomi": "ライ, タイ",
+    "kunyomi": "く.る, きた.る, きた.す, き.たす, き.たる, き, こ",
+    "meaning": "LAI (đến, tương lai)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "以来",
+        "reading": "いらい",
+        "meaning": "kể từ khi"
+      },
+      {
+        "compound": "出来事",
+        "reading": "できごと",
+        "meaning": "sự cố"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-5-5",
+    "character": "帰",
+    "onyomi": "キ",
+    "kunyomi": "かえ.る, かえ.す, おく.る, とつ.ぐ",
+    "meaning": "QUY (trở về, quy cố hương)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "帰宅",
+        "reading": "きたく",
+        "meaning": "trở về nhà"
+      },
+      {
+        "compound": "帰り",
+        "reading": "かえり",
+        "meaning": "để lại chỗ cũ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-5-7",
+    "character": "校",
+    "onyomi": "コウ, キョウ",
+    "kunyomi": "-",
+    "meaning": "HIỆU (ngôi trường, hiệu trưởng)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "高校生",
+        "reading": "こうこうせい",
+        "meaning": "trường học"
+      },
+      {
+        "compound": "校長",
+        "reading": "こうちょう",
+        "meaning": "hiệu trưởng"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-5-8",
+    "character": "駅",
+    "onyomi": "エキ",
+    "kunyomi": "-",
+    "meaning": "DỊCH (nhà ga xe lửa)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "駅員",
+        "reading": "えきいん",
+        "meaning": "nhân viên nhà ga"
+      },
+      {
+        "compound": "駅前",
+        "reading": "えきまえ",
+        "meaning": "trước nhà ga"
+      }
+    ]
+  }
+]

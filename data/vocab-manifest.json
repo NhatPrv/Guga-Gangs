@@ -1,0 +1,634 @@
+{
+  "hub": "vocab",
+  "title": "Cây danh mục Từ vựng JLPT (N5 - N3)",
+  "generatedAt": "2026-10-19T17:08:13.078Z",
+  "stats": {
+    "totalCurricula": 6,
+    "totalUnits": 71,
+    "totalVocab": 4264
+  },
+  "curricula": [
+    {
+      "id": "minna-no-nihongo-n5",
+      "title": "Minna Từ vựng I (N5)",
+      "order": 0,
+      "description": "Giáo trình tiếng Nhật Minna no Nihongo Sơ cấp 1 (Trọn bộ Bài 1 đến Bài 25)",
+      "unitsCount": 25,
+      "units": [
+        {
+          "id": "unit-01",
+          "title": "Bài 1: Từ vựng N5",
+          "order": 1,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 1 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-01/vocabulary.json",
+          "vocabCount": 48
+        },
+        {
+          "id": "unit-02",
+          "title": "Bài 2: Từ vựng N5",
+          "order": 2,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 2 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-02/vocabulary.json",
+          "vocabCount": 47
+        },
+        {
+          "id": "unit-03",
+          "title": "Bài 3: Từ vựng N5",
+          "order": 3,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 3 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-03/vocabulary.json",
+          "vocabCount": 38
+        },
+        {
+          "id": "unit-04",
+          "title": "Bài 4: Từ vựng N5",
+          "order": 4,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 4 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-04/vocabulary.json",
+          "vocabCount": 59
+        },
+        {
+          "id": "unit-05",
+          "title": "Bài 5: Từ vựng N5",
+          "order": 5,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 5 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-05/vocabulary.json",
+          "vocabCount": 54
+        },
+        {
+          "id": "unit-06",
+          "title": "Bài 6: Từ vựng N5",
+          "order": 6,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 6 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-06/vocabulary.json",
+          "vocabCount": 57
+        },
+        {
+          "id": "unit-07",
+          "title": "Bài 7: Từ vựng N5",
+          "order": 7,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 7 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-07/vocabulary.json",
+          "vocabCount": 42
+        },
+        {
+          "id": "unit-08",
+          "title": "Bài 8: Từ vựng N5",
+          "order": 8,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 8 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-08/vocabulary.json",
+          "vocabCount": 63
+        },
+        {
+          "id": "unit-09",
+          "title": "Bài 9: Từ vựng N5",
+          "order": 9,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 9 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-09/vocabulary.json",
+          "vocabCount": 47
+        },
+        {
+          "id": "unit-10",
+          "title": "Bài 10: Từ vựng N5",
+          "order": 10,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 10 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-10/vocabulary.json",
+          "vocabCount": 47
+        },
+        {
+          "id": "unit-11",
+          "title": "Bài 11: Từ vựng N5",
+          "order": 11,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 11 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-11/vocabulary.json",
+          "vocabCount": 58
+        },
+        {
+          "id": "unit-12",
+          "title": "Bài 12: Từ vựng N5",
+          "order": 12,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 12 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-12/vocabulary.json",
+          "vocabCount": 46
+        },
+        {
+          "id": "unit-13",
+          "title": "Bài 13: Từ vựng N5",
+          "order": 13,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 13 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-13/vocabulary.json",
+          "vocabCount": 40
+        },
+        {
+          "id": "unit-14",
+          "title": "Bài 14: Từ vựng N5",
+          "order": 14,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 14 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-14/vocabulary.json",
+          "vocabCount": 39
+        },
+        {
+          "id": "unit-15",
+          "title": "Bài 15: Từ vựng N5",
+          "order": 15,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 15 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-15/vocabulary.json",
+          "vocabCount": 27
+        },
+        {
+          "id": "unit-16",
+          "title": "Bài 16: Từ vựng N5",
+          "order": 16,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 16 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-16/vocabulary.json",
+          "vocabCount": 46
+        },
+        {
+          "id": "unit-17",
+          "title": "Bài 17: Từ vựng N5",
+          "order": 17,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 17 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-17/vocabulary.json",
+          "vocabCount": 36
+        },
+        {
+          "id": "unit-18",
+          "title": "Bài 18: Từ vựng N5",
+          "order": 18,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 18 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-18/vocabulary.json",
+          "vocabCount": 27
+        },
+        {
+          "id": "unit-19",
+          "title": "Bài 19: Từ vựng N5",
+          "order": 19,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 19 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-19/vocabulary.json",
+          "vocabCount": 29
+        },
+        {
+          "id": "unit-20",
+          "title": "Bài 20: Từ vựng N5",
+          "order": 20,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 20 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-20/vocabulary.json",
+          "vocabCount": 22
+        },
+        {
+          "id": "unit-21",
+          "title": "Bài 21: Từ vựng N5",
+          "order": 21,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 21 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-21/vocabulary.json",
+          "vocabCount": 35
+        },
+        {
+          "id": "unit-22",
+          "title": "Bài 22: Từ vựng N5",
+          "order": 22,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 22 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-22/vocabulary.json",
+          "vocabCount": 21
+        },
+        {
+          "id": "unit-23",
+          "title": "Bài 23: Từ vựng N5",
+          "order": 23,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 23 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-23/vocabulary.json",
+          "vocabCount": 28
+        },
+        {
+          "id": "unit-24",
+          "title": "Bài 24: Từ vựng N5",
+          "order": 24,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 24 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-24/vocabulary.json",
+          "vocabCount": 18
+        },
+        {
+          "id": "unit-25",
+          "title": "Bài 25: Từ vựng N5",
+          "order": 25,
+          "description": "Từ vựng và Hán tự trọng tâm Bài 25 giáo trình Minna no Nihongo I",
+          "vocabPath": "data/minna-no-nihongo-n5/unit-25/vocabulary.json",
+          "vocabCount": 15
+        }
+      ]
+    },
+    {
+      "id": "jlpt-n5-core-bank",
+      "title": "JLPT N5 Official Core Bank",
+      "order": 0.5,
+      "description": "Ngân hàng 674 từ vựng và 103 Hán tự đề thi N5 chuẩn quốc tế",
+      "unitsCount": 5,
+      "units": [
+        {
+          "id": "theme-01-basics",
+          "title": "N5 Phần 1: Đại từ, Gia đình & Chào hỏi",
+          "order": 1,
+          "description": "Các từ xưng hô, thành viên gia đình và mẫu câu chào hỏi",
+          "vocabPath": "data/jlpt-n5-core-bank/theme-01-basics/vocabulary.json",
+          "vocabCount": 72
+        },
+        {
+          "id": "theme-02-verbs",
+          "title": "N5 Phần 2: Động từ sinh hoạt hằng ngày",
+          "order": 2,
+          "description": "Ăn uống, đi lại, ngủ nghỉ, mua sắm và làm việc",
+          "vocabPath": "data/jlpt-n5-core-bank/theme-02-verbs/vocabulary.json",
+          "vocabCount": 73
+        },
+        {
+          "id": "theme-03-adjectives",
+          "title": "N5 Phần 3: Tính từ miêu tả & Thời gian",
+          "order": 3,
+          "description": "Màu sắc, kích thước, thứ ngày tháng và trạng thái",
+          "vocabPath": "data/jlpt-n5-core-bank/theme-03-adjectives/vocabulary.json",
+          "vocabCount": 76
+        },
+        {
+          "id": "theme-04-nouns-places",
+          "title": "N5 Phần 4: Đồ vật, Địa điểm & Giao thông",
+          "order": 4,
+          "description": "Trường học, ga tàu, xe cộ, đồ dùng cá nhân và món ăn",
+          "vocabPath": "data/jlpt-n5-core-bank/theme-04-nouns-places/vocabulary.json",
+          "vocabCount": 63
+        },
+        {
+          "id": "theme-05-adverbs",
+          "title": "N5 Phần 5: Phó từ & Cụm từ thường gặp",
+          "order": 5,
+          "description": "Phó từ tần suất, mức độ và từ nối căn bản",
+          "vocabPath": "data/jlpt-n5-core-bank/theme-05-adverbs/vocabulary.json",
+          "vocabCount": 72
+        }
+      ]
+    },
+    {
+      "id": "minna-no-nihongo-n4",
+      "title": "Minna Từ vựng II (N4)",
+      "order": 1,
+      "description": "Giáo trình tiếng Nhật Minna no Nihongo Sơ cấp 2 (Trọn bộ Bài 26 đến Bài 50)",
+      "unitsCount": 25,
+      "units": [
+        {
+          "id": "unit-26",
+          "title": "Bài 26: Đổ rác ở đâu?",
+          "order": 26,
+          "description": "Các mẫu câu giải thích lý do, yêu cầu hướng dẫn với ~んです, ~んですが, ~たらいいですか",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-26/vocabulary.json",
+          "vocabCount": 41
+        },
+        {
+          "id": "unit-27",
+          "title": "Bài 27: Tôi có thể nói được tiếng Nhật",
+          "order": 27,
+          "description": "Thể khả năng (可能動詞), phân biệt 見える/見られる, 聞こえる/聞ける, しか + Phủ định",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-27/vocabulary.json",
+          "vocabCount": 39
+        },
+        {
+          "id": "unit-28",
+          "title": "Bài 28: Vừa nghe nhạc vừa học bài",
+          "order": 28,
+          "description": "Hành động đồng thời (~ながら), thói quen diễn ra thường xuyên (~ています), liệt kê lý do tương đồng (~し、~し)",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-28/vocabulary.json",
+          "vocabCount": 42
+        },
+        {
+          "id": "unit-29",
+          "title": "Bài 29: Cửa sổ đang mở (Trạng thái tự động từ)",
+          "order": 29,
+          "description": "Thể hiện trạng thái của sự vật với [Danh từ] が [Tự động từ] ています, ~てしまいました",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-29/vocabulary.json",
+          "vocabCount": 43
+        },
+        {
+          "id": "unit-30",
+          "title": "Bài 30: Tranh treo trên tường (Tha động từ てある)",
+          "order": 30,
+          "description": "Thể hiện trạng thái có chủ đích với [Danh từ] が [Tha động từ] てあります, ~ておきます",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-30/vocabulary.json",
+          "vocabCount": 42
+        },
+        {
+          "id": "unit-31",
+          "title": "Bài 31: Thể ý định (意向形)",
+          "order": 31,
+          "description": "Cách chia thể ý định, dự định làm gì với ~ようと思っています, ~予定です",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-31/vocabulary.json",
+          "vocabCount": 34
+        },
+        {
+          "id": "unit-32",
+          "title": "Bài 32: Lời khuyên (~たほうがいい) & Dự đoán (~でしょう, ~かもしれません)",
+          "order": 32,
+          "description": "Đưa ra lời khuyên nên/không nên làm gì, dự báo thời tiết và phỏng đoán",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-32/vocabulary.json",
+          "vocabCount": 46
+        },
+        {
+          "id": "unit-33",
+          "title": "Bài 33: Thể mệnh lệnh (命令形) & Thể cấm chỉ (禁止形)",
+          "order": 33,
+          "description": "Các biển báo công cộng, giải thích ý nghĩa biển báo với ~という意味です",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-33/vocabulary.json",
+          "vocabCount": 47
+        },
+        {
+          "id": "unit-34",
+          "title": "Bài 34: Làm theo hướng dẫn (~とおりに) & Thứ tự (~あとで)",
+          "order": 34,
+          "description": "Mẫu câu thực hiện theo đúng hướng dẫn, làm việc gì sau khi làm xong việc khác",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-34/vocabulary.json",
+          "vocabCount": 37
+        },
+        {
+          "id": "unit-35",
+          "title": "Bài 35: Thể điều kiện (~ば)",
+          "order": 35,
+          "description": "Cách dùng thể điều kiện ~ば để nêu giả thiết, điều kiện cần thiết",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-35/vocabulary.json",
+          "vocabCount": 37
+        },
+        {
+          "id": "unit-36",
+          "title": "Bài 36: Ngữ pháp & Từ vựng nâng cao",
+          "order": 36,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 36",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-36/vocabulary.json",
+          "vocabCount": 35
+        },
+        {
+          "id": "unit-37",
+          "title": "Bài 37: Ngữ pháp & Từ vựng nâng cao",
+          "order": 37,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 37",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-37/vocabulary.json",
+          "vocabCount": 43
+        },
+        {
+          "id": "unit-38",
+          "title": "Bài 38: Ngữ pháp & Từ vựng nâng cao",
+          "order": 38,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 38",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-38/vocabulary.json",
+          "vocabCount": 34
+        },
+        {
+          "id": "unit-39",
+          "title": "Bài 39: Ngữ pháp & Từ vựng nâng cao",
+          "order": 39,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 39",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-39/vocabulary.json",
+          "vocabCount": 33
+        },
+        {
+          "id": "unit-40",
+          "title": "Bài 40: Ngữ pháp & Từ vựng nâng cao",
+          "order": 40,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 40",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-40/vocabulary.json",
+          "vocabCount": 49
+        },
+        {
+          "id": "unit-41",
+          "title": "Bài 41: Ngữ pháp & Từ vựng nâng cao",
+          "order": 41,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 41",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-41/vocabulary.json",
+          "vocabCount": 45
+        },
+        {
+          "id": "unit-42",
+          "title": "Bài 42: Ngữ pháp & Từ vựng nâng cao",
+          "order": 42,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 42",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-42/vocabulary.json",
+          "vocabCount": 43
+        },
+        {
+          "id": "unit-43",
+          "title": "Bài 43: Ngữ pháp & Từ vựng nâng cao",
+          "order": 43,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 43",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-43/vocabulary.json",
+          "vocabCount": 26
+        },
+        {
+          "id": "unit-44",
+          "title": "Bài 44: Ngữ pháp & Từ vựng nâng cao",
+          "order": 44,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 44",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-44/vocabulary.json",
+          "vocabCount": 36
+        },
+        {
+          "id": "unit-45",
+          "title": "Bài 45: Ngữ pháp & Từ vựng nâng cao",
+          "order": 45,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 45",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-45/vocabulary.json",
+          "vocabCount": 29
+        },
+        {
+          "id": "unit-46",
+          "title": "Bài 46: Ngữ pháp & Từ vựng nâng cao",
+          "order": 46,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 46",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-46/vocabulary.json",
+          "vocabCount": 28
+        },
+        {
+          "id": "unit-47",
+          "title": "Bài 47: Ngữ pháp & Từ vựng nâng cao",
+          "order": 47,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 47",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-47/vocabulary.json",
+          "vocabCount": 35
+        },
+        {
+          "id": "unit-48",
+          "title": "Bài 48: Ngữ pháp & Từ vựng nâng cao",
+          "order": 48,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 48",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-48/vocabulary.json",
+          "vocabCount": 26
+        },
+        {
+          "id": "unit-49",
+          "title": "Bài 49: Ngữ pháp & Từ vựng nâng cao",
+          "order": 49,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 49",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-49/vocabulary.json",
+          "vocabCount": 35
+        },
+        {
+          "id": "unit-50",
+          "title": "Bài 50: Ngữ pháp & Từ vựng nâng cao",
+          "order": 50,
+          "description": "Bài học ôn tập và mở rộng kiến thức JLPT N4 trọng tâm cho Bài 50",
+          "vocabPath": "data/minna-no-nihongo-n4/unit-50/vocabulary.json",
+          "vocabCount": 36
+        }
+      ]
+    },
+    {
+      "id": "special-topics-conjunctions-adverbs",
+      "title": "Chuyên đề: Liên từ & Phó từ (N5 - N3)",
+      "order": 1,
+      "description": "Kho tổng hợp toàn diện các Liên từ (接続詞), Phó từ (副詞) và từ nối then chốt trong đề thi JLPT N5, N4, N3",
+      "unitsCount": 4,
+      "units": [
+        {
+          "id": "unit-01-conjunctions-basic",
+          "title": "Bài 1: Liên từ cơ bản N5 - N4 (Tiếp nối, Nguyên nhân & Đối lập)",
+          "order": 1,
+          "description": "Tổng hợp các liên từ nền tảng thiết yếu để nối câu, diễn đạt nguyên nhân kết quả và tương phản",
+          "vocabPath": "data/special-topics-conjunctions-adverbs/unit-01-conjunctions-basic/vocabulary.json",
+          "vocabCount": 26
+        },
+        {
+          "id": "unit-02-conjunctions-advanced",
+          "title": "Bài 2: Liên từ nâng cao & Đọc hiểu N3 (Giải thích, Đối lập & Tóm tắt)",
+          "order": 2,
+          "description": "Các liên từ quyết định trong phần Đọc hiểu (Dokkai) và bài thi Ngữ pháp N3",
+          "vocabPath": "data/special-topics-conjunctions-adverbs/unit-02-conjunctions-advanced/vocabulary.json",
+          "vocabCount": 26
+        },
+        {
+          "id": "unit-03-adverbs-degree-frequency",
+          "title": "Bài 3: Phó từ chỉ Mức độ & Tần suất N5 - N3",
+          "order": 3,
+          "description": "Các phó từ diễn tả mức độ đậm nhạt và tần suất hành động thường gặp nhất",
+          "vocabPath": "data/special-topics-conjunctions-adverbs/unit-03-adverbs-degree-frequency/vocabulary.json",
+          "vocabCount": 30
+        },
+        {
+          "id": "unit-04-adverbs-attitude-onomatopoeia",
+          "title": "Bài 4: Phó từ Phán đoán, Tâm trạng & Trạng thái N5 - N3",
+          "order": 4,
+          "description": "Các phó từ chỉ tâm thế người nói, sự phán đoán và từ láy trạng thái sinh động",
+          "vocabPath": "data/special-topics-conjunctions-adverbs/unit-04-adverbs-attitude-onomatopoeia/vocabulary.json",
+          "vocabCount": 32
+        }
+      ]
+    },
+    {
+      "id": "jlpt-n3-core-bank",
+      "title": "JLPT N3 Official Core Bank (Trung cấp)",
+      "order": 4,
+      "description": "Ngân hàng từ vựng và Hán tự Trung cấp JLPT N3 toàn diện chuẩn đề thi quốc tế (đã khử trùng lặp sạch sẽ)",
+      "unitsCount": 6,
+      "units": [
+        {
+          "id": "theme-01-human-daily",
+          "title": "Phần 1: Đời sống, Con người & Sinh hoạt",
+          "order": 1,
+          "description": "Các từ vựng về con người, mối quan hệ, tình cảm và hoạt động thường nhật",
+          "vocabPath": "data/jlpt-n3-core-bank/theme-01-human-daily/vocabulary.json",
+          "vocabCount": 247
+        },
+        {
+          "id": "theme-02-society-culture",
+          "title": "Phần 2: Xã hội, Giao tiếp & Văn hóa",
+          "order": 2,
+          "description": "Từ vựng về giao tiếp xã hội, sự kiện, văn hóa và phong tục",
+          "vocabPath": "data/jlpt-n3-core-bank/theme-02-society-culture/vocabulary.json",
+          "vocabCount": 247
+        },
+        {
+          "id": "theme-03-work-business",
+          "title": "Phần 3: Công việc, Kinh tế & Doanh nghiệp",
+          "order": 3,
+          "description": "Thuật ngữ công sở, kinh tế, thương mại và môi trường làm việc",
+          "vocabPath": "data/jlpt-n3-core-bank/theme-03-work-business/vocabulary.json",
+          "vocabCount": 247
+        },
+        {
+          "id": "theme-04-nature-science",
+          "title": "Phần 4: Tự nhiên, Môi trường & Khoa học",
+          "order": 4,
+          "description": "Thiên nhiên, thời tiết, môi trường, công nghệ và tư duy khoa học",
+          "vocabPath": "data/jlpt-n3-core-bank/theme-04-nature-science/vocabulary.json",
+          "vocabCount": 247
+        },
+        {
+          "id": "theme-05-verbs-adjectives",
+          "title": "Phần 5: Động từ & Tính từ Trung cấp trọng tâm",
+          "order": 5,
+          "description": "Tổng hợp các động từ ghép và tính từ trừu tượng hay xuất hiện trong đề thi N3",
+          "vocabPath": "data/jlpt-n3-core-bank/theme-05-verbs-adjectives/vocabulary.json",
+          "vocabCount": 247
+        },
+        {
+          "id": "theme-06-adverbs-expressions",
+          "title": "Phần 6: Phó từ, Liên từ & Quán ngữ N3",
+          "order": 6,
+          "description": "Phó từ chỉ mức độ, quán ngữ và từ nối câu trình độ Trung cấp",
+          "vocabPath": "data/jlpt-n3-core-bank/theme-06-adverbs-expressions/vocabulary.json",
+          "vocabCount": 245
+        }
+      ]
+    },
+    {
+      "id": "jlpt-n4-core-bank",
+      "title": "JLPT N4 Official Core Bank",
+      "order": 4,
+      "description": "Ngân hàng 630 từ vựng và 169 Hán tự đề thi chuẩn quốc tế (OpenJLPT & Tatoeba Project)",
+      "unitsCount": 6,
+      "units": [
+        {
+          "id": "part-01-daily-actions",
+          "title": "Phần 1: Hành động & Đời sống thường nhật",
+          "order": 1,
+          "description": "Các động từ và danh từ chỉ hoạt động sinh hoạt cá nhân",
+          "vocabPath": "data/jlpt-n4-core-bank/part-01-daily-actions/vocabulary.json",
+          "vocabCount": 69
+        },
+        {
+          "id": "part-02-nature-emotions",
+          "title": "Phần 2: Thiên nhiên, Môi trường & Cảm xúc",
+          "order": 2,
+          "description": "Thời tiết, thiên nhiên, trạng thái thể chất và tinh thần",
+          "vocabPath": "data/jlpt-n4-core-bank/part-02-nature-emotions/vocabulary.json",
+          "vocabCount": 56
+        },
+        {
+          "id": "part-03-work-study",
+          "title": "Phần 3: Trường học, Công sở & Giao tiếp",
+          "order": 3,
+          "description": "Từ vựng dùng nhiều trong trường học, công ty và các cuộc họp",
+          "vocabPath": "data/jlpt-n4-core-bank/part-03-work-study/vocabulary.json",
+          "vocabCount": 58
+        },
+        {
+          "id": "part-04-society-places",
+          "title": "Phần 4: Xã hội, Địa điểm & Giao thông",
+          "order": 4,
+          "description": "Đường sá, phương tiện, địa điểm công cộng và sinh hoạt xã hội",
+          "vocabPath": "data/jlpt-n4-core-bank/part-04-society-places/vocabulary.json",
+          "vocabCount": 67
+        },
+        {
+          "id": "part-05-adjectives-adverbs",
+          "title": "Phần 5: Tính từ & Trạng từ chỉ mức độ",
+          "order": 5,
+          "description": "Các tính từ đuôi i, tính từ đuôi na và phó từ N4 then chốt",
+          "vocabPath": "data/jlpt-n4-core-bank/part-05-adjectives-adverbs/vocabulary.json",
+          "vocabCount": 68
+        },
+        {
+          "id": "part-06-expressions-advanced",
+          "title": "Phần 6: Quán ngữ, Liên từ & Từ nối N4",
+          "order": 6,
+          "description": "Các cấu trúc từ nối, liên từ logic và từ ngữ nâng cao",
+          "vocabPath": "data/jlpt-n4-core-bank/part-06-expressions-advanced/vocabulary.json",
+          "vocabCount": 66
+        }
+      ]
+    }
+  ]
+}

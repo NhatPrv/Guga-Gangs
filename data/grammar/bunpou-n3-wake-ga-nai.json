@@ -1,0 +1,91 @@
+{
+  "id": "bunpou-n3-wake-ga-nai",
+  "level": "N3",
+  "unitId": "grammar-n3-unit-01",
+  "title": "〜わけがない / 〜わけはない",
+  "meaning": "Chắc chắn không... / Không đời nào...",
+  "connection": "Thể thường (V/A-i/A-naな/Nの) + わけがない",
+  "usageNotes": "Diễn tả sự phủ định mạnh mẽ dựa trên logic hoặc bằng chứng xác thực.",
+  "questions": [
+    {
+      "id": "n3-u1-g1-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "こんなに難しい問題、小学生に解けるわけがない。",
+      "sentenceVi": "Câu hỏi khó thế này thì học sinh tiểu học không đời nào giải được.",
+      "targetGrammar": "〜わけがない",
+      "prompt": "Ý nghĩa của mẫu câu trên là gì?",
+      "options": [
+        "Tuyệt đối chắc chắn không có khả năng xảy ra",
+        "Có thể giải được nếu cố gắng",
+        "Nên giải câu hỏi này",
+        "Hỏi xin phép giải câu hỏi"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜わけがない」 là phủ định tuyệt đối: \"Không đời nào / Chắc chắn không thể...\"."
+    },
+    {
+      "id": "n3-u1-g1-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "彼は真面目ですから、嘘を【　？　】。",
+      "sentenceVi": "Anh ấy rất đứng đắn nên không đời nào lại nói dối.",
+      "targetGrammar": "つくわけがない",
+      "prompt": "Chọn dạng kết hợp đúng với 嘘をつく:",
+      "options": [
+        "つくわけがない",
+        "ついてもいい",
+        "つかなければならない",
+        "ついたほうがいい"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khẳng định người nghiêm túc không đời nào nói dối ➔ つくわけがない."
+    },
+    {
+      "id": "n3-u1-g1-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "あんなに練習したんだから、負けるわけがない！",
+      "sentenceVi": "Đã luyện tập nhiều đến thế kia thì làm sao mà thua được!",
+      "targetGrammar": "〜わけがない",
+      "prompt": "Thái độ của người nói trong câu trên là gì?",
+      "options": [
+        "Tin tưởng tuyệt đối vào chiến thắng, không đời nào thua",
+        "Lo lắng sẽ bị thua trận",
+        "Khuyên nhủ đối thủ đầu hàng",
+        "Thất vọng vì thất bại"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dựa trên việc đã khổ luyện để khẳng định tuyệt đối không thể thua."
+    },
+    {
+      "id": "n3-u1-g1-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "高級ブランドのバッグが100円の【　？　】。",
+      "sentenceVi": "Túi hiệu cao cấp mà giá 100 yên thì làm sao có chuyện đó được!",
+      "targetGrammar": "わけがないでしょう",
+      "prompt": "Chọn mẫu phản bác điều hoàn toàn vô lý:",
+      "options": [
+        "わけがないでしょう",
+        "はずでしょう",
+        "かもしれないでしょう",
+        "でしょう"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phản bác điều phi lý: Danh từ + の + わけがない."
+    },
+    {
+      "id": "n3-u1-g1-q5",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "昨日あんなに食べたのに、お腹が【　？　】。",
+      "sentenceVi": "Hôm qua ăn nhiều đến thế kia thì làm sao mà đói bụng được.",
+      "targetGrammar": "すくわけがない",
+      "prompt": "Chọn dạng đúng của お腹がすく (đói):",
+      "options": [
+        "すくわけがない",
+        "すいてもいい",
+        "すかなければならない",
+        "すいたほうがいい"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thể thường V-ru + わけがない ➔ すくわけがない."
+    }
+  ]
+}

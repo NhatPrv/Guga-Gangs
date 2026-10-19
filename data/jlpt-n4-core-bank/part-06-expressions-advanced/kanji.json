@@ -1,0 +1,297 @@
+[
+  {
+    "id": "k-core-6-1",
+    "character": "夕",
+    "onyomi": "セキ",
+    "kunyomi": "ゆう",
+    "meaning": "TỊCH (buổi tối)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "夕べ",
+        "reading": "ゆうべ",
+        "meaning": "buổi tối"
+      },
+      {
+        "compound": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "chiều tối, hoàng hôn"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-3",
+    "character": "曜",
+    "onyomi": "ヨウ",
+    "kunyomi": "-",
+    "meaning": "DIỆU (ngày trong tuần)",
+    "strokes": 18,
+    "examples": [
+      {
+        "compound": "火曜",
+        "reading": "かよう",
+        "meaning": "(viết tắt) thứ ba"
+      },
+      {
+        "compound": "金曜",
+        "reading": "きんよう",
+        "meaning": "(viết tắt) thứ sáu"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-9",
+    "character": "飯",
+    "onyomi": "ハン",
+    "kunyomi": "めし",
+    "meaning": "PHẠN (cơm, bữa ăn)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "飯",
+        "reading": "めし",
+        "meaning": "(từ lóng) bữa ăn"
+      },
+      {
+        "compound": "御飯",
+        "reading": "ごはん",
+        "meaning": "cơm chín"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-11",
+    "character": "冬",
+    "onyomi": "トウ",
+    "kunyomi": "ふゆ",
+    "meaning": "ĐÔNG (mùa đông)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "冬",
+        "reading": "ふゆ",
+        "meaning": "mùa đông"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-12",
+    "character": "昼",
+    "onyomi": "チュウ",
+    "kunyomi": "ひる",
+    "meaning": "TRÚ (thời gian, giờ)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "お昼",
+        "reading": "おひる",
+        "meaning": "bữa trưa"
+      },
+      {
+        "compound": "昼食",
+        "reading": "ちゅうしょく",
+        "meaning": "bữa trưa"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-13",
+    "character": "茶",
+    "onyomi": "チャ, サ",
+    "kunyomi": "-",
+    "meaning": "TRÀ (trà, nước chè)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "茶",
+        "reading": "ちゃ",
+        "meaning": "trà"
+      },
+      {
+        "compound": "茶色",
+        "reading": "ちゃいろ",
+        "meaning": "nâu"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-14",
+    "character": "弟",
+    "onyomi": "テイ, ダイ, デ",
+    "kunyomi": "おとうと",
+    "meaning": "ĐỆ (em trai)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "従兄弟",
+        "reading": "いとこ",
+        "meaning": "anh họ (nam)"
+      },
+      {
+        "compound": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "anh chị em"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-15",
+    "character": "牛",
+    "onyomi": "ギュウ",
+    "kunyomi": "うし",
+    "meaning": "NGƯU (con bò)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "牛",
+        "reading": "うし",
+        "meaning": "gia súc"
+      },
+      {
+        "compound": "牛肉",
+        "reading": "ぎゅうにく",
+        "meaning": "thịt bò"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-16",
+    "character": "魚",
+    "onyomi": "ギョ",
+    "kunyomi": "うお, さかな, -ざかな",
+    "meaning": "NGƯ (con cá)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "魚",
+        "reading": "さかな",
+        "meaning": "con cá"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-17",
+    "character": "兄",
+    "onyomi": "ケイ, キョウ",
+    "kunyomi": "あに",
+    "meaning": "HUYNH (anh trai)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "従兄弟",
+        "reading": "いとこ",
+        "meaning": "anh họ (nam)"
+      },
+      {
+        "compound": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "anh chị em"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-19",
+    "character": "妹",
+    "onyomi": "マイ",
+    "kunyomi": "いもうと",
+    "meaning": "MUỘI (em gái)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "姉妹",
+        "reading": "しまい",
+        "meaning": "chị em"
+      },
+      {
+        "compound": "妹",
+        "reading": "いもうと",
+        "meaning": "em gái"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-20",
+    "character": "姉",
+    "onyomi": "シ",
+    "kunyomi": "あね, はは",
+    "meaning": "TỶ (chị gái)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "姉妹",
+        "reading": "しまい",
+        "meaning": "chị em"
+      },
+      {
+        "compound": "姉",
+        "reading": "あね",
+        "meaning": "chị gái"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-21",
+    "character": "漢",
+    "onyomi": "カン",
+    "kunyomi": "-",
+    "meaning": "HÁN (Trung-)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "漢字",
+        "reading": "かんじ",
+        "meaning": "chữ Hán, Hán tự"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-22",
+    "character": "坊",
+    "onyomi": "ボウ, ボッ",
+    "kunyomi": "-",
+    "meaning": "PHƯỜNG (con trai)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "赤ん坊",
+        "reading": "あかんぼう",
+        "meaning": "em bé"
+      },
+      {
+        "compound": "寝坊",
+        "reading": "ねぼう",
+        "meaning": "ngủ muộn"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-23",
+    "character": "凄",
+    "onyomi": "セイ, サイ",
+    "kunyomi": "さむ.い, すご.い, すさ.まじい",
+    "meaning": "THÊ (kỳ lạ)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "凄い",
+        "reading": "すごい",
+        "meaning": "tuyệt vời"
+      }
+    ]
+  },
+  {
+    "id": "k-core-6-24",
+    "character": "痩",
+    "onyomi": "ソウ, チュウ, シュウ, シュ",
+    "kunyomi": "や.せる",
+    "meaning": "SẤU (gầy đi)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "痩せる",
+        "reading": "やせる",
+        "meaning": "trở nên gầy"
+      }
+    ]
+  }
+]

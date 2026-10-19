@@ -1,0 +1,91 @@
+{
+  "id": "bunpou-n5-te-mo-ii-desu",
+  "level": "N5",
+  "unitId": "grammar-n5-unit-01",
+  "title": "〜てもいいですか / 〜てもいいです",
+  "meaning": "Làm ... có được không? / Được phép làm...",
+  "connection": "V-て + もいいです (か)",
+  "usageNotes": "Dùng để xin phép (か) hoặc cho phép ai đó thực hiện hành vi. Thể thường là 〜てもいい.",
+  "questions": [
+    {
+      "id": "n5-u1-g1-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "ここで写真を撮ってもいいですか。",
+      "sentenceVi": "Tôi chụp ảnh ở đây có được không?",
+      "targetGrammar": "〜てもいいですか",
+      "prompt": "Chọn ý nghĩa chính xác của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Hỏi xin phép làm gì đó",
+        "Cấm đoán không được làm",
+        "Lời khuyên nên làm gì",
+        "Kể về kinh nghiệm quá khứ"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜てもいいですか」 là mẫu câu xin phép lịch sự: \"Tôi làm... có được không?\"."
+    },
+    {
+      "id": "n5-u1-g1-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "暑いですから、エアコンを【　？　】。",
+      "sentenceVi": "Vì trời nóng nên bạn có thể bật máy điều hòa lên.",
+      "targetGrammar": "つけてもいいです",
+      "prompt": "Chọn dạng chia đúng để biểu thị sự cho phép (bật máy lạnh):",
+      "options": [
+        "つけてもいいです",
+        "つけてはいけません",
+        "つけなければなりません",
+        "つけたいです"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cho phép đối phương làm gì dùng V-て + もいいです. Động từ つける ➔ つけてもいいです."
+    },
+    {
+      "id": "n5-u1-g1-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "この辞書を使ってもいいですか。ーーええ、どうぞ。",
+      "sentenceVi": "Tôi dùng cuốn từ điển này có được không? -- Vâng, xin mời.",
+      "targetGrammar": "〜てもいいですか",
+      "prompt": "Mục đích của câu hỏi trên là gì?",
+      "options": [
+        "Hỏi mượn và xin phép sử dụng đồ vật",
+        "Bắt buộc người khác phải dùng từ điển",
+        "Từ chối cho mượn từ điển",
+        "Khoe khoang cuốn từ điển mới mua"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu này dùng để hỏi xin phép sử dụng từ điển của người khác."
+    },
+    {
+      "id": "n5-u1-g1-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "もう遅いですから、家に【　？　】よ。",
+      "sentenceVi": "Đã muộn rồi nên em có thể về nhà rồi đấy.",
+      "targetGrammar": "帰ってもいいです",
+      "prompt": "Chọn dạng cho phép về nhà phù hợp:",
+      "options": [
+        "帰ってもいいです",
+        "帰ってはいけません",
+        "帰るつもりです",
+        "帰らないでください"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cho phép người khác ra về dùng 帰る ➔ 帰って + もいいです."
+    },
+    {
+      "id": "n5-u1-g1-q5",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "すみません、ここに座っても【　？　】。",
+      "sentenceVi": "Xin lỗi, tôi ngồi ở đây có được không ạ?",
+      "targetGrammar": "いいですか",
+      "prompt": "Điền phần còn thiếu của mẫu câu xin phép:",
+      "options": [
+        "いいですか",
+        "いけませんか",
+        "だめですか",
+        "ほしいですか"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cụm từ hoàn chỉnh xin phép lịch sự là: 座ってもいいですか."
+    }
+  ]
+}

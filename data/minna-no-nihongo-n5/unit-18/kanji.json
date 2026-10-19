@@ -1,0 +1,162 @@
+[
+  {
+    "id": "k-n5-18-1",
+    "character": "洗",
+    "onyomi": "セン",
+    "kunyomi": "あら.う",
+    "meaning": "TẨY (giặt giũ, rửa ráy)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "洗う",
+        "reading": "あらう",
+        "meaning": "rửa"
+      },
+      {
+        "compound": "お手洗い",
+        "reading": "おてあらい",
+        "meaning": "căn phòng"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-18-2",
+    "character": "弾",
+    "onyomi": "ダン, タン",
+    "kunyomi": "ひ.く, -ひ.き, はず.む, たま, はじ.く, はじ.ける, ただ.す, はじ.きゆみ",
+    "meaning": "ĐÀN (chữ Hán ĐÀN)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "弾",
+        "reading": "たま",
+        "meaning": "viên đạn"
+      },
+      {
+        "compound": "弾く",
+        "reading": "ひく",
+        "meaning": "chơi một nhạc cụ có dây"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-18-3",
+    "character": "歌",
+    "onyomi": "カ",
+    "kunyomi": "うた, うた.う",
+    "meaning": "CA (bài hát, ca sĩ)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "歌う",
+        "reading": "うたう",
+        "meaning": "hát"
+      },
+      {
+        "compound": "歌手",
+        "reading": "かしゅ",
+        "meaning": "ca sĩ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-18-4",
+    "character": "集",
+    "onyomi": "シュウ",
+    "kunyomi": "あつ.まる, あつ.める, つど.う",
+    "meaning": "TẬP (tập hợp, thu gom)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "集まり",
+        "reading": "あつまり",
+        "meaning": "tụ tập"
+      },
+      {
+        "compound": "集団",
+        "reading": "しゅうだん",
+        "meaning": "nhóm"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-18-5",
+    "character": "捨",
+    "onyomi": "シャ",
+    "kunyomi": "す.てる",
+    "meaning": "XẢ (chữ Hán XẢ)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "捨てる",
+        "reading": "すてる",
+        "meaning": "vứt đi"
+      },
+      {
+        "compound": "捨てます",
+        "reading": "すてます",
+        "meaning": "vứt đi"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-18-6",
+    "character": "運",
+    "onyomi": "ウン",
+    "kunyomi": "はこ.ぶ",
+    "meaning": "VẬN (vận chuyển, vận may)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "運",
+        "reading": "うん",
+        "meaning": "vận may"
+      },
+      {
+        "compound": "幸運",
+        "reading": "こううん",
+        "meaning": "chúc may mắn"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-18-7",
+    "character": "転",
+    "onyomi": "テン",
+    "kunyomi": "ころ.がる, ころ.げる, ころ.がす, ころ.ぶ, まろ.ぶ, うたた, うつ.る, くる.めく",
+    "meaning": "CHUYỂN (chữ Hán CHUYỂN)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "転ぶ",
+        "reading": "ころぶ",
+        "meaning": "rơi xuống"
+      },
+      {
+        "compound": "運転",
+        "reading": "うんてん",
+        "meaning": "lái xe"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-18-8",
+    "character": "予",
+    "onyomi": "ヨ, シャ",
+    "kunyomi": "あらかじ.め",
+    "meaning": "DỰ (dự báo, trước)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "予期",
+        "reading": "よき",
+        "meaning": "sự mong đợi"
+      },
+      {
+        "compound": "予算",
+        "reading": "よさん",
+        "meaning": "ước tính"
+      }
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "k36-1",
+    "character": "届",
+    "onyomi": "カイ",
+    "kunyomi": "とど.ける, -とど.け, とど.く",
+    "meaning": "GIỚI (gửi đến, chuyển đến, trình báo)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "届ける",
+        "reading": "とどける",
+        "meaning": "gửi đến, chuyển phát"
+      },
+      {
+        "compound": "届く",
+        "reading": "とどく",
+        "meaning": "được gửi đến, chạm tới"
+      }
+    ]
+  },
+  {
+    "id": "k36-3",
+    "character": "打",
+    "onyomi": "ダ, ダース",
+    "kunyomi": "う.つ, う.ち-, ぶ.つ",
+    "meaning": "ĐẢ (chữ Hán ĐẢ)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "打つ",
+        "reading": "うつ",
+        "meaning": "đánh, gõ, đập"
+      },
+      {
+        "compound": "打ちます（電報を）",
+        "reading": "うちます（でんぽうを）",
+        "meaning": "gửi"
+      }
+    ]
+  },
+  {
+    "id": "k36-4",
+    "character": "彫",
+    "onyomi": "チョウ",
+    "kunyomi": "ほ.る, -ぼ.り",
+    "meaning": "ĐIÊU (chữ Hán ĐIÊU)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "彫金ます",
+        "reading": "ちょきんします",
+        "meaning": "tiết kiệm tiền, tiết kiệm tiền"
+      },
+      {
+        "compound": "彫刻",
+        "reading": "ちょうこく",
+        "meaning": "điêu khắc"
+      }
+    ]
+  },
+  {
+    "id": "k36-6",
+    "character": "太",
+    "onyomi": "タイ, タ",
+    "kunyomi": "ふと.い, ふと.る",
+    "meaning": "THÁI (chữ Hán THÁI)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "太る",
+        "reading": "ふとる",
+        "meaning": "trở nên béo"
+      },
+      {
+        "compound": "太い",
+        "reading": "ふとい",
+        "meaning": "béo"
+      }
+    ]
+  },
+  {
+    "id": "k36-7",
+    "character": "過",
+    "onyomi": "カ",
+    "kunyomi": "す.ぎる, す.ごす, あやま.ち, あやま.つ, よぎ.る, よ.ぎる",
+    "meaning": "QUÁ (chữ Hán QUÁ)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "過去",
+        "reading": "かこ",
+        "meaning": "quá khứ"
+      },
+      {
+        "compound": "過ごす",
+        "reading": "すごす",
+        "meaning": "vượt qua"
+      }
+    ]
+  },
+  {
+    "id": "k36-8",
+    "character": "固",
+    "onyomi": "コ",
+    "kunyomi": "かた.める, かた.まる, かた.まり, かた.い",
+    "meaning": "CỐ (chữ Hán CỐ)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "固い",
+        "reading": "かたい",
+        "meaning": "cứng"
+      }
+    ]
+  },
+  {
+    "id": "k36-9",
+    "character": "軟",
+    "onyomi": "ナン",
+    "kunyomi": "やわ.らか, やわ.らかい",
+    "meaning": "NHUYỄN (chữ Hán NHUYỄN)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "軟らかい",
+        "reading": "やわらかい",
+        "meaning": "mềm mại"
+      }
+    ]
+  }
+]

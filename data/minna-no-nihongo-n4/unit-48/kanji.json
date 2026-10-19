@@ -1,0 +1,87 @@
+[
+  {
+    "id": "k48-4",
+    "character": "世",
+    "onyomi": "セイ, セ, ソウ",
+    "kunyomi": "よ",
+    "meaning": "THẾ (thế giới, thời thế)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "世紀",
+        "reading": "せいき",
+        "meaning": "thế kỷ"
+      },
+      {
+        "compound": "世間",
+        "reading": "せけん",
+        "meaning": "thế giới"
+      }
+    ]
+  },
+  {
+    "id": "k48-6",
+    "character": "厳",
+    "onyomi": "ゲン, ゴン",
+    "kunyomi": "おごそ.か, きび.しい, いか.めしい, いつくし",
+    "meaning": "NGHIÊM (chữ Hán NGHIÊM)",
+    "strokes": 17,
+    "examples": [
+      {
+        "compound": "厳しい",
+        "reading": "きびしい",
+        "meaning": "nghiêm khắc"
+      }
+    ]
+  },
+  {
+    "id": "k48-7",
+    "character": "塾",
+    "onyomi": "ジュク",
+    "kunyomi": "-",
+    "meaning": "THỤC (chữ Hán THỤC)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "塾",
+        "reading": "じゅく",
+        "meaning": "cơ sở học thêm"
+      }
+    ]
+  },
+  {
+    "id": "k48-9",
+    "character": "徒",
+    "onyomi": "ト",
+    "kunyomi": "いたずら, あだ",
+    "meaning": "ĐỒ (chữ Hán ĐỒ)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "生徒",
+        "reading": "せいと",
+        "meaning": "học sinh"
+      }
+    ]
+  },
+  {
+    "id": "k48-10",
+    "character": "者",
+    "onyomi": "シャ",
+    "kunyomi": "もの",
+    "meaning": "GIẢ (người, học giả, tác giả)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "学者",
+        "reading": "がくしゃ",
+        "meaning": "học giả"
+      },
+      {
+        "compound": "患者",
+        "reading": "かんじゃ",
+        "meaning": "một bệnh nhân"
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "k-n5-13-1",
+    "character": "遊",
+    "onyomi": "ユウ, ユ",
+    "kunyomi": "あそ.ぶ, あそ.ばす",
+    "meaning": "DU (chữ Hán DU)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "遊び",
+        "reading": "あそび",
+        "meaning": "chơi"
+      },
+      {
+        "compound": "遊ぶ",
+        "reading": "あそぶ",
+        "meaning": "chơi"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-13-2",
+    "character": "泳",
+    "onyomi": "エイ",
+    "kunyomi": "およ.ぐ",
+    "meaning": "VỊNH (chữ Hán VỊNH)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "泳ぎ",
+        "reading": "およぎ",
+        "meaning": "bơi lội"
+      },
+      {
+        "compound": "泳ぎ方",
+        "reading": "およぎかた",
+        "meaning": "cách bơi, kiểu bơi"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-13-3",
+    "character": "迎",
+    "onyomi": "ゲイ",
+    "kunyomi": "むか.える",
+    "meaning": "NGHÊNH (đón rước, tiếp đãi, nghênh đón)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "迎える",
+        "reading": "むかえる",
+        "meaning": "đón tiếp, nghênh đón"
+      },
+      {
+        "compound": "歓迎",
+        "reading": "かんげい",
+        "meaning": "hoan nghênh, chào mừng"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-13-4",
+    "character": "疲",
+    "onyomi": "ヒ",
+    "kunyomi": "つか.れる, -づか.れ, つか.らす",
+    "meaning": "BÌ (chữ Hán BÌ)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "疲れ",
+        "reading": "つかれ",
+        "meaning": "sự mệt mỏi"
+      },
+      {
+        "compound": "疲れる",
+        "reading": "つかれる",
+        "meaning": "mệt mỏi"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-13-5",
+    "character": "出",
+    "onyomi": "シュツ, スイ",
+    "kunyomi": "で.る, -で, だ.す, -だ.す, い.でる, い.だす",
+    "meaning": "XUẤT (ra ngoài, xuất phát)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "思い出",
+        "reading": "おもいで",
+        "meaning": "ký ức"
+      },
+      {
+        "compound": "外出",
+        "reading": "がいしゅつ",
+        "meaning": "chuyến đi chơi"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-13-7",
+    "character": "紙",
+    "onyomi": "シ",
+    "kunyomi": "かみ",
+    "meaning": "CHỈ (giấy tờ)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "紙",
+        "reading": "かみ",
+        "meaning": "tờ giấy"
+      },
+      {
+        "compound": "手紙",
+        "reading": "てがみ",
+        "meaning": "bức thư"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-13-8",
+    "character": "入",
+    "onyomi": "ニュウ, ジュ",
+    "kunyomi": "い.る, -い.る, -い.り, い.れる, -い.れ, はい.る",
+    "meaning": "NHẬP (vào trong, nhập khẩu)",
+    "strokes": 2,
+    "examples": [
+      {
+        "compound": "気に入る",
+        "reading": "きにいる",
+        "meaning": "hài lòng với"
+      },
+      {
+        "compound": "記入",
+        "reading": "きにゅう",
+        "meaning": "lối vào"
+      }
+    ]
+  }
+]

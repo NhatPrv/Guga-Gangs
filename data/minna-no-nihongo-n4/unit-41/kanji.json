@@ -1,0 +1,62 @@
+[
+  {
+    "id": "k41-5",
+    "character": "呼",
+    "onyomi": "コ",
+    "kunyomi": "よ.ぶ",
+    "meaning": "HÔ (chữ Hán HÔ)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "呼吸",
+        "reading": "こきゅう",
+        "meaning": "hơi thở"
+      },
+      {
+        "compound": "呼ぶ",
+        "reading": "よぶ",
+        "meaning": "gọi ra"
+      }
+    ]
+  },
+  {
+    "id": "k41-7",
+    "character": "替",
+    "onyomi": "タイ",
+    "kunyomi": "か.える, か.え-, か.わる",
+    "meaning": "THẾ (chữ Hán THẾ)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "替える",
+        "reading": "かえる",
+        "meaning": "trao đổi"
+      },
+      {
+        "compound": "両替",
+        "reading": "りょうがえ",
+        "meaning": "thay đổi"
+      }
+    ]
+  },
+  {
+    "id": "k41-10",
+    "character": "祝",
+    "onyomi": "シュク, シュウ",
+    "kunyomi": "いわ.う",
+    "meaning": "CHÚC (chữ Hán CHÚC)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "祝い",
+        "reading": "いわい",
+        "meaning": "lễ kỷ niệm"
+      },
+      {
+        "compound": "祝う",
+        "reading": "いわう",
+        "meaning": "chúc mừng"
+      }
+    ]
+  }
+]

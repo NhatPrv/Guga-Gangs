@@ -1,0 +1,233 @@
+[
+  {
+    "word": "答えます",
+    "meaning": "câu trả lời",
+    "reading": "こたえます",
+    "sinoVietnamese": "ĐÁP",
+    "example": "毎日欠かさずに、答えますようにしています。 (Tôi cố gắng trả lời mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "焼け舞う",
+    "meaning": "lửa",
+    "reading": "やけます",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、焼け舞うようにしています。 (Tôi cố gắng làm điều đó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "入院します（パン/肉が～）",
+    "meaning": "nướng",
+    "reading": "やけます（パン/にくが～）",
+    "sinoVietnamese": "NHẬP VIỆN NHỤC",
+    "example": "仕事が終わった後、家でリラックスして入院します時間が楽しみです。 (Sau giờ làm việc, tôi rất mong được thư giãn ở nhà và đến bệnh viện.)"
+  },
+  {
+    "word": "通ります",
+    "meaning": "đỗ, vượt qua",
+    "reading": "とおります",
+    "sinoVietnamese": "THÔNG",
+    "example": "毎日欠かさずに、通りますようにしています。 (Tôi cố gắng vượt qua nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "死にます",
+    "meaning": "đã chết",
+    "reading": "しにます",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、死にますようにしています。 (Tôi cố gắng chết mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "びっくりします",
+    "meaning": "ngôi sao",
+    "reading": "びっくりします",
+    "sinoVietnamese": "",
+    "example": "毎日仕事が終わったあと、日本語をびっくりします。 (Mỗi ngày sau giờ làm việc, tôi đều ngạc nhiên về tiếng Nhật của mình.)"
+  },
+  {
+    "word": "がっかりします",
+    "meaning": "thất vọng",
+    "reading": "がっかりします",
+    "sinoVietnamese": "",
+    "example": "毎日仕事が終わったあと、日本語をがっかりします。 (Mỗi ngày sau giờ làm việc, tôi đều cảm thấy thất vọng về tiếng Nhật của mình.)"
+  },
+  {
+    "word": "安心します",
+    "meaning": "yên tâm",
+    "reading": "あんしんします",
+    "sinoVietnamese": "AN TÂM",
+    "example": "毎日仕事が終わったあと、日本語を安心します。 (Sau khi hoàn thành công việc mỗi ngày, tôi cảm thấy nhẹ nhõm hơn về tiếng Nhật.)"
+  },
+  {
+    "word": "遅刻します",
+    "meaning": "đến muộn, đến muộn",
+    "reading": "ちこくします",
+    "sinoVietnamese": "TRÌ",
+    "example": "毎日仕事が終わったあと、日本語を遅刻します。 (Tôi bị trễ giờ học tiếng Nhật sau giờ làm mỗi ngày.)"
+  },
+  {
+    "word": "早退します",
+    "meaning": "về sớm, về sớm",
+    "reading": "そうたいします",
+    "sinoVietnamese": "TẢO",
+    "example": "毎日仕事が終わったあと、日本語を早退します。 (Tôi rời trường học tiếng Nhật sớm sau giờ làm việc mỗi ngày.)"
+  },
+  {
+    "word": "離婚します",
+    "meaning": "ly hôn, ly hôn",
+    "reading": "りこんします",
+    "sinoVietnamese": "HÔN",
+    "example": "毎日仕事が終わったあと、日本語を離婚します。 (Sau khi kết thúc công việc hàng ngày, tôi ly hôn với người Nhật.)"
+  },
+  {
+    "word": "複雑（な）",
+    "meaning": "phức tạp",
+    "reading": "ふくざつ（な）",
+    "sinoVietnamese": "PHỨC TẠP",
+    "example": "田中さんはいつも親切で、とても複雑な人です。 (Ông Tanaka luôn tốt bụng và là một người rất phức tạp.)"
+  },
+  {
+    "word": "邪魔（な）",
+    "meaning": "cản trở và chiếm một khu vực",
+    "reading": "じゃま（な）",
+    "sinoVietnamese": "",
+    "example": "田中さんはいつも親切で、とても邪魔な人です。 (Ông Tanaka luôn tốt bụng và rất có tâm.)"
+  },
+  {
+    "word": "恥ずかしい",
+    "meaning": "xấu hổ, xấu hổ, xấu hổ",
+    "reading": "はずかしい",
+    "sinoVietnamese": "SỈ",
+    "example": "この本はとても恥ずかしいので、おすすめです。 (Cuốn sách này rất đáng xấu hổ và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "台風",
+    "meaning": "cơn bão",
+    "reading": "たいふう",
+    "sinoVietnamese": "PHONG",
+    "example": "激しい台風の影響で、電車のダイヤが少し乱れています。 (Do cơn bão nghiêm trọng nên lịch trình tàu hỏa bị gián đoạn đôi chút.)"
+  },
+  {
+    "word": "火事",
+    "meaning": "ngọn lửa",
+    "reading": "かじ",
+    "sinoVietnamese": "HỎA",
+    "example": "火事がおさまった後、青く澄んだ空が広がりました。 (Sau khi ngọn lửa tắt, bầu trời trong xanh.)"
+  },
+  {
+    "word": "事故",
+    "meaning": "tai nạn, sự cố",
+    "reading": "じこ",
+    "sinoVietnamese": "SỰ",
+    "example": "静かな夜に外から聞こえる事故の音に耳を澄ませました。 (Trong một đêm yên tĩnh, tôi lắng nghe kỹ những âm thanh của vụ tai nạn vọng vào từ bên ngoài.)"
+  },
+  {
+    "word": "見合い",
+    "meaning": "nam nữ làm quen qua giới thiệu và mối",
+    "reading": "みあい",
+    "sinoVietnamese": "KIẾN HỢP",
+    "example": "この本はとても見合いので、おすすめです。 (Cuốn sách này rất nhiều thông tin và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "電話代",
+    "meaning": "cước điện thoại, cước điện thoại",
+    "reading": "でんわだい",
+    "sinoVietnamese": "ĐIỆN THOẠI",
+    "example": "日本の文化や生活に関わる電話代について興味深く学びました。 (Tôi đã tìm hiểu được điều thú vị về cước điện thoại liên quan đến văn hóa và đời sống Nhật Bản.)"
+  },
+  {
+    "word": "ー代",
+    "meaning": "nghiêm khắc",
+    "reading": "ーだい",
+    "sinoVietnamese": "",
+    "example": "父から大切なー代を譲り受けて、大事に使っています。 (Tôi được thừa hưởng một món quà quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+  },
+  {
+    "word": "フロント",
+    "meaning": "bộ phận lễ tân",
+    "reading": "フロント",
+    "sinoVietnamese": "",
+    "example": "フロントに向けて、毎日一生懸命練習に励んでいます。 (Tôi đang luyện tập chăm chỉ mỗi ngày để chuẩn bị cho quầy lễ tân.)"
+  },
+  {
+    "word": "ー号室",
+    "meaning": "phòng số ～",
+    "reading": "―ごうしつ",
+    "sinoVietnamese": "HIỆU THẤT",
+    "example": "新しいー号室を手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một căn phòng mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "汗",
+    "meaning": "mồ hôi",
+    "reading": "あせ",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要な汗をしっかり入れて出かけました。 (Tôi gói những giọt mồ hôi cần thiết vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "タオル",
+    "meaning": "khăn, khăn",
+    "reading": "タオル",
+    "sinoVietnamese": "",
+    "example": "お風呂から上がった後、柔らかくて清潔なタオルで体を拭きました。(Sau khi tắm xong, tôi lau người bằng chiếc khăn mềm mại và sạch sẽ.)"
+  },
+  {
+    "word": "お疲れさまでした",
+    "meaning": "màu đỏ",
+    "reading": "おつかれさまでした",
+    "sinoVietnamese": "",
+    "example": "店員さんに相談して、自分にぴったりのお疲れさまでしたを選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được chiếc Otase-yasashita phù hợp với mình.)"
+  },
+  {
+    "word": "伺います",
+    "meaning": "tôi đã đến thăm",
+    "reading": "うかがいます",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、伺いますようにしています。 (Tôi cố gắng đến thăm họ mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "途中で",
+    "meaning": "nửa chừng, nửa chừng",
+    "reading": "とちゅうで",
+    "sinoVietnamese": "TRUNG",
+    "example": "店員さんに相談して、自分にぴったりの途中でを選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được chiếc phù hợp nhất với mình.)"
+  },
+  {
+    "word": "トラック",
+    "meaning": "xe tải",
+    "reading": "トラック",
+    "sinoVietnamese": "",
+    "example": "切符を買って、指定されたトラックに乗り込みました。 (Tôi mua vé và lên chiếc xe tải được chỉ định.)"
+  },
+  {
+    "word": "ぶつかります",
+    "meaning": "va chạm, va chạm",
+    "reading": "ぶつかります",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、ぶつかりますようにしています。 (Tôi cố gắng gặp nhau mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "並びます",
+    "meaning": "xếp hàng",
+    "reading": "ならびます",
+    "sinoVietnamese": "TỊNH",
+    "example": "毎日欠かさずに、並びますようにしています。 (Tôi cố gắng xếp hàng mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "西洋化します",
+    "meaning": "hướng tây",
+    "reading": "せいようかします",
+    "sinoVietnamese": "TÂY",
+    "example": "毎日仕事が終わったあと、日本語を西洋化します。 (Mỗi ngày sau giờ làm việc, tôi Tây hóa tiếng Nhật của mình.)"
+  },
+  {
+    "word": "今では",
+    "meaning": "bây giờ",
+    "reading": "いまでは",
+    "sinoVietnamese": "KIM",
+    "example": "昨日の今ではは久しぶりにゆっくり家で休むことができました。 (Hôm qua, lần đầu tiên sau một thời gian dài tôi đã có thể thư giãn ở nhà.)"
+  },
+  {
+    "word": "成人式",
+    "meaning": "buổi lễ",
+    "reading": "せいじんしき",
+    "sinoVietnamese": "THÀNH NHÂN",
+    "example": "成人式が健康で幸せに暮らせることをいつも願っています。 (Tôi luôn mong Lễ trưởng thành sẽ có một cuộc sống khỏe mạnh, hạnh phúc.)"
+  }
+]

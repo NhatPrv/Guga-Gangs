@@ -1,0 +1,162 @@
+[
+  {
+    "id": "k-n5-14-1",
+    "character": "消",
+    "onyomi": "ショウ",
+    "kunyomi": "き.える, け.す",
+    "meaning": "TIÊU (tiêu tan, tắt đèn)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "消費",
+        "reading": "しょうひ",
+        "meaning": "tiêu dùng"
+      },
+      {
+        "compound": "消防",
+        "reading": "しょうぼう",
+        "meaning": "chữa cháy"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-14-2",
+    "character": "開",
+    "onyomi": "カイ",
+    "kunyomi": "ひら.く, ひら.き, -びら.き, ひら.ける, あ.く, あ.ける",
+    "meaning": "KHAI (mở ra, khai mạc)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "開始",
+        "reading": "かいし",
+        "meaning": "bắt đầu"
+      },
+      {
+        "compound": "開く",
+        "reading": "あく",
+        "meaning": "mở"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-14-3",
+    "character": "閉",
+    "onyomi": "ヘイ",
+    "kunyomi": "と.じる, と.ざす, し.める, し.まる, た.てる",
+    "meaning": "BẾ (đóng lại, bế mạc)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "閉じる",
+        "reading": "とじる",
+        "meaning": "đóng (ví dụ: cuốn sách, mắt)"
+      },
+      {
+        "compound": "閉まる",
+        "reading": "しまる",
+        "meaning": "đóng"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-14-4",
+    "character": "急",
+    "onyomi": "キュウ",
+    "kunyomi": "いそ.ぐ, いそ.ぎ, せ.く",
+    "meaning": "CẤP (khẩn cấp, vội vã)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "急激",
+        "reading": "きゅうげき",
+        "meaning": "đột ngột"
+      },
+      {
+        "compound": "急速",
+        "reading": "きゅうそく",
+        "meaning": "nhanh chóng (ví dụ: tiến độ)"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-14-5",
+    "character": "待",
+    "onyomi": "タイ",
+    "kunyomi": "ま.つ, -ま.ち",
+    "meaning": "ĐÃI (chờ đợi, đối đãi)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "期待",
+        "reading": "きたい",
+        "meaning": "sự mong đợi"
+      },
+      {
+        "compound": "招待",
+        "reading": "しょうたい",
+        "meaning": "mời"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-14-6",
+    "character": "止",
+    "onyomi": "シ",
+    "kunyomi": "と.まる, -ど.まり, と.める, -と.める, -ど.め, とど.める, とど.め, とど.まる, や.める, や.む, -や.む, よ.す, -さ.す, -さ.し",
+    "meaning": "CHỈ (dừng lại, đình chỉ)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "禁止",
+        "reading": "きんし",
+        "meaning": "sự cấm đoán"
+      },
+      {
+        "compound": "止す",
+        "reading": "よす",
+        "meaning": "chấm dứt"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-14-7",
+    "character": "曲",
+    "onyomi": "キョク",
+    "kunyomi": "ま.がる, ま.げる, くま",
+    "meaning": "KHÚC (chữ Hán KHÚC)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "曲る",
+        "reading": "まがる",
+        "meaning": "rẽ"
+      },
+      {
+        "compound": "曲",
+        "reading": "きょく",
+        "meaning": "âm nhạc"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-14-8",
+    "character": "右",
+    "onyomi": "ウ, ユウ",
+    "kunyomi": "みぎ",
+    "meaning": "HỮU (bên phải)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "左右",
+        "reading": "さゆう",
+        "meaning": "trái và phải"
+      },
+      {
+        "compound": "右",
+        "reading": "みぎ",
+        "meaning": "bên phải, phía bên phải"
+      }
+    ]
+  }
+]

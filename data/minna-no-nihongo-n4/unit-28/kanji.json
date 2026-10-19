@@ -1,0 +1,182 @@
+[
+  {
+    "id": "k28-2",
+    "character": "踊",
+    "onyomi": "ヨウ",
+    "kunyomi": "おど.る",
+    "meaning": "DŨNG (chữ Hán DŨNG)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "踊り",
+        "reading": "おどり",
+        "meaning": "điệu múa, vũ đạo"
+      },
+      {
+        "compound": "踊る",
+        "reading": "おどる",
+        "meaning": "nhảy múa, khiêu vũ"
+      }
+    ]
+  },
+  {
+    "id": "k28-3",
+    "character": "選",
+    "onyomi": "セン",
+    "kunyomi": "えら.ぶ, え.る, よ.る",
+    "meaning": "TUYỂN (lựa chọn, tuyển chọn)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "選手",
+        "reading": "せんしゅ",
+        "meaning": "người chơi (trong trò chơi)"
+      },
+      {
+        "compound": "選択",
+        "reading": "せんたく",
+        "meaning": "lựa chọn"
+      }
+    ]
+  },
+  {
+    "id": "k28-4",
+    "character": "通",
+    "onyomi": "ツウ, ツ",
+    "kunyomi": "とお.る, とお.り, -とお.り, -どお.り, とお.す, とお.し, -どお.し, かよ.う",
+    "meaning": "THÔNG (đi qua, giao thông, thông thạo)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "共通",
+        "reading": "きょうつう",
+        "meaning": "sự tầm thường"
+      },
+      {
+        "compound": "通過",
+        "reading": "つうか",
+        "meaning": "đi qua"
+      }
+    ]
+  },
+  {
+    "id": "k28-5",
+    "character": "真",
+    "onyomi": "シン",
+    "kunyomi": "ま, ま-, まこと",
+    "meaning": "CHÂN (sự thật, chân thật)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "真剣",
+        "reading": "しんけん",
+        "meaning": "sự nghiêm túc"
+      },
+      {
+        "compound": "真っ赤",
+        "reading": "まっか",
+        "meaning": "màu đỏ đậm"
+      }
+    ]
+  },
+  {
+    "id": "k28-6",
+    "character": "面",
+    "onyomi": "メン, ベン",
+    "kunyomi": "おも, おもて, つら",
+    "meaning": "DIỆN (mặt phẳng, diện mạo)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "場面",
+        "reading": "ばめん",
+        "meaning": "bối cảnh"
+      },
+      {
+        "compound": "表面",
+        "reading": "ひょうめん",
+        "meaning": "bề mặt"
+      }
+    ]
+  },
+  {
+    "id": "k28-7",
+    "character": "目",
+    "onyomi": "モク, ボク",
+    "kunyomi": "め, -め, ま-",
+    "meaning": "MỤC (đôi mắt, mục tiêu)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "お目に掛かる",
+        "reading": "おめにかかる",
+        "meaning": "gặp (ai đó có địa vị cao hơn)"
+      },
+      {
+        "compound": "科目",
+        "reading": "かもく",
+        "meaning": "(trường học) môn học"
+      }
+    ]
+  },
+  {
+    "id": "k28-8",
+    "character": "熱",
+    "onyomi": "ネツ",
+    "kunyomi": "あつ.い",
+    "meaning": "NHIỆT (chữ Hán NHIỆT)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "熱帯",
+        "reading": "ねったい",
+        "meaning": "vùng nhiệt đới"
+      },
+      {
+        "compound": "熱中",
+        "reading": "ねっちゅう",
+        "meaning": "điên rồi!"
+      }
+    ]
+  },
+  {
+    "id": "k28-9",
+    "character": "心",
+    "onyomi": "シン",
+    "kunyomi": "こころ, -ごころ",
+    "meaning": "TÂM (trái tim, tâm trí)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "感心",
+        "reading": "かんしん",
+        "meaning": "sự ngưỡng mộ"
+      },
+      {
+        "compound": "関心",
+        "reading": "かんしん",
+        "meaning": "mối quan tâm"
+      }
+    ]
+  },
+  {
+    "id": "k28-10",
+    "character": "偉",
+    "onyomi": "イ",
+    "kunyomi": "えら.い",
+    "meaning": "VĨ (chữ Hán VĨ)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "偉大",
+        "reading": "いだい",
+        "meaning": "sự vĩ đại"
+      },
+      {
+        "compound": "偉い",
+        "reading": "えらい",
+        "meaning": "tuyệt vời, trân trọng"
+      }
+    ]
+  }
+]

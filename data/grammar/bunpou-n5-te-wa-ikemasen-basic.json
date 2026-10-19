@@ -1,0 +1,91 @@
+{
+  "id": "bunpou-n5-te-wa-ikemasen-basic",
+  "level": "N5",
+  "unitId": "grammar-n5-unit-01",
+  "title": "〜てはいけません (Cơ bản N5)",
+  "meaning": "Không được làm gì (Cấm đoán cơ bản)",
+  "connection": "V-て + はいけません",
+  "usageNotes": "Diễn tả lời nhắc nhở cấm đoán các hành vi sai quy định trong lớp học, công viên.",
+  "questions": [
+    {
+      "id": "n5-u1-g2-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "教室の中で走ってはいけません。",
+      "sentenceVi": "Không được chạy nhảy trong lớp học.",
+      "targetGrammar": "〜てはいけません",
+      "prompt": "Ý nghĩa của câu trên là gì?",
+      "options": [
+        "Cấm chạy nhảy trong lớp học",
+        "Nên chạy nhảy trong lớp học",
+        "Được phép chạy nhảy trong lớp học",
+        "Muốn chạy nhảy trong lớp học"
+      ],
+      "correctIndex": 0,
+      "explanation": "「走ってはいけません」 mang ý cấm đoán không được chạy trong phòng học."
+    },
+    {
+      "id": "n5-u1-g2-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "病院ですから、大声で【　？　】。",
+      "sentenceVi": "Vì là bệnh viện nên không được nói lớn tiếng.",
+      "targetGrammar": "話してはいけません",
+      "prompt": "Chọn câu cấm đoán nói chuyện to tiếng:",
+      "options": [
+        "話してはいけません",
+        "話してもいいです",
+        "話しましょう",
+        "話したいです"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấm nói lớn tiếng ở nơi công cộng dùng 話す ➔ 話してはいけません."
+    },
+    {
+      "id": "n5-u1-g2-q3",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "赤信号ですから、道を【　？　】。",
+      "sentenceVi": "Vì đèn đỏ nên không được qua đường.",
+      "targetGrammar": "渡ってはいけません",
+      "prompt": "Chọn dạng chia cấm qua đường của động từ 渡る:",
+      "options": [
+        "渡ってはいけません",
+        "渡ってもいいです",
+        "渡らなければなりません",
+        "渡りましょう"
+      ],
+      "correctIndex": 0,
+      "explanation": "渡る (nhóm 1) chia thể Te là 渡って ➔ 渡ってはいけません (không được qua đường)."
+    },
+    {
+      "id": "n5-u1-g2-q4",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "美術館の展示品に触ってはいけません。",
+      "sentenceVi": "Không được chạm vào hiện vật trưng bày của bảo tàng mỹ thuật.",
+      "targetGrammar": "〜てはいけません",
+      "prompt": "Nội quy trên yêu cầu điều gì?",
+      "options": [
+        "Tuyệt đối không sờ chạm vào đồ vật trưng bày",
+        "Khuyến khích du khách sờ chạm hiện vật",
+        "Xin phép chạm vào đồ vật",
+        "Hỏi giá hiện vật trưng bày"
+      ],
+      "correctIndex": 0,
+      "explanation": "「触ってはいけません」 là quy định cấm sờ chạm vào hiện vật trong bảo tàng."
+    },
+    {
+      "id": "n5-u1-g2-q5",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "ここでタバコを吸っては【　？　】。",
+      "sentenceVi": "Không được hút thuốc lá ở đây.",
+      "targetGrammar": "いけません",
+      "prompt": "Điền phần còn lại của cấu trúc cấm đoán:",
+      "options": [
+        "いけません",
+        "いいです",
+        "なります",
+        "あります"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu cấm đoán chuẩn là 〜てはいけません."
+    }
+  ]
+}

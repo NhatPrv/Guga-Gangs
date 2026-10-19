@@ -1,0 +1,162 @@
+[
+  {
+    "id": "k-n5-12-1",
+    "character": "簡",
+    "onyomi": "カン, ケン",
+    "kunyomi": "えら.ぶ, ふだ",
+    "meaning": "GIẢN (chữ Hán GIẢN)",
+    "strokes": 18,
+    "examples": [
+      {
+        "compound": "簡単",
+        "reading": "かんたん",
+        "meaning": "đơn giản"
+      },
+      {
+        "compound": "簡単「な」",
+        "reading": "かんたん「な」",
+        "meaning": "đơn giản, dễ dàng"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-12-2",
+    "character": "単",
+    "onyomi": "タン",
+    "kunyomi": "ひとえ",
+    "meaning": "ĐƠN (chữ Hán ĐƠN)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "単位",
+        "reading": "たんい",
+        "meaning": "đơn vị"
+      },
+      {
+        "compound": "単語",
+        "reading": "たんご",
+        "meaning": "từ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-12-3",
+    "character": "近",
+    "onyomi": "キン, コン",
+    "kunyomi": "ちか.い",
+    "meaning": "CẬN (gần gũi, cận kề)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "近代",
+        "reading": "きんだい",
+        "meaning": "ngày nay"
+      },
+      {
+        "compound": "近頃",
+        "reading": "ちかごろ",
+        "meaning": "gần đây"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-12-4",
+    "character": "遠",
+    "onyomi": "エン, オン",
+    "kunyomi": "とお.い",
+    "meaning": "VIỄN (xa xôi, vĩnh viễn)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "永遠",
+        "reading": "えいえん",
+        "meaning": "vĩnh cửu"
+      },
+      {
+        "compound": "遠慮",
+        "reading": "えんりょ",
+        "meaning": "ngại ngần, khách khí, e dè"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-12-5",
+    "character": "速",
+    "onyomi": "ソク",
+    "kunyomi": "はや.い, はや-, はや.める, すみ.やか",
+    "meaning": "TỐC (chữ Hán TỐC)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "急速",
+        "reading": "きゅうそく",
+        "meaning": "nhanh chóng (ví dụ: tiến độ)"
+      },
+      {
+        "compound": "高速",
+        "reading": "こうそく",
+        "meaning": "tốc độ cao"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-12-6",
+    "character": "早",
+    "onyomi": "ソウ, サッ",
+    "kunyomi": "はや.い, はや, はや-, はや.まる, はや.める, さ-",
+    "meaning": "TẢO (sớm, nhanh chóng)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "早い",
+        "reading": "はやい",
+        "meaning": "sớm"
+      },
+      {
+        "compound": "早退します",
+        "reading": "そうたいします",
+        "meaning": "về sớm, về sớm"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-12-7",
+    "character": "遅",
+    "onyomi": "チ",
+    "kunyomi": "おく.れる, おく.らす, おそ.い",
+    "meaning": "TRÌ (chữ Hán TRÌ)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "遅刻",
+        "reading": "ちこく",
+        "meaning": "sự trễ hẹn"
+      },
+      {
+        "compound": "遅れる",
+        "reading": "おくれる",
+        "meaning": "muộn, trễ giờ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-12-8",
+    "character": "多",
+    "onyomi": "タ",
+    "kunyomi": "おお.い, まさ.に, まさ.る",
+    "meaning": "ĐA (nhiều, đa số)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "多少",
+        "reading": "たしょう",
+        "meaning": "nhiều hay ít"
+      },
+      {
+        "compound": "滅多に",
+        "reading": "めったに",
+        "meaning": "hiếm khi (với động từ phủ định)"
+      }
+    ]
+  }
+]

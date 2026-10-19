@@ -1,0 +1,102 @@
+[
+  {
+    "id": "k-n5-6-1",
+    "character": "吸",
+    "onyomi": "キュウ",
+    "kunyomi": "す.う",
+    "meaning": "HẤP (chữ Hán HẤP)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "吸収",
+        "reading": "きゅうしゅう",
+        "meaning": "sự hấp thụ"
+      },
+      {
+        "compound": "呼吸",
+        "reading": "こきゅう",
+        "meaning": "hơi thở"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-6-2",
+    "character": "飲",
+    "onyomi": "イン, オン",
+    "kunyomi": "の.む, -の.み",
+    "meaning": "ẨM (uống nước, ẩm thực)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "飲む",
+        "reading": "のむ",
+        "meaning": "uống"
+      },
+      {
+        "compound": "飲みます",
+        "reading": "のみます",
+        "meaning": "uống"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-6-4",
+    "character": "見",
+    "onyomi": "ケン",
+    "kunyomi": "み.る, み.える, み.せる",
+    "meaning": "KIẾN (nhìn, xem, ý kiến)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "見解",
+        "reading": "けんかい",
+        "meaning": "ý kiến"
+      },
+      {
+        "compound": "見当",
+        "reading": "けんとう",
+        "meaning": "được tìm thấy"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-6-6",
+    "character": "読",
+    "onyomi": "ドク, トク, トウ",
+    "kunyomi": "よ.む, -よ.み",
+    "meaning": "ĐỘC (đọc sách, độc giả)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "読書",
+        "reading": "どくしょ",
+        "meaning": "đọc sách"
+      },
+      {
+        "compound": "読み",
+        "reading": "よみ",
+        "meaning": "đọc sách"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-6-8",
+    "character": "買",
+    "onyomi": "バイ",
+    "kunyomi": "か.う",
+    "meaning": "MÃI (mua sắm)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "買い物",
+        "reading": "かいもの",
+        "meaning": "mua sắm"
+      },
+      {
+        "compound": "買う",
+        "reading": "かう",
+        "meaning": "mua"
+      }
+    ]
+  }
+]

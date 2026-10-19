@@ -1,0 +1,268 @@
+[
+  {
+    "word": "ここ",
+    "meaning": "ở đây",
+    "reading": "ここ",
+    "sinoVietnamese": "",
+    "example": "ここは日本語の教室です。 (Đây là lớp học tiếng Nhật.)"
+  },
+  {
+    "word": "そこ",
+    "meaning": "ở đằng kia",
+    "reading": "そこ",
+    "sinoVietnamese": "",
+    "example": "そこは会社の会議室です。 (Đó là phòng họp của công ty.)"
+  },
+  {
+    "word": "あそこ",
+    "meaning": "ở đằng kia",
+    "reading": "あそこ",
+    "sinoVietnamese": "",
+    "example": "あそこに銀行と郵便局があります。 (Ở đằng kia có ngân hàng và bưu điện.)"
+  },
+  {
+    "word": "どこ",
+    "meaning": "ở đâu",
+    "reading": "どこ",
+    "sinoVietnamese": "",
+    "example": "すみません、お手洗いはどこにありますか。 (Xin lỗi, nhà vệ sinh ở đâu?.)"
+  },
+  {
+    "word": "こちら",
+    "meaning": "phía này, nơi này",
+    "reading": "こちら",
+    "sinoVietnamese": "",
+    "example": "受付はこちらでございます。 (Nhấn vào đây để đăng ký.)"
+  },
+  {
+    "word": "あちら",
+    "meaning": "phía kia, nơi kia",
+    "reading": "あちら",
+    "sinoVietnamese": "",
+    "example": "エレベーターはあちらにございます。 (Thang máy ở đằng kia.)"
+  },
+  {
+    "word": "どちら",
+    "meaning": "phía nào, hướng nào",
+    "reading": "どちら",
+    "sinoVietnamese": "",
+    "example": "出身はどちらの国ですか。 (Bạn đến từ nước nào?.)"
+  },
+  {
+    "word": "教室",
+    "meaning": "phòng học",
+    "reading": "きょうしつ",
+    "sinoVietnamese": "GIÁO THẤT",
+    "example": "授業が始まるので教室に入りましょう。 (Chúng ta hãy vào lớp vì lớp học sắp bắt đầu.)"
+  },
+  {
+    "word": "食堂",
+    "meaning": "nhà ăn, căn tin",
+    "reading": "しょくどう",
+    "sinoVietnamese": "THỰC",
+    "example": "お昼休みは社員食堂でうどんを食べます。 (Trong giờ nghỉ trưa, tôi ăn mì udon tại căng tin công ty.)"
+  },
+  {
+    "word": "事務所",
+    "meaning": "văn phòng làm việc",
+    "reading": "じむしょ",
+    "sinoVietnamese": "SỞ",
+    "example": "書類を取りに事務所へ行きます。 (Tôi đang đến văn phòng để lấy tài liệu.)"
+  },
+  {
+    "word": "会議室",
+    "meaning": "phòng họp",
+    "reading": "かいぎしつ",
+    "sinoVietnamese": "HỘI THẤT",
+    "example": "10時から第2会議室でミーティングを行います。 (Cuộc họp sẽ được tổ chức tại phòng họp thứ hai từ 10:00.)"
+  },
+  {
+    "word": "受付",
+    "meaning": "quầy tiếp tân",
+    "reading": "うけつけ",
+    "sinoVietnamese": "THỤ PHÓ",
+    "example": "会社の受付で来客用のカードをもらいました。 (Tôi đã nhận được thẻ khách tại quầy lễ tân của công ty.)"
+  },
+  {
+    "word": "ロビー",
+    "meaning": "hội trường",
+    "reading": "ロビー",
+    "sinoVietnamese": "",
+    "example": "ホテルのロビーで友達と待ち合わせをしています。 (Tôi đang gặp một người bạn ở sảnh khách sạn.)"
+  },
+  {
+    "word": "部屋",
+    "meaning": "căn phòng",
+    "reading": "へや",
+    "sinoVietnamese": "ỐC",
+    "example": "私の部屋は日当たりが良くて静かです。 (Phòng tôi đầy nắng và yên tĩnh.)"
+  },
+  {
+    "word": "トイレ",
+    "meaning": "nhà vệ sinh",
+    "reading": "トイレ",
+    "sinoVietnamese": "",
+    "example": "すみません、トイレをお借りしてもよろしいですか。 (Xin lỗi, tôi có thể mượn nhà vệ sinh của bạn được không?.)"
+  },
+  {
+    "word": "階段",
+    "meaning": "cầu thang",
+    "reading": "かいだん",
+    "sinoVietnamese": "GIAI ĐOẠN",
+    "example": "健康のためにエレベーターを使わず階段を上ります。 (Vì sức khỏe của mình, tôi đi lên cầu thang bộ thay vì sử dụng thang máy.)"
+  },
+  {
+    "word": "エレベーター",
+    "meaning": "thang máy",
+    "reading": "エレベーター",
+    "sinoVietnamese": "",
+    "example": "5階までエレベーターで行きましょう。 (Chúng ta hãy đi thang máy lên tầng 5.)"
+  },
+  {
+    "word": "エスカレーター",
+    "meaning": "thang cuốn",
+    "reading": "エスカレーター",
+    "sinoVietnamese": "",
+    "example": "荷物が多いのでエスカレーターを利用します。 (Tôi có rất nhiều hành lý nên tôi sẽ sử dụng thang cuốn.)"
+  },
+  {
+    "word": "国",
+    "meaning": "quốc gia, đất nước",
+    "reading": "くに",
+    "sinoVietnamese": "QUỐC",
+    "example": "自然が豊かな国でのんびり過ごすのが好きです。 (Tôi thích dành thời gian thư giãn ở những đất nước giàu thiên nhiên.)"
+  },
+  {
+    "word": "会社",
+    "meaning": "công ty",
+    "reading": "かいしゃ",
+    "sinoVietnamese": "HỘI XÃ",
+    "example": "来月から新しいITの会社で働きます。 (Tôi sẽ làm việc tại một công ty CNTT mới bắt đầu vào tháng tới.)"
+  },
+  {
+    "word": "うち",
+    "meaning": "nhà, ngôi nhà",
+    "reading": "うち",
+    "sinoVietnamese": "",
+    "example": "仕事が終わったらすぐにうちへ帰ります。 (Tôi sẽ về nhà ngay sau khi làm việc xong.)"
+  },
+  {
+    "word": "電話",
+    "meaning": "điện thoại, cuộc gọi",
+    "reading": "でんしゃ",
+    "sinoVietnamese": "ĐIỆN THOẠI",
+    "example": "急な用事があるので電話をかけます。 (Tôi sẽ gọi cho bạn vì tôi có việc gấp phải làm.)"
+  },
+  {
+    "word": "靴",
+    "meaning": "đôi giày",
+    "reading": "くつ",
+    "sinoVietnamese": "",
+    "example": "玄関で靴を脱いで上がってください。 (Vui lòng cởi giày ở lối vào.)"
+  },
+  {
+    "word": "ネクタイ",
+    "meaning": "cà vạt",
+    "reading": "ネクタイ",
+    "sinoVietnamese": "",
+    "example": "面接に行くので青いネクタイを締めました。 (Tôi sắp đi phỏng vấn nên tôi đeo cà vạt màu xanh.)"
+  },
+  {
+    "word": "ワイン",
+    "meaning": "rượu vang",
+    "reading": "ワイン",
+    "sinoVietnamese": "",
+    "example": "お祝いに美味しいフランスのワインを飲みました。 (Chúng tôi uống một ít rượu vang Pháp thơm ngon để ăn mừng.)"
+  },
+  {
+    "word": "タバコ",
+    "meaning": "thuốc lá",
+    "reading": "タバコ",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要なタバコをしっかり入れて出かけました。 (Tôi gói tất cả số thuốc lá cần thiết vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "売り場",
+    "meaning": "quầy bán hàng",
+    "reading": "うりば",
+    "sinoVietnamese": "MẠI",
+    "example": "デパートの地下の食品売り場で買い物をします。 (Tôi mua sắm ở khu thực phẩm ở tầng hầm của một cửa hàng bách hóa.)"
+  },
+  {
+    "word": "ちか",
+    "meaning": "dưới lòng đất",
+    "reading": "ちか",
+    "sinoVietnamese": "",
+    "example": "父から大切なちかを譲り受けて、大事に使っています。 (Tôi thừa hưởng chika quý giá của mình từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+  },
+  {
+    "word": "いくら",
+    "meaning": "bao nhiêu tiền",
+    "reading": "いくら",
+    "sinoVietnamese": "",
+    "example": "このシャツはいくらですか。 (Chiếc áo này giá bao nhiêu?.)"
+  },
+  {
+    "word": "百",
+    "meaning": "trăm",
+    "reading": "ひゃく",
+    "sinoVietnamese": "BÁCH",
+    "example": "このノートは百円均一で買いました。 (Tôi đã mua cuốn sổ này với giá 100 yên.)"
+  },
+  {
+    "word": "千",
+    "meaning": "nghìn",
+    "reading": "せん",
+    "sinoVietnamese": "THIÊN",
+    "example": "本代として千円払いました。 (Tôi đã trả 1.000 yên cho cuốn sách.)"
+  },
+  {
+    "word": "万",
+    "meaning": "mười nghìn, vạn",
+    "reading": "まん",
+    "sinoVietnamese": "VẠN",
+    "example": "新しいパソコンは十万円でした。 (Máy tính mới có giá 100.000 yên.)"
+  },
+  {
+    "word": "すみません",
+    "meaning": "xin lỗi",
+    "reading": "すみません",
+    "sinoVietnamese": "",
+    "example": "すみません、写真を撮っていただけませんか。 (Xin lỗi, tôi có thể chụp ảnh được không?.)"
+  },
+  {
+    "word": "(を）みせてください",
+    "meaning": "xin hãy cho tôi xem ～",
+    "reading": "(を）みせてください",
+    "sinoVietnamese": "",
+    "example": "すみません、その時計を見せてください。 (Xin lỗi, hãy cho tôi xem chiếc đồng hồ đó.)"
+  },
+  {
+    "word": "じゃ（~を）ください",
+    "meaning": "tặng, cho",
+    "reading": "じゃ（~を）ください",
+    "sinoVietnamese": "",
+    "example": "じゃ、このリンゴを3つください。 (Vậy thì, xin cho tôi 3 quả táo này.)"
+  },
+  {
+    "word": "しんおおさか",
+    "meaning": "địa danh ở nhật bản",
+    "reading": "しんおおさか",
+    "sinoVietnamese": "",
+    "example": "丁寧にお手入れをしながら、お気に入りのしんおおさかを長く愛用しています。 (Tôi đã sử dụng chiếc Shin Osaka yêu thích của mình được lâu rồi, giữ gìn cẩn thận.)"
+  },
+  {
+    "word": "イタリア",
+    "meaning": "ý",
+    "reading": "イタリア",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要なイタリアをしっかり入れて出かけました。 (Tôi đóng gói tất cả những món đồ Ý tôi cần vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "スイス",
+    "meaning": "thụy sĩ",
+    "reading": "スイス",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要なスイスをしっかり入れて出かけました。 (Tôi gói tất cả số tiền Thụy Sĩ tôi cần vào túi và đi ra ngoài.)"
+  }
+]

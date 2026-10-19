@@ -1,0 +1,331 @@
+[
+  {
+    "word": "逃げます",
+    "meaning": "bỏ chạy, chạy trốn",
+    "reading": "にげます",
+    "sinoVietnamese": "ĐÀO",
+    "example": "毎日欠かさずに、逃げますようにしています。 (Tôi cố gắng trốn thoát mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "騒ぎます",
+    "meaning": "gây ồn ào, gây ồn ào",
+    "reading": "さわぎます",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、騒ぎますようにしています。 (Tôi cố gắng gây ồn ào mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "あきらめます",
+    "meaning": "từ bỏ, bỏ cuộc",
+    "reading": "あきらめます",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、あきらめますようにしています。 (Tôi cố gắng từ bỏ mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "投げま",
+    "meaning": "ném, vứt",
+    "reading": "なげます",
+    "sinoVietnamese": "",
+    "example": "新しい投げまを手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một người ném mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "守ります",
+    "meaning": "bảo vệ, tuân thủ",
+    "reading": "まもります",
+    "sinoVietnamese": "THỦ",
+    "example": "毎日欠かさずに、守りますようにしています。 (Tôi cố gắng bảo vệ nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "上げます",
+    "meaning": "nâng nó lên",
+    "reading": "あげます",
+    "sinoVietnamese": "THƯỢNG",
+    "example": "毎日欠かさずに、上げますようにしています。 (Tôi cố gắng cải thiện nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "下げます",
+    "meaning": "hạ xuống, xuống",
+    "reading": "さげます",
+    "sinoVietnamese": "HẠ",
+    "example": "毎日欠かさずに、下げますようにしています。 (Tôi cố gắng hạ thấp nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "伝えます",
+    "meaning": "truyền tải",
+    "reading": "つたえます",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、伝えますようにしています。 (Tôi cố gắng truyền đạt điều này mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "注意します",
+    "meaning": "chú ý",
+    "reading": "ちゅういします",
+    "sinoVietnamese": "Ý",
+    "example": "毎日仕事が終わったあと、日本語を注意します。 (Mỗi ngày sau giờ làm việc, tôi đều chú ý đến tiếng Nhật của mình.)"
+  },
+  {
+    "word": "外します",
+    "meaning": "chỗ ngồi",
+    "reading": "はずします",
+    "sinoVietnamese": "NGOẠI",
+    "example": "毎日仕事が終わったあと、日本語を外します。 (Mỗi ngày sau giờ làm việc tôi đều học tiếng Nhật.)"
+  },
+  {
+    "word": "だめ",
+    "meaning": "không thể",
+    "reading": "だめ",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要なだめをしっかり入れて出かけました。 (Tôi đóng gói tất cả những vật dụng cần thiết vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "席",
+    "meaning": "chỗ ngồi",
+    "reading": "せき",
+    "sinoVietnamese": "",
+    "example": "新しい席を手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã có được chỗ ngồi mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "（な）",
+    "meaning": "chiến đấu, thi đấu",
+    "reading": "ファイト",
+    "sinoVietnamese": "",
+    "example": "田中さんはいつも親切で、とてもな人です。 (Ông Tanaka luôn tốt bụng và là một người rất tốt.)"
+  },
+  {
+    "word": "マーク",
+    "meaning": "ký tên",
+    "reading": "マーク",
+    "sinoVietnamese": "",
+    "example": "日本の文化や生活に関わるマークについて興味深く学びました。 (Thật thú vị khi được tìm hiểu về những dấu ấn liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "ボール",
+    "meaning": "quả bóng",
+    "reading": "ボール",
+    "sinoVietnamese": "",
+    "example": "友達と一緒に、珍しくて面白いボールを見に行きました。 (Tôi và bạn bè đã đi xem một buổi vũ hội khác thường và thú vị.)"
+  },
+  {
+    "word": "洗濯機",
+    "meaning": "máy giặt",
+    "reading": "せんたくき",
+    "sinoVietnamese": "TẨY KI",
+    "example": "丁寧にお手入れをしながら、お気に入りの洗濯機を長く愛用しています。 (Tôi sử dụng chiếc máy giặt yêu thích của mình đã lâu, giữ gìn cẩn thận.)"
+  },
+  {
+    "word": "ー機",
+    "meaning": "máy móc",
+    "reading": "―き",
+    "sinoVietnamese": "KI",
+    "example": "日本の文化や生活に関わるー機について興味深く学びました。 (Tôi rất thích thú tìm hiểu những cơ hội liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "規則",
+    "meaning": "quy tắc và kỷ luật",
+    "reading": "きそく",
+    "sinoVietnamese": "TẮC",
+    "example": "日本の文化や生活に関わる規則について興味深く学びました。 (Tôi rất thích thú tìm hiểu những quy tắc liên quan đến văn hóa và cuộc sống của người Nhật.)"
+  },
+  {
+    "word": "使用禁止",
+    "meaning": "bị cấm sử dụng",
+    "reading": "しようきんし",
+    "sinoVietnamese": "SỬ CẤM CHỈ",
+    "example": "店員さんに相談して、自分にぴったりの使用禁止を選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được lệnh cấm phù hợp nhất với mình.)"
+  },
+  {
+    "word": "立ち入り禁止",
+    "meaning": "không vào",
+    "reading": "たちいりきんし",
+    "sinoVietnamese": "LẬP NHẬP CẤM CHỈ",
+    "example": "丁寧にお手入れをしながら、お気に入りの立ち入り禁止を長く愛用しています。 (Tôi đã sử dụng sản phẩm yêu thích của mình trong một thời gian dài và giữ gìn nó rất tốt.)"
+  },
+  {
+    "word": "非常宇口",
+    "meaning": "lối thoát hiểm",
+    "reading": "ひじょうぐち",
+    "sinoVietnamese": "VŨ KHẨU",
+    "example": "丁寧にお手入れをしながら、お気に入りの非常宇口を長く愛用しています。 (Tôi đã sử dụng uchi khẩn cấp yêu thích của mình trong một thời gian dài, chăm sóc nó cẩn thận.)"
+  },
+  {
+    "word": "本日休業",
+    "meaning": "hôm nay đóng cửa, hôm nay đóng cửa",
+    "reading": "ほんじつきゅうぎょう",
+    "sinoVietnamese": "BẢN NHẬT HƯU",
+    "example": "本日休業は家族と一緒に楽しい旅行に出かける計画です。 (Hôm nay tôi dự định sẽ có một chuyến du lịch vui vẻ cùng gia đình.)"
+  },
+  {
+    "word": "営業中",
+    "meaning": "đang mở cửa",
+    "reading": "えいぎょうちゅう",
+    "sinoVietnamese": "TRUNG",
+    "example": "カバンの中に必要な営業中をしっかり入れて出かけました。 (Tôi đóng gói tất cả các thông tin kinh doanh cần thiết vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "使用中",
+    "meaning": "sử dụng",
+    "reading": "しようちゅう",
+    "sinoVietnamese": "SỬ TRUNG",
+    "example": "店員さんに相談して、自分にぴったりの使用中を選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn loại tôi đang sử dụng phù hợp nhất với mình.)"
+  },
+  {
+    "word": "ー中",
+    "meaning": "đang-",
+    "reading": "―ちゅう",
+    "sinoVietnamese": "TRUNG",
+    "example": "日本の文化や生活に関わるー中について興味深く学びました。 (Tôi đã học được những điều thú vị về văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "どういうー",
+    "meaning": "như thế nào, ra sao",
+    "reading": "どういうー",
+    "sinoVietnamese": "",
+    "example": "時間があるときは、自分のペースでゆっくりどういうのが好きです。 (Khi có thời gian, tôi thích làm mọi việc theo tốc độ của riêng mình.)"
+  },
+  {
+    "word": "あと",
+    "meaning": "còn lại ～, sau đó",
+    "reading": "あと",
+    "sinoVietnamese": "",
+    "example": "店員さんに相談して、自分にぴったりのあとを選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn một cái hoàn hảo cho tôi.)"
+  },
+  {
+    "word": "駐車違反",
+    "meaning": "đỗ xe trái phép",
+    "reading": "ちゅうしゃいはん",
+    "sinoVietnamese": "XA PHẢN",
+    "example": "切符を買って、指定された駐車違反に乗り込みました。 (Tôi đã mua vé và lái xe vi phạm quy định đỗ xe.)"
+  },
+  {
+    "word": "そりゃあ",
+    "meaning": "vậy thì, ồ",
+    "reading": "そりゃあ",
+    "sinoVietnamese": "",
+    "example": "丁寧にお手入れをしながら、お気に入りのそりゃあを長く愛用しています。 (Tôi đã sử dụng Soreya yêu thích của mình trong một thời gian dài và chăm sóc nó cẩn thận.)"
+  },
+  {
+    "word": "～い内",
+    "meaning": "trong vòng ～, trong khoảng ～",
+    "reading": "～いない",
+    "sinoVietnamese": "NỘI",
+    "example": "店員さんに相談して、自分にぴったりの～い内を選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được khu vực phù hợp với mình.)"
+  },
+  {
+    "word": "警察",
+    "meaning": "đồn công an, bốt cảnh sát",
+    "reading": "けいさつ",
+    "sinoVietnamese": "",
+    "example": "父から大切な警察を譲り受けて、大事に使っています。 (Tôi được thừa kế một chiếc xe cảnh sát có giá trị từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+  },
+  {
+    "word": "罰金",
+    "meaning": "tiền phạt",
+    "reading": "ばっきん",
+    "sinoVietnamese": "KIM",
+    "example": "店員さんに相談して、自分にぴったりの罰金を選びました。 (Tôi đã tham khảo ý kiến ​​của nhân viên cửa hàng và chọn mức phạt phù hợp nhất với mình.)"
+  },
+  {
+    "word": "電報",
+    "meaning": "điện báo",
+    "reading": "でんぽう",
+    "sinoVietnamese": "ĐIỆN BÁO",
+    "example": "日本の文化や生活に関わる電報について興味深く学びました。 (Tôi rất thích thú tìm hiểu về điện tín, thứ liên quan đến văn hóa và đời sống Nhật Bản.)"
+  },
+  {
+    "word": "人々",
+    "meaning": "nhiều người",
+    "reading": "ひとびと",
+    "sinoVietnamese": "NHÂN",
+    "example": "人々が健康で幸せに暮らせることをいつも願っています。 (Tôi luôn mong rằng mọi người có thể sống một cuộc sống khỏe mạnh và hạnh phúc.)"
+  },
+  {
+    "word": "急用",
+    "meaning": "công việc khẩn cấp",
+    "reading": "きゅうよう",
+    "sinoVietnamese": "CẤP",
+    "example": "カバンの中に必要な急用をしっかり入れて出かけました。 (Tôi gói ghém tất cả những món đồ cần thiết khẩn cấp vào túi rồi đi ra ngoài.)"
+  },
+  {
+    "word": "打ちます（電報を）",
+    "meaning": "gửi",
+    "reading": "うちます（でんぽうを）",
+    "sinoVietnamese": "ĐẢ ĐIỆN BÁO",
+    "example": "急ぎの用事で電報を打ちました。 (Vì có việc khẩn cấp nên tôi đã gửi một bức điện tín.)"
+  },
+  {
+    "word": "電報代",
+    "meaning": "phí điện báo",
+    "reading": "でんぽうだい",
+    "sinoVietnamese": "ĐIỆN BÁO",
+    "example": "日本の文化や生活に関わる電報代について興味深く学びました。 (Tôi được tìm hiểu khá thú vị về cước điện tín liên quan đến văn hóa và đời sống Nhật Bản.)"
+  },
+  {
+    "word": "できるだけ",
+    "meaning": "cố gắng, càng nhiều càng tốt",
+    "reading": "できるだけ",
+    "sinoVietnamese": "",
+    "example": "父から大切なできるだけを譲り受けて、大事に使っています。 (Tôi thừa hưởng nhiều nhất có thể từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+  },
+  {
+    "word": "短く",
+    "meaning": "ngắn gọn",
+    "reading": "みじかく",
+    "sinoVietnamese": "ĐOẢN",
+    "example": "毎日欠かさずに、短くようにしています。 (Tôi cố gắng giữ nó ngắn gọn và không thất bại mỗi ngày.)"
+  },
+  {
+    "word": "危篤",
+    "meaning": "hoàn cảnh nghèo nàn",
+    "reading": "キト��",
+    "sinoVietnamese": "NGUY",
+    "example": "友達と一緒に、珍しくて面白い危篤を見に行きました。 (Tôi và bạn tôi đi xem một trường hợp hiếm hoi và thú vị.)"
+  },
+  {
+    "word": "重い病気",
+    "meaning": "bệnh nặng",
+    "reading": "おもいびょうき",
+    "sinoVietnamese": "TRỌNG BỆNH KHÍ",
+    "example": "友達と一緒に、珍しくて面白い重い病気を見に行きました。 (Tôi và bạn tôi đi xem một căn bệnh hiểm nghèo hiếm gặp và thú vị.)"
+  },
+  {
+    "word": "留守",
+    "meaning": "xa nhà",
+    "reading": "るす",
+    "sinoVietnamese": "THỦ",
+    "example": "新しい留守を手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một công việc mới ở nhà và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "留守番",
+    "meaning": "trông coi ngôi nhà",
+    "reading": "るすばん",
+    "sinoVietnamese": "THỦ PHIÊN",
+    "example": "日本の文化や生活に関わる留守番について興味深く学びました。 (Tôi đã tìm hiểu một cách thú vị về dịch vụ trả lời tin nhắn liên quan đến văn hóa và đời sống Nhật Bản.)"
+  },
+  {
+    "word": "(お）いわい",
+    "meaning": "lễ kỷ niệm",
+    "reading": "(お）いわい",
+    "sinoVietnamese": "",
+    "example": "友達の結婚のお祝いにプレゼントを贈りました。 (Tôi đã gửi quà chúc mừng đám cưới của bạn.)"
+  },
+  {
+    "word": "なくなります",
+    "meaning": "mất tích, chết",
+    "reading": "なくなります",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、なくなりますようにしています。 (Tôi cố gắng đảm bảo rằng nó biến mất mà không nhớ nó mỗi ngày.)"
+  },
+  {
+    "word": "悲しい",
+    "meaning": "buồn",
+    "reading": "かなしい",
+    "sinoVietnamese": "BI",
+    "example": "この本はとても悲しいので、おすすめです。 (Cuốn sách này rất buồn và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "利用します",
+    "meaning": "sử dụng, tận dụng, tận dụng",
+    "reading": "りようします",
+    "sinoVietnamese": "LỢI",
+    "example": "毎日仕事が終わったあと、日本語を利用します。 (Tôi sử dụng tiếng Nhật mỗi ngày sau giờ làm việc.)"
+  }
+]

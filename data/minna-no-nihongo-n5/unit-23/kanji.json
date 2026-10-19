@@ -1,0 +1,122 @@
+[
+  {
+    "id": "k-n5-23-2",
+    "character": "道",
+    "onyomi": "ドウ, トウ",
+    "kunyomi": "みち, いう",
+    "meaning": "ĐẠO (con đường, đạo lý)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "鉄道",
+        "reading": "てつどう",
+        "meaning": "đường sắt"
+      },
+      {
+        "compound": "道徳",
+        "reading": "どうとく",
+        "meaning": "đạo đức"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-23-3",
+    "character": "操",
+    "onyomi": "ソウ, サン",
+    "kunyomi": "みさお, あやつ.る",
+    "meaning": "THAO (chữ Hán THAO)",
+    "strokes": 16,
+    "examples": [
+      {
+        "compound": "操作",
+        "reading": "そうさ",
+        "meaning": "thao túng"
+      },
+      {
+        "compound": "操作店",
+        "reading": "こうさてん",
+        "meaning": "ngã tư"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-23-5",
+    "character": "店",
+    "onyomi": "テン",
+    "kunyomi": "みせ, たな",
+    "meaning": "ĐIẾM (cửa hàng, tiệm)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "店員",
+        "reading": "てんいん",
+        "meaning": "nhân viên bán hàng"
+      },
+      {
+        "compound": "支店",
+        "reading": "してん",
+        "meaning": "văn phòng chi nhánh"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-23-6",
+    "character": "信",
+    "onyomi": "シン",
+    "kunyomi": "-",
+    "meaning": "Hán tự 信",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "信仰",
+        "reading": "しんこう",
+        "meaning": "(tôn giáo) đức tin"
+      },
+      {
+        "compound": "信じる",
+        "reading": "しんじる",
+        "meaning": "tin tưởng"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-23-7",
+    "character": "号",
+    "onyomi": "ゴウ",
+    "kunyomi": "さけ.ぶ, よびな",
+    "meaning": "HIỆU (số hiệu, ký hiệu)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "番号",
+        "reading": "ばんごう",
+        "meaning": "con số"
+      },
+      {
+        "compound": "ー号室",
+        "reading": "―ごうしつ",
+        "meaning": "phòng số ～"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-23-8",
+    "character": "引",
+    "onyomi": "イン",
+    "kunyomi": "ひ.く, ひ.ける",
+    "meaning": "DẪN (chữ Hán DẪN)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "引退",
+        "reading": "いんたい",
+        "meaning": "nghỉ hưu"
+      },
+      {
+        "compound": "引用",
+        "reading": "いんよう",
+        "meaning": "trích dẫn"
+      }
+    ]
+  }
+]

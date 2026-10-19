@@ -1,0 +1,97 @@
+[
+  {
+    "id": "k27-1",
+    "character": "飼",
+    "onyomi": "シ",
+    "kunyomi": "か.う",
+    "meaning": "TỰ (chăn nuôi)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "飼う",
+        "reading": "かう",
+        "meaning": "giữ"
+      },
+      {
+        "compound": "飼います",
+        "reading": "かいます",
+        "meaning": "chăn nuôi và nhân giống"
+      }
+    ]
+  },
+  {
+    "id": "k27-2",
+    "character": "建",
+    "onyomi": "ケン, コン",
+    "kunyomi": "た.てる, た.て, -だ.て, た.つ",
+    "meaning": "KIẾN (xây dựng, kiến trúc)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "建設",
+        "reading": "けんせつ",
+        "meaning": "xây dựng"
+      },
+      {
+        "compound": "建築",
+        "reading": "けんちく",
+        "meaning": "xây dựng"
+      }
+    ]
+  },
+  {
+    "id": "k27-3",
+    "character": "走",
+    "onyomi": "ソウ",
+    "kunyomi": "はし.る",
+    "meaning": "TẨU (chạy, tẩu thoát)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "走る",
+        "reading": "はしる",
+        "meaning": "chạy"
+      },
+      {
+        "compound": "走ります",
+        "reading": "はしります",
+        "meaning": "bỏ chạy, chạy trốn"
+      }
+    ]
+  },
+  {
+    "id": "k27-8",
+    "character": "鳥",
+    "onyomi": "チョウ",
+    "kunyomi": "とり",
+    "meaning": "ĐIỂU (loài chim)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "小鳥",
+        "reading": "ことり",
+        "meaning": "nhỏ, bé"
+      },
+      {
+        "compound": "鳥",
+        "reading": "とり",
+        "meaning": "chim"
+      }
+    ]
+  },
+  {
+    "id": "k27-9",
+    "character": "波",
+    "onyomi": "ハ",
+    "kunyomi": "なみ",
+    "meaning": "BA (sóng biển)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "波",
+        "reading": "なみ",
+        "meaning": "làn sóng"
+      }
+    ]
+  }
+]

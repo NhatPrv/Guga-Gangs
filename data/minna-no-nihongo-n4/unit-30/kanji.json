@@ -1,0 +1,162 @@
+[
+  {
+    "id": "k30-1",
+    "character": "掛",
+    "onyomi": "カイ, ケイ",
+    "kunyomi": "か.ける, -か.ける, か.け, -か.け, -が.け, か.かる, -か.かる, -が.かる, か.かり, -が.かり, かかり, -がかり",
+    "meaning": "Hán tự 掛",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "お目に掛かる",
+        "reading": "おめにかかる",
+        "meaning": "gặp (ai đó có địa vị cao hơn)"
+      },
+      {
+        "compound": "掛かります",
+        "reading": "かかります",
+        "meaning": "khóa lại"
+      }
+    ]
+  },
+  {
+    "id": "k30-2",
+    "character": "飾",
+    "onyomi": "ショク",
+    "kunyomi": "かざ.る, かざ.り",
+    "meaning": "Hán tự 飾",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "飾る",
+        "reading": "かざる",
+        "meaning": "trang trí"
+      },
+      {
+        "compound": "飾ります",
+        "reading": "かざります",
+        "meaning": "trang trí"
+      }
+    ]
+  },
+  {
+    "id": "k30-3",
+    "character": "並",
+    "onyomi": "ヘイ, ホウ",
+    "kunyomi": "な.み, なみ, なら.べる, なら.ぶ, なら.びに",
+    "meaning": "TỊNH (xếp hàng, song song)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "並ぶ",
+        "reading": "ならぶ",
+        "meaning": "xếp hàng"
+      },
+      {
+        "compound": "並べる",
+        "reading": "ならべる",
+        "meaning": "xếp hàng"
+      }
+    ]
+  },
+  {
+    "id": "k30-4",
+    "character": "植",
+    "onyomi": "ショク",
+    "kunyomi": "う.える, う.わる",
+    "meaning": "THỰC (trồng trọt, thực vật)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "植物",
+        "reading": "しょくぶつ",
+        "meaning": "thực vật"
+      },
+      {
+        "compound": "植える",
+        "reading": "うえる",
+        "meaning": "trồng"
+      }
+    ]
+  },
+  {
+    "id": "k30-5",
+    "character": "戻",
+    "onyomi": "レイ",
+    "kunyomi": "もど.す, もど.る",
+    "meaning": "LỆ (chữ Hán LỆ)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "戻す",
+        "reading": "もどす",
+        "meaning": "khôi phục"
+      },
+      {
+        "compound": "戻る",
+        "reading": "もどる",
+        "meaning": "quay lại"
+      }
+    ]
+  },
+  {
+    "id": "k30-7",
+    "character": "決",
+    "onyomi": "ケツ",
+    "kunyomi": "き.める, -ぎ.め, き.まる, さ.く",
+    "meaning": "QUYẾT (chữ Hán QUYẾT)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "解決",
+        "reading": "かいけつ",
+        "meaning": "giải quyết"
+      },
+      {
+        "compound": "決まり",
+        "reading": "きまり",
+        "meaning": "giải quyết"
+      }
+    ]
+  },
+  {
+    "id": "k30-9",
+    "character": "祖",
+    "onyomi": "ソ",
+    "kunyomi": "-",
+    "meaning": "TỔ (ông bà, tổ tiên)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "お祖父さん",
+        "reading": "おじいさん",
+        "meaning": "bố, cha"
+      },
+      {
+        "compound": "祖横断します",
+        "reading": "そうだんします",
+        "meaning": "băng qua, đi ngang qua"
+      }
+    ]
+  },
+  {
+    "id": "k30-10",
+    "character": "横",
+    "onyomi": "オウ",
+    "kunyomi": "よこ",
+    "meaning": "HOÀNH (chữ Hán HOÀNH)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "横断",
+        "reading": "おうだん",
+        "meaning": "băng qua"
+      },
+      {
+        "compound": "横切る",
+        "reading": "よこぎる",
+        "meaning": "vượt qua (ví dụ: cánh tay)"
+      }
+    ]
+  }
+]

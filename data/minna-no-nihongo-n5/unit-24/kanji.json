@@ -1,0 +1,102 @@
+[
+  {
+    "id": "k-n5-24-1",
+    "character": "連",
+    "onyomi": "レン",
+    "kunyomi": "つら.なる, つら.ねる, つ.れる, -づ.れ",
+    "meaning": "Hán tự 連",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "関連",
+        "reading": "かんれん",
+        "meaning": "quan hệ"
+      },
+      {
+        "compound": "連れ",
+        "reading": "つれ",
+        "meaning": "bạn đồng hành"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-24-5",
+    "character": "紹",
+    "onyomi": "ショウ",
+    "kunyomi": "-",
+    "meaning": "THIỆU (chữ Hán THIỆU)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "紹介",
+        "reading": "しょうかい",
+        "meaning": "giới thiệu"
+      },
+      {
+        "compound": "紹介します",
+        "reading": "しょうかいします",
+        "meaning": "giới thiệu"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-24-6",
+    "character": "介",
+    "onyomi": "カイ",
+    "kunyomi": "-",
+    "meaning": "GIỚI (chữ Hán GIỚI)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "厄介",
+        "reading": "やっかい",
+        "meaning": "rắc rối"
+      },
+      {
+        "compound": "紹介",
+        "reading": "しょうかい",
+        "meaning": "giới thiệu"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-24-7",
+    "character": "案",
+    "onyomi": "アン",
+    "kunyomi": "つくえ",
+    "meaning": "Hán tự 案",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "案",
+        "reading": "あん",
+        "meaning": "kế hoạch"
+      },
+      {
+        "compound": "提案",
+        "reading": "ていあん",
+        "meaning": "đề nghị"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-24-8",
+    "character": "内",
+    "onyomi": "ナイ, ダイ",
+    "kunyomi": "うち",
+    "meaning": "NỘI (bên trong, nội bộ)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "内容",
+        "reading": "ないよう",
+        "meaning": "chủ đề"
+      },
+      {
+        "compound": "案内",
+        "reading": "あんない",
+        "meaning": "sự hướng dẫn, chỉ dẫn"
+      }
+    ]
+  }
+]

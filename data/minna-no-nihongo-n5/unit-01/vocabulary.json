@@ -1,0 +1,338 @@
+[
+  {
+    "word": "わたし",
+    "meaning": "tôi",
+    "reading": "わたし",
+    "sinoVietnamese": "",
+    "example": "わたしはマイク・ミラーです。 (Tôi là Mike Miller.)"
+  },
+  {
+    "word": "わたしたち",
+    "meaning": "chúng tôi, chúng ta",
+    "reading": "わたしたち",
+    "sinoVietnamese": "",
+    "example": "わたしたちは日本語学校の学生です。 (Chúng tôi là sinh viên của một trường dạy tiếng Nhật.)"
+  },
+  {
+    "word": "あなた",
+    "meaning": "bạn, anh, chị",
+    "reading": "あなた",
+    "sinoVietnamese": "",
+    "example": "あなたはベトナム人ですか。 (Bạn có phải là người Việt Nam không?.)"
+  },
+  {
+    "word": "あの人",
+    "meaning": "người kia, người đó",
+    "reading": "あのひと",
+    "sinoVietnamese": "NHÂN",
+    "example": "あの人はIMCの社員です。 (Người đó là nhân viên của IMC.)"
+  },
+  {
+    "word": "あの方",
+    "meaning": "vị kia, người kia",
+    "reading": "あのかた",
+    "sinoVietnamese": "PHƯƠNG",
+    "example": "あの方は富士大学の先生です。 (Người đó là giáo sư tại Đại học Fuji.)"
+  },
+  {
+    "word": "皆さん",
+    "meaning": "mọi người, các bạn",
+    "reading": "みなさん",
+    "sinoVietnamese": "",
+    "example": "皆さん、おはようございます。 (Chào buổi sáng mọi người.)"
+  },
+  {
+    "word": "富士大学",
+    "meaning": "đại học fuji",
+    "reading": "ふじだいがく",
+    "sinoVietnamese": "ĐẠI HỌC",
+    "example": "ミラーさんは富士大学の学生ではありません。 (Anh Miller không phải là sinh viên trường Đại học Fuji.)"
+  },
+  {
+    "word": "～さん",
+    "meaning": "anh, chị, ông, bà",
+    "reading": "～さん",
+    "sinoVietnamese": "",
+    "example": "こちらは田中さんです。 (Đây là anh Tanaka.)"
+  },
+  {
+    "word": "～ちゃん",
+    "meaning": "bé",
+    "reading": "～ちゃん",
+    "sinoVietnamese": "",
+    "example": "花子ちゃんはとても可愛いです。 (Bé Hanako rất là dễ thương.)"
+  },
+  {
+    "word": "～君",
+    "meaning": "cậu",
+    "reading": "～くん",
+    "sinoVietnamese": "",
+    "example": "太郎君、一緒にサッカーをしよう。 (Taro ơi, cùng nhau đá bóng nhé.)"
+  },
+  {
+    "word": "～人",
+    "meaning": "người",
+    "reading": "～じん",
+    "sinoVietnamese": "NHÂN",
+    "example": "マイク・ミラーさんはアメリカ人です。 (Anh Mike Miller là người Mỹ.)"
+  },
+  {
+    "word": "先生",
+    "meaning": "thầy giáo, cô giáo, bác sĩ",
+    "reading": "せんせい",
+    "sinoVietnamese": "TIÊN SINH",
+    "example": "体調が悪いなら、お医者さんの先生に診てもらいましょう。 (Nếu thấy người không khỏe thì hãy để bác sĩ khám cho nhé.)"
+  },
+  {
+    "word": "教師",
+    "meaning": "giáo viên, giảng viên",
+    "reading": "きょうし",
+    "sinoVietnamese": "GIÁO",
+    "example": "父は高校の英語の教師をしています。 (Bố tôi là giáo viên dạy tiếng Anh ở trường trung học.)"
+  },
+  {
+    "word": "学生",
+    "meaning": "học sinh, sinh viên",
+    "reading": "がくせい",
+    "sinoVietnamese": "HỌC SINH",
+    "example": "マリアさんはさくら大学の学生です。 (Maria là sinh viên trường Đại học Sakura.)"
+  },
+  {
+    "word": "会社員",
+    "meaning": "nhân viên công ty",
+    "reading": "かいしゃいん",
+    "sinoVietnamese": "HỘI XÃ VIÊN",
+    "example": "山田さんは日本のIT企業の会社員です。 (Anh Yamada là nhân viên của một công ty IT Nhật Bản.)"
+  },
+  {
+    "word": "社員",
+    "meaning": "nhân viên công ty",
+    "reading": "～しゃいん",
+    "sinoVietnamese": "XÃ VIÊN",
+    "example": "シュミットさんはパワー電気の社員です。 (Ông Schmidt là nhân viên của Power Electric.)"
+  },
+  {
+    "word": "銀行員",
+    "meaning": "nhân viên ngân hàng",
+    "reading": "ぎんこういん",
+    "sinoVietnamese": "NGÂN HÀNH VIÊN",
+    "example": "姉は銀行員として働いています。 (Chị gái tôi làm nhân viên ngân hàng.)"
+  },
+  {
+    "word": "医者",
+    "meaning": "bác sĩ",
+    "reading": "いしゃ",
+    "sinoVietnamese": "Y GIẢ",
+    "example": "あの病院には親切な医者がたくさんいます。 (Ở bệnh viện đó có rất nhiều bác sĩ tốt bụng.)"
+  },
+  {
+    "word": "研究者",
+    "meaning": "nhà nghiên cứu",
+    "reading": "けんきゅうしゃ",
+    "sinoVietnamese": "NGHIÊN CỨU GIẢ",
+    "example": "ワンさんは大学で研究者として働いています。 (Ông Vương làm nghiên cứu viên tại một trường đại học.)"
+  },
+  {
+    "word": "エンジニア",
+    "meaning": "kỹ sư",
+    "reading": "エンジニア",
+    "sinoVietnamese": "",
+    "example": "サントスさんは優秀なエンジニアです。 (Ông Santos là một kỹ sư xuất sắc.)"
+  },
+  {
+    "word": "大学",
+    "meaning": "trường đại học",
+    "reading": "だいがく",
+    "sinoVietnamese": "ĐẠI HỌC",
+    "example": "来年、日本の大学に入学したいです。 (Tôi muốn vào một trường đại học Nhật Bản vào năm tới.)"
+  },
+  {
+    "word": "病院",
+    "meaning": "bệnh viện",
+    "reading": "びょういん",
+    "sinoVietnamese": "BỆNH VIỆN",
+    "example": "風邪をひいたので病院へ行きます。 (Tôi bị cảm lạnh nên phải đến bệnh viện.)"
+  },
+  {
+    "word": "電気",
+    "meaning": "điện, đèn điện",
+    "reading": "でんき",
+    "sinoVietnamese": "ĐIỆN KHÍ",
+    "example": "部屋が暗いので電気をつけてください。 (Phòng tối nên hãy bật đèn lên nhé.)"
+  },
+  {
+    "word": "だれ",
+    "meaning": "ai",
+    "reading": "だれ",
+    "sinoVietnamese": "",
+    "example": "あそこにいる親切な人はだれですか。 (Người tốt bụng ở đằng kia là ai?.)"
+  },
+  {
+    "word": "どなた",
+    "meaning": "vị nào",
+    "reading": "どなた",
+    "sinoVietnamese": "",
+    "example": "あちらの親切な方はどなたですか。 (Người tốt bụng ở đằng kia là ai?.)"
+  },
+  {
+    "word": "－歳",
+    "meaning": "～ tuổi",
+    "reading": "～さい",
+    "sinoVietnamese": "",
+    "example": "私は今年二十歳になりました。 (Năm nay tôi vừa tròn 20 tuổi.)"
+  },
+  {
+    "word": "何歳",
+    "meaning": "mấy tuổi",
+    "reading": "なんさい",
+    "sinoVietnamese": "HÀ",
+    "example": "テレサちゃんは何歳になりましたか。 (Teresa bao nhiêu tuổi?.)"
+  },
+  {
+    "word": "おいくつ",
+    "meaning": "bao nhiêu tuổi",
+    "reading": "おいくつ",
+    "sinoVietnamese": "",
+    "example": "失礼ですが、おいくつですか。 (Xin lỗi, nhưng bạn bao nhiêu tuổi?.)"
+  },
+  {
+    "word": "はい",
+    "meaning": "vâng, dạ, đúng vậy",
+    "reading": "はい",
+    "sinoVietnamese": "",
+    "example": "この本はとてもはいので、おすすめです。 (Cuốn sách này rất hay và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "いいえ",
+    "meaning": "không, không phải",
+    "reading": "いいえ",
+    "sinoVietnamese": "",
+    "example": "いいえ、わたしは学生ではありません。 (Không, tôi không phải là sinh viên.)"
+  },
+  {
+    "word": "失礼ですが",
+    "meaning": "xin lỗi, thất lễ nhưng...",
+    "reading": "しつれいですが",
+    "sinoVietnamese": "",
+    "example": "失礼ですが、お名前を教えていただけますか。 (Xin lỗi, nhưng bạn có thể cho tôi biết tên của bạn được không?.)"
+  },
+  {
+    "word": "お名前は？",
+    "meaning": "tên của bạn là gì?",
+    "reading": "おなまえは？",
+    "sinoVietnamese": "DANH TIỀN",
+    "example": "初めまして、お名前は何とおっしゃいますか。 (Rất vui được gặp bạn tên của bạn là gì?.)"
+  },
+  {
+    "word": "初めまして。",
+    "meaning": "rất vui được làm quen",
+    "reading": "はじめまして",
+    "sinoVietnamese": "",
+    "example": "初めまして、どうぞよろしく。 (Rất vui được làm quen với bạn.)"
+  },
+  {
+    "word": "どうぞよろしく[お願いします]。",
+    "meaning": "rất vui được gặp bạn",
+    "reading": "どうぞよろしくおねがいします",
+    "sinoVietnamese": "",
+    "example": "田中です。どうぞよろしくお願いします。 (Đây là Tanaka. Cảm ơn bạn rất nhiều vì sự hỗ trợ của bạn.)"
+  },
+  {
+    "word": "こちらは～さんです",
+    "meaning": "đây là anh/chị/ông/bà ～",
+    "reading": "こちらは～さんです",
+    "sinoVietnamese": "",
+    "example": "こちらは新入社員のワンさんです。 (Đây là anh Wang, nhân viên mới của công ty.)"
+  },
+  {
+    "word": "～からきました",
+    "meaning": "tôi đến từ ～",
+    "reading": "～からきました",
+    "sinoVietnamese": "",
+    "example": "私はベトナムのハノイから来ました。 (Tôi đến từ Hà Nội, Việt Nam.)"
+  },
+  {
+    "word": "アメリカ",
+    "meaning": "nước Mỹ, Hoa Kỳ",
+    "reading": "アメリカ",
+    "sinoVietnamese": "",
+    "example": "ミラーさんはアメリカのニューヨーク出身です。 (Mr. Miller is from New York, USA.)"
+  },
+  {
+    "word": "イギリス",
+    "meaning": "nước Anh",
+    "reading": "イギリス",
+    "sinoVietnamese": "",
+    "example": "ジョンさんはイギリスから来た英語の先生です。 (John is an English teacher from England.)"
+  },
+  {
+    "word": "インド",
+    "meaning": "nước Ấn Độ",
+    "reading": "インド",
+    "sinoVietnamese": "",
+    "example": "ギプタさんはインドの会社で働いています。 (Gipta works for a company in India.)"
+  },
+  {
+    "word": "インドネシア",
+    "meaning": "nước Indonesia",
+    "reading": "インドネシア",
+    "sinoVietnamese": "",
+    "example": "インドネシアは年中暖かくて過ごしやすい国です。 (Indonesia là một đất nước ấm áp và thoải mái quanh năm.)"
+  },
+  {
+    "word": "韓国",
+    "meaning": "Hàn Quốc",
+    "reading": "かんこく",
+    "sinoVietnamese": "QUỐC",
+    "example": "キムさんは韓国のソウルから来ました。 (Ông Kim đến từ Seoul, Hàn Quốc.)"
+  },
+  {
+    "word": "タイ",
+    "meaning": "nước Thái Lan",
+    "reading": "タイ",
+    "sinoVietnamese": "",
+    "example": "来月、友達とタイへ旅行に行く予定です。 (Tôi đang có kế hoạch đi du lịch Thái Lan với bạn bè vào tháng tới.)"
+  },
+  {
+    "word": "中国",
+    "meaning": "Trung Quốc",
+    "reading": "ちゅうごく",
+    "sinoVietnamese": "TRUNG QUỐC",
+    "example": "李さんは中国から来た留学生です。 (Anh Li là du học sinh đến từ Trung Quốc.)"
+  },
+  {
+    "word": "ドイツ",
+    "meaning": "nước Đức",
+    "reading": "ドイツ",
+    "sinoVietnamese": "",
+    "example": "ドイツの車やビールは世界中で有名です。 (Xe ô tô và bia Đức nổi tiếng khắp thế giới.)"
+  },
+  {
+    "word": "日本",
+    "meaning": "Nhật Bản",
+    "reading": "にほん",
+    "sinoVietnamese": "NHẬT BẢN",
+    "example": "わたしは日本のアニメと文化が好きです。 (Tôi thích phim hoạt hình và văn hóa Nhật Bản.)"
+  },
+  {
+    "word": "フランス",
+    "meaning": "nước Pháp",
+    "reading": "フランス",
+    "sinoVietnamese": "",
+    "example": "姉はフランスのパリで料理を勉強しています。 (My sister is studying cooking in Paris, France.)"
+  },
+  {
+    "word": "ブラジル",
+    "meaning": "nước Brazil",
+    "reading": "ブラジル",
+    "sinoVietnamese": "",
+    "example": "サントスさんはブラジルのサンパウロ出身です。 (Ông Santos đến từ Sao Paulo, Brazil.)"
+  },
+  {
+    "word": "さくら大学",
+    "meaning": "đại học sakura",
+    "reading": "さくらだいがく",
+    "sinoVietnamese": "ĐẠI HỌC",
+    "example": "妹はさくら大学で文学を専攻しています。 (Em gái tôi đang học chuyên ngành văn học tại Đại học Sakura.)"
+  }
+]

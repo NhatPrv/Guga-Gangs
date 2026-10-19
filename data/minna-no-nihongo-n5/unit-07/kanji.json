@@ -1,0 +1,137 @@
+[
+  {
+    "id": "k-n5-7-1",
+    "character": "切",
+    "onyomi": "セツ, サイ",
+    "kunyomi": "き.る, -き.る, き.り, -き.り, -ぎ.り, き.れる, -き.れる, き.れ, -き.れ, -ぎ.れ",
+    "meaning": "THIẾT (cắt đứt, thân thiết, cấp bách)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "裏切る",
+        "reading": "うらぎる",
+        "meaning": "phản bội"
+      },
+      {
+        "compound": "切れ",
+        "reading": "きれ",
+        "meaning": "vải"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-7-2",
+    "character": "送",
+    "onyomi": "ソウ",
+    "kunyomi": "おく.る",
+    "meaning": "TỐNG (gửi đi, tiễn đưa)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "見送り",
+        "reading": "みおくり",
+        "meaning": "tiễn một người"
+      },
+      {
+        "compound": "放送",
+        "reading": "ほうそう",
+        "meaning": "phát sóng"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-7-3",
+    "character": "貸",
+    "onyomi": "タイ",
+    "kunyomi": "か.す, か.し-, かし-",
+    "meaning": "THẢI (cho vay, cho mượn)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "貸し",
+        "reading": "かし",
+        "meaning": "tiền vay"
+      },
+      {
+        "compound": "貸す",
+        "reading": "かす",
+        "meaning": "cho vay, cho mượn"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-7-4",
+    "character": "借",
+    "onyomi": "シャク",
+    "kunyomi": "か.りる",
+    "meaning": "TÁ (vay mượn)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "借金",
+        "reading": "しゃっきん",
+        "meaning": "món nợ"
+      },
+      {
+        "compound": "借りる",
+        "reading": "かりる",
+        "meaning": "mượn"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-7-6",
+    "character": "花",
+    "onyomi": "カ, ケ",
+    "kunyomi": "はな",
+    "meaning": "HOA (bông hoa)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "花見",
+        "reading": "はなみ",
+        "meaning": "ngắm hoa anh đào"
+      },
+      {
+        "compound": "花瓶",
+        "reading": "かびん",
+        "meaning": "một cái bình"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-7-7",
+    "character": "荷",
+    "onyomi": "カ",
+    "kunyomi": "に",
+    "meaning": "HÀ (chữ Hán HÀ)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "荷物",
+        "reading": "にもつ",
+        "meaning": "hàng hóa"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-7-8",
+    "character": "物",
+    "onyomi": "ブツ, モツ",
+    "kunyomi": "もの, もの-",
+    "meaning": "VẬT (đồ vật, vạn vật)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "生き物",
+        "reading": "いきもの",
+        "meaning": "sinh vật sống"
+      },
+      {
+        "compound": "穀物",
+        "reading": "こくもつ",
+        "meaning": "ngũ cốc"
+      }
+    ]
+  }
+]

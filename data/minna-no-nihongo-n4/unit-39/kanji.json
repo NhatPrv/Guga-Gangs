@@ -1,0 +1,142 @@
+[
+  {
+    "id": "k39-1",
+    "character": "答",
+    "onyomi": "トウ",
+    "kunyomi": "こた.える, こた.え",
+    "meaning": "ĐÁP (trả lời, đáp án)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "答案",
+        "reading": "とうあん",
+        "meaning": "giấy thi"
+      },
+      {
+        "compound": "答",
+        "reading": "こたえ",
+        "meaning": "phản ứng"
+      }
+    ]
+  },
+  {
+    "id": "k39-2",
+    "character": "倒",
+    "onyomi": "トウ",
+    "kunyomi": "たお.れる, -だお.れ, たお.す, さかさま, さかさ, さかしま",
+    "meaning": "ĐẢO (ngã đổ, sụp đổ)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "倒す",
+        "reading": "たおす",
+        "meaning": "ném xuống"
+      },
+      {
+        "compound": "面倒",
+        "reading": "めんどう",
+        "meaning": "rắc rối"
+      }
+    ]
+  },
+  {
+    "id": "k39-3",
+    "character": "焼",
+    "onyomi": "ショウ",
+    "kunyomi": "や.く, や.き, や.き-, -や.き, や.ける",
+    "meaning": "THIÊU (chữ Hán THIÊU)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "焼く",
+        "reading": "やく",
+        "meaning": "nướng"
+      },
+      {
+        "compound": "焼ける",
+        "reading": "やける",
+        "meaning": "đốt cháy"
+      }
+    ]
+  },
+  {
+    "id": "k39-4",
+    "character": "舞",
+    "onyomi": "ブ",
+    "kunyomi": "ま.う, -ま.う, まい",
+    "meaning": "VŨ (chữ Hán VŨ)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "舞台",
+        "reading": "ぶたい",
+        "meaning": "sân khấu (sân khấu)"
+      },
+      {
+        "compound": "見舞い",
+        "reading": "みまい",
+        "meaning": "cuộc điều tra"
+      }
+    ]
+  },
+  {
+    "id": "k39-7",
+    "character": "肉",
+    "onyomi": "ニク",
+    "kunyomi": "しし",
+    "meaning": "NHỤC (thịt)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "筋肉",
+        "reading": "きんにく",
+        "meaning": "cơ bắp"
+      },
+      {
+        "compound": "牛肉",
+        "reading": "ぎゅうにく",
+        "meaning": "thịt bò"
+      }
+    ]
+  },
+  {
+    "id": "k39-9",
+    "character": "死",
+    "onyomi": "シ",
+    "kunyomi": "し.ぬ, し.に-",
+    "meaning": "TỬ (chữ Hán TỬ)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "死亡",
+        "reading": "しぼう",
+        "meaning": "cái chết"
+      },
+      {
+        "compound": "必死",
+        "reading": "ひっし",
+        "meaning": "cái chết không thể tránh khỏi"
+      }
+    ]
+  },
+  {
+    "id": "k39-10",
+    "character": "安",
+    "onyomi": "アン",
+    "kunyomi": "やす.い, やす.まる, やす, やす.らか",
+    "meaning": "AN (an toàn, rẻ, bình an)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "安定",
+        "reading": "あんてい",
+        "meaning": "sự ổn định"
+      },
+      {
+        "compound": "不安",
+        "reading": "ふあん",
+        "meaning": "lo lắng"
+      }
+    ]
+  }
+]

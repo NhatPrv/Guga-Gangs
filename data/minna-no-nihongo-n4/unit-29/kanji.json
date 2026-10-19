@@ -1,0 +1,122 @@
+[
+  {
+    "id": "k29-4",
+    "character": "込",
+    "onyomi": "-",
+    "kunyomi": "-こ.む, こ.む, こ.み, -こ.み, こ.める",
+    "meaning": "NHẬP (dồn vào, chen vào)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "人込み",
+        "reading": "ひとごみ",
+        "meaning": "đám đông người"
+      },
+      {
+        "compound": "申し込む",
+        "reading": "もうしこむ",
+        "meaning": "nộp đơn xin"
+      }
+    ]
+  },
+  {
+    "id": "k29-5",
+    "character": "壊",
+    "onyomi": "カイ, エ",
+    "kunyomi": "こわ.す, こわ.れる, やぶ.る",
+    "meaning": "Hán tự 壊",
+    "strokes": 16,
+    "examples": [
+      {
+        "compound": "壊す",
+        "reading": "こわす",
+        "meaning": "hỏng, vỡ"
+      },
+      {
+        "compound": "壊れる",
+        "reading": "こわれる",
+        "meaning": "bị phá vỡ"
+      }
+    ]
+  },
+  {
+    "id": "k29-6",
+    "character": "割",
+    "onyomi": "カツ",
+    "kunyomi": "わ.る, わり, わ.り, わ.れる, さ.く",
+    "meaning": "CÁT (chia cắt, vỡ ra)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "役割",
+        "reading": "やくわり",
+        "meaning": "một phần"
+      },
+      {
+        "compound": "割る",
+        "reading": "わる",
+        "meaning": "chia"
+      }
+    ]
+  },
+  {
+    "id": "k29-7",
+    "character": "折",
+    "onyomi": "セツ, シャク",
+    "kunyomi": "お.る, おり, お.り, -お.り, お.れる",
+    "meaning": "CHIẾT (bẻ gãy, gập lại)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "骨折",
+        "reading": "こっせつ",
+        "meaning": "gãy xương"
+      },
+      {
+        "compound": "折る",
+        "reading": "おる",
+        "meaning": "hỏng, vỡ"
+      }
+    ]
+  },
+  {
+    "id": "k29-8",
+    "character": "汚",
+    "onyomi": "オ",
+    "kunyomi": "けが.す, けが.れる, けが.らわしい, よご.す, よご.れる, きたな.い",
+    "meaning": "Hán tự 汚",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "汚染",
+        "reading": "おせん",
+        "meaning": "sự ô nhiễm"
+      },
+      {
+        "compound": "汚れる",
+        "reading": "よごれる",
+        "meaning": "bị bẩn"
+      }
+    ]
+  },
+  {
+    "id": "k29-9",
+    "character": "付",
+    "onyomi": "フ",
+    "kunyomi": "つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき",
+    "meaning": "Hán tự 付",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "追い付く",
+        "reading": "おいつく",
+        "meaning": "vượt qua"
+      },
+      {
+        "compound": "気付く",
+        "reading": "きづく",
+        "meaning": "ý"
+      }
+    ]
+  }
+]

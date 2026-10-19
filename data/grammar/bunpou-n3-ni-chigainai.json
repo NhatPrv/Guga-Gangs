@@ -1,0 +1,91 @@
+{
+  "id": "bunpou-n3-ni-chigainai",
+  "level": "N3",
+  "unitId": "grammar-n3-unit-01",
+  "title": "〜に違いない / 〜に相違ない",
+  "meaning": "Chắc chắn là... / Nhất định là...",
+  "connection": "Thể thường (bỏ だ) + に違いない",
+  "usageNotes": "Diễn tả sự phán đoán với độ tin cậy rất cao của người nói dựa trên trực giác hoặc bằng chứng.",
+  "questions": [
+    {
+      "id": "n3-u1-g2-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "電気が消えていますから、彼はもう寝たに違いない。",
+      "sentenceVi": "Đèn đã tắt rồi nên chắc chắn anh ấy đã ngủ rồi.",
+      "targetGrammar": "〜に違いない",
+      "prompt": "Ý nghĩa của câu phán đoán trên là gì?",
+      "options": [
+        "Phán đoán chắc chắn dựa trên bằng chứng (đèn đã tắt)",
+        "Hỏi xin phép đối phương đi ngủ",
+        "Khuyên đối phương nên đi ngủ",
+        "Cấm không được bật đèn"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜に違いない」 dùng để phán đoán chắc chắn: \"Chắc chắn là...\"."
+    },
+    {
+      "id": "n3-u1-g2-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "夜遅くまで勉強していたから、今日は【　？　】。",
+      "sentenceVi": "Học đến tận khuya nên hôm nay chắc chắn là cậu ấy mệt rồi.",
+      "targetGrammar": "疲れているに違いない",
+      "prompt": "Chọn phán đoán chắc chắn đang mệt:",
+      "options": [
+        "疲れているに違いない",
+        "疲れてはいけない",
+        "疲れてもいい",
+        "疲れたほうがいい"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phán đoán chắc chắn: V-ている + に違いない."
+    },
+    {
+      "id": "n3-u1-g2-q3",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "こんなに美味しいケーキ、有名なお店のものに【　？　】。",
+      "sentenceVi": "Bánh ngon thế này thì chắc chắn là đồ của cửa tiệm nổi tiếng rồi.",
+      "targetGrammar": "違いない",
+      "prompt": "Điền phần còn lại của mẫu phán đoán chắc chắn:",
+      "options": [
+        "違いない",
+        "いけない",
+        "ならない",
+        "かまわない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu câu chuẩn là 〜に違いない."
+    },
+    {
+      "id": "n3-u1-g2-q4",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "鍵が閉まっているから、留守に違いない。",
+      "sentenceVi": "Cửa đang khóa nên chắc chắn là họ vắng nhà rồi.",
+      "targetGrammar": "〜に違いない",
+      "prompt": "Mục đích của câu nói trên là gì?",
+      "options": [
+        "Đưa ra phán đoán chắc chắn họ đi vắng",
+        "Hỏi mượn chìa khóa",
+        "Nhờ người khác khóa cửa",
+        "Cấm vào nhà"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dựa trên việc cửa khóa để phán đoán chắc chắn đối phương đi vắng."
+    },
+    {
+      "id": "n3-u1-g2-q5",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "犯人はあの男に【　？　】。",
+      "sentenceVi": "Thủ phạm chắc chắn là người đàn ông đó.",
+      "targetGrammar": "違いない",
+      "prompt": "Điền dạng phán đoán chắc nịch của cảnh sát:",
+      "options": [
+        "違いない",
+        "いいです",
+        "なりません",
+        "ありません"
+      ],
+      "correctIndex": 0,
+      "explanation": "Danh từ + に違いない ➔ あの男に違いない."
+    }
+  ]
+}

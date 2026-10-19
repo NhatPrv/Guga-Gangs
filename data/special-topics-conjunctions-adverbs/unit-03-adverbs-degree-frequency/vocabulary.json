@@ -1,0 +1,212 @@
+[
+  {
+    "word": "とても",
+    "reading": "とても",
+    "meaning": "rất, vô cùng",
+    "sinoVietnamese": "",
+    "example": "日本の富士山はとても綺麗です。 (Núi Phú Sĩ của Nhật Bản vô cùng đẹp.)"
+  },
+  {
+    "word": "たいへん",
+    "reading": "たいへん",
+    "meaning": "rất nhiều, vô cùng (lịch sự)",
+    "sinoVietnamese": "ĐẠI BIẾN",
+    "example": "昨日は大変お世話になりました。 (Hôm qua tôi đã nhận được sự giúp đỡ rất nhiều từ bạn.)"
+  },
+  {
+    "word": "かなり",
+    "reading": "かなり",
+    "meaning": "khá là, tương đối",
+    "sinoVietnamese": "",
+    "example": "今日の試験はかなり難しかったです。 (Bài thi hôm nay khá là khó.)"
+  },
+  {
+    "word": "ずいぶん",
+    "reading": "ずいぶん",
+    "meaning": "đáng kể, nhiều hơn mong đợi",
+    "sinoVietnamese": "",
+    "example": "しばらく会わない間に、ずいぶん背が伸びましたね。 (Một thời gian không gặp, cậu đã cao lên đáng kể nhỉ.)"
+  },
+  {
+    "word": "すこし",
+    "reading": "すこし",
+    "meaning": "một chút, một ít",
+    "sinoVietnamese": "THIỂU",
+    "example": "日本語が少し話せます。 (Tôi có thể nói được một chút tiếng Nhật.)"
+  },
+  {
+    "word": "ちょっと",
+    "reading": "ちょっと",
+    "meaning": "một chút (văn nói thông dụng)",
+    "sinoVietnamese": "",
+    "example": "ちょっと待ってください。 (Xin hãy chờ tôi một chút.)"
+  },
+  {
+    "word": "もっと",
+    "reading": "もっと",
+    "meaning": "hơn nữa, thêm nữa",
+    "sinoVietnamese": "",
+    "example": "もっと大きい声で話してください。 (Xin hãy nói với giọng to hơn nữa.)"
+  },
+  {
+    "word": "ずっと",
+    "reading": "ずっと",
+    "meaning": "hơn hẳn / suốt từ đó đến giờ",
+    "sinoVietnamese": "",
+    "example": "新幹線は普通電車よりずっと速いです。 (Tàu Shinkansen nhanh hơn hẳn so với tàu thông thường.)"
+  },
+  {
+    "word": "だいたい",
+    "reading": "だいたい",
+    "meaning": "đại khái, hầu như",
+    "sinoVietnamese": "ĐẠI THỂ",
+    "example": "今日の宿題はだいたい終わりました。 (Bài tập hôm nay tôi đã làm đại khái xong rồi.)"
+  },
+  {
+    "word": "ほとんど",
+    "reading": "ほとんど",
+    "meaning": "hầu hết, gần như toàn bộ",
+    "sinoVietnamese": "",
+    "example": "冷蔵庫の中の食べ物はほとんど食べました。 (Thức ăn trong tủ lạnh tôi đã ăn gần hết rồi.)"
+  },
+  {
+    "word": "すっかり",
+    "reading": "すっかり",
+    "meaning": "hoàn toàn, sạch trơn",
+    "sinoVietnamese": "",
+    "example": "桜の花はすっかり散ってしまいました。 (Hoa anh đào đã rụng hoàn toàn sạch trơn rồi.)"
+  },
+  {
+    "word": "ぴったり",
+    "reading": "ぴったり",
+    "meaning": "vừa vặn, khít khao",
+    "sinoVietnamese": "",
+    "example": "この靴は私の足にぴったりです。 (Đôi giày này vừa vặn khít khao với chân tôi.)"
+  },
+  {
+    "word": "いつも",
+    "reading": "いつも",
+    "meaning": "luôn luôn, lúc nào cũng",
+    "sinoVietnamese": "",
+    "example": "父はいつも朝6時に起きます。 (Bố tôi lúc nào cũng thức dậy vào lúc 6 giờ sáng.)"
+  },
+  {
+    "word": "たいてい",
+    "reading": "たいてい",
+    "meaning": "thông thường, phần lớn",
+    "sinoVietnamese": "",
+    "example": "休みの日はたいてい家で本を読んでいます。 (Vào ngày nghỉ, thông thường tôi ở nhà đọc sách.)"
+  },
+  {
+    "word": "よく",
+    "reading": "よく",
+    "meaning": "thường xuyên / rõ ràng",
+    "sinoVietnamese": "",
+    "example": "暇なときはよく友達とカフェに行きます。 (Khi rảnh rỗi tôi thường đi cà phê cùng bạn bè.)"
+  },
+  {
+    "word": "ときどき",
+    "reading": "ときどき",
+    "meaning": "thỉnh thoảng, đôi khi",
+    "sinoVietnamese": "THỜI",
+    "example": "週末は時々家族で外食します。 (Cuối tuần tôi thỉnh thoảng đi ăn ngoài cùng gia đình.)"
+  },
+  {
+    "word": "たまに",
+    "reading": "たまに",
+    "meaning": "hiếm khi, họa hoằn lắm",
+    "sinoVietnamese": "",
+    "example": "映画館にはたまにしか行きません。 (Tôi hiếm khi mới đến rạp chiếu phim.)"
+  },
+  {
+    "word": "あまり",
+    "reading": "あまり",
+    "meaning": "không... lắm (đi với phủ định)",
+    "sinoVietnamese": "",
+    "example": "辛い料理はあまり好きではありません。 (Tôi không thích món ăn cay cho lắm.)"
+  },
+  {
+    "word": "ぜんぜん",
+    "reading": "ぜんぜん",
+    "meaning": "hoàn toàn không (đi với phủ định)",
+    "sinoVietnamese": "TOÀN NHIÊN",
+    "example": "彼の話は全然分かりませんでした。 (Tôi hoàn toàn không hiểu câu chuyện của anh ấy.)"
+  },
+  {
+    "word": "めったに",
+    "reading": "めったに",
+    "meaning": "hầu như không bao giờ (đi với phủ định)",
+    "sinoVietnamese": "",
+    "example": "彼はめったに怒りません。 (Anh ấy hầu như không bao giờ nổi giận.)"
+  },
+  {
+    "word": "決して",
+    "reading": "けっして",
+    "meaning": "tuyệt đối không bao giờ",
+    "sinoVietnamese": "QUYẾT",
+    "example": "この秘密は決して誰にも言いません。 (Bí mật này tôi tuyệt đối không nói cho bất kỳ ai.)"
+  },
+  {
+    "word": "まったく",
+    "reading": "まったく",
+    "meaning": "hoàn toàn không / thực sự là",
+    "sinoVietnamese": "",
+    "example": "最近まったく運動をしていません。 (Dạo gần đây tôi hoàn toàn không tập thể dục.)"
+  },
+  {
+    "word": "ちっとも",
+    "reading": "ちっとも",
+    "meaning": "một chút cũng không",
+    "sinoVietnamese": "",
+    "example": "何回説明されても、ちっとも分かりません。 (Dù được giải thích bao nhiêu lần, tôi vẫn chẳng hiểu một chút nào.)"
+  },
+  {
+    "word": "少しも",
+    "reading": "すこしも",
+    "meaning": "một chút cũng không",
+    "sinoVietnamese": "THIỂU",
+    "example": "夜になっても少しも涼しくなりません。 (Trời đã về đêm rồi mà một chút cũng không mát hơn.)"
+  },
+  {
+    "word": "きわめて",
+    "reading": "きわめて",
+    "meaning": "cực kỳ, vô cùng (văn trang trọng)",
+    "sinoVietnamese": "CỰC",
+    "example": "この問題の解決は極めて重要です。 (Việc giải quyết vấn đề này là cực kỳ quan trọng.)"
+  },
+  {
+    "word": "いっそう",
+    "reading": "いっそう",
+    "meaning": "càng thêm, hơn một bậc",
+    "sinoVietnamese": "NHẤT TẦNG",
+    "example": "雨が止んで、寒さがいっそう厳しくなりました。 (Mưa tạnh, cái lạnh lại càng thêm khắc nghiệt.)"
+  },
+  {
+    "word": "だんだん",
+    "reading": "だんだん",
+    "meaning": "dần dần, từ từ",
+    "sinoVietnamese": "ĐOÀN",
+    "example": "暖かくなって、だんだん春らしくなってきました。 (Trời ấm lên, dần dần đã mang không khí mùa xuân.)"
+  },
+  {
+    "word": "ますます",
+    "reading": "ますます",
+    "meaning": "ngày càng, càng ngày càng",
+    "sinoVietnamese": "",
+    "example": "日本語を勉強すればするほど、ますます面白くなります。 (Càng học tiếng Nhật, tôi lại càng thấy thú vị hơn.)"
+  },
+  {
+    "word": "徐々に",
+    "reading": "じょじょに",
+    "meaning": "chầm chậm, từng bước một",
+    "sinoVietnamese": "TỪ",
+    "example": "病気は徐々に良くなっています。 (Bệnh tình đang dần dần tiến triển tốt lên từng bước.)"
+  },
+  {
+    "word": "一気に",
+    "reading": "いっきに",
+    "meaning": "một mạch, một hơi",
+    "sinoVietnamese": "NHẤT KHÍ",
+    "example": "冷たい水を一気に飲み干しました。 (Tôi uống cạn một hơi cốc nước mát lạnh.)"
+  }
+]

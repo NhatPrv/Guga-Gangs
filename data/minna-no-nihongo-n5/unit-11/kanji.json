@@ -1,0 +1,122 @@
+[
+  {
+    "id": "k-n5-11-2",
+    "character": "日",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, -び, -か",
+    "meaning": "NHẬT (mặt trời, ngày)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "日常",
+        "reading": "にちじょう",
+        "meaning": "bình thường"
+      },
+      {
+        "compound": "日曜",
+        "reading": "にちよう",
+        "meaning": "chủ nhật"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-11-4",
+    "character": "一",
+    "onyomi": "イチ, イツ",
+    "kunyomi": "ひと-, ひと.つ",
+    "meaning": "NHẤT (một, số 1)",
+    "strokes": 1,
+    "examples": [
+      {
+        "compound": "一時",
+        "reading": "いちじ",
+        "meaning": "khoảnh khắc"
+      },
+      {
+        "compound": "一度に",
+        "reading": "いちどに",
+        "meaning": "tất cả cùng một lúc"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-11-5",
+    "character": "二",
+    "onyomi": "ニ, ジ",
+    "kunyomi": "ふた, ふた.つ, ふたたび",
+    "meaning": "NHỊ (hai, số 2)",
+    "strokes": 2,
+    "examples": [
+      {
+        "compound": "二階建て",
+        "reading": "にかいだて",
+        "meaning": "hai tầng"
+      },
+      {
+        "compound": "二",
+        "reading": "に",
+        "meaning": "hai"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-11-6",
+    "character": "三",
+    "onyomi": "サン, ゾウ",
+    "kunyomi": "み, み.つ, みっ.つ",
+    "meaning": "TAM (ba, số 3)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "三",
+        "reading": "さん",
+        "meaning": "ba"
+      },
+      {
+        "compound": "三日",
+        "reading": "みっか",
+        "meaning": "ba ngày"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-11-7",
+    "character": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ, よ.つ, よっ.つ, よん",
+    "meaning": "TỨ (bốn, số 4)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "四",
+        "reading": "し",
+        "meaning": "bốn"
+      },
+      {
+        "compound": "四日",
+        "reading": "よっか",
+        "meaning": "bốn ngày"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-11-8",
+    "character": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ, いつ.つ",
+    "meaning": "NGŨ (năm, số 5)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "五日",
+        "reading": "いつか",
+        "meaning": "năm ngày"
+      },
+      {
+        "compound": "五",
+        "reading": "ご",
+        "meaning": "năm"
+      }
+    ]
+  }
+]

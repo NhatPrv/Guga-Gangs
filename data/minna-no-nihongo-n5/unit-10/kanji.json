@@ -1,0 +1,112 @@
+[
+  {
+    "id": "k-n5-10-1",
+    "character": "男",
+    "onyomi": "ダン, ナン",
+    "kunyomi": "おとこ, お",
+    "meaning": "NAM (nam giới, đàn ông)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "男子",
+        "reading": "だんし",
+        "meaning": "tuổi trẻ"
+      },
+      {
+        "compound": "男",
+        "reading": "おとこ",
+        "meaning": "người đàn ông"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-10-3",
+    "character": "女",
+    "onyomi": "ジョ, ニョ, ニョウ",
+    "kunyomi": "おんな, め",
+    "meaning": "NỮ (nữ giới, phụ nữ)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "少女",
+        "reading": "しょうじょ",
+        "meaning": "con gái"
+      },
+      {
+        "compound": "女王",
+        "reading": "じょおう",
+        "meaning": "nữ hoàng"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-10-4",
+    "character": "子",
+    "onyomi": "シ, ス, ツ",
+    "kunyomi": "こ, -こ, ね",
+    "meaning": "TỬ (đứa trẻ, con cái)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "王子",
+        "reading": "おうじ",
+        "meaning": "hoàng tử"
+      },
+      {
+        "compound": "菓子",
+        "reading": "かし",
+        "meaning": "bánh ngọt"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-10-5",
+    "character": "犬",
+    "onyomi": "ケン",
+    "kunyomi": "いぬ, いぬ-",
+    "meaning": "KHUYỂN (con chó)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "犬",
+        "reading": "いぬ",
+        "meaning": "con chó"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-10-6",
+    "character": "猫",
+    "onyomi": "ビョウ",
+    "kunyomi": "ねこ",
+    "meaning": "MIÊU (chữ Hán MIÊU)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "猫",
+        "reading": "ねこ",
+        "meaning": "con mèo"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-10-7",
+    "character": "木",
+    "onyomi": "ボク, モク",
+    "kunyomi": "き, こ-",
+    "meaning": "MỘC (cây cối, gỗ)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "木曜",
+        "reading": "もくよう",
+        "meaning": "thứ năm"
+      },
+      {
+        "compound": "木綿",
+        "reading": "もめん",
+        "meaning": "bông"
+      }
+    ]
+  }
+]

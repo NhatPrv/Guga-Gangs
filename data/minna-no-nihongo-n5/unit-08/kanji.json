@@ -1,0 +1,142 @@
+[
+  {
+    "id": "k-n5-8-1",
+    "character": "静",
+    "onyomi": "セイ, ジョウ",
+    "kunyomi": "しず-, しず.か, しず.まる, しず.める",
+    "meaning": "TĨNH (yên tĩnh, thanh bình)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "冷静",
+        "reading": "れいせい",
+        "meaning": "bình tĩnh"
+      },
+      {
+        "compound": "静か",
+        "reading": "しずか",
+        "meaning": "yên tĩnh"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-8-2",
+    "character": "有",
+    "onyomi": "ユウ, ウ",
+    "kunyomi": "あ.る",
+    "meaning": "Hán tự 有",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "有効",
+        "reading": "ゆうこう",
+        "meaning": "hiệu lực"
+      },
+      {
+        "compound": "有能",
+        "reading": "ゆうのう",
+        "meaning": "có thể"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-8-3",
+    "character": "名",
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "な, -な",
+    "meaning": "DANH (tên gọi, danh tiếng)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "署名",
+        "reading": "しょめい",
+        "meaning": "chữ ký"
+      },
+      {
+        "compound": "名",
+        "reading": "な",
+        "meaning": "tên"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-8-4",
+    "character": "親",
+    "onyomi": "シン",
+    "kunyomi": "おや, おや-, した.しい, した.しむ",
+    "meaning": "THÂN (cha mẹ, thân thiết)",
+    "strokes": 16,
+    "examples": [
+      {
+        "compound": "親しい",
+        "reading": "したしい",
+        "meaning": "thân mật"
+      },
+      {
+        "compound": "親戚",
+        "reading": "しんせき",
+        "meaning": "tương đối"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-8-6",
+    "character": "元",
+    "onyomi": "ゲン, ガン",
+    "kunyomi": "もと",
+    "meaning": "NGUYÊN (chữ Hán NGUYÊN)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "元",
+        "reading": "もと",
+        "meaning": "nguồn gốc"
+      },
+      {
+        "compound": "元気",
+        "reading": "げんき",
+        "meaning": "khỏe mạnh, hoạt bát"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-8-7",
+    "character": "気",
+    "onyomi": "キ, ケ",
+    "kunyomi": "いき, き",
+    "meaning": "KHÍ (không khí, khí sắc, tinh thần)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "活気",
+        "reading": "かっき",
+        "meaning": "năng lượng"
+      },
+      {
+        "compound": "気温",
+        "reading": "きおん",
+        "meaning": "nhiệt độ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-8-8",
+    "character": "暇",
+    "onyomi": "カ",
+    "kunyomi": "ひま, いとま",
+    "meaning": "HẠ (rảnh rỗi)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "休暇",
+        "reading": "きゅうか",
+        "meaning": "kỳ nghỉ"
+      },
+      {
+        "compound": "暇",
+        "reading": "ひま",
+        "meaning": "thời gian rảnh"
+      }
+    ]
+  }
+]

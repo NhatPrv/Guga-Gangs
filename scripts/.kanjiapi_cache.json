@@ -1,0 +1,3622 @@
+{
+  "政": {
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "まつりごと, まん",
+    "strokes": 9
+  },
+  "表": {
+    "onyomi": "ヒョウ",
+    "kunyomi": "おもて, -おもて, あらわ.す, あらわ.れる, あら.わす",
+    "strokes": 8
+  },
+  "実": {
+    "onyomi": "ジツ, シツ",
+    "kunyomi": "み, みの.る, まこと, みの, みち.る",
+    "strokes": 8
+  },
+  "最": {
+    "onyomi": "サイ, シュ",
+    "kunyomi": "もっと.も, つま",
+    "strokes": 12
+  },
+  "関": {
+    "onyomi": "カン",
+    "kunyomi": "せき, -ぜき, かか.わる, からくり, かんぬき",
+    "strokes": 14
+  },
+  "市": {
+    "onyomi": "シ",
+    "kunyomi": "いち",
+    "strokes": 5
+  },
+  "定": {
+    "onyomi": "テイ, ジョウ",
+    "kunyomi": "さだ.める, さだ.まる, さだ.か",
+    "strokes": 8
+  },
+  "戦": {
+    "onyomi": "セン",
+    "kunyomi": "いくさ, たたか.う, おのの.く, そよ.ぐ, わなな.く",
+    "strokes": 13
+  },
+  "対": {
+    "onyomi": "タイ, ツイ",
+    "kunyomi": "あいて, こた.える, そろ.い, つれあ.い, なら.ぶ, むか.う",
+    "strokes": 7
+  },
+  "民": {
+    "onyomi": "ミン",
+    "kunyomi": "たみ",
+    "strokes": 5
+  },
+  "回": {
+    "onyomi": "カイ, エ",
+    "kunyomi": "まわ.る, -まわ.る, -まわ.り, まわ.す, -まわ.す, まわ.し-, -まわ.し, もとお.る, か.える",
+    "strokes": 6
+  },
+  "相": {
+    "onyomi": "ソウ, ショウ",
+    "kunyomi": "あい-",
+    "strokes": 9
+  },
+  "部": {
+    "onyomi": "ブ",
+    "kunyomi": "-べ",
+    "strokes": 11
+  },
+  "経": {
+    "onyomi": "ケイ, キョウ, キン",
+    "kunyomi": "へ.る, た.つ, たていと, はか.る, のり",
+    "strokes": 11
+  },
+  "米": {
+    "onyomi": "ベイ, マイ, メエトル",
+    "kunyomi": "こめ, よね",
+    "strokes": 6
+  },
+  "制": {
+    "onyomi": "セイ",
+    "kunyomi": "",
+    "strokes": 8
+  },
+  "治": {
+    "onyomi": "ジ, チ",
+    "kunyomi": "おさ.める, おさ.まる, なお.る, なお.す",
+    "strokes": 8
+  },
+  "機": {
+    "onyomi": "キ",
+    "kunyomi": "はた",
+    "strokes": 16
+  },
+  "期": {
+    "onyomi": "キ, ゴ",
+    "kunyomi": "",
+    "strokes": 12
+  },
+  "法": {
+    "onyomi": "ホウ, ハッ, ホッ, フラン",
+    "kunyomi": "のり",
+    "strokes": 8
+  },
+  "当": {
+    "onyomi": "トウ",
+    "kunyomi": "あ.たる, あ.たり, あ.てる, あ.て, まさ.に, まさ.にべし",
+    "strokes": 6
+  },
+  "性": {
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "さが",
+    "strokes": 8
+  },
+  "現": {
+    "onyomi": "ゲン",
+    "kunyomi": "あらわ.れる, あらわ.す, うつつ, うつ.つ",
+    "strokes": 11
+  },
+  "首": {
+    "onyomi": "シュ",
+    "kunyomi": "くび",
+    "strokes": 9
+  },
+  "約": {
+    "onyomi": "ヤク",
+    "kunyomi": "つづ.まる, つづ.める, つづま.やか",
+    "strokes": 9
+  },
+  "都": {
+    "onyomi": "ト, ツ",
+    "kunyomi": "みやこ",
+    "strokes": 11
+  },
+  "化": {
+    "onyomi": "カ, ケ",
+    "kunyomi": "ば.ける, ば.かす, ふ.ける, け.する",
+    "strokes": 4
+  },
+  "平": {
+    "onyomi": "ヘイ, ビョウ, ヒョウ",
+    "kunyomi": "たい.ら, たい.らげる, ひら",
+    "strokes": 5
+  },
+  "的": {
+    "onyomi": "テキ",
+    "kunyomi": "まと",
+    "strokes": 8
+  },
+  "和": {
+    "onyomi": "ワ, オ, カ",
+    "kunyomi": "やわ.らぐ, やわ.らげる, なご.む, なご.やか, あ.える",
+    "strokes": 8
+  },
+  "記": {
+    "onyomi": "キ",
+    "kunyomi": "しる.す",
+    "strokes": 10
+  },
+  "得": {
+    "onyomi": "トク",
+    "kunyomi": "え.る, う.る",
+    "strokes": 11
+  },
+  "活": {
+    "onyomi": "カツ",
+    "kunyomi": "い.きる, い.かす, い.ける",
+    "strokes": 9
+  },
+  "解": {
+    "onyomi": "カイ, ゲ",
+    "kunyomi": "と.く, と.かす, と.ける, ほど.く, ほぐ.す, わか.る, さと.る",
+    "strokes": 13
+  },
+  "権": {
+    "onyomi": "ケン, ゴン",
+    "kunyomi": "おもり, かり, はか.る",
+    "strokes": 15
+  },
+  "共": {
+    "onyomi": "キョウ",
+    "kunyomi": "とも, とも.に, -ども",
+    "strokes": 6
+  },
+  "支": {
+    "onyomi": "シ",
+    "kunyomi": "ささ.える, つか.える, か.う",
+    "strokes": 4
+  },
+  "報": {
+    "onyomi": "ホウ",
+    "kunyomi": "むく.いる",
+    "strokes": 12
+  },
+  "点": {
+    "onyomi": "テン",
+    "kunyomi": "つ.ける, つ.く, た.てる, さ.す, とぼ.す, とも.す, ぼち",
+    "strokes": 9
+  },
+  "指": {
+    "onyomi": "シ",
+    "kunyomi": "ゆび, さ.す, -さ.し",
+    "strokes": 9
+  },
+  "産": {
+    "onyomi": "サン",
+    "kunyomi": "う.む, う.まれる, うぶ-, む.す",
+    "strokes": 11
+  },
+  "初": {
+    "onyomi": "ショ",
+    "kunyomi": "はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め",
+    "strokes": 7
+  },
+  "済": {
+    "onyomi": "サイ, セイ",
+    "kunyomi": "す.む, -ず.み, -ずみ, す.まない, す.ます, -す.ます, すく.う, な.す, わたし, わた.る",
+    "strokes": 11
+  },
+  "進": {
+    "onyomi": "シン",
+    "kunyomi": "すす.む, すす.める",
+    "strokes": 11
+  },
+  "加": {
+    "onyomi": "カ",
+    "kunyomi": "くわ.える, くわ.わる",
+    "strokes": 5
+  },
+  "次": {
+    "onyomi": "ジ, シ",
+    "kunyomi": "つ.ぐ, つぎ",
+    "strokes": 6
+  },
+  "任": {
+    "onyomi": "ニン",
+    "kunyomi": "まか.せる, まか.す",
+    "strokes": 6
+  },
+  "件": {
+    "onyomi": "ケン",
+    "kunyomi": "くだん",
+    "strokes": 6
+  },
+  "利": {
+    "onyomi": "リ",
+    "kunyomi": "き.く",
+    "strokes": 7
+  },
+  "側": {
+    "onyomi": "ソク",
+    "kunyomi": "かわ, がわ, そば",
+    "strokes": 11
+  },
+  "求": {
+    "onyomi": "キュウ, グ",
+    "kunyomi": "もと.める",
+    "strokes": 7
+  },
+  "昨": {
+    "onyomi": "サク",
+    "kunyomi": "",
+    "strokes": 9
+  },
+  "認": {
+    "onyomi": "ニン",
+    "kunyomi": "みと.める, したた.める",
+    "strokes": 14
+  },
+  "在": {
+    "onyomi": "ザイ",
+    "kunyomi": "あ.る",
+    "strokes": 6
+  },
+  "反": {
+    "onyomi": "ハン, ホン, タン, ホ",
+    "kunyomi": "そ.る, そ.らす, かえ.す, かえ.る, -かえ.る",
+    "strokes": 4
+  },
+  "判": {
+    "onyomi": "ハン, バン",
+    "kunyomi": "わか.る",
+    "strokes": 7
+  },
+  "告": {
+    "onyomi": "コク",
+    "kunyomi": "つ.げる",
+    "strokes": 7
+  },
+  "交": {
+    "onyomi": "コウ",
+    "kunyomi": "まじ.わる, まじ.える, ま.じる, まじ.る, ま.ざる, ま.ぜる, -か.う, か.わす, かわ.す, こもごも",
+    "strokes": 6
+  },
+  "資": {
+    "onyomi": "シ",
+    "kunyomi": "",
+    "strokes": 13
+  },
+  "際": {
+    "onyomi": "サイ",
+    "kunyomi": "きわ, -ぎわ",
+    "strokes": 14
+  },
+  "談": {
+    "onyomi": "ダン",
+    "kunyomi": "",
+    "strokes": 15
+  },
+  "歳": {
+    "onyomi": "サイ, セイ",
+    "kunyomi": "とし, とせ, よわい",
+    "strokes": 13
+  },
+  "争": {
+    "onyomi": "ソウ",
+    "kunyomi": "あらそ.う, いか.でか",
+    "strokes": 6
+  },
+  "式": {
+    "onyomi": "シキ",
+    "kunyomi": "",
+    "strokes": 6
+  },
+  "容": {
+    "onyomi": "ヨウ",
+    "kunyomi": "い.れる",
+    "strokes": 10
+  },
+  "必": {
+    "onyomi": "ヒツ",
+    "kunyomi": "かなら.ず",
+    "strokes": 5
+  },
+  "示": {
+    "onyomi": "ジ, シ",
+    "kunyomi": "しめ.す",
+    "strokes": 5
+  },
+  "論": {
+    "onyomi": "ロン",
+    "kunyomi": "あげつら.う",
+    "strokes": 15
+  },
+  "係": {
+    "onyomi": "ケイ",
+    "kunyomi": "かか.る, かかり, -がかり, かか.わる",
+    "strokes": 9
+  },
+  "両": {
+    "onyomi": "リョウ",
+    "kunyomi": "てる, ふたつ",
+    "strokes": 6
+  },
+  "情": {
+    "onyomi": "ジョウ, セイ",
+    "kunyomi": "なさ.け",
+    "strokes": 11
+  },
+  "感": {
+    "onyomi": "カン",
+    "kunyomi": "",
+    "strokes": 13
+  },
+  "官": {
+    "onyomi": "カン",
+    "kunyomi": "",
+    "strokes": 8
+  },
+  "演": {
+    "onyomi": "エン",
+    "kunyomi": "",
+    "strokes": 14
+  },
+  "果": {
+    "onyomi": "カ",
+    "kunyomi": "は.たす, はた.す, -は.たす, は.てる, -は.てる, は.て",
+    "strokes": 8
+  },
+  "可": {
+    "onyomi": "カ, コク",
+    "kunyomi": "-べ.き, -べ.し",
+    "strokes": 5
+  },
+  "身": {
+    "onyomi": "シン",
+    "kunyomi": "み",
+    "strokes": 7
+  },
+  "供": {
+    "onyomi": "キョウ, ク, クウ, グ",
+    "kunyomi": "そな.える, とも, -ども",
+    "strokes": 8
+  },
+  "能": {
+    "onyomi": "ノウ",
+    "kunyomi": "よ.く, あた.う",
+    "strokes": 10
+  },
+  "常": {
+    "onyomi": "ジョウ",
+    "kunyomi": "つね, とこ-",
+    "strokes": 11
+  },
+  "疑": {
+    "onyomi": "ギ",
+    "kunyomi": "うたが.う",
+    "strokes": 14
+  },
+  "球": {
+    "onyomi": "キュウ",
+    "kunyomi": "たま",
+    "strokes": 11
+  },
+  "放": {
+    "onyomi": "ホウ",
+    "kunyomi": "はな.す, -っぱな.し, はな.つ, はな.れる, こ.く, ほう.る",
+    "strokes": 8
+  },
+  "職": {
+    "onyomi": "ショク, ソク",
+    "kunyomi": "",
+    "strokes": 18
+  },
+  "局": {
+    "onyomi": "キョク",
+    "kunyomi": "つぼね",
+    "strokes": 7
+  },
+  "与": {
+    "onyomi": "ヨ",
+    "kunyomi": "あた.える, あずか.る, くみ.する, ともに",
+    "strokes": 3
+  },
+  "流": {
+    "onyomi": "リュウ, ル",
+    "kunyomi": "なが.れる, なが.れ, なが.す, -なが.す",
+    "strokes": 10
+  },
+  "状": {
+    "onyomi": "ジョウ",
+    "kunyomi": "",
+    "strokes": 7
+  },
+  "位": {
+    "onyomi": "イ",
+    "kunyomi": "くらい, ぐらい",
+    "strokes": 7
+  },
+  "構": {
+    "onyomi": "コウ",
+    "kunyomi": "かま.える, かま.う",
+    "strokes": 14
+  },
+  "費": {
+    "onyomi": "ヒ",
+    "kunyomi": "つい.やす, つい.える",
+    "strokes": 12
+  },
+  "警": {
+    "onyomi": "ケイ",
+    "kunyomi": "いまし.める",
+    "strokes": 19
+  },
+  "優": {
+    "onyomi": "ユウ, ウ",
+    "kunyomi": "やさ.しい, すぐ.れる, まさ.る",
+    "strokes": 17
+  },
+  "害": {
+    "onyomi": "ガイ",
+    "kunyomi": "",
+    "strokes": 10
+  },
+  "違": {
+    "onyomi": "イ",
+    "kunyomi": "ちが.う, ちが.い, ちが.える, -ちが.える, たが.う, たが.える",
+    "strokes": 13
+  },
+  "石": {
+    "onyomi": "セキ, シャク, コク",
+    "kunyomi": "いし",
+    "strokes": 5
+  },
+  "断": {
+    "onyomi": "ダン",
+    "kunyomi": "た.つ, ことわ.る, さだ.める",
+    "strokes": 11
+  },
+  "説": {
+    "onyomi": "セツ, ゼイ",
+    "kunyomi": "と.く",
+    "strokes": 14
+  },
+  "規": {
+    "onyomi": "キ",
+    "kunyomi": "",
+    "strokes": 11
+  },
+  "収": {
+    "onyomi": "シュウ",
+    "kunyomi": "おさ.める, おさ.まる",
+    "strokes": 4
+  },
+  "備": {
+    "onyomi": "ビ",
+    "kunyomi": "そな.える, そな.わる, つぶさ.に",
+    "strokes": 12
+  },
+  "神": {
+    "onyomi": "シン, ジン",
+    "kunyomi": "かみ, かん-, こう-",
+    "strokes": 9
+  },
+  "由": {
+    "onyomi": "ユ, ユウ, ユイ",
+    "kunyomi": "よし, よ.る",
+    "strokes": 5
+  },
+  "難": {
+    "onyomi": "ナン",
+    "kunyomi": "かた.い, -がた.い, むずか.しい, むづか.しい, むつか.しい, -にく.い",
+    "strokes": 18
+  },
+  "術": {
+    "onyomi": "ジュツ",
+    "kunyomi": "すべ",
+    "strokes": 11
+  },
+  "景": {
+    "onyomi": "ケイ",
+    "kunyomi": "",
+    "strokes": 12
+  },
+  "労": {
+    "onyomi": "ロウ",
+    "kunyomi": "ろう.する, いたわ.る, いた.ずき, ねぎら, つか.れる, ねぎら.う",
+    "strokes": 7
+  },
+  "商": {
+    "onyomi": "ショウ",
+    "kunyomi": "あきな.う",
+    "strokes": 11
+  },
+  "限": {
+    "onyomi": "ゲン",
+    "kunyomi": "かぎ.る, かぎ.り, -かぎ.り",
+    "strokes": 9
+  },
+  "念": {
+    "onyomi": "ネン",
+    "kunyomi": "",
+    "strokes": 8
+  },
+  "然": {
+    "onyomi": "ゼン, ネン",
+    "kunyomi": "しか, しか.り, しか.し, さ",
+    "strokes": 12
+  },
+  "形": {
+    "onyomi": "ケイ, ギョウ",
+    "kunyomi": "かた, -がた, かたち, なり",
+    "strokes": 7
+  },
+  "助": {
+    "onyomi": "ジョ",
+    "kunyomi": "たす.ける, たす.かる, す.ける, すけ",
+    "strokes": 7
+  },
+  "葉": {
+    "onyomi": "ヨウ",
+    "kunyomi": "は",
+    "strokes": 12
+  },
+  "例": {
+    "onyomi": "レイ",
+    "kunyomi": "たと.える",
+    "strokes": 8
+  },
+  "追": {
+    "onyomi": "ツイ",
+    "kunyomi": "お.う",
+    "strokes": 9
+  },
+  "訪": {
+    "onyomi": "ホウ",
+    "kunyomi": "おとず.れる, たず.ねる, と.う",
+    "strokes": 11
+  },
+  "想": {
+    "onyomi": "ソウ, ソ",
+    "kunyomi": "おも.う",
+    "strokes": 13
+  },
+  "残": {
+    "onyomi": "ザン, サン",
+    "kunyomi": "のこ.る, のこ.す, そこな.う, のこ.り",
+    "strokes": 10
+  },
+  "席": {
+    "onyomi": "セキ",
+    "kunyomi": "むしろ",
+    "strokes": 10
+  },
+  "察": {
+    "onyomi": "サツ",
+    "kunyomi": "",
+    "strokes": 14
+  },
+  "美": {
+    "onyomi": "ビ, ミ",
+    "kunyomi": "うつく.しい",
+    "strokes": 9
+  },
+  "深": {
+    "onyomi": "シン",
+    "kunyomi": "ふか.い, -ぶか.い, ふか.まる, ふか.める, み-",
+    "strokes": 11
+  },
+  "非": {
+    "onyomi": "ヒ",
+    "kunyomi": "あら.ず",
+    "strokes": 8
+  },
+  "観": {
+    "onyomi": "カン",
+    "kunyomi": "み.る, しめ.す",
+    "strokes": 18
+  },
+  "望": {
+    "onyomi": "ボウ, モウ",
+    "kunyomi": "のぞ.む, もち",
+    "strokes": 11
+  },
+  "福": {
+    "onyomi": "フク",
+    "kunyomi": "",
+    "strokes": 13
+  },
+  "頭": {
+    "onyomi": "トウ, ズ, ト",
+    "kunyomi": "あたま, かしら, -がしら, かぶり",
+    "strokes": 16
+  },
+  "種": {
+    "onyomi": "シュ",
+    "kunyomi": "たね, -ぐさ",
+    "strokes": 14
+  },
+  "命": {
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "いのち",
+    "strokes": 8
+  },
+  "若": {
+    "onyomi": "ジャク, ニャク, ニャ",
+    "kunyomi": "わか.い, わか-, も.しくわ, も.し, も.しくは, ごと.し",
+    "strokes": 8
+  },
+  "落": {
+    "onyomi": "ラク",
+    "kunyomi": "お.ちる, お.ち, お.とす",
+    "strokes": 12
+  },
+  "末": {
+    "onyomi": "マツ, バツ",
+    "kunyomi": "すえ, うら, うれ",
+    "strokes": 5
+  },
+  "差": {
+    "onyomi": "サ",
+    "kunyomi": "さ.す, さ.し",
+    "strokes": 10
+  },
+  "段": {
+    "onyomi": "ダン, タン",
+    "kunyomi": "",
+    "strokes": 9
+  },
+  "積": {
+    "onyomi": "セキ",
+    "kunyomi": "つ.む, -づ.み, つ.もる, つ.もり",
+    "strokes": 16
+  },
+  "満": {
+    "onyomi": "マン, バン",
+    "kunyomi": "み.ちる, み.つ, み.たす",
+    "strokes": 12
+  },
+  "科": {
+    "onyomi": "カ",
+    "kunyomi": "",
+    "strokes": 9
+  },
+  "程": {
+    "onyomi": "テイ",
+    "kunyomi": "ほど, -ほど",
+    "strokes": 12
+  },
+  "路": {
+    "onyomi": "ロ, ル",
+    "kunyomi": "-じ, みち",
+    "strokes": 13
+  },
+  "良": {
+    "onyomi": "リョウ",
+    "kunyomi": "よ.い, -よ.い, い.い, -い.い",
+    "strokes": 7
+  },
+  "達": {
+    "onyomi": "タツ, ダ",
+    "kunyomi": "-たち",
+    "strokes": 12
+  },
+  "突": {
+    "onyomi": "トツ, カ",
+    "kunyomi": "つ.く",
+    "strokes": 8
+  },
+  "候": {
+    "onyomi": "コウ",
+    "kunyomi": "そうろう",
+    "strokes": 10
+  },
+  "値": {
+    "onyomi": "チ",
+    "kunyomi": "ね, あたい",
+    "strokes": 10
+  },
+  "光": {
+    "onyomi": "コウ",
+    "kunyomi": "ひか.る, ひかり",
+    "strokes": 6
+  },
+  "財": {
+    "onyomi": "ザイ, サイ, ゾク",
+    "kunyomi": "たから",
+    "strokes": 10
+  },
+  "識": {
+    "onyomi": "シキ",
+    "kunyomi": "し.る, しる.す",
+    "strokes": 19
+  },
+  "港": {
+    "onyomi": "コウ",
+    "kunyomi": "みなと",
+    "strokes": 12
+  },
+  "様": {
+    "onyomi": "ヨウ, ショウ",
+    "kunyomi": "さま, さん",
+    "strokes": 14
+  },
+  "危": {
+    "onyomi": "キ",
+    "kunyomi": "あぶ.ない, あや.うい, あや.ぶむ",
+    "strokes": 6
+  },
+  "客": {
+    "onyomi": "キャク, カク",
+    "kunyomi": "",
+    "strokes": 9
+  },
+  "師": {
+    "onyomi": "シ",
+    "kunyomi": "いくさ",
+    "strokes": 10
+  },
+  "給": {
+    "onyomi": "キュウ",
+    "kunyomi": "たま.う, たも.う, -たま.え",
+    "strokes": 12
+  },
+  "殺": {
+    "onyomi": "サツ, サイ, セツ",
+    "kunyomi": "ころ.す, -ごろ.し, そ.ぐ, あや.める",
+    "strokes": 10
+  },
+  "苦": {
+    "onyomi": "ク",
+    "kunyomi": "くる.しい, -ぐる.しい, くる.しむ, くる.しめる, にが.い, にが.る",
+    "strokes": 8
+  },
+  "易": {
+    "onyomi": "エキ, イ",
+    "kunyomi": "やさ.しい, やす.い",
+    "strokes": 8
+  },
+  "責": {
+    "onyomi": "セキ",
+    "kunyomi": "せ.める",
+    "strokes": 11
+  },
+  "他": {
+    "onyomi": "タ",
+    "kunyomi": "ほか",
+    "strokes": 5
+  },
+  "破": {
+    "onyomi": "ハ",
+    "kunyomi": "やぶ.る, やぶ.れる, わ.れる",
+    "strokes": 10
+  },
+  "完": {
+    "onyomi": "カン",
+    "kunyomi": "",
+    "strokes": 7
+  },
+  "処": {
+    "onyomi": "ショ",
+    "kunyomi": "ところ, -こ, お.る",
+    "strokes": 5
+  },
+  "捕": {
+    "onyomi": "ホ",
+    "kunyomi": "と.らえる, と.らわれる, と.る, とら.える, とら.われる, つか.まえる, つか.まる",
+    "strokes": 10
+  },
+  "否": {
+    "onyomi": "ヒ",
+    "kunyomi": "いな, いや",
+    "strokes": 7
+  },
+  "飛": {
+    "onyomi": "ヒ",
+    "kunyomi": "と.ぶ, と.ばす, -と.ばす",
+    "strokes": 9
+  },
+  "具": {
+    "onyomi": "グ",
+    "kunyomi": "そな.える, つぶさ.に",
+    "strokes": 8
+  },
+  "婦": {
+    "onyomi": "フ",
+    "kunyomi": "よめ",
+    "strokes": 11
+  },
+  "妻": {
+    "onyomi": "サイ",
+    "kunyomi": "つま",
+    "strokes": 8
+  },
+  "王": {
+    "onyomi": "オウ, -ノウ",
+    "kunyomi": "",
+    "strokes": 4
+  },
+  "冷": {
+    "onyomi": "レイ",
+    "kunyomi": "つめ.たい, ひ.える, ひ.や, ひ.ややか, ひ.やす, ひ.やかす, さ.める, さ.ます",
+    "strokes": 7
+  },
+  "余": {
+    "onyomi": "ヨ",
+    "kunyomi": "あま.る, あま.り, あま.す, あんま.り",
+    "strokes": 7
+  },
+  "類": {
+    "onyomi": "ルイ",
+    "kunyomi": "たぐ.い",
+    "strokes": 18
+  },
+  "因": {
+    "onyomi": "イン",
+    "kunyomi": "よ.る, ちな.む",
+    "strokes": 6
+  },
+  "彼": {
+    "onyomi": "ヒ",
+    "kunyomi": "かれ, かの, か.の",
+    "strokes": 8
+  },
+  "愛": {
+    "onyomi": "アイ",
+    "kunyomi": "いと.しい, かな.しい, め.でる, お.しむ, まな",
+    "strokes": 13
+  },
+  "適": {
+    "onyomi": "テキ",
+    "kunyomi": "かな.う",
+    "strokes": 14
+  },
+  "顔": {
+    "onyomi": "ガン",
+    "kunyomi": "かお",
+    "strokes": 18
+  },
+  "馬": {
+    "onyomi": "バ, メ, マ, ボ, モ",
+    "kunyomi": "うま, ま",
+    "strokes": 10
+  },
+  "園": {
+    "onyomi": "エン",
+    "kunyomi": "その",
+    "strokes": 13
+  },
+  "未": {
+    "onyomi": "ミ, ビ",
+    "kunyomi": "いま.だ, ま.だ, ひつじ",
+    "strokes": 5
+  },
+  "努": {
+    "onyomi": "ド",
+    "kunyomi": "つと.める",
+    "strokes": 7
+  },
+  "精": {
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "しら.げる, くわ.しい",
+    "strokes": 14
+  },
+  "罪": {
+    "onyomi": "ザイ",
+    "kunyomi": "つみ",
+    "strokes": 13
+  },
+  "船": {
+    "onyomi": "セン",
+    "kunyomi": "ふね, ふな-",
+    "strokes": 11
+  },
+  "喜": {
+    "onyomi": "キ",
+    "kunyomi": "よろこ.ぶ, よろこ.ばす",
+    "strokes": 12
+  },
+  "婚": {
+    "onyomi": "コン",
+    "kunyomi": "",
+    "strokes": 11
+  },
+  "険": {
+    "onyomi": "ケン",
+    "kunyomi": "けわ.しい",
+    "strokes": 11
+  },
+  "抜": {
+    "onyomi": "バツ, ハツ, ハイ",
+    "kunyomi": "ぬ.く, -ぬ.く, ぬ.き, ぬ.ける, ぬ.かす, ぬ.かる",
+    "strokes": 7
+  },
+  "宿": {
+    "onyomi": "シュク",
+    "kunyomi": "やど, やど.る, やど.す",
+    "strokes": 11
+  },
+  "許": {
+    "onyomi": "キョ",
+    "kunyomi": "ゆる.す, もと",
+    "strokes": 11
+  },
+  "途": {
+    "onyomi": "ト",
+    "kunyomi": "みち",
+    "strokes": 10
+  },
+  "薬": {
+    "onyomi": "ヤク",
+    "kunyomi": "くすり",
+    "strokes": 16
+  },
+  "散": {
+    "onyomi": "サン",
+    "kunyomi": "ち.る, ち.らす, -ち.らす, ち.らかす, ち.らかる, ち.らばる, ばら, ばら.ける",
+    "strokes": 12
+  },
+  "浮": {
+    "onyomi": "フ",
+    "kunyomi": "う.く, う.かれる, う.かぶ, う.かべる",
+    "strokes": 10
+  },
+  "背": {
+    "onyomi": "ハイ",
+    "kunyomi": "せ, せい, そむ.く, そむ.ける",
+    "strokes": 9
+  },
+  "抱": {
+    "onyomi": "ホウ",
+    "kunyomi": "だ.く, いだ.く, かか.える",
+    "strokes": 8
+  },
+  "賛": {
+    "onyomi": "サン",
+    "kunyomi": "たす.ける, たた.える",
+    "strokes": 15
+  },
+  "願": {
+    "onyomi": "ガン",
+    "kunyomi": "ねが.う, -ねがい",
+    "strokes": 19
+  },
+  "犯": {
+    "onyomi": "ハン, ボン",
+    "kunyomi": "おか.す",
+    "strokes": 5
+  },
+  "絶": {
+    "onyomi": "ゼツ",
+    "kunyomi": "た.える, た.やす, た.つ",
+    "strokes": 12
+  },
+  "恐": {
+    "onyomi": "キョウ",
+    "kunyomi": "おそ.れる, おそ.る, おそ.ろしい, こわ.い, こわ.がる",
+    "strokes": 10
+  },
+  "庭": {
+    "onyomi": "テイ",
+    "kunyomi": "にわ",
+    "strokes": 10
+  },
+  "息": {
+    "onyomi": "ソク",
+    "kunyomi": "いき",
+    "strokes": 10
+  },
+  "居": {
+    "onyomi": "キョ, コ",
+    "kunyomi": "い.る, -い, お.る",
+    "strokes": 8
+  },
+  "刻": {
+    "onyomi": "コク",
+    "kunyomi": "きざ.む, きざ.み",
+    "strokes": 8
+  },
+  "等": {
+    "onyomi": "トウ",
+    "kunyomi": "ひと.しい, など, -ら",
+    "strokes": 12
+  },
+  "押": {
+    "onyomi": "オウ",
+    "kunyomi": "お.す, お.し-, お.っ-, お.さえる, おさ.える",
+    "strokes": 8
+  },
+  "更": {
+    "onyomi": "コウ",
+    "kunyomi": "さら, さら.に, ふ.ける, ふ.かす",
+    "strokes": 7
+  },
+  "老": {
+    "onyomi": "ロウ",
+    "kunyomi": "お.いる, ふ.ける",
+    "strokes": 6
+  },
+  "欠": {
+    "onyomi": "ケツ, ケン",
+    "kunyomi": "か.ける, か.く",
+    "strokes": 4
+  },
+  "夢": {
+    "onyomi": "ム, ボウ",
+    "kunyomi": "ゆめ, ゆめ.みる, くら.い",
+    "strokes": 13
+  },
+  "酒": {
+    "onyomi": "シュ",
+    "kunyomi": "さけ, さか-",
+    "strokes": 10
+  },
+  "互": {
+    "onyomi": "ゴ",
+    "kunyomi": "たが.い, かたみ.に",
+    "strokes": 4
+  },
+  "暮": {
+    "onyomi": "ボ",
+    "kunyomi": "く.れる, く.らす",
+    "strokes": 14
+  },
+  "列": {
+    "onyomi": "レツ, レ",
+    "kunyomi": "",
+    "strokes": 6
+  },
+  "束": {
+    "onyomi": "ソク",
+    "kunyomi": "たば, たば.ねる, つか, つか.ねる",
+    "strokes": 7
+  },
+  "似": {
+    "onyomi": "ジ",
+    "kunyomi": "に.る, ひ.る",
+    "strokes": 7
+  },
+  "草": {
+    "onyomi": "ソウ",
+    "kunyomi": "くさ, くさ-, -ぐさ",
+    "strokes": 9
+  },
+  "悲": {
+    "onyomi": "ヒ",
+    "kunyomi": "かな.しい, かな.しむ",
+    "strokes": 12
+  },
+  "欲": {
+    "onyomi": "ヨク",
+    "kunyomi": "ほっ.する, ほ.しい",
+    "strokes": 11
+  },
+  "迷": {
+    "onyomi": "メイ",
+    "kunyomi": "まよ.う",
+    "strokes": 9
+  },
+  "絵": {
+    "onyomi": "カイ, エ",
+    "kunyomi": "",
+    "strokes": 12
+  },
+  "痛": {
+    "onyomi": "ツウ",
+    "kunyomi": "いた.い, いた.む, いた.ましい, いた.める",
+    "strokes": 12
+  },
+  "越": {
+    "onyomi": "エツ, オツ",
+    "kunyomi": "こ.す, -こ.す, -ご.し, こ.える, -ご.え",
+    "strokes": 12
+  },
+  "緒": {
+    "onyomi": "ショ, チョ",
+    "kunyomi": "お, いとぐち",
+    "strokes": 14
+  },
+  "窓": {
+    "onyomi": "ソウ, ス",
+    "kunyomi": "まど, てんまど, けむだし",
+    "strokes": 11
+  },
+  "雪": {
+    "onyomi": "セツ",
+    "kunyomi": "ゆき",
+    "strokes": 11
+  },
+  "畑": {
+    "onyomi": "",
+    "kunyomi": "はた, はたけ, -ばたけ",
+    "strokes": 9
+  },
+  "吹": {
+    "onyomi": "スイ",
+    "kunyomi": "ふ.く",
+    "strokes": 7
+  },
+  "慣": {
+    "onyomi": "カン",
+    "kunyomi": "な.れる, な.らす",
+    "strokes": 14
+  },
+  "娘": {
+    "onyomi": "ジョウ",
+    "kunyomi": "むすめ, こ",
+    "strokes": 10
+  },
+  "晴": {
+    "onyomi": "セイ",
+    "kunyomi": "は.れる, は.れ, は.れ-, -ば.れ, は.らす",
+    "strokes": 12
+  },
+  "陽": {
+    "onyomi": "ヨウ",
+    "kunyomi": "ひ",
+    "strokes": 12
+  },
+  "誤": {
+    "onyomi": "ゴ",
+    "kunyomi": "あやま.る, -あやま.る",
+    "strokes": 14
+  },
+  "御": {
+    "onyomi": "ギョ, ゴ",
+    "kunyomi": "おん-, お-, み-",
+    "strokes": 12
+  },
+  "昔": {
+    "onyomi": "セキ, シャク",
+    "kunyomi": "むかし",
+    "strokes": 8
+  },
+  "暗": {
+    "onyomi": "アン",
+    "kunyomi": "くら.い, くら.む, くれ.る",
+    "strokes": 13
+  },
+  "礼": {
+    "onyomi": "レイ, ライ",
+    "kunyomi": "",
+    "strokes": 5
+  },
+  "盗": {
+    "onyomi": "トウ",
+    "kunyomi": "ぬす.む, ぬす.み",
+    "strokes": 11
+  },
+  "歯": {
+    "onyomi": "シ",
+    "kunyomi": "よわい, は, よわ.い, よわい.する",
+    "strokes": 12
+  },
+  "忙": {
+    "onyomi": "ボウ, モウ",
+    "kunyomi": "いそが.しい, せわ.しい, おそ.れる, うれえるさま",
+    "strokes": 6
+  },
+  "晩": {
+    "onyomi": "バン",
+    "kunyomi": "",
+    "strokes": 12
+  },
+  "寒": {
+    "onyomi": "カン",
+    "kunyomi": "さむ.い",
+    "strokes": 12
+  },
+  "腹": {
+    "onyomi": "フク",
+    "kunyomi": "はら",
+    "strokes": 13
+  },
+  "耳": {
+    "onyomi": "ジ",
+    "kunyomi": "みみ",
+    "strokes": 6
+  },
+  "怒": {
+    "onyomi": "ド, ヌ",
+    "kunyomi": "いか.る, おこ.る",
+    "strokes": 9
+  },
+  "貧": {
+    "onyomi": "ヒン, ビン",
+    "kunyomi": "まず.しい",
+    "strokes": 11
+  },
+  "煙": {
+    "onyomi": "エン",
+    "kunyomi": "けむ.る, けむり, けむ.い",
+    "strokes": 13
+  },
+  "眠": {
+    "onyomi": "ミン",
+    "kunyomi": "ねむ.る, ねむ.い",
+    "strokes": 10
+  },
+  "才": {
+    "onyomi": "サイ",
+    "kunyomi": "",
+    "strokes": 3
+  },
+  "箱": {
+    "onyomi": "ソウ",
+    "kunyomi": "はこ",
+    "strokes": 15
+  },
+  "鳴": {
+    "onyomi": "メイ",
+    "kunyomi": "な.く, な.る, な.らす",
+    "strokes": 14
+  },
+  "髪": {
+    "onyomi": "ハツ",
+    "kunyomi": "かみ",
+    "strokes": 14
+  },
+  "頂": {
+    "onyomi": "チョウ",
+    "kunyomi": "いただ.く, いただき",
+    "strokes": 11
+  },
+  "杯": {
+    "onyomi": "ハイ",
+    "kunyomi": "さかずき",
+    "strokes": 8
+  },
+  "幾": {
+    "onyomi": "キ",
+    "kunyomi": "いく-, いく.つ, いく.ら",
+    "strokes": 12
+  },
+  "恥": {
+    "onyomi": "チ",
+    "kunyomi": "は.じる, はじ, は.じらう, は.ずかしい",
+    "strokes": 10
+  },
+  "諦": {
+    "onyomi": "テイ, タイ",
+    "kunyomi": "あきら.める, つまびらか, まこと",
+    "strokes": 16
+  },
+  "挨": {
+    "onyomi": "アイ",
+    "kunyomi": "ひら.く",
+    "strokes": 10
+  },
+  "膝": {
+    "onyomi": "シツ",
+    "kunyomi": "ひざ",
+    "strokes": 15
+  },
+  "脇": {
+    "onyomi": "キョウ",
+    "kunyomi": "わき, わけ",
+    "strokes": 10
+  },
+  "謎": {
+    "onyomi": "メイ, ベイ",
+    "kunyomi": "なぞ",
+    "strokes": 16
+  },
+  "餌": {
+    "onyomi": "ジ, ニ",
+    "kunyomi": "え, えば, えさ, もち",
+    "strokes": 14
+  },
+  "靴": {
+    "onyomi": "カ",
+    "kunyomi": "くつ",
+    "strokes": 13
+  },
+  "尻": {
+    "onyomi": "コウ",
+    "kunyomi": "しり",
+    "strokes": 5
+  },
+  "鍋": {
+    "onyomi": "カ",
+    "kunyomi": "なべ",
+    "strokes": 17
+  },
+  "偶": {
+    "onyomi": "グウ",
+    "kunyomi": "たま",
+    "strokes": 11
+  },
+  "粧": {
+    "onyomi": "ショウ",
+    "kunyomi": "",
+    "strokes": 12
+  },
+  "頃": {
+    "onyomi": "ケイ, キョウ",
+    "kunyomi": "ころ, ごろ, しばら.く",
+    "strokes": 11
+  },
+  "袖": {
+    "onyomi": "シュウ",
+    "kunyomi": "そで",
+    "strokes": 10
+  },
+  "体": {
+    "onyomi": "タイ, テイ",
+    "kunyomi": "からだ, かたち",
+    "strokes": 7
+  },
+  "明": {
+    "onyomi": "メイ, ミョウ, ミン",
+    "kunyomi": "あ.かり, あか.るい, あか.るむ, あか.らむ, あき.らか, あ.ける, -あ.け, あ.く, あ.くる, あ.かす",
+    "strokes": 8
+  },
+  "京": {
+    "onyomi": "キョウ, ケイ, キン",
+    "kunyomi": "みやこ",
+    "strokes": 8
+  },
+  "代": {
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "か.わる, かわ.る, かわ.り, か.わり, -がわ.り, -が.わり, か.える, よ, しろ",
+    "strokes": 5
+  },
+  "同": {
+    "onyomi": "ドウ",
+    "kunyomi": "おな.じ",
+    "strokes": 6
+  },
+  "地": {
+    "onyomi": "チ, ジ",
+    "kunyomi": "",
+    "strokes": 6
+  },
+  "僅": {
+    "onyomi": "キン, ゴン",
+    "kunyomi": "わず.か",
+    "strokes": 12
+  },
+  "場": {
+    "onyomi": "ジョウ, チョウ",
+    "kunyomi": "ば",
+    "strokes": 12
+  },
+  "力": {
+    "onyomi": "リョク, リキ, リイ",
+    "kunyomi": "ちから",
+    "strokes": 2
+  },
+  "員": {
+    "onyomi": "イン",
+    "kunyomi": "",
+    "strokes": 10
+  },
+  "籠": {
+    "onyomi": "ロウ, ル",
+    "kunyomi": "かご, こ.める, こも.る, こ.む",
+    "strokes": 22
+  },
+  "戚": {
+    "onyomi": "ソク, セキ",
+    "kunyomi": "いた.む, うれ.える, みうち",
+    "strokes": 11
+  },
+  "自": {
+    "onyomi": "ジ, シ",
+    "kunyomi": "みずか.ら, おの.ずから, おの.ずと",
+    "strokes": 6
+  },
+  "溺": {
+    "onyomi": "デキ, ジョウ, ニョウ",
+    "kunyomi": "いばり, おぼ.れる",
+    "strokes": 13
+  },
+  "拶": {
+    "onyomi": "サツ",
+    "kunyomi": "せま.る",
+    "strokes": 9
+  },
+  "画": {
+    "onyomi": "ガ, カク, エ, カイ",
+    "kunyomi": "えが.く, かく.する, かぎ.る, はかりごと, はか.る",
+    "strokes": 8
+  },
+  "以": {
+    "onyomi": "イ",
+    "kunyomi": "もっ.て",
+    "strokes": 5
+  },
+  "特": {
+    "onyomi": "トク",
+    "kunyomi": "",
+    "strokes": 10
+  },
+  "朝": {
+    "onyomi": "チョウ",
+    "kunyomi": "あさ",
+    "strokes": 12
+  },
+  "品": {
+    "onyomi": "ヒン, ホン",
+    "kunyomi": "しな",
+    "strokes": 9
+  },
+  "台": {
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "うてな, われ, つかさ",
+    "strokes": 5
+  },
+  "主": {
+    "onyomi": "シュ, ス, シュウ",
+    "kunyomi": "ぬし, おも, あるじ",
+    "strokes": 5
+  },
+  "海": {
+    "onyomi": "カイ",
+    "kunyomi": "うみ",
+    "strokes": 9
+  },
+  "界": {
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "strokes": 9
+  },
+  "野": {
+    "onyomi": "ヤ, ショ",
+    "kunyomi": "の, の-",
+    "strokes": 11
+  },
+  "重": {
+    "onyomi": "ジュウ, チョウ",
+    "kunyomi": "え, おも.い, おも.り, おも.なう, かさ.ねる, かさ.なる, おも",
+    "strokes": 9
+  },
+  "題": {
+    "onyomi": "ダイ",
+    "kunyomi": "",
+    "strokes": 18
+  },
+  "公": {
+    "onyomi": "コウ, ク",
+    "kunyomi": "おおやけ",
+    "strokes": 4
+  },
+  "度": {
+    "onyomi": "ド, ト, タク",
+    "kunyomi": "たび, -た.い",
+    "strokes": 9
+  },
+  "文": {
+    "onyomi": "ブン, モン",
+    "kunyomi": "ふみ, あや",
+    "strokes": 4
+  },
+  "究": {
+    "onyomi": "キュウ, ク",
+    "kunyomi": "きわ.める",
+    "strokes": 7
+  },
+  "空": {
+    "onyomi": "クウ",
+    "kunyomi": "そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい",
+    "strokes": 8
+  },
+  "映": {
+    "onyomi": "エイ",
+    "kunyomi": "うつ.る, うつ.す, は.える, -ば.え",
+    "strokes": 9
+  },
+  "英": {
+    "onyomi": "エイ",
+    "kunyomi": "はなぶさ",
+    "strokes": 8
+  },
+  "族": {
+    "onyomi": "ゾク",
+    "kunyomi": "",
+    "strokes": 11
+  },
+  "仕": {
+    "onyomi": "シ, ジ",
+    "kunyomi": "つか.える",
+    "strokes": 5
+  },
+  "病": {
+    "onyomi": "ビョウ, ヘイ",
+    "kunyomi": "や.む, -や.み, やまい",
+    "strokes": 10
+  },
+  "町": {
+    "onyomi": "チョウ",
+    "kunyomi": "まち",
+    "strokes": 7
+  },
+  "研": {
+    "onyomi": "ケン",
+    "kunyomi": "と.ぐ",
+    "strokes": 9
+  },
+  "医": {
+    "onyomi": "イ",
+    "kunyomi": "い.やす, い.する, くすし",
+    "strokes": 7
+  },
+  "工": {
+    "onyomi": "コウ, ク, グ",
+    "kunyomi": "",
+    "strokes": 3
+  },
+  "口": {
+    "onyomi": "コウ, ク",
+    "kunyomi": "くち",
+    "strokes": 3
+  },
+  "少": {
+    "onyomi": "ショウ",
+    "kunyomi": "すく.ない, すこ.し",
+    "strokes": 4
+  },
+  "住": {
+    "onyomi": "ジュウ, ヂュウ, チュウ",
+    "kunyomi": "す.む, す.まう, -ず.まい",
+    "strokes": 7
+  },
+  "広": {
+    "onyomi": "コウ",
+    "kunyomi": "ひろ.い, ひろ.まる, ひろ.める, ひろ.がる, ひろ.げる",
+    "strokes": 5
+  },
+  "歩": {
+    "onyomi": "ホ, ブ, フ",
+    "kunyomi": "ある.く, あゆ.む",
+    "strokes": 8
+  },
+  "赤": {
+    "onyomi": "セキ, シャク",
+    "kunyomi": "あか, あか-, あか.い, あか.らむ, あか.らめる",
+    "strokes": 7
+  },
+  "悪": {
+    "onyomi": "アク, オ",
+    "kunyomi": "わる.い, わる-, あ.し, にく.い, -にく.い, ああ, いずくに, いずくんぞ, にく.む",
+    "strokes": 11
+  },
+  "春": {
+    "onyomi": "シュン",
+    "kunyomi": "はる",
+    "strokes": 9
+  },
+  "青": {
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "あお, あお-, あお.い",
+    "strokes": 8
+  },
+  "図": {
+    "onyomi": "ズ, ト",
+    "kunyomi": "え, はか.る",
+    "strokes": 7
+  },
+  "古": {
+    "onyomi": "コ",
+    "kunyomi": "ふる.い, ふる-, -ふる.す",
+    "strokes": 5
+  },
+  "週": {
+    "onyomi": "シュウ",
+    "kunyomi": "",
+    "strokes": 11
+  },
+  "風": {
+    "onyomi": "フウ, フ",
+    "kunyomi": "かぜ, かざ-",
+    "strokes": 9
+  },
+  "黒": {
+    "onyomi": "コク",
+    "kunyomi": "くろ, くろ.ずむ, くろ.い",
+    "strokes": 11
+  },
+  "去": {
+    "onyomi": "キョ, コ",
+    "kunyomi": "さ.る, -さ.る",
+    "strokes": 5
+  },
+  "字": {
+    "onyomi": "ジ",
+    "kunyomi": "あざ, あざな, -な",
+    "strokes": 6
+  },
+  "館": {
+    "onyomi": "カン",
+    "kunyomi": "やかた, たて",
+    "strokes": 16
+  },
+  "夜": {
+    "onyomi": "ヤ",
+    "kunyomi": "よ, よる",
+    "strokes": 8
+  },
+  "写": {
+    "onyomi": "シャ, ジャ",
+    "kunyomi": "うつ.す, うつ.る, うつ-, うつ.し",
+    "strokes": 5
+  },
+  "牛": {
+    "onyomi": "ギュウ",
+    "kunyomi": "うし",
+    "strokes": 4
+  },
+  "旅": {
+    "onyomi": "リョ",
+    "kunyomi": "たび",
+    "strokes": 10
+  },
+  "昼": {
+    "onyomi": "チュウ",
+    "kunyomi": "ひる",
+    "strokes": 9
+  },
+  "弟": {
+    "onyomi": "テイ, ダイ, デ",
+    "kunyomi": "おとうと",
+    "strokes": 7
+  },
+  "冬": {
+    "onyomi": "トウ",
+    "kunyomi": "ふゆ",
+    "strokes": 5
+  },
+  "茶": {
+    "onyomi": "チャ, サ",
+    "kunyomi": "",
+    "strokes": 9
+  },
+  "秋": {
+    "onyomi": "シュウ",
+    "kunyomi": "あき, とき",
+    "strokes": 9
+  },
+  "服": {
+    "onyomi": "フク",
+    "kunyomi": "",
+    "strokes": 8
+  },
+  "夕": {
+    "onyomi": "セキ",
+    "kunyomi": "ゆう",
+    "strokes": 3
+  },
+  "飯": {
+    "onyomi": "ハン",
+    "kunyomi": "めし",
+    "strokes": 12
+  },
+  "曜": {
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "strokes": 18
+  },
+  "夏": {
+    "onyomi": "カ, ガ, ゲ",
+    "kunyomi": "なつ",
+    "strokes": 10
+  },
+  "色": {
+    "onyomi": "ショク, シキ",
+    "kunyomi": "いろ",
+    "strokes": 6
+  },
+  "屋": {
+    "onyomi": "オク",
+    "kunyomi": "や",
+    "strokes": 9
+  },
+  "洋": {
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "strokes": 9
+  },
+  "中": {
+    "onyomi": "チュウ",
+    "kunyomi": "なか, うち, あた.る",
+    "strokes": 4
+  },
+  "月": {
+    "onyomi": "ゲツ, ガツ",
+    "kunyomi": "つき",
+    "strokes": 4
+  },
+  "長": {
+    "onyomi": "チョウ",
+    "kunyomi": "なが.い, おさ",
+    "strokes": 8
+  },
+  "凄": {
+    "onyomi": "セイ, サイ",
+    "kunyomi": "さむ.い, すご.い, すさ.まじい",
+    "strokes": 10
+  },
+  "漢": {
+    "onyomi": "カン",
+    "kunyomi": "",
+    "strokes": 13
+  },
+  "痩": {
+    "onyomi": "ソウ, チュウ, シュウ, シュ",
+    "kunyomi": "や.せる",
+    "strokes": 12
+  },
+  "年": {
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "strokes": 6
+  },
+  "坊": {
+    "onyomi": "ボウ, ボッ",
+    "kunyomi": "",
+    "strokes": 7
+  },
+  "十": {
+    "onyomi": "ジュウ, ジッ, ジュッ",
+    "kunyomi": "とお, と, そ",
+    "strokes": 2
+  },
+  "時": {
+    "onyomi": "ジ",
+    "kunyomi": "とき, -どき",
+    "strokes": 10
+  },
+  "姉": {
+    "onyomi": "シ",
+    "kunyomi": "あね, はは",
+    "strokes": 8
+  },
+  "妹": {
+    "onyomi": "マイ",
+    "kunyomi": "いもうと",
+    "strokes": 8
+  },
+  "国": {
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "strokes": 8
+  },
+  "兄": {
+    "onyomi": "ケイ, キョウ",
+    "kunyomi": "あに",
+    "strokes": 5
+  },
+  "魚": {
+    "onyomi": "ギョ",
+    "kunyomi": "うお, さかな, -ざかな",
+    "strokes": 11
+  },
+  "七": {
+    "onyomi": "シチ",
+    "kunyomi": "なな, なな.つ, なの",
+    "strokes": 2
+  },
+  "山": {
+    "onyomi": "サン, セン",
+    "kunyomi": "やま",
+    "strokes": 3
+  },
+  "小": {
+    "onyomi": "ショウ",
+    "kunyomi": "ちい.さい, こ-, お-, さ-",
+    "strokes": 3
+  },
+  "金": {
+    "onyomi": "キン, コン, ゴン",
+    "kunyomi": "かね, かな-, -がね",
+    "strokes": 8
+  },
+  "外": {
+    "onyomi": "ガイ, ゲ",
+    "kunyomi": "そと, ほか, はず.す, はず.れる, と-",
+    "strokes": 5
+  },
+  "円": {
+    "onyomi": "エン",
+    "kunyomi": "まる.い, まる, まど, まど.か, まろ.やか",
+    "strokes": 4
+  },
+  "九": {
+    "onyomi": "キュウ, ク",
+    "kunyomi": "ここの, ここの.つ",
+    "strokes": 2
+  },
+  "前": {
+    "onyomi": "ゼン",
+    "kunyomi": "まえ, -まえ",
+    "strokes": 9
+  },
+  "高": {
+    "onyomi": "コウ",
+    "kunyomi": "たか.い, たか, -だか, たか.まる, たか.める",
+    "strokes": 10
+  },
+  "八": {
+    "onyomi": "ハチ, ハツ",
+    "kunyomi": "や, や.つ, やっ.つ, よう",
+    "strokes": 2
+  },
+  "後": {
+    "onyomi": "ゴ, コウ",
+    "kunyomi": "のち, うし.ろ, うしろ, あと, おく.れる",
+    "strokes": 9
+  },
+  "今": {
+    "onyomi": "コン, キン",
+    "kunyomi": "いま",
+    "strokes": 4
+  },
+  "東": {
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "strokes": 8
+  },
+  "間": {
+    "onyomi": "カン, ケン",
+    "kunyomi": "あいだ, ま, あい",
+    "strokes": 12
+  },
+  "六": {
+    "onyomi": "ロク, リク",
+    "kunyomi": "む, む.つ, むっ.つ, むい",
+    "strokes": 4
+  },
+  "南": {
+    "onyomi": "ナン, ナ",
+    "kunyomi": "みなみ",
+    "strokes": 9
+  },
+  "無": {
+    "onyomi": "ム, ブ",
+    "kunyomi": "な.い",
+    "strokes": 12
+  },
+  "何": {
+    "onyomi": "カ",
+    "kunyomi": "なに, なん, なに-, なん-",
+    "strokes": 7
+  },
+  "北": {
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "strokes": 5
+  },
+  "土": {
+    "onyomi": "ド, ト",
+    "kunyomi": "つち",
+    "strokes": 3
+  },
+  "万": {
+    "onyomi": "マン, バン",
+    "kunyomi": "よろず",
+    "strokes": 3
+  },
+  "水": {
+    "onyomi": "スイ",
+    "kunyomi": "みず, みず-",
+    "strokes": 4
+  },
+  "語": {
+    "onyomi": "ゴ",
+    "kunyomi": "かた.る, かた.らう",
+    "strokes": 14
+  },
+  "西": {
+    "onyomi": "セイ, サイ, ス",
+    "kunyomi": "にし",
+    "strokes": 6
+  },
+  "川": {
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "strokes": 3
+  },
+  "千": {
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "strokes": 3
+  },
+  "百": {
+    "onyomi": "ヒャク, ビャク",
+    "kunyomi": "もも",
+    "strokes": 6
+  },
+  "先": {
+    "onyomi": "セン",
+    "kunyomi": "さき, ま.ず",
+    "strokes": 6
+  },
+  "半": {
+    "onyomi": "ハン",
+    "kunyomi": "なか.ば",
+    "strokes": 5
+  },
+  "午": {
+    "onyomi": "ゴ",
+    "kunyomi": "うま",
+    "strokes": 4
+  },
+  "天": {
+    "onyomi": "テン",
+    "kunyomi": "あまつ, あめ, あま-",
+    "strokes": 4
+  },
+  "探": {
+    "onyomi": "タン",
+    "kunyomi": "さぐ.る, さが.す",
+    "strokes": 11
+  },
+  "左": {
+    "onyomi": "サ, シャ",
+    "kunyomi": "ひだり",
+    "strokes": 5
+  },
+  "丈": {
+    "onyomi": "ジョウ",
+    "kunyomi": "たけ, だけ",
+    "strokes": 3
+  },
+  "診": {
+    "onyomi": "シン",
+    "kunyomi": "み.る",
+    "strokes": 12
+  },
+  "毎": {
+    "onyomi": "マイ",
+    "kunyomi": "ごと, -ごと.に",
+    "strokes": 6
+  },
+  "誰": {
+    "onyomi": "スイ",
+    "kunyomi": "だれ, たれ, た",
+    "strokes": 15
+  },
+  "貼": {
+    "onyomi": "テン, チョウ",
+    "kunyomi": "は.る, つ.く",
+    "strokes": 12
+  },
+  "捜": {
+    "onyomi": "ソウ, シュ, シュウ",
+    "kunyomi": "さが.す",
+    "strokes": 10
+  },
+  "父": {
+    "onyomi": "フ",
+    "kunyomi": "ちち",
+    "strokes": 4
+  },
+  "火": {
+    "onyomi": "カ",
+    "kunyomi": "ひ, -び, ほ-",
+    "strokes": 4
+  },
+  "雨": {
+    "onyomi": "ウ",
+    "kunyomi": "あめ, あま-, -さめ",
+    "strokes": 8
+  },
+  "友": {
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "strokes": 4
+  },
+  "母": {
+    "onyomi": "ボ",
+    "kunyomi": "はは, も",
+    "strokes": 5
+  },
+  "白": {
+    "onyomi": "ハク, ビャク",
+    "kunyomi": "しろ, しら-, しろ.い",
+    "strokes": 5
+  },
+  "波": {
+    "onyomi": "ハ",
+    "kunyomi": "なみ",
+    "strokes": 8
+  },
+  "真": {
+    "onyomi": "シン",
+    "kunyomi": "ま, ま-, まこと",
+    "strokes": 10
+  },
+  "熱": {
+    "onyomi": "ネツ",
+    "kunyomi": "あつ.い",
+    "strokes": 15
+  },
+  "建": {
+    "onyomi": "ケン, コン",
+    "kunyomi": "た.てる, た.て, -だ.て, た.つ",
+    "strokes": 9
+  },
+  "鳥": {
+    "onyomi": "チョウ",
+    "kunyomi": "とり",
+    "strokes": 11
+  },
+  "通": {
+    "onyomi": "ツウ, ツ",
+    "kunyomi": "とお.る, とお.り, -とお.り, -どお.り, とお.す, とお.し, -どお.し, かよ.う",
+    "strokes": 10
+  },
+  "選": {
+    "onyomi": "セン",
+    "kunyomi": "えら.ぶ, え.る, よ.る",
+    "strokes": 15
+  },
+  "面": {
+    "onyomi": "メン, ベン",
+    "kunyomi": "おも, おもて, つら",
+    "strokes": 9
+  },
+  "議": {
+    "onyomi": "ギ",
+    "kunyomi": "",
+    "strokes": 20
+  },
+  "目": {
+    "onyomi": "モク, ボク",
+    "kunyomi": "め, -め, ま-",
+    "strokes": 5
+  },
+  "走": {
+    "onyomi": "ソウ",
+    "kunyomi": "はし.る",
+    "strokes": 7
+  },
+  "心": {
+    "onyomi": "シン",
+    "kunyomi": "こころ, -ごころ",
+    "strokes": 4
+  },
+  "踊": {
+    "onyomi": "ヨウ",
+    "kunyomi": "おど.る",
+    "strokes": 14
+  },
+  "飼": {
+    "onyomi": "シ",
+    "kunyomi": "か.う",
+    "strokes": 13
+  },
+  "合": {
+    "onyomi": "ゴウ, ガッ, カッ",
+    "kunyomi": "あ.う, -あ.う, あ.い, あい-, -あ.い, -あい, あ.わす, あ.わせる, -あ.わせる",
+    "strokes": 6
+  },
+  "決": {
+    "onyomi": "ケツ",
+    "kunyomi": "き.める, -ぎ.め, き.まる, さ.く",
+    "strokes": 7
+  },
+  "植": {
+    "onyomi": "ショク",
+    "kunyomi": "う.える, う.わる",
+    "strokes": 12
+  },
+  "祖": {
+    "onyomi": "ソ",
+    "kunyomi": "",
+    "strokes": 9
+  },
+  "掛": {
+    "onyomi": "カイ, ケイ",
+    "kunyomi": "か.ける, -か.ける, か.け, -か.け, -が.け, か.かる, -か.かる, -が.かる, か.かり, -が.かり, かかり, -がかり",
+    "strokes": 11
+  },
+  "付": {
+    "onyomi": "フ",
+    "kunyomi": "つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき",
+    "strokes": 5
+  },
+  "並": {
+    "onyomi": "ヘイ, ホウ",
+    "kunyomi": "な.み, なみ, なら.べる, なら.ぶ, なら.びに",
+    "strokes": 8
+  },
+  "折": {
+    "onyomi": "セツ, シャク",
+    "kunyomi": "お.る, おり, お.り, -お.り, お.れる",
+    "strokes": 7
+  },
+  "横": {
+    "onyomi": "オウ",
+    "kunyomi": "よこ",
+    "strokes": 15
+  },
+  "汚": {
+    "onyomi": "オ",
+    "kunyomi": "けが.す, けが.れる, けが.らわしい, よご.す, よご.れる, きたな.い",
+    "strokes": 6
+  },
+  "飾": {
+    "onyomi": "ショク",
+    "kunyomi": "かざ.る, かざ.り",
+    "strokes": 13
+  },
+  "戻": {
+    "onyomi": "レイ",
+    "kunyomi": "もど.す, もど.る",
+    "strokes": 7
+  },
+  "偉": {
+    "onyomi": "イ",
+    "kunyomi": "えら.い",
+    "strokes": 12
+  },
+  "込": {
+    "onyomi": "",
+    "kunyomi": "-こ.む, こ.む, こ.み, -こ.み, こ.める",
+    "strokes": 5
+  },
+  "割": {
+    "onyomi": "カツ",
+    "kunyomi": "わ.る, わり, わ.り, わ.れる, さ.く",
+    "strokes": 12
+  },
+  "壊": {
+    "onyomi": "カイ, エ",
+    "kunyomi": "こわ.す, こわ.れる, やぶ.る",
+    "strokes": 16
+  },
+  "逃": {
+    "onyomi": "トウ",
+    "kunyomi": "に.げる, に.がす, のが.す, のが.れる",
+    "strokes": 9
+  },
+  "験": {
+    "onyomi": "ケン, ゲン",
+    "kunyomi": "あかし, しるし, ため.す, ためし",
+    "strokes": 18
+  },
+  "試": {
+    "onyomi": "シ",
+    "kunyomi": "こころ.みる, ため.す",
+    "strokes": 13
+  },
+  "格": {
+    "onyomi": "カク, コウ, キャク, ゴウ",
+    "kunyomi": "",
+    "strokes": 10
+  },
+  "始": {
+    "onyomi": "シ",
+    "kunyomi": "はじ.める, -はじ.める, はじ.まる",
+    "strokes": 8
+  },
+  "憩": {
+    "onyomi": "ケイ",
+    "kunyomi": "いこ.い, いこ.う",
+    "strokes": 16
+  },
+  "失": {
+    "onyomi": "シツ",
+    "kunyomi": "うしな.う, う.せる",
+    "strokes": 5
+  },
+  "功": {
+    "onyomi": "コウ, ク",
+    "kunyomi": "いさお",
+    "strokes": 5
+  },
+  "成": {
+    "onyomi": "セイ, ジョウ",
+    "kunyomi": "な.る, な.す, -な.す",
+    "strokes": 6
+  },
+  "業": {
+    "onyomi": "ギョウ, ゴウ",
+    "kunyomi": "わざ",
+    "strokes": 13
+  },
+  "動": {
+    "onyomi": "ドウ",
+    "kunyomi": "うご.く, うご.かす",
+    "strokes": 11
+  },
+  "卒": {
+    "onyomi": "ソツ, シュツ",
+    "kunyomi": "そっ.する, お.える, お.わる, ついに, にわか",
+    "strokes": 8
+  },
+  "続": {
+    "onyomi": "ゾク, ショク, コウ, キョウ",
+    "kunyomi": "つづ.く, つづ.ける, つぐ.ない",
+    "strokes": 13
+  },
+  "敗": {
+    "onyomi": "ハイ",
+    "kunyomi": "やぶ.れる",
+    "strokes": 11
+  },
+  "受": {
+    "onyomi": "ジュ",
+    "kunyomi": "う.ける, -う.け, う.かる",
+    "strokes": 8
+  },
+  "拾": {
+    "onyomi": "シュウ, ジュウ",
+    "kunyomi": "ひろ.う",
+    "strokes": 9
+  },
+  "変": {
+    "onyomi": "ヘン",
+    "kunyomi": "か.わる, か.わり, か.える",
+    "strokes": 9
+  },
+  "質": {
+    "onyomi": "シツ, シチ, チ",
+    "kunyomi": "たち, ただ.す, もと, わりふ",
+    "strokes": 15
+  },
+  "注": {
+    "onyomi": "チュウ",
+    "kunyomi": "そそ.ぐ, さ.す, つ.ぐ",
+    "strokes": 8
+  },
+  "咲": {
+    "onyomi": "ショウ",
+    "kunyomi": "さ.く, -ざき",
+    "strokes": 9
+  },
+  "組": {
+    "onyomi": "ソ",
+    "kunyomi": "く.む, くみ, -ぐみ",
+    "strokes": 11
+  },
+  "問": {
+    "onyomi": "モン",
+    "kunyomi": "と.う, と.い, とん",
+    "strokes": 11
+  },
+  "伝": {
+    "onyomi": "デン, テン",
+    "kunyomi": "つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて",
+    "strokes": 6
+  },
+  "磨": {
+    "onyomi": "マ",
+    "kunyomi": "みが.く, す.る",
+    "strokes": 16
+  },
+  "投": {
+    "onyomi": "トウ",
+    "kunyomi": "な.げる, -な.げ",
+    "strokes": 7
+  },
+  "意": {
+    "onyomi": "イ",
+    "kunyomi": "",
+    "strokes": 13
+  },
+  "細": {
+    "onyomi": "サイ",
+    "kunyomi": "ほそ.い, ほそ.る, こま.か, こま.かい",
+    "strokes": 11
+  },
+  "困": {
+    "onyomi": "コン",
+    "kunyomi": "こま.る",
+    "strokes": 7
+  },
+  "守": {
+    "onyomi": "シュ, ス",
+    "kunyomi": "まも.る, まも.り, もり, -もり, かみ",
+    "strokes": 6
+  },
+  "騒": {
+    "onyomi": "ソウ",
+    "kunyomi": "さわ.ぐ, うれい, さわ.がしい",
+    "strokes": 18
+  },
+  "頼": {
+    "onyomi": "ライ",
+    "kunyomi": "たの.む, たの.もしい, たよ.る",
+    "strokes": 16
+  },
+  "過": {
+    "onyomi": "カ",
+    "kunyomi": "す.ぎる, す.ごす, あやま.ち, あやま.つ, よぎ.る, よ.ぎる",
+    "strokes": 12
+  },
+  "招": {
+    "onyomi": "ショウ",
+    "kunyomi": "まね.く",
+    "strokes": 8
+  },
+  "向": {
+    "onyomi": "コウ",
+    "kunyomi": "む.く, む.い, -む.き, む.ける, -む.け, む.かう, む.かい, む.こう, む.こう-, むこ, むか.い",
+    "strokes": 6
+  },
+  "軟": {
+    "onyomi": "ナン",
+    "kunyomi": "やわ.らか, やわ.らかい",
+    "strokes": 11
+  },
+  "珍": {
+    "onyomi": "チン",
+    "kunyomi": "めずら.しい, たから",
+    "strokes": 9
+  },
+  "届": {
+    "onyomi": "カイ",
+    "kunyomi": "とど.ける, -とど.け, とど.く",
+    "strokes": 8
+  },
+  "彫": {
+    "onyomi": "チョウ",
+    "kunyomi": "ほ.る, -ぼ.り",
+    "strokes": 11
+  },
+  "褒": {
+    "onyomi": "ホウ",
+    "kunyomi": "ほ.める",
+    "strokes": 15
+  },
+  "楽": {
+    "onyomi": "ガク, ラク, ゴウ",
+    "kunyomi": "たの.しい, たの.しむ, この.む",
+    "strokes": 13
+  },
+  "固": {
+    "onyomi": "コ",
+    "kunyomi": "かた.める, かた.まる, かた.まり, かた.い",
+    "strokes": 8
+  },
+  "正": {
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "ただ.しい, ただ.す, まさ, まさ.に",
+    "strokes": 5
+  },
+  "誘": {
+    "onyomi": "ユウ",
+    "kunyomi": "さそ.う, いざな.う",
+    "strokes": 14
+  },
+  "太": {
+    "onyomi": "タイ, タ",
+    "kunyomi": "ふと.い, ふと.る",
+    "strokes": 4
+  },
+  "打": {
+    "onyomi": "ダ, ダース",
+    "kunyomi": "う.つ, う.ち-, ぶ.つ",
+    "strokes": 5
+  },
+  "量": {
+    "onyomi": "リョウ",
+    "kunyomi": "はか.る",
+    "strokes": 12
+  },
+  "測": {
+    "onyomi": "ソク",
+    "kunyomi": "はか.る",
+    "strokes": 12
+  },
+  "数": {
+    "onyomi": "スウ, ス, サク, ソク, シュ",
+    "kunyomi": "かず, かぞ.える, しばしば, せ.める, わずらわ.しい",
+    "strokes": 13
+  },
+  "倒": {
+    "onyomi": "トウ",
+    "kunyomi": "たお.れる, -だお.れ, たお.す, さかさま, さかさ, さかしま",
+    "strokes": 10
+  },
+  "肉": {
+    "onyomi": "ニク",
+    "kunyomi": "しし",
+    "strokes": 6
+  },
+  "死": {
+    "onyomi": "シ",
+    "kunyomi": "し.ぬ, し.に-",
+    "strokes": 6
+  },
+  "踏": {
+    "onyomi": "トウ",
+    "kunyomi": "ふ.む, ふ.まえる",
+    "strokes": 15
+  },
+  "焼": {
+    "onyomi": "ショウ",
+    "kunyomi": "や.く, や.き, や.き-, -や.き, や.ける",
+    "strokes": 12
+  },
+  "退": {
+    "onyomi": "タイ",
+    "kunyomi": "しりぞ.く, しりぞ.ける, ひ.く, の.く, の.ける, ど.く",
+    "strokes": 9
+  },
+  "舞": {
+    "onyomi": "ブ",
+    "kunyomi": "ま.う, -ま.う, まい",
+    "strokes": 15
+  },
+  "答": {
+    "onyomi": "トウ",
+    "kunyomi": "こた.える, こた.え",
+    "strokes": 12
+  },
+  "院": {
+    "onyomi": "イン",
+    "kunyomi": "",
+    "strokes": 10
+  },
+  "育": {
+    "onyomi": "イク",
+    "kunyomi": "そだ.つ, そだ.ち, そだ.てる, はぐく.む",
+    "strokes": 8
+  },
+  "安": {
+    "onyomi": "アン",
+    "kunyomi": "やす.い, やす.まる, やす, やす.らか",
+    "strokes": 6
+  },
+  "亡": {
+    "onyomi": "ボウ, モウ",
+    "kunyomi": "な.い, な.き-, ほろ.びる, ほろ.ぶ, ほろ.ぼす",
+    "strokes": 3
+  },
+  "弁": {
+    "onyomi": "ベン, ヘン",
+    "kunyomi": "かんむり, わきま.える, わ.ける, はなびら, あらそ.う",
+    "strokes": 5
+  },
+  "計": {
+    "onyomi": "ケイ",
+    "kunyomi": "はか.る, はか.らう",
+    "strokes": 9
+  },
+  "薄": {
+    "onyomi": "ハク",
+    "kunyomi": "うす.い, うす-, -うす, うす.める, うす.まる, うす.らぐ, うす.ら-, うす.れる, すすき",
+    "strokes": 16
+  },
+  "確": {
+    "onyomi": "カク, コウ",
+    "kunyomi": "たし.か, たし.かめる",
+    "strokes": 15
+  },
+  "厚": {
+    "onyomi": "コウ",
+    "kunyomi": "あつ.い, あか",
+    "strokes": 9
+  },
+  "発": {
+    "onyomi": "ハツ, ホツ",
+    "kunyomi": "た.つ, あば.く, おこ.る, つか.わす, はな.つ",
+    "strokes": 9
+  },
+  "祝": {
+    "onyomi": "シュク, シュウ",
+    "kunyomi": "いわ.う",
+    "strokes": 9
+  },
+  "混": {
+    "onyomi": "コン",
+    "kunyomi": "ま.じる, -ま.じり, ま.ざる, ま.ぜる, こ.む",
+    "strokes": 11
+  },
+  "替": {
+    "onyomi": "タイ",
+    "kunyomi": "か.える, か.え-, か.わる",
+    "strokes": 12
+  },
+  "包": {
+    "onyomi": "ホウ",
+    "kunyomi": "つつ.む, くる.む",
+    "strokes": 5
+  },
+  "算": {
+    "onyomi": "サン",
+    "kunyomi": "そろ",
+    "strokes": 14
+  },
+  "沸": {
+    "onyomi": "フツ",
+    "kunyomi": "わ.く, わ.かす",
+    "strokes": 8
+  },
+  "到": {
+    "onyomi": "トウ",
+    "kunyomi": "いた.る",
+    "strokes": 8
+  },
+  "呼": {
+    "onyomi": "コ",
+    "kunyomi": "よ.ぶ",
+    "strokes": 8
+  },
+  "酔": {
+    "onyomi": "スイ",
+    "kunyomi": "よ.う, よ.い, よ",
+    "strokes": 11
+  },
+  "全": {
+    "onyomi": "ゼン",
+    "kunyomi": "まった.く, すべ.て",
+    "strokes": 6
+  },
+  "丁": {
+    "onyomi": "チョウ, テイ, チン, トウ, チ",
+    "kunyomi": "ひのと",
+    "strokes": 2
+  },
+  "泣": {
+    "onyomi": "キュウ",
+    "kunyomi": "な.く",
+    "strokes": 8
+  },
+  "用": {
+    "onyomi": "ヨウ",
+    "kunyomi": "もち.いる",
+    "strokes": 5
+  },
+  "保": {
+    "onyomi": "ホ, ホウ",
+    "kunyomi": "たも.つ",
+    "strokes": 9
+  },
+  "幸": {
+    "onyomi": "コウ",
+    "kunyomi": "さいわ.い, さち, しあわ.せ",
+    "strokes": 8
+  },
+  "乾": {
+    "onyomi": "カン, ケン",
+    "kunyomi": "かわ.く, かわ.かす, ほ.す, ひ.る, いぬい",
+    "strokes": 11
+  },
+  "滑": {
+    "onyomi": "カツ, コツ",
+    "kunyomi": "すべ.る, なめ.らか",
+    "strokes": 13
+  },
+  "節": {
+    "onyomi": "セツ, セチ",
+    "kunyomi": "ふし, -ぶし, のっと",
+    "strokes": 13
+  },
+  "笑": {
+    "onyomi": "ショウ",
+    "kunyomi": "わら.う, え.む",
+    "strokes": 10
+  },
+  "謝": {
+    "onyomi": "シャ",
+    "kunyomi": "あやま.る",
+    "strokes": 17
+  },
+  "護": {
+    "onyomi": "ゴ",
+    "kunyomi": "まも.る",
+    "strokes": 20
+  },
+  "減": {
+    "onyomi": "ゲン",
+    "kunyomi": "へ.る, へ.らす",
+    "strokes": 12
+  },
+  "夫": {
+    "onyomi": "フ, フウ, ブ",
+    "kunyomi": "おっと, それ",
+    "strokes": 4
+  },
+  "増": {
+    "onyomi": "ゾウ",
+    "kunyomi": "ま.す, ま.し, ふ.える, ふ.やす",
+    "strokes": 14
+  },
+  "味": {
+    "onyomi": "ミ",
+    "kunyomi": "あじ, あじ.わう",
+    "strokes": 8
+  },
+  "怖": {
+    "onyomi": "フ, ホ",
+    "kunyomi": "こわ.い, こわ.がる, お.じる, おそ.れる",
+    "strokes": 8
+  },
+  "世": {
+    "onyomi": "セイ, セ, ソウ",
+    "kunyomi": "よ",
+    "strokes": 5
+  },
+  "厳": {
+    "onyomi": "ゲン, ゴン",
+    "kunyomi": "おごそ.か, きび.しい, いか.めしい, いつくし",
+    "strokes": 17
+  },
+  "声": {
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "こえ, こわ-",
+    "strokes": 7
+  },
+  "傘": {
+    "onyomi": "サン",
+    "kunyomi": "かさ",
+    "strokes": 12
+  },
+  "原": {
+    "onyomi": "ゲン",
+    "kunyomi": "はら",
+    "strokes": 10
+  },
+  "音": {
+    "onyomi": "オン, イン, -ノン",
+    "kunyomi": "おと, ね",
+    "strokes": 9
+  },
+  "別": {
+    "onyomi": "ベツ",
+    "kunyomi": "わか.れる, わ.ける",
+    "strokes": 7
+  },
+  "配": {
+    "onyomi": "ハイ",
+    "kunyomi": "くば.る",
+    "strokes": 10
+  },
+  "便": {
+    "onyomi": "ベン, ビン",
+    "kunyomi": "たよ.り",
+    "strokes": 9
+  },
+  "宅": {
+    "onyomi": "タク",
+    "kunyomi": "",
+    "strokes": 6
+  },
+  "証": {
+    "onyomi": "ショウ",
+    "kunyomi": "あかし",
+    "strokes": 12
+  },
+  "渡": {
+    "onyomi": "ト",
+    "kunyomi": "わた.る, -わた.る, わた.す",
+    "strokes": 12
+  },
+  "領": {
+    "onyomi": "リョウ",
+    "kunyomi": "えり",
+    "strokes": 14
+  },
+  "勤": {
+    "onyomi": "キン, ゴン",
+    "kunyomi": "つと.める, -づと.め, つと.まる, いそ.しむ",
+    "strokes": 12
+  },
+  "存": {
+    "onyomi": "ソン, ゾン",
+    "kunyomi": "ながら.える, あ.る, たも.つ, と.う",
+    "strokes": 6
+  },
+  "方": {
+    "onyomi": "ホウ",
+    "kunyomi": "かた, -かた, -がた",
+    "strokes": 4
+  },
+  "寄": {
+    "onyomi": "キ",
+    "kunyomi": "よ.る, -よ.り, よ.せる",
+    "strokes": 11
+  },
+  "私": {
+    "onyomi": "シ",
+    "kunyomi": "わたくし, わたし",
+    "strokes": 7
+  },
+  "申": {
+    "onyomi": "シン",
+    "kunyomi": "もう.す, もう.し-, さる",
+    "strokes": 5
+  },
+  "人": {
+    "onyomi": "ジン, ニン",
+    "kunyomi": "ひと, -り, -と",
+    "strokes": 2
+  },
+  "伺": {
+    "onyomi": "シ",
+    "kunyomi": "うかが.う",
+    "strokes": 7
+  },
+  "郊": {
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "strokes": 9
+  },
+  "参": {
+    "onyomi": "サン, シン",
+    "kunyomi": "まい.る, まい-, まじわる, みつ",
+    "strokes": 8
+  },
+  "塾": {
+    "onyomi": "ジュク",
+    "kunyomi": "",
+    "strokes": 14
+  },
+  "社": {
+    "onyomi": "シャ",
+    "kunyomi": "やしろ",
+    "strokes": 7
+  },
+  "徒": {
+    "onyomi": "ト",
+    "kunyomi": "いたずら, あだ",
+    "strokes": 10
+  },
+  "者": {
+    "onyomi": "シャ",
+    "kunyomi": "もの",
+    "strokes": 8
+  },
+  "拝": {
+    "onyomi": "ハイ",
+    "kunyomi": "おが.む, おろが.む",
+    "strokes": 8
+  },
+  "手": {
+    "onyomi": "シュ, ズ",
+    "kunyomi": "て, て-, -て, た-",
+    "strokes": 4
+  },
+  "聞": {
+    "onyomi": "ブン, モン",
+    "kunyomi": "き.く, き.こえる",
+    "strokes": 14
+  },
+  "誌": {
+    "onyomi": "シ",
+    "kunyomi": "",
+    "strokes": 14
+  },
+  "本": {
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "strokes": 5
+  },
+  "雑": {
+    "onyomi": "ザツ, ゾウ",
+    "kunyomi": "まじ.える, まじ.る",
+    "strokes": 14
+  },
+  "辞": {
+    "onyomi": "ジ",
+    "kunyomi": "や.める, いな.む",
+    "strokes": 13
+  },
+  "新": {
+    "onyomi": "シン",
+    "kunyomi": "あたら.しい, あら.た, あら-, にい-",
+    "strokes": 13
+  },
+  "書": {
+    "onyomi": "ショ",
+    "kunyomi": "か.く, -が.き, -がき",
+    "strokes": 10
+  },
+  "士": {
+    "onyomi": "シ",
+    "kunyomi": "さむらい",
+    "strokes": 3
+  },
+  "大": {
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "おお-, おお.きい, -おお.いに",
+    "strokes": 3
+  },
+  "皆": {
+    "onyomi": "カイ",
+    "kunyomi": "みな, みんな",
+    "strokes": 9
+  },
+  "君": {
+    "onyomi": "クン",
+    "kunyomi": "きみ, -ぎみ",
+    "strokes": 7
+  },
+  "教": {
+    "onyomi": "キョウ",
+    "kunyomi": "おし.える, おそ.わる",
+    "strokes": 11
+  },
+  "富": {
+    "onyomi": "フ, フウ",
+    "kunyomi": "と.む, とみ",
+    "strokes": 12
+  },
+  "学": {
+    "onyomi": "ガク",
+    "kunyomi": "まな.ぶ",
+    "strokes": 8
+  },
+  "終": {
+    "onyomi": "シュウ",
+    "kunyomi": "お.わる, -お.わる, おわ.る, お.える, つい, つい.に",
+    "strokes": 11
+  },
+  "勉": {
+    "onyomi": "ベン",
+    "kunyomi": "つと.める",
+    "strokes": 10
+  },
+  "銀": {
+    "onyomi": "ギン",
+    "kunyomi": "しろがね",
+    "strokes": 14
+  },
+  "休": {
+    "onyomi": "キュウ",
+    "kunyomi": "やす.む, やす.まる, やす.める",
+    "strokes": 6
+  },
+  "寝": {
+    "onyomi": "シン",
+    "kunyomi": "ね.る, ね.かす, い.ぬ, みたまや, や.める",
+    "strokes": 13
+  },
+  "事": {
+    "onyomi": "ジ, ズ",
+    "kunyomi": "こと, つか.う, つか.える",
+    "strokes": 8
+  },
+  "働": {
+    "onyomi": "ドウ",
+    "kunyomi": "はたら.く",
+    "strokes": 13
+  },
+  "強": {
+    "onyomi": "キョウ, ゴウ",
+    "kunyomi": "つよ.い, つよ.まる, つよ.める, し.いる, こわ.い",
+    "strokes": 11
+  },
+  "所": {
+    "onyomi": "ショ",
+    "kunyomi": "ところ, -ところ, どころ, とこ",
+    "strokes": 8
+  },
+  "起": {
+    "onyomi": "キ",
+    "kunyomi": "お.きる, お.こる, お.こす, おこ.す, た.つ",
+    "strokes": 10
+  },
+  "務": {
+    "onyomi": "ム",
+    "kunyomi": "つと.める",
+    "strokes": 11
+  },
+  "食": {
+    "onyomi": "ショク, ジキ",
+    "kunyomi": "く.う, く.らう, た.べる, は.む",
+    "strokes": 9
+  },
+  "会": {
+    "onyomi": "カイ, エ",
+    "kunyomi": "あ.う, あ.わせる, あつ.まる",
+    "strokes": 6
+  },
+  "室": {
+    "onyomi": "シツ",
+    "kunyomi": "むろ",
+    "strokes": 9
+  },
+  "堂": {
+    "onyomi": "ドウ",
+    "kunyomi": "",
+    "strokes": 11
+  },
+  "切": {
+    "onyomi": "セツ, サイ",
+    "kunyomi": "き.る, -き.る, き.り, -き.り, -ぎ.り, き.れる, -き.れる, き.れ, -き.れ, -ぎ.れ",
+    "strokes": 4
+  },
+  "飲": {
+    "onyomi": "イン, オン",
+    "kunyomi": "の.む, -の.み",
+    "strokes": 12
+  },
+  "送": {
+    "onyomi": "ソウ",
+    "kunyomi": "おく.る",
+    "strokes": 9
+  },
+  "見": {
+    "onyomi": "ケン",
+    "kunyomi": "み.る, み.える, み.せる",
+    "strokes": 7
+  },
+  "貸": {
+    "onyomi": "タイ",
+    "kunyomi": "か.す, か.し-, かし-",
+    "strokes": 12
+  },
+  "帰": {
+    "onyomi": "キ",
+    "kunyomi": "かえ.る, かえ.す, おく.る, とつ.ぐ",
+    "strokes": 10
+  },
+  "吸": {
+    "onyomi": "キュウ",
+    "kunyomi": "す.う",
+    "strokes": 6
+  },
+  "買": {
+    "onyomi": "バイ",
+    "kunyomi": "か.う",
+    "strokes": 12
+  },
+  "校": {
+    "onyomi": "コウ, キョウ",
+    "kunyomi": "",
+    "strokes": 10
+  },
+  "読": {
+    "onyomi": "ドク, トク, トウ",
+    "kunyomi": "よ.む, -よ.み",
+    "strokes": 14
+  },
+  "駅": {
+    "onyomi": "エキ",
+    "kunyomi": "",
+    "strokes": 14
+  },
+  "来": {
+    "onyomi": "ライ, タイ",
+    "kunyomi": "く.る, きた.る, きた.す, き.たす, き.たる, き, こ",
+    "strokes": 7
+  },
+  "行": {
+    "onyomi": "コウ, ギョウ, アン",
+    "kunyomi": "い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう",
+    "strokes": 6
+  },
+  "番": {
+    "onyomi": "バン",
+    "kunyomi": "つが.い",
+    "strokes": 12
+  },
+  "線": {
+    "onyomi": "セン",
+    "kunyomi": "すじ",
+    "strokes": 15
+  },
+  "有": {
+    "onyomi": "ユウ, ウ",
+    "kunyomi": "あ.る",
+    "strokes": 6
+  },
+  "暇": {
+    "onyomi": "カ",
+    "kunyomi": "ひま, いとま",
+    "strokes": 13
+  },
+  "元": {
+    "onyomi": "ゲン, ガン",
+    "kunyomi": "もと",
+    "strokes": 4
+  },
+  "親": {
+    "onyomi": "シン",
+    "kunyomi": "おや, おや-, した.しい, した.しむ",
+    "strokes": 16
+  },
+  "好": {
+    "onyomi": "コウ",
+    "kunyomi": "この.む, す.く, よ.い, い.い",
+    "strokes": 6
+  },
+  "物": {
+    "onyomi": "ブツ, モツ",
+    "kunyomi": "もの, もの-",
+    "strokes": 8
+  },
+  "借": {
+    "onyomi": "シャク",
+    "kunyomi": "か.りる",
+    "strokes": 10
+  },
+  "嫌": {
+    "onyomi": "ケン, ゲン",
+    "kunyomi": "きら.う, きら.い, いや",
+    "strokes": 13
+  },
+  "上": {
+    "onyomi": "ジョウ, ショウ, シャン",
+    "kunyomi": "うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る",
+    "strokes": 3
+  },
+  "分": {
+    "onyomi": "ブン, フン, ブ",
+    "kunyomi": "わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",
+    "strokes": 4
+  },
+  "名": {
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "な, -な",
+    "strokes": 6
+  },
+  "静": {
+    "onyomi": "セイ, ジョウ",
+    "kunyomi": "しず-, しず.か, しず.まる, しず.める",
+    "strokes": 14
+  },
+  "花": {
+    "onyomi": "カ, ケ",
+    "kunyomi": "はな",
+    "strokes": 7
+  },
+  "荷": {
+    "onyomi": "カ",
+    "kunyomi": "に",
+    "strokes": 10
+  },
+  "気": {
+    "onyomi": "キ, ケ",
+    "kunyomi": "いき, き",
+    "strokes": 6
+  },
+  "三": {
+    "onyomi": "サン, ゾウ",
+    "kunyomi": "み, み.つ, みっ.つ",
+    "strokes": 3
+  },
+  "四": {
+    "onyomi": "シ",
+    "kunyomi": "よ, よ.つ, よっ.つ, よん",
+    "strokes": 5
+  },
+  "子": {
+    "onyomi": "シ, ス, ツ",
+    "kunyomi": "こ, -こ, ね",
+    "strokes": 3
+  },
+  "料": {
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "strokes": 10
+  },
+  "一": {
+    "onyomi": "イチ, イツ",
+    "kunyomi": "ひと-, ひと.つ",
+    "strokes": 1
+  },
+  "二": {
+    "onyomi": "ニ, ジ",
+    "kunyomi": "ふた, ふた.つ, ふたたび",
+    "strokes": 2
+  },
+  "下": {
+    "onyomi": "カ, ゲ",
+    "kunyomi": "した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる",
+    "strokes": 3
+  },
+  "五": {
+    "onyomi": "ゴ",
+    "kunyomi": "いつ, いつ.つ",
+    "strokes": 4
+  },
+  "猫": {
+    "onyomi": "ビョウ",
+    "kunyomi": "ねこ",
+    "strokes": 11
+  },
+  "日": {
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, -び, -か",
+    "strokes": 4
+  },
+  "男": {
+    "onyomi": "ダン, ナン",
+    "kunyomi": "おとこ, お",
+    "strokes": 7
+  },
+  "女": {
+    "onyomi": "ジョ, ニョ, ニョウ",
+    "kunyomi": "おんな, め",
+    "strokes": 3
+  },
+  "犬": {
+    "onyomi": "ケン",
+    "kunyomi": "いぬ, いぬ-",
+    "strokes": 4
+  },
+  "理": {
+    "onyomi": "リ",
+    "kunyomi": "ことわり",
+    "strokes": 11
+  },
+  "木": {
+    "onyomi": "ボク, モク",
+    "kunyomi": "き, こ-",
+    "strokes": 4
+  },
+  "多": {
+    "onyomi": "タ",
+    "kunyomi": "おお.い, まさ.に, まさ.る",
+    "strokes": 6
+  },
+  "紙": {
+    "onyomi": "シ",
+    "kunyomi": "かみ",
+    "strokes": 10
+  },
+  "迎": {
+    "onyomi": "ゲイ",
+    "kunyomi": "むか.える",
+    "strokes": 7
+  },
+  "遠": {
+    "onyomi": "エン, オン",
+    "kunyomi": "とお.い",
+    "strokes": 13
+  },
+  "入": {
+    "onyomi": "ニュウ, ジュ",
+    "kunyomi": "い.る, -い.る, -い.り, い.れる, -い.れ, はい.る",
+    "strokes": 2
+  },
+  "近": {
+    "onyomi": "キン, コン",
+    "kunyomi": "ちか.い",
+    "strokes": 7
+  },
+  "早": {
+    "onyomi": "ソウ, サッ",
+    "kunyomi": "はや.い, はや, はや-, はや.まる, はや.める, さ-",
+    "strokes": 6
+  },
+  "泳": {
+    "onyomi": "エイ",
+    "kunyomi": "およ.ぐ",
+    "strokes": 8
+  },
+  "簡": {
+    "onyomi": "カン, ケン",
+    "kunyomi": "えら.ぶ, ふだ",
+    "strokes": 18
+  },
+  "出": {
+    "onyomi": "シュツ, スイ",
+    "kunyomi": "で.る, -で, だ.す, -だ.す, い.でる, い.だす",
+    "strokes": 5
+  },
+  "速": {
+    "onyomi": "ソク",
+    "kunyomi": "はや.い, はや-, はや.める, すみ.やか",
+    "strokes": 10
+  },
+  "遅": {
+    "onyomi": "チ",
+    "kunyomi": "おく.れる, おく.らす, おそ.い",
+    "strokes": 12
+  },
+  "単": {
+    "onyomi": "タン",
+    "kunyomi": "ひとえ",
+    "strokes": 9
+  },
+  "遊": {
+    "onyomi": "ユウ, ユ",
+    "kunyomi": "あそ.ぶ, あそ.ばす",
+    "strokes": 12
+  },
+  "疲": {
+    "onyomi": "ヒ",
+    "kunyomi": "つか.れる, -づか.れ, つか.らす",
+    "strokes": 10
+  },
+  "使": {
+    "onyomi": "シ",
+    "kunyomi": "つか.う, つか.い, -つか.い, -づか.い",
+    "strokes": 8
+  },
+  "造": {
+    "onyomi": "ゾウ",
+    "kunyomi": "つく.る, つく.り, -づく.り",
+    "strokes": 10
+  },
+  "作": {
+    "onyomi": "サク, サ",
+    "kunyomi": "つく.る, つく.り, -づく.り",
+    "strokes": 7
+  },
+  "座": {
+    "onyomi": "ザ",
+    "kunyomi": "すわ.る",
+    "strokes": 10
+  },
+  "売": {
+    "onyomi": "バイ",
+    "kunyomi": "う.る, う.れる",
+    "strokes": 7
+  },
+  "急": {
+    "onyomi": "キュウ",
+    "kunyomi": "いそ.ぐ, いそ.ぎ, せ.く",
+    "strokes": 9
+  },
+  "開": {
+    "onyomi": "カイ",
+    "kunyomi": "ひら.く, ひら.き, -びら.き, ひら.ける, あ.く, あ.ける",
+    "strokes": 12
+  },
+  "置": {
+    "onyomi": "チ",
+    "kunyomi": "お.く, -お.き",
+    "strokes": 13
+  },
+  "右": {
+    "onyomi": "ウ, ユウ",
+    "kunyomi": "みぎ",
+    "strokes": 5
+  },
+  "止": {
+    "onyomi": "シ",
+    "kunyomi": "と.まる, -ど.まり, と.める, -と.める, -ど.め, とど.める, とど.め, とど.まる, や.める, や.む, -や.む, よ.す, -さ.す, -さ.し",
+    "strokes": 4
+  },
+  "立": {
+    "onyomi": "リツ, リュウ, リットル",
+    "kunyomi": "た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる",
+    "strokes": 5
+  },
+  "待": {
+    "onyomi": "タイ",
+    "kunyomi": "ま.つ, -ま.ち",
+    "strokes": 9
+  },
+  "閉": {
+    "onyomi": "ヘイ",
+    "kunyomi": "と.じる, と.ざす, し.める, し.まる, た.てる",
+    "strokes": 11
+  },
+  "消": {
+    "onyomi": "ショウ",
+    "kunyomi": "き.える, け.す",
+    "strokes": 10
+  },
+  "曲": {
+    "onyomi": "キョク",
+    "kunyomi": "ま.がる, ま.げる, くま",
+    "strokes": 6
+  },
+  "弾": {
+    "onyomi": "ダン, タン",
+    "kunyomi": "ひ.く, -ひ.き, はず.む, たま, はじ.く, はじ.ける, ただ.す, はじ.きゆみ",
+    "strokes": 12
+  },
+  "洗": {
+    "onyomi": "セン",
+    "kunyomi": "あら.う",
+    "strokes": 9
+  },
+  "脱": {
+    "onyomi": "ダツ",
+    "kunyomi": "ぬ.ぐ, ぬ.げる",
+    "strokes": 11
+  },
+  "返": {
+    "onyomi": "ヘン",
+    "kunyomi": "かえ.す, -かえ.す, かえ.る, -かえ.る",
+    "strokes": 7
+  },
+  "持": {
+    "onyomi": "ジ",
+    "kunyomi": "も.つ, -も.ち, も.てる",
+    "strokes": 9
+  },
+  "降": {
+    "onyomi": "コウ, ゴ",
+    "kunyomi": "お.りる, お.ろす, ふ.る, ふ.り, くだ.る, くだ.す",
+    "strokes": 10
+  },
+  "知": {
+    "onyomi": "チ",
+    "kunyomi": "し.る, し.らせる",
+    "strokes": 8
+  },
+  "覚": {
+    "onyomi": "カク",
+    "kunyomi": "おぼ.える, さ.ます, さ.める, さと.る",
+    "strokes": 12
+  },
+  "車": {
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "strokes": 7
+  },
+  "浴": {
+    "onyomi": "ヨク",
+    "kunyomi": "あ.びる, あ.びせる",
+    "strokes": 10
+  },
+  "換": {
+    "onyomi": "カン",
+    "kunyomi": "か.える, -か.える, か.わる",
+    "strokes": 12
+  },
+  "払": {
+    "onyomi": "フツ, ヒツ, ホツ",
+    "kunyomi": "はら.う, -はら.い, -ばら.い",
+    "strokes": 5
+  },
+  "電": {
+    "onyomi": "デン",
+    "kunyomi": "",
+    "strokes": 13
+  },
+  "乗": {
+    "onyomi": "ジョウ, ショウ",
+    "kunyomi": "の.る, -の.り, の.せる",
+    "strokes": 9
+  },
+  "忘": {
+    "onyomi": "ボウ",
+    "kunyomi": "わす.れる",
+    "strokes": 7
+  },
+  "要": {
+    "onyomi": "ヨウ",
+    "kunyomi": "い.る, かなめ",
+    "strokes": 9
+  },
+  "濯": {
+    "onyomi": "タク",
+    "kunyomi": "すす.ぐ, ゆす.ぐ",
+    "strokes": 17
+  },
+  "調": {
+    "onyomi": "チョウ",
+    "kunyomi": "しら.べる, しら.べ, ととの.う, ととの.える",
+    "strokes": 15
+  },
+  "泊": {
+    "onyomi": "ハク",
+    "kunyomi": "と.まる, と.める",
+    "strokes": 8
+  },
+  "転": {
+    "onyomi": "テン",
+    "kunyomi": "ころ.がる, ころ.げる, ころ.がす, ころ.ぶ, まろ.ぶ, うたた, うつ.る, くる.めく",
+    "strokes": 11
+  },
+  "予": {
+    "onyomi": "ヨ, シャ",
+    "kunyomi": "あらかじ.め",
+    "strokes": 4
+  },
+  "除": {
+    "onyomi": "ジョ, ジ",
+    "kunyomi": "のぞ.く, -よ.け",
+    "strokes": 10
+  },
+  "運": {
+    "onyomi": "ウン",
+    "kunyomi": "はこ.ぶ",
+    "strokes": 12
+  },
+  "登": {
+    "onyomi": "トウ, ト, ドウ, ショウ, チョウ",
+    "kunyomi": "のぼ.る, あ.がる",
+    "strokes": 12
+  },
+  "歌": {
+    "onyomi": "カ",
+    "kunyomi": "うた, うた.う",
+    "strokes": 14
+  },
+  "掃": {
+    "onyomi": "ソウ, シュ",
+    "kunyomi": "は.く",
+    "strokes": 11
+  },
+  "練": {
+    "onyomi": "レン",
+    "kunyomi": "ね.る, ね.り",
+    "strokes": 14
+  },
+  "習": {
+    "onyomi": "シュウ, ジュ",
+    "kunyomi": "なら.う, なら.い",
+    "strokes": 11
+  },
+  "集": {
+    "onyomi": "シュウ",
+    "kunyomi": "あつ.まる, あつ.める, つど.う",
+    "strokes": 12
+  },
+  "捨": {
+    "onyomi": "シャ",
+    "kunyomi": "す.てる",
+    "strokes": 11
+  },
+  "直": {
+    "onyomi": "チョク, ジキ, ジカ",
+    "kunyomi": "ただ.ちに, なお.す, -なお.す, なお.る, なお.き, す.ぐ",
+    "strokes": 8
+  },
+  "負": {
+    "onyomi": "フ",
+    "kunyomi": "ま.ける, ま.かす, お.う",
+    "strokes": 9
+  },
+  "勝": {
+    "onyomi": "ショウ",
+    "kunyomi": "か.つ, -が.ち, まさ.る, すぐ.れる, かつ",
+    "strokes": 12
+  },
+  "話": {
+    "onyomi": "ワ",
+    "kunyomi": "はな.す, はなし",
+    "strokes": 13
+  },
+  "不": {
+    "onyomi": "フ, ブ",
+    "kunyomi": "",
+    "strokes": 4
+  },
+  "役": {
+    "onyomi": "ヤク, エキ",
+    "kunyomi": "",
+    "strokes": 7
+  },
+  "眼": {
+    "onyomi": "ガン, ゲン",
+    "kunyomi": "まなこ, め",
+    "strokes": 11
+  },
+  "思": {
+    "onyomi": "シ",
+    "kunyomi": "おも.う, おもえら.く, おぼ.す",
+    "strokes": 9
+  },
+  "生": {
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う",
+    "strokes": 5
+  },
+  "足": {
+    "onyomi": "ソク",
+    "kunyomi": "あし, た.りる, た.る, た.す",
+    "strokes": 7
+  },
+  "僕": {
+    "onyomi": "ボク",
+    "kunyomi": "しもべ",
+    "strokes": 14
+  },
+  "帽": {
+    "onyomi": "ボウ, モウ",
+    "kunyomi": "ずきん, おお.う",
+    "strokes": 12
+  },
+  "言": {
+    "onyomi": "ゲン, ゴン",
+    "kunyomi": "い.う, こと",
+    "strokes": 7
+  },
+  "着": {
+    "onyomi": "チャク, ジャク",
+    "kunyomi": "き.る, き.せる, つ.く, つ.ける",
+    "strokes": 12
+  },
+  "修": {
+    "onyomi": "シュウ, シュ",
+    "kunyomi": "おさ.める, おさ.まる",
+    "strokes": 10
+  },
+  "連": {
+    "onyomi": "レン",
+    "kunyomi": "つら.なる, つら.ねる, つ.れる, -づ.れ",
+    "strokes": 10
+  },
+  "操": {
+    "onyomi": "ソウ, サン",
+    "kunyomi": "みさお, あやつ.る",
+    "strokes": 16
+  },
+  "号": {
+    "onyomi": "ゴウ",
+    "kunyomi": "さけ.ぶ, よびな",
+    "strokes": 5
+  },
+  "家": {
+    "onyomi": "カ, ケ",
+    "kunyomi": "いえ, や, うち",
+    "strokes": 10
+  },
+  "紹": {
+    "onyomi": "ショウ",
+    "kunyomi": "",
+    "strokes": 11
+  },
+  "考": {
+    "onyomi": "コウ",
+    "kunyomi": "かんが.える, かんが.え",
+    "strokes": 6
+  },
+  "引": {
+    "onyomi": "イン",
+    "kunyomi": "ひ.く, ひ.ける",
+    "strokes": 4
+  },
+  "信": {
+    "onyomi": "シン",
+    "kunyomi": "",
+    "strokes": 9
+  },
+  "道": {
+    "onyomi": "ドウ, トウ",
+    "kunyomi": "みち, いう",
+    "strokes": 12
+  },
+  "介": {
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "strokes": 4
+  },
+  "店": {
+    "onyomi": "テン",
+    "kunyomi": "みせ, たな",
+    "strokes": 8
+  },
+  "内": {
+    "onyomi": "ナイ, ダイ",
+    "kunyomi": "うち",
+    "strokes": 4
+  },
+  "留": {
+    "onyomi": "リュウ, ル",
+    "kunyomi": "と.める, と.まる, とど.める, とど.まる, るうぶる",
+    "strokes": 10
+  },
+  "案": {
+    "onyomi": "アン",
+    "kunyomi": "つくえ",
+    "strokes": 10
+  },
+  "鏡": {
+    "onyomi": "キョウ, ケイ",
+    "kunyomi": "かがみ",
+    "strokes": 19
+  },
+  "undefined": {
+    "onyomi": "",
+    "kunyomi": "",
+    "strokes": 8
+  },
+  "取": {
+    "onyomi": "シュ",
+    "kunyomi": "と.る, と.り, と.り-, とり, -ど.り",
+    "strokes": 8
+  },
+  "田": {
+    "onyomi": "デン",
+    "kunyomi": "た",
+    "strokes": 5
+  },
+  "舎": {
+    "onyomi": "シャ, セキ",
+    "kunyomi": "やど.る",
+    "strokes": 8
+  }
+}

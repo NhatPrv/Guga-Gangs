@@ -1,0 +1,187 @@
+[
+  {
+    "id": "k-core-n5-4-1",
+    "character": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "meaning": "XUYÊN (dòng sông)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "川",
+        "reading": "かわ",
+        "meaning": "con sông"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-4-2",
+    "character": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "meaning": "THIÊN (nghìn, 1.000)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "千",
+        "reading": "せん",
+        "meaning": "nghìn"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-4-3",
+    "character": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず, みず-",
+    "meaning": "THỦY (nước)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "水準",
+        "reading": "すいじゅん",
+        "meaning": "mực nước"
+      },
+      {
+        "compound": "水道",
+        "reading": "すいどう",
+        "meaning": "nước máy, hệ thống cấp nước"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-4-4",
+    "character": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか.ば",
+    "meaning": "BÁN (một nửa, bán phần)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "大半",
+        "reading": "たいはん",
+        "meaning": "đa số"
+      },
+      {
+        "compound": "半ば",
+        "reading": "なかば",
+        "meaning": "ở giữa"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-4-6",
+    "character": "西",
+    "onyomi": "セイ, サイ, ス",
+    "kunyomi": "にし",
+    "meaning": "TÂY (hướng tây)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "西洋",
+        "reading": "せいよう",
+        "meaning": "các nước phương tây"
+      },
+      {
+        "compound": "西",
+        "reading": "にし",
+        "meaning": "hướng tây"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-4-8",
+    "character": "無",
+    "onyomi": "ム, ブ",
+    "kunyomi": "な.い",
+    "meaning": "VÔ (hư vô)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "無し",
+        "reading": "なし",
+        "meaning": "không có"
+      },
+      {
+        "compound": "無事",
+        "reading": "ぶじ",
+        "meaning": "an toàn"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-4-10",
+    "character": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた.る, かた.らう",
+    "meaning": "NGỮ (ngôn ngữ, lời nói)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "語る",
+        "reading": "かたる",
+        "meaning": "nói chuyện"
+      },
+      {
+        "compound": "言語",
+        "reading": "げんご",
+        "meaning": "ngôn ngữ"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-4-11",
+    "character": "土",
+    "onyomi": "ド, ト",
+    "kunyomi": "つち",
+    "meaning": "THỔ (đất đai, thổ nhưỡng)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "土曜",
+        "reading": "どよう",
+        "meaning": "thứ bảy"
+      },
+      {
+        "compound": "土産",
+        "reading": "みやげ",
+        "meaning": "hiện tại"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-4-16",
+    "character": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに, なん, なに-, なん-",
+    "meaning": "HÀ (cái gì, điều gì)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "何で",
+        "reading": "なんで",
+        "meaning": "tại sao?"
+      },
+      {
+        "compound": "何でも",
+        "reading": "なんでも",
+        "meaning": "bằng mọi cách"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-4-17",
+    "character": "南",
+    "onyomi": "ナン, ナ",
+    "kunyomi": "みなみ",
+    "meaning": "NAM (hướng nam)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "南",
+        "reading": "みなみ",
+        "meaning": "hướng nam"
+      }
+    ]
+  }
+]

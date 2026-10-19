@@ -1,0 +1,91 @@
+{
+  "id": "bunpou-n4-ta-koto-ga-aru",
+  "level": "N4",
+  "unitId": "grammar-n4-unit-02",
+  "title": "〜たことがある / 〜たことがありません",
+  "meaning": "Đã từng / Chưa từng làm gì (Kinh nghiệm quá khứ)",
+  "connection": "V-た + ことがある / ない",
+  "usageNotes": "Diễn tả trải nghiệm từng trải qua trong quá khứ tính đến thời điểm nói.",
+  "questions": [
+    {
+      "id": "n4-u2-g1-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "富士山に登ったことがありますか。",
+      "sentenceVi": "Bạn đã từng leo núi Phú Sĩ bao giờ chưa?",
+      "targetGrammar": "〜たことがありますか",
+      "prompt": "Mục đích của câu hỏi trên là gì?",
+      "options": [
+        "Hỏi về kinh nghiệm đã từng leo núi trong quá khứ",
+        "Rủ đối phương cùng đi leo núi",
+        "Cấm leo núi Phú Sĩ",
+        "Hỏi về kế hoạch leo núi ngày mai"
+      ],
+      "correctIndex": 0,
+      "explanation": "「V-たことがありますか」 dùng để hỏi kinh nghiệm trong quá khứ."
+    },
+    {
+      "id": "n4-u2-g1-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "私は一度も日本へ【　？　】。",
+      "sentenceVi": "Tôi chưa từng đến Nhật Bản lần nào cả.",
+      "targetGrammar": "行ったことがありません",
+      "prompt": "Chọn dạng phủ định diễn tả chưa từng trải nghiệm:",
+      "options": [
+        "行ったことがありません",
+        "行ったことがあります",
+        "行かなければなりません",
+        "行ってはいけません"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chưa từng làm gì bao giờ dùng V-たことがありません."
+    },
+    {
+      "id": "n4-u2-g1-q3",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "納豆を【　？　】ことがありますか。",
+      "sentenceVi": "Bạn đã từng ăn món Natto bao giờ chưa?",
+      "targetGrammar": "食べた",
+      "prompt": "Chọn dạng thể Ta chính xác của động từ 食べる:",
+      "options": [
+        "食べた",
+        "食べて",
+        "食べる",
+        "食べない"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấu trúc kinh nghiệm yêu cầu động từ ở thể quá khứ Ta (食べた)."
+    },
+    {
+      "id": "n4-u2-g1-q4",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "歌舞伎を見たことがあるけれど、内容が難しかったです。",
+      "sentenceVi": "Tôi đã từng xem kịch Kabuki rồi nhưng nội dung rất khó hiểu.",
+      "targetGrammar": "〜たことがある",
+      "prompt": "Ý nghĩa của câu trên là gì?",
+      "options": [
+        "Người nói đã từng trải nghiệm xem kịch Kabuki trong quá khứ",
+        "Người nói sắp đi xem kịch Kabuki lần đầu",
+        "Người nói không thích xem kịch",
+        "Người nói đang diễn kịch Kabuki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diễn tả trải nghiệm đã từng xem kịch Kabuki trong quá khứ."
+    },
+    {
+      "id": "n4-u2-g1-q5",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "馬に【　？　】ことがあります。",
+      "sentenceVi": "Tôi đã từng cưỡi ngựa rồi.",
+      "targetGrammar": "乗った",
+      "prompt": "Chọn thể Ta của động từ 乗る (nhóm 1):",
+      "options": [
+        "乗った",
+        "乗って",
+        "乗る",
+        "乗らない"
+      ],
+      "correctIndex": 0,
+      "explanation": "乗る ➔ chia thể Ta là 乗った ➔ 乗ったことがあります."
+    }
+  ]
+}

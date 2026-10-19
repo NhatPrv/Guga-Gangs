@@ -1,0 +1,91 @@
+{
+  "id": "bunpou-n4-hou-ga-ii",
+  "level": "N4",
+  "unitId": "grammar-n4-unit-02",
+  "title": "〜ほうがいい / 〜ないほうがいい",
+  "meaning": "Nên / Không nên làm gì (Lời khuyên)",
+  "connection": "V-た + ほうがいい / V-ない + ほうがいい",
+  "usageNotes": "Đưa ra lời khuyên cụ thể nên làm gì (thể Ta) hoặc không nên làm gì (thể Nai).",
+  "questions": [
+    {
+      "id": "n4-u2-g2-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "風邪をひいたときは、温かいお風呂に入って早く寝たほうがいいです。",
+      "sentenceVi": "Khi bị cảm thì nên tắm nước ấm và đi ngủ sớm.",
+      "targetGrammar": "〜たほうがいい",
+      "prompt": "Mục đích câu nói trên là gì?",
+      "options": [
+        "Đưa ra lời khuyên tốt nhất cho sức khỏe người ốm",
+        "Bắt buộc người ốm phải đi ngủ",
+        "Hỏi xin phép đi ngủ sớm",
+        "Cấm không được đi tắm"
+      ],
+      "correctIndex": 0,
+      "explanation": "「V-たほうがいい」 dùng để đưa ra lời khuyên có lợi cho đối phương."
+    },
+    {
+      "id": "n4-u2-g2-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "お腹が痛いですから、冷たい物は【　？　】。",
+      "sentenceVi": "Vì đang bị đau bụng nên không nên ăn đồ lạnh.",
+      "targetGrammar": "食べないほうがいいです",
+      "prompt": "Chọn dạng khuyên không nên làm gì:",
+      "options": [
+        "食べないほうがいいです",
+        "食べたほうがいいです",
+        "食べてもいいです",
+        "食べなければなりません"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khuyên không nên làm gì dùng V-ない + ほうがいい (食べないほうがいいです)."
+    },
+    {
+      "id": "n4-u2-g2-q3",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "雨が降りそうですから、傘を【　？　】。",
+      "sentenceVi": "Trời sắp mưa nên bạn nên mang theo dù.",
+      "targetGrammar": "持って行ったほうがいいです",
+      "prompt": "Chọn thể Ta khuyên nên mang theo dù:",
+      "options": [
+        "持って行ったほうがいいです",
+        "持って行かないほうがいいです",
+        "持って行ってはいけません",
+        "持って行ってもいいです"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khuyên nên mang theo dùng V-たほうがいい (持って行ったほうがいいです)."
+    },
+    {
+      "id": "n4-u2-g2-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "夜遅く一人で歩かない【　？　】。",
+      "sentenceVi": "Đêm muộn không nên đi bộ một mình.",
+      "targetGrammar": "ほうがいいです",
+      "prompt": "Điền phần còn lại của mẫu câu khuyên nhủ:",
+      "options": [
+        "ほうがいいです",
+        "ことができます",
+        "いけません",
+        "つもりです"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấu trúc khuyên không nên làm: V-ない + ほうがいいです."
+    },
+    {
+      "id": "n4-u2-g2-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "疲れているときは、無理をしないほうがいいよ。",
+      "sentenceVi": "Khi mệt mỏi thì không nên ráng sức quá mức nhé.",
+      "targetGrammar": "〜ないほうがいい",
+      "prompt": "Ý nghĩa của câu trên là gì?",
+      "options": [
+        "Lời khuyên bạn bè không nên quá sức",
+        "Yêu cầu bắt buộc phải làm việc tiếp",
+        "Cấm không được nghỉ ngơi",
+        "Khen ngợi sự chăm chỉ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lời khuyên thân mật không nên làm việc quá sức khi cơ thể mệt mỏi."
+    }
+  ]
+}

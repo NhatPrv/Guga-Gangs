@@ -1,0 +1,240 @@
+[
+  {
+    "word": "始まります",
+    "meaning": "buổi lễ",
+    "reading": "はじまります「式が～」",
+    "sinoVietnamese": "THỦY",
+    "example": "毎日欠かさずに、始まりますようにしています。 (Tôi cố gắng bắt đầu mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "続ける",
+    "meaning": "tiếp tục",
+    "reading": "つづけます",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、続けるようにしています。 (Tôi cố gắng tiếp tục mà không thất bại mỗi ngày.)"
+  },
+  {
+    "word": "見つめます",
+    "meaning": "tìm thấy",
+    "reading": "みつけます",
+    "sinoVietnamese": "KIẾN",
+    "example": "暇なときは、家でゆっくり本を見つめますのが好きです。 (Khi có thời gian rảnh, tôi thích ngồi ở nhà và đọc sách.)"
+  },
+  {
+    "word": "受けます",
+    "meaning": "tham dự, thi cử",
+    "reading": "うけます「しけんを」",
+    "sinoVietnamese": "THỤ",
+    "example": "毎日欠かさずに、受けますようにしています。 (Tôi cố gắng dùng nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "入学します",
+    "meaning": "nhập học",
+    "reading": "にゅうがくします「だいがくに」",
+    "sinoVietnamese": "NHẬP HỌC",
+    "example": "毎日仕事が終わったあと、日本語を入学します。 (Mỗi ngày sau giờ làm việc tôi đều đăng ký học tiếng Nhật.)"
+  },
+  {
+    "word": "卒業します",
+    "meaning": "tốt nghiệp",
+    "reading": "そつぎょうします「だいがくを」",
+    "sinoVietnamese": "",
+    "example": "毎日仕事が終わったあと、日本語を卒業します。 (Mỗi ngày sau giờ làm việc, tôi tốt nghiệp tiếng Nhật.)"
+  },
+  {
+    "word": "休憩します",
+    "meaning": "nghỉ ngơi",
+    "reading": "きゅうけいします",
+    "sinoVietnamese": "HƯU",
+    "example": "毎日仕事が終わったあと、日本語を休憩します。 (Sau khi kết thúc công việc hàng ngày, tôi nghỉ học tiếng Nhật.)"
+  },
+  {
+    "word": "連休",
+    "meaning": "ngày nghỉ ngay lập tức",
+    "reading": "れんきゅう",
+    "sinoVietnamese": "LIÊN HƯU",
+    "example": "連休になると、涼しい風が吹いて過ごしやすくなります。 (Trong những ngày nghỉ, gió mát giúp bạn tận hưởng kỳ nghỉ dễ dàng hơn.)"
+  },
+  {
+    "word": "展覧会",
+    "meaning": "triển lãm",
+    "reading": "てんらんかい",
+    "sinoVietnamese": "HỘI",
+    "example": "展覧会の準備のために、朝早くから会場へ向かいました。 (Tôi đến địa điểm từ sáng sớm để chuẩn bị cho buổi triển lãm.)"
+  },
+  {
+    "word": "結婚式",
+    "meaning": "lễ thành hôn, đám cưới",
+    "reading": "けっこんしき",
+    "sinoVietnamese": "KẾT HÔN",
+    "example": "結婚式の準備のために、朝早くから会場へ向かいました。 (Chúng tôi đến địa điểm từ sáng sớm để chuẩn bị cho đám cưới.)"
+  },
+  {
+    "word": "「お」葬式",
+    "meaning": "đám tang, tang lễ",
+    "reading": "「お」そうしき",
+    "sinoVietnamese": "",
+    "example": "友達の招待を受けて、楽しい葬式に出席しました。 (Theo lời mời của bạn tôi, tôi đã tham dự một đám tang vui vẻ.)"
+  },
+  {
+    "word": "式",
+    "meaning": "buổi lễ",
+    "reading": "しき",
+    "sinoVietnamese": "",
+    "example": "式になると、涼しい風が吹いて過ごしやすくなります。 (Trong buổi lễ, một làn gió mát sẽ thổi qua, giúp bạn dễ dàng trải qua cả ngày.)"
+  },
+  {
+    "word": "本社",
+    "meaning": "trụ sở chính",
+    "reading": "ほんしゃ",
+    "sinoVietnamese": "BẢN XÃ",
+    "example": "用事があったので、朝一番で本社を訪れました。 (Tôi có việc phải làm nên việc đầu tiên tôi đến thăm trụ sở vào buổi sáng.)"
+  },
+  {
+    "word": "支店",
+    "meaning": "văn phòng chi nhánh",
+    "reading": "してん",
+    "sinoVietnamese": "ĐIẾM",
+    "example": "夕方になると、支店の周辺は涼しい風が吹いて快適です。 (Buổi tối, gió mát thổi quanh cành, khiến người ta dễ chịu.)"
+  },
+  {
+    "word": "教会",
+    "meaning": "nhà thờ",
+    "reading": "きょうかい",
+    "sinoVietnamese": "GIÁO HỘI",
+    "example": "教会が終わった後、参加者みんなで記念写真を撮りました。 (Sau nhà thờ, tất cả những người tham gia đều chụp ảnh kỷ niệm.)"
+  },
+  {
+    "word": "大学院",
+    "meaning": "trường cao học",
+    "reading": "だいがくいん",
+    "sinoVietnamese": "ĐẠI HỌC VIỆN",
+    "example": "午前中に大学院で用事を済ませてから仕事に行きました。 (Tôi làm xong một số việc vặt ở trường cao học vào buổi sáng rồi đi làm.)"
+  },
+  {
+    "word": "動物園",
+    "meaning": "vườn bách thú, sở thú",
+    "reading": "どうぶつえん",
+    "sinoVietnamese": "ĐỘNG VẬT VIÊN",
+    "example": "動物園にはたくさんの観光客が訪れていて賑やかです。 (Vườn thú đông đúc với nhiều khách du lịch.)"
+  },
+  {
+    "word": "温泉",
+    "meaning": "thác nước nóng",
+    "reading": "おんせん",
+    "sinoVietnamese": "ÔN",
+    "example": "カバンの中に必要な温泉をしっかり入れて出かけました。 (Tôi gói ghém những suối nước nóng cần thiết vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "お客「さん」",
+    "meaning": "khách hàng, khách quý",
+    "reading": "おきゃく「さん」",
+    "sinoVietnamese": "",
+    "example": "友達と一緒に、珍しくて面白いお客を見に行きました。 (Tôi và bạn tôi đi gặp một số vị khách kỳ lạ và thú vị.)"
+  },
+  {
+    "word": "だれか",
+    "meaning": "ai đó",
+    "reading": "だれか",
+    "sinoVietnamese": "",
+    "example": "日本の文化や生活に関わるだれかについて興味深く学びました。 (Tôi đã học được những điều thú vị về những người tham gia vào văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "～の　方",
+    "meaning": "hướng về phía ～",
+    "reading": "～のほう",
+    "sinoVietnamese": "PHƯƠNG",
+    "example": "新しい～の　方を手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã có một ~ mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "残ります",
+    "meaning": "ở lại",
+    "reading": "のこります",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、残りますようにしています。 (Tôi cố gắng ở lại với nó mỗi ngày mà không bỏ lỡ nó.)"
+  },
+  {
+    "word": "月に",
+    "meaning": "một tháng",
+    "reading": "つきに",
+    "sinoVietnamese": "NGUYỆT",
+    "example": "月には家族と一緒に楽しい旅行に出かける計画です。 (Tôi đang có kế hoạch thực hiện một chuyến du lịch vui vẻ cùng gia đình vào tháng Giêng.)"
+  },
+  {
+    "word": "普通の",
+    "meaning": "thường xuyên",
+    "reading": "ふつうの",
+    "sinoVietnamese": "THÔNG",
+    "example": "店員さんに相談して、自分にぴったりの普通のを選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được loại bình thường phù hợp với mình.)"
+  },
+  {
+    "word": "インターネット",
+    "meaning": "mạng",
+    "reading": "インターネット",
+    "sinoVietnamese": "",
+    "example": "日本の文化や生活に関わるインターネットについて興味深く学びました。 (Tôi đã tìm hiểu một cách thú vị về Internet vì nó liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "閉じます",
+    "meaning": "nhằm mục đích",
+    "reading": "とじます",
+    "sinoVietnamese": "BẾ",
+    "example": "毎日欠かさずに、閉じますようにしています。 (Tôi cố gắng đóng nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "都会",
+    "meaning": "thành phố",
+    "reading": "とかい",
+    "sinoVietnamese": "ĐÔ HỘI",
+    "example": "年に一度の盛大な都会をみんなで楽しみに待っています。 (Tất cả chúng ta đều mong chờ sự kiện lớn của thành phố diễn ra mỗi năm một lần.)"
+  },
+  {
+    "word": "子供たち",
+    "meaning": "bọn trẻ",
+    "reading": "こどもたち",
+    "sinoVietnamese": "TỬ",
+    "example": "子供たちはいつも優しくて、私のことを応援してくれます。 (Các con luôn tốt bụng và ủng hộ tôi.)"
+  },
+  {
+    "word": "世界中",
+    "meaning": "trên toàn thế giới",
+    "reading": "せかいじゅう",
+    "sinoVietnamese": "THẾ GIỚI TRUNG",
+    "example": "日本の文化や生活に関わる世界中について興味深く学びました。 (Tôi đã học được những điều thú vị về thế giới liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "集まります",
+    "meaning": "cuộc biểu tình",
+    "reading": "あつまります",
+    "sinoVietnamese": "TẬP",
+    "example": "毎日欠かさずに、集まりますようにしています。 (Chúng tôi cố gắng ở bên nhau mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "美しい",
+    "meaning": "xinh đẹp",
+    "reading": "うつくしい",
+    "sinoVietnamese": "",
+    "example": "この本はとても美しいので、おすすめです。 (Cuốn sách này rất hay và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "自然",
+    "meaning": "thiên nhiên",
+    "reading": "しぜん",
+    "sinoVietnamese": "TỰ",
+    "example": "カバンの中に必要な自然をしっかり入れて出かけました。 (Tôi ra ngoài với tất cả những gì cần thiết trong túi của mình.)"
+  },
+  {
+    "word": "すばらしさ",
+    "meaning": "tuyệt vời",
+    "reading": "すばらしさ",
+    "sinoVietnamese": "",
+    "example": "丁寧にお手入れをしながら、お気に入りのすばらしさを長く愛用しています。 (Với sự chăm sóc cẩn thận, bạn có thể sử dụng vẻ đẹp lộng lẫy yêu thích của mình trong một thời gian dài.)"
+  },
+  {
+    "word": "気が付きます",
+    "meaning": "thông báo",
+    "reading": "きがつきます",
+    "sinoVietnamese": "KHÍ PHÓ",
+    "example": "毎日欠かさずに、気が付きますようにしています。 (Tôi cố gắng nhận thức được nó mỗi ngày mà không thất bại.)"
+  }
+]

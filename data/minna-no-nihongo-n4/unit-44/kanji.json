@@ -1,0 +1,142 @@
+[
+  {
+    "id": "k44-1",
+    "character": "泣",
+    "onyomi": "キュウ",
+    "kunyomi": "な.く",
+    "meaning": "Hán tự 泣",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "泣く",
+        "reading": "なく",
+        "meaning": "khóc"
+      },
+      {
+        "compound": "泣きます",
+        "reading": "なきます Ⅰ",
+        "meaning": "khóc"
+      }
+    ]
+  },
+  {
+    "id": "k44-2",
+    "character": "笑",
+    "onyomi": "ショウ",
+    "kunyomi": "わら.う, え.む",
+    "meaning": "Hán tự 笑",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "笑顔",
+        "reading": "えがお",
+        "meaning": "khuôn mặt tươi cười"
+      },
+      {
+        "compound": "微笑む",
+        "reading": "ほほえむ",
+        "meaning": "mỉm cười"
+      }
+    ]
+  },
+  {
+    "id": "k44-3",
+    "character": "乾",
+    "onyomi": "カン, ケン",
+    "kunyomi": "かわ.く, かわ.かす, ほ.す, ひ.る, いぬい",
+    "meaning": "CAN (chữ Hán CAN)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "乾く",
+        "reading": "かわく",
+        "meaning": "bị khô"
+      },
+      {
+        "compound": "乾きます",
+        "reading": "かわきます Ⅰ",
+        "meaning": "sấy khô"
+      }
+    ]
+  },
+  {
+    "id": "k44-4",
+    "character": "滑",
+    "onyomi": "カツ, コツ",
+    "kunyomi": "すべ.る, なめ.らか",
+    "meaning": "HOẠT (chữ Hán HOẠT)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "滑る",
+        "reading": "すべる",
+        "meaning": "trượt"
+      },
+      {
+        "compound": "滑ります",
+        "reading": "すべります Ⅰ",
+        "meaning": "trượt"
+      }
+    ]
+  },
+  {
+    "id": "k44-7",
+    "character": "節",
+    "onyomi": "セツ, セチ",
+    "kunyomi": "ふし, -ぶし, のっと",
+    "meaning": "TIẾT (chữ Hán TIẾT)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "節約",
+        "reading": "せつやく",
+        "meaning": "tiết kiệm"
+      },
+      {
+        "compound": "節",
+        "reading": "ふし",
+        "meaning": "điều chỉnh"
+      }
+    ]
+  },
+  {
+    "id": "k44-9",
+    "character": "全",
+    "onyomi": "ゼン",
+    "kunyomi": "まった.く, すべ.て",
+    "meaning": "TOÀN (chữ Hán TOÀN)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "完全",
+        "reading": "かんぜん",
+        "meaning": "sự hoàn hảo"
+      },
+      {
+        "compound": "全て",
+        "reading": "すべて",
+        "meaning": "tất cả"
+      }
+    ]
+  },
+  {
+    "id": "k44-10",
+    "character": "丁",
+    "onyomi": "チョウ, テイ, チン, トウ, チ",
+    "kunyomi": "ひのと",
+    "meaning": "ĐINH (chữ Hán ĐINH)",
+    "strokes": 2,
+    "examples": [
+      {
+        "compound": "丁寧",
+        "reading": "ていねい",
+        "meaning": "lịch sự"
+      },
+      {
+        "compound": "丁度いい",
+        "reading": "ちょうどいい",
+        "meaning": "vừa phải, vừa vặn"
+      }
+    ]
+  }
+]

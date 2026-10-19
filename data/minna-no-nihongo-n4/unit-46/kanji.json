@@ -1,0 +1,102 @@
+[
+  {
+    "id": "k46-2",
+    "character": "渡",
+    "onyomi": "ト",
+    "kunyomi": "わた.る, -わた.る, わた.す",
+    "meaning": "ĐỘ (trao cho, qua sông, chuyển giao)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "渡す",
+        "reading": "わたす",
+        "meaning": "trao cho, đưa cho"
+      },
+      {
+        "compound": "渡る",
+        "reading": "わたる",
+        "meaning": "băng qua (cầu, đường)"
+      }
+    ]
+  },
+  {
+    "id": "k46-7",
+    "character": "宅",
+    "onyomi": "タク",
+    "kunyomi": "-",
+    "meaning": "TRẠCH (chữ Hán TRẠCH)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "帰宅",
+        "reading": "きたく",
+        "meaning": "trở về nhà"
+      },
+      {
+        "compound": "住宅",
+        "reading": "じゅうたく",
+        "meaning": "thường trú"
+      }
+    ]
+  },
+  {
+    "id": "k46-8",
+    "character": "配",
+    "onyomi": "ハイ",
+    "kunyomi": "くば.る",
+    "meaning": "PHỐI (phân phối, lo lắng)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "支配",
+        "reading": "しはい",
+        "meaning": "cai trị"
+      },
+      {
+        "compound": "配達",
+        "reading": "はいたつ",
+        "meaning": "giao hàng"
+      }
+    ]
+  },
+  {
+    "id": "k46-9",
+    "character": "便",
+    "onyomi": "ベン, ビン",
+    "kunyomi": "たよ.り",
+    "meaning": "TIỆN (thuận tiện, thư tín)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "便り",
+        "reading": "たより",
+        "meaning": "tin tức"
+      },
+      {
+        "compound": "便",
+        "reading": "びん",
+        "meaning": "chuyến bay (ví dụ: chuyến bay của hãng hàng không)"
+      }
+    ]
+  },
+  {
+    "id": "k46-10",
+    "character": "原",
+    "onyomi": "ゲン",
+    "kunyomi": "はら",
+    "meaning": "NGUYÊN (chữ Hán NGUYÊN)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "原",
+        "reading": "はら",
+        "meaning": "lĩnh vực"
+      },
+      {
+        "compound": "秋葉原",
+        "reading": "あきはばら",
+        "meaning": "cửa hàng bách hóa điện tử nổi tiếng ở tokyo"
+      }
+    ]
+  }
+]

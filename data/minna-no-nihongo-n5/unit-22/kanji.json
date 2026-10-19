@@ -1,0 +1,112 @@
+[
+  {
+    "id": "k-n5-22-1",
+    "character": "着",
+    "onyomi": "チャク, ジャク",
+    "kunyomi": "き.る, き.せる, つ.く, つ.ける",
+    "meaning": "TRỨ (mặc áo, đến nơi)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "到着",
+        "reading": "とうちゃく",
+        "meaning": "sự đến"
+      },
+      {
+        "compound": "着る",
+        "reading": "きる",
+        "meaning": "mặc"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-22-2",
+    "character": "生",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う",
+    "meaning": "SINH (sinh sống, sinh ra, sinh viên)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "生き物",
+        "reading": "いきもの",
+        "meaning": "sinh vật sống"
+      },
+      {
+        "compound": "一生",
+        "reading": "いっしょう",
+        "meaning": "cả cuộc đời"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-22-3",
+    "character": "帽",
+    "onyomi": "ボウ, モウ",
+    "kunyomi": "ずきん, おお.う",
+    "meaning": "MẠO (chữ Hán MẠO)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "帽子",
+        "reading": "ぼうし",
+        "meaning": "mũ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-22-5",
+    "character": "眼",
+    "onyomi": "ガン, ゲン",
+    "kunyomi": "まなこ, め",
+    "meaning": "NHÃN (chữ Hán NHÃN)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "眼鏡",
+        "reading": "めがね",
+        "meaning": "kính"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-22-6",
+    "character": "鏡",
+    "onyomi": "キョウ, ケイ",
+    "kunyomi": "かがみ",
+    "meaning": "KÍNH (chữ Hán KÍNH)",
+    "strokes": 19,
+    "examples": [
+      {
+        "compound": "鏡",
+        "reading": "かがみ",
+        "meaning": "chiếc gương"
+      },
+      {
+        "compound": "眼鏡",
+        "reading": "めがね",
+        "meaning": "kính"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-22-8",
+    "character": "家",
+    "onyomi": "カ, ケ",
+    "kunyomi": "いえ, や, うち",
+    "meaning": "GIA (chữ Hán GIA)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "一家",
+        "reading": "いっか",
+        "meaning": "một ngôi nhà"
+      },
+      {
+        "compound": "大家",
+        "reading": "おおや",
+        "meaning": "chủ nhà"
+      }
+    ]
+  }
+]

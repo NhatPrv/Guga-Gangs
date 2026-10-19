@@ -1,0 +1,157 @@
+[
+  {
+    "id": "k-n5-2-1",
+    "character": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "meaning": "BẢN (cuốn sách, nguồn gốc, bản chất)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "基本",
+        "reading": "きほん",
+        "meaning": "nền móng"
+      },
+      {
+        "compound": "資本",
+        "reading": "しほん",
+        "meaning": "quỹ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-2-2",
+    "character": "辞",
+    "onyomi": "ジ",
+    "kunyomi": "や.める, いな.む",
+    "meaning": "TỪ (chữ Hán TỪ)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "辞める",
+        "reading": "やめる",
+        "meaning": "nghỉ hưu"
+      },
+      {
+        "compound": "辞典",
+        "reading": "じてん",
+        "meaning": "từ điển"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-2-3",
+    "character": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か.く, -が.き, -がき",
+    "meaning": "THƯ (viết, thư từ, cuốn sách)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "教科書",
+        "reading": "きょうかしょ",
+        "meaning": "sách văn bản"
+      },
+      {
+        "compound": "書斎",
+        "reading": "しょさい",
+        "meaning": "học tập"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-2-4",
+    "character": "雑",
+    "onyomi": "ザツ, ゾウ",
+    "kunyomi": "まじ.える, まじ.る",
+    "meaning": "Hán tự 雑",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "混雑",
+        "reading": "こんざつ",
+        "meaning": "sự nhầm lẫn"
+      },
+      {
+        "compound": "複雑",
+        "reading": "ふくざつ",
+        "meaning": "sự phức tạp"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-2-5",
+    "character": "誌",
+    "onyomi": "シ",
+    "kunyomi": "-",
+    "meaning": "CHÍ (chữ Hán CHÍ)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "雑誌",
+        "reading": "ざっし",
+        "meaning": "tạp chí"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-2-6",
+    "character": "新",
+    "onyomi": "シン",
+    "kunyomi": "あたら.しい, あら.た, あら-, にい-",
+    "meaning": "TÂN (mới mẻ, tươi mới)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "新た",
+        "reading": "あらた",
+        "meaning": "mới"
+      },
+      {
+        "compound": "新鮮",
+        "reading": "しんせん",
+        "meaning": "tươi"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-2-7",
+    "character": "聞",
+    "onyomi": "ブン, モン",
+    "kunyomi": "き.く, き.こえる",
+    "meaning": "VĂN (nghe, hỏi, tin tức)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "聞こえる",
+        "reading": "きこえる",
+        "meaning": "nghe thấy"
+      },
+      {
+        "compound": "新聞社",
+        "reading": "しんぶんしゃ",
+        "meaning": "công ty"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-2-8",
+    "character": "手",
+    "onyomi": "シュ, ズ",
+    "kunyomi": "て, て-, -て, た-",
+    "meaning": "THỦ (bàn tay, thủ công)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "握手",
+        "reading": "あくしゅ",
+        "meaning": "cái bắt tay"
+      },
+      {
+        "compound": "手術",
+        "reading": "しゅじゅつ",
+        "meaning": "phẫu thuật"
+      }
+    ]
+  }
+]

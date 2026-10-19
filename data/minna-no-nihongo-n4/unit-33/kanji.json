@@ -1,0 +1,142 @@
+[
+  {
+    "id": "k33-1",
+    "character": "逃",
+    "onyomi": "トウ",
+    "kunyomi": "に.げる, に.がす, のが.す, のが.れる",
+    "meaning": "ĐÀO (chạy trốn, đào tẩu)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "逃げる",
+        "reading": "にげる",
+        "meaning": "chạy trốn, bỏ chạy"
+      },
+      {
+        "compound": "逃げます",
+        "reading": "にげます",
+        "meaning": "bỏ chạy, chạy trốn"
+      }
+    ]
+  },
+  {
+    "id": "k33-2",
+    "character": "騒",
+    "onyomi": "ソウ",
+    "kunyomi": "さわ.ぐ, うれい, さわ.がしい",
+    "meaning": "TAO (chữ Hán TAO)",
+    "strokes": 18,
+    "examples": [
+      {
+        "compound": "騒ぎ",
+        "reading": "さわぎ",
+        "meaning": "sự náo động"
+      },
+      {
+        "compound": "騒ぐ",
+        "reading": "さわぐ",
+        "meaning": "gây ồn ào"
+      }
+    ]
+  },
+  {
+    "id": "k33-3",
+    "character": "投",
+    "onyomi": "トウ",
+    "kunyomi": "な.げる, -な.げ",
+    "meaning": "ĐẦU (chữ Hán ĐẦU)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "投票",
+        "reading": "とうひょう",
+        "meaning": "bỏ phiếu"
+      },
+      {
+        "compound": "投げる",
+        "reading": "なげる",
+        "meaning": "vứt hoặc vứt đi"
+      }
+    ]
+  },
+  {
+    "id": "k33-4",
+    "character": "守",
+    "onyomi": "シュ, ス",
+    "kunyomi": "まも.る, まも.り, もり, -もり, かみ",
+    "meaning": "THỦ (bảo vệ, giữ gìn)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "守る",
+        "reading": "まもる",
+        "meaning": "bảo vệ"
+      },
+      {
+        "compound": "守ります",
+        "reading": "まもります",
+        "meaning": "bảo vệ, tuân thủ"
+      }
+    ]
+  },
+  {
+    "id": "k33-7",
+    "character": "伝",
+    "onyomi": "デン, テン",
+    "kunyomi": "つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて",
+    "meaning": "TRUYỀN (chữ Hán TRUYỀN)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "手伝い",
+        "reading": "てつだい",
+        "meaning": "giúp đỡ"
+      },
+      {
+        "compound": "伝統",
+        "reading": "でんとう",
+        "meaning": "truyền thống"
+      }
+    ]
+  },
+  {
+    "id": "k33-8",
+    "character": "注",
+    "onyomi": "チュウ",
+    "kunyomi": "そそ.ぐ, さ.す, つ.ぐ",
+    "meaning": "CHÚ (chữ Hán CHÚ)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "注ぐ",
+        "reading": "そそぐ",
+        "meaning": "đổ (vào)"
+      },
+      {
+        "compound": "注",
+        "reading": "ちゅう",
+        "meaning": "chú thích"
+      }
+    ]
+  },
+  {
+    "id": "k33-9",
+    "character": "意",
+    "onyomi": "イ",
+    "kunyomi": "-",
+    "meaning": "Ý (ý chí, ý nghĩa, ý kiến)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "意外",
+        "reading": "いがい",
+        "meaning": "bất ngờ"
+      },
+      {
+        "compound": "意志",
+        "reading": "いし",
+        "meaning": "sẽ"
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "k-n5-17-1",
+    "character": "覚",
+    "onyomi": "カク",
+    "kunyomi": "おぼ.える, さ.ます, さ.める, さと.る",
+    "meaning": "GIÁC (chữ Hán GIÁC)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "覚悟",
+        "reading": "かくご",
+        "meaning": "độ phân giải"
+      },
+      {
+        "compound": "感覚",
+        "reading": "かんかく",
+        "meaning": "giác quan"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-17-2",
+    "character": "忘",
+    "onyomi": "ボウ",
+    "kunyomi": "わす.れる",
+    "meaning": "VONG (quên lãng)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "忘れる",
+        "reading": "わすれる",
+        "meaning": "quên"
+      },
+      {
+        "compound": "忘れ物",
+        "reading": "わすれもの",
+        "meaning": "quên nó đi"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-17-4",
+    "character": "払",
+    "onyomi": "フツ, ヒツ, ホツ",
+    "kunyomi": "はら.う, -はら.い, -ばら.い",
+    "meaning": "PHẤT (chi trả tiền, quét sạch)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "払う",
+        "reading": "はらう",
+        "meaning": "trả tiền, thanh toán"
+      },
+      {
+        "compound": "支払い",
+        "reading": "しはらい",
+        "meaning": "sự thanh toán, chi trả"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-17-5",
+    "character": "返",
+    "onyomi": "ヘン",
+    "kunyomi": "かえ.す, -かえ.す, かえ.る, -かえ.る",
+    "meaning": "PHẢN (chữ Hán PHẢN)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "繰り返す",
+        "reading": "くりかえす",
+        "meaning": "lặp lại"
+      },
+      {
+        "compound": "返す",
+        "reading": "かえす",
+        "meaning": "trả lại"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-17-6",
+    "character": "脱",
+    "onyomi": "ダツ",
+    "kunyomi": "ぬ.ぐ, ぬ.げる",
+    "meaning": "THOÁT (chữ Hán THOÁT)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "脱ぐ",
+        "reading": "ぬぐ",
+        "meaning": "cởi quần áo"
+      },
+      {
+        "compound": "脱ぎます",
+        "reading": "ぬぎます",
+        "meaning": "cất cánh"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-17-7",
+    "character": "持",
+    "onyomi": "ジ",
+    "kunyomi": "も.つ, -も.ち, も.てる",
+    "meaning": "TRÌ (cầm nắm, duy trì)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "維持",
+        "reading": "いじ",
+        "meaning": "bảo trì"
+      },
+      {
+        "compound": "金持ち",
+        "reading": "かねもち",
+        "meaning": "người đàn ông giàu có"
+      }
+    ]
+  }
+]

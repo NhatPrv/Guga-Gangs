@@ -1,0 +1,172 @@
+[
+  {
+    "id": "k42-1",
+    "character": "包",
+    "onyomi": "ホウ",
+    "kunyomi": "つつ.む, くる.む",
+    "meaning": "BAO (chữ Hán BAO)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "小包",
+        "reading": "こづつみ",
+        "meaning": "bưu kiện"
+      },
+      {
+        "compound": "包み",
+        "reading": "つつみ",
+        "meaning": "bó"
+      }
+    ]
+  },
+  {
+    "id": "k42-2",
+    "character": "沸",
+    "onyomi": "フツ",
+    "kunyomi": "わ.く, わ.かす",
+    "meaning": "Hán tự 沸",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "沸かす",
+        "reading": "わかす",
+        "meaning": "đun sôi, sôi"
+      },
+      {
+        "compound": "沸く",
+        "reading": "わく",
+        "meaning": "đun sôi, sôi"
+      }
+    ]
+  },
+  {
+    "id": "k42-3",
+    "character": "混",
+    "onyomi": "コン",
+    "kunyomi": "ま.じる, -ま.じり, ま.ざる, ま.ぜる, こ.む",
+    "meaning": "HỖN (chữ Hán HỖN)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "混雑",
+        "reading": "こんざつ",
+        "meaning": "sự nhầm lẫn"
+      },
+      {
+        "compound": "混乱",
+        "reading": "こんらん",
+        "meaning": "rối loạn"
+      }
+    ]
+  },
+  {
+    "id": "k42-4",
+    "character": "計",
+    "onyomi": "ケイ",
+    "kunyomi": "はか.る, はか.らう",
+    "meaning": "KẾ (chữ Hán KẾ)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "会計",
+        "reading": "かいけい",
+        "meaning": "tài khoản"
+      },
+      {
+        "compound": "計",
+        "reading": "けい",
+        "meaning": "kế hoạch"
+      }
+    ]
+  },
+  {
+    "id": "k42-5",
+    "character": "算",
+    "onyomi": "サン",
+    "kunyomi": "そろ",
+    "meaning": "TOÁN (chữ Hán TOÁN)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "計算",
+        "reading": "けいさん",
+        "meaning": "tính toán"
+      },
+      {
+        "compound": "予算",
+        "reading": "よさん",
+        "meaning": "ước tính"
+      }
+    ]
+  },
+  {
+    "id": "k42-6",
+    "character": "厚",
+    "onyomi": "コウ",
+    "kunyomi": "あつ.い, あか",
+    "meaning": "HẬU (chữ Hán HẬU)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "厚い",
+        "reading": "あつい",
+        "meaning": "loại"
+      }
+    ]
+  },
+  {
+    "id": "k42-7",
+    "character": "薄",
+    "onyomi": "ハク",
+    "kunyomi": "うす.い, うす-, -うす, うす.める, うす.まる, うす.らぐ, うす.ら-, うす.れる, すすき",
+    "meaning": "BẠC (chữ Hán BẠC)",
+    "strokes": 16,
+    "examples": [
+      {
+        "compound": "薄い",
+        "reading": "うすい",
+        "meaning": "mỏng, nhạt"
+      }
+    ]
+  },
+  {
+    "id": "k42-8",
+    "character": "弁",
+    "onyomi": "ベン, ヘン",
+    "kunyomi": "かんむり, わきま.える, わ.ける, はなびら, あらそ.う",
+    "meaning": "BIỆN (chữ Hán BIỆN)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "弁当",
+        "reading": "べんとう",
+        "meaning": "hộp cơm trưa"
+      },
+      {
+        "compound": "大阪弁(方言）",
+        "reading": "べん　（ほうげん）",
+        "meaning": "osaka, phương ngữ"
+      }
+    ]
+  },
+  {
+    "id": "k42-9",
+    "character": "護",
+    "onyomi": "ゴ",
+    "kunyomi": "まも.る",
+    "meaning": "HỘ (chữ Hán HỘ)",
+    "strokes": 20,
+    "examples": [
+      {
+        "compound": "看護婦",
+        "reading": "かんごふ",
+        "meaning": "nữ y tá"
+      },
+      {
+        "compound": "弁護士",
+        "reading": "べんごし",
+        "meaning": "luật sư"
+      }
+    ]
+  }
+]

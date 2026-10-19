@@ -1,0 +1,142 @@
+[
+  {
+    "id": "k-core-n5-1-3",
+    "character": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "meaning": "QUỐC (đất nước, quốc gia)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "国語",
+        "reading": "こくご",
+        "meaning": "quốc ngữ"
+      },
+      {
+        "compound": "国民",
+        "reading": "こくみん",
+        "meaning": "quốc gia"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-1-5",
+    "character": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "meaning": "NIÊN (năm, tuổi tác)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "少年",
+        "reading": "しょうねん",
+        "meaning": "chàng trai"
+      },
+      {
+        "compound": "青年",
+        "reading": "せいねん",
+        "meaning": "tuổi trẻ"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-1-7",
+    "character": "十",
+    "onyomi": "ジュウ, ジッ, ジュッ",
+    "kunyomi": "とお, と, そ",
+    "meaning": "THẬP (mười, số 10)",
+    "strokes": 2,
+    "examples": [
+      {
+        "compound": "十分",
+        "reading": "じゅうぶん",
+        "meaning": "đủ rồi"
+      },
+      {
+        "compound": "十",
+        "reading": "じゅう",
+        "meaning": "mười"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-1-10",
+    "character": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか, うち, あた.る",
+    "meaning": "TRUNG (ở giữa, bên trong)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "最中",
+        "reading": "さいちゅう",
+        "meaning": "ở giữa"
+      },
+      {
+        "compound": "集中",
+        "reading": "しゅうちゅう",
+        "meaning": "sự tập trung"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-1-11",
+    "character": "長",
+    "onyomi": "チョウ",
+    "kunyomi": "なが.い, おさ",
+    "meaning": "TRƯỜNG (dài lâu, đứng đầu)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "議長",
+        "reading": "ぎちょう",
+        "meaning": "chủ tịch"
+      },
+      {
+        "compound": "身長",
+        "reading": "しんちょう",
+        "meaning": "chiều cao (của cơ thể)"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-1-14",
+    "character": "時",
+    "onyomi": "ジ",
+    "kunyomi": "とき, -どき",
+    "meaning": "THỜI (thời gian, giờ giấc, thời điểm)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "一時",
+        "reading": "いちじ",
+        "meaning": "khoảnh khắc"
+      },
+      {
+        "compound": "時期",
+        "reading": "じき",
+        "meaning": "thời gian"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-1-17",
+    "character": "月",
+    "onyomi": "ゲツ, ガツ",
+    "kunyomi": "つき",
+    "meaning": "NGUYỆT (mặt trăng, tháng)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "月曜",
+        "reading": "げつよう",
+        "meaning": "thứ hai"
+      },
+      {
+        "compound": "年月",
+        "reading": "としつき",
+        "meaning": "tháng và năm"
+      }
+    ]
+  }
+]

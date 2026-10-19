@@ -1,0 +1,331 @@
+[
+  {
+    "word": "います",
+    "meaning": "tồn tại, được",
+    "reading": "います",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、いますようにしています。 (Tôi cố gắng có mặt ở đó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "いろいろ「な」",
+    "meaning": "khác nhau",
+    "reading": "いろいろ「な」",
+    "sinoVietnamese": "",
+    "example": "日本の文化や生活に関わるいろいろについて興味深く学びました。 (Tôi đã học được rất nhiều điều về văn hóa và cuộc sống Nhật Bản với sự quan tâm sâu sắc.)"
+  },
+  {
+    "word": "男の人",
+    "meaning": "người đàn ông",
+    "reading": "おとこのひと",
+    "sinoVietnamese": "NAM NHÂN",
+    "example": "誕生日に男の人へ感謝の気持ちを込めて手紙を書きました。 (Tôi đã viết một lá thư cho một người đàn ông vào ngày sinh nhật của anh ấy để bày tỏ lòng biết ơn của mình.)"
+  },
+  {
+    "word": "女の人",
+    "meaning": "người phụ nữ",
+    "reading": "おんなのひと",
+    "sinoVietnamese": "NỮ NHÂN",
+    "example": "休日は女の人と一緒に美味しいご飯を食べに行きます。 (Vào những ngày nghỉ, tôi đi ăn đồ ngon với một người phụ nữ.)"
+  },
+  {
+    "word": "男の子",
+    "meaning": "cậu bé",
+    "reading": "おとこのこ",
+    "sinoVietnamese": "NAM TỬ",
+    "example": "男の子の笑顔を見ると、とても元気が出ます。 (Nhìn nụ cười của cậu bé khiến tôi cảm thấy tràn đầy sinh lực.)"
+  },
+  {
+    "word": "女の子",
+    "meaning": "cô gái",
+    "reading": "おんなのこ",
+    "sinoVietnamese": "NỮ TỬ",
+    "example": "女の子はいつも優しくて、私のことを応援してくれます。 (Các cô gái luôn tốt bụng và ủng hộ tôi.)"
+  },
+  {
+    "word": "犬",
+    "meaning": "con chó",
+    "reading": "いぬ",
+    "sinoVietnamese": "KHUYỂN",
+    "example": "店員さんに相談して、自分にぴったりの犬を選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được chú chó phù hợp nhất với mình.)"
+  },
+  {
+    "word": "猫",
+    "meaning": "con mèo",
+    "reading": "ねこ",
+    "sinoVietnamese": "",
+    "example": "丁寧にお手入れをしながら、お気に入りの猫を長く愛用しています。 (Bạn có thể sử dụng chú mèo yêu thích của mình trong thời gian dài nếu chăm sóc nó cẩn thận.)"
+  },
+  {
+    "word": "木",
+    "meaning": "cây cối",
+    "reading": "き",
+    "sinoVietnamese": "MỘC",
+    "example": "使いやすい木のおかげで、毎日の生活がとても快適になりました。 (Nhờ chất liệu gỗ dễ sử dụng, cuộc sống hàng ngày đã trở nên tiện nghi hơn rất nhiều.)"
+  },
+  {
+    "word": "物",
+    "meaning": "điều",
+    "reading": "もの",
+    "sinoVietnamese": "VẬT",
+    "example": "父から大切な物を譲り受けて、大事に使っています。 (Tôi thừa hưởng một thứ quan trọng từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+  },
+  {
+    "word": "フイルム",
+    "meaning": "phim",
+    "reading": "フイルム",
+    "sinoVietnamese": "",
+    "example": "店員さんに相談して、自分にぴったりのフイルムを選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn bộ phim phù hợp nhất với mình.)"
+  },
+  {
+    "word": "電池",
+    "meaning": "pin",
+    "reading": "でんち",
+    "sinoVietnamese": "ĐIỆN TRÌ",
+    "example": "店員さんに相談して、自分にぴったりの電池を選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn loại pin hoàn hảo cho mình.)"
+  },
+  {
+    "word": "箱",
+    "meaning": "hộp",
+    "reading": "はこ",
+    "sinoVietnamese": "",
+    "example": "店員さんに相談して、自分にぴったりの箱を選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn chiếc hộp phù hợp nhất với mình.)"
+  },
+  {
+    "word": "スイッチ",
+    "meaning": "chuyển đổi",
+    "reading": "スイッチ",
+    "sinoVietnamese": "",
+    "example": "店員さんに相談して、自分にぴったりのスイッチを選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn công tắc phù hợp nhất với mình.)"
+  },
+  {
+    "word": "冷蔵庫",
+    "meaning": "tủ lạnh",
+    "reading": "れいぞうこ",
+    "sinoVietnamese": "LÃNH",
+    "example": "日本の文化や生活に関わる冷蔵庫について興味深く学びました。 (Tôi đã tìm hiểu một cách thú vị về chiếc tủ lạnh, thứ gắn liền với văn hóa và cuộc sống của người Nhật.)"
+  },
+  {
+    "word": "テーブル",
+    "meaning": "bảng",
+    "reading": "テーブル",
+    "sinoVietnamese": "",
+    "example": "日本の文化や生活に関わるテーブルについて興味深く学びました。 (Tôi được tìm hiểu một cách thú vị về những chiếc bàn liên quan đến văn hóa và đời sống Nhật Bản.)"
+  },
+  {
+    "word": "ベッド",
+    "meaning": "chiếc giường ngủ",
+    "reading": "ベッド",
+    "sinoVietnamese": "",
+    "example": "父から大切なベッドを譲り受けて、大事に使っています。 (Tôi được thừa hưởng một chiếc giường quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+  },
+  {
+    "word": "棚",
+    "meaning": "kệ",
+    "reading": "たな",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要な棚をしっかり入れて出かけました。 (Tôi đóng gói những chiếc kệ cần thiết vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "ドア",
+    "meaning": "cửa",
+    "reading": "ドア",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要なドアをしっかり入れて出かけました。 (Tôi đảm bảo đã đặt những cánh cửa cần thiết vào túi của mình và đi ra ngoài.)"
+  },
+  {
+    "word": "窓",
+    "meaning": "cửa sổ",
+    "reading": "まど",
+    "sinoVietnamese": "SONG",
+    "example": "カバンの中に必要な窓をしっかり入れて出かけました。 (Tôi đảm bảo đã đặt những cửa sổ cần thiết vào túi của mình và đi ra ngoài.)"
+  },
+  {
+    "word": "ポスト",
+    "meaning": "hòm thư, thùng thư",
+    "reading": "ポスト",
+    "sinoVietnamese": "",
+    "example": "使いやすいポストのおかげで、毎日の生活がとても快適になりました。 (Nhờ hộp thư dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+  },
+  {
+    "word": "ビル",
+    "meaning": "tòa nhà cao tầng",
+    "reading": "ビル",
+    "sinoVietnamese": "",
+    "example": "友達と一緒に、珍しくて面白いビルを見に行きました。 (Tôi và bạn tôi đã đi xem một số tòa nhà khác thường và thú vị.)"
+  },
+  {
+    "word": "喫茶店",
+    "meaning": "quán cà phê, quán giải khát",
+    "reading": "きっさてん",
+    "sinoVietnamese": "TRÀ ĐIẾM",
+    "example": "引越して以来、よく近くの喫茶店を利用しています。 (Kể từ khi chuyển đi, tôi thường xuyên lui tới quán cà phê gần đó.)"
+  },
+  {
+    "word": "本屋",
+    "meaning": "cuốn sách",
+    "reading": "ほんや",
+    "sinoVietnamese": "BẢN ỐC",
+    "example": "夕方になると、本屋の周辺は涼しい風が吹いて快適です。 (Buổi tối, một làn gió mát thổi quanh hiệu sách, khiến người ta cảm thấy dễ chịu.)"
+  },
+  {
+    "word": "～屋",
+    "meaning": "cửa hàng ～, tiệm ～",
+    "reading": "～や",
+    "sinoVietnamese": "ỐC",
+    "example": "今度の週末、友達と一緒に～屋へ出かけます。 (Cuối tuần tới, tôi sẽ đi ~ya với bạn bè.)"
+  },
+  {
+    "word": "乗り場",
+    "meaning": "xe taxi",
+    "reading": "のりば",
+    "sinoVietnamese": "TRƯỜNG",
+    "example": "今度の週末、友達と一緒に乗り場へ出かけます。 (Cuối tuần tới, tôi sẽ đến ga xe lửa với bạn bè.)"
+  },
+  {
+    "word": "県",
+    "meaning": "tỉnh",
+    "reading": "けん",
+    "sinoVietnamese": "HUYỆN",
+    "example": "丁寧にお手入れをしながら、お気に入りの県を長く愛用しています。 (Tôi đã sử dụng quận yêu thích của mình trong một thời gian dài và chăm sóc nó cẩn thận.)"
+  },
+  {
+    "word": "上",
+    "meaning": "bên trên, phía trên",
+    "reading": "うえ",
+    "sinoVietnamese": "THƯỢNG",
+    "example": "店員さんに相談して、自分にぴったりの上を選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn chiếc áo phù hợp nhất với mình.)"
+  },
+  {
+    "word": "下",
+    "meaning": "dưới, dưới, bên dưới",
+    "reading": "した",
+    "sinoVietnamese": "HẠ",
+    "example": "日本の文化や生活に関わる下について興味深く学びました。 (Thật thú vị khi tìm hiểu về văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "前",
+    "meaning": "phía trước, trước",
+    "reading": "まえ",
+    "sinoVietnamese": "TIỀN",
+    "example": "前までに提出しなければならない大事な書類があります。 (Có những giấy tờ quan trọng phải nộp trước.)"
+  },
+  {
+    "word": "うしろ",
+    "meaning": "trở lại, đằng sau",
+    "reading": "うしろ",
+    "sinoVietnamese": "",
+    "example": "父から大切なうしろを譲り受けて、大事に使っています。 (Tôi thừa hưởng phần thân sau quý giá từ cha tôi và tôi sử dụng chúng một cách cẩn thận.)"
+  },
+  {
+    "word": "右",
+    "meaning": "bên phải, phía bên phải",
+    "reading": "みぎ",
+    "sinoVietnamese": "HỮU",
+    "example": "父から大切な右を譲り受けて、大事に使っています。 (Tôi thừa hưởng bàn tay phải quý giá từ cha mình và tôi sử dụng nó một cách cẩn thận.)"
+  },
+  {
+    "word": "左",
+    "meaning": "bên trái, phía bên trái",
+    "reading": "ひだり",
+    "sinoVietnamese": "TẢ",
+    "example": "カバンの中に必要な左をしっかり入れて出かけました。 (Tôi bỏ những thứ cần thiết vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "中",
+    "meaning": "trong, bên trong",
+    "reading": "なか",
+    "sinoVietnamese": "TRUNG",
+    "example": "丁寧にお手入れをしながら、お気に入りの中を長く愛用しています。 (Tôi sử dụng những thứ tôi yêu thích trong một thời gian dài và chăm sóc chúng cẩn thận.)"
+  },
+  {
+    "word": "外",
+    "meaning": "bên ngoài",
+    "reading": "そと",
+    "sinoVietnamese": "NGOẠI",
+    "example": "日本の文化や生活に関わる外について興味深く学びました。 (Tôi rất hứng thú tìm hiểu về thế giới bên ngoài liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "隣",
+    "meaning": "bên cạnh, bên cạnh",
+    "reading": "となり",
+    "sinoVietnamese": "",
+    "example": "丁寧にお手入れをしながら、お気に入りの隣を長く愛用しています。 (Tôi đã sử dụng chiếc máy yêu thích của mình từ lâu, giữ gìn cẩn thận.)"
+  },
+  {
+    "word": "近く",
+    "meaning": "gần, lân cận",
+    "reading": "ちかく",
+    "sinoVietnamese": "CẬN",
+    "example": "毎日欠かさずに、近くようにしています。 (Tôi cố gắng theo kịp nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "間",
+    "meaning": "giữa, trong số",
+    "reading": "あいだ",
+    "sinoVietnamese": "GIAN",
+    "example": "日本の文化や生活に関わる間について興味深く学びました。 (Thật thú vị khi tìm hiểu về văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "～や～「など」",
+    "meaning": "～ và ～ (vân vân)",
+    "reading": "～や～「など」",
+    "sinoVietnamese": "",
+    "example": "丁寧にお手入れをしながら、お気に入りの～や～を長く愛用しています。 (Tôi đã sử dụng món yêu thích của mình ~ya~ từ lâu rồi và giữ gìn nó cẩn thận.)"
+  },
+  {
+    "word": "いちばん～",
+    "meaning": "nhất ～, vị trí số một",
+    "reading": "いちばん～",
+    "sinoVietnamese": "",
+    "example": "父から大切ないちばん～を譲り受けて、大事に使っています。 (Cha tôi đã cho tôi món đồ quý giá nhất của ông và tôi sử dụng nó một cách cẩn thận.)"
+  },
+  {
+    "word": "ー段目",
+    "meaning": "ngăn thứ ～, tầng kệ thứ ～",
+    "reading": "ーだんめ",
+    "sinoVietnamese": "ĐOẠN MỤC",
+    "example": "朝ご飯に温かいスープと美味しいー段目をいただきました。 (Tôi đã ăn súp nóng và món danmachi ngon tuyệt cho bữa sáng.)"
+  },
+  {
+    "word": "「どうも」すみません。",
+    "meaning": "cảm ơn bạn",
+    "reading": "「どうも」すみません。",
+    "sinoVietnamese": "",
+    "example": "すみません、写真を撮っていただけませんか。 (Xin lỗi, tôi có thể chụp ảnh được không?.)"
+  },
+  {
+    "word": "チリソース",
+    "meaning": "tương ớt",
+    "reading": "チリソース",
+    "sinoVietnamese": "",
+    "example": "友達と一緒に、珍しくて面白いチリソースを見に行きました。 (Tôi và bạn bè đi xem món tương ớt lạ và thú vị.)"
+  },
+  {
+    "word": "奥",
+    "meaning": "mặt sau",
+    "reading": "奥",
+    "sinoVietnamese": "",
+    "example": "友達と一緒に、珍しくて面白い奥を見に行きました。 (Tôi và bạn tôi đi xem mặt sau, thật khác thường và thú vị.)"
+  },
+  {
+    "word": "スパイス コーナー",
+    "meaning": "góc gia vị",
+    "reading": "スパイス コーナー",
+    "sinoVietnamese": "",
+    "example": "丁寧にお手入れをしながら、お気に入りのスパイス コーナを長く愛用しています。 (Góc gia vị yêu thích của tôi đã được sử dụng từ lâu, được chăm sóc cẩn thận.)"
+  },
+  {
+    "word": "東京ディズニーランド",
+    "meaning": "công viên Tokyo Disneyland",
+    "reading": "東京ディズニーランド",
+    "sinoVietnamese": "ĐÔNG KINH",
+    "example": "東京ディズニーランドにはたくさんの観光客が訪れていて賑やかです。 (Tokyo Disneyland là một nơi sôi động với nhiều khách du lịch ghé thăm.)"
+  },
+  {
+    "word": "ユニューや ストア",
+    "meaning": "siêu thị",
+    "reading": "ユニューや ストア",
+    "sinoVietnamese": "",
+    "example": "ユニューや ストアで新鮮な野菜や美味しい特産品を買いました。 (Chúng tôi mua rau tươi và các sản phẩm đặc sản thơm ngon tại cửa hàng Yunuya.)"
+  }
+]

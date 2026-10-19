@@ -1,0 +1,202 @@
+[
+  {
+    "id": "k-core-2-1",
+    "character": "題",
+    "onyomi": "ダイ",
+    "kunyomi": "-",
+    "meaning": "ĐỀ (tiêu đề, đề bài)",
+    "strokes": 18,
+    "examples": [
+      {
+        "compound": "題",
+        "reading": "だい",
+        "meaning": "tiêu đề"
+      },
+      {
+        "compound": "話題",
+        "reading": "わだい",
+        "meaning": "chủ đề"
+      }
+    ]
+  },
+  {
+    "id": "k-core-2-6",
+    "character": "度",
+    "onyomi": "ド, ト, タク",
+    "kunyomi": "たび, -た.い",
+    "meaning": "độ",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "一度に",
+        "reading": "いちどに",
+        "meaning": "tất cả cùng một lúc"
+      },
+      {
+        "compound": "温度",
+        "reading": "おんど",
+        "meaning": "nhiệt độ"
+      }
+    ]
+  },
+  {
+    "id": "k-core-2-8",
+    "character": "公",
+    "onyomi": "コウ, ク",
+    "kunyomi": "おおやけ",
+    "meaning": "CÔNG (công cộng, công bằng)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "公平",
+        "reading": "こうへい",
+        "meaning": "sự công bằng"
+      },
+      {
+        "compound": "公務員",
+        "reading": "こうむいん",
+        "meaning": "nhân viên chính phủ"
+      }
+    ]
+  },
+  {
+    "id": "k-core-2-10",
+    "character": "野",
+    "onyomi": "ヤ, ショ",
+    "kunyomi": "の, の-",
+    "meaning": "DÃ (đồng bằng)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "野",
+        "reading": "の",
+        "meaning": "lĩnh vực"
+      },
+      {
+        "compound": "分野",
+        "reading": "ぶんや",
+        "meaning": "lĩnh vực"
+      }
+    ]
+  },
+  {
+    "id": "k-core-2-11",
+    "character": "以",
+    "onyomi": "イ",
+    "kunyomi": "もっ.て",
+    "meaning": "DĨ (bằng cách)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "以前",
+        "reading": "いぜん",
+        "meaning": "trước đây"
+      },
+      {
+        "compound": "以来",
+        "reading": "いらい",
+        "meaning": "kể từ khi"
+      }
+    ]
+  },
+  {
+    "id": "k-core-2-20",
+    "character": "界",
+    "onyomi": "カイ",
+    "kunyomi": "-",
+    "meaning": "GIỚI (ranh giới, thế giới)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "限界",
+        "reading": "げんかい",
+        "meaning": "giới hạn"
+      },
+      {
+        "compound": "世界",
+        "reading": "せかい",
+        "meaning": "thế giới"
+      }
+    ]
+  },
+  {
+    "id": "k-core-2-22",
+    "character": "文",
+    "onyomi": "ブン, モン",
+    "kunyomi": "ふみ, あや",
+    "meaning": "VĂN (văn học, câu văn)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "注文",
+        "reading": "ちゅうもん",
+        "meaning": "đặt hàng"
+      },
+      {
+        "compound": "文",
+        "reading": "ぶん",
+        "meaning": "câu"
+      }
+    ]
+  },
+  {
+    "id": "k-core-2-24",
+    "character": "重",
+    "onyomi": "ジュウ, チョウ",
+    "kunyomi": "え, おも.い, おも.り, おも.なう, かさ.ねる, かさ.なる, おも",
+    "meaning": "TRỌNG (nặng nề, quan trọng)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "貴重",
+        "reading": "きちょう",
+        "meaning": "quý giá"
+      },
+      {
+        "compound": "重視",
+        "reading": "じゅうし",
+        "meaning": "tầm quan trọng"
+      }
+    ]
+  },
+  {
+    "id": "k-core-2-27",
+    "character": "画",
+    "onyomi": "ガ, カク, エ, カイ",
+    "kunyomi": "えが.く, かく.する, かぎ.る, はかりごと, はか.る",
+    "meaning": "HỌA (bức tranh, nét vẽ, kế hoạch)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "絵画",
+        "reading": "かいが",
+        "meaning": "bức tranh"
+      },
+      {
+        "compound": "画家",
+        "reading": "がか",
+        "meaning": "họa sĩ"
+      }
+    ]
+  },
+  {
+    "id": "k-core-2-28",
+    "character": "海",
+    "onyomi": "カイ",
+    "kunyomi": "うみ",
+    "meaning": "HẢI (biển, đại dương)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "海外",
+        "reading": "かいがい",
+        "meaning": "nước ngoài"
+      },
+      {
+        "compound": "海岸",
+        "reading": "かいがん",
+        "meaning": "bờ biển"
+      }
+    ]
+  }
+]

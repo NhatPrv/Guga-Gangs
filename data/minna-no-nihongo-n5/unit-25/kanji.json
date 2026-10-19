@@ -1,0 +1,97 @@
+[
+  {
+    "id": "k-n5-25-1",
+    "character": "考",
+    "onyomi": "コウ",
+    "kunyomi": "かんが.える, かんが.え",
+    "meaning": "KHẢO (suy nghĩ, khảo sát)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "考え",
+        "reading": "かんがえ",
+        "meaning": "suy nghĩ"
+      },
+      {
+        "compound": "考慮",
+        "reading": "こうりょ",
+        "meaning": "xem xét"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-25-3",
+    "character": "留",
+    "onyomi": "リュウ, ル",
+    "kunyomi": "と.める, と.まる, とど.める, とど.まる, るうぶる",
+    "meaning": "LƯU (chữ Hán LƯU)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "停留所",
+        "reading": "ていりゅうじょ",
+        "meaning": "trạm xe buýt hoặc xe điện"
+      },
+      {
+        "compound": "留める",
+        "reading": "とめる",
+        "meaning": "buộc chặt"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-25-5",
+    "character": "取",
+    "onyomi": "シュ",
+    "kunyomi": "と.る, と.り, と.り-, とり, -ど.り",
+    "meaning": "THỦ (chữ Hán THỦ)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "受け取る",
+        "reading": "うけとる",
+        "meaning": "nhận"
+      },
+      {
+        "compound": "取り上げる",
+        "reading": "とりあげる",
+        "meaning": "chiếm"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-25-6",
+    "character": "田",
+    "onyomi": "デン",
+    "kunyomi": "た",
+    "meaning": "ĐIỀN (chữ Hán ĐIỀN)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "田",
+        "reading": "た",
+        "meaning": "ruộng lúa"
+      },
+      {
+        "compound": "田中様、お客様",
+        "reading": "さま",
+        "meaning": "thưa ngài, cái"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-25-7",
+    "character": "舎",
+    "onyomi": "シャ, セキ",
+    "kunyomi": "やど.る",
+    "meaning": "XÁ (chữ Hán XÁ)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "田舎",
+        "reading": "いなか",
+        "meaning": "đất nước, quốc gia"
+      }
+    ]
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "word": "飼います",
+    "meaning": "chăn nuôi và nhân giống",
+    "reading": "かいます",
+    "sinoVietnamese": "TỰ",
+    "example": "毎日欠かさずに、飼いますようにしています。 (Tôi cố gắng chăm sóc nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "建てます",
+    "meaning": "xây dựng",
+    "reading": "たてます",
+    "sinoVietnamese": "KIẾN",
+    "example": "毎日欠かさずに、建てますようにしています。 (Tôi cố gắng xây dựng nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "走ります",
+    "meaning": "bỏ chạy, chạy trốn",
+    "reading": "はしります",
+    "sinoVietnamese": "TẨU",
+    "example": "毎日欠かさずに、走りますようにしています。 (Tôi cố gắng chạy mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "見えます",
+    "meaning": "có thể nhìn thấy",
+    "reading": "みえます",
+    "sinoVietnamese": "KIẾN",
+    "example": "暇なときは、家でゆっくり本を見えますのが好きです。 (Khi có thời gian rảnh, tôi thích thư giãn ở nhà và đọc sách.)"
+  },
+  {
+    "word": "聞こえます",
+    "meaning": "có thể nghe thấy",
+    "reading": "きこえます",
+    "sinoVietnamese": "VĂN",
+    "example": "暇なときは、家でゆっくり本を聞こえますのが好きです。 (Khi có thời gian rảnh, tôi thích nghe sách ở nhà.)"
+  },
+  {
+    "word": "開きます",
+    "meaning": "lớp học",
+    "reading": "ひらきます",
+    "sinoVietnamese": "KHAI",
+    "example": "毎日欠かさずに、開きますようにしています。 (Tôi cố gắng mở nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "こえ",
+    "meaning": "giọng nói, giọng nói",
+    "reading": "こえ",
+    "sinoVietnamese": "",
+    "example": "丁寧にお手入れをしながら、お気に入りのこえを長く愛用しています。 (Tôi đã sử dụng giọng nói yêu thích của mình từ lâu và chăm sóc nó rất cẩn thận.)"
+  },
+  {
+    "word": "波",
+    "meaning": "làn sóng",
+    "reading": "なみ",
+    "sinoVietnamese": "BA",
+    "example": "ニュースで波の発生を知らせる警報が出ました。 (Có một cảnh báo trên bản tin về sự xuất hiện của sóng.)"
+  },
+  {
+    "word": "花火",
+    "meaning": "pháo hoa",
+    "reading": "はなび",
+    "sinoVietnamese": "HOA HỎA",
+    "example": "激しい花火の影響で、電車のダイヤが少し乱れています。 (Lịch trình tàu bị gián đoạn một chút do pháo hoa dữ dội.)"
+  },
+  {
+    "word": "景色",
+    "meaning": "phong cảnh, cảnh sắc",
+    "reading": "けしき",
+    "sinoVietnamese": "CẢNH SẮC",
+    "example": "友達と一緒に、珍しくて面白い景色を見に行きました。 (Tôi và bạn tôi đã đi xem một số cảnh quan khác thường và thú vị.)"
+  },
+  {
+    "word": "昼間",
+    "meaning": "ban ngày",
+    "reading": "ひるま",
+    "sinoVietnamese": "GIAN",
+    "example": "昼間の澄んだ空を見上げると、爽やかな気持ちになります。 (Nhìn lên bầu trời trong xanh vào ban ngày mang lại cho bạn cảm giác sảng khoái.)"
+  },
+  {
+    "word": "昔",
+    "meaning": "ngày xửa ngày xưa",
+    "reading": "むかし",
+    "sinoVietnamese": "",
+    "example": "昔になると、涼しい風が吹いて過ごしやすくなります。 (Ngày xưa, có những cơn gió mát nên việc dành thời gian ở đó dễ dàng hơn.)"
+  },
+  {
+    "word": "道具",
+    "meaning": "công cụ",
+    "reading": "どうぐ",
+    "sinoVietnamese": "ĐẠO CỤ",
+    "example": "友達と一緒に、珍しくて面白い道具を見に行きました。 (Tôi và bạn tôi đã đi xem một số công cụ khác thường và thú vị.)"
+  },
+  {
+    "word": "自動販売機",
+    "meaning": "máy móc",
+    "reading": "じどうはんばいき",
+    "sinoVietnamese": "TỰ ĐỘNG MẠI KI",
+    "example": "駅のホームの自動販売機で冷たい水を買いました。 (Tôi mua một ít nước lạnh từ máy bán hàng tự động ở sân ga.)"
+  },
+  {
+    "word": "通信販売",
+    "meaning": "thương mại viễn thông",
+    "reading": "つうしんはんばい",
+    "sinoVietnamese": "THÔNG TÍN MẠI",
+    "example": "友達と一緒に、珍しくて面白い通信販売を見に行きました。 (Tôi và bạn tôi đi xem một cửa hàng đặt hàng qua thư khá lạ và thú vị.)"
+  },
+  {
+    "word": "クリーニング",
+    "meaning": "giặt ủi",
+    "reading": "クリーニング",
+    "sinoVietnamese": "",
+    "example": "友達と一緒に、珍しくて面白いクリーニングを見に行きました。 (Tôi và bạn bè đã đến xem một cuộc dọn dẹp khác thường và thú vị.)"
+  },
+  {
+    "word": "マンション",
+    "meaning": "căn hộ",
+    "reading": "マンション",
+    "sinoVietnamese": "",
+    "example": "週末は家族みんなで美味しいマンションを囲んで楽しく過ごします。 (Cuối tuần, cả gia đình cùng tận hưởng thời gian bên những căn hộ xinh xắn.)"
+  },
+  {
+    "word": "～ご",
+    "meaning": "sau khi ～",
+    "reading": "～後",
+    "sinoVietnamese": "",
+    "example": "日本の文化や生活に関わる～ごについて興味深く学びました。 (Tôi đã học được điều thú vị về ~go liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "～しか",
+    "meaning": "chỉ",
+    "reading": "～しか",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要な～しかをしっかり入れて出かけました。 (Tôi gói ghém mọi thứ cần thiết vào túi rồi đi ra ngoài.)"
+  },
+  {
+    "word": "～教室",
+    "meaning": "lớp học",
+    "reading": "～きょうしつ",
+    "sinoVietnamese": "GIÁO THẤT",
+    "example": "店員さんに相談して、自分にぴったりの～教室を選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được lớp học phù hợp nhất với mình.)"
+  },
+  {
+    "word": "パーティールーム",
+    "meaning": "tiệc",
+    "reading": "パーティールーム",
+    "sinoVietnamese": "",
+    "example": "年に一度の盛大なパーティールームをみんなで楽しみに待っています。 (Tất cả chúng tôi đều mong chờ phòng tiệc lớn được tổ chức mỗi năm một lần.)"
+  },
+  {
+    "word": "関西空港",
+    "meaning": "sân bay kansai",
+    "reading": "かんさいくうこう",
+    "sinoVietnamese": "QUAN TÂY KHÔNG CẢNG",
+    "example": "今度の週末、友達と一緒に関西空港へ出かけます。 (Cuối tuần tới, tôi sẽ đến sân bay Kansai cùng bạn bè.)"
+  },
+  {
+    "word": "秋葉原",
+    "meaning": "cửa hàng bách hóa điện tử nổi tiếng ở tokyo",
+    "reading": "あきはばら",
+    "sinoVietnamese": "",
+    "example": "夕方になると、秋葉原の周辺は涼しい風が吹いて快適です。 (Vào buổi tối, khu vực xung quanh Akihabara mát mẻ và dễ chịu.)"
+  },
+  {
+    "word": "伊豆",
+    "meaning": "hòn đảo",
+    "reading": "いず",
+    "sinoVietnamese": "",
+    "example": "使いやすい伊豆のおかげで、毎日の生活がとても快適になりました。 (Nhờ Izu dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+  },
+  {
+    "word": "日曜日大工",
+    "meaning": "mặt trời",
+    "reading": "にちようびだいく",
+    "sinoVietnamese": "NHẬT NHẬT ĐẠI",
+    "example": "昨日の日曜日大工は久しぶりにゆっくり家で休むことができました。 (Người thợ mộc ngày chủ nhật hôm qua đã được nghỉ ngơi ở nhà lần đầu tiên sau một thời gian dài.)"
+  },
+  {
+    "word": "いつか",
+    "meaning": "một ngày nào đó",
+    "reading": "いつか",
+    "sinoVietnamese": "",
+    "example": "いつかになると、涼しい風が吹いて過ごしやすくなります。 (Đến một lúc nào đó, một làn gió mát sẽ thổi qua và bạn sẽ dễ dàng sử dụng thời gian hơn.)"
+  },
+  {
+    "word": "夢",
+    "meaning": "giấc mơ",
+    "reading": "ゆめ",
+    "sinoVietnamese": "",
+    "example": "新しい夢を手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã đạt được ước mơ mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "開きます素晴らしい",
+    "meaning": "tuyệt vời",
+    "reading": "すばらしい",
+    "sinoVietnamese": "KHAI TÌNH",
+    "example": "この本はとても開きます素晴らしいので、おすすめです。 (Cuốn sách này là một cuốn sách tuyệt vời và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "子どもたち",
+    "meaning": "bọn trẻ",
+    "reading": "こどもたち",
+    "sinoVietnamese": "TỬ",
+    "example": "子どもたちはいつも優しくて、私のことを応援してくれます。 (Các con luôn tốt bụng và ủng hộ tôi.)"
+  },
+  {
+    "word": "漫画",
+    "meaning": "truyện tranh",
+    "reading": "まんが",
+    "sinoVietnamese": "HỌA",
+    "example": "カバンの中に必要な漫画をしっかり入れて出かけました。 (Tôi gói tất cả những cuốn manga tôi cần vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "主人公",
+    "meaning": "nhân vật chính",
+    "reading": "しゅじんこう",
+    "sinoVietnamese": "NHÂN CÔNG",
+    "example": "先週、久しぶりに主人公と会って楽しい時間を過ごしました。 (Tuần trước, tôi đã gặp nhân vật chính lần đầu tiên sau một thời gian dài và đã có khoảng thời gian tuyệt vời.)"
+  },
+  {
+    "word": "形",
+    "meaning": "hình dạng",
+    "reading": "かたち",
+    "sinoVietnamese": "",
+    "example": "友達と一緒に、珍しくて面白い形を見に行きました。 (Tôi và bạn tôi đã đi xem một số hình dạng khác thường và thú vị.)"
+  },
+  {
+    "word": "不思議な",
+    "meaning": "kỳ lạ, kỳ quặc",
+    "reading": "ふしぎな",
+    "sinoVietnamese": "BẤT TƯ",
+    "example": "田中さんはいつも親切で、とても不思議なな人です。 (Ông Tanaka luôn tốt bụng và là một người rất bí ẩn.)"
+  },
+  {
+    "word": "例えば",
+    "meaning": "ví dụ",
+    "reading": "たとえば",
+    "sinoVietnamese": "",
+    "example": "丁寧にお手入れをしながら、お気に入りの例えばを長く愛用しています。 (Tôi sử dụng những thứ tôi yêu thích trong một thời gian dài, chăm sóc chúng cẩn thận.)"
+  },
+  {
+    "word": "付けます",
+    "meaning": "xây dựng",
+    "reading": "つけます",
+    "sinoVietnamese": "PHÓ",
+    "example": "毎日欠かさずに、付けますようにしています。 (Tôi cố gắng mặc nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "自由に",
+    "meaning": "miễn phí",
+    "reading": "じゆうに",
+    "sinoVietnamese": "TỰ",
+    "example": "カバンの中に必要な自由にをしっかり入れて出かけました。 (Tôi thu dọn sự tự do cần thiết vào túi của mình và đi ra ngoài.)"
+  },
+  {
+    "word": "飛びます",
+    "meaning": "bay",
+    "reading": "とびます",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、飛びますようにしています。 (Tôi cố gắng bay mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "将来",
+    "meaning": "tương lai",
+    "reading": "しょうらい",
+    "sinoVietnamese": "LAI",
+    "example": "使いやすい将来のおかげで、毎日の生活がとても快適になりました。 (Nhờ có tương lai dễ sử dụng, cuộc sống hàng ngày đã trở nên thoải mái hơn rất nhiều.)"
+  },
+  {
+    "word": "ドラえもん",
+    "meaning": "đôrêmon",
+    "reading": "ドラえもん",
+    "sinoVietnamese": "",
+    "example": "店員さんに相談して、自分にぴったりのドラえもんを選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn chiếc Doremon phù hợp nhất với mình.)"
+  }
+]

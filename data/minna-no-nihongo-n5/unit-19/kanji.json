@@ -1,0 +1,142 @@
+[
+  {
+    "id": "k-n5-19-1",
+    "character": "登",
+    "onyomi": "トウ, ト, ドウ, ショウ, チョウ",
+    "kunyomi": "のぼ.る, あ.がる",
+    "meaning": "ĐĂNG (chữ Hán ĐĂNG)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "登山",
+        "reading": "とざん",
+        "meaning": "leo núi"
+      },
+      {
+        "compound": "登る",
+        "reading": "のぼる",
+        "meaning": "leo lên"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-19-2",
+    "character": "練",
+    "onyomi": "レン",
+    "kunyomi": "ね.る, ね.り",
+    "meaning": "LUYỆN (luyện tập, rèn luyện)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "訓練",
+        "reading": "くんれん",
+        "meaning": "luyện tập"
+      },
+      {
+        "compound": "練習",
+        "reading": "れんしゅう",
+        "meaning": "luyện tập"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-19-3",
+    "character": "習",
+    "onyomi": "シュウ, ジュ",
+    "kunyomi": "なら.う, なら.い",
+    "meaning": "TẬP (học tập, luyện tập)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "学習",
+        "reading": "がくしゅう",
+        "meaning": "học tập"
+      },
+      {
+        "compound": "復習",
+        "reading": "ふくしゅう",
+        "meaning": "sửa đổi"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-19-4",
+    "character": "掃",
+    "onyomi": "ソウ, シュ",
+    "kunyomi": "は.く",
+    "meaning": "TẢO (chữ Hán TẢO)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "掃除",
+        "reading": "そうじ",
+        "meaning": "sạch sẽ"
+      },
+      {
+        "compound": "掃除します",
+        "reading": "そうじします",
+        "meaning": "dọn dẹp"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-19-5",
+    "character": "除",
+    "onyomi": "ジョ, ジ",
+    "kunyomi": "のぞ.く, -よ.け",
+    "meaning": "TRỪ (chữ Hán TRỪ)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "除く",
+        "reading": "のぞく",
+        "meaning": "loại bỏ"
+      },
+      {
+        "compound": "掃除",
+        "reading": "そうじ",
+        "meaning": "sạch sẽ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-19-7",
+    "character": "濯",
+    "onyomi": "タク",
+    "kunyomi": "すす.ぐ, ゆす.ぐ",
+    "meaning": "TRẠC (chữ Hán TRẠC)",
+    "strokes": 17,
+    "examples": [
+      {
+        "compound": "洗濯",
+        "reading": "せんたく",
+        "meaning": "rửa"
+      },
+      {
+        "compound": "洗濯機",
+        "reading": "せんたくき",
+        "meaning": "máy giặt"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-19-8",
+    "character": "泊",
+    "onyomi": "ハク",
+    "kunyomi": "と.まる, と.める",
+    "meaning": "BẠC (chữ Hán BẠC)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "宿泊",
+        "reading": "しゅくはく",
+        "meaning": "chỗ ở"
+      },
+      {
+        "compound": "泊まる",
+        "reading": "とまる",
+        "meaning": "nộp đơn tại"
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "k32-2",
+    "character": "動",
+    "onyomi": "ドウ",
+    "kunyomi": "うご.く, うご.かす",
+    "meaning": "ĐỘNG (chuyển động, cử động)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "移動",
+        "reading": "いどう",
+        "meaning": "loại bỏ"
+      },
+      {
+        "compound": "動かす",
+        "reading": "うごかす",
+        "meaning": "di chuyển"
+      }
+    ]
+  },
+  {
+    "id": "k32-3",
+    "character": "成",
+    "onyomi": "セイ, ジョウ",
+    "kunyomi": "な.る, な.す, -な.す",
+    "meaning": "THÀNH (hoàn thành, trở thành)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "完成",
+        "reading": "かんせい",
+        "meaning": "hoàn thành"
+      },
+      {
+        "compound": "構成",
+        "reading": "こうせい",
+        "meaning": "tổ chức"
+      }
+    ]
+  },
+  {
+    "id": "k32-4",
+    "character": "功",
+    "onyomi": "コウ, ク",
+    "kunyomi": "いさお",
+    "meaning": "CÔNG (chữ Hán CÔNG)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "成功",
+        "reading": "せいこう",
+        "meaning": "sự thành công"
+      },
+      {
+        "compound": "成功します",
+        "reading": "せいこうします",
+        "meaning": "thành công"
+      }
+    ]
+  },
+  {
+    "id": "k32-5",
+    "character": "失",
+    "onyomi": "シツ",
+    "kunyomi": "うしな.う, う.せる",
+    "meaning": "THẤT (chữ Hán THẤT)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "失う",
+        "reading": "うしなう",
+        "meaning": "thua"
+      },
+      {
+        "compound": "失業",
+        "reading": "しつぎょう",
+        "meaning": "thất nghiệp"
+      }
+    ]
+  },
+  {
+    "id": "k32-6",
+    "character": "敗",
+    "onyomi": "ハイ",
+    "kunyomi": "やぶ.れる",
+    "meaning": "BẠI (chữ Hán BẠI)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "失敗",
+        "reading": "しっぱい",
+        "meaning": "thất bại"
+      },
+      {
+        "compound": "失敗します（試験に～）",
+        "reading": "しっぱいします（しけんに～）",
+        "meaning": "thất bại, thi trượt (kỳ thi)"
+      }
+    ]
+  },
+  {
+    "id": "k32-7",
+    "character": "試",
+    "onyomi": "シ",
+    "kunyomi": "こころ.みる, ため.す",
+    "meaning": "THÍ (thử nghiệm, thi cử)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "試し",
+        "reading": "ためし",
+        "meaning": "thử nghiệm"
+      },
+      {
+        "compound": "試す",
+        "reading": "ためす",
+        "meaning": "cố gắng"
+      }
+    ]
+  },
+  {
+    "id": "k32-8",
+    "character": "験",
+    "onyomi": "ケン, ゲン",
+    "kunyomi": "あかし, しるし, ため.す, ためし",
+    "meaning": "NGHIỆM (thí nghiệm, trải nghiệm)",
+    "strokes": 18,
+    "examples": [
+      {
+        "compound": "経験",
+        "reading": "けいけん",
+        "meaning": "kinh nghiệm, trải nghiệm"
+      },
+      {
+        "compound": "失敗します（試験に～）",
+        "reading": "しっぱいします（しけんに～）",
+        "meaning": "thất bại, thi trượt (kỳ thi)"
+      }
+    ]
+  },
+  {
+    "id": "k32-10",
+    "character": "格",
+    "onyomi": "カク, コウ, キャク, ゴウ",
+    "kunyomi": "-",
+    "meaning": "Hán tự 格",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "価格",
+        "reading": "かかく",
+        "meaning": "giá cả"
+      },
+      {
+        "compound": "合格",
+        "reading": "ごうかく",
+        "meaning": "sự thành công"
+      }
+    ]
+  }
+]

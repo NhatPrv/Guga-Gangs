@@ -1,0 +1,117 @@
+[
+  {
+    "id": "k-n5-16-1",
+    "character": "乗",
+    "onyomi": "ジョウ, ショウ",
+    "kunyomi": "の.る, -の.り, の.せる",
+    "meaning": "THỪA (chữ Hán THỪA)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "乗客",
+        "reading": "じょうきゃく",
+        "meaning": "hành khách"
+      },
+      {
+        "compound": "乗せる",
+        "reading": "のせる",
+        "meaning": "đặt lên (cái gì)"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-16-2",
+    "character": "電",
+    "onyomi": "デン",
+    "kunyomi": "-",
+    "meaning": "ĐIỆN (điện lực, tia điện, đèn điện)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "電子",
+        "reading": "でんし",
+        "meaning": "điện tử"
+      },
+      {
+        "compound": "電灯",
+        "reading": "でんとう",
+        "meaning": "đèn điện"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-16-3",
+    "character": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "meaning": "XA (xe cộ, ô tô)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "駐車",
+        "reading": "ちゅうしゃ",
+        "meaning": "bãi đậu xe (ví dụ: xe hơi)"
+      },
+      {
+        "compound": "発車",
+        "reading": "はっしゃ",
+        "meaning": "sự khởi hành của một chiếc xe"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-16-4",
+    "character": "降",
+    "onyomi": "コウ, ゴ",
+    "kunyomi": "お.りる, お.ろす, ふ.る, ふ.り, くだ.る, くだ.す",
+    "meaning": "GIÁNG (chữ Hán GIÁNG)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "降ろす",
+        "reading": "おろす",
+        "meaning": "hạ gục"
+      },
+      {
+        "compound": "降り出す",
+        "reading": "ふりだす",
+        "meaning": "mưa"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-16-5",
+    "character": "換",
+    "onyomi": "カン",
+    "kunyomi": "か.える, -か.える, か.わる",
+    "meaning": "HOÁN (đổi, hoán đổi, thay thế)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "換える",
+        "reading": "かえる",
+        "meaning": "hoán đổi, đổi lấy"
+      },
+      {
+        "compound": "交換",
+        "reading": "こうかん",
+        "meaning": "trao đổi, đổi hàng"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-16-6",
+    "character": "浴",
+    "onyomi": "ヨク",
+    "kunyomi": "あ.びる, あ.びせる",
+    "meaning": "DỤC (chữ Hán DỤC)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "浴びます",
+        "reading": "あびます [シャワーを～]",
+        "meaning": "đi tắm"
+      }
+    ]
+  }
+]

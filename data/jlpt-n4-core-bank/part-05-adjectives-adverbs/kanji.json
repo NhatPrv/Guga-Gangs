@@ -1,0 +1,357 @@
+[
+  {
+    "id": "k-core-5-4",
+    "character": "古",
+    "onyomi": "コ",
+    "kunyomi": "ふる.い, ふる-, -ふる.す",
+    "meaning": "CỔ (cũ kỹ, cổ kính)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "中古",
+        "reading": "ちゅうこ",
+        "meaning": "đã sử dụng"
+      },
+      {
+        "compound": "古い",
+        "reading": "ふるい",
+        "meaning": "cũ"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-7",
+    "character": "悪",
+    "onyomi": "アク, オ",
+    "kunyomi": "わる.い, わる-, あ.し, にく.い, -にく.い, ああ, いずくに, いずくんぞ, にく.む",
+    "meaning": "ÁC (xấu xí, độc ác)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "悪魔",
+        "reading": "あくま",
+        "meaning": "ma quỷ"
+      },
+      {
+        "compound": "悪口",
+        "reading": "わるくち",
+        "meaning": "lạm dụng"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-8",
+    "character": "図",
+    "onyomi": "ズ, ト",
+    "kunyomi": "え, はか.る",
+    "meaning": "ĐỒ (bản đồ, đồ thị)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "合図",
+        "reading": "あいず",
+        "meaning": "ký tên"
+      },
+      {
+        "compound": "図書",
+        "reading": "としょ",
+        "meaning": "sách"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-9",
+    "character": "週",
+    "onyomi": "シュウ",
+    "kunyomi": "-",
+    "meaning": "CHU (tuần)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "週",
+        "reading": "しゅう",
+        "meaning": "tuần"
+      },
+      {
+        "compound": "週間",
+        "reading": "しゅうかん",
+        "meaning": "tuần"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-11",
+    "character": "歩",
+    "onyomi": "ホ, ブ, フ",
+    "kunyomi": "ある.く, あゆ.む",
+    "meaning": "BỘ (đi bộ, từng bước)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "進歩",
+        "reading": "しんぽ",
+        "meaning": "tiến bộ"
+      },
+      {
+        "compound": "歩道",
+        "reading": "ほどう",
+        "meaning": "lối đi bộ"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-12",
+    "character": "風",
+    "onyomi": "フウ, フ",
+    "kunyomi": "かぜ, かざ-",
+    "meaning": "PHONG (cơn gió)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "風景",
+        "reading": "ふうけい",
+        "meaning": "phong cảnh"
+      },
+      {
+        "compound": "お風呂",
+        "reading": "おふろ",
+        "meaning": "bồn tắm"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-14",
+    "character": "黒",
+    "onyomi": "コク",
+    "kunyomi": "くろ, くろ.ずむ, くろ.い",
+    "meaning": "HẮC (màu đen)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "黒板",
+        "reading": "こくばん",
+        "meaning": "bảng đen"
+      },
+      {
+        "compound": "黒",
+        "reading": "くろ",
+        "meaning": "màu đen"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-16",
+    "character": "春",
+    "onyomi": "シュン",
+    "kunyomi": "はる",
+    "meaning": "XUÂN (thời gian, giờ)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "春",
+        "reading": "はる",
+        "meaning": "mùa xuân"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-17",
+    "character": "赤",
+    "onyomi": "セキ, シャク",
+    "kunyomi": "あか, あか-, あか.い, あか.らむ, あか.らめる",
+    "meaning": "XÍCH (màu đỏ)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "真っ赤",
+        "reading": "まっか",
+        "meaning": "màu đỏ đậm"
+      },
+      {
+        "compound": "赤ん坊",
+        "reading": "あかんぼう",
+        "meaning": "em bé"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-18",
+    "character": "青",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "あお, あお-, あお.い",
+    "meaning": "THANH (màu xanh da trời, xanh lam)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "青年",
+        "reading": "せいねん",
+        "meaning": "tuổi trẻ"
+      },
+      {
+        "compound": "青",
+        "reading": "あお",
+        "meaning": "màu xanh"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-19",
+    "character": "館",
+    "onyomi": "カン",
+    "kunyomi": "やかた, たて",
+    "meaning": "QUÁN (tòa nhà, quán ăn, bảo tàng)",
+    "strokes": 16,
+    "examples": [
+      {
+        "compound": "博物館",
+        "reading": "はくぶつかん",
+        "meaning": "viện bảo tàng"
+      },
+      {
+        "compound": "映画館",
+        "reading": "えいがかん",
+        "meaning": "rạp chiếu phim"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-20",
+    "character": "屋",
+    "onyomi": "オク",
+    "kunyomi": "や",
+    "meaning": "ỐC (mái nhà)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "小屋",
+        "reading": "こや",
+        "meaning": "túp lều"
+      },
+      {
+        "compound": "屋根",
+        "reading": "やね",
+        "meaning": "mái nhà"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-21",
+    "character": "色",
+    "onyomi": "ショク, シキ",
+    "kunyomi": "いろ",
+    "meaning": "SẮC (màu sắc, sắc đẹp)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "色",
+        "reading": "いろ",
+        "meaning": "màu sắc"
+      },
+      {
+        "compound": "黄色",
+        "reading": "きいろ",
+        "meaning": "màu vàng"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-23",
+    "character": "秋",
+    "onyomi": "シュウ",
+    "kunyomi": "あき, とき",
+    "meaning": "THU (mùa thu)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "秋葉原",
+        "reading": "あきはばら",
+        "meaning": "cửa hàng bách hóa điện tử nổi tiếng ở tokyo"
+      },
+      {
+        "compound": "秋",
+        "reading": "あき",
+        "meaning": "mùa thu"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-24",
+    "character": "夏",
+    "onyomi": "カ, ガ, ゲ",
+    "kunyomi": "なつ",
+    "meaning": "HẠ (mùa hè)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "夏休み",
+        "reading": "なつやすみ",
+        "meaning": "kỳ nghỉ hè"
+      },
+      {
+        "compound": "夏",
+        "reading": "なつ",
+        "meaning": "mùa hè"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-27",
+    "character": "洋",
+    "onyomi": "ヨウ",
+    "kunyomi": "-",
+    "meaning": "DƯƠNG (đại dương)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "西洋",
+        "reading": "せいよう",
+        "meaning": "các nước phương tây"
+      },
+      {
+        "compound": "洋服",
+        "reading": "ようふく",
+        "meaning": "quần áo kiểu tây"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-28",
+    "character": "旅",
+    "onyomi": "リョ",
+    "kunyomi": "たび",
+    "meaning": "LỮ (du lịch, lữ hành)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "旅",
+        "reading": "たび",
+        "meaning": "du lịch"
+      },
+      {
+        "compound": "旅行社",
+        "reading": "りょこうしゃ",
+        "meaning": "đại lý du lịch"
+      }
+    ]
+  },
+  {
+    "id": "k-core-5-29",
+    "character": "服",
+    "onyomi": "フク",
+    "kunyomi": "-",
+    "meaning": "PHỤC (quần áo)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "衣服",
+        "reading": "いふく",
+        "meaning": "quần áo"
+      },
+      {
+        "compound": "克服",
+        "reading": "こくふく",
+        "meaning": "sự chinh phục"
+      }
+    ]
+  }
+]

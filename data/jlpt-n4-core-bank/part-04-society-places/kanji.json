@@ -1,0 +1,237 @@
+[
+  {
+    "id": "k-core-4-4",
+    "character": "研",
+    "onyomi": "ケン",
+    "kunyomi": "と.ぐ",
+    "meaning": "NGHIÊN (nghiên cứu, mài giũa)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "研究",
+        "reading": "けんきゅう",
+        "meaning": "tìm kiếm"
+      },
+      {
+        "compound": "研究室",
+        "reading": "けんきゅうしつ",
+        "meaning": "căn phòng"
+      }
+    ]
+  },
+  {
+    "id": "k-core-4-6",
+    "character": "究",
+    "onyomi": "キュウ, ク",
+    "kunyomi": "きわ.める",
+    "meaning": "CỨU (nghiên cứu, tìm hiểu sâu)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "研究",
+        "reading": "けんきゅう",
+        "meaning": "tìm kiếm"
+      },
+      {
+        "compound": "研究室",
+        "reading": "けんきゅうしつ",
+        "meaning": "căn phòng"
+      }
+    ]
+  },
+  {
+    "id": "k-core-4-11",
+    "character": "病",
+    "onyomi": "ビョウ, ヘイ",
+    "kunyomi": "や.む, -や.み, やまい",
+    "meaning": "BỆNH (ốm)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "重い病気",
+        "reading": "おもいびょうき",
+        "meaning": "bệnh nặng"
+      },
+      {
+        "compound": "病院",
+        "reading": "びょういん",
+        "meaning": "bệnh viện"
+      }
+    ]
+  },
+  {
+    "id": "k-core-4-15",
+    "character": "族",
+    "onyomi": "ゾク",
+    "kunyomi": "-",
+    "meaning": "TỘC (gia tộc, dân tộc)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "家族",
+        "reading": "かぞく",
+        "meaning": "gia đình"
+      },
+      {
+        "compound": "ご家族",
+        "reading": "ご家族",
+        "meaning": "gia đình"
+      }
+    ]
+  },
+  {
+    "id": "k-core-4-18",
+    "character": "映",
+    "onyomi": "エイ",
+    "kunyomi": "うつ.る, うつ.す, は.える, -ば.え",
+    "meaning": "ÁNH (phản chiếu, ánh xạ, chiếu phim)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "映画館",
+        "reading": "えいがかん",
+        "meaning": "rạp chiếu phim"
+      },
+      {
+        "compound": "映画",
+        "reading": "えいが",
+        "meaning": "bộ phim, phim ảnh"
+      }
+    ]
+  },
+  {
+    "id": "k-core-4-21",
+    "character": "英",
+    "onyomi": "エイ",
+    "kunyomi": "はなぶさ",
+    "meaning": "ANH (nước Anh)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "英語",
+        "reading": "えいご",
+        "meaning": "tiếng Anh"
+      }
+    ]
+  },
+  {
+    "id": "k-core-4-22",
+    "character": "医",
+    "onyomi": "イ",
+    "kunyomi": "い.やす, い.する, くすし",
+    "meaning": "Y (bác sĩ)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "医師",
+        "reading": "いし",
+        "meaning": "bác sĩ"
+      },
+      {
+        "compound": "医療",
+        "reading": "いりょう",
+        "meaning": "chăm sóc y tế"
+      }
+    ]
+  },
+  {
+    "id": "k-core-4-23",
+    "character": "仕",
+    "onyomi": "シ, ジ",
+    "kunyomi": "つか.える",
+    "meaning": "SĨ (tham dự, có mặt)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "仕方",
+        "reading": "しかた",
+        "meaning": "phương pháp"
+      },
+      {
+        "compound": "仕事",
+        "reading": "しごと",
+        "meaning": "công việc"
+      }
+    ]
+  },
+  {
+    "id": "k-core-4-24",
+    "character": "去",
+    "onyomi": "キョ, コ",
+    "kunyomi": "さ.る, -さ.る",
+    "meaning": "KHỨ (đi mất)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "過去",
+        "reading": "かこ",
+        "meaning": "quá khứ"
+      },
+      {
+        "compound": "去る",
+        "reading": "さる",
+        "meaning": "rời đi"
+      }
+    ]
+  },
+  {
+    "id": "k-core-4-26",
+    "character": "写",
+    "onyomi": "シャ, ジャ",
+    "kunyomi": "うつ.す, うつ.る, うつ-, うつ.し",
+    "meaning": "TẢ (chụp ảnh, sao chép)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "写す",
+        "reading": "うつす",
+        "meaning": "chụp , sao chép, chép lại"
+      },
+      {
+        "compound": "写真を撮りす。",
+        "reading": "しゃしんをとります。",
+        "meaning": "chụp ảnh"
+      }
+    ]
+  },
+  {
+    "id": "k-core-4-27",
+    "character": "字",
+    "onyomi": "ジ",
+    "kunyomi": "あざ, あざな, -な",
+    "meaning": "TỰ (nhân vật)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "数字",
+        "reading": "すうじ",
+        "meaning": "chữ số"
+      },
+      {
+        "compound": "文字",
+        "reading": "もじ",
+        "meaning": "chữ cái (trong bảng chữ cái)"
+      }
+    ]
+  },
+  {
+    "id": "k-core-4-29",
+    "character": "夜",
+    "onyomi": "ヤ",
+    "kunyomi": "よ, よる",
+    "meaning": "DẠ (đêm)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "徹夜",
+        "reading": "てつや",
+        "meaning": "cả đêm"
+      },
+      {
+        "compound": "夜明け",
+        "reading": "よあけ",
+        "meaning": "bình minh"
+      }
+    ]
+  }
+]

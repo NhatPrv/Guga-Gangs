@@ -1,0 +1,142 @@
+[
+  {
+    "id": "k-n5-9-1",
+    "character": "分",
+    "onyomi": "ブン, フン, ブ",
+    "kunyomi": "わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",
+    "meaning": "PHÂN (phút, phân chia, hiểu biết)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "大部分",
+        "reading": "だいぶぶん",
+        "meaning": "phần lớn"
+      },
+      {
+        "compound": "部分",
+        "reading": "ぶぶん",
+        "meaning": "phần"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-9-2",
+    "character": "嫌",
+    "onyomi": "ケン, ゲン",
+    "kunyomi": "きら.う, きら.い, いや",
+    "meaning": "HIỀM (chữ Hán HIỀM)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "機嫌",
+        "reading": "きげん",
+        "meaning": "hài hước"
+      },
+      {
+        "compound": "嫌う",
+        "reading": "きらう",
+        "meaning": "ghét"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-9-3",
+    "character": "好",
+    "onyomi": "コウ",
+    "kunyomi": "この.む, す.く, よ.い, い.い",
+    "meaning": "HẢO (chữ Hán HẢO)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "好み",
+        "reading": "このみ",
+        "meaning": "thích"
+      },
+      {
+        "compound": "好む",
+        "reading": "このむ",
+        "meaning": "thích"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-9-4",
+    "character": "上",
+    "onyomi": "ジョウ, ショウ, シャン",
+    "kunyomi": "うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る",
+    "meaning": "THƯỢNG (bên trên, phía trên)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "上京",
+        "reading": "じょうきょう",
+        "meaning": "tiến tới thủ đô (tokyo)"
+      },
+      {
+        "compound": "上達",
+        "reading": "じょうたつ",
+        "meaning": "cải tiến"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-9-6",
+    "character": "下",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる",
+    "meaning": "HẠ (bên dưới, phía dưới)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "下す",
+        "reading": "くだす",
+        "meaning": "hạ thấp"
+      },
+      {
+        "compound": "下り",
+        "reading": "くだり",
+        "meaning": "xuống tàu (đi từ tokyo)"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-9-7",
+    "character": "料",
+    "onyomi": "リョウ",
+    "kunyomi": "-",
+    "meaning": "LIỆU (nguyên liệu, tài liệu, chi phí)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "食料",
+        "reading": "しょくりょう",
+        "meaning": "thức ăn"
+      },
+      {
+        "compound": "料金",
+        "reading": "りょうきん",
+        "meaning": "lệ phí"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-9-8",
+    "character": "理",
+    "onyomi": "リ",
+    "kunyomi": "ことわり",
+    "meaning": "LÝ (lý lẽ, đạo lý, vật lý)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "管理",
+        "reading": "かんり",
+        "meaning": "kiểm soát"
+      },
+      {
+        "compound": "修理",
+        "reading": "しゅうり",
+        "meaning": "sửa chữa"
+      }
+    ]
+  }
+]

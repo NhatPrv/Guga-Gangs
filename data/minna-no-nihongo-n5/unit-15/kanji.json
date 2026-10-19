@@ -1,0 +1,162 @@
+[
+  {
+    "id": "k-n5-15-1",
+    "character": "立",
+    "onyomi": "リツ, リュウ, リットル",
+    "kunyomi": "た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる",
+    "meaning": "LẬP (đứng lên, thành lập)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "立ち上がる",
+        "reading": "たちあがる",
+        "meaning": "đứng lên"
+      },
+      {
+        "compound": "立場",
+        "reading": "たちば",
+        "meaning": "quan điểm"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-15-2",
+    "character": "座",
+    "onyomi": "ザ",
+    "kunyomi": "すわ.る",
+    "meaning": "TỌA (chữ Hán TỌA)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "座席",
+        "reading": "ざせき",
+        "meaning": "chỗ ngồi"
+      },
+      {
+        "compound": "座る",
+        "reading": "すわる",
+        "meaning": "ngồi"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-15-3",
+    "character": "使",
+    "onyomi": "シ",
+    "kunyomi": "つか.う, つか.い, -つか.い, -づか.い",
+    "meaning": "SỬ (sử dụng, sai khiến)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "使用",
+        "reading": "しよう",
+        "meaning": "sử dụng"
+      },
+      {
+        "compound": "大使",
+        "reading": "たいし",
+        "meaning": "đại sứ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-15-4",
+    "character": "置",
+    "onyomi": "チ",
+    "kunyomi": "お.く, -お.き",
+    "meaning": "TRÍ (chữ Hán TRÍ)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "位置",
+        "reading": "いち",
+        "meaning": "địa điểm"
+      },
+      {
+        "compound": "装置",
+        "reading": "そうち",
+        "meaning": "thiết bị"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-15-5",
+    "character": "作",
+    "onyomi": "サク, サ",
+    "kunyomi": "つく.る, つく.り, -づく.り",
+    "meaning": "TÁC (chữ Hán TÁC)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "作業",
+        "reading": "さぎょう",
+        "meaning": "làm việc"
+      },
+      {
+        "compound": "作物",
+        "reading": "さくもつ",
+        "meaning": "sản xuất (ví dụ: nông nghiệp)"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-15-6",
+    "character": "造",
+    "onyomi": "ゾウ",
+    "kunyomi": "つく.る, つく.り, -づく.り",
+    "meaning": "TẠO (chữ Hán TẠO)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "製造",
+        "reading": "せいぞう",
+        "meaning": "sản xuất"
+      },
+      {
+        "compound": "作ります，造ります",
+        "reading": "つくります",
+        "meaning": "chế tạo, chế tạo, chế tạo"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-15-7",
+    "character": "売",
+    "onyomi": "バイ",
+    "kunyomi": "う.る, う.れる",
+    "meaning": "MẠI (bán buôn, thương mại)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "売れる",
+        "reading": "うれる",
+        "meaning": "được bán"
+      },
+      {
+        "compound": "商売",
+        "reading": "しょうばい",
+        "meaning": "buôn bán"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-15-8",
+    "character": "知",
+    "onyomi": "チ",
+    "kunyomi": "し.る, し.らせる",
+    "meaning": "TRI (biết, tri thức)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "知らせ",
+        "reading": "しらせ",
+        "meaning": "thông báo"
+      },
+      {
+        "compound": "知恵",
+        "reading": "ちえ",
+        "meaning": "trí tuệ"
+      }
+    ]
+  }
+]

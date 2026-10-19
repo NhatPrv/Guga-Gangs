@@ -1,0 +1,91 @@
+{
+  "id": "bunpou-n4-nakereba-naranai",
+  "level": "N4",
+  "unitId": "grammar-n4-unit-01",
+  "title": "〜なければならない / 〜なければなりません",
+  "meaning": "Phải làm gì đó (Bắt buộc / Bổn phận)",
+  "connection": "V-ない (bỏ い) + ければならない",
+  "usageNotes": "Diễn tả nghĩa vụ pháp luật hoặc hoàn cảnh bắt buộc không thể không làm.",
+  "questions": [
+    {
+      "id": "n4-u1-g2-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "明日までにレポートを出さなければなりません。",
+      "sentenceVi": "Tôi phải nộp báo cáo trước ngày mai.",
+      "targetGrammar": "〜なければなりません",
+      "prompt": "Chọn ý nghĩa của mẫu câu trên:",
+      "options": [
+        "Phải làm gì đó (Nghĩa vụ, bắt buộc)",
+        "Không cần làm cũng được",
+        "Có thể làm nếu có thời gian",
+        "Không được phép làm"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜なければなりません」 diễn tả bổn phận bắt buộc nộp báo cáo đúng hạn."
+    },
+    {
+      "id": "n4-u1-g2-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "熱がありますから、今日は薬を【　？　】。",
+      "sentenceVi": "Vì bị sốt nên hôm nay tôi phải uống thuốc.",
+      "targetGrammar": "飲まなければなりません",
+      "prompt": "Chọn dạng chia chính xác cho động từ 飲む (uống):",
+      "options": [
+        "飲まなければなりません",
+        "飲まなくてもいいです",
+        "飲んではいけません",
+        "飲みたいです"
+      ],
+      "correctIndex": 0,
+      "explanation": "飲む ➔ 飲まない ➔ 飲まなければなりません."
+    },
+    {
+      "id": "n4-u1-g2-q3",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "日本で車を運転するときは、免許証を持っていなければならない。",
+      "sentenceVi": "Khi lái xe ở Nhật, bắt buộc phải mang theo bằng lái xe.",
+      "targetGrammar": "〜なければならない",
+      "prompt": "Ý nghĩa của quy định giao thông trên là gì?",
+      "options": [
+        "Quy định pháp luật bắt buộc tuân theo",
+        "Lời khuyên cá nhân tùy ý chọn",
+        "Có thể mang hoặc không mang",
+        "Cấm mang bằng lái xe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bắt buộc tuân thủ quy định pháp luật giao thông."
+    },
+    {
+      "id": "n4-u1-g2-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "図書館で借りた本は、来週までに【　？　】。",
+      "sentenceVi": "Sách mượn ở thư viện thì phải trả lại trước tuần sau.",
+      "targetGrammar": "返さなければならない",
+      "prompt": "Chọn dạng đúng của động từ 返す (trả lại):",
+      "options": [
+        "返さなければならない",
+        "返してもいい",
+        "返してはいけない",
+        "返したい"
+      ],
+      "correctIndex": 0,
+      "explanation": "返す ➔ 返さない ➔ 返さなければならない."
+    },
+    {
+      "id": "n4-u1-g2-q5",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "飛行機の時間に間に合うように、早く【　？　】。",
+      "sentenceVi": "Để kịp giờ chuyến bay, tôi phải thức dậy sớm.",
+      "targetGrammar": "起きなければならない",
+      "prompt": "Chọn dạng chia đúng của động từ 起きる (nhóm 2):",
+      "options": [
+        "起きなければならない",
+        "起きてもいい",
+        "起きてはいけない",
+        "起きたほうがいい"
+      ],
+      "correctIndex": 0,
+      "explanation": "起きる ➔ 起きない ➔ 起きなければならない."
+    }
+  ]
+}

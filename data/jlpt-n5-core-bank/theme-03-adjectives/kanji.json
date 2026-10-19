@@ -1,0 +1,197 @@
+[
+  {
+    "id": "k-core-n5-3-1",
+    "character": "外",
+    "onyomi": "ガイ, ゲ",
+    "kunyomi": "そと, ほか, はず.す, はず.れる, と-",
+    "meaning": "NGOẠI (bên ngoài, ngoại quốc)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "意外",
+        "reading": "いがい",
+        "meaning": "bất ngờ"
+      },
+      {
+        "compound": "外交",
+        "reading": "がいこう",
+        "meaning": "ngoại giao"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-3-2",
+    "character": "八",
+    "onyomi": "ハチ, ハツ",
+    "kunyomi": "や, や.つ, やっ.つ, よう",
+    "meaning": "BÁT (tám, số 8)",
+    "strokes": 2,
+    "examples": [
+      {
+        "compound": "八",
+        "reading": "はち",
+        "meaning": "tám"
+      },
+      {
+        "compound": "八百屋",
+        "reading": "やおや",
+        "meaning": "người bán rau"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-3-3",
+    "character": "六",
+    "onyomi": "ロク, リク",
+    "kunyomi": "む, む.つ, むっ.つ, むい",
+    "meaning": "LỤC (sáu, số 6)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "六日",
+        "reading": "むいか",
+        "meaning": "sáu ngày"
+      },
+      {
+        "compound": "六",
+        "reading": "ろく",
+        "meaning": "sáu"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-3-7",
+    "character": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい.さい, こ-, お-, さ-",
+    "meaning": "TIỂU (nhỏ bé, bé)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "小包",
+        "reading": "こづつみ",
+        "meaning": "bưu kiện"
+      },
+      {
+        "compound": "小麦",
+        "reading": "こむぎ",
+        "meaning": "lúa mì"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-3-8",
+    "character": "七",
+    "onyomi": "シチ",
+    "kunyomi": "なな, なな.つ, なの",
+    "meaning": "THẤT (bảy, số 7)",
+    "strokes": 2,
+    "examples": [
+      {
+        "compound": "七",
+        "reading": "しち",
+        "meaning": "bảy"
+      },
+      {
+        "compound": "七日",
+        "reading": "なのか",
+        "meaning": "bảy ngày"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-3-9",
+    "character": "山",
+    "onyomi": "サン, セン",
+    "kunyomi": "やま",
+    "meaning": "SƠN (ngọn núi)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "登山",
+        "reading": "とざん",
+        "meaning": "leo núi"
+      },
+      {
+        "compound": "山登り",
+        "reading": "やまのぼり",
+        "meaning": "leo núi"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-3-12",
+    "character": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "meaning": "BẮC (hướng bắc)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "北",
+        "reading": "きた",
+        "meaning": "hướng bắc"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-3-13",
+    "character": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "うま",
+    "meaning": "NGỌ (buổi trưa, giữa trưa)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "正午",
+        "reading": "しょうご",
+        "meaning": "buổi trưa"
+      },
+      {
+        "compound": "午前",
+        "reading": "ごぜん",
+        "meaning": "buổi sáng"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-3-14",
+    "character": "百",
+    "onyomi": "ヒャク, ビャク",
+    "kunyomi": "もも",
+    "meaning": "BÁCH (trăm, 100)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "八百屋",
+        "reading": "やおや",
+        "meaning": "người bán rau"
+      },
+      {
+        "compound": "百",
+        "reading": "ひゃく",
+        "meaning": "trăm"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-3-16",
+    "character": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき, ま.ず",
+    "meaning": "TIÊN (trước, đi trước, tiên tiến)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "先輩",
+        "reading": "せんぱい",
+        "meaning": "cao cấp"
+      },
+      {
+        "compound": "先",
+        "reading": "さき",
+        "meaning": "trước đây, phía trước"
+      }
+    ]
+  }
+]

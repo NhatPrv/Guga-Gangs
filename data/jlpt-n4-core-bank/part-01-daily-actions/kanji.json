@@ -1,0 +1,222 @@
+[
+  {
+    "id": "k-core-1-2",
+    "character": "同",
+    "onyomi": "ドウ",
+    "kunyomi": "おな.じ",
+    "meaning": "ĐỒNG (cùng nhau, giống nhau, đồng nhất)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "共同",
+        "reading": "きょうどう",
+        "meaning": "hợp tác"
+      },
+      {
+        "compound": "同一",
+        "reading": "どういつ",
+        "meaning": "danh tính"
+      }
+    ]
+  },
+  {
+    "id": "k-core-1-4",
+    "character": "自",
+    "onyomi": "ジ, シ",
+    "kunyomi": "みずか.ら, おの.ずから, おの.ずと",
+    "meaning": "TỰ (bản thân, tự mình, tự do)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "自殺",
+        "reading": "じさつ",
+        "meaning": "tự sát"
+      },
+      {
+        "compound": "自身",
+        "reading": "じしん",
+        "meaning": "một mình"
+      }
+    ]
+  },
+  {
+    "id": "k-core-1-8",
+    "character": "地",
+    "onyomi": "チ, ジ",
+    "kunyomi": "-",
+    "meaning": "ĐỊA (đất đai, địa phận, trái đất)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "生地",
+        "reading": "きじ",
+        "meaning": "vải"
+      },
+      {
+        "compound": "地",
+        "reading": "ち",
+        "meaning": "trái đất"
+      }
+    ]
+  },
+  {
+    "id": "k-core-1-12",
+    "character": "場",
+    "onyomi": "ジョウ, チョウ",
+    "kunyomi": "ば",
+    "meaning": "TRƯỜNG (địa điểm, quảng trường)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "市場",
+        "reading": "いちば",
+        "meaning": "(the) thị trường (như một khái niệm)"
+      },
+      {
+        "compound": "劇場",
+        "reading": "げきじょう",
+        "meaning": "rạp hát"
+      }
+    ]
+  },
+  {
+    "id": "k-core-1-13",
+    "character": "員",
+    "onyomi": "イン",
+    "kunyomi": "-",
+    "meaning": "VIÊN (người lao động)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "委員",
+        "reading": "いいん",
+        "meaning": "thành viên ủy ban"
+      },
+      {
+        "compound": "議員",
+        "reading": "ぎいん",
+        "meaning": "thành viên của chế độ ăn kiêng"
+      }
+    ]
+  },
+  {
+    "id": "k-core-1-17",
+    "character": "力",
+    "onyomi": "リョク, リキ, リイ",
+    "kunyomi": "ちから",
+    "meaning": "LỰC (sức mạnh, năng lực)",
+    "strokes": 2,
+    "examples": [
+      {
+        "compound": "協力",
+        "reading": "きょうりょく",
+        "meaning": "hợp tác"
+      },
+      {
+        "compound": "強力",
+        "reading": "きょうりょく",
+        "meaning": "mạnh mẽ"
+      }
+    ]
+  },
+  {
+    "id": "k-core-1-19",
+    "character": "代",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "か.わる, かわ.る, かわ.り, か.わり, -がわ.り, -が.わり, か.える, よ, しろ",
+    "meaning": "ĐẠI (thay thế)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "近代",
+        "reading": "きんだい",
+        "meaning": "ngày nay"
+      },
+      {
+        "compound": "現代",
+        "reading": "げんだい",
+        "meaning": "ngày nay"
+      }
+    ]
+  },
+  {
+    "id": "k-core-1-20",
+    "character": "明",
+    "onyomi": "メイ, ミョウ, ミン",
+    "kunyomi": "あ.かり, あか.るい, あか.るむ, あか.らむ, あき.らか, あ.ける, -あ.け, あ.く, あ.くる, あ.かす",
+    "meaning": "MINH (sáng sủa, thông minh)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "明かり",
+        "reading": "あかり",
+        "meaning": "ánh đèn"
+      },
+      {
+        "compound": "明らか",
+        "reading": "あきらか",
+        "meaning": "hiển nhiên"
+      }
+    ]
+  },
+  {
+    "id": "k-core-1-22",
+    "character": "京",
+    "onyomi": "キョウ, ケイ, キン",
+    "kunyomi": "みやこ",
+    "meaning": "KINH (thủ đô)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "上京",
+        "reading": "じょうきょう",
+        "meaning": "tiến tới thủ đô (tokyo)"
+      },
+      {
+        "compound": "東京大学",
+        "reading": "とうきょうだいがく",
+        "meaning": "đại học tokyo"
+      }
+    ]
+  },
+  {
+    "id": "k-core-1-27",
+    "character": "体",
+    "onyomi": "タイ, テイ",
+    "kunyomi": "からだ, かたち",
+    "meaning": "THỂ (cơ thể, thể xác)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "一体",
+        "reading": "いったい",
+        "meaning": "một đối tượng"
+      },
+      {
+        "compound": "具体",
+        "reading": "ぐたい",
+        "meaning": "bê tông"
+      }
+    ]
+  },
+  {
+    "id": "k-core-1-29",
+    "character": "主",
+    "onyomi": "シュ, ス, シュウ",
+    "kunyomi": "ぬし, おも, あるじ",
+    "meaning": "CHỦ (chúa tể)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "主に",
+        "reading": "おもに",
+        "meaning": "chủ yếu"
+      },
+      {
+        "compound": "主義",
+        "reading": "しゅぎ",
+        "meaning": "học thuyết"
+      }
+    ]
+  }
+]

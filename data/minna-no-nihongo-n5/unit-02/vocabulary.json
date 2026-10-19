@@ -1,0 +1,331 @@
+[
+  {
+    "word": "これ",
+    "meaning": "cái này",
+    "reading": "これ",
+    "sinoVietnamese": "",
+    "example": "これは日本語の辞書です。 (Đây là một từ điển tiếng Nhật.)"
+  },
+  {
+    "word": "それ",
+    "meaning": "cái đó",
+    "reading": "それ",
+    "sinoVietnamese": "",
+    "example": "それは何の本ですか。 (Đó là cuốn sách gì?.)"
+  },
+  {
+    "word": "あれ",
+    "meaning": "cái đó",
+    "reading": "あれ",
+    "sinoVietnamese": "",
+    "example": "あれは私の傘ではありません。 (Đó không phải là chiếc ô của tôi.)"
+  },
+  {
+    "word": "この",
+    "meaning": "cái này",
+    "reading": "この",
+    "sinoVietnamese": "",
+    "example": "この本はとても面白くて勉強になります。 (Cuốn sách này rất thú vị và mang tính giáo dục.)"
+  },
+  {
+    "word": "その",
+    "meaning": "cái đó",
+    "reading": "その",
+    "sinoVietnamese": "",
+    "example": "その青い傘はだれのものですか。 (Chiếc ô màu xanh đó thuộc về ai?.)"
+  },
+  {
+    "word": "あの",
+    "meaning": "cái đó",
+    "reading": "あの",
+    "sinoVietnamese": "",
+    "example": "あのかばんは田中さんのです。 (Cái túi đó là của Tanaka-san.)"
+  },
+  {
+    "word": "本",
+    "meaning": "cuốn sách",
+    "reading": "ほん",
+    "sinoVietnamese": "BẢN",
+    "example": "毎晩寝る前に本を読んでいます。 (Tôi đọc một cuốn sách mỗi tối trước khi đi ngủ.)"
+  },
+  {
+    "word": "辞書",
+    "meaning": "từ điển",
+    "reading": "じしょ",
+    "sinoVietnamese": "THƯ",
+    "example": "分からない言葉があったら辞書を引きます。 (Nếu tôi thấy một từ tôi không hiểu, tôi tra nó trong từ điển.)"
+  },
+  {
+    "word": "雑誌",
+    "meaning": "tạp chí",
+    "reading": "ざっし",
+    "sinoVietnamese": "TẠP",
+    "example": "駅の売店で新しいファッション雑誌を買いました。 (Tôi mua một tạp chí thời trang mới ở cửa hàng nhà ga.)"
+  },
+  {
+    "word": "新聞",
+    "meaning": "tờ báo",
+    "reading": "しんぶん",
+    "sinoVietnamese": "TÂN VĂN",
+    "example": "毎朝コーヒーを飲みながら新聞を読みます。 (Tôi đọc báo trong khi uống cà phê mỗi sáng.)"
+  },
+  {
+    "word": "ノート",
+    "meaning": "quyển vở, sổ tay",
+    "reading": "ノート",
+    "sinoVietnamese": "",
+    "example": "先生が話した大切なポイントをノートに書きます。 (Viết những điểm quan trọng mà giáo viên đã nói vào sổ tay của bạn.)"
+  },
+  {
+    "word": "手帳",
+    "meaning": "sổ tay bỏ túi",
+    "reading": "てちょう",
+    "sinoVietnamese": "THỦ",
+    "example": "スケジュールを手帳にきちんとメモしておきます。 (Hãy nhớ ghi lại lịch trình của bạn vào sổ tay.)"
+  },
+  {
+    "word": "名詞",
+    "meaning": "danh thiếp",
+    "reading": "めいし",
+    "sinoVietnamese": "DANH",
+    "example": "店員さんに相談して、自分にぴったりの名詞を選びました。 (Tôi đã hỏi ý kiến ​​nhân viên cửa hàng và chọn danh từ phù hợp nhất với mình.)"
+  },
+  {
+    "word": "カード",
+    "meaning": "thẻ, quân bài",
+    "reading": "カード",
+    "sinoVietnamese": "",
+    "example": "お会計のときにポイントカードを店員さんに渡しました。(Khi thanh toán, tôi đã đưa thẻ tích điểm cho nhân viên.)"
+  },
+  {
+    "word": "テレホンカード",
+    "meaning": "thẻ, quân bài",
+    "reading": "テレホンカード",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要なテレホンカードをしっかり入れて出かけました。 (Tôi đảm bảo đã bỏ những thẻ điện thoại cần thiết vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "鉛筆",
+    "meaning": "bút chì",
+    "reading": "えんぴつ",
+    "sinoVietnamese": "",
+    "example": "テストの答えは鉛筆で書いてください。 (Hãy viết câu trả lời bài kiểm tra của bạn bằng bút chì.)"
+  },
+  {
+    "word": "ボールペン",
+    "meaning": "bút bi",
+    "reading": "ボールペン",
+    "sinoVietnamese": "",
+    "example": "黒いボールペンを1本貸していただけませんか。 (Bạn có thể cho tôi mượn một cây bút bi màu đen được không?.)"
+  },
+  {
+    "word": "シャープペンシル",
+    "meaning": "bút chì kim",
+    "reading": "シャープペンシル",
+    "sinoVietnamese": "",
+    "example": "このシャープペンシルは軽くて書きやすいです。 (Bút chì cơ học này nhẹ và dễ viết.)"
+  },
+  {
+    "word": "かぎ",
+    "meaning": "chìa khóa",
+    "reading": "かぎ",
+    "sinoVietnamese": "",
+    "example": "新しいかぎを手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã nhận được chìa khóa mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "時計",
+    "meaning": "đồng hồ",
+    "reading": "とけい",
+    "sinoVietnamese": "THỜI",
+    "example": "これは二十歳の誕生日に父からもらった時計です。 (Đây là chiếc đồng hồ mà bố tôi đã tặng tôi vào sinh nhật lần thứ 20 của tôi.)"
+  },
+  {
+    "word": "傘",
+    "meaning": "cái ô, cái dù",
+    "reading": "かさ",
+    "sinoVietnamese": "",
+    "example": "雨が降ってきたので、傘をさして歩きます。 (Trời đang mưa nên tôi mang ô đi dạo.)"
+  },
+  {
+    "word": "かばん",
+    "meaning": "cặp sách, túi xách",
+    "reading": "かばん",
+    "sinoVietnamese": "",
+    "example": "仕事で使う資料をかばんに入れました。 (Tôi bỏ những vật liệu tôi sử dụng cho công việc vào túi của mình.)"
+  },
+  {
+    "word": "[カセット] テーブ",
+    "meaning": "băng cassette, băng từ",
+    "reading": "[カセット] テーブ",
+    "sinoVietnamese": "",
+    "example": "昔の懐かしい流行歌をカセットテープで聴きました。(Tôi đã nghe những bài hát xưa hoài niệm bằng băng cát-xét.)"
+  },
+  {
+    "word": "テープレコーダー",
+    "meaning": "máy ghi âm",
+    "reading": "テープレコーダー",
+    "sinoVietnamese": "",
+    "example": "店員さんに相談して、自分にぴったりのテープレコーダを選びました。 (Sau khi tham khảo ý kiến ​​của nhân viên cửa hàng, tôi đã chọn được chiếc máy ghi âm phù hợp nhất với mình.)"
+  },
+  {
+    "word": "テレビ",
+    "meaning": "ti vi, truyền hình",
+    "reading": "テレビ",
+    "sinoVietnamese": "",
+    "example": "晩ご飯を食べながら家族とテレビを見ます。 (Tôi xem TV cùng gia đình trong khi ăn tối.)"
+  },
+  {
+    "word": "ラジオ",
+    "meaning": "đài phát thanh, radio",
+    "reading": "ラジオ",
+    "sinoVietnamese": "",
+    "example": "朝の準備をしながらラジオを聞きます。 (Tôi nghe radio trong khi chuẩn bị sẵn sàng vào buổi sáng.)"
+  },
+  {
+    "word": "カメラ",
+    "meaning": "máy ảnh",
+    "reading": "カメラ",
+    "sinoVietnamese": "",
+    "example": "旅行に新しいカメラを持っていきます。 (Tôi sẽ mang theo một chiếc máy ảnh mới trong chuyến đi của mình.)"
+  },
+  {
+    "word": "コンピュータ",
+    "meaning": "máy vi tính",
+    "reading": "コンピュータ",
+    "sinoVietnamese": "",
+    "example": "丁寧にお手入れをしながら、お気に入りのコンピュータを長く愛用しています。 (Bạn có thể sử dụng chiếc máy tính yêu thích của mình trong thời gian dài bằng cách bảo quản nó thật tốt.)"
+  },
+  {
+    "word": "自動車",
+    "meaning": "ô tô, ô tô",
+    "reading": "じどうしゃ",
+    "sinoVietnamese": "TỰ ĐỘNG XA",
+    "example": "週末は自動車を運転してドライブに行きます。 (Vào cuối tuần, tôi lái xe và đi dạo.)"
+  },
+  {
+    "word": "机",
+    "meaning": "bàn làm việc, bàn học",
+    "reading": "つくえ",
+    "sinoVietnamese": "",
+    "example": "勉強が終わったら、机の上を片付けましょう。 (Khi học xong, hãy dọn dẹp bàn học của bạn.)"
+  },
+  {
+    "word": "いす",
+    "meaning": "chiếc ghế",
+    "reading": "いす",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、いすようにしています。 (Tôi đảm bảo sử dụng ghế của mình mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "チョコレート",
+    "meaning": "sô cô la",
+    "reading": "チョコレート",
+    "sinoVietnamese": "",
+    "example": "友達から旅行のお土産にチョコレートをもらいました。 (Tôi nhận được sôcôla từ một người bạn làm kỷ niệm trong chuyến đi của mình.)"
+  },
+  {
+    "word": "コーヒー",
+    "meaning": "cà phê",
+    "reading": "コーヒー",
+    "sinoVietnamese": "",
+    "example": "毎朝目覚ましに温かいブラックコーヒーを飲みます。 (Tôi thức dậy mỗi sáng với một tách cà phê đen nóng.)"
+  },
+  {
+    "word": "英語",
+    "meaning": "tiếng Anh",
+    "reading": "えいご",
+    "sinoVietnamese": "NGỮ",
+    "example": "将来海外で働くために英語を勉強しています。 (Tôi đang học tiếng Anh để đi làm ở nước ngoài trong tương lai.)"
+  },
+  {
+    "word": "日本語",
+    "meaning": "tiếng Nhật",
+    "reading": "にほんご",
+    "sinoVietnamese": "NHẬT BẢN NGỮ",
+    "example": "日本で生活するために毎日日本語を一生懸命勉強しています。 (Tôi đang học tiếng Nhật chăm chỉ mỗi ngày để có thể sống ở Nhật Bản.)"
+  },
+  {
+    "word": "∼語",
+    "meaning": "tiếng ～ (ngôn ngữ)",
+    "reading": "∼ご",
+    "sinoVietnamese": "NGỮ",
+    "example": "日本の文化や生活に関わる∼語について興味深く学びました。 (Tôi rất thích thú học những từ ngữ liên quan đến văn hóa và đời sống Nhật Bản.)"
+  },
+  {
+    "word": "何",
+    "meaning": "cái gì",
+    "reading": "なん",
+    "sinoVietnamese": "HÀ",
+    "example": "その大きな箱の中に何が入っているのですか。 (Bên trong chiếc hộp lớn đó có gì?.)"
+  },
+  {
+    "word": "そう",
+    "meaning": "đúng vậy, như thế",
+    "reading": "そう",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、そうようにしています。 (Tôi cố gắng làm điều này mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "違います。",
+    "meaning": "không, không phải",
+    "reading": "ちがいます。",
+    "sinoVietnamese": "",
+    "example": "いいえ、私の意見は少し違います。 (Không, ý kiến ​​của tôi hơi khác một chút.)"
+  },
+  {
+    "word": "そうですか。",
+    "meaning": "cái đó",
+    "reading": "そうですか。",
+    "sinoVietnamese": "",
+    "example": "そうですか。教えてくれてありがとうございます。 (có phải vậy không? Cảm ơn bạn đã cho tôi biết.)"
+  },
+  {
+    "word": "あのう",
+    "meaning": "à",
+    "reading": "あのう",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、あのうようにしています。 (Tôi cố gắng làm điều đó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "ほんの気持ちです",
+    "meaning": "chút lòng thành của tôi (khi tặng quà)",
+    "reading": "ほんのきもちです",
+    "sinoVietnamese": "KHÍ TRÌ",
+    "example": "毎日欠かさずに、ほんの気持ちですようにしています。 (Tôi cố gắng làm điều đó mỗi ngày mà không thất bại, đúng như tôi cảm thấy.)"
+  },
+  {
+    "word": "どうぞ",
+    "meaning": "ở đây",
+    "reading": "どうぞ",
+    "sinoVietnamese": "",
+    "example": "お茶が入りましたので、どうぞお召し上がりください。 (Trà đã sẵn sàng, mời các bạn thưởng thức nhé.)"
+  },
+  {
+    "word": "どうも",
+    "meaning": "cảm ơn / xin chào (cách nói ngắn gọn)",
+    "reading": "どうも",
+    "sinoVietnamese": "",
+    "example": "親切にしていただいて、どうもありがとうございます。 (Cảm ơn bạn rất nhiều vì lòng tốt của bạn.)"
+  },
+  {
+    "word": "[どうも] ありがとう[ございます]",
+    "meaning": "xin chân thành cảm ơn",
+    "reading": "[どうも] ありがとう[ございます]",
+    "sinoVietnamese": "",
+    "example": "手伝ってくれた友達に「どうもありがとうございます」と心からお礼を言いました。(Tôi chân thành cảm ơn người bạn đã giúp đỡ: \"Xin cảm ơn bạn rất nhiều\".)"
+  },
+  {
+    "word": "これから お世話になります",
+    "meaning": "ở đây",
+    "reading": "これから おせわになります",
+    "sinoVietnamese": "THẾ THOẠI",
+    "example": "毎日欠かさずに、これから お世話になりますようにしています。 (Tôi sẽ tiếp tục chăm sóc bạn mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "こちらこそ よろしく",
+    "meaning": "rất mong được giúp đỡ",
+    "reading": "こちらこそ よろしく",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、こちらこそ よろしくようにしています。 (Tôi cố gắng cảm ơn bạn mỗi ngày mà không thất bại.)"
+  }
+]

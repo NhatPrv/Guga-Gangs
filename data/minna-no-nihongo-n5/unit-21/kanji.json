@@ -1,0 +1,142 @@
+[
+  {
+    "id": "k-n5-21-1",
+    "character": "思",
+    "onyomi": "シ",
+    "kunyomi": "おも.う, おもえら.く, おぼ.す",
+    "meaning": "TƯ (suy nghĩ, tư tưởng)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "意思",
+        "reading": "いし",
+        "meaning": "ý định"
+      },
+      {
+        "compound": "思い出",
+        "reading": "おもいで",
+        "meaning": "ký ức"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-21-2",
+    "character": "言",
+    "onyomi": "ゲン, ゴン",
+    "kunyomi": "い.う, こと",
+    "meaning": "NGÔN (nói năng, ngôn ngữ)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "言わば",
+        "reading": "いわば",
+        "meaning": "có thể nói như vậy"
+      },
+      {
+        "compound": "言語",
+        "reading": "げんご",
+        "meaning": "ngôn ngữ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-21-3",
+    "character": "足",
+    "onyomi": "ソク",
+    "kunyomi": "あし, た.りる, た.る, た.す",
+    "meaning": "TÚC (bàn chân, đầy đủ)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "不足",
+        "reading": "ふそく",
+        "meaning": "sự thiếu hụt"
+      },
+      {
+        "compound": "満足",
+        "reading": "まんぞく",
+        "meaning": "sự hài lòng"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-21-4",
+    "character": "勝",
+    "onyomi": "ショウ",
+    "kunyomi": "か.つ, -が.ち, まさ.る, すぐ.れる, かつ",
+    "meaning": "THẮNG (chiến thắng)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "勝ち",
+        "reading": "かち",
+        "meaning": "thắng"
+      },
+      {
+        "compound": "優勝",
+        "reading": "ゆうしょう",
+        "meaning": "chiến thắng chung cuộc"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-21-5",
+    "character": "負",
+    "onyomi": "フ",
+    "kunyomi": "ま.ける, ま.かす, お.う",
+    "meaning": "PHỤ (thua cuộc, gánh vác)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "負け",
+        "reading": "まけ",
+        "meaning": "đánh bại"
+      },
+      {
+        "compound": "負ける",
+        "reading": "まける",
+        "meaning": "làm mất, thất lạc"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-21-6",
+    "character": "役",
+    "onyomi": "ヤク, エキ",
+    "kunyomi": "-",
+    "meaning": "DỊCH (chữ Hán DỊCH)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "役",
+        "reading": "やく",
+        "meaning": "sử dụng"
+      },
+      {
+        "compound": "役割",
+        "reading": "やくわり",
+        "meaning": "một phần"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-21-8",
+    "character": "不",
+    "onyomi": "フ, ブ",
+    "kunyomi": "-",
+    "meaning": "BẤT (không, bất tiện, bất an)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "不",
+        "reading": "ふ",
+        "meaning": "bỏ"
+      },
+      {
+        "compound": "不安",
+        "reading": "ふあん",
+        "meaning": "lo lắng"
+      }
+    ]
+  }
+]

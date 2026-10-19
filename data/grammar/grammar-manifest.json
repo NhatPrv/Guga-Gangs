@@ -1,0 +1,196 @@
+{
+  "totalGrammar": 8,
+  "totalUnits": 4,
+  "levels": [
+    {
+      "level": "N5",
+      "title": "JLPT N5",
+      "units": [
+        {
+          "id": "grammar-n5-unit-01",
+          "level": "N5",
+          "title": "Bài 1",
+          "fullName": "Bài 1: Mẫu câu Xin phép & Cấm đoán cơ bản",
+          "order": 1,
+          "grammarIds": [
+            "bunpou-n5-te-mo-ii-desu",
+            "bunpou-n5-te-wa-ikemasen-basic"
+          ]
+        }
+      ]
+    },
+    {
+      "level": "N4",
+      "title": "JLPT N4",
+      "units": [
+        {
+          "id": "grammar-n4-unit-01",
+          "level": "N4",
+          "title": "Bài 1",
+          "fullName": "Bài 1: Mẫu câu Cấm đoán & Bổn phận/Nghĩa vụ",
+          "order": 1,
+          "grammarIds": [
+            "bunpou-n4-te-wa-ikemasen",
+            "bunpou-n4-nakereba-naranai"
+          ]
+        },
+        {
+          "id": "grammar-n4-unit-02",
+          "level": "N4",
+          "title": "Bài 2",
+          "fullName": "Bài 2: Mẫu câu Kinh nghiệm & Lời khuyên",
+          "order": 2,
+          "grammarIds": [
+            "bunpou-n4-ta-koto-ga-aru",
+            "bunpou-n4-hou-ga-ii"
+          ]
+        }
+      ]
+    },
+    {
+      "level": "N3",
+      "title": "JLPT N3",
+      "units": [
+        {
+          "id": "grammar-n3-unit-01",
+          "level": "N3",
+          "title": "Bài 1",
+          "fullName": "Bài 1: Mẫu câu Phán đoán & Phủ định chắc chắn",
+          "order": 1,
+          "grammarIds": [
+            "bunpou-n3-wake-ga-nai",
+            "bunpou-n3-ni-chigainai"
+          ]
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "grammar-n5-unit-01",
+      "level": "N5",
+      "title": "Bài 1",
+      "fullName": "Bài 1: Mẫu câu Xin phép & Cấm đoán cơ bản",
+      "order": 1,
+      "grammarIds": [
+        "bunpou-n5-te-mo-ii-desu",
+        "bunpou-n5-te-wa-ikemasen-basic"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-01",
+      "level": "N4",
+      "title": "Bài 1",
+      "fullName": "Bài 1: Mẫu câu Cấm đoán & Bổn phận/Nghĩa vụ",
+      "order": 1,
+      "grammarIds": [
+        "bunpou-n4-te-wa-ikemasen",
+        "bunpou-n4-nakereba-naranai"
+      ]
+    },
+    {
+      "id": "grammar-n4-unit-02",
+      "level": "N4",
+      "title": "Bài 2",
+      "fullName": "Bài 2: Mẫu câu Kinh nghiệm & Lời khuyên",
+      "order": 2,
+      "grammarIds": [
+        "bunpou-n4-ta-koto-ga-aru",
+        "bunpou-n4-hou-ga-ii"
+      ]
+    },
+    {
+      "id": "grammar-n3-unit-01",
+      "level": "N3",
+      "title": "Bài 1",
+      "fullName": "Bài 1: Mẫu câu Phán đoán & Phủ định chắc chắn",
+      "order": 1,
+      "grammarIds": [
+        "bunpou-n3-wake-ga-nai",
+        "bunpou-n3-ni-chigainai"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "bunpou-n5-te-mo-ii-desu",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-01",
+      "title": "〜てもいいですか / 〜てもいいです",
+      "meaning": "Làm ... có được không? / Được phép làm...",
+      "connection": "V-て + もいいです (か)",
+      "usageNotes": "Dùng để xin phép (か) hoặc cho phép ai đó thực hiện hành vi. Thể thường là 〜てもいい.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n5-te-wa-ikemasen-basic",
+      "level": "N5",
+      "unitId": "grammar-n5-unit-01",
+      "title": "〜てはいけません (Cơ bản N5)",
+      "meaning": "Không được làm gì (Cấm đoán cơ bản)",
+      "connection": "V-て + はいけません",
+      "usageNotes": "Diễn tả lời nhắc nhở cấm đoán các hành vi sai quy định trong lớp học, công viên.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-te-wa-ikemasen",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-01",
+      "title": "〜てはいけません / 〜てはいけない",
+      "meaning": "Không được làm gì (Cấm đoán nâng cao & Thể ngắn)",
+      "connection": "V-て + はいけません / はいけない",
+      "usageNotes": "Diễn tả sự cấm đoán mạnh mẽ trong nội quy, biển báo pháp luật hoặc lời dặn của bác sĩ.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-nakereba-naranai",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-01",
+      "title": "〜なければならない / 〜なければなりません",
+      "meaning": "Phải làm gì đó (Bắt buộc / Bổn phận)",
+      "connection": "V-ない (bỏ い) + ければならない",
+      "usageNotes": "Diễn tả nghĩa vụ pháp luật hoặc hoàn cảnh bắt buộc không thể không làm.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-ta-koto-ga-aru",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-02",
+      "title": "〜たことがある / 〜たことがありません",
+      "meaning": "Đã từng / Chưa từng làm gì (Kinh nghiệm quá khứ)",
+      "connection": "V-た + ことがある / ない",
+      "usageNotes": "Diễn tả trải nghiệm từng trải qua trong quá khứ tính đến thời điểm nói.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n4-hou-ga-ii",
+      "level": "N4",
+      "unitId": "grammar-n4-unit-02",
+      "title": "〜ほうがいい / 〜ないほうがいい",
+      "meaning": "Nên / Không nên làm gì (Lời khuyên)",
+      "connection": "V-た + ほうがいい / V-ない + ほうがいい",
+      "usageNotes": "Đưa ra lời khuyên cụ thể nên làm gì (thể Ta) hoặc không nên làm gì (thể Nai).",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-wake-ga-nai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-01",
+      "title": "〜わけがない / 〜わけはない",
+      "meaning": "Chắc chắn không... / Không đời nào...",
+      "connection": "Thể thường (V/A-i/A-naな/Nの) + わけがない",
+      "usageNotes": "Diễn tả sự phủ định mạnh mẽ dựa trên logic hoặc bằng chứng xác thực.",
+      "questionsCount": 5
+    },
+    {
+      "id": "bunpou-n3-ni-chigainai",
+      "level": "N3",
+      "unitId": "grammar-n3-unit-01",
+      "title": "〜に違いない / 〜に相違ない",
+      "meaning": "Chắc chắn là... / Nhất định là...",
+      "connection": "Thể thường (bỏ だ) + に違いない",
+      "usageNotes": "Diễn tả sự phán đoán với độ tin cậy rất cao của người nói dựa trên trực giác hoặc bằng chứng.",
+      "questionsCount": 5
+    }
+  ]
+}

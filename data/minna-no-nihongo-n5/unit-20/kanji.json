@@ -1,0 +1,117 @@
+[
+  {
+    "id": "k-n5-20-1",
+    "character": "要",
+    "onyomi": "ヨウ",
+    "kunyomi": "い.る, かなめ",
+    "meaning": "YẾU (cần thiết, trọng yếu)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "重要",
+        "reading": "じゅうよう",
+        "meaning": "quan trọng"
+      },
+      {
+        "compound": "主要",
+        "reading": "しゅよう",
+        "meaning": "người đứng đầu"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-20-2",
+    "character": "調",
+    "onyomi": "チョウ",
+    "kunyomi": "しら.べる, しら.べ, ととの.う, ととの.える",
+    "meaning": "ĐIỀU (điều tra, kiểm tra)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "強調",
+        "reading": "きょうちょう",
+        "meaning": "sự nhấn mạnh"
+      },
+      {
+        "compound": "順調",
+        "reading": "じゅんちょう",
+        "meaning": "thuận lợi"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-20-3",
+    "character": "直",
+    "onyomi": "チョク, ジキ, ジカ",
+    "kunyomi": "ただ.ちに, なお.す, -なお.す, なお.る, なお.き, す.ぐ",
+    "meaning": "Hán tự 直",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "直に",
+        "reading": "じかに",
+        "meaning": "ngay lập tức"
+      },
+      {
+        "compound": "直",
+        "reading": "じき",
+        "meaning": "sớm thôi"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-20-4",
+    "character": "修",
+    "onyomi": "シュウ, シュ",
+    "kunyomi": "おさ.める, おさ.まる",
+    "meaning": "TU (chữ Hán TU)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "修正",
+        "reading": "しゅうせい",
+        "meaning": "sửa đổi"
+      },
+      {
+        "compound": "修理",
+        "reading": "しゅうり",
+        "meaning": "sửa chữa"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-20-7",
+    "character": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな.す, はなし",
+    "meaning": "THOẠI (nói chuyện, cuộc trò chuyện)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "話し合う",
+        "reading": "はなしあう",
+        "meaning": "thảo luận"
+      },
+      {
+        "compound": "話題",
+        "reading": "わだい",
+        "meaning": "chủ đề"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-20-8",
+    "character": "僕",
+    "onyomi": "ボク",
+    "kunyomi": "しもべ",
+    "meaning": "BỘC (chữ Hán BỘC)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "僕",
+        "reading": "ぼく",
+        "meaning": "tôi"
+      }
+    ]
+  }
+]

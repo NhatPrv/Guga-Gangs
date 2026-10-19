@@ -1,0 +1,82 @@
+[
+  {
+    "id": "k38-1",
+    "character": "育",
+    "onyomi": "イク",
+    "kunyomi": "そだ.つ, そだ.ち, そだ.てる, はぐく.む",
+    "meaning": "DỤC (nuôi dạy, giáo dục)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "育つ",
+        "reading": "そだつ",
+        "meaning": "nuôi (đứa trẻ)"
+      },
+      {
+        "compound": "体育",
+        "reading": "たいいく",
+        "meaning": "giáo dục thể chất"
+      }
+    ]
+  },
+  {
+    "id": "k38-3",
+    "character": "亡",
+    "onyomi": "ボウ, モウ",
+    "kunyomi": "な.い, な.き-, ほろ.びる, ほろ.ぶ, ほろ.ぼす",
+    "meaning": "VONG (chữ Hán VONG)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "死亡",
+        "reading": "しぼう",
+        "meaning": "cái chết"
+      },
+      {
+        "compound": "亡くなる",
+        "reading": "なくなる",
+        "meaning": "chết"
+      }
+    ]
+  },
+  {
+    "id": "k38-5",
+    "character": "院",
+    "onyomi": "イン",
+    "kunyomi": "-",
+    "meaning": "VIỆN (chữ Hán VIỆN)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "退院",
+        "reading": "たいいん",
+        "meaning": "bệnh viện"
+      },
+      {
+        "compound": "入院",
+        "reading": "にゅういん",
+        "meaning": "bệnh viện"
+      }
+    ]
+  },
+  {
+    "id": "k38-6",
+    "character": "退",
+    "onyomi": "タイ",
+    "kunyomi": "しりぞ.く, しりぞ.ける, ひ.く, の.く, の.ける, ど.く",
+    "meaning": "THOÁI (chữ Hán THOÁI)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "引退",
+        "reading": "いんたい",
+        "meaning": "nghỉ hưu"
+      },
+      {
+        "compound": "退屈",
+        "reading": "たいくつ",
+        "meaning": "tẻ nhạt"
+      }
+    ]
+  }
+]

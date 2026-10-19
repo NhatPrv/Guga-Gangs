@@ -1,0 +1,122 @@
+[
+  {
+    "id": "k47-3",
+    "character": "別",
+    "onyomi": "ベツ",
+    "kunyomi": "わか.れる, わ.ける",
+    "meaning": "BIỆT (chia ly, đặc biệt, riêng biệt)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "区別",
+        "reading": "くべつ",
+        "meaning": "sự phân biệt"
+      },
+      {
+        "compound": "差別",
+        "reading": "さべつ",
+        "meaning": "sự phân biệt đối xử"
+      }
+    ]
+  },
+  {
+    "id": "k47-6",
+    "character": "音",
+    "onyomi": "オン, イン, -ノン",
+    "kunyomi": "おと, ね",
+    "meaning": "ÂM (âm thanh, tiếng động)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "物音",
+        "reading": "ものおと",
+        "meaning": "âm thanh"
+      },
+      {
+        "compound": "騒音",
+        "reading": "そうおん",
+        "meaning": "làm ồn, quậy phá"
+      }
+    ]
+  },
+  {
+    "id": "k47-7",
+    "character": "声",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "こえ, こわ-",
+    "meaning": "THANH (âm thanh, giọng nói)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "声",
+        "reading": "こえ",
+        "meaning": "tiếng nói, giọng nói"
+      },
+      {
+        "compound": "「音/声が～」します",
+        "reading": "[おと/こえが~] します",
+        "meaning": "phát ra âm thanh / nghe thấy tiếng nói"
+      }
+    ]
+  },
+  {
+    "id": "k47-8",
+    "character": "味",
+    "onyomi": "ミ",
+    "kunyomi": "あじ, あじ.わう",
+    "meaning": "VỊ (hương vị, mùi vị)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "気味",
+        "reading": "きみ",
+        "meaning": "cảm giác"
+      },
+      {
+        "compound": "味方",
+        "reading": "みかた",
+        "meaning": "người bạn"
+      }
+    ]
+  },
+  {
+    "id": "k47-9",
+    "character": "傘",
+    "onyomi": "サン",
+    "kunyomi": "かさ",
+    "meaning": "TẢN (chữ Hán TẢN)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "「傘を～」さします",
+        "reading": "[かさを~] さします",
+        "meaning": "giương ô, che dù"
+      },
+      {
+        "compound": "傘",
+        "reading": "かさ",
+        "meaning": "cái ô, cái dù"
+      }
+    ]
+  },
+  {
+    "id": "k47-10",
+    "character": "怖",
+    "onyomi": "フ, ホ",
+    "kunyomi": "こわ.い, こわ.がる, お.じる, おそ.れる",
+    "meaning": "BỐ (chữ Hán BỐ)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "恐怖",
+        "reading": "きょうふ",
+        "meaning": "sợ hãi"
+      },
+      {
+        "compound": "怖い",
+        "reading": "こわい",
+        "meaning": "đáng sợ, đáng sợ"
+      }
+    ]
+  }
+]

@@ -1,0 +1,912 @@
+[
+  {
+    "id": "k-n3-1-1",
+    "character": "政",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "まつりごと, まん",
+    "meaning": "CHÍNH (chính trị)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "政府",
+        "reading": "せいふ",
+        "meaning": "chính phủ"
+      },
+      {
+        "compound": "政界",
+        "reading": "せかい",
+        "meaning": "thế giới"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-2",
+    "character": "民",
+    "onyomi": "ミン",
+    "kunyomi": "たみ",
+    "meaning": "DÂN (mọi người)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "国民",
+        "reading": "こくみん",
+        "meaning": "quốc gia"
+      },
+      {
+        "compound": "住民",
+        "reading": "じゅうみん",
+        "meaning": "công dân"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-3",
+    "character": "対",
+    "onyomi": "タイ, ツイ",
+    "kunyomi": "あいて, こた.える, そろ.い, つれあ.い, なら.ぶ, むか.う",
+    "meaning": "ĐỐI (vis-a-vis)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "絶対",
+        "reading": "ぜったい",
+        "meaning": "tuyệt đối"
+      },
+      {
+        "compound": "対",
+        "reading": "たい",
+        "meaning": "so với"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-4",
+    "character": "部",
+    "onyomi": "ブ",
+    "kunyomi": "-べ",
+    "meaning": "BỘ (phần)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "大部分",
+        "reading": "だいぶぶん",
+        "meaning": "phần lớn"
+      },
+      {
+        "compound": "部分",
+        "reading": "ぶぶん",
+        "meaning": "phần"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-5",
+    "character": "市",
+    "onyomi": "シ",
+    "kunyomi": "いち",
+    "meaning": "THỊ (thị trường)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "市場",
+        "reading": "いちば",
+        "meaning": "(the) thị trường (như một khái niệm)"
+      },
+      {
+        "compound": "都市",
+        "reading": "とし",
+        "meaning": "thị trấn"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-6",
+    "character": "相",
+    "onyomi": "ソウ, ショウ",
+    "kunyomi": "あい-",
+    "meaning": "TƯƠNG (liên)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "相続",
+        "reading": "そうぞく",
+        "meaning": "sự kế thừa"
+      },
+      {
+        "compound": "相当",
+        "reading": "そうとう",
+        "meaning": "phù hợp"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-7",
+    "character": "定",
+    "onyomi": "テイ, ジョウ",
+    "kunyomi": "さだ.める, さだ.まる, さだ.か",
+    "meaning": "ĐỊNH (xác định)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "安定",
+        "reading": "あんてい",
+        "meaning": "sự ổn định"
+      },
+      {
+        "compound": "勘定",
+        "reading": "かんじょう",
+        "meaning": "tính toán"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-8",
+    "character": "回",
+    "onyomi": "カイ, エ",
+    "kunyomi": "まわ.る, -まわ.る, -まわ.り, まわ.す, -まわ.す, まわ.し-, -まわ.し, もとお.る, か.える",
+    "meaning": "HỒI (-lần)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "回",
+        "reading": "かい",
+        "meaning": "bộ đếm sự xuất hiện"
+      },
+      {
+        "compound": "回復",
+        "reading": "かいふく",
+        "meaning": "hồi phục (sau bệnh tật)"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-9",
+    "character": "米",
+    "onyomi": "ベイ, マイ, メエトル",
+    "kunyomi": "こめ, よね",
+    "meaning": "MỄ (cơm)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "米",
+        "reading": "こめ",
+        "meaning": "cơm"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-10",
+    "character": "実",
+    "onyomi": "ジツ, シツ",
+    "kunyomi": "み, みの.る, まこと, みの, みち.る",
+    "meaning": "THỰC (thực tế)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "確実",
+        "reading": "かくじつ",
+        "meaning": "sự chắc chắn"
+      },
+      {
+        "compound": "現実",
+        "reading": "げんじつ",
+        "meaning": "thực tế"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-11",
+    "character": "関",
+    "onyomi": "カン",
+    "kunyomi": "せき, -ぜき, かか.わる, からくり, かんぬき",
+    "meaning": "QUAN (kết nối)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "関心",
+        "reading": "かんしん",
+        "meaning": "mối quan tâm"
+      },
+      {
+        "compound": "関する",
+        "reading": "かんする",
+        "meaning": "quan tâm"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-12",
+    "character": "表",
+    "onyomi": "ヒョウ",
+    "kunyomi": "おもて, -おもて, あらわ.す, あらわ.れる, あら.わす",
+    "meaning": "BIỂU (bề mặt)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "表す",
+        "reading": "あらわす",
+        "meaning": "bày tỏ"
+      },
+      {
+        "compound": "代表",
+        "reading": "だいひょう",
+        "meaning": "đại diện"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-13",
+    "character": "戦",
+    "onyomi": "セン",
+    "kunyomi": "いくさ, たたか.う, おのの.く, そよ.ぐ, わなな.く",
+    "meaning": "CHIẾN (chiến tranh)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "大戦",
+        "reading": "たいせん",
+        "meaning": "đại chiến"
+      },
+      {
+        "compound": "戦い",
+        "reading": "たたかい",
+        "meaning": "trận chiến"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-14",
+    "character": "経",
+    "onyomi": "ケイ, キョウ, キン",
+    "kunyomi": "へ.る, た.つ, たていと, はか.る, のり",
+    "meaning": "KINH (kinh)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "経営",
+        "reading": "けいえい",
+        "meaning": "quản lý"
+      },
+      {
+        "compound": "経由",
+        "reading": "けいゆ",
+        "meaning": "nhân tiện đi"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-15",
+    "character": "最",
+    "onyomi": "サイ, シュ",
+    "kunyomi": "もっと.も, つま",
+    "meaning": "TỐI (hết sức)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "最高",
+        "reading": "さいこう",
+        "meaning": "cao nhất"
+      },
+      {
+        "compound": "最終",
+        "reading": "さいしゅう",
+        "meaning": "cuối cùng"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-16",
+    "character": "現",
+    "onyomi": "ゲン",
+    "kunyomi": "あらわ.れる, あらわ.す, うつつ, うつ.つ",
+    "meaning": "HIỆN (hiện tại)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "現す",
+        "reading": "あらわす",
+        "meaning": "hiển thị"
+      },
+      {
+        "compound": "現れ",
+        "reading": "あらわれ",
+        "meaning": "hiện thân"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-17",
+    "character": "化",
+    "onyomi": "カ, ケ",
+    "kunyomi": "ば.ける, ば.かす, ふ.ける, け.する",
+    "meaning": "HÓA (thay đổi)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "化学",
+        "reading": "かがく",
+        "meaning": "hóa học"
+      },
+      {
+        "compound": "化粧",
+        "reading": "けしょう",
+        "meaning": "trang điểm (mỹ phẩm)"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-18",
+    "character": "当",
+    "onyomi": "トウ",
+    "kunyomi": "あ.たる, あ.たり, あ.てる, あ.て, まさ.に, まさ.にべし",
+    "meaning": "ĐƯƠNG (đánh)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "当たる",
+        "reading": "あたる",
+        "meaning": "bị đánh"
+      },
+      {
+        "compound": "当てる",
+        "reading": "あてる",
+        "meaning": "đánh"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-19",
+    "character": "約",
+    "onyomi": "ヤク",
+    "kunyomi": "つづ.まる, つづ.める, つづま.やか",
+    "meaning": "ƯỚC (lời hứa)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "契約",
+        "reading": "けいやく",
+        "meaning": "hợp đồng"
+      },
+      {
+        "compound": "婚約",
+        "reading": "こんやく",
+        "meaning": "sự đính hôn"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-20",
+    "character": "首",
+    "onyomi": "シュ",
+    "kunyomi": "くび",
+    "meaning": "THỦ (cái cổ)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "首都",
+        "reading": "しゅと",
+        "meaning": "thủ đô"
+      },
+      {
+        "compound": "首",
+        "reading": "くび",
+        "meaning": "cái cổ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-21",
+    "character": "法",
+    "onyomi": "ホウ, ハッ, ホッ, フラン",
+    "kunyomi": "のり",
+    "meaning": "PHÁP (phương pháp)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "憲法",
+        "reading": "けんぽう",
+        "meaning": "hiến pháp"
+      },
+      {
+        "compound": "作法",
+        "reading": "さほう",
+        "meaning": "cách cư xử"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-22",
+    "character": "性",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "さが",
+    "meaning": "TÍNH (tình dục)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "性",
+        "reading": "せい",
+        "meaning": "tình dục"
+      },
+      {
+        "compound": "性格",
+        "reading": "せいかく",
+        "meaning": "nhân vật"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-23",
+    "character": "的",
+    "onyomi": "テキ",
+    "kunyomi": "まと",
+    "meaning": "ĐÍCH (hồng tâm)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "積極的",
+        "reading": "せっきょくてき",
+        "meaning": "tích cực"
+      },
+      {
+        "compound": "目的",
+        "reading": "もくてき",
+        "meaning": "mục đích"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-24",
+    "character": "制",
+    "onyomi": "セイ",
+    "kunyomi": "-",
+    "meaning": "CHẾ (hệ thống)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "制限",
+        "reading": "せいげん",
+        "meaning": "hạn chế"
+      },
+      {
+        "compound": "制度",
+        "reading": "せいど",
+        "meaning": "hệ thống"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-25",
+    "character": "治",
+    "onyomi": "ジ, チ",
+    "kunyomi": "おさ.める, おさ.まる, なお.る, なお.す",
+    "meaning": "TRỊ (trị vì)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "治る",
+        "reading": "なおる",
+        "meaning": "được chữa khỏi"
+      },
+      {
+        "compound": "治ります、直ります",
+        "reading": "なおります",
+        "meaning": "khỏi bệnh / được sửa xong"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-26",
+    "character": "期",
+    "onyomi": "キ, ゴ",
+    "kunyomi": "-",
+    "meaning": "KỲ (thời kỳ)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "延期",
+        "reading": "えんき",
+        "meaning": "sự trì hoãn"
+      },
+      {
+        "compound": "学期",
+        "reading": "がっき",
+        "meaning": "học kỳ (trường học)"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-27",
+    "character": "都",
+    "onyomi": "ト, ツ",
+    "kunyomi": "みやこ",
+    "meaning": "ĐÔ (đô thị)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "首都",
+        "reading": "しゅと",
+        "meaning": "thủ đô"
+      },
+      {
+        "compound": "都市",
+        "reading": "とし",
+        "meaning": "thị trấn"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-28",
+    "character": "和",
+    "onyomi": "ワ, オ, カ",
+    "kunyomi": "やわ.らぐ, やわ.らげる, なご.む, なご.やか, あ.える",
+    "meaning": "HÒA (sự hòa hợp)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "平和",
+        "reading": "へいわ",
+        "meaning": "hòa bình"
+      },
+      {
+        "compound": "和食",
+        "reading": "わしょく",
+        "meaning": "món ăn nhật bản"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-29",
+    "character": "機",
+    "onyomi": "キ",
+    "kunyomi": "はた",
+    "meaning": "KI (khung cửi)",
+    "strokes": 16,
+    "examples": [
+      {
+        "compound": "機関",
+        "reading": "きかん",
+        "meaning": "cơ quan"
+      },
+      {
+        "compound": "機嫌",
+        "reading": "きげん",
+        "meaning": "hài hước"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-30",
+    "character": "平",
+    "onyomi": "ヘイ, ビョウ, ヒョウ",
+    "kunyomi": "たい.ら, たい.らげる, ひら",
+    "meaning": "BÌNH (thậm chí)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "公平",
+        "reading": "こうへい",
+        "meaning": "sự công bằng"
+      },
+      {
+        "compound": "平ら",
+        "reading": "たいら",
+        "meaning": "độ phẳng"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-31",
+    "character": "加",
+    "onyomi": "カ",
+    "kunyomi": "くわ.える, くわ.わる",
+    "meaning": "GIA (thêm)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "加減",
+        "reading": "かげん",
+        "meaning": "phép cộng và phép trừ"
+      },
+      {
+        "compound": "加える",
+        "reading": "くわえる",
+        "meaning": "nối thêm"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-32",
+    "character": "進",
+    "onyomi": "シン",
+    "kunyomi": "すす.む, すす.める",
+    "meaning": "TIẾN (tiến lên)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "進学",
+        "reading": "しんがく",
+        "meaning": "đang học đại học"
+      },
+      {
+        "compound": "進歩",
+        "reading": "しんぽ",
+        "meaning": "tiến bộ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-33",
+    "character": "記",
+    "onyomi": "キ",
+    "kunyomi": "しる.す",
+    "meaning": "KÝ (người ghi chép)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "暗記",
+        "reading": "あんき",
+        "meaning": "sự ghi nhớ"
+      },
+      {
+        "compound": "記憶",
+        "reading": "きおく",
+        "meaning": "ký ức"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-34",
+    "character": "初",
+    "onyomi": "ショ",
+    "kunyomi": "はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め",
+    "meaning": "SƠ (lần đầu tiên)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "最初",
+        "reading": "さいしょ",
+        "meaning": "sự khởi đầu"
+      },
+      {
+        "compound": "初め",
+        "reading": "はじめ",
+        "meaning": "sự khởi đầu"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-35",
+    "character": "指",
+    "onyomi": "シ",
+    "kunyomi": "ゆび, さ.す, -さ.し",
+    "meaning": "CHỈ (ngón tay)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "指す",
+        "reading": "さす",
+        "meaning": "chỉ vào"
+      },
+      {
+        "compound": "指導",
+        "reading": "しどう",
+        "meaning": "sự lãnh đạo"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-36",
+    "character": "権",
+    "onyomi": "ケン, ゴン",
+    "kunyomi": "おもり, かり, はか.る",
+    "meaning": "QUYỀN (thẩm quyền)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "権利",
+        "reading": "けんり",
+        "meaning": "đúng"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-37",
+    "character": "支",
+    "onyomi": "シ",
+    "kunyomi": "ささ.える, つか.える, か.う",
+    "meaning": "CHI (chi nhánh)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "支える",
+        "reading": "ささえる",
+        "meaning": "bị chặn"
+      },
+      {
+        "compound": "支給",
+        "reading": "しきゅう",
+        "meaning": "thanh toán"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-38",
+    "character": "産",
+    "onyomi": "サン",
+    "kunyomi": "う.む, う.まれる, うぶ-, む.す",
+    "meaning": "SẢN (sản phẩm)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "財産",
+        "reading": "ざいさん",
+        "meaning": "tài sản"
+      },
+      {
+        "compound": "破産",
+        "reading": "はさん",
+        "meaning": "(cá nhân) phá sản"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-39",
+    "character": "点",
+    "onyomi": "テン",
+    "kunyomi": "つ.ける, つ.く, た.てる, さ.す, とぼ.す, とも.す, ぼち",
+    "meaning": "ĐIỂM (chỗ)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "欠点",
+        "reading": "けってん",
+        "meaning": "lỗi lầm"
+      },
+      {
+        "compound": "要点",
+        "reading": "ようてん",
+        "meaning": "ý chính"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-40",
+    "character": "報",
+    "onyomi": "ホウ",
+    "kunyomi": "むく.いる",
+    "meaning": "BÁO (báo cáo)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "報告",
+        "reading": "ほうこく",
+        "meaning": "báo cáo"
+      },
+      {
+        "compound": "予報",
+        "reading": "よほう",
+        "meaning": "dự báo"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-41",
+    "character": "済",
+    "onyomi": "サイ, セイ",
+    "kunyomi": "す.む, -ず.み, -ずみ, す.まない, す.ます, -す.ます, すく.う, な.す, わたし, わた.る",
+    "meaning": "TẾ (giải quyết (nợ, v.v.))",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "済ませる",
+        "reading": "すませる",
+        "meaning": "sắp hoàn thành"
+      },
+      {
+        "compound": "済む",
+        "reading": "すむ",
+        "meaning": "kết thúc"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-42",
+    "character": "活",
+    "onyomi": "カツ",
+    "kunyomi": "い.きる, い.かす, い.ける",
+    "meaning": "HOẠT (sống động)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "活気",
+        "reading": "かっき",
+        "meaning": "năng lượng"
+      },
+      {
+        "compound": "活用",
+        "reading": "かつよう",
+        "meaning": "sự chia động từ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-43",
+    "character": "共",
+    "onyomi": "キョウ",
+    "kunyomi": "とも, とも.に, -ども",
+    "meaning": "CỘNG (cùng với nhau)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "共通",
+        "reading": "きょうつう",
+        "meaning": "sự tầm thường"
+      },
+      {
+        "compound": "共同",
+        "reading": "きょうどう",
+        "meaning": "hợp tác"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-44",
+    "character": "得",
+    "onyomi": "トク",
+    "kunyomi": "え.る, う.る",
+    "meaning": "ĐẮC (đạt được)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "得る",
+        "reading": "える",
+        "meaning": "có được"
+      },
+      {
+        "compound": "得意",
+        "reading": "とくい",
+        "meaning": "niềm tự hào"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-45",
+    "character": "解",
+    "onyomi": "カイ, ゲ",
+    "kunyomi": "と.く, と.かす, と.ける, ほど.く, ほぐ.す, わか.る, さと.る",
+    "meaning": "GIẢI (làm sáng tỏ)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "解決",
+        "reading": "かいけつ",
+        "meaning": "giải quyết"
+      },
+      {
+        "compound": "解釈",
+        "reading": "かいしゃく",
+        "meaning": "lời giải thích"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-1-46",
+    "character": "交",
+    "onyomi": "コウ",
+    "kunyomi": "まじ.わる, まじ.える, ま.じる, まじ.る, ま.ざる, ま.ぜる, -か.う, か.わす, かわ.す, こもごも",
+    "meaning": "GIAO (hòa nhập)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "外交",
+        "reading": "がいこう",
+        "meaning": "ngoại giao"
+      },
+      {
+        "compound": "交換",
+        "reading": "こうかん",
+        "meaning": "trao đổi"
+      }
+    ]
+  }
+]

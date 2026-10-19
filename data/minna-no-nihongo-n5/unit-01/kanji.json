@@ -1,0 +1,162 @@
+[
+  {
+    "id": "k-n5-1-1",
+    "character": "人",
+    "onyomi": "ジン, ニン",
+    "kunyomi": "ひと, -り, -と",
+    "meaning": "NHÂN (con người)",
+    "strokes": 2,
+    "examples": [
+      {
+        "compound": "個人",
+        "reading": "こじん",
+        "meaning": "cá nhân"
+      },
+      {
+        "compound": "詩人",
+        "reading": "しじん",
+        "meaning": "nhà thơ"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-1-2",
+    "character": "方",
+    "onyomi": "ホウ",
+    "kunyomi": "かた, -かた, -がた",
+    "meaning": "PHƯƠNG (phương hướng, vị, cách thức)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "一方",
+        "reading": "いっぽう",
+        "meaning": "mặt khác"
+      },
+      {
+        "compound": "方々",
+        "reading": "かたがた",
+        "meaning": "người"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-1-3",
+    "character": "皆",
+    "onyomi": "カイ",
+    "kunyomi": "みな, みんな",
+    "meaning": "GIAI (chữ Hán GIAI)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "皆",
+        "reading": "みな",
+        "meaning": "rất"
+      },
+      {
+        "compound": "皆さん",
+        "reading": "みなさん",
+        "meaning": "mọi người, các bạn"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-1-4",
+    "character": "富",
+    "onyomi": "フ, フウ",
+    "kunyomi": "と.む, とみ",
+    "meaning": "PHÚ (chữ Hán PHÚ)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "豊富",
+        "reading": "ほうふ",
+        "meaning": "sự phong phú"
+      },
+      {
+        "compound": "富士大学",
+        "reading": "ふじだいがく",
+        "meaning": "đại học fuji"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-1-5",
+    "character": "士",
+    "onyomi": "シ",
+    "kunyomi": "さむらい",
+    "meaning": "SĨ (chữ Hán SĨ)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "宇宙飛行士",
+        "reading": "うちゅうひこうし",
+        "meaning": "phi hành gia"
+      },
+      {
+        "compound": "弁護士",
+        "reading": "べんごし",
+        "meaning": "luật sư"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-1-6",
+    "character": "大",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "おお-, おお.きい, -おお.いに",
+    "meaning": "ĐẠI (to lớn, vĩ đại)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "偉大",
+        "reading": "いだい",
+        "meaning": "sự vĩ đại"
+      },
+      {
+        "compound": "大いに",
+        "reading": "おおいに",
+        "meaning": "rất"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-1-7",
+    "character": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな.ぶ",
+    "meaning": "HỌC (học tập, trường học)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "化学",
+        "reading": "かがく",
+        "meaning": "hóa học"
+      },
+      {
+        "compound": "学",
+        "reading": "がく",
+        "meaning": "học tập"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-1-8",
+    "character": "君",
+    "onyomi": "クン",
+    "kunyomi": "きみ, -ぎみ",
+    "meaning": "QUÂN (chữ Hán QUÂN)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "～君",
+        "reading": "～くん",
+        "meaning": "cậu"
+      },
+      {
+        "compound": "君",
+        "reading": "きみ",
+        "meaning": "bạn, anh, chị"
+      }
+    ]
+  }
+]

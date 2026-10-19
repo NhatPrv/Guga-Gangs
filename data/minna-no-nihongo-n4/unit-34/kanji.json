@@ -1,0 +1,102 @@
+[
+  {
+    "id": "k34-1",
+    "character": "磨",
+    "onyomi": "マ",
+    "kunyomi": "みが.く, す.る",
+    "meaning": "MA (chữ Hán MA)",
+    "strokes": 16,
+    "examples": [
+      {
+        "compound": "磨く",
+        "reading": "みがく",
+        "meaning": "đánh răng"
+      },
+      {
+        "compound": "磨きます",
+        "reading": "みがきます",
+        "meaning": "mài, chải"
+      }
+    ]
+  },
+  {
+    "id": "k34-2",
+    "character": "組",
+    "onyomi": "ソ",
+    "kunyomi": "く.む, くみ, -ぐみ",
+    "meaning": "TỔ (tổ hợp, đội, nhóm)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "組",
+        "reading": "くみ",
+        "meaning": "lớp học"
+      },
+      {
+        "compound": "組合",
+        "reading": "くみあい",
+        "meaning": "hiệp hội"
+      }
+    ]
+  },
+  {
+    "id": "k34-8",
+    "character": "質",
+    "onyomi": "シツ, シチ, チ",
+    "kunyomi": "たち, ただ.す, もと, わりふ",
+    "meaning": "CHẤT (chất lượng, câu hỏi)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "質",
+        "reading": "しつ",
+        "meaning": "chất lượng"
+      },
+      {
+        "compound": "物質",
+        "reading": "ぶっしつ",
+        "meaning": "vật chất"
+      }
+    ]
+  },
+  {
+    "id": "k34-9",
+    "character": "問",
+    "onyomi": "モン",
+    "kunyomi": "と.う, と.い, とん",
+    "meaning": "VẤN (hỏi han, vấn đề)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "学問",
+        "reading": "がくもん",
+        "meaning": "học bổng"
+      },
+      {
+        "compound": "疑問",
+        "reading": "ぎもん",
+        "meaning": "câu hỏi"
+      }
+    ]
+  },
+  {
+    "id": "k34-10",
+    "character": "細",
+    "onyomi": "サイ",
+    "kunyomi": "ほそ.い, ほそ.る, こま.か, こま.かい",
+    "meaning": "TẾ (chữ Hán TẾ)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "細い",
+        "reading": "ほそい",
+        "meaning": "gầy"
+      },
+      {
+        "compound": "細かい",
+        "reading": "こまかい",
+        "meaning": "nhỏ bé"
+      }
+    ]
+  }
+]

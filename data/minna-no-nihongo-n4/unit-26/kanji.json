@@ -1,0 +1,92 @@
+[
+  {
+    "id": "k26-2",
+    "character": "診",
+    "onyomi": "シン",
+    "kunyomi": "み.る",
+    "meaning": "CHẨN (chẩn đoán, khám bệnh)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "診察",
+        "reading": "しんさつ",
+        "meaning": "khám bệnh"
+      },
+      {
+        "compound": "診る",
+        "reading": "みます",
+        "meaning": "khám bệnh, chẩn đoán"
+      }
+    ]
+  },
+  {
+    "id": "k26-3",
+    "character": "捜",
+    "onyomi": "ソウ, シュ, シュウ",
+    "kunyomi": "さが.す",
+    "meaning": "Hán tự 捜",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "捜す",
+        "reading": "さがします",
+        "meaning": "tìm thấy"
+      }
+    ]
+  },
+  {
+    "id": "k26-4",
+    "character": "探",
+    "onyomi": "タン",
+    "kunyomi": "さぐ.る, さが.す",
+    "meaning": "THÁM (tìm kiếm, thám thính)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "探す",
+        "reading": "さがします",
+        "meaning": "tìm kiếm"
+      }
+    ]
+  },
+  {
+    "id": "k26-9",
+    "character": "議",
+    "onyomi": "ギ",
+    "kunyomi": "-",
+    "meaning": "NGHỊ (chữ Hán NGHỊ)",
+    "strokes": 20,
+    "examples": [
+      {
+        "compound": "議員",
+        "reading": "ぎいん",
+        "meaning": "thành viên của chế độ ăn kiêng"
+      },
+      {
+        "compound": "議会",
+        "reading": "ぎかい",
+        "meaning": "chế độ ăn kiêng"
+      }
+    ]
+  },
+  {
+    "id": "k26-10",
+    "character": "合",
+    "onyomi": "ゴウ, ガッ, カッ",
+    "kunyomi": "あ.う, -あ.う, あ.い, あい-, -あ.い, -あい, あ.わす, あ.わせる, -あ.わせる",
+    "meaning": "HỢP (phù hợp, hợp nhất)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "合図",
+        "reading": "あいず",
+        "meaning": "ký tên"
+      },
+      {
+        "compound": "合わせる",
+        "reading": "あわせる",
+        "meaning": "tham gia cùng nhau"
+      }
+    ]
+  }
+]

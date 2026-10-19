@@ -1,0 +1,324 @@
+[
+  {
+    "word": "乗ります [電車に～]",
+    "meaning": "lên, đi [tàu điện]",
+    "reading": "のります [でんしゃに～]",
+    "sinoVietnamese": "ĐIỆN XA",
+    "example": "旅行の移動は速くて便利な乗りますを利用しました。 (Tôi đã sử dụng tàu nhanh chóng và thuận tiện để di chuyển trong chuyến đi của mình.)"
+  },
+  {
+    "word": "降ります [電車に～]",
+    "meaning": "lên tàu",
+    "reading": "おります [でんしゃに～]",
+    "sinoVietnamese": "ĐIỆN XA",
+    "example": "降りますが時間通りに来たので、待ち合わせに間に合いました。 (Tôi xuống tàu đúng giờ nên tôi đã đến cuộc họp đúng giờ.)"
+  },
+  {
+    "word": "乗り換えます",
+    "meaning": "chuyển giao, trao đổi",
+    "reading": "のりかえます",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、乗り換えますようにしています。 (Tôi cố gắng đổi tàu mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "浴びます",
+    "meaning": "đi tắm",
+    "reading": "あびます [シャワーを～]",
+    "sinoVietnamese": "",
+    "example": "毎日欠かさずに、浴びますようにしています。 (Tôi cố gắng tắm mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "入れます",
+    "meaning": "cho vào, cho vào",
+    "reading": "いれます",
+    "sinoVietnamese": "NHẬP",
+    "example": "毎日欠かさずに、入れますようにしています。 (Tôi cố gắng thực hiện nó mỗi ngày mà không thất bại.)"
+  },
+  {
+    "word": "出します",
+    "meaning": "tiền bạc",
+    "reading": "だします",
+    "sinoVietnamese": "XUẤT",
+    "example": "毎日仕事が終わったあと、日本語を出します。 (Mỗi ngày sau giờ làm việc, tôi đều viết tiếng Nhật.)"
+  },
+  {
+    "word": "入ります [大学に～]",
+    "meaning": "vào học, nhập học [đại học]",
+    "reading": "はいります [だいがくに～]",
+    "sinoVietnamese": "NHẬP ĐẠI HỌC",
+    "example": "仕事が終わった後、家でリラックスして入ります時間が楽しみです。 (Tôi mong được dành thời gian thư giãn ở nhà sau giờ làm việc.)"
+  },
+  {
+    "word": "出ます [大学を～]",
+    "meaning": "tốt nghiệp [đại học]",
+    "reading": "でます [だいがくを～]",
+    "sinoVietnamese": "XUẤT ĐẠI HỌC",
+    "example": "友達と一緒に協力しながら、目標に向かって出ますことができました。 (Tôi đã có thể đạt được mục tiêu của mình bằng cách làm việc cùng với bạn bè của mình.)"
+  },
+  {
+    "word": "やめます [会社を～]",
+    "meaning": "tặng, cho",
+    "reading": "やめます [かいしゃを～]",
+    "sinoVietnamese": "HỘI XÃ",
+    "example": "友達と一緒に協力しながら、目標に向かってやめますことができました。 (Bằng cách làm việc cùng với bạn bè, tôi đã có thể đạt được mục tiêu của mình.)"
+  },
+  {
+    "word": "押します",
+    "meaning": "nhấn, nhấn",
+    "reading": "おします",
+    "sinoVietnamese": "",
+    "example": "毎日仕事が終わったあと、日本語を押します。 (Mỗi ngày sau giờ làm việc tôi đều nhấn tiếng Nhật.)"
+  },
+  {
+    "word": "若い",
+    "meaning": "trẻ",
+    "reading": "わかい",
+    "sinoVietnamese": "",
+    "example": "この本はとても若いので、おすすめです。 (Cuốn sách này còn rất trẻ và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "長い",
+    "meaning": "dài",
+    "reading": "ながい",
+    "sinoVietnamese": "TRƯỜNG",
+    "example": "この本はとても長いので、おすすめです。 (Cuốn sách này rất dài nên tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "短い",
+    "meaning": "ngắn",
+    "reading": "みじかい",
+    "sinoVietnamese": "ĐOẢN",
+    "example": "この本はとても短いので、おすすめです。 (Cuốn sách này rất ngắn nên tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "明るい",
+    "meaning": "tỏa sáng",
+    "reading": "あかるい",
+    "sinoVietnamese": "MINH",
+    "example": "この本はとても明るいので、おすすめです。 (Cuốn sách này rất soi sáng và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "暗い",
+    "meaning": "tối tăm, u ám",
+    "reading": "くらい",
+    "sinoVietnamese": "ÁM",
+    "example": "この本はとても暗いので、おすすめです。 (Cuốn sách này rất đen tối và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "背が 高い",
+    "meaning": "dáng người cao ráo",
+    "reading": "せが たかい",
+    "sinoVietnamese": "CAO",
+    "example": "このカバンはとても背が 高いですね。 (Chiếc túi này rất cao.)"
+  },
+  {
+    "word": "頭が いい",
+    "meaning": "thông minh",
+    "reading": "あたまが いい",
+    "sinoVietnamese": "ĐẦU",
+    "example": "この本はとても頭が いいので、おすすめです。 (Cuốn sách này rất thông minh và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "体",
+    "meaning": "con người, cơ thể",
+    "reading": "からだ",
+    "sinoVietnamese": "THỂ",
+    "example": "日本の文化や生活に関わる体について興味深く学びました。 (Tôi đã tìm hiểu một cách thú vị về cơ thể vì nó liên quan đến văn hóa và cuộc sống của người Nhật.)"
+  },
+  {
+    "word": "頭",
+    "meaning": "cái đầu",
+    "reading": "あたま",
+    "sinoVietnamese": "ĐẦU",
+    "example": "週末は家族みんなで美味しい頭を囲んで楽しく過ごします。 (Cuối tuần cả nhà cùng quây quần thưởng thức những món ăn ngon.)"
+  },
+  {
+    "word": "髪",
+    "meaning": "tóc",
+    "reading": "かみ",
+    "sinoVietnamese": "",
+    "example": "カバンの中に必要な髪をしっかり入れて出かけました。 (Tôi bỏ tất cả số tóc tôi cần vào túi và đi ra ngoài.)"
+  },
+  {
+    "word": "顔",
+    "meaning": "khuôn mặt",
+    "reading": "かお",
+    "sinoVietnamese": "NHAN",
+    "example": "友達と一緒に、珍しくて面白い顔を見に行きました。 (Tôi đi cùng bạn bè để xem một số gương mặt khác thường và thú vị.)"
+  },
+  {
+    "word": "目",
+    "meaning": "mắt",
+    "reading": "め",
+    "sinoVietnamese": "MỤC",
+    "example": "友達と一緒に、珍しくて面白い目を見に行きました。 (Tôi và bạn bè đã đến xem một số đôi mắt khác thường và thú vị.)"
+  },
+  {
+    "word": "耳",
+    "meaning": "tai",
+    "reading": "みみ",
+    "sinoVietnamese": "NHĨ",
+    "example": "父から大切な耳を譲り受けて、大事に使っています。 (Tôi thừa hưởng đôi tai quý giá của mình từ cha tôi và tôi sử dụng chúng một cách cẩn thận.)"
+  },
+  {
+    "word": "歯",
+    "meaning": "răng",
+    "reading": "は",
+    "sinoVietnamese": "",
+    "example": "日本の伝統的な歯の味付けがとても口に合います。 (Gia vị truyền thống của Nhật Bản rất ngon miệng.)"
+  },
+  {
+    "word": "おなか",
+    "meaning": "dạ dày",
+    "reading": "おなか",
+    "sinoVietnamese": "",
+    "example": "父から大切なおなかを譲り受けて、大事に使っています。 (Tôi thừa hưởng cái bụng quý giá của mình từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+  },
+  {
+    "word": "足",
+    "meaning": "chân",
+    "reading": "あし",
+    "sinoVietnamese": "TÚC",
+    "example": "友達と一緒に、珍しくて面白い足を見に行きました。 (Tôi và bạn tôi đã đến xem một số bàn chân khác thường và thú vị.)"
+  },
+  {
+    "word": "サービス",
+    "meaning": "dịch vụ",
+    "reading": "サービス",
+    "sinoVietnamese": "",
+    "example": "店員さんに相談して、自分にぴったりのサービスを選びました。 (Tôi đã nói chuyện với nhân viên cửa hàng và chọn được dịch vụ phù hợp nhất với mình.)"
+  },
+  {
+    "word": "ジョギング",
+    "meaning": "chạy bộ rèn luyện sức khỏe",
+    "reading": "ジョギング",
+    "sinoVietnamese": "",
+    "example": "日本の文化や生活に関わるジョギングについて興味深く学びました。 (Tôi học được điều thú vị về việc chạy bộ vì nó liên quan đến văn hóa và cuộc sống của người Nhật.)"
+  },
+  {
+    "word": "シャワー",
+    "meaning": "vòi hoa sen",
+    "reading": "シャワー",
+    "sinoVietnamese": "",
+    "example": "新しいシャワを手に入れて、仕事の効率がぐんと上がりました。 (Tôi được tắm mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "緑",
+    "meaning": "màu xanh lá cây",
+    "reading": "みどり",
+    "sinoVietnamese": "",
+    "example": "日本の文化や生活に関わる緑について興味深く学びました。 (Tôi đã tìm hiểu một cách thú vị về cây xanh, thứ liên quan đến văn hóa và cuộc sống của người Nhật.)"
+  },
+  {
+    "word": "[お]寺",
+    "meaning": "đền thờ",
+    "reading": "[お]てら",
+    "sinoVietnamese": "",
+    "example": "使いやすい寺のおかげで、毎日の生活がとても快適になりました。 (Ngôi chùa dễ sử dụng đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
+  },
+  {
+    "word": "神社",
+    "meaning": "đền thờ thần đạo",
+    "reading": "じんじゃ",
+    "sinoVietnamese": "XÃ",
+    "example": "神社のスタッフは親切に案内してくれました。 (Các nhân viên tại ngôi đền đã vui lòng hướng dẫn chúng tôi đi tham quan.)"
+  },
+  {
+    "word": "りゅうがくせい",
+    "meaning": "học sinh, sinh viên",
+    "reading": "りゅうがくせい",
+    "sinoVietnamese": "",
+    "example": "この本はとてもりゅうがくせいので、おすすめです。 (Cuốn sách này rất nhiều thông tin và tôi đánh giá cao nó.)"
+  },
+  {
+    "word": "一番",
+    "meaning": "nhất, số một",
+    "reading": "一ばん",
+    "sinoVietnamese": "NHẤT PHIÊN",
+    "example": "使いやすい一番のおかげで、毎日の生活がとても快適になりました。 (Sự dễ sử dụng đã làm cho cuộc sống hàng ngày của tôi thoải mái hơn nhiều.)"
+  },
+  {
+    "word": "どうやって",
+    "meaning": "làm thế nào, bằng cách nào",
+    "reading": "どうやって",
+    "sinoVietnamese": "",
+    "example": "東京駅から羽田空港までどうやって行けばいいですか。(Từ ga Tokyo đến sân bay Haneda thì đi bằng cách nào ạ?)"
+  },
+  {
+    "word": "どの～",
+    "meaning": "cái nào, người nào",
+    "reading": "どの～",
+    "sinoVietnamese": "",
+    "example": "あなたが探している本はどの棚にありますか。(Cuốn sách bạn đang tìm nằm ở kệ nào vậy?)"
+  },
+  {
+    "word": "[いいえ、]まだまだです。",
+    "meaning": "khi nào",
+    "reading": "[いいえ、]まだまだです。",
+    "sinoVietnamese": "",
+    "example": "時間があるときは、自分のペースでゆっくりまだまだですのが好きです。 (Khi có thời gian, tôi thích đi theo tốc độ của riêng mình.)"
+  },
+  {
+    "word": "まず",
+    "meaning": "trước hết, đầu tiên",
+    "reading": "まず",
+    "sinoVietnamese": "",
+    "example": "日本の文化や生活に関わるまずについて興味深く学びました。 (Tôi rất thích thú tìm hiểu những điều liên quan đến văn hóa và cuộc sống Nhật Bản.)"
+  },
+  {
+    "word": "キャッシュカード",
+    "meaning": "thẻ, quân bài",
+    "reading": "キャッシュカード",
+    "sinoVietnamese": "",
+    "example": "使いやすいキャッシュカードのおかげで、毎日の生活がとても快適になりました。 (Nhờ thẻ rút tiền dễ sử dụng, cuộc sống hàng ngày đã trở nên thoải mái hơn rất nhiều.)"
+  },
+  {
+    "word": "暗証番号",
+    "meaning": "mã bí mật",
+    "reading": "あんしょうばんごう",
+    "sinoVietnamese": "ÁM PHIÊN HIỆU",
+    "example": "父から大切な暗証番号を譲り受けて、大事に使っています。 (Tôi thừa hưởng một mật khẩu quan trọng từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+  },
+  {
+    "word": "次に",
+    "meaning": "tiếp theo",
+    "reading": "つぎ に",
+    "sinoVietnamese": "",
+    "example": "新しい次にを手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã có được bước tiếp theo mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "確認",
+    "meaning": "xác nhận, kiểm tra lại",
+    "reading": "かくにん",
+    "sinoVietnamese": "",
+    "example": "父から大切な確認を譲り受けて、大事に使っています。 (Tôi thừa hưởng xác nhận quan trọng này từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+  },
+  {
+    "word": "金額",
+    "meaning": "tiền bạc",
+    "reading": "きんがく",
+    "sinoVietnamese": "KIM",
+    "example": "新しい金額を手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã có được một số tiền mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+  },
+  {
+    "word": "[",
+    "meaning": "nút thắt",
+    "reading": "ボタン",
+    "sinoVietnamese": "",
+    "example": "友達と一緒に、珍しくて面白い[を見に行きました。 (Tôi đã đi xem một bộ phim lạ và thú vị với bạn bè.)"
+  },
+  {
+    "word": "一ばん",
+    "meaning": "châu á",
+    "reading": "一ばん",
+    "sinoVietnamese": "NHẤT",
+    "example": "友達と一緒に、珍しくて面白い一ばんを見に行きました。 (Tôi đã đi xem một ichiban khác thường và thú vị cùng với bạn bè của mình.)"
+  },
+  {
+    "word": "ベトナム",
+    "meaning": "Việt Nam",
+    "reading": "ベトナム",
+    "sinoVietnamese": "",
+    "example": "父から大切なベトナムを譲り受けて、大事に使っています。 (Tôi thừa hưởng một Việt Nam quý giá từ cha tôi và tôi sử dụng nó một cách cẩn thận.)"
+  }
+]

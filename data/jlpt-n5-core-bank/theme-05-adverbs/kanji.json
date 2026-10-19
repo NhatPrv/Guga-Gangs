@@ -1,0 +1,257 @@
+[
+  {
+    "id": "k-core-n5-5-1",
+    "character": "万",
+    "onyomi": "マン, バン",
+    "kunyomi": "よろず",
+    "meaning": "VẠN (mười nghìn, vạn (10.000))",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "万一",
+        "reading": "まんいち",
+        "meaning": "tình cờ nào đó"
+      },
+      {
+        "compound": "万年筆",
+        "reading": "まんねんひつ",
+        "meaning": "bút máy"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-5-2",
+    "character": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと, -ごと.に",
+    "meaning": "MỖI (mỗi ngày, mỗi lần, hằng ngày)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "毎月",
+        "reading": "まいげつ",
+        "meaning": "mỗi tháng"
+      },
+      {
+        "compound": "毎週",
+        "reading": "まいしゅう",
+        "meaning": "mỗi tuần"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-5-3",
+    "character": "白",
+    "onyomi": "ハク, ビャク",
+    "kunyomi": "しろ, しら-, しろ.い",
+    "meaning": "BẠCH (màu trắng)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "白",
+        "reading": "しろ",
+        "meaning": "trắng"
+      },
+      {
+        "compound": "真っ白［な］",
+        "reading": "まっしろ［な］",
+        "meaning": "màu trắng"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-5-4",
+    "character": "天",
+    "onyomi": "テン",
+    "kunyomi": "あまつ, あめ, あま-",
+    "meaning": "THIÊN (trời, thiên nhiên)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "天候",
+        "reading": "てんこう",
+        "meaning": "thời tiết"
+      },
+      {
+        "compound": "天然",
+        "reading": "てんねん",
+        "meaning": "thiên nhiên"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-5-5",
+    "character": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは, も",
+    "meaning": "MẪU (mẹ, người mẹ)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "母親",
+        "reading": "ははおや",
+        "meaning": "mẹ"
+      },
+      {
+        "compound": "伯母さん",
+        "reading": "おばさん",
+        "meaning": "dì"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-5-6",
+    "character": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ, -び, ほ-",
+    "meaning": "HỎA (lửa, hỏa hoạn)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "火災",
+        "reading": "かさい",
+        "meaning": "đám cháy"
+      },
+      {
+        "compound": "火曜",
+        "reading": "かよう",
+        "meaning": "(viết tắt) thứ ba"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-5-9",
+    "character": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "meaning": "HỮU (bạn bè, bằng hữu)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "親友",
+        "reading": "しんゆう",
+        "meaning": "bạn thân"
+      },
+      {
+        "compound": "友",
+        "reading": "とも",
+        "meaning": "người bạn"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-5-10",
+    "character": "左",
+    "onyomi": "サ, シャ",
+    "kunyomi": "ひだり",
+    "meaning": "TẢ (bên trái)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "左右",
+        "reading": "さゆう",
+        "meaning": "trái và phải"
+      },
+      {
+        "compound": "左",
+        "reading": "ひだり",
+        "meaning": "bên trái, phía bên trái"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-5-12",
+    "character": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち",
+    "meaning": "PHỤ (cha, người bố)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "父親",
+        "reading": "ちちおや",
+        "meaning": "cha"
+      },
+      {
+        "compound": "お祖父さん",
+        "reading": "おじいさん",
+        "meaning": "bố, cha"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-5-13",
+    "character": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ, あま-, -さめ",
+    "meaning": "VŨ (cơn mưa)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "梅雨",
+        "reading": "つゆ",
+        "meaning": "mùa mưa"
+      },
+      {
+        "compound": "雨",
+        "reading": "あめ",
+        "meaning": "mưa"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-5-14",
+    "character": "丈",
+    "onyomi": "ジョウ",
+    "kunyomi": "たけ, だけ",
+    "meaning": "TRƯỢNG (chiều dài)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "丈夫",
+        "reading": "じょうぶ",
+        "meaning": "mạnh mẽ"
+      },
+      {
+        "compound": "大丈夫",
+        "reading": "だいじょうぶ",
+        "meaning": "được rồi"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-5-15",
+    "character": "誰",
+    "onyomi": "スイ",
+    "kunyomi": "だれ, たれ, た",
+    "meaning": "THÙY (ai, người nào)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "誰か",
+        "reading": "だれか",
+        "meaning": "ai đó"
+      },
+      {
+        "compound": "誰",
+        "reading": "だれ",
+        "meaning": "ai, người nào"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-5-16",
+    "character": "貼",
+    "onyomi": "テン, チョウ",
+    "kunyomi": "は.る, つ.く",
+    "meaning": "THIẾP (cây gậy)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "貼る",
+        "reading": "はる",
+        "meaning": "cây gậy"
+      }
+    ]
+  }
+]

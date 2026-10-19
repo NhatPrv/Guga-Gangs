@@ -1,0 +1,907 @@
+[
+  {
+    "id": "k-n3-2-1",
+    "character": "資",
+    "onyomi": "シ",
+    "kunyomi": "-",
+    "meaning": "TƯ (tài sản)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "資源",
+        "reading": "しげん",
+        "meaning": "tài nguyên"
+      },
+      {
+        "compound": "資本",
+        "reading": "しほん",
+        "meaning": "quỹ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-2",
+    "character": "際",
+    "onyomi": "サイ",
+    "kunyomi": "きわ, -ぎわ",
+    "meaning": "TẾ (dịp)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "交際",
+        "reading": "こうさい",
+        "meaning": "công ty"
+      },
+      {
+        "compound": "際",
+        "reading": "さい",
+        "meaning": "nhân dịp"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-3",
+    "character": "告",
+    "onyomi": "コク",
+    "kunyomi": "つ.げる",
+    "meaning": "CÁO (sự mặc khải)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "警告",
+        "reading": "けいこく",
+        "meaning": "cảnh báo"
+      },
+      {
+        "compound": "広告",
+        "reading": "こうこく",
+        "meaning": "quảng cáo"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-4",
+    "character": "反",
+    "onyomi": "ハン, ホン, タン, ホ",
+    "kunyomi": "そ.る, そ.らす, かえ.す, かえ.る, -かえ.る",
+    "meaning": "PHẢN (chống)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "違反",
+        "reading": "いはん",
+        "meaning": "vi phạm (luật)"
+      },
+      {
+        "compound": "反抗",
+        "reading": "はんこう",
+        "meaning": "sự phản đối"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-5",
+    "character": "判",
+    "onyomi": "ハン, バン",
+    "kunyomi": "わか.る",
+    "meaning": "PHÁN (sự phán xét)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "裁判",
+        "reading": "さいばん",
+        "meaning": "thử nghiệm"
+      },
+      {
+        "compound": "審判",
+        "reading": "しんぱん",
+        "meaning": "làm trọng tài"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-6",
+    "character": "認",
+    "onyomi": "ニン",
+    "kunyomi": "みと.める, したた.める",
+    "meaning": "NHẬN (thừa nhận)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "承認",
+        "reading": "しょうにん",
+        "meaning": "sự công nhận"
+      },
+      {
+        "compound": "認める",
+        "reading": "みとめる",
+        "meaning": "nhận ra"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-7",
+    "character": "利",
+    "onyomi": "リ",
+    "kunyomi": "き.く",
+    "meaning": "LỢI (lợi nhuận)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "権利",
+        "reading": "けんり",
+        "meaning": "đúng"
+      },
+      {
+        "compound": "不利",
+        "reading": "ふり",
+        "meaning": "bất lợi"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-8",
+    "character": "在",
+    "onyomi": "ザイ",
+    "kunyomi": "あ.る",
+    "meaning": "TẠI (tồn tại)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "現在",
+        "reading": "げんざい",
+        "meaning": "hiện tại"
+      },
+      {
+        "compound": "存在",
+        "reading": "そんざい",
+        "meaning": "sự tồn tại"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-9",
+    "character": "件",
+    "onyomi": "ケン",
+    "kunyomi": "くだん",
+    "meaning": "KIỆN (chuyện tình)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "条件",
+        "reading": "じょうけん",
+        "meaning": "điều kiện"
+      },
+      {
+        "compound": "事件",
+        "reading": "じけん",
+        "meaning": "trường hợp"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-10",
+    "character": "側",
+    "onyomi": "ソク",
+    "kunyomi": "かわ, がわ, そば",
+    "meaning": "TRẮC (bên)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "側",
+        "reading": "がわ",
+        "meaning": "phía, bên cạnh"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-11",
+    "character": "任",
+    "onyomi": "ニン",
+    "kunyomi": "まか.せる, まか.す",
+    "meaning": "NHIỆM (trách nhiệm)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "責任",
+        "reading": "せきにん",
+        "meaning": "nghĩa vụ"
+      },
+      {
+        "compound": "任せる",
+        "reading": "まかせる",
+        "meaning": "giao phó cho người khác"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-12",
+    "character": "求",
+    "onyomi": "キュウ, グ",
+    "kunyomi": "もと.める",
+    "meaning": "CẦU (yêu cầu)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "請求",
+        "reading": "せいきゅう",
+        "meaning": "yêu sách"
+      },
+      {
+        "compound": "求める",
+        "reading": "もとめる",
+        "meaning": "tìm kiếm"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-13",
+    "character": "次",
+    "onyomi": "ジ, シ",
+    "kunyomi": "つ.ぐ, つぎ",
+    "meaning": "THỨ (tiếp theo)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "次第",
+        "reading": "しだい",
+        "meaning": "đặt hàng"
+      },
+      {
+        "compound": "次々",
+        "reading": "つぎつぎ",
+        "meaning": "liên tiếp"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-14",
+    "character": "昨",
+    "onyomi": "サク",
+    "kunyomi": "-",
+    "meaning": "TÁC (hôm qua)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "昨",
+        "reading": "さく",
+        "meaning": "năm ngoái (năm)"
+      },
+      {
+        "compound": "一昨日",
+        "reading": "おととい",
+        "meaning": "hôm qua"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-15",
+    "character": "論",
+    "onyomi": "ロン",
+    "kunyomi": "あげつら.う",
+    "meaning": "LUẬN (lý lẽ)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "議論",
+        "reading": "ぎろん",
+        "meaning": "lý lẽ"
+      },
+      {
+        "compound": "結論",
+        "reading": "けつろん",
+        "meaning": "kết luận"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-16",
+    "character": "官",
+    "onyomi": "カン",
+    "kunyomi": "-",
+    "meaning": "QUAN (quan chức)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "警官",
+        "reading": "けいかん",
+        "meaning": "cảnh sát"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-17",
+    "character": "係",
+    "onyomi": "ケイ",
+    "kunyomi": "かか.る, かかり, -がかり, かか.わる",
+    "meaning": "HỆ (người phụ trách)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "関係",
+        "reading": "かんけい",
+        "meaning": "mối quan hệ"
+      },
+      {
+        "compound": "係",
+        "reading": "かかり",
+        "meaning": "nhân viên, người phụ trách"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-18",
+    "character": "感",
+    "onyomi": "カン",
+    "kunyomi": "-",
+    "meaning": "CẢM (cảm xúc)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "感覚",
+        "reading": "かんかく",
+        "meaning": "giác quan"
+      },
+      {
+        "compound": "感じ",
+        "reading": "かんじ",
+        "meaning": "cảm giác"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-19",
+    "character": "情",
+    "onyomi": "ジョウ, セイ",
+    "kunyomi": "なさ.け",
+    "meaning": "TÌNH (cảm xúc)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "愛情",
+        "reading": "あいじょう",
+        "meaning": "tình yêu"
+      },
+      {
+        "compound": "感情",
+        "reading": "かんじょう",
+        "meaning": "(các) cảm xúc"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-20",
+    "character": "示",
+    "onyomi": "ジ, シ",
+    "kunyomi": "しめ.す",
+    "meaning": "THỊ (hiển thị)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "掲示",
+        "reading": "けいじ",
+        "meaning": "thông báo"
+      },
+      {
+        "compound": "示す",
+        "reading": "しめす",
+        "meaning": "biểu thị"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-21",
+    "character": "両",
+    "onyomi": "リョウ",
+    "kunyomi": "てる, ふたつ",
+    "meaning": "LƯỠNG (cả hai)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "両替",
+        "reading": "りょうがえ",
+        "meaning": "thay đổi"
+      },
+      {
+        "compound": "両方",
+        "reading": "りょうほう",
+        "meaning": "cả hai bên"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-22",
+    "character": "式",
+    "onyomi": "シキ",
+    "kunyomi": "-",
+    "meaning": "THỨC (phong cách)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "正式",
+        "reading": "せいしき",
+        "meaning": "hình thức do"
+      },
+      {
+        "compound": "結婚式",
+        "reading": "けっこんしき",
+        "meaning": "lễ thành hôn, đám cưới"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-23",
+    "character": "果",
+    "onyomi": "カ",
+    "kunyomi": "は.たす, はた.す, -は.たす, は.てる, -は.てる, は.て",
+    "meaning": "QUẢ (trái cây)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "結果",
+        "reading": "けっか",
+        "meaning": "kết quả"
+      },
+      {
+        "compound": "効果",
+        "reading": "こうか",
+        "meaning": "hiệu ứng"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-24",
+    "character": "容",
+    "onyomi": "ヨウ",
+    "kunyomi": "い.れる",
+    "meaning": "DUNG (chứa đựng)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "内容",
+        "reading": "ないよう",
+        "meaning": "chủ đề"
+      },
+      {
+        "compound": "容易",
+        "reading": "ようい",
+        "meaning": "dễ dàng"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-25",
+    "character": "必",
+    "onyomi": "ヒツ",
+    "kunyomi": "かなら.ず",
+    "meaning": "TẤT (luôn luôn)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "必ずしも",
+        "reading": "かならずしも",
+        "meaning": "(không) luôn luôn"
+      },
+      {
+        "compound": "必死",
+        "reading": "ひっし",
+        "meaning": "cái chết không thể tránh khỏi"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-26",
+    "character": "演",
+    "onyomi": "エン",
+    "kunyomi": "-",
+    "meaning": "DIỄN (hiệu suất)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "演技",
+        "reading": "えんぎ",
+        "meaning": "diễn xuất"
+      },
+      {
+        "compound": "演説",
+        "reading": "えんぜつ",
+        "meaning": "lời nói"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-27",
+    "character": "歳",
+    "onyomi": "サイ, セイ",
+    "kunyomi": "とし, とせ, よわい",
+    "meaning": "TUẾ (cuối năm)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "二十歳",
+        "reading": "はたち",
+        "meaning": "20 tuổi (độ tuổi trưởng thành)"
+      },
+      {
+        "compound": "－歳",
+        "reading": "～さい",
+        "meaning": "～ tuổi"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-28",
+    "character": "争",
+    "onyomi": "ソウ",
+    "kunyomi": "あらそ.う, いか.でか",
+    "meaning": "TRANH (tranh luận)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "論争",
+        "reading": "ろんそう",
+        "meaning": "tranh cãi"
+      },
+      {
+        "compound": "競争",
+        "reading": "きょうそう",
+        "meaning": "sự cạnh tranh"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-29",
+    "character": "談",
+    "onyomi": "ダン",
+    "kunyomi": "-",
+    "meaning": "ĐÀM (thảo luận)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "冗談",
+        "reading": "じょうだん",
+        "meaning": "trò đùa"
+      },
+      {
+        "compound": "相談",
+        "reading": "そうだん",
+        "meaning": "thảo luận, bàn bạc"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-30",
+    "character": "能",
+    "onyomi": "ノウ",
+    "kunyomi": "よ.く, あた.う",
+    "meaning": "NĂNG (khả năng)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "可能",
+        "reading": "かのう",
+        "meaning": "có thể"
+      },
+      {
+        "compound": "機能",
+        "reading": "きのう",
+        "meaning": "chức năng"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-31",
+    "character": "位",
+    "onyomi": "イ",
+    "kunyomi": "くらい, ぐらい",
+    "meaning": "VỊ (cấp bậc)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "位置",
+        "reading": "いち",
+        "meaning": "địa điểm"
+      },
+      {
+        "compound": "位",
+        "reading": "くらい",
+        "meaning": "lớp"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-32",
+    "character": "流",
+    "onyomi": "リュウ, ル",
+    "kunyomi": "なが.れる, なが.れ, なが.す, -なが.す",
+    "meaning": "LƯU (hiện tại)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "流す",
+        "reading": "ながす",
+        "meaning": "thoát nước"
+      },
+      {
+        "compound": "流れ",
+        "reading": "ながれ",
+        "meaning": "dòng suối"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-33",
+    "character": "疑",
+    "onyomi": "ギ",
+    "kunyomi": "うたが.う",
+    "meaning": "NGHI (nghi ngờ)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "疑う",
+        "reading": "うたがう",
+        "meaning": "nghi ngờ"
+      },
+      {
+        "compound": "疑問",
+        "reading": "ぎもん",
+        "meaning": "câu hỏi"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-34",
+    "character": "局",
+    "onyomi": "キョク",
+    "kunyomi": "つぼね",
+    "meaning": "CỤC (văn phòng)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "局",
+        "reading": "きょく",
+        "meaning": "văn phòng"
+      },
+      {
+        "compound": "結局",
+        "reading": "けっきょく",
+        "meaning": "sau tất cả"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-35",
+    "character": "放",
+    "onyomi": "ホウ",
+    "kunyomi": "はな.す, -っぱな.し, はな.つ, はな.れる, こ.く, ほう.る",
+    "meaning": "PHÓNG (thả tự do)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "放す",
+        "reading": "はなす",
+        "meaning": "tách"
+      },
+      {
+        "compound": "放送",
+        "reading": "ほうそう",
+        "meaning": "phát sóng"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-36",
+    "character": "常",
+    "onyomi": "ジョウ",
+    "kunyomi": "つね, とこ-",
+    "meaning": "THƯỜNG (thông thường)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "異常",
+        "reading": "いじょう",
+        "meaning": "sự kỳ lạ"
+      },
+      {
+        "compound": "常識",
+        "reading": "じょうしき",
+        "meaning": "lẽ thường"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-37",
+    "character": "状",
+    "onyomi": "ジョウ",
+    "kunyomi": "-",
+    "meaning": "TRẠNG (hiện trạng)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "現状",
+        "reading": "げんじょう",
+        "meaning": "tình trạng hiện tại"
+      },
+      {
+        "compound": "状況",
+        "reading": "じょうきょう",
+        "meaning": "tình trạng"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-38",
+    "character": "球",
+    "onyomi": "キュウ",
+    "kunyomi": "たま",
+    "meaning": "CẦU (trái bóng)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "球",
+        "reading": "きゅう",
+        "meaning": "quả địa cầu"
+      },
+      {
+        "compound": "地球",
+        "reading": "ちきゅう",
+        "meaning": "trái đất"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-39",
+    "character": "職",
+    "onyomi": "ショク, ソク",
+    "kunyomi": "-",
+    "meaning": "CHỨC (bài đăng)",
+    "strokes": 18,
+    "examples": [
+      {
+        "compound": "就職",
+        "reading": "しゅうしょく",
+        "meaning": "tìm việc làm"
+      },
+      {
+        "compound": "職",
+        "reading": "しょく",
+        "meaning": "việc làm"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-40",
+    "character": "与",
+    "onyomi": "ヨ",
+    "kunyomi": "あた.える, あずか.る, くみ.する, ともに",
+    "meaning": "DỮ (ban cho)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "与える",
+        "reading": "あたえる",
+        "meaning": "cho"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-41",
+    "character": "供",
+    "onyomi": "キョウ, ク, クウ, グ",
+    "kunyomi": "そな.える, とも, -ども",
+    "meaning": "CUNG (nộp)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "供給",
+        "reading": "きょうきゅう",
+        "meaning": "cung cấp"
+      },
+      {
+        "compound": "子供たち",
+        "reading": "こどもたち",
+        "meaning": "bọn trẻ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-42",
+    "character": "可",
+    "onyomi": "カ, コク",
+    "kunyomi": "-べ.き, -べ.し",
+    "meaning": "KHẢ (có thể)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "可",
+        "reading": "か",
+        "meaning": "có thể qua được"
+      },
+      {
+        "compound": "可能",
+        "reading": "かのう",
+        "meaning": "có thể"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-43",
+    "character": "構",
+    "onyomi": "コウ",
+    "kunyomi": "かま.える, かま.う",
+    "meaning": "CẤU (tư thế)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "構成",
+        "reading": "こうせい",
+        "meaning": "tổ chức"
+      },
+      {
+        "compound": "結構",
+        "reading": "けっこう",
+        "meaning": "đủ rồi, ổn thỏa"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-44",
+    "character": "身",
+    "onyomi": "シン",
+    "kunyomi": "み",
+    "meaning": "THÂN (ai đó)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "自身",
+        "reading": "じしん",
+        "meaning": "một mình"
+      },
+      {
+        "compound": "出身",
+        "reading": "しゅっしん",
+        "meaning": "tốt nghiệp từ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-45",
+    "character": "費",
+    "onyomi": "ヒ",
+    "kunyomi": "つい.やす, つい.える",
+    "meaning": "PHÍ (chi phí)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "消費",
+        "reading": "しょうひ",
+        "meaning": "tiêu dùng"
+      },
+      {
+        "compound": "費用",
+        "reading": "ひよう",
+        "meaning": "chi phí"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-2-46",
+    "character": "由",
+    "onyomi": "ユ, ユウ, ユイ",
+    "kunyomi": "よし, よ.る",
+    "meaning": "DO (vậy nên)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "経由",
+        "reading": "けいゆ",
+        "meaning": "nhân tiện đi"
+      },
+      {
+        "compound": "不自由",
+        "reading": "ふじゆう",
+        "meaning": "khó chịu"
+      }
+    ]
+  }
+]

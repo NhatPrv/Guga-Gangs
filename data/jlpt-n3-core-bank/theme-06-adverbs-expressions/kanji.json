@@ -1,0 +1,777 @@
+[
+  {
+    "id": "k-n3-6-1",
+    "character": "歯",
+    "onyomi": "シ",
+    "kunyomi": "よわい, は, よわ.い, よわい.する",
+    "meaning": "XỈ (răng)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "虫歯",
+        "reading": "むしば",
+        "meaning": "khoang"
+      },
+      {
+        "compound": "歯医者",
+        "reading": "はいしゃ",
+        "meaning": "nha sĩ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-2",
+    "character": "雪",
+    "onyomi": "セツ",
+    "kunyomi": "ゆき",
+    "meaning": "TUYẾT (tuyết)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "雪",
+        "reading": "ゆき",
+        "meaning": "tuyết"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-3",
+    "character": "吹",
+    "onyomi": "スイ",
+    "kunyomi": "ふ.く",
+    "meaning": "XUY (đòn)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "吹く",
+        "reading": "ふく",
+        "meaning": "đòn"
+      },
+      {
+        "compound": "吹きます（風が～）",
+        "reading": "ふきます（かぜが～）",
+        "meaning": "thổi (gió)"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-4",
+    "character": "娘",
+    "onyomi": "ジョウ",
+    "kunyomi": "むすめ, こ",
+    "meaning": "NƯƠNG (con gái)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "娘",
+        "reading": "むすめ",
+        "meaning": "con gái"
+      },
+      {
+        "compound": "娘さん",
+        "reading": "むすめさん",
+        "meaning": "con gái"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-5",
+    "character": "誤",
+    "onyomi": "ゴ",
+    "kunyomi": "あやま.る, -あやま.る",
+    "meaning": "NGỘ (sai lầm)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "誤り",
+        "reading": "あやまり",
+        "meaning": "lỗi"
+      },
+      {
+        "compound": "誤解",
+        "reading": "ごかい",
+        "meaning": "sự hiểu lầm"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-6",
+    "character": "畑",
+    "onyomi": "-",
+    "kunyomi": "はた, はたけ, -ばたけ",
+    "meaning": "ĐIỀN (trang trại)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "畑",
+        "reading": "はたけ",
+        "meaning": "lĩnh vực"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-7",
+    "character": "慣",
+    "onyomi": "カン",
+    "kunyomi": "な.れる, な.らす",
+    "meaning": "QUÁN (quen)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "慣れる",
+        "reading": "なれる",
+        "meaning": "dần quen với"
+      },
+      {
+        "compound": "習慣",
+        "reading": "しゅうかん",
+        "meaning": "khách hàng, khách quý"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-8",
+    "character": "礼",
+    "onyomi": "レイ, ライ",
+    "kunyomi": "-",
+    "meaning": "LỄ (chào)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "礼",
+        "reading": "れい",
+        "meaning": "bày tỏ lòng biết ơn"
+      },
+      {
+        "compound": "礼儀",
+        "reading": "れいぎ",
+        "meaning": "cách cư xử"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-9",
+    "character": "窓",
+    "onyomi": "ソウ, ス",
+    "kunyomi": "まど, てんまど, けむだし",
+    "meaning": "SONG (cửa sổ)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "窓",
+        "reading": "まど",
+        "meaning": "cửa sổ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-10",
+    "character": "昔",
+    "onyomi": "セキ, シャク",
+    "kunyomi": "むかし",
+    "meaning": "TÍCH (ngày xửa ngày xưa)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "昔",
+        "reading": "むかし",
+        "meaning": "ngày xửa ngày xưa"
+      },
+      {
+        "compound": "昔話",
+        "reading": "むかしばなし",
+        "meaning": "truyền thuyết; truyện cổ tích"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-11",
+    "character": "貧",
+    "onyomi": "ヒン, ビン",
+    "kunyomi": "まず.しい",
+    "meaning": "BẦN (nghèo đói)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "貧しい",
+        "reading": "まずしい",
+        "meaning": "nghèo nàn"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-12",
+    "character": "怒",
+    "onyomi": "ド, ヌ",
+    "kunyomi": "いか.る, おこ.る",
+    "meaning": "NỘ (tức giận)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "怒る",
+        "reading": "おこる",
+        "meaning": "tức giận, giận dữ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-13",
+    "character": "杯",
+    "onyomi": "ハイ",
+    "kunyomi": "さかずき",
+    "meaning": "BÔI (quầy tính cốc)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "乾杯",
+        "reading": "かんぱい",
+        "meaning": "cổ vũ"
+      },
+      {
+        "compound": "一杯飲みます",
+        "reading": "いっぱいのみましょう",
+        "meaning": "uống"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-14",
+    "character": "鳴",
+    "onyomi": "メイ",
+    "kunyomi": "な.く, な.る, な.らす",
+    "meaning": "MINH (ríu rít)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "鳴る",
+        "reading": "なる",
+        "meaning": "âm thanh"
+      },
+      {
+        "compound": "鳴く",
+        "reading": "なく",
+        "meaning": "tạo ra âm thanh"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-15",
+    "character": "腹",
+    "onyomi": "フク",
+    "kunyomi": "はら",
+    "meaning": "PHÚC (bụng)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "腹",
+        "reading": "はら",
+        "meaning": "bụng"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-16",
+    "character": "煙",
+    "onyomi": "エン",
+    "kunyomi": "けむ.る, けむり, けむ.い",
+    "meaning": "YÊN (khói)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "煙",
+        "reading": "けむり",
+        "meaning": "khói"
+      },
+      {
+        "compound": "禁煙",
+        "reading": "きんえん",
+        "meaning": "không hút thuốc"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-17",
+    "character": "眠",
+    "onyomi": "ミン",
+    "kunyomi": "ねむ.る, ねむ.い",
+    "meaning": "MIÊN (ngủ)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "居眠り",
+        "reading": "いねむり",
+        "meaning": "ngủ gật"
+      },
+      {
+        "compound": "睡眠",
+        "reading": "すいみん",
+        "meaning": "ngủ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-18",
+    "character": "耳",
+    "onyomi": "ジ",
+    "kunyomi": "みみ",
+    "meaning": "NHĨ (tai)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "耳",
+        "reading": "みみ",
+        "meaning": "tai"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-19",
+    "character": "頂",
+    "onyomi": "チョウ",
+    "kunyomi": "いただ.く, いただき",
+    "meaning": "ĐỈNH (đặt trên đầu)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "頂上",
+        "reading": "ちょうじょう",
+        "meaning": "hàng đầu"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-20",
+    "character": "箱",
+    "onyomi": "ソウ",
+    "kunyomi": "はこ",
+    "meaning": "TƯƠNG (cái hộp)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "ごみ箱",
+        "reading": "ごみばこ",
+        "meaning": "thùng rác"
+      },
+      {
+        "compound": "箱",
+        "reading": "はこ",
+        "meaning": "hộp"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-21",
+    "character": "晩",
+    "onyomi": "バン",
+    "kunyomi": "-",
+    "meaning": "VÃN (màn đêm buông xuống)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "晩御飯",
+        "reading": "ばんごはん",
+        "meaning": "bữa tối"
+      },
+      {
+        "compound": "晩",
+        "reading": "ばん",
+        "meaning": "đêm, buổi tối"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-22",
+    "character": "寒",
+    "onyomi": "カン",
+    "kunyomi": "さむ.い",
+    "meaning": "HÀN (lạnh)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "寒い",
+        "reading": "さむい",
+        "meaning": "lạnh"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-23",
+    "character": "髪",
+    "onyomi": "ハツ",
+    "kunyomi": "かみ",
+    "meaning": "PHÁT (tóc trên đầu)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "髪の毛",
+        "reading": "かみのけ",
+        "meaning": "tóc (đầu)"
+      },
+      {
+        "compound": "髪",
+        "reading": "かみ",
+        "meaning": "tóc"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-24",
+    "character": "忙",
+    "onyomi": "ボウ, モウ",
+    "kunyomi": "いそが.しい, せわ.しい, おそ.れる, うれえるさま",
+    "meaning": "MANG (bận rộn)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "お忙しいですか",
+        "reading": "おいそがしいですか。",
+        "meaning": "bạn có đang bận không?"
+      },
+      {
+        "compound": "忙しい",
+        "reading": "いそがしい",
+        "meaning": "bận rộn"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-25",
+    "character": "才",
+    "onyomi": "サイ",
+    "kunyomi": "-",
+    "meaning": "TÀI (thiên tài)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "才能",
+        "reading": "さいのう",
+        "meaning": "tài năng"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-26",
+    "character": "粧",
+    "onyomi": "ショウ",
+    "kunyomi": "-",
+    "meaning": "TRANG (mỹ phẩm)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "化粧",
+        "reading": "けしょう",
+        "meaning": "trang điểm (mỹ phẩm)"
+      },
+      {
+        "compound": "化粧品",
+        "reading": "けしょうひん",
+        "meaning": "mỹ phẩm"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-27",
+    "character": "靴",
+    "onyomi": "カ",
+    "kunyomi": "くつ",
+    "meaning": "NGOA (giày)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "靴下",
+        "reading": "くつした",
+        "meaning": "đôi tất, đôi vớ"
+      },
+      {
+        "compound": "靴",
+        "reading": "くつ",
+        "meaning": "đôi giày"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-28",
+    "character": "恥",
+    "onyomi": "チ",
+    "kunyomi": "は.じる, はじ, は.じらう, は.ずかしい",
+    "meaning": "SỈ (xấu hổ)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "恥ずかしい",
+        "reading": "はずかしい",
+        "meaning": "xấu hổ, xấu hổ, xấu hổ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-29",
+    "character": "偶",
+    "onyomi": "グウ",
+    "kunyomi": "たま",
+    "meaning": "NGẪU (vô tình)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "偶然",
+        "reading": "ぐうぜん",
+        "meaning": "(do) tình cờ"
+      },
+      {
+        "compound": "偶",
+        "reading": "たま",
+        "meaning": "thỉnh thoảng"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-30",
+    "character": "尻",
+    "onyomi": "コウ",
+    "kunyomi": "しり",
+    "meaning": "KHÀO (mông)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "尻",
+        "reading": "しり",
+        "meaning": "mông"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-31",
+    "character": "幾",
+    "onyomi": "キ",
+    "kunyomi": "いく-, いく.つ, いく.ら",
+    "meaning": "KỶ (bao nhiêu)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "幾分",
+        "reading": "幾分",
+        "meaning": "phần nào"
+      },
+      {
+        "compound": "幾多",
+        "reading": "幾多",
+        "meaning": "Có bao nhiêu"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-32",
+    "character": "脇",
+    "onyomi": "キョウ",
+    "kunyomi": "わき, わけ",
+    "meaning": "HIẾP (nách)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "脇",
+        "reading": "わき",
+        "meaning": "bên"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-33",
+    "character": "鍋",
+    "onyomi": "カ",
+    "kunyomi": "なべ",
+    "meaning": "OA (cái nồi)",
+    "strokes": 17,
+    "examples": [
+      {
+        "compound": "鍋",
+        "reading": "なべ",
+        "meaning": "cái chảo"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-34",
+    "character": "袖",
+    "onyomi": "シュウ",
+    "kunyomi": "そで",
+    "meaning": "TỤ (tay áo)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "袖",
+        "reading": "そで",
+        "meaning": "tay áo"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-35",
+    "character": "頃",
+    "onyomi": "ケイ, キョウ",
+    "kunyomi": "ころ, ごろ, しばら.く",
+    "meaning": "KHOẢNH (thời gian)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "頃",
+        "reading": "ころ",
+        "meaning": "thời gian"
+      },
+      {
+        "compound": "近頃",
+        "reading": "ちかごろ",
+        "meaning": "gần đây"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-36",
+    "character": "謎",
+    "onyomi": "メイ, ベイ",
+    "kunyomi": "なぞ",
+    "meaning": "MÊ (câu đố)",
+    "strokes": 16,
+    "examples": [
+      {
+        "compound": "謎",
+        "reading": "なぞ",
+        "meaning": "câu đố"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-37",
+    "character": "挨",
+    "onyomi": "アイ",
+    "kunyomi": "ひら.く",
+    "meaning": "AI (cách tiếp cận)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "挨拶",
+        "reading": "あいさつ",
+        "meaning": "lời chào"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-38",
+    "character": "餌",
+    "onyomi": "ジ, ニ",
+    "kunyomi": "え, えば, えさ, もち",
+    "meaning": "NHỊ (thức ăn)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "餌",
+        "reading": "えさ",
+        "meaning": "thức ăn"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-39",
+    "character": "膝",
+    "onyomi": "シツ",
+    "kunyomi": "ひざ",
+    "meaning": "TẤT (đầu gối)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "膝",
+        "reading": "ひざ",
+        "meaning": "đầu gối"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-40",
+    "character": "諦",
+    "onyomi": "テイ, タイ",
+    "kunyomi": "あきら.める, つまびらか, まこと",
+    "meaning": "ĐẾ (sự thật)",
+    "strokes": 16,
+    "examples": [
+      {
+        "compound": "諦める",
+        "reading": "あきらめる",
+        "meaning": "từ bỏ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-41",
+    "character": "僅",
+    "onyomi": "キン, ゴン",
+    "kunyomi": "わず.か",
+    "meaning": "CẬN (một chút thôi)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "僅か",
+        "reading": "わずか",
+        "meaning": "chỉ"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-42",
+    "character": "戚",
+    "onyomi": "ソク, セキ",
+    "kunyomi": "いた.む, うれ.える, みうち",
+    "meaning": "THÍCH (đau buồn)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "親戚",
+        "reading": "しんせき",
+        "meaning": "tương đối"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-43",
+    "character": "拶",
+    "onyomi": "サツ",
+    "kunyomi": "せま.る",
+    "meaning": "TẢN (sắp xảy ra)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "挨拶",
+        "reading": "あいさつ",
+        "meaning": "lời chào"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-44",
+    "character": "溺",
+    "onyomi": "デキ, ジョウ, ニョウ",
+    "kunyomi": "いばり, おぼ.れる",
+    "meaning": "NỊCH (chết đuối)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "溺れる",
+        "reading": "おぼれる",
+        "meaning": "bị chết đuối"
+      }
+    ]
+  },
+  {
+    "id": "k-n3-6-45",
+    "character": "籠",
+    "onyomi": "ロウ, ル",
+    "kunyomi": "かご, こ.める, こも.る, こ.む",
+    "meaning": "LUNG (cái giỏ)",
+    "strokes": 22,
+    "examples": [
+      {
+        "compound": "籠",
+        "reading": "かご",
+        "meaning": "cái giỏ"
+      }
+    ]
+  }
+]

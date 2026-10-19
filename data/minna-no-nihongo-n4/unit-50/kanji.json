@@ -1,0 +1,127 @@
+[
+  {
+    "id": "k50-1",
+    "character": "参",
+    "onyomi": "サン, シン",
+    "kunyomi": "まい.る, まい-, まじわる, みつ",
+    "meaning": "THAM (tham gia, tham khảo)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "参加",
+        "reading": "さんか",
+        "meaning": "sự tham gia"
+      },
+      {
+        "compound": "参考",
+        "reading": "さんこう",
+        "meaning": "tài liệu tham khảo"
+      }
+    ]
+  },
+  {
+    "id": "k50-2",
+    "character": "申",
+    "onyomi": "シン",
+    "kunyomi": "もう.す, もう.し-, さる",
+    "meaning": "THÂN (chữ Hán THÂN)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "申し込む",
+        "reading": "もうしこむ",
+        "meaning": "nộp đơn xin"
+      },
+      {
+        "compound": "申し訳",
+        "reading": "もうしわけ",
+        "meaning": "lời xin lỗi"
+      }
+    ]
+  },
+  {
+    "id": "k50-3",
+    "character": "拝",
+    "onyomi": "ハイ",
+    "kunyomi": "おが.む, おろが.む",
+    "meaning": "BÁI (chữ Hán BÁI)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "拝見",
+        "reading": "はいけん",
+        "meaning": "xem, nhìn"
+      },
+      {
+        "compound": "拝見します",
+        "reading": "はいけんします",
+        "meaning": "xem, nhìn (khiêm nhường ngữ của 見ます)"
+      }
+    ]
+  },
+  {
+    "id": "k50-5",
+    "character": "存",
+    "onyomi": "ソン, ゾン",
+    "kunyomi": "ながら.える, あ.る, たも.つ, と.う",
+    "meaning": "TỒN (chữ Hán TỒN)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "存在",
+        "reading": "そんざい",
+        "meaning": "sự tồn tại"
+      },
+      {
+        "compound": "保存",
+        "reading": "ほぞん",
+        "meaning": "bảo quản"
+      }
+    ]
+  },
+  {
+    "id": "k50-6",
+    "character": "伺",
+    "onyomi": "シ",
+    "kunyomi": "うかが.う",
+    "meaning": "TÝ (chữ Hán TÝ)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "伺います",
+        "reading": "うかがいます",
+        "meaning": "tôi đã đến thăm"
+      }
+    ]
+  },
+  {
+    "id": "k50-8",
+    "character": "私",
+    "onyomi": "シ",
+    "kunyomi": "わたくし, わたし",
+    "meaning": "TƯ (tôi, riêng tư, tư nhân)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "私",
+        "reading": "わたくし",
+        "meaning": "tôi"
+      }
+    ]
+  },
+  {
+    "id": "k50-10",
+    "character": "郊",
+    "onyomi": "コウ",
+    "kunyomi": "-",
+    "meaning": "GIAO (chữ Hán GIAO)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "郊外",
+        "reading": "こうがい",
+        "meaning": "ngoại ô"
+      }
+    ]
+  }
+]

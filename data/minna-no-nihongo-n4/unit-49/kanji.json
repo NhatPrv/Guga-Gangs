@@ -1,0 +1,62 @@
+[
+  {
+    "id": "k49-1",
+    "character": "勤",
+    "onyomi": "キン, ゴン",
+    "kunyomi": "つと.める, -づと.め, つと.まる, いそ.しむ",
+    "meaning": "CẦN (làm việc, cần cù, siêng năng)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "勤める",
+        "reading": "つとめる",
+        "meaning": "làm việc (ở công ty)"
+      },
+      {
+        "compound": "通勤",
+        "reading": "つうきん",
+        "meaning": "đi làm (đi lại hàng ngày)"
+      }
+    ]
+  },
+  {
+    "id": "k49-4",
+    "character": "社",
+    "onyomi": "シャ",
+    "kunyomi": "やしろ",
+    "meaning": "XÃ (công ty, xã tắc, xã hội)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "会社",
+        "reading": "かいしゃ",
+        "meaning": "công ty"
+      },
+      {
+        "compound": "社会",
+        "reading": "しゃかい",
+        "meaning": "xã hội"
+      }
+    ]
+  },
+  {
+    "id": "k49-8",
+    "character": "寄",
+    "onyomi": "キ",
+    "kunyomi": "よ.る, -よ.り, よ.せる",
+    "meaning": "KÝ (ghé vào, gửi gắm, phó thác)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "寄る",
+        "reading": "よる",
+        "meaning": "ghé vào, tạt qua"
+      },
+      {
+        "compound": "寄付",
+        "reading": "きふ",
+        "meaning": "quyên góp, ủng hộ"
+      }
+    ]
+  }
+]

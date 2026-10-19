@@ -1,0 +1,97 @@
+[
+  {
+    "id": "k37-1",
+    "character": "褒",
+    "onyomi": "ホウ",
+    "kunyomi": "ほ.める",
+    "meaning": "BAO (chữ Hán BAO)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "褒めます",
+        "reading": "ほめます",
+        "meaning": "khen ngợi"
+      }
+    ]
+  },
+  {
+    "id": "k37-2",
+    "character": "誘",
+    "onyomi": "ユウ",
+    "kunyomi": "さそ.う, いざな.う",
+    "meaning": "DÙ (chữ Hán DÙ)",
+    "strokes": 14,
+    "examples": [
+      {
+        "compound": "誘う",
+        "reading": "さそう",
+        "meaning": "mời"
+      },
+      {
+        "compound": "誘いますね",
+        "reading": "さそいます",
+        "meaning": "được mời, được mời"
+      }
+    ]
+  },
+  {
+    "id": "k37-4",
+    "character": "招",
+    "onyomi": "ショウ",
+    "kunyomi": "まね.く",
+    "meaning": "CHIÊU (chữ Hán CHIÊU)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "招く",
+        "reading": "まねく",
+        "meaning": "mời"
+      },
+      {
+        "compound": "招待",
+        "reading": "しょうたい",
+        "meaning": "mời"
+      }
+    ]
+  },
+  {
+    "id": "k37-6",
+    "character": "頼",
+    "onyomi": "ライ",
+    "kunyomi": "たの.む, たの.もしい, たよ.る",
+    "meaning": "LẠI (chữ Hán LẠI)",
+    "strokes": 16,
+    "examples": [
+      {
+        "compound": "依頼",
+        "reading": "いらい",
+        "meaning": "yêu cầu"
+      },
+      {
+        "compound": "信頼",
+        "reading": "しんらい",
+        "meaning": "sự trông cậy"
+      }
+    ]
+  },
+  {
+    "id": "k37-9",
+    "character": "踏",
+    "onyomi": "トウ",
+    "kunyomi": "ふ.む, ふ.まえる",
+    "meaning": "ĐẠP (chữ Hán ĐẠP)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "踏む",
+        "reading": "ふむ",
+        "meaning": "bước lên"
+      },
+      {
+        "compound": "踏みます",
+        "reading": "ふみます",
+        "meaning": "bước lên nó, bước lên nó"
+      }
+    ]
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "id": "k-core-3-7",
+    "character": "品",
+    "onyomi": "ヒン, ホン",
+    "kunyomi": "しな",
+    "meaning": "PHẨM (tốt, đẹp)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "品",
+        "reading": "しな",
+        "meaning": "điều"
+      },
+      {
+        "compound": "商品",
+        "reading": "しょうひん",
+        "meaning": "hàng hóa"
+      }
+    ]
+  },
+  {
+    "id": "k-core-3-10",
+    "character": "特",
+    "onyomi": "トク",
+    "kunyomi": "-",
+    "meaning": "ĐẶC (đặc biệt là)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "特徴",
+        "reading": "とくちょう",
+        "meaning": "tính năng"
+      },
+      {
+        "compound": "独特",
+        "reading": "どくとく",
+        "meaning": "đặc thù"
+      }
+    ]
+  },
+  {
+    "id": "k-core-3-13",
+    "character": "朝",
+    "onyomi": "チョウ",
+    "kunyomi": "あさ",
+    "meaning": "TRIÊU (buổi sáng)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "朝ごはん",
+        "reading": "あさごはん",
+        "meaning": "bữa sáng"
+      },
+      {
+        "compound": "今朝",
+        "reading": "けさ",
+        "meaning": "sáng nay"
+      }
+    ]
+  },
+  {
+    "id": "k-core-3-16",
+    "character": "台",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "うてな, われ, つかさ",
+    "meaning": "ĐÀI (đôn)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "台",
+        "reading": "だい",
+        "meaning": "đứng"
+      },
+      {
+        "compound": "舞台",
+        "reading": "ぶたい",
+        "meaning": "sân khấu (sân khấu)"
+      }
+    ]
+  },
+  {
+    "id": "k-core-3-17",
+    "character": "広",
+    "onyomi": "コウ",
+    "kunyomi": "ひろ.い, ひろ.まる, ひろ.める, ひろ.がる, ひろ.げる",
+    "meaning": "QUẢNG (rộng rãi, bao la)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "広告",
+        "reading": "こうこく",
+        "meaning": "quảng cáo"
+      },
+      {
+        "compound": "広がる",
+        "reading": "ひろがる",
+        "meaning": "lan rộng (ra ngoài)"
+      }
+    ]
+  },
+  {
+    "id": "k-core-3-18",
+    "character": "住",
+    "onyomi": "ジュウ, ヂュウ, チュウ",
+    "kunyomi": "す.む, す.まう, -ず.まい",
+    "meaning": "TRÚ (ở)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "住宅",
+        "reading": "じゅうたく",
+        "meaning": "thường trú"
+      },
+      {
+        "compound": "住民",
+        "reading": "じゅうみん",
+        "meaning": "công dân"
+      }
+    ]
+  },
+  {
+    "id": "k-core-3-21",
+    "character": "口",
+    "onyomi": "コウ, ク",
+    "kunyomi": "くち",
+    "meaning": "KHẨU (miệng, cửa ngõ)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "利口",
+        "reading": "りこう",
+        "meaning": "thông minh"
+      },
+      {
+        "compound": "悪口",
+        "reading": "わるくち",
+        "meaning": "lạm dụng"
+      }
+    ]
+  },
+  {
+    "id": "k-core-3-22",
+    "character": "少",
+    "onyomi": "ショウ",
+    "kunyomi": "すく.ない, すこ.し",
+    "meaning": "THIỂU (ít, thiểu số)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "少女",
+        "reading": "しょうじょ",
+        "meaning": "con gái"
+      },
+      {
+        "compound": "少々",
+        "reading": "しょうしょう",
+        "meaning": "chỉ một phút thôi"
+      }
+    ]
+  },
+  {
+    "id": "k-core-3-23",
+    "character": "町",
+    "onyomi": "チョウ",
+    "kunyomi": "まち",
+    "meaning": "ĐINH (thị trấn)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "町",
+        "reading": "まち",
+        "meaning": "thị trấn, thành phố"
+      }
+    ]
+  },
+  {
+    "id": "k-core-3-25",
+    "character": "工",
+    "onyomi": "コウ, ク, グ",
+    "kunyomi": "-",
+    "meaning": "CÔNG (thủ công)",
+    "strokes": 3,
+    "examples": [
+      {
+        "compound": "人工",
+        "reading": "じんこう",
+        "meaning": "nhân tạo"
+      },
+      {
+        "compound": "工業",
+        "reading": "こうぎょう",
+        "meaning": "ngành công nghiệp sản xuất"
+      }
+    ]
+  },
+  {
+    "id": "k-core-3-27",
+    "character": "空",
+    "onyomi": "クウ",
+    "kunyomi": "そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい",
+    "meaning": "KHÔNG (bầu trời, khoảng trống)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "空き",
+        "reading": "あき",
+        "meaning": "phòng"
+      },
+      {
+        "compound": "航空",
+        "reading": "こうくう",
+        "meaning": "hàng không"
+      }
+    ]
+  }
+]

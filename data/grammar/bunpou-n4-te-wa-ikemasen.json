@@ -1,0 +1,91 @@
+{
+  "id": "bunpou-n4-te-wa-ikemasen",
+  "level": "N4",
+  "unitId": "grammar-n4-unit-01",
+  "title": "〜てはいけません / 〜てはいけない",
+  "meaning": "Không được làm gì (Cấm đoán nâng cao & Thể ngắn)",
+  "connection": "V-て + はいけません / はいけない",
+  "usageNotes": "Diễn tả sự cấm đoán mạnh mẽ trong nội quy, biển báo pháp luật hoặc lời dặn của bác sĩ.",
+  "questions": [
+    {
+      "id": "n4-u1-g1-q1",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "美術館の中で写真を撮ってはいけません。",
+      "sentenceVi": "Không được chụp ảnh bên trong bảo tàng mỹ thuật.",
+      "targetGrammar": "〜てはいけません",
+      "prompt": "Chọn ý nghĩa chính xác của mẫu ngữ pháp trong câu trên:",
+      "options": [
+        "Không được làm gì đó (Cấm đoán)",
+        "Nên làm gì đó (Lời khuyên)",
+        "Có thể làm gì đó (Khả năng)",
+        "Phải làm gì đó (Bắt buộc)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「〜てはいけません」 mang ý nghĩa cấm đoán \"Không được làm...\"."
+    },
+    {
+      "id": "n4-u1-g1-q2",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "テスト中ですから、隣の人と【　？　】。",
+      "sentenceVi": "Vì đang kiểm tra nên không được nói chuyện với người bên cạnh.",
+      "targetGrammar": "話してはいけません",
+      "prompt": "Chọn phương án cấm đoán phù hợp trong phòng thi:",
+      "options": [
+        "話してはいけません",
+        "話してもいいです",
+        "話さなければなりません",
+        "話したいです"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quy chế thi cấm nói chuyện dùng 話す ➔ 話してはいけません."
+    },
+    {
+      "id": "n4-u1-g1-q3",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "病気ですから、お酒を【　？　】と医者に言われました。",
+      "sentenceVi": "Bác sĩ bảo tôi rằng vì đang bị ốm nên không được uống rượu.",
+      "targetGrammar": "飲んではいけない",
+      "prompt": "Chọn thể ngắn (thường) phù hợp đi với と言われました:",
+      "options": [
+        "飲んではいけない",
+        "飲んでもいい",
+        "飲むべきだ",
+        "飲まないで"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thể thường của 「〜てはいけません」 là 「〜てはいけない」."
+    },
+    {
+      "id": "n4-u1-g1-q4",
+      "type": "meaning-to-grammar",
+      "sentenceJa": "危ないですから、川で【　？　】。",
+      "sentenceVi": "Vì nguy hiểm nên không được bơi ở khúc sông này.",
+      "targetGrammar": "泳いではいけません",
+      "prompt": "Chọn dạng chia đúng của động từ 泳ぐ (bơi):",
+      "options": [
+        "泳いではいけません",
+        "泳いでもいいです",
+        "泳がなければなりません",
+        "泳ぎたいです"
+      ],
+      "correctIndex": 0,
+      "explanation": "泳ぐ chia thể Te là 泳いで ➔ 泳いではいけません."
+    },
+    {
+      "id": "n4-u1-g1-q5",
+      "type": "grammar-to-meaning",
+      "sentenceJa": "図書館の中では、大声で騒いではいけない。",
+      "sentenceVi": "Trong thư viện không được làm ồn lớn tiếng.",
+      "targetGrammar": "〜てはいけない",
+      "prompt": "Ý nghĩa của câu quy định trên là gì?",
+      "options": [
+        "Quy định cấm làm ồn nơi công cộng",
+        "Lời nhờ vả người khác giữ im lặng",
+        "Mong muốn người khác nói to lên",
+        "Khen ngợi thư viện yên tĩnh"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấm làm ồn (騒ぐ ➔ 騒いではいけない)."
+    }
+  ]
+}

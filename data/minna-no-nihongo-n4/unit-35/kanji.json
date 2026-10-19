@@ -1,0 +1,157 @@
+[
+  {
+    "id": "k35-1",
+    "character": "咲",
+    "onyomi": "ショウ",
+    "kunyomi": "さ.く, -ざき",
+    "meaning": "TIẾU (hoa nở)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "咲く",
+        "reading": "さく",
+        "meaning": "nở"
+      },
+      {
+        "compound": "咲きます",
+        "reading": "さきます",
+        "meaning": "nở"
+      }
+    ]
+  },
+  {
+    "id": "k35-2",
+    "character": "変",
+    "onyomi": "ヘン",
+    "kunyomi": "か.わる, か.わり, か.える",
+    "meaning": "BIẾN (biến đổi, kỳ lạ)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "変化",
+        "reading": "へんか",
+        "meaning": "thay đổi"
+      },
+      {
+        "compound": "変更",
+        "reading": "へんこう",
+        "meaning": "thay đổi"
+      }
+    ]
+  },
+  {
+    "id": "k35-3",
+    "character": "困",
+    "onyomi": "コン",
+    "kunyomi": "こま.る",
+    "meaning": "KHỐN (khó khăn, khốn khó)",
+    "strokes": 7,
+    "examples": [
+      {
+        "compound": "困難",
+        "reading": "こんなん",
+        "meaning": "khó khăn"
+      },
+      {
+        "compound": "困る",
+        "reading": "こまる",
+        "meaning": "khó khăn, bối rối, rắc rối"
+      }
+    ]
+  },
+  {
+    "id": "k35-5",
+    "character": "拾",
+    "onyomi": "シュウ, ジュウ",
+    "kunyomi": "ひろ.う",
+    "meaning": "THẬP (chữ Hán THẬP)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "拾う",
+        "reading": "ひろう",
+        "meaning": "nhặt lên"
+      },
+      {
+        "compound": "ごみを拾う",
+        "reading": "ひろいます",
+        "meaning": "nhặt rác"
+      }
+    ]
+  },
+  {
+    "id": "k35-6",
+    "character": "楽",
+    "onyomi": "ガク, ラク, ゴウ",
+    "kunyomi": "たの.しい, たの.しむ, この.む",
+    "meaning": "LẠC (vui vẻ, thoải mái, âm nhạc)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "楽",
+        "reading": "らく",
+        "meaning": "sự thoải mái"
+      },
+      {
+        "compound": "楽しむ",
+        "reading": "たのしむ",
+        "meaning": "tận hưởng chính mình"
+      }
+    ]
+  },
+  {
+    "id": "k35-7",
+    "character": "正",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "ただ.しい, ただ.す, まさ, まさ.に",
+    "meaning": "CHÍNH (đúng đắn, chính xác)",
+    "strokes": 5,
+    "examples": [
+      {
+        "compound": "修正",
+        "reading": "しゅうせい",
+        "meaning": "sửa đổi"
+      },
+      {
+        "compound": "正午",
+        "reading": "しょうご",
+        "meaning": "buổi trưa"
+      }
+    ]
+  },
+  {
+    "id": "k35-8",
+    "character": "珍",
+    "onyomi": "チン",
+    "kunyomi": "めずら.しい, たから",
+    "meaning": "TRÂN (chữ Hán TRÂN)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "珍しい",
+        "reading": "めずらしい",
+        "meaning": "quý hiếm, khác thường"
+      }
+    ]
+  },
+  {
+    "id": "k35-10",
+    "character": "向",
+    "onyomi": "コウ",
+    "kunyomi": "む.く, む.い, -む.き, む.ける, -む.け, む.かう, む.かい, む.こう, む.こう-, むこ, むか.い",
+    "meaning": "HƯỚNG (chữ Hán HƯỚNG)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "傾向",
+        "reading": "けいこう",
+        "meaning": "xu hướng"
+      },
+      {
+        "compound": "方向",
+        "reading": "ほうこう",
+        "meaning": "phương hướng"
+      }
+    ]
+  }
+]

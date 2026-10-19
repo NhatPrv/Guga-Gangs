@@ -1,0 +1,142 @@
+[
+  {
+    "id": "k40-1",
+    "character": "数",
+    "onyomi": "スウ, ス, サク, ソク, シュ",
+    "kunyomi": "かず, かぞ.える, しばしば, せ.める, わずらわ.しい",
+    "meaning": "SỐ (chữ Hán SỐ)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "数",
+        "reading": "かず",
+        "meaning": "con số"
+      },
+      {
+        "compound": "数える",
+        "reading": "かぞえる",
+        "meaning": "đếm"
+      }
+    ]
+  },
+  {
+    "id": "k40-2",
+    "character": "測",
+    "onyomi": "ソク",
+    "kunyomi": "はか.る",
+    "meaning": "TRẮC (chữ Hán TRẮC)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "予測",
+        "reading": "よそく",
+        "meaning": "dự đoán"
+      },
+      {
+        "compound": "測ります/量ります",
+        "reading": "はかります",
+        "meaning": "đo, cân"
+      }
+    ]
+  },
+  {
+    "id": "k40-3",
+    "character": "量",
+    "onyomi": "リョウ",
+    "kunyomi": "はか.る",
+    "meaning": "LƯỢNG (chữ Hán LƯỢNG)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "測ります/量ります",
+        "reading": "はかります",
+        "meaning": "đo, cân"
+      },
+      {
+        "compound": "量",
+        "reading": "りょう",
+        "meaning": "số tiền"
+      }
+    ]
+  },
+  {
+    "id": "k40-4",
+    "character": "確",
+    "onyomi": "カク, コウ",
+    "kunyomi": "たし.か, たし.かめる",
+    "meaning": "XÁC (chữ Hán XÁC)",
+    "strokes": 15,
+    "examples": [
+      {
+        "compound": "確実",
+        "reading": "かくじつ",
+        "meaning": "sự chắc chắn"
+      },
+      {
+        "compound": "正確",
+        "reading": "せいかく",
+        "meaning": "chính xác"
+      }
+    ]
+  },
+  {
+    "id": "k40-7",
+    "character": "発",
+    "onyomi": "ハツ, ホツ",
+    "kunyomi": "た.つ, あば.く, おこ.る, つか.わす, はな.つ",
+    "meaning": "PHÁT (xuất phát, phát triển)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "爆発",
+        "reading": "ばくはつ",
+        "meaning": "vụ nổ"
+      },
+      {
+        "compound": "発見",
+        "reading": "はっけん",
+        "meaning": "khám phá"
+      }
+    ]
+  },
+  {
+    "id": "k40-8",
+    "character": "到",
+    "onyomi": "トウ",
+    "kunyomi": "いた.る",
+    "meaning": "ĐÁO (chữ Hán ĐÁO)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "到着",
+        "reading": "とうちゃく",
+        "meaning": "sự đến"
+      },
+      {
+        "compound": "到着します。",
+        "reading": "とうちゃくします",
+        "meaning": "đến, đến"
+      }
+    ]
+  },
+  {
+    "id": "k40-10",
+    "character": "酔",
+    "onyomi": "スイ",
+    "kunyomi": "よ.う, よ.い, よ",
+    "meaning": "TÚY (chữ Hán TÚY)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "酔う",
+        "reading": "よう",
+        "meaning": "say rượu"
+      },
+      {
+        "compound": "酔います",
+        "reading": "よいます",
+        "meaning": "say rượu"
+      }
+    ]
+  }
+]

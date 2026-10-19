@@ -1,0 +1,184 @@
+[
+  {
+    "word": "一方",
+    "reading": "いっぽう",
+    "meaning": "mặt khác, trái lại",
+    "sinoVietnamese": "NHẤT PHƯƠNG",
+    "example": "兄は活発な一方、弟はおとなしい性格です。 (Người anh rất năng động, mặt khác người em lại có tính cách trầm lặng.)"
+  },
+  {
+    "word": "要するに",
+    "reading": "ようするに",
+    "meaning": "tóm lại là, nói tóm lại",
+    "sinoVietnamese": "YẾU",
+    "example": "彼の話は長いが、要するに断りたいのだ。 (Câu chuyện của anh ấy dài dòng, nhưng tóm lại là anh ấy muốn từ chối.)"
+  },
+  {
+    "word": "すなわち",
+    "reading": "すなわち",
+    "meaning": "nói cách khác, tức là",
+    "sinoVietnamese": "",
+    "example": "日本の首都、すなわち東京には人がたくさん集まります。 (Thủ đô của Nhật Bản, tức là Tokyo, tập trung rất đông người.)"
+  },
+  {
+    "word": "したがって",
+    "reading": "したがって",
+    "meaning": "do đó, theo đó (văn viết logic)",
+    "sinoVietnamese": "",
+    "example": "台風が接近しています。したがって、午後の授業は休みです。 (Bão đang đến gần. Do đó, buổi học chiều nay được nghỉ.)"
+  },
+  {
+    "word": "ところが",
+    "reading": "ところが",
+    "meaning": "thế nhưng, ai ngờ (ngạc nhiên, trái kỳ vọng)",
+    "sinoVietnamese": "",
+    "example": "晴れると思って傘を持たずに出かけました。ところが、雨が降ってきました。 (Tôi nghĩ trời nắng nên ra ngoài không mang ô. Ai ngờ trời lại đổ mưa.)"
+  },
+  {
+    "word": "さらに",
+    "reading": "さらに",
+    "meaning": "hơn nữa, thêm nữa",
+    "sinoVietnamese": "",
+    "example": "物価が上がり、さらに税金も高くなりました。 (Vật giá tăng, hơn nữa tiền thuế cũng trở nên đắt đỏ hơn.)"
+  },
+  {
+    "word": "もっとも",
+    "reading": "もっとも",
+    "meaning": "mặc dù vậy, tuy nhiên (bổ sung điều kiện)",
+    "sinoVietnamese": "",
+    "example": "全員が参加する予定です。もっとも、体調が悪い人は無理をしなくていいです。 (Dự kiến tất cả mọi người sẽ tham gia. Mặc dù vậy, ai thấy mệt thì không cần phải gượng ép.)"
+  },
+  {
+    "word": "あるいは",
+    "reading": "あるいは",
+    "meaning": "hoặc là, có lẽ",
+    "sinoVietnamese": "",
+    "example": "メール、あるいは電話でご連絡ください。 (Xin vui lòng liên hệ qua email, hoặc là gọi điện thoại.)"
+  },
+  {
+    "word": "または",
+    "reading": "または",
+    "meaning": "hoặc là (dùng trong văn bản)",
+    "sinoVietnamese": "",
+    "example": "黒、または青のボールペンで記入してください。 (Xin hãy điền bằng bút bi màu đen hoặc màu xanh.)"
+  },
+  {
+    "word": "なぜかというと",
+    "reading": "なぜかというと",
+    "meaning": "sở dĩ như vậy là vì",
+    "sinoVietnamese": "",
+    "example": "旅行先を変更しました。なぜかというと、ホテルが満室だったからです。 (Tôi đã đổi điểm đến du lịch. Sở dĩ như vậy là vì khách sạn đã kín phòng.)"
+  },
+  {
+    "word": "さて",
+    "reading": "さて",
+    "meaning": "và sau đây, nào (chuyển sang chủ đề chính)",
+    "sinoVietnamese": "",
+    "example": "挨拶はここまでにして、さて、本題に入りましょう。 (Lời chào xin dừng ở đây, nào, chúng ta hãy bước vào chủ đề chính.)"
+  },
+  {
+    "word": "そのために",
+    "reading": "そのために",
+    "meaning": "chính vì lý do đó mà",
+    "sinoVietnamese": "",
+    "example": "大雪が降りました。そのために、電車が止まってしまいました。 (Tuyết rơi rất lớn. Chính vì lý do đó mà tàu điện đã bị ngừng chạy.)"
+  },
+  {
+    "word": "それに対して",
+    "reading": "それにたいして",
+    "meaning": "trái ngược với điều đó",
+    "sinoVietnamese": "ĐỐI",
+    "example": "都市部は若者が多い。それに対して、農村部は高齢化が進んでいる。 (Khu vực thành thị có nhiều người trẻ. Trái ngược với điều đó, vùng nông thôn đang ngày càng già hóa.)"
+  },
+  {
+    "word": "それどころか",
+    "reading": "それどころか",
+    "meaning": "trái lại, chẳng những không mà còn",
+    "sinoVietnamese": "",
+    "example": "風邪は治るどころか、悪化してしまいました。 (Bệnh cảm chẳng những không khỏi mà ngược lại còn trở nặng hơn.)"
+  },
+  {
+    "word": "いわば",
+    "reading": "いわば",
+    "meaning": "có thể ví như là, nói ví von là",
+    "sinoVietnamese": "",
+    "example": "彼は私たちチームの、いわばリーダーのような存在です。 (Anh ấy có thể ví như là chỗ dựa tinh thần của cả đội chúng tôi.)"
+  },
+  {
+    "word": "いわゆる",
+    "reading": "いわゆる",
+    "meaning": "cái gọi là (ngôn ngữ thông dụng)",
+    "sinoVietnamese": "",
+    "example": "彼女はいわゆるキャリアウーマンです。 (Cô ấy là mẫu người phụ nữ mà người ta thường gọi là phụ nữ thành đạt.)"
+  },
+  {
+    "word": "それにしても",
+    "reading": "それにしても",
+    "meaning": "dù là như thế thì, kể cả vậy",
+    "sinoVietnamese": "",
+    "example": "遅刻の理由は分かりました。それにしても、連絡ぐらいはするべきでした。 (Tôi hiểu lý do bạn đến muộn rồi. Kể cả vậy, ít nhất bạn cũng nên liên lạc trước.)"
+  },
+  {
+    "word": "とはいえ",
+    "reading": "とはいえ",
+    "meaning": "mặc dù nói là vậy nhưng",
+    "sinoVietnamese": "",
+    "example": "春になったとはいえ、朝晩はまだ冷え込みます。 (Mặc dù nói là đã sang xuân nhưng sáng tối trời vẫn còn se lạnh.)"
+  },
+  {
+    "word": "にもかかわらず",
+    "reading": "にもかかわらず",
+    "meaning": "mặc dù, bất chấp",
+    "sinoVietnamese": "",
+    "example": "大雨にもかかわらず、多くの観客が集まりました。 (Bất chấp cơn mưa to, rất nhiều khán giả đã đến tụ họp.)"
+  },
+  {
+    "word": "その反面",
+    "reading": "そのはんめん",
+    "meaning": "mặt khác, bù lại",
+    "sinoVietnamese": "PHẢN DIỆN",
+    "example": "この車は便利だが、その反面ガソリン代がかかる。 (Chiếc xe này tiện lợi, nhưng mặt khác chi phí xăng dầu khá tốn kém.)"
+  },
+  {
+    "word": "要は",
+    "reading": "ようは",
+    "meaning": "tóm lại, điểm mấu chốt là",
+    "sinoVietnamese": "YẾU",
+    "example": "いろいろ議論したが、要はやる気があるかどうかだ。 (Đã bàn luận nhiều thứ, nhưng tóm lại điểm mấu chốt là có quyết tâm làm hay không.)"
+  },
+  {
+    "word": "それどころではない",
+    "reading": "それどころではない",
+    "meaning": "không phải là lúc để...",
+    "sinoVietnamese": "",
+    "example": "仕事が忙しくて、遊びに行くどころではありません。 (Công việc bận ngập đầu, chẳng còn tâm trí đâu để mà đi chơi.)"
+  },
+  {
+    "word": "むしろ",
+    "reading": "むしろ",
+    "meaning": "thà rằng, đúng hơn là",
+    "sinoVietnamese": "",
+    "example": "失敗を恐れるより、むしろ積極的に挑戦するべきだ。 (Thay vì sợ thất bại, đúng hơn là nên chủ động đương đầu thử thách.)"
+  },
+  {
+    "word": "ただ",
+    "reading": "ただ",
+    "meaning": "chỉ có điều, nhưng mà",
+    "sinoVietnamese": "",
+    "example": "この部屋はとても気に入りました。ただ、家賃が少し高いです。 (Tôi rất thích căn phòng này. Chỉ có điều, tiền thuê nhà hơi đắt một chút.)"
+  },
+  {
+    "word": "それに引き換え",
+    "reading": "それにひきかえ",
+    "meaning": "trái ngược hẳn với điều đó",
+    "sinoVietnamese": "DẪN HOÁN",
+    "example": "去年は豊作だった。それに引き換え、今年は不作だ。 (Năm ngoái được mùa bội thu. Trái ngược hẳn, năm nay lại mất mùa.)"
+  },
+  {
+    "word": "あるいはまた",
+    "reading": "あるいはまた",
+    "meaning": "hoặc giả là, hoặc hơn nữa là",
+    "sinoVietnamese": "",
+    "example": "電車で行くか、あるいはまたバスを利用するのもいい。 (Đi bằng tàu điện cũng được, hoặc là đi xe buýt cũng rất ổn.)"
+  }
+]

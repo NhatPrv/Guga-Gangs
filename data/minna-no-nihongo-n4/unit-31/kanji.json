@@ -1,0 +1,122 @@
+[
+  {
+    "id": "k31-1",
+    "character": "始",
+    "onyomi": "シ",
+    "kunyomi": "はじ.める, -はじ.める, はじ.まる",
+    "meaning": "THỦY (bắt đầu, khởi đầu)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "開始",
+        "reading": "かいし",
+        "meaning": "bắt đầu"
+      },
+      {
+        "compound": "始まり",
+        "reading": "はじまり",
+        "meaning": "nguồn gốc"
+      }
+    ]
+  },
+  {
+    "id": "k31-2",
+    "character": "続",
+    "onyomi": "ゾク, ショク, コウ, キョウ",
+    "kunyomi": "つづ.く, つづ.ける, つぐ.ない",
+    "meaning": "TỤC (chữ Hán TỤC)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "相続",
+        "reading": "そうぞく",
+        "meaning": "sự kế thừa"
+      },
+      {
+        "compound": "続き",
+        "reading": "つづき",
+        "meaning": "phần tiếp theo"
+      }
+    ]
+  },
+  {
+    "id": "k31-4",
+    "character": "受",
+    "onyomi": "ジュ",
+    "kunyomi": "う.ける, -う.け, う.かる",
+    "meaning": "Hán tự 受",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "受け取る",
+        "reading": "うけとる",
+        "meaning": "nhận"
+      },
+      {
+        "compound": "受ける",
+        "reading": "うける",
+        "meaning": "nhận, tham gia , tiếp nhận"
+      }
+    ]
+  },
+  {
+    "id": "k31-7",
+    "character": "卒",
+    "onyomi": "ソツ, シュツ",
+    "kunyomi": "そっ.する, お.える, お.わる, ついに, にわか",
+    "meaning": "TỐT (chữ Hán TỐT)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "卒業",
+        "reading": "そつぎょう",
+        "meaning": "tốt nghiệp"
+      },
+      {
+        "compound": "卒業します",
+        "reading": "そつぎょうします「だいがくを」",
+        "meaning": "tốt nghiệp"
+      }
+    ]
+  },
+  {
+    "id": "k31-8",
+    "character": "業",
+    "onyomi": "ギョウ, ゴウ",
+    "kunyomi": "わざ",
+    "meaning": "NGHIỆP (chữ Hán NGHIỆP)",
+    "strokes": 13,
+    "examples": [
+      {
+        "compound": "企業",
+        "reading": "きぎょう",
+        "meaning": "doanh nghiệp"
+      },
+      {
+        "compound": "作業",
+        "reading": "さぎょう",
+        "meaning": "làm việc"
+      }
+    ]
+  },
+  {
+    "id": "k31-10",
+    "character": "憩",
+    "onyomi": "ケイ",
+    "kunyomi": "いこ.い, いこ.う",
+    "meaning": "KHẾ (chữ Hán KHẾ)",
+    "strokes": 16,
+    "examples": [
+      {
+        "compound": "休憩",
+        "reading": "きゅうけい",
+        "meaning": "nghỉ ngơi"
+      },
+      {
+        "compound": "休憩します",
+        "reading": "きゅうけいします",
+        "meaning": "nghỉ ngơi"
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "k-core-n5-2-2",
+    "character": "後",
+    "onyomi": "ゴ, コウ",
+    "kunyomi": "のち, うし.ろ, うしろ, あと, おく.れる",
+    "meaning": "HẬU (phía sau, sau này)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "後者",
+        "reading": "こうしゃ",
+        "meaning": "cái sau"
+      },
+      {
+        "compound": "今後",
+        "reading": "こんご",
+        "meaning": "kể từ bây giờ"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-2-3",
+    "character": "前",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ, -まえ",
+    "meaning": "TIỀN (phía trước, trước đây)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "以前",
+        "reading": "いぜん",
+        "meaning": "trước đây"
+      },
+      {
+        "compound": "前者",
+        "reading": "ぜんしゃ",
+        "meaning": "trước đây"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-2-6",
+    "character": "間",
+    "onyomi": "カン, ケン",
+    "kunyomi": "あいだ, ま, あい",
+    "meaning": "GIAN (khoảng thời gian, ở giữa, khoảng cách)",
+    "strokes": 12,
+    "examples": [
+      {
+        "compound": "居間",
+        "reading": "いま",
+        "meaning": "phòng khách (kiểu phương tây)"
+      },
+      {
+        "compound": "期間",
+        "reading": "きかん",
+        "meaning": "thời kỳ"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-2-8",
+    "character": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning": "ĐÔNG (hướng đông)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "東",
+        "reading": "ひがし",
+        "meaning": "hướng đông"
+      },
+      {
+        "compound": "東京大学",
+        "reading": "とうきょうだいがく",
+        "meaning": "đại học tokyo"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-2-10",
+    "character": "今",
+    "onyomi": "コン, キン",
+    "kunyomi": "いま",
+    "meaning": "KIM (bây giờ, hiện tại)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "今に",
+        "reading": "いまに",
+        "meaning": "chẳng bao lâu nữa"
+      },
+      {
+        "compound": "今回",
+        "reading": "こんかい",
+        "meaning": "bây giờ"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-2-11",
+    "character": "金",
+    "onyomi": "キン, コン, ゴン",
+    "kunyomi": "かね, かな-, -がね",
+    "meaning": "KIM (vàng, tiền bạc, kim loại)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "金",
+        "reading": "かね",
+        "meaning": "tiền bạc"
+      },
+      {
+        "compound": "金持ち",
+        "reading": "かねもち",
+        "meaning": "người đàn ông giàu có"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-2-12",
+    "character": "九",
+    "onyomi": "キュウ, ク",
+    "kunyomi": "ここの, ここの.つ",
+    "meaning": "CỬU (chín, số 9)",
+    "strokes": 2,
+    "examples": [
+      {
+        "compound": "九",
+        "reading": "きゅう",
+        "meaning": "chín"
+      },
+      {
+        "compound": "九日",
+        "reading": "ここのか",
+        "meaning": "ngày mùng 9, 9 ngày"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-2-15",
+    "character": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか.い, たか, -だか, たか.まる, たか.める",
+    "meaning": "CAO (cao lớn, đắt đỏ)",
+    "strokes": 10,
+    "examples": [
+      {
+        "compound": "高価",
+        "reading": "こうか",
+        "meaning": "giá cao"
+      },
+      {
+        "compound": "高速",
+        "reading": "こうそく",
+        "meaning": "tốc độ cao"
+      }
+    ]
+  },
+  {
+    "id": "k-core-n5-2-16",
+    "character": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる.い, まる, まど, まど.か, まろ.やか",
+    "meaning": "VIÊN (đồng Yên Nhật, hình tròn)",
+    "strokes": 4,
+    "examples": [
+      {
+        "compound": "円",
+        "reading": "えん",
+        "meaning": "vòng tròn"
+      },
+      {
+        "compound": "「円」札",
+        "reading": "[えん」さつ",
+        "meaning": "tiền giấy"
+      }
+    ]
+  }
+]

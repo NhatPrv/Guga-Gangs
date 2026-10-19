@@ -1,0 +1,162 @@
+[
+  {
+    "id": "k-n5-3-1",
+    "character": "教",
+    "onyomi": "キョウ",
+    "kunyomi": "おし.える, おそ.わる",
+    "meaning": "GIÁO (dạy dỗ, tôn giáo)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "教科書",
+        "reading": "きょうかしょ",
+        "meaning": "sách văn bản"
+      },
+      {
+        "compound": "教授",
+        "reading": "きょうじゅ",
+        "meaning": "giảng dạy"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-3-2",
+    "character": "室",
+    "onyomi": "シツ",
+    "kunyomi": "むろ",
+    "meaning": "Hán tự 室",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "研究室",
+        "reading": "けんきゅうしつ",
+        "meaning": "căn phòng"
+      },
+      {
+        "compound": "～教室",
+        "reading": "～きょうしつ",
+        "meaning": "lớp học"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-3-3",
+    "character": "食",
+    "onyomi": "ショク, ジキ",
+    "kunyomi": "く.う, く.らう, た.べる, は.む",
+    "meaning": "THỰC (ăn uống, món ăn)",
+    "strokes": 9,
+    "examples": [
+      {
+        "compound": "食う",
+        "reading": "くう",
+        "meaning": "(nam) (thô tục) ăn"
+      },
+      {
+        "compound": "食卓",
+        "reading": "しょくたく",
+        "meaning": "bàn ăn"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-3-4",
+    "character": "堂",
+    "onyomi": "ドウ",
+    "kunyomi": "-",
+    "meaning": "ĐƯỜNG (chữ Hán ĐƯỜNG)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "講堂",
+        "reading": "こうどう",
+        "meaning": "khán phòng"
+      },
+      {
+        "compound": "国会議事堂",
+        "reading": "こっかいぎじどう",
+        "meaning": "tòa nhà quốc hội"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-3-5",
+    "character": "事",
+    "onyomi": "ジ, ズ",
+    "kunyomi": "こと, つか.う, つか.える",
+    "meaning": "SỰ (sự việc, công việc)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "家事",
+        "reading": "かじ",
+        "meaning": "việc nhà"
+      },
+      {
+        "compound": "記事",
+        "reading": "きじ",
+        "meaning": "bài viết"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-3-6",
+    "character": "務",
+    "onyomi": "ム",
+    "kunyomi": "つと.める",
+    "meaning": "VỤ (chữ Hán VỤ)",
+    "strokes": 11,
+    "examples": [
+      {
+        "compound": "義務",
+        "reading": "ぎむ",
+        "meaning": "nghĩa vụ"
+      },
+      {
+        "compound": "事務",
+        "reading": "じむ",
+        "meaning": "kinh doanh"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-3-7",
+    "character": "所",
+    "onyomi": "ショ",
+    "kunyomi": "ところ, -ところ, どころ, とこ",
+    "meaning": "SỞ (chữ Hán SỞ)",
+    "strokes": 8,
+    "examples": [
+      {
+        "compound": "停留所",
+        "reading": "ていりゅうじょ",
+        "meaning": "trạm xe buýt hoặc xe điện"
+      },
+      {
+        "compound": "台所",
+        "reading": "だいどころ",
+        "meaning": "phòng bếp"
+      }
+    ]
+  },
+  {
+    "id": "k-n5-3-8",
+    "character": "会",
+    "onyomi": "カイ, エ",
+    "kunyomi": "あ.う, あ.わせる, あつ.まる",
+    "meaning": "HỘI (gặp gỡ, cuộc họp, xã hội)",
+    "strokes": 6,
+    "examples": [
+      {
+        "compound": "会",
+        "reading": "かい",
+        "meaning": "cuộc họp"
+      },
+      {
+        "compound": "会計",
+        "reading": "かいけい",
+        "meaning": "tài khoản"
+      }
+    ]
+  }
+]

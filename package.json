@@ -1,0 +1,19 @@
+{
+  "name": "n4-vocab-master",
+  "version": "1.0.0",
+  "description": "Hệ thống Crawl, Lưu trữ & Web Học Từ vựng / Hán tự JLPT N4",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build:manifest": "node scripts/build-manifest.js",
+    "crawl": "node scripts/auto-crawler.js",
+    "crawl:all": "node scripts/crawl-all-sources.js",
+    "crawl:n5": "node scripts/crawl-n5.js",
+    "standardize": "node scripts/standardize-vocabulary.js",
+    "dedup": "node scripts/deduplicate.js",
+    "crawl:n3": "node scripts/crawl-n3.js"
+  },
+  "keywords": ["jlpt", "n4", "japanese", "vocabulary", "kanji"],
+  "author": "",
+  "license": "MIT"
+}
