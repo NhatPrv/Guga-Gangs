@@ -40,12 +40,12 @@
       "targetGrammar": "〜ことだ",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Không hẳn là... / Không nhất thiết là...",
-        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Nên làm gì / Tốt nhất là nên... (Lời khuyên chân thành)",
         "Chắc chắn không... / Không đời nào...",
-        "Nên làm gì / Tốt nhất là nên... (Lời khuyên chân thành)"
+        "Thảo nào, hèn chi... / Đương nhiên là...",
+        "Không hẳn là... / Không nhất thiết là..."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Mẫu 「〜ことだ」 mang ý nghĩa: \"Nên làm gì / Tốt nhất là nên... (Lời khuyên chân thành)\"."
     },
     {
@@ -56,13 +56,13 @@
       "targetGrammar": "〜ことだ",
       "prompt": "Dựa vào nghĩa câu tiếng Việt, chọn mẫu ngữ pháp phù hợp:",
       "options": [
-        "〜ことだ",
-        "〜ものだ",
         "〜わけにはいかない",
-        "〜ものではない"
+        "〜ものではない",
+        "〜ことだ",
+        "〜ものだ"
       ],
-      "correctIndex": 0,
-      "explanation": "Để diễn đạt ý nghĩa \"Nếu bạn muốn nhanh chóng vượt qua cơn cảm lạnh, điều tốt nhất là đừng cố ép bản thân và nghỉ ngơi đầy đủ.\", ta sử dụng mẫu 「〜ことだ」."
+      "correctIndex": 2,
+      "explanation": "Để diễn đạt ý nghĩa \"Nếu bạn muốn nhanh chóng vượt qua cơn cảm lạnh, điều tốt nhất là đừng cố ép bản thân và nghỉ ngơi đầy đủ.\", ta sử dụng cấu trúc ngữ pháp 「〜ことだ」."
     },
     {
       "id": "bunpou-n3-koto-da-q3",
@@ -72,13 +72,13 @@
       "targetGrammar": "〜ことだ",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
-        "If like ; điều tốt nhất là (lời khuyên)",
+        "Không cần phải làm vậy; không cần phải làm vậy",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
-        "Không cần phải làm vậy; không cần phải làm vậy"
+        "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
+        "Nên làm gì / Tốt nhất là nên... (Lời khuyên chân thành)"
       ],
-      "correctIndex": 1,
-      "explanation": "Mẫu 「〜ことだ」 mang ý nghĩa: \"If like ; điều tốt nhất là (lời khuyên)\"."
+      "correctIndex": 3,
+      "explanation": "Mẫu 「〜ことだ」 mang ý nghĩa: \"Nên làm gì / Tốt nhất là nên... (Lời khuyên chân thành)\"."
     },
     {
       "id": "bunpou-n3-koto-da-q4",
@@ -88,13 +88,13 @@
       "targetGrammar": "〜ことだ",
       "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"If like ; điều tốt nhất là (lời khuyên)\":",
       "options": [
-        "〜こと（instruction）",
-        "〜ことだ",
         "〜ことになっている",
+        "〜ことだ",
+        "〜こと（instruction）",
         "〜ことにしている"
       ],
       "correctIndex": 1,
-      "explanation": "Đáp án đúng là 「〜ことだ」."
+      "explanation": "Để diễn đạt ý nghĩa \"Nếu muốn giỏi tiếng Nhật, bạn nên nói nó mỗi ngày, dù chỉ một chút.\", ta sử dụng cấu trúc ngữ pháp 「〜ことだ」."
     },
     {
       "id": "bunpou-n3-koto-da-q5",
@@ -104,13 +104,13 @@
       "targetGrammar": "〜ことだ",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ことだ」 là gì?",
       "options": [
-        "If like ; điều tốt nhất là (lời khuyên)",
+        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
+        "Nên làm gì / Tốt nhất là nên... (Lời khuyên chân thành)",
         "Không thể ; không có vẻ như nó sẽ",
-        "Cố gắng ; cố gắng ; sắp sửa",
-        "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
+        "Cố gắng ; cố gắng ; sắp sửa"
       ],
-      "correctIndex": 0,
-      "explanation": "Mẫu 「〜ことだ」 mang ý nghĩa: \"If like ; điều tốt nhất là (lời khuyên)\"."
+      "correctIndex": 1,
+      "explanation": "Mẫu 「〜ことだ」 mang ý nghĩa: \"Nên làm gì / Tốt nhất là nên... (Lời khuyên chân thành)\"."
     }
   ]
 }
