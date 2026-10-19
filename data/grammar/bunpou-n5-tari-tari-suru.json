@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜たり〜たりする",
   "title": "〜たり〜たりする",
-  "meaning": "Nào là... nào là... / Lúc thì... lúc thì...",
-  "meaningVi": "Nào là... nào là... / Lúc thì... lúc thì...",
-  "connection": "Động từ (V)-ta + り + Động từ (V)-ta + りする",
+  "meaning": "Lúc thì... lúc thì... / Nào là... nào là...",
+  "meaningVi": "Lúc thì... lúc thì... / Nào là... nào là...",
+  "connection": "Động từ thể Ta + り + Động từ thể Ta + りする",
   "usageNotes": "Chọn ra một vài hành động từ nhiều hành động. Căng thẳng và lịch sự diễn ra ở phần cuối cùng する: 〜たりしました.",
   "examples": [
     {
@@ -42,11 +42,11 @@
       "options": [
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
-        "Nào là... nào là... / Lúc thì... lúc thì...",
+        "Lúc thì... lúc thì... / Nào là... nào là...",
         "Chỉ đối tượng trực tiếp của hành động"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜たり〜たりする」 mang ý nghĩa: \"Nào là... nào là... / Lúc thì... lúc thì...\"."
+      "explanation": "Mẫu 「〜たり〜たりする」 mang ý nghĩa: \"Lúc thì... lúc thì... / Nào là... nào là...\"."
     },
     {
       "id": "bunpou-n5-tari-tari-suru-q2",
@@ -72,13 +72,13 @@
       "targetGrammar": "〜たり〜たりする",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Nào là... nào là... / Lúc thì... lúc thì...",
+        "Lúc thì... lúc thì... / Nào là... nào là...",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜たり〜たりする」 mang ý nghĩa: \"Nào là... nào là... / Lúc thì... lúc thì...\"."
+      "explanation": "Mẫu 「〜たり〜たりする」 mang ý nghĩa: \"Lúc thì... lúc thì... / Nào là... nào là...\"."
     },
     {
       "id": "bunpou-n5-tari-tari-suru-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "日曜日はそうじをしたり、洗濯をしたりします。",
       "sentenceVi": "Vào Chủ nhật, tôi làm những việc như dọn dẹp và giặt giũ.",
       "targetGrammar": "〜たり〜たりする",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nào là... nào là... / Lúc thì... lúc thì...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Lúc thì... lúc thì... / Nào là... nào là...\":",
       "options": [
         "〜で（means）",
         "〜と（and）",
@@ -104,13 +104,13 @@
       "targetGrammar": "〜たり〜たりする",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜たり〜たりする」 là gì?",
       "options": [
-        "Nào là... nào là... / Lúc thì... lúc thì...",
+        "Lúc thì... lúc thì... / Nào là... nào là...",
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
         "Với ; cùng với (một đối tác trong một hành động)",
         "Hoặc (sự lựa chọn giữa các danh từ)"
       ],
       "correctIndex": 0,
-      "explanation": "「〜たり〜たりする」 có nghĩa là: Nào là... nào là... / Lúc thì... lúc thì...."
+      "explanation": "Mẫu 「〜たり〜たりする」 mang ý nghĩa: \"Lúc thì... lúc thì... / Nào là... nào là...\"."
     }
   ]
 }

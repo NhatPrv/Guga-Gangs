@@ -3,8 +3,8 @@
   "level": "N3",
   "pattern": "〜一方で",
   "title": "〜一方で",
-  "meaning": "Trong khi ; mặt khác; cùng lúc",
-  "meaningVi": "Trong khi ; mặt khác; cùng lúc",
+  "meaning": "Trong khi ; các mặt khác; cùng lúc",
+  "meaningVi": "Trong khi ; các mặt khác; cùng lúc",
   "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + である + 一方で",
   "usageNotes": "Trình bày hai mặt của một sự vật hoặc hai hoạt động song song. So sánh 〜に対して, sự tương phản giữa hai chủ đề khác nhau.",
   "examples": [
@@ -44,10 +44,10 @@
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Chắc chắn không... / Không đời nào...",
         "Không hẳn là... / Không nhất thiết là...",
-        "Trong khi ; mặt khác; cùng lúc"
+        "Trong khi ; các mặt khác; cùng lúc"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜一方で」 mang ý nghĩa: \"Trong khi ; mặt khác; cùng lúc\"."
+      "explanation": "Mẫu 「〜一方で」 mang ý nghĩa: \"Trong khi ; các mặt khác; cùng lúc\"."
     },
     {
       "id": "bunpou-n3-ippou-de-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
-        "Trong khi ; mặt khác; cùng lúc",
+        "Trong khi ; các mặt khác; cùng lúc",
         "Bởi vì (lý do thông thường hoặc tự biện minh)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜一方で」 mang ý nghĩa: \"Trong khi ; mặt khác; cùng lúc\"."
+      "explanation": "Mẫu 「〜一方で」 mang ý nghĩa: \"Trong khi ; các mặt khác; cùng lúc\"."
     },
     {
       "id": "bunpou-n3-ippou-de-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "インターネットは便利な一方で、危険な面もある。",
       "sentenceVi": "Internet rất tiện lợi nhưng mặt khác nó cũng có những nguy hiểm.",
       "targetGrammar": "〜一方で",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong khi ; mặt khác; cùng lúc\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong khi ; các mặt khác; cùng lúc\":",
       "options": [
         "〜ことにしている",
         "〜ことになっている",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜一方で」 là gì?",
       "options": [
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
-        "Trong khi ; mặt khác; cùng lúc",
+        "Trong khi ; các mặt khác; cùng lúc",
         "Cố gắng ; cố gắng ; sắp sửa",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜一方で」 có nghĩa là: Trong khi ; mặt khác; cùng lúc."
+      "explanation": "Mẫu 「〜一方で」 mang ý nghĩa: \"Trong khi ; các mặt khác; cùng lúc\"."
     }
   ]
 }

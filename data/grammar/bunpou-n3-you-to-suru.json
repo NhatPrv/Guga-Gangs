@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜ようとする",
   "title": "〜ようとする",
-  "meaning": "Cố gắng ; cố gắng ; sắp sửa",
-  "meaningVi": "Cố gắng ; cố gắng ; sắp sửa",
-  "connection": "Động từ (V)-volitional + とする",
+  "meaning": "Đang định làm gì / Cố gắng làm gì đó",
+  "meaningVi": "Đang định làm gì / Cố gắng làm gì đó",
+  "connection": "Động từ thể ý chí (V-よう) + とする",
   "usageNotes": "Thường thì một nỗ lực không thành công hoặc bị gián đoạn. 〜ようとしない = 'thậm chí sẽ không thử' (không sẵn lòng). So sánh 〜てみる, có nghĩa là thực sự làm một việc gì đó để xem nó diễn ra như thế nào.",
   "examples": [
     {
@@ -44,10 +44,10 @@
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Không hẳn là... / Không nhất thiết là...",
         "Chắc chắn không... / Không đời nào...",
-        "Cố gắng ; cố gắng ; sắp sửa"
+        "Đang định làm gì / Cố gắng làm gì đó"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ようとする」 mang ý nghĩa: \"Cố gắng ; cố gắng ; sắp sửa\"."
+      "explanation": "Mẫu 「〜ようとする」 mang ý nghĩa: \"Đang định làm gì / Cố gắng làm gì đó\"."
     },
     {
       "id": "bunpou-n3-you-to-suru-q2",
@@ -76,10 +76,10 @@
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
-        "Cố gắng ; cố gắng ; sắp sửa"
+        "Đang định làm gì / Cố gắng làm gì đó"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ようとする」 mang ý nghĩa: \"Cố gắng ; cố gắng ; sắp sửa\"."
+      "explanation": "Mẫu 「〜ようとする」 mang ý nghĩa: \"Đang định làm gì / Cố gắng làm gì đó\"."
     },
     {
       "id": "bunpou-n3-you-to-suru-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "ドアを開けようとしたが、鍵がかかっていて開かなかった。",
       "sentenceVi": "Tôi cố mở cửa nhưng nó bị khóa và không mở được.",
       "targetGrammar": "〜ようとする",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cố gắng ; cố gắng ; sắp sửa\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đang định làm gì / Cố gắng làm gì đó\":",
       "options": [
         "〜ことはない",
         "〜ようとする",
@@ -107,11 +107,11 @@
       "options": [
         "Không thể ; không có vẻ như nó sẽ",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
-        "Cố gắng ; cố gắng ; sắp sửa",
+        "Đang định làm gì / Cố gắng làm gì đó",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜ようとする」 có nghĩa là: Cố gắng ; cố gắng ; sắp sửa."
+      "explanation": "Mẫu 「〜ようとする」 mang ý nghĩa: \"Đang định làm gì / Cố gắng làm gì đó\"."
     }
   ]
 }

@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜ものだ",
   "title": "〜ものだ",
-  "meaning": "Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)",
-  "meaningVi": "Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)",
-  "connection": "Động từ (V)-dict / Động từ (V)-ta / i-Adj / na-Adj + な + ものだ",
+  "meaning": "Là thứ đương nhiên / Thường hay... (Hoài niệm quá khứ)",
+  "meaningVi": "Là thứ đương nhiên / Thường hay... (Hoài niệm quá khứ)",
+  "connection": "V-る / V-た / Tính từ + ものだ",
   "usageNotes": "Công dụng chính: sự thật chung hoặc xu hướng tự nhiên, chuẩn mực xã hội (nên), thói quen hoài niệm về quá khứ với 〜たものだ, và cảm giác sâu sắc (時間がたつのは早いものだ). Bình thường: 〜もんだ.",
   "examples": [
     {
@@ -44,11 +44,11 @@
       "options": [
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Không hẳn là... / Không nhất thiết là...",
-        "Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)",
+        "Là thứ đương nhiên / Thường hay... (Hoài niệm quá khứ)",
         "Chắc chắn không... / Không đời nào..."
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ものだ」 mang ý nghĩa: \"Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)\"."
+      "explanation": "Mẫu 「〜ものだ」 mang ý nghĩa: \"Là thứ đương nhiên / Thường hay... (Hoài niệm quá khứ)\"."
     },
     {
       "id": "bunpou-n3-mono-da-q2",
@@ -74,13 +74,13 @@
       "targetGrammar": "〜ものだ",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)",
+        "Là thứ đương nhiên / Thường hay... (Hoài niệm quá khứ)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Không cần phải làm vậy; không cần phải làm vậy"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ものだ」 mang ý nghĩa: \"Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)\"."
+      "explanation": "Mẫu 「〜ものだ」 mang ý nghĩa: \"Là thứ đương nhiên / Thường hay... (Hoài niệm quá khứ)\"."
     },
     {
       "id": "bunpou-n3-mono-da-q4",
@@ -88,7 +88,7 @@
       "sentenceJa": "子どものころは、この川でよく泳いだものだ。",
       "sentenceVi": "Khi còn nhỏ, tôi thường bơi ở con sông này rất nhiều.",
       "targetGrammar": "〜ものだ",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Là thứ đương nhiên / Thường hay... (Hoài niệm quá khứ)\":",
       "options": [
         "〜ことにしている",
         "〜ことになっている",
@@ -109,10 +109,10 @@
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
         "Không thể ; không có vẻ như nó sẽ",
         "Cố gắng ; cố gắng ; sắp sửa",
-        "Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)"
+        "Là thứ đương nhiên / Thường hay... (Hoài niệm quá khứ)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜ものだ」 có nghĩa là: Đó là điều tự nhiên; người ta nên; đã từng (nỗi nhớ); Làm sao ...! (cảm xúc sâu sắc)."
+      "explanation": "Mẫu 「〜ものだ」 mang ý nghĩa: \"Là thứ đương nhiên / Thường hay... (Hoài niệm quá khứ)\"."
     }
   ]
 }

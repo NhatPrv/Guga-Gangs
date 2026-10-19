@@ -3,8 +3,8 @@
   "level": "N3",
   "pattern": "〜としても",
   "title": "〜としても",
-  "meaning": "Ngay cả khi; thậm chí giả sử",
-  "meaningVi": "Ngay cả khi; thậm chí giả sử",
+  "meaning": "Ngay cả khi; thậm chí cả lịch sử",
+  "meaningVi": "Ngay cả khi; thậm chí cả lịch sử",
   "connection": "Động từ (V)-plain / i-Adj / na-Adj + だ / Danh từ (N) + だ + としても",
   "usageNotes": "Nhượng bộ giả định: ngay cả khi giả sử A, B vẫn đúng. Nhiều giả thuyết hơn 〜ても; so sánh 〜にしても, thường chấp nhận một sự thật.",
   "examples": [
@@ -41,13 +41,13 @@
       "targetGrammar": "〜としても",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Ngay cả khi; thậm chí giả sử",
+        "Ngay cả khi; thậm chí cả lịch sử",
         "Không hẳn là... / Không nhất thiết là...",
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Chắc chắn không... / Không đời nào..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜としても」 mang ý nghĩa: \"Ngay cả khi; thậm chí giả sử\"."
+      "explanation": "Mẫu 「〜としても」 mang ý nghĩa: \"Ngay cả khi; thậm chí cả lịch sử\"."
     },
     {
       "id": "bunpou-n3-to-shite-mo-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
-        "Ngay cả khi; thậm chí giả sử",
+        "Ngay cả khi; thậm chí cả lịch sử",
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜としても」 mang ý nghĩa: \"Ngay cả khi; thậm chí giả sử\"."
+      "explanation": "Mẫu 「〜としても」 mang ý nghĩa: \"Ngay cả khi; thậm chí cả lịch sử\"."
     },
     {
       "id": "bunpou-n3-to-shite-mo-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "親に反対されたとしても、私は留学するつもりだ。",
       "sentenceVi": "Dù bố mẹ có phản đối thì tôi vẫn có ý định đi du học.",
       "targetGrammar": "〜としても",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ngay cả khi; thậm chí giả sử\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ngay cả khi; thậm chí cả lịch sử\":",
       "options": [
         "〜ことにしている",
         "〜としても",
@@ -107,11 +107,11 @@
       "options": [
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
-        "Ngay cả khi; thậm chí giả sử",
+        "Ngay cả khi; thậm chí cả lịch sử",
         "Cố gắng ; cố gắng ; sắp sửa"
       ],
       "correctIndex": 2,
-      "explanation": "「〜としても」 có nghĩa là: Ngay cả khi; thậm chí giả sử."
+      "explanation": "Mẫu 「〜としても」 mang ý nghĩa: \"Ngay cả khi; thậm chí cả lịch sử\"."
     }
   ]
 }

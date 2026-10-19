@@ -3,10 +3,10 @@
   "level": "N3",
   "pattern": "〜場合（は）",
   "title": "〜場合（は）",
-  "meaning": "Trong trường hợp; nếu như; trong trường hợp đó",
-  "meaningVi": "Trong trường hợp; nếu như; trong trường hợp đó",
-  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + 場合（は）",
-  "usageNotes": "Điển hình của các hướng dẫn, quy tắc và thông báo về các tình huống có thể xảy ra. Không giống như 〜たら, nó không được sử dụng để kể lại một sự kiện xảy ra một lần trong quá khứ.",
+  "meaning": "Trong trường hợp... / Khi xảy ra tình huống...",
+  "meaningVi": "Trong trường hợp... / Khi xảy ra tình huống...",
+  "connection": "Thể thông thường (Na-Adj + な, Danh từ + の) + 場合（は）",
+  "usageNotes": "Điển hình là các hướng dẫn, quy tắc và thông báo về các vấn đề có thể xảy ra. Không giống như 〜たら, nó không được sử dụng để kể lại một sự kiện xảy ra một lần trong quá khứ.",
   "examples": [
     {
       "ja": "雨の場合は、試合は中止になります。",
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Không hẳn là... / Không nhất thiết là...",
-        "Trong trường hợp; nếu như; trong trường hợp đó",
+        "Trong trường hợp... / Khi xảy ra tình huống...",
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Chắc chắn không... / Không đời nào..."
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜場合（は）」 mang ý nghĩa: \"Trong trường hợp; nếu như; trong trường hợp đó\"."
+      "explanation": "Mẫu 「〜場合（は）」 mang ý nghĩa: \"Trong trường hợp... / Khi xảy ra tình huống...\"."
     },
     {
       "id": "bunpou-n3-baai-wa-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Nên ; điều tốt nhất là (lời khuyên)",
-        "Trong trường hợp; nếu như; trong trường hợp đó",
+        "Trong trường hợp; if if thích; trong trường hợp đó",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜場合（は）」 mang ý nghĩa: \"Trong trường hợp; nếu như; trong trường hợp đó\"."
+      "explanation": "Mẫu 「〜場合（は）」 mang ý nghĩa: \"Trong trường hợp; if if thích; trong trường hợp đó\"."
     },
     {
       "id": "bunpou-n3-baai-wa-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "雨の場合は、試合は中止になります。",
       "sentenceVi": "Trong trường hợp trời mưa, trận đấu sẽ bị hủy.",
       "targetGrammar": "〜場合（は）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong trường hợp; nếu như; trong trường hợp đó\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong trường hợp; if if thích; trong trường hợp đó\":",
       "options": [
         "〜ことはない",
         "〜ことになっている",
@@ -108,10 +108,10 @@
         "Cố gắng ; cố gắng ; sắp sửa",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
-        "Trong trường hợp; nếu như; trong trường hợp đó"
+        "Trong trường hợp; if if thích; trong trường hợp đó"
       ],
       "correctIndex": 3,
-      "explanation": "「〜場合（は）」 có nghĩa là: Trong trường hợp; nếu như; trong trường hợp đó."
+      "explanation": "Mẫu 「〜場合（は）」 mang ý nghĩa: \"Trong trường hợp; if if thích; trong trường hợp đó\"."
     }
   ]
 }

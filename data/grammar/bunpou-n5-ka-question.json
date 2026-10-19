@@ -3,10 +3,10 @@
   "level": "N5",
   "pattern": "〜か（question）",
   "title": "〜か（question）",
-  "meaning": "(dấu chấm hỏi) chuyển câu thành câu hỏi",
-  "meaningVi": "(dấu chấm hỏi) chuyển câu thành câu hỏi",
-  "connection": "Sentence + か",
-  "usageNotes": "Các câu hỏi lịch sự kết thúc bằng か và thường được viết bằng 。. Trong lời nói thông thường, か thường được bỏ đi và thay vào đó sử dụng ngữ điệu lên cao.",
+  "meaning": "Có... không? (Trợ từ nghi vấn cuối câu)",
+  "meaningVi": "Có... không? (Trợ từ nghi vấn cuối câu)",
+  "connection": "Câu + か",
+  "usageNotes": "Các câu hỏi lịch sự kết thúc bằng か và thường được viết bằng 。. Trong lời nói thông thường, か thường bị bỏ qua và thay vào đó sử dụng ngôn ngữ tăng tốc độ cao.",
   "examples": [
     {
       "ja": "これはあなたのかばんですか。",
@@ -41,13 +41,13 @@
       "targetGrammar": "〜か（question）",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "(dấu chấm hỏi) chuyển câu thành câu hỏi",
+        "Có... không? (Trợ từ nghi vấn cuối câu)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
         "Chỉ đối tượng trực tiếp của hành động",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜か（question）」 mang ý nghĩa: \"(dấu chấm hỏi) chuyển câu thành câu hỏi\"."
+      "explanation": "Mẫu 「〜か（question）」 mang ý nghĩa: \"Có... không? (Trợ từ nghi vấn cuối câu)\"."
     },
     {
       "id": "bunpou-n5-ka-question-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
-        "(dấu chấm hỏi) chuyển câu thành câu hỏi",
+        "Có... không? (Trợ từ nghi vấn cuối câu)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜か（question）」 mang ý nghĩa: \"(dấu chấm hỏi) chuyển câu thành câu hỏi\"."
+      "explanation": "Mẫu 「〜か（question）」 mang ý nghĩa: \"Có... không? (Trợ từ nghi vấn cuối câu)\"."
     },
     {
       "id": "bunpou-n5-ka-question-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "これはあなたのかばんですか。",
       "sentenceVi": "Đây có phải là túi của bạn?",
       "targetGrammar": "〜か（question）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"(dấu chấm hỏi) chuyển câu thành câu hỏi\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có... không? (Trợ từ nghi vấn cuối câu)\":",
       "options": [
         "〜で（place of action）",
         "〜と（and）",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜か（question）」 là gì?",
       "options": [
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
-        "(dấu chấm hỏi) chuyển câu thành câu hỏi",
+        "Có... không? (Trợ từ nghi vấn cuối câu)",
         "Với ; cùng với (một đối tác trong một hành động)",
         "Hoặc (sự lựa chọn giữa các danh từ)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜か（question）」 có nghĩa là: (dấu chấm hỏi) chuyển câu thành câu hỏi."
+      "explanation": "Mẫu 「〜か（question）」 mang ý nghĩa: \"Có... không? (Trợ từ nghi vấn cuối câu)\"."
     }
   ]
 }

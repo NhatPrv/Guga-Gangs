@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜たびに",
   "title": "〜たびに",
-  "meaning": "Mỗi lần... / Cứ mỗi dịp...",
-  "meaningVi": "Mỗi lần... / Cứ mỗi dịp...",
-  "connection": "Động từ (V)-dict / Danh từ (N) + の + たびに",
+  "meaning": "Mỗi lần... / Cứ mỗi dịp... là lại xảy ra việc đó",
+  "meaningVi": "Mỗi lần... / Cứ mỗi dịp... là lại xảy ra việc đó",
+  "connection": "Động từ thể từ điển (V-る) / Danh từ + の + たびに",
   "usageNotes": "Mỗi lần A xảy ra thì B cũng xảy ra. Nhấn mạnh hơn 〜と hoặc 〜ときはいつも.",
   "examples": [
     {
@@ -44,10 +44,10 @@
         "Không hẳn là... / Không nhất thiết là...",
         "Chắc chắn không... / Không đời nào...",
         "Thảo nào, hèn chi... / Đương nhiên là...",
-        "Mỗi lần... / Cứ mỗi dịp..."
+        "Mỗi lần... / Cứ mỗi dịp... là lại xảy ra việc đó"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜たびに」 mang ý nghĩa: \"Mỗi lần... / Cứ mỗi dịp...\"."
+      "explanation": "Mẫu 「〜たびに」 mang ý nghĩa: \"Mỗi lần... / Cứ mỗi dịp... là lại xảy ra việc đó\"."
     },
     {
       "id": "bunpou-n3-tabi-ni-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜たびに",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Mỗi lần... / Cứ mỗi dịp...",
+        "Mỗi lần... / Cứ mỗi dịp... là lại xảy ra việc đó",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Nên ; điều tốt nhất là (lời khuyên)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜たびに」 mang ý nghĩa: \"Mỗi lần... / Cứ mỗi dịp...\"."
+      "explanation": "Mẫu 「〜たびに」 mang ý nghĩa: \"Mỗi lần... / Cứ mỗi dịp... là lại xảy ra việc đó\"."
     },
     {
       "id": "bunpou-n3-tabi-ni-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "この写真を見るたびに、大学時代を思い出す。",
       "sentenceVi": "Mỗi lần nhìn bức ảnh này tôi lại nhớ về thời đại học của mình.",
       "targetGrammar": "〜たびに",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Mỗi lần... / Cứ mỗi dịp...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Mỗi lần... / Cứ mỗi dịp... là lại xảy ra việc đó\":",
       "options": [
         "〜ことにしている",
         "〜ことはない",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜たびに」 là gì?",
       "options": [
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
-        "Mỗi lần... / Cứ mỗi dịp...",
+        "Mỗi lần... / Cứ mỗi dịp... là lại xảy ra việc đó",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
         "Cố gắng ; cố gắng ; sắp sửa"
       ],
       "correctIndex": 1,
-      "explanation": "「〜たびに」 có nghĩa là: Mỗi lần... / Cứ mỗi dịp...."
+      "explanation": "Mẫu 「〜たびに」 mang ý nghĩa: \"Mỗi lần... / Cứ mỗi dịp... là lại xảy ra việc đó\"."
     }
   ]
 }

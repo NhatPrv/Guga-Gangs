@@ -3,10 +3,10 @@
   "level": "N3",
   "pattern": "〜づらい",
   "title": "〜づらい",
-  "meaning": "Khó ; khó khăn hoặc không thoải mái để",
-  "meaningVi": "Khó ; khó khăn hoặc không thoải mái để",
-  "connection": "Động từ (V)-stem + づらい",
-  "usageNotes": "Nhấn mạnh sự khó chịu về thể chất hoặc tâm lý của người thực hiện. 〜にくい (N4) khách quan hơn, mô tả bản chất của sự vật. N2 trang trọng: 〜がたい.",
+  "meaning": "Khó làm gì đó (Về mặt tâm lý, cảm xúc)",
+  "meaningVi": "Khó làm gì đó (Về mặt tâm lý, cảm xúc)",
+  "connection": "Động từ thể Masu bỏ ます + づらい",
+  "usageNotes": "Nhấn mạnh khó khăn về thể chất hoặc tâm lý của người thực hiện. 〜にくい (N4) khách quan hơn, mô tả bản chất của sự vật. N2 trang trọng: 〜がたい.",
   "examples": [
     {
       "ja": "この靴は少し小さくて、歩きづらい。",
@@ -43,11 +43,11 @@
       "options": [
         "Không hẳn là... / Không nhất thiết là...",
         "Thảo nào, hèn chi... / Đương nhiên là...",
-        "Khó ; khó khăn hoặc không thoải mái để",
+        "Khó làm gì đó (Về mặt tâm lý, cảm xúc)",
         "Chắc chắn không... / Không đời nào..."
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜づらい」 mang ý nghĩa: \"Khó ; khó khăn hoặc không thoải mái để\"."
+      "explanation": "Mẫu 「〜づらい」 mang ý nghĩa: \"Khó làm gì đó (Về mặt tâm lý, cảm xúc)\"."
     },
     {
       "id": "bunpou-n3-zurai-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
-        "Khó ; khó khăn hoặc không thoải mái để",
+        "Khó làm gì đó (Về mặt tâm lý, cảm xúc)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Nên ; điều tốt nhất là (lời khuyên)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜づらい」 mang ý nghĩa: \"Khó ; khó khăn hoặc không thoải mái để\"."
+      "explanation": "Mẫu 「〜づらい」 mang ý nghĩa: \"Khó làm gì đó (Về mặt tâm lý, cảm xúc)\"."
     },
     {
       "id": "bunpou-n3-zurai-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "この靴は少し小さくて、歩きづらい。",
       "sentenceVi": "Đôi giày này hơi nhỏ nên đi vào khó khăn.",
       "targetGrammar": "〜づらい",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Khó ; khó khăn hoặc không thoải mái để\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Khó làm gì đó (Về mặt tâm lý, cảm xúc)\":",
       "options": [
         "〜ことになっている",
         "〜づらい",
@@ -108,10 +108,10 @@
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
         "Cố gắng ; cố gắng ; sắp sửa",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
-        "Khó ; khó khăn hoặc không thoải mái để"
+        "Khó làm gì đó (Về mặt tâm lý, cảm xúc)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜づらい」 có nghĩa là: Khó ; khó khăn hoặc không thoải mái để."
+      "explanation": "Mẫu 「〜づらい」 mang ý nghĩa: \"Khó làm gì đó (Về mặt tâm lý, cảm xúc)\"."
     }
   ]
 }

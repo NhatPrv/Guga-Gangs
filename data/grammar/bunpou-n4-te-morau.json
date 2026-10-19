@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜てもらう",
   "title": "〜てもらう",
-  "meaning": "Được ai đó làm giúp cho việc gì...",
-  "meaningVi": "Được ai đó làm giúp cho việc gì...",
-  "connection": "Động từ (V)-te + もらう",
+  "meaning": "Được ai đó làm giúp cho việc gì",
+  "meaningVi": "Được ai đó làm giúp cho việc gì",
+  "connection": "Động từ thể Te (V-て) + もらう",
   "usageNotes": "Người nhận sự giúp đỡ là chủ ngữ và người thực hiện hành động được đánh dấu bằng に.",
   "examples": [
     {
@@ -43,10 +43,10 @@
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình...",
-        "Được ai đó làm giúp cho việc gì..."
+        "Được ai đó làm giúp cho việc gì"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜てもらう」 mang ý nghĩa: \"Được ai đó làm giúp cho việc gì...\"."
+      "explanation": "Mẫu 「〜てもらう」 mang ý nghĩa: \"Được ai đó làm giúp cho việc gì\"."
     },
     {
       "id": "bunpou-n4-te-morau-q2",
@@ -72,13 +72,13 @@
       "targetGrammar": "〜てもらう",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Được ai đó làm giúp cho việc gì...",
+        "Được ai đó làm giúp cho việc gì",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Thử làm gì đó...",
         "Làm sẵn gì đó trước (Chuẩn bị)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜てもらう」 mang ý nghĩa: \"Được ai đó làm giúp cho việc gì...\"."
+      "explanation": "Mẫu 「〜てもらう」 mang ý nghĩa: \"Được ai đó làm giúp cho việc gì\"."
     },
     {
       "id": "bunpou-n4-te-morau-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "先輩にレポートを見てもらった。",
       "sentenceVi": "Tôi đã nhờ một sinh viên năm cuối xem qua báo cáo của tôi.",
       "targetGrammar": "〜てもらう",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Được ai đó làm giúp cho việc gì...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Được ai đó làm giúp cho việc gì\":",
       "options": [
         "〜間 / 〜間に",
         "〜てもらう",
@@ -104,13 +104,13 @@
       "targetGrammar": "〜てもらう",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜てもらう」 là gì?",
       "options": [
-        "Được ai đó làm giúp cho việc gì...",
+        "Được ai đó làm giúp cho việc gì",
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Rõ ràng; có vẻ như; tôi nghe thấy",
         "Trông giống như; có vẻ ; có vẻ sắp"
       ],
       "correctIndex": 0,
-      "explanation": "「〜てもらう」 có nghĩa là: Được ai đó làm giúp cho việc gì...."
+      "explanation": "Mẫu 「〜てもらう」 mang ý nghĩa: \"Được ai đó làm giúp cho việc gì\"."
     }
   ]
 }

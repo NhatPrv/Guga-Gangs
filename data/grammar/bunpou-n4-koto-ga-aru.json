@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜ことがある",
   "title": "〜ことがある",
-  "meaning": "Đôi khi; có những lúc",
-  "meaningVi": "Đôi khi; có những lúc",
-  "connection": "Động từ (V)-dict / Động từ (V)-nai + ことがある",
+  "meaning": "Thỉnh thoảng có làm gì / Đôi khi xảy ra việc...",
+  "meaningVi": "Thỉnh thoảng có làm gì / Đôi khi xảy ra việc...",
+  "connection": "Động từ thể từ điển (V-る) / V-ない + ことがある",
   "usageNotes": "Sử dụng từ điển hoặc dạng ない. Với dạng quá khứ (〜たことがある) nó có nghĩa là 'đã từng làm trước đây'.",
   "examples": [
     {
@@ -44,10 +44,10 @@
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
-        "Đôi khi; có những lúc"
+        "Thỉnh thoảng có làm gì / Đôi khi xảy ra việc..."
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ことがある」 mang ý nghĩa: \"Đôi khi; có những lúc\"."
+      "explanation": "Mẫu 「〜ことがある」 mang ý nghĩa: \"Thỉnh thoảng có làm gì / Đôi khi xảy ra việc...\"."
     },
     {
       "id": "bunpou-n4-koto-ga-aru-q2",
@@ -76,10 +76,10 @@
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm sẵn gì đó trước (Chuẩn bị)",
-        "Đôi khi; có những lúc"
+        "Thỉnh thoảng có làm gì / Đôi khi xảy ra việc..."
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ことがある」 mang ý nghĩa: \"Đôi khi; có những lúc\"."
+      "explanation": "Mẫu 「〜ことがある」 mang ý nghĩa: \"Thỉnh thoảng có làm gì / Đôi khi xảy ra việc...\"."
     },
     {
       "id": "bunpou-n4-koto-ga-aru-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "忙しいときは、朝ご飯を食べないことがあります。",
       "sentenceVi": "Khi bận rộn, đôi khi tôi bỏ bữa sáng.",
       "targetGrammar": "〜ことがある",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đôi khi; có những lúc\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thỉnh thoảng có làm gì / Đôi khi xảy ra việc...\":",
       "options": [
         "〜てみる",
         "〜とき",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ことがある」 là gì?",
       "options": [
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
-        "Đôi khi; có những lúc",
+        "Thỉnh thoảng có làm gì / Đôi khi xảy ra việc...",
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Nghe nói là... (Truyền đạt lại thông tin)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜ことがある」 có nghĩa là: Đôi khi; có những lúc."
+      "explanation": "Mẫu 「〜ことがある」 mang ý nghĩa: \"Thỉnh thoảng có làm gì / Đôi khi xảy ra việc...\"."
     }
   ]
 }

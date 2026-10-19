@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜と（and）",
   "title": "〜と（and）",
-  "meaning": "Và, với... (Liệt kê đầy đủ hoặc cùng làm với ai)",
-  "meaningVi": "Và, với... (Liệt kê đầy đủ hoặc cùng làm với ai)",
-  "connection": "Danh từ (N) + と + Danh từ (N)",
+  "meaning": "Và, với... (Liệt kê đầy đủ toàn bộ đối tượng)",
+  "meaningVi": "Và, với... (Liệt kê đầy đủ toàn bộ đối tượng)",
+  "connection": "Danh từ 1 + と + Danh từ 2",
   "usageNotes": "と liệt kê mọi mục; để đưa ra một số ví dụ, hãy sử dụng や. Nó chỉ nối danh từ, không nối động từ hoặc tính từ.",
   "examples": [
     {
@@ -43,11 +43,11 @@
       "options": [
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
         "Chỉ đối tượng trực tiếp của hành động",
-        "Và, với... (Liệt kê đầy đủ hoặc cùng làm với ai)",
+        "Và, với... (Liệt kê đầy đủ toàn bộ đối tượng)",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜と（and）」 mang ý nghĩa: \"Và, với... (Liệt kê đầy đủ hoặc cùng làm với ai)\"."
+      "explanation": "Mẫu 「〜と（and）」 mang ý nghĩa: \"Và, với... (Liệt kê đầy đủ toàn bộ đối tượng)\"."
     },
     {
       "id": "bunpou-n5-to-and-q2",
@@ -76,10 +76,10 @@
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)",
-        "Và, với... (Liệt kê đầy đủ hoặc cùng làm với ai)"
+        "Và, với... (Liệt kê đầy đủ toàn bộ đối tượng)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜と（and）」 mang ý nghĩa: \"Và, với... (Liệt kê đầy đủ hoặc cùng làm với ai)\"."
+      "explanation": "Mẫu 「〜と（and）」 mang ý nghĩa: \"Và, với... (Liệt kê đầy đủ toàn bộ đối tượng)\"."
     },
     {
       "id": "bunpou-n5-to-and-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "かばんの中にペンとノートがあります。",
       "sentenceVi": "Trong túi của tôi có một cây bút và một cuốn sổ.",
       "targetGrammar": "〜と（and）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Và, với... (Liệt kê đầy đủ hoặc cùng làm với ai)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Và, với... (Liệt kê đầy đủ toàn bộ đối tượng)\":",
       "options": [
         "〜と（with）",
         "〜と（and）",
@@ -105,13 +105,13 @@
       "targetGrammar": "〜と（and）",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜と（and）」 là gì?",
       "options": [
-        "Và, với... (Liệt kê đầy đủ hoặc cùng làm với ai)",
+        "Và, với... (Liệt kê đầy đủ toàn bộ đối tượng)",
         "Cũng... (Biểu thị sự tương tự)",
         "Hoặc (sự lựa chọn giữa các danh từ)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)"
       ],
       "correctIndex": 0,
-      "explanation": "「〜と（and）」 có nghĩa là: Và, với... (Liệt kê đầy đủ hoặc cùng làm với ai)."
+      "explanation": "Mẫu 「〜と（and）」 mang ý nghĩa: \"Và, với... (Liệt kê đầy đủ toàn bộ đối tượng)\"."
     }
   ]
 }

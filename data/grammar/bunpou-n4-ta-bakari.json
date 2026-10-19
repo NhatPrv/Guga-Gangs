@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜たばかり",
   "title": "〜たばかり",
-  "meaning": "Vừa mới làm gì xong...",
-  "meaningVi": "Vừa mới làm gì xong...",
-  "connection": "Động từ (V)-ta + ばかり",
+  "meaning": "Vừa mới làm gì xong (Cảm giác vừa mới xảy ra)",
+  "meaningVi": "Vừa mới làm gì xong (Cảm giác vừa mới xảy ra)",
+  "connection": "Động từ thể Ta (V-た) + ばかり",
   "usageNotes": "Cho thấy người nói cảm thấy thời gian đã trôi qua rất ít, ngay cả khi đó là vài tuần trước. 〜たところ chỉ đề cập đến khoảnh khắc trước đây.",
   "examples": [
     {
@@ -43,11 +43,11 @@
       "options": [
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình...",
-        "Vừa mới làm gì xong...",
+        "Vừa mới làm gì xong (Cảm giác vừa mới xảy ra)",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜たばかり」 mang ý nghĩa: \"Vừa mới làm gì xong...\"."
+      "explanation": "Mẫu 「〜たばかり」 mang ý nghĩa: \"Vừa mới làm gì xong (Cảm giác vừa mới xảy ra)\"."
     },
     {
       "id": "bunpou-n4-ta-bakari-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜たばかり",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Vừa mới làm gì xong...",
+        "Vừa mới làm gì xong (Cảm giác vừa mới xảy ra)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm sẵn gì đó trước (Chuẩn bị)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜たばかり」 mang ý nghĩa: \"Vừa mới làm gì xong...\"."
+      "explanation": "Mẫu 「〜たばかり」 mang ý nghĩa: \"Vừa mới làm gì xong (Cảm giác vừa mới xảy ra)\"."
     },
     {
       "id": "bunpou-n4-ta-bakari-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "日本に来たばかりなので、まだ日本語がよく分かりません。",
       "sentenceVi": "Mình mới sang Nhật nên chưa hiểu tiếng Nhật lắm.",
       "targetGrammar": "〜たばかり",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Vừa mới làm gì xong...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Vừa mới làm gì xong (Cảm giác vừa mới xảy ra)\":",
       "options": [
         "〜とき",
         "〜てある",
@@ -107,11 +107,11 @@
       "options": [
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Nghe nói là... (Truyền đạt lại thông tin)",
-        "Vừa mới làm gì xong...",
+        "Vừa mới làm gì xong (Cảm giác vừa mới xảy ra)",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
       ],
       "correctIndex": 2,
-      "explanation": "「〜たばかり」 có nghĩa là: Vừa mới làm gì xong...."
+      "explanation": "Mẫu 「〜たばかり」 mang ý nghĩa: \"Vừa mới làm gì xong (Cảm giác vừa mới xảy ra)\"."
     }
   ]
 }

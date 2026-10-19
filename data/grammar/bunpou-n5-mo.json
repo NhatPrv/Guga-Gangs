@@ -3,8 +3,8 @@
   "level": "N5",
   "pattern": "〜も",
   "title": "〜も",
-  "meaning": "Cũng... (Biểu thị sự tương tự)",
-  "meaningVi": "Cũng... (Biểu thị sự tương tự)",
+  "meaning": "Cũng... (Biểu thị sự đồng nhất, tương tự)",
+  "meaningVi": "Cũng... (Biểu thị sự đồng nhất, tương tự)",
   "connection": "Danh từ (N) + も",
   "usageNotes": "も thay thế は, が và を, nhưng đứng sau các trợ từ khác: 京都にも行きました.",
   "examples": [
@@ -43,11 +43,11 @@
       "options": [
         "Chỉ đối tượng trực tiếp của hành động",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
-        "Cũng... (Biểu thị sự tương tự)",
+        "Cũng... (Biểu thị sự đồng nhất, tương tự)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜も」 mang ý nghĩa: \"Cũng... (Biểu thị sự tương tự)\"."
+      "explanation": "Mẫu 「〜も」 mang ý nghĩa: \"Cũng... (Biểu thị sự đồng nhất, tương tự)\"."
     },
     {
       "id": "bunpou-n5-mo-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Tới (người nhận hoặc là mục tiêu của một hành động)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
-        "Cũng... (Biểu thị sự tương tự)",
+        "Cũng... (Biểu thị sự đồng nhất, tương tự)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜も」 mang ý nghĩa: \"Cũng... (Biểu thị sự tương tự)\"."
+      "explanation": "Mẫu 「〜も」 mang ý nghĩa: \"Cũng... (Biểu thị sự đồng nhất, tương tự)\"."
     },
     {
       "id": "bunpou-n5-mo-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "私も学生です。",
       "sentenceVi": "Tôi cũng là sinh viên.",
       "targetGrammar": "〜も",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cũng... (Biểu thị sự tương tự)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cũng... (Biểu thị sự đồng nhất, tương tự)\":",
       "options": [
         "〜も",
         "〜で（means）",
@@ -105,13 +105,13 @@
       "targetGrammar": "〜も",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜も」 là gì?",
       "options": [
-        "Cũng... (Biểu thị sự tương tự)",
+        "Cũng... (Biểu thị sự đồng nhất, tương tự)",
         "Hoặc (sự lựa chọn giữa các danh từ)",
         "Với ; cùng với (một đối tác trong một hành động)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)"
       ],
       "correctIndex": 0,
-      "explanation": "「〜も」 có nghĩa là: Cũng... (Biểu thị sự tương tự)."
+      "explanation": "Mẫu 「〜も」 mang ý nghĩa: \"Cũng... (Biểu thị sự đồng nhất, tương tự)\"."
     }
   ]
 }

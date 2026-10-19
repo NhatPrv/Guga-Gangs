@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜たことがある",
   "title": "〜たことがある",
-  "meaning": "Đã từng làm gì đó (Kinh nghiệm quá khứ)",
-  "meaningVi": "Đã từng làm gì đó (Kinh nghiệm quá khứ)",
-  "connection": "Động từ (V)-ta + ことがある",
+  "meaning": "Đã từng làm gì đó (Trải nghiệm quá khứ)",
+  "meaningVi": "Đã từng làm gì đó (Trải nghiệm quá khứ)",
+  "connection": "Động từ thể Ta (V-た) + ことがある",
   "usageNotes": "Nói về kinh nghiệm sống chứ không phải việc vừa làm: きのう食べたことがある là sai. Phủ định 〜たことがありません có nghĩa là 'chưa bao giờ'.",
   "examples": [
     {
@@ -42,11 +42,11 @@
       "options": [
         "Chỉ đối tượng trực tiếp của hành động",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
-        "Đã từng làm gì đó (Kinh nghiệm quá khứ)",
+        "Đã từng làm gì đó (Trải nghiệm quá khứ)",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜たことがある」 mang ý nghĩa: \"Đã từng làm gì đó (Kinh nghiệm quá khứ)\"."
+      "explanation": "Mẫu 「〜たことがある」 mang ý nghĩa: \"Đã từng làm gì đó (Trải nghiệm quá khứ)\"."
     },
     {
       "id": "bunpou-n5-ta-koto-ga-aru-q2",
@@ -73,12 +73,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
-        "Đã từng làm gì đó (Kinh nghiệm quá khứ)",
+        "Đã từng làm gì đó (Trải nghiệm quá khứ)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜たことがある」 mang ý nghĩa: \"Đã từng làm gì đó (Kinh nghiệm quá khứ)\"."
+      "explanation": "Mẫu 「〜たことがある」 mang ý nghĩa: \"Đã từng làm gì đó (Trải nghiệm quá khứ)\"."
     },
     {
       "id": "bunpou-n5-ta-koto-ga-aru-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "富士山に登ったことがあります。",
       "sentenceVi": "Tôi đã leo núi Phú Sĩ.",
       "targetGrammar": "〜たことがある",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đã từng làm gì đó (Kinh nghiệm quá khứ)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đã từng làm gì đó (Trải nghiệm quá khứ)\":",
       "options": [
         "〜で（means）",
         "〜で（place of action）",
@@ -105,12 +105,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜たことがある」 là gì?",
       "options": [
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
-        "Đã từng làm gì đó (Kinh nghiệm quá khứ)",
+        "Đã từng làm gì đó (Trải nghiệm quá khứ)",
         "Hoặc (sự lựa chọn giữa các danh từ)",
         "Với ; cùng với (một đối tác trong một hành động)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜たことがある」 có nghĩa là: Đã từng làm gì đó (Kinh nghiệm quá khứ)."
+      "explanation": "Mẫu 「〜たことがある」 mang ý nghĩa: \"Đã từng làm gì đó (Trải nghiệm quá khứ)\"."
     }
   ]
 }

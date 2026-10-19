@@ -3,10 +3,10 @@
   "level": "N5",
   "pattern": "〜より",
   "title": "〜より",
-  "meaning": "Hơn so với... (Dùng trong câu so sánh)",
-  "meaningVi": "Hơn so với... (Dùng trong câu so sánh)",
+  "meaning": "Hơn so với... (Dùng trong câu so sánh hơn)",
+  "meaningVi": "Hơn so với... (Dùng trong câu so sánh hơn)",
   "connection": "Danh từ (N) + より",
-  "usageNotes": "Trong X は Y より + tính từ, Y là tiêu chuẩn. Tính từ tiếng Nhật không có dạng '-er'; より làm công việc đó.",
+  "usageNotes": "Trong X は Y より + tính từ, Y là tiêu chuẩn. Tính từ tiếng Nhật không có dạng '-er'; Tôi đang làm công việc đó.",
   "examples": [
     {
       "ja": "今日はきのうより寒いです。",
@@ -44,10 +44,10 @@
         "Chỉ đối tượng trực tiếp của hành động",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
-        "Hơn so với... (Dùng trong câu so sánh)"
+        "Hơn so với... (Dùng trong câu so sánh hơn)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜より」 mang ý nghĩa: \"Hơn so với... (Dùng trong câu so sánh)\"."
+      "explanation": "Mẫu 「〜より」 mang ý nghĩa: \"Hơn so với... (Dùng trong câu so sánh hơn)\"."
     },
     {
       "id": "bunpou-n5-yori-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜より",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Hơn so với... (Dùng trong câu so sánh)",
+        "Hơn so với... (Dùng trong câu so sánh hơn)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜より」 mang ý nghĩa: \"Hơn so với... (Dùng trong câu so sánh)\"."
+      "explanation": "Mẫu 「〜より」 mang ý nghĩa: \"Hơn so với... (Dùng trong câu so sánh hơn)\"."
     },
     {
       "id": "bunpou-n5-yori-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "今日はきのうより寒いです。",
       "sentenceVi": "Hôm nay lạnh hơn hôm qua.",
       "targetGrammar": "〜より",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hơn so với... (Dùng trong câu so sánh)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hơn so với... (Dùng trong câu so sánh hơn)\":",
       "options": [
         "〜より",
         "〜で（means）",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜より」 là gì?",
       "options": [
         "Với ; cùng với (một đối tác trong một hành động)",
-        "Hơn so với... (Dùng trong câu so sánh)",
+        "Hơn so với... (Dùng trong câu so sánh hơn)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
         "Hoặc (sự lựa chọn giữa các danh từ)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜より」 có nghĩa là: Hơn so với... (Dùng trong câu so sánh)."
+      "explanation": "Mẫu 「〜より」 mang ý nghĩa: \"Hơn so với... (Dùng trong câu so sánh hơn)\"."
     }
   ]
 }

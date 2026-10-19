@@ -3,8 +3,8 @@
   "level": "N4",
   "pattern": "〜せる / 〜させる",
   "title": "〜せる / 〜させる",
-  "meaning": "Bắt ai đó làm gì; để ai đó làm (nguyên nhân)",
-  "meaningVi": "Bắt ai đó làm gì; để ai đó làm (nguyên nhân)",
+  "meaning": "Bắt ai đó làm gì; để ai đó làm việc (nguyên nhân)",
+  "meaningVi": "Bắt ai đó làm gì; để ai đó làm việc (nguyên nhân)",
   "connection": "Động từ (V)-nai stem + せる (Group 1) / Động từ (V)-nai stem + させる (Group 2)",
   "usageNotes": "Bất quy tắc: する → させる, 来る → 来させる. Với nội động từ người ta dùng を; với động từ chuyển tiếp, に. Bối cảnh quyết định 'làm' hoặc 'cho phép'.",
   "examples": [
@@ -41,13 +41,13 @@
       "targetGrammar": "〜せる / 〜させる",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Bắt ai đó làm gì; để ai đó làm (nguyên nhân)",
+        "Bắt ai đó làm gì; để ai đó làm việc (nguyên nhân)",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜せる / 〜させる」 mang ý nghĩa: \"Bắt ai đó làm gì; để ai đó làm (nguyên nhân)\"."
+      "explanation": "Mẫu 「〜せる / 〜させる」 mang ý nghĩa: \"Bắt ai đó làm gì; để ai đó làm việc (nguyên nhân)\"."
     },
     {
       "id": "bunpou-n4-seru-saseru-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜せる / 〜させる",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Bắt ai đó làm gì; để ai đó làm (nguyên nhân)",
+        "Bắt ai đó làm gì; để ai đó làm việc (nguyên nhân)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm sẵn gì đó trước (Chuẩn bị)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜せる / 〜させる」 mang ý nghĩa: \"Bắt ai đó làm gì; để ai đó làm (nguyên nhân)\"."
+      "explanation": "Mẫu 「〜せる / 〜させる」 mang ý nghĩa: \"Bắt ai đó làm gì; để ai đó làm việc (nguyên nhân)\"."
     },
     {
       "id": "bunpou-n4-seru-saseru-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "母は毎日弟に野菜を食べさせる。",
       "sentenceVi": "Mẹ tôi bắt em trai tôi ăn rau mỗi ngày.",
       "targetGrammar": "〜せる / 〜させる",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bắt ai đó làm gì; để ai đó làm (nguyên nhân)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bắt ai đó làm gì; để ai đó làm việc (nguyên nhân)\":",
       "options": [
         "〜せる / 〜させる",
         "〜てみる",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜せる / 〜させる」 là gì?",
       "options": [
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
-        "Bắt ai đó làm gì; để ai đó làm (nguyên nhân)",
+        "Bắt ai đó làm gì; để ai đó làm việc (nguyên nhân)",
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trông giống như; có vẻ ; có vẻ sắp"
       ],
       "correctIndex": 1,
-      "explanation": "「〜せる / 〜させる」 có nghĩa là: Bắt ai đó làm gì; để ai đó làm (nguyên nhân)."
+      "explanation": "Mẫu 「〜せる / 〜させる」 mang ý nghĩa: \"Bắt ai đó làm gì; để ai đó làm việc (nguyên nhân)\"."
     }
   ]
 }

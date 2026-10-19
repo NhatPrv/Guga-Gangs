@@ -3,10 +3,10 @@
   "level": "N5",
   "pattern": "〜ないでください",
   "title": "〜ないでください",
-  "meaning": "Xin đừng... / Không được làm gì đó",
-  "meaningVi": "Xin đừng... / Không được làm gì đó",
-  "connection": "Động từ (V)-nai + でください",
-  "usageNotes": "Nhẹ nhàng hơn 〜てはいけません. Trong cách nói thông thường ください được lược bỏ: 見ないで.",
+  "meaning": "Xin đừng... / Vui lòng không làm gì",
+  "meaningVi": "Xin đừng... / Vui lòng không làm gì",
+  "connection": "Động từ thể Nai (V-ない) + でください",
+  "usageNotes": "Một cách kín đáo hơn 〜てはいけません. Trong cách nói thông thường ください được lược bỏ: 見ないで.",
   "examples": [
     {
       "ja": "教室で食べないでください。",
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
-        "Xin đừng... / Không được làm gì đó",
+        "Xin đừng... / Vui lòng không làm gì",
         "Chỉ đối tượng trực tiếp của hành động",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜ないでください」 mang ý nghĩa: \"Xin đừng... / Không được làm gì đó\"."
+      "explanation": "Mẫu 「〜ないでください」 mang ý nghĩa: \"Xin đừng... / Vui lòng không làm gì\"."
     },
     {
       "id": "bunpou-n5-naide-kudasai-q2",
@@ -76,10 +76,10 @@
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)",
-        "Xin đừng... / Không được làm gì đó"
+        "Xin đừng... / Vui lòng không làm gì"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ないでください」 mang ý nghĩa: \"Xin đừng... / Không được làm gì đó\"."
+      "explanation": "Mẫu 「〜ないでください」 mang ý nghĩa: \"Xin đừng... / Vui lòng không làm gì\"."
     },
     {
       "id": "bunpou-n5-naide-kudasai-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "教室で食べないでください。",
       "sentenceVi": "Xin vui lòng không ăn trong lớp học.",
       "targetGrammar": "〜ないでください",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Xin đừng... / Không được làm gì đó\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Xin đừng... / Vui lòng không làm gì\":",
       "options": [
         "〜で（means）",
         "〜で（place of action）",
@@ -105,13 +105,13 @@
       "targetGrammar": "〜ないでください",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ないでください」 là gì?",
       "options": [
-        "Xin đừng... / Không được làm gì đó",
+        "Xin đừng... / Vui lòng không làm gì",
         "Hoặc (sự lựa chọn giữa các danh từ)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
         "Với ; cùng với (một đối tác trong một hành động)"
       ],
       "correctIndex": 0,
-      "explanation": "「〜ないでください」 có nghĩa là: Xin đừng... / Không được làm gì đó."
+      "explanation": "Mẫu 「〜ないでください」 mang ý nghĩa: \"Xin đừng... / Vui lòng không làm gì\"."
     }
   ]
 }

@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜に（indirect object）",
   "title": "〜に（indirect object）",
-  "meaning": "Tới (người nhận hoặc là mục tiêu của một hành động)",
-  "meaningVi": "Tới (người nhận hoặc là mục tiêu của một hành động)",
-  "connection": "Danh từ (N) + に",
+  "meaning": "Cho, với, đối với... (Chỉ đối tượng tiếp nhận)",
+  "meaningVi": "Cho, với, đối với... (Chỉ đối tượng tiếp nhận)",
+  "connection": "Người (N) + に + Động từ",
   "usageNotes": "Phổ biến với あげる, 貸す, 教える, 見せる, 電話をかける và 会う. Với もらう và 借りる, に đánh dấu người mà bạn nhận được thứ gì đó.",
   "examples": [
     {
@@ -43,10 +43,10 @@
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Chỉ đối tượng trực tiếp của hành động",
-        "Tới (người nhận hoặc là mục tiêu của một hành động)"
+        "Cho, với, đối với... (Chỉ đối tượng tiếp nhận)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜に（indirect object）」 mang ý nghĩa: \"Tới (người nhận hoặc là mục tiêu của một hành động)\"."
+      "explanation": "Mẫu 「〜に（indirect object）」 mang ý nghĩa: \"Cho, với, đối với... (Chỉ đối tượng tiếp nhận)\"."
     },
     {
       "id": "bunpou-n5-ni-indirect-object-q2",
@@ -74,11 +74,11 @@
       "options": [
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Tại, ở... (Chỉ nơi diễn ra hành động)",
-        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Cho, với, đối với... (Chỉ đối tượng tiếp nhận)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜に（indirect object）」 mang ý nghĩa: \"Tới (người nhận hoặc là mục tiêu của một hành động)\"."
+      "explanation": "Mẫu 「〜に（indirect object）」 mang ý nghĩa: \"Cho, với, đối với... (Chỉ đối tượng tiếp nhận)\"."
     },
     {
       "id": "bunpou-n5-ni-indirect-object-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "母に手紙を書きます。",
       "sentenceVi": "Tôi định viết thư cho mẹ tôi.",
       "targetGrammar": "〜に（indirect object）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tới (người nhận hoặc là mục tiêu của một hành động)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Cho, với, đối với... (Chỉ đối tượng tiếp nhận)\":",
       "options": [
         "〜と（and）",
         "〜に（indirect object）",
@@ -106,11 +106,11 @@
       "options": [
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
         "Cũng... (Biểu thị sự tương tự)",
-        "Tới (người nhận hoặc là mục tiêu của một hành động)",
+        "Cho, với, đối với... (Chỉ đối tượng tiếp nhận)",
         "Hoặc (sự lựa chọn giữa các danh từ)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜に（indirect object）」 có nghĩa là: Tới (người nhận hoặc là mục tiêu của một hành động)."
+      "explanation": "Mẫu 「〜に（indirect object）」 mang ý nghĩa: \"Cho, với, đối với... (Chỉ đối tượng tiếp nhận)\"."
     }
   ]
 }

@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜に対して",
   "title": "〜に対して",
-  "meaning": "Đối với... / Ngược lại với...",
-  "meaningVi": "Đối với... / Ngược lại với...",
-  "connection": "Danh từ (N) + に対して / Danh từ (N) + に対する + Danh từ (N) / Động từ (V)-plain / i-Adj / na-Adj + な + のに対して",
+  "meaning": "Đối với... / Trái ngược lại với...",
+  "meaningVi": "Đối với... / Trái ngược lại với...",
+  "connection": "Danh từ (N) + に対して / Thể thông thường + のに対して",
   "usageNotes": "Đánh dấu mục tiêu của một hành động, thái độ hoặc cảm giác, hoặc đối chiếu hai sự vật. So sánh 〜について, đánh dấu chủ đề đang được thảo luận hơn là mục tiêu.",
   "examples": [
     {
@@ -41,13 +41,13 @@
       "targetGrammar": "〜に対して",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Đối với... / Ngược lại với...",
+        "Đối với... / Trái ngược lại với...",
         "Chắc chắn không... / Không đời nào...",
         "Không hẳn là... / Không nhất thiết là...",
         "Thảo nào, hèn chi... / Đương nhiên là..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜に対して」 mang ý nghĩa: \"Đối với... / Ngược lại với...\"."
+      "explanation": "Mẫu 「〜に対して」 mang ý nghĩa: \"Đối với... / Trái ngược lại với...\"."
     },
     {
       "id": "bunpou-n3-ni-taishite-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Nên ; điều tốt nhất là (lời khuyên)",
-        "Đối với... / Ngược lại với...",
+        "Đối với... / Trái ngược lại với...",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜に対して」 mang ý nghĩa: \"Đối với... / Ngược lại với...\"."
+      "explanation": "Mẫu 「〜に対して」 mang ý nghĩa: \"Đối với... / Trái ngược lại với...\"."
     },
     {
       "id": "bunpou-n3-ni-taishite-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "お客様に対して、そんな言い方をしてはいけない。",
       "sentenceVi": "Bạn không được nói như vậy với khách hàng.",
       "targetGrammar": "〜に対して",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đối với... / Ngược lại với...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đối với... / Trái ngược lại với...\":",
       "options": [
         "〜ことはない",
         "〜ことになっている",
@@ -108,10 +108,10 @@
         "Cố gắng ; cố gắng ; sắp sửa",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
-        "Đối với... / Ngược lại với..."
+        "Đối với... / Trái ngược lại với..."
       ],
       "correctIndex": 3,
-      "explanation": "「〜に対して」 có nghĩa là: Đối với... / Ngược lại với...."
+      "explanation": "Mẫu 「〜に対して」 mang ý nghĩa: \"Đối với... / Trái ngược lại với...\"."
     }
   ]
 }

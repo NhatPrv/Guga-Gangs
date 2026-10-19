@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜ばかり",
   "title": "〜ばかり",
-  "meaning": "Toàn là... / Cứ mãi...",
-  "meaningVi": "Toàn là... / Cứ mãi...",
-  "connection": "Danh từ (N) + ばかり",
+  "meaning": "Toàn là... / Cứ mãi... (Tần suất dày đặc gây phiền toái)",
+  "meaningVi": "Toàn là... / Cứ mãi... (Tần suất dày đặc gây phiền toái)",
+  "connection": "Danh từ (N) + ばかり / V-て + ばかり",
   "usageNotes": "Thường ngụ ý có quá nhiều thứ. 〜てばかりいる (N3) và 〜たばかり ('vừa làm') là những điểm riêng biệt.",
   "examples": [
     {
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
-        "Toàn là... / Cứ mãi...",
+        "Toàn là... / Cứ mãi... (Tần suất dày đặc gây phiền toái)",
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình..."
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜ばかり」 mang ý nghĩa: \"Toàn là... / Cứ mãi...\"."
+      "explanation": "Mẫu 「〜ばかり」 mang ý nghĩa: \"Toàn là... / Cứ mãi... (Tần suất dày đặc gây phiền toái)\"."
     },
     {
       "id": "bunpou-n4-bakari-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
-        "Toàn là... / Cứ mãi...",
+        "Toàn là... / Cứ mãi... (Tần suất dày đặc gây phiền toái)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ばかり」 mang ý nghĩa: \"Toàn là... / Cứ mãi...\"."
+      "explanation": "Mẫu 「〜ばかり」 mang ý nghĩa: \"Toàn là... / Cứ mãi... (Tần suất dày đặc gây phiền toái)\"."
     },
     {
       "id": "bunpou-n4-bakari-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "弟は肉ばかり食べて、野菜を食べない。",
       "sentenceVi": "Em trai tôi không ăn gì ngoài thịt và không đụng đến rau.",
       "targetGrammar": "〜ばかり",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Toàn là... / Cứ mãi...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Toàn là... / Cứ mãi... (Tần suất dày đặc gây phiền toái)\":",
       "options": [
         "〜とき",
         "〜ばかり",
@@ -105,13 +105,13 @@
       "targetGrammar": "〜ばかり",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ばかり」 là gì?",
       "options": [
-        "Toàn là... / Cứ mãi...",
+        "Toàn là... / Cứ mãi... (Tần suất dày đặc gây phiền toái)",
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Nghe nói là... (Truyền đạt lại thông tin)"
       ],
       "correctIndex": 0,
-      "explanation": "「〜ばかり」 có nghĩa là: Toàn là... / Cứ mãi...."
+      "explanation": "Mẫu 「〜ばかり」 mang ý nghĩa: \"Toàn là... / Cứ mãi... (Tần suất dày đặc gây phiền toái)\"."
     }
   ]
 }

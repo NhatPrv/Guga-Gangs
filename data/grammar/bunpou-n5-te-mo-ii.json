@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜てもいい",
   "title": "〜てもいい",
-  "meaning": "Có thể... / Được phép làm gì đó (Xin phép & Cho phép)",
-  "meaningVi": "Có thể... / Được phép làm gì đó (Xin phép & Cho phép)",
-  "connection": "Động từ (V)-te + もいい",
+  "meaning": "Có thể... / Được phép làm gì (Xin phép & Cho phép)",
+  "meaningVi": "Có thể... / Được phép làm gì (Xin phép & Cho phép)",
+  "connection": "Động từ thể Te (V-て) + もいいです[か]",
   "usageNotes": "Thêm ですか để xin phép. Một lời từ chối lịch sự thường chỉ là すみません、ちょっと….",
   "examples": [
     {
@@ -42,11 +42,11 @@
       "options": [
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
         "Chỉ đối tượng trực tiếp của hành động",
-        "Có thể... / Được phép làm gì đó (Xin phép & Cho phép)",
+        "Có thể... / Được phép làm gì (Xin phép & Cho phép)",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜てもいい」 mang ý nghĩa: \"Có thể... / Được phép làm gì đó (Xin phép & Cho phép)\"."
+      "explanation": "Mẫu 「〜てもいい」 mang ý nghĩa: \"Có thể... / Được phép làm gì (Xin phép & Cho phép)\"."
     },
     {
       "id": "bunpou-n5-te-mo-ii-q2",
@@ -74,11 +74,11 @@
       "options": [
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
-        "Có thể... / Được phép làm gì đó (Xin phép & Cho phép)",
+        "Có thể... / Được phép làm gì (Xin phép & Cho phép)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜てもいい」 mang ý nghĩa: \"Có thể... / Được phép làm gì đó (Xin phép & Cho phép)\"."
+      "explanation": "Mẫu 「〜てもいい」 mang ý nghĩa: \"Có thể... / Được phép làm gì (Xin phép & Cho phép)\"."
     },
     {
       "id": "bunpou-n5-te-mo-ii-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "この辞書を使ってもいいですか。",
       "sentenceVi": "Tôi có thể sử dụng từ điển này được không?",
       "targetGrammar": "〜てもいい",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có thể... / Được phép làm gì đó (Xin phép & Cho phép)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có thể... / Được phép làm gì (Xin phép & Cho phép)\":",
       "options": [
         "〜で（place of action）",
         "〜と（and）",
@@ -105,12 +105,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜てもいい」 là gì?",
       "options": [
         "Hoặc (sự lựa chọn giữa các danh từ)",
-        "Có thể... / Được phép làm gì đó (Xin phép & Cho phép)",
+        "Có thể... / Được phép làm gì (Xin phép & Cho phép)",
         "Với ; cùng với (một đối tác trong một hành động)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜てもいい」 có nghĩa là: Có thể... / Được phép làm gì đó (Xin phép & Cho phép)."
+      "explanation": "Mẫu 「〜てもいい」 mang ý nghĩa: \"Có thể... / Được phép làm gì (Xin phép & Cho phép)\"."
     }
   ]
 }

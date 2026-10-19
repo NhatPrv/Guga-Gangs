@@ -3,10 +3,10 @@
   "level": "N4",
   "pattern": "〜始める / 〜終わる / 〜続ける",
   "title": "〜始める / 〜終わる / 〜続ける",
-  "meaning": "Bắt đầu làm; làm xong; tiếp tục làm",
-  "meaningVi": "Bắt đầu làm; làm xong; tiếp tục làm",
+  "meaning": "Bắt đầu công việc; làm xong; tiếp tục làm",
+  "meaningVi": "Bắt đầu công việc; làm xong; tiếp tục làm",
   "connection": "Động từ (V)-stem + 始める / Động từ (V)-stem + 終わる / Động từ (V)-stem + 続ける",
-  "usageNotes": "〜終わる được dùng với những hành động có kết thúc rõ ràng (読む, 食べる, 書く). 〜終える là một cách thay thế trang trọng hơn.",
+  "usageNotes": "〜終わる được sử dụng với những hành động có kết thúc rõ ràng (読む, 食べる, 書く). 〜終える là một cách thay thế trang quan trọng hơn.",
   "examples": [
     {
       "ja": "去年からギターを習い始めました。",
@@ -43,11 +43,11 @@
       "options": [
         "Ai đó làm giúp việc gì cho mình...",
         "Làm gì đó giúp cho ai...",
-        "Bắt đầu làm; làm xong; tiếp tục làm",
+        "Bắt đầu công việc; làm xong; tiếp tục làm",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜始める / 〜終わる / 〜続ける」 mang ý nghĩa: \"Bắt đầu làm; làm xong; tiếp tục làm\"."
+      "explanation": "Mẫu 「〜始める / 〜終わる / 〜続ける」 mang ý nghĩa: \"Bắt đầu công việc; làm xong; tiếp tục làm\"."
     },
     {
       "id": "bunpou-n4-hajimeru-owaru-tsuzukeru-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
-        "Bắt đầu làm; làm xong; tiếp tục làm",
+        "Bắt đầu công việc; làm xong; tiếp tục làm",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Làm sẵn gì đó trước (Chuẩn bị)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜始める / 〜終わる / 〜続ける」 mang ý nghĩa: \"Bắt đầu làm; làm xong; tiếp tục làm\"."
+      "explanation": "Mẫu 「〜始める / 〜終わる / 〜続ける」 mang ý nghĩa: \"Bắt đầu công việc; làm xong; tiếp tục làm\"."
     },
     {
       "id": "bunpou-n4-hajimeru-owaru-tsuzukeru-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "去年からギターを習い始めました。",
       "sentenceVi": "Tôi bắt đầu học guitar vào năm ngoái.",
       "targetGrammar": "〜始める / 〜終わる / 〜続ける",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bắt đầu làm; làm xong; tiếp tục làm\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bắt đầu công việc; làm xong; tiếp tục làm\":",
       "options": [
         "〜始める / 〜終わる / 〜続ける",
         "〜とき",
@@ -108,10 +108,10 @@
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Nghe nói là... (Truyền đạt lại thông tin)",
-        "Bắt đầu làm; làm xong; tiếp tục làm"
+        "Bắt đầu công việc; làm xong; tiếp tục làm"
       ],
       "correctIndex": 3,
-      "explanation": "「〜始める / 〜終わる / 〜続ける」 có nghĩa là: Bắt đầu làm; làm xong; tiếp tục làm."
+      "explanation": "Mẫu 「〜始める / 〜終わる / 〜続ける」 mang ý nghĩa: \"Bắt đầu công việc; làm xong; tiếp tục làm\"."
     }
   ]
 }

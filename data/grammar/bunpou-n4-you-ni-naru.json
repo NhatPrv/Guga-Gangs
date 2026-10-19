@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜ようになる",
   "title": "〜ようになる",
-  "meaning": "Trở nên có thể làm gì (Thay đổi trạng thái)",
-  "meaningVi": "Trở nên có thể làm gì (Thay đổi trạng thái)",
-  "connection": "Động từ (V)-dict / Động từ (V)-nai + ようになる",
+  "meaning": "Trở nên có thể làm được việc gì (Thay đổi trạng thái)",
+  "meaningVi": "Trở nên có thể làm được việc gì (Thay đổi trạng thái)",
+  "connection": "Động từ thể khả năng / V-る / V-ない + ようになる",
   "usageNotes": "Thường được sử dụng với các động từ tiềm năng. Đối với 'không còn nữa', 〜なくなる thường tự nhiên hơn 〜ないようになる.",
   "examples": [
     {
@@ -41,13 +41,13 @@
       "targetGrammar": "〜ようになる",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Trở nên có thể làm gì (Thay đổi trạng thái)",
+        "Trở nên có thể làm được việc gì (Thay đổi trạng thái)",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ようになる」 mang ý nghĩa: \"Trở nên có thể làm gì (Thay đổi trạng thái)\"."
+      "explanation": "Mẫu 「〜ようになる」 mang ý nghĩa: \"Trở nên có thể làm được việc gì (Thay đổi trạng thái)\"."
     },
     {
       "id": "bunpou-n4-you-ni-naru-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜ようになる",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Trở nên có thể làm gì (Thay đổi trạng thái)",
+        "Trở nên có thể làm được việc gì (Thay đổi trạng thái)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ようになる」 mang ý nghĩa: \"Trở nên có thể làm gì (Thay đổi trạng thái)\"."
+      "explanation": "Mẫu 「〜ようになる」 mang ý nghĩa: \"Trở nên có thể làm được việc gì (Thay đổi trạng thái)\"."
     },
     {
       "id": "bunpou-n4-you-ni-naru-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "練習して、自転車に乗れるようになりました。",
       "sentenceVi": "Sau khi luyện tập, tôi đã có thể đi xe đạp.",
       "targetGrammar": "〜ようになる",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trở nên có thể làm gì (Thay đổi trạng thái)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trở nên có thể làm được việc gì (Thay đổi trạng thái)\":",
       "options": [
         "〜とき",
         "〜ようになる",
@@ -107,11 +107,11 @@
       "options": [
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "Trở nên có thể làm gì (Thay đổi trạng thái)",
+        "Trở nên có thể làm được việc gì (Thay đổi trạng thái)",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
       ],
       "correctIndex": 2,
-      "explanation": "「〜ようになる」 có nghĩa là: Trở nên có thể làm gì (Thay đổi trạng thái)."
+      "explanation": "Mẫu 「〜ようになる」 mang ý nghĩa: \"Trở nên có thể làm được việc gì (Thay đổi trạng thái)\"."
     }
   ]
 }

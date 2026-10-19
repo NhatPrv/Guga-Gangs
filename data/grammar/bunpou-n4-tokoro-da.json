@@ -3,8 +3,8 @@
   "level": "N4",
   "pattern": "〜ところだ",
   "title": "〜ところだ",
-  "meaning": "Sắp ; ở giữa; vừa làm xong",
-  "meaningVi": "Sắp ; ở giữa; vừa làm xong",
+  "meaning": "Sắp xếp ; ở giữa; vừa làm xong",
+  "meaningVi": "Sắp xếp ; ở giữa; vừa làm xong",
   "connection": "Động từ (V)-dict / Động từ (V)-te + いる / Động từ (V)-ta + ところだ",
   "usageNotes": "Dạng từ điển: sắp. 〜ているところ: ở giữa. 〜たところ: vừa xong. Nó xác định chính xác giai đoạn của một hành động.",
   "examples": [
@@ -43,11 +43,11 @@
       "options": [
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Làm gì đó giúp cho ai...",
-        "Sắp ; ở giữa; vừa làm xong",
+        "Sắp xếp ; ở giữa; vừa làm xong",
         "Ai đó làm giúp việc gì cho mình..."
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ところだ」 mang ý nghĩa: \"Sắp ; ở giữa; vừa làm xong\"."
+      "explanation": "Mẫu 「〜ところだ」 mang ý nghĩa: \"Sắp xếp ; ở giữa; vừa làm xong\"."
     },
     {
       "id": "bunpou-n4-tokoro-da-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜ところだ",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Sắp ; ở giữa; vừa làm xong",
+        "Sắp xếp ; ở giữa; vừa làm xong",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Làm sẵn gì đó trước (Chuẩn bị)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ところだ」 mang ý nghĩa: \"Sắp ; ở giữa; vừa làm xong\"."
+      "explanation": "Mẫu 「〜ところだ」 mang ý nghĩa: \"Sắp xếp ; ở giữa; vừa làm xong\"."
     },
     {
       "id": "bunpou-n4-tokoro-da-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "今から出かけるところです。",
       "sentenceVi": "Tôi vừa định đi ra ngoài.",
       "targetGrammar": "〜ところだ",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Sắp ; ở giữa; vừa làm xong\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Sắp xếp ; ở giữa; vừa làm xong\":",
       "options": [
         "〜てある",
         "〜とき",
@@ -105,13 +105,13 @@
       "targetGrammar": "〜ところだ",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ところだ」 là gì?",
       "options": [
-        "Sắp ; ở giữa; vừa làm xong",
+        "Sắp xếp ; ở giữa; vừa làm xong",
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Trông giống như; có vẻ ; có vẻ sắp"
       ],
       "correctIndex": 0,
-      "explanation": "「〜ところだ」 có nghĩa là: Sắp ; ở giữa; vừa làm xong."
+      "explanation": "Mẫu 「〜ところだ」 mang ý nghĩa: \"Sắp xếp ; ở giữa; vừa làm xong\"."
     }
   ]
 }

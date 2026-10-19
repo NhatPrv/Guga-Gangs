@@ -3,8 +3,8 @@
   "level": "N3",
   "pattern": "〜たって / 〜だって",
   "title": "〜たって / 〜だって",
-  "meaning": "Ngay cả khi; không sao cả (thông thường)",
-  "meaningVi": "Ngay cả khi; không sao cả (thông thường)",
+  "meaning": "Ngay cả khi; không sao lưu (thông tin)",
+  "meaningVi": "Ngay cả khi; không sao lưu (thông tin)",
   "connection": "Động từ (V)-ta + って / i-Adj-ku + たって / na-Adj / Danh từ (N) + だって",
   "usageNotes": "Dạng thông tục của 〜ても / 〜でも, thường đi kèm với いくら hoặc từ để hỏi. だって cũng có nghĩa là 'vì' ở đầu câu và 'thậm chí' sau danh từ.",
   "examples": [
@@ -43,11 +43,11 @@
       "options": [
         "Không hẳn là... / Không nhất thiết là...",
         "Thảo nào, hèn chi... / Đương nhiên là...",
-        "Ngay cả khi; không sao cả (thông thường)",
+        "Ngay cả khi; không sao lưu (thông tin)",
         "Chắc chắn không... / Không đời nào..."
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜たって / 〜だって」 mang ý nghĩa: \"Ngay cả khi; không sao cả (thông thường)\"."
+      "explanation": "Mẫu 「〜たって / 〜だって」 mang ý nghĩa: \"Ngay cả khi; không sao lưu (thông tin)\"."
     },
     {
       "id": "bunpou-n3-tatte-datte-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜たって / 〜だって",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Ngay cả khi; không sao cả (thông thường)",
+        "Ngay cả khi; không sao lưu (thông tin)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜たって / 〜だって」 mang ý nghĩa: \"Ngay cả khi; không sao cả (thông thường)\"."
+      "explanation": "Mẫu 「〜たって / 〜だって」 mang ý nghĩa: \"Ngay cả khi; không sao lưu (thông tin)\"."
     },
     {
       "id": "bunpou-n3-tatte-datte-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "今から急いだって、もう間に合わないよ。",
       "sentenceVi": "Cho dù bây giờ bạn có nhanh lên, bạn cũng sẽ không thể làm được.",
       "targetGrammar": "〜たって / 〜だって",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ngay cả khi; không sao cả (thông thường)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ngay cả khi; không sao lưu (thông tin)\":",
       "options": [
         "〜ことにしている",
         "〜ことになっている",
@@ -105,13 +105,13 @@
       "targetGrammar": "〜たって / 〜だって",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜たって / 〜だって」 là gì?",
       "options": [
-        "Ngay cả khi; không sao cả (thông thường)",
+        "Ngay cả khi; không sao lưu (thông tin)",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
         "Cố gắng ; cố gắng ; sắp sửa",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
       ],
       "correctIndex": 0,
-      "explanation": "「〜たって / 〜だって」 có nghĩa là: Ngay cả khi; không sao cả (thông thường)."
+      "explanation": "Mẫu 「〜たって / 〜だって」 mang ý nghĩa: \"Ngay cả khi; không sao lưu (thông tin)\"."
     }
   ]
 }

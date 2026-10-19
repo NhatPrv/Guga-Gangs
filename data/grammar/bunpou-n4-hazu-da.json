@@ -3,10 +3,10 @@
   "level": "N4",
   "pattern": "〜はずだ",
   "title": "〜はずだ",
-  "meaning": "Nên thế; dự kiến (dựa trên lý luận)",
-  "meaningVi": "Nên thế; dự kiến (dựa trên lý luận)",
-  "connection": "Động từ (V)-plain / i-Adj + はずだ / na-Adj + な + はずだ / Danh từ (N) + の + はずだ",
-  "usageNotes": "Một kỳ vọng tự tin dựa trên sự thật hoặc logic, không phải là phỏng đoán. Nó không có nghĩa là 'nên' như một nghĩa vụ.",
+  "meaning": "Chắc chắn là... (Dự đoán có căn cứ xác thực)",
+  "meaningVi": "Chắc chắn là... (Dự đoán có căn cứ xác thực)",
+  "connection": "Thể thông thường (Na-Adj + な, N + の) + はずだ",
+  "usageNotes": "Một kỳ vọng tự động dựa trên sự thật hoặc logic, không cần phải phỏng đoán. Nó không có nghĩa là 'nên' như một nghĩa vụ.",
   "examples": [
     {
       "ja": "荷物は明日届くはずです。",
@@ -41,12 +41,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Ai đó làm giúp việc gì cho mình...",
-        "Nên thế; dự kiến (dựa trên lý luận)",
+        "Chắc chắn là... (Dự đoán có căn cứ xác thực)",
         "Làm gì đó giúp cho ai...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜はずだ」 mang ý nghĩa: \"Nên thế; dự kiến (dựa trên lý luận)\"."
+      "explanation": "Mẫu 「〜はずだ」 mang ý nghĩa: \"Chắc chắn là... (Dự đoán có căn cứ xác thực)\"."
     },
     {
       "id": "bunpou-n4-hazu-da-q2",
@@ -75,10 +75,10 @@
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Làm sẵn gì đó trước (Chuẩn bị)",
-        "Nên thế; dự kiến (dựa trên lý luận)"
+        "Chắc chắn là... (Dự đoán có căn cứ xác thực)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜はずだ」 mang ý nghĩa: \"Nên thế; dự kiến (dựa trên lý luận)\"."
+      "explanation": "Mẫu 「〜はずだ」 mang ý nghĩa: \"Chắc chắn là... (Dự đoán có căn cứ xác thực)\"."
     },
     {
       "id": "bunpou-n4-hazu-da-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "荷物は明日届くはずです。",
       "sentenceVi": "Gói hàng sẽ đến vào ngày mai.",
       "targetGrammar": "〜はずだ",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nên thế; dự kiến (dựa trên lý luận)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chắc chắn là... (Dự đoán có căn cứ xác thực)\":",
       "options": [
         "〜とき",
         "〜てみる",
@@ -105,12 +105,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜はずだ」 là gì?",
       "options": [
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "Nên thế; dự kiến (dựa trên lý luận)",
+        "Chắc chắn là... (Dự đoán có căn cứ xác thực)",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Nghe nói là... (Truyền đạt lại thông tin)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜はずだ」 có nghĩa là: Nên thế; dự kiến (dựa trên lý luận)."
+      "explanation": "Mẫu 「〜はずだ」 mang ý nghĩa: \"Chắc chắn là... (Dự đoán có căn cứ xác thực)\"."
     }
   ]
 }

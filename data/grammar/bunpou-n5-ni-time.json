@@ -3,10 +3,10 @@
   "level": "N5",
   "pattern": "〜に（time）",
   "title": "〜に（time）",
-  "meaning": "Vào lúc... (Chỉ mốc thời gian cụ thể)",
-  "meaningVi": "Vào lúc... (Chỉ mốc thời gian cụ thể)",
-  "connection": "Danh từ (N) + に",
-  "usageNotes": "Được sử dụng với đồng hồ thời gian, ngày, ngày trong tuần và tháng. Các từ tương đối như 今日, 明日, 毎日 và 来週 không có に.",
+  "meaning": "Vào lúc... (Chỉ thời điểm cụ thể có con số)",
+  "meaningVi": "Vào lúc... (Chỉ thời điểm cụ thể có con số)",
+  "connection": "Mốc thời gian (N) + に",
+  "usageNotes": "Được sử dụng với đồng hồ thời gian, ngày, ngày trong tuần và tháng. Các từ tương đối như 今日, 明日, 毎日 và 来週 đều không có に.",
   "examples": [
     {
       "ja": "毎朝7時に起きます。",
@@ -43,11 +43,11 @@
       "options": [
         "Chỉ đối tượng trực tiếp của hành động",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
-        "Vào lúc... (Chỉ mốc thời gian cụ thể)",
+        "Vào lúc... (Chỉ thời điểm cụ thể có con số)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜に（time）」 mang ý nghĩa: \"Vào lúc... (Chỉ mốc thời gian cụ thể)\"."
+      "explanation": "Mẫu 「〜に（time）」 mang ý nghĩa: \"Vào lúc... (Chỉ thời điểm cụ thể có con số)\"."
     },
     {
       "id": "bunpou-n5-ni-time-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Tại, ở... (Chỉ nơi diễn ra hành động)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
-        "Vào lúc... (Chỉ mốc thời gian cụ thể)",
+        "Vào lúc... (Chỉ thời điểm cụ thể có con số)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜に（time）」 mang ý nghĩa: \"Vào lúc... (Chỉ mốc thời gian cụ thể)\"."
+      "explanation": "Mẫu 「〜に（time）」 mang ý nghĩa: \"Vào lúc... (Chỉ thời điểm cụ thể có con số)\"."
     },
     {
       "id": "bunpou-n5-ni-time-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "毎朝7時に起きます。",
       "sentenceVi": "Tôi thức dậy lúc bảy giờ mỗi sáng.",
       "targetGrammar": "〜に（time）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Vào lúc... (Chỉ mốc thời gian cụ thể)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Vào lúc... (Chỉ thời điểm cụ thể có con số)\":",
       "options": [
         "〜と（and）",
         "〜で（means）",
@@ -108,10 +108,10 @@
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
         "Hoặc (sự lựa chọn giữa các danh từ)",
         "Cũng... (Biểu thị sự tương tự)",
-        "Vào lúc... (Chỉ mốc thời gian cụ thể)"
+        "Vào lúc... (Chỉ thời điểm cụ thể có con số)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜に（time）」 có nghĩa là: Vào lúc... (Chỉ mốc thời gian cụ thể)."
+      "explanation": "Mẫu 「〜に（time）」 mang ý nghĩa: \"Vào lúc... (Chỉ thời điểm cụ thể có con số)\"."
     }
   ]
 }

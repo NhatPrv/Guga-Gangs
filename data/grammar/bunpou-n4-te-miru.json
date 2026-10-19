@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜てみる",
   "title": "〜てみる",
-  "meaning": "Thử làm gì đó...",
-  "meaningVi": "Thử làm gì đó...",
-  "connection": "Động từ (V)-te + みる",
+  "meaning": "Thử làm việc gì đó (Xem kết quả thế nào)",
+  "meaningVi": "Thử làm việc gì đó (Xem kết quả thế nào)",
+  "connection": "Động từ thể Te (V-て) + みる",
   "usageNotes": "Có nghĩa là thử làm việc gì đó để xem kết quả, không nỗ lực làm việc gì khó khăn.",
   "examples": [
     {
@@ -41,12 +41,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
-        "Thử làm gì đó...",
+        "Thử làm việc gì đó (Xem kết quả thế nào)",
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình..."
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜てみる」 mang ý nghĩa: \"Thử làm gì đó...\"."
+      "explanation": "Mẫu 「〜てみる」 mang ý nghĩa: \"Thử làm việc gì đó (Xem kết quả thế nào)\"."
     },
     {
       "id": "bunpou-n4-te-miru-q2",
@@ -72,13 +72,13 @@
       "targetGrammar": "〜てみる",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Thử làm gì đó...",
+        "Thử làm việc gì đó (Xem kết quả thế nào)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Làm sẵn gì đó trước (Chuẩn bị)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜てみる」 mang ý nghĩa: \"Thử làm gì đó...\"."
+      "explanation": "Mẫu 「〜てみる」 mang ý nghĩa: \"Thử làm việc gì đó (Xem kết quả thế nào)\"."
     },
     {
       "id": "bunpou-n4-te-miru-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "このシャツ、着てみてもいいですか。",
       "sentenceVi": "Tôi có thể thử chiếc áo này được không?",
       "targetGrammar": "〜てみる",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thử làm gì đó...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thử làm việc gì đó (Xem kết quả thế nào)\":",
       "options": [
         "〜間 / 〜間に",
         "〜てある",
@@ -107,10 +107,10 @@
         "Rõ ràng; có vẻ như; tôi nghe thấy",
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Nghe nói là... (Truyền đạt lại thông tin)",
-        "Thử làm gì đó..."
+        "Thử làm việc gì đó (Xem kết quả thế nào)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜てみる」 có nghĩa là: Thử làm gì đó...."
+      "explanation": "Mẫu 「〜てみる」 mang ý nghĩa: \"Thử làm việc gì đó (Xem kết quả thế nào)\"."
     }
   ]
 }

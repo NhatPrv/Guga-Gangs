@@ -3,8 +3,8 @@
   "level": "N3",
   "pattern": "〜気味",
   "title": "〜気味",
-  "meaning": "Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)",
-  "meaningVi": "Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)",
+  "meaning": "Một chút; nhẹ nhàng; bất kỳ phần nào (trong điều kiện đó)",
+  "meaningVi": "Một chút; nhẹ nhàng; bất kỳ phần nào (trong điều kiện đó)",
   "connection": "Danh từ (N) / Động từ (V)-stem + 気味",
   "usageNotes": "Một dấu hiệu nhẹ của tình trạng (thường là tiêu cực) hiện tại. So sánh 〜がち, có nghĩa là việc gì đó xảy ra thường xuyên.",
   "examples": [
@@ -44,11 +44,11 @@
       "options": [
         "Không hẳn là... / Không nhất thiết là...",
         "Chắc chắn không... / Không đời nào...",
-        "Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)",
+        "Một chút; nhẹ nhàng; bất kỳ phần nào (trong điều kiện đó)",
         "Thảo nào, hèn chi... / Đương nhiên là..."
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜気味」 mang ý nghĩa: \"Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)\"."
+      "explanation": "Mẫu 「〜気味」 mang ý nghĩa: \"Một chút; nhẹ nhàng; bất kỳ phần nào (trong điều kiện đó)\"."
     },
     {
       "id": "bunpou-n3-gimi-q2",
@@ -77,10 +77,10 @@
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
-        "Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)"
+        "Một chút; nhẹ nhàng; bất kỳ phần nào (trong điều kiện đó)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜気味」 mang ý nghĩa: \"Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)\"."
+      "explanation": "Mẫu 「〜気味」 mang ý nghĩa: \"Một chút; nhẹ nhàng; bất kỳ phần nào (trong điều kiện đó)\"."
     },
     {
       "id": "bunpou-n3-gimi-q4",
@@ -88,7 +88,7 @@
       "sentenceJa": "少し風邪気味なので、今日は早めに帰ります。",
       "sentenceVi": "Tôi hơi bị cảm nên hôm nay tôi sẽ về nhà sớm.",
       "targetGrammar": "〜気味",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Một chút; nhẹ nhàng; bất kỳ phần nào (trong điều kiện đó)\":",
       "options": [
         "〜ことになっている",
         "〜ことにしている",
@@ -109,10 +109,10 @@
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
         "Cố gắng ; cố gắng ; sắp sửa",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
-        "Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)"
+        "Một chút; nhẹ nhàng; bất kỳ phần nào (trong điều kiện đó)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜気味」 có nghĩa là: Một chút; nhẹ nhàng; phần nào (trong điều kiện đó)."
+      "explanation": "Mẫu 「〜気味」 mang ý nghĩa: \"Một chút; nhẹ nhàng; bất kỳ phần nào (trong điều kiện đó)\"."
     }
   ]
 }

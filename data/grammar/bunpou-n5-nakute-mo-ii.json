@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜なくてもいい",
   "title": "〜なくてもいい",
-  "meaning": "Không cần làm gì đó cũng được",
-  "meaningVi": "Không cần làm gì đó cũng được",
-  "connection": "Động từ (V)-nai stem + なくてもいい",
+  "meaning": "Không cần làm gì cũng được (Không bắt buộc)",
+  "meaningVi": "Không cần làm gì cũng được (Không bắt buộc)",
+  "connection": "Động từ thể Nai bỏ い + くてもいいです",
   "usageNotes": "Ngược lại với 〜なければならない. Hỏi với 〜なくてもいいですか (Tôi không hỏi thì có được không?).",
   "examples": [
     {
@@ -41,13 +41,13 @@
       "targetGrammar": "〜なくてもいい",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Không cần làm gì đó cũng được",
+        "Không cần làm gì cũng được (Không bắt buộc)",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Chỉ đối tượng trực tiếp của hành động",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜なくてもいい」 mang ý nghĩa: \"Không cần làm gì đó cũng được\"."
+      "explanation": "Mẫu 「〜なくてもいい」 mang ý nghĩa: \"Không cần làm gì cũng được (Không bắt buộc)\"."
     },
     {
       "id": "bunpou-n5-nakute-mo-ii-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
-        "Không cần làm gì đó cũng được",
+        "Không cần làm gì cũng được (Không bắt buộc)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜なくてもいい」 mang ý nghĩa: \"Không cần làm gì đó cũng được\"."
+      "explanation": "Mẫu 「〜なくてもいい」 mang ý nghĩa: \"Không cần làm gì cũng được (Không bắt buộc)\"."
     },
     {
       "id": "bunpou-n5-nakute-mo-ii-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "明日は学校へ来なくてもいいです。",
       "sentenceVi": "Ngày mai bạn không cần phải đến trường.",
       "targetGrammar": "〜なくてもいい",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không cần làm gì đó cũng được\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không cần làm gì cũng được (Không bắt buộc)\":",
       "options": [
         "〜と（and）",
         "〜なくてもいい",
@@ -107,11 +107,11 @@
       "options": [
         "Với ; cùng với (một đối tác trong một hành động)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
-        "Không cần làm gì đó cũng được",
+        "Không cần làm gì cũng được (Không bắt buộc)",
         "Hoặc (sự lựa chọn giữa các danh từ)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜なくてもいい」 có nghĩa là: Không cần làm gì đó cũng được."
+      "explanation": "Mẫu 「〜なくてもいい」 mang ý nghĩa: \"Không cần làm gì cũng được (Không bắt buộc)\"."
     }
   ]
 }

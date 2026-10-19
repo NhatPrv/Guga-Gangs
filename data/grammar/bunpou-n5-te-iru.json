@@ -3,8 +3,8 @@
   "level": "N5",
   "pattern": "〜ている",
   "title": "〜ている",
-  "meaning": "Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
-  "meaningVi": "Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
+  "meaning": "Đang làm việc (hoạt động đang diễn ra); ở trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
+  "meaningVi": "Đang làm việc (hoạt động đang diễn ra); ở trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
   "connection": "Động từ (V)-te + いる",
   "usageNotes": "Với động từ hành động (食べる, 読む) nó thể hiện một hành động đang diễn ra; với động từ thay đổi (結婚する, 開く, 知る) nó hiển thị trạng thái kết quả. Lịch sự: 〜ています.",
   "examples": [
@@ -41,12 +41,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
-        "Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
+        "Đang làm việc (hoạt động đang diễn ra); ở trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Chỉ đối tượng trực tiếp của hành động"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜ている」 mang ý nghĩa: \"Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên\"."
+      "explanation": "Mẫu 「〜ている」 mang ý nghĩa: \"Đang làm việc (hoạt động đang diễn ra); ở trạng thái (kết quả của một sự thay đổi); làm thường xuyên\"."
     },
     {
       "id": "bunpou-n5-te-iru-q2",
@@ -73,12 +73,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
-        "Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
+        "Đang làm việc (hoạt động đang diễn ra); ở trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜ている」 mang ý nghĩa: \"Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên\"."
+      "explanation": "Mẫu 「〜ている」 mang ý nghĩa: \"Đang làm việc (hoạt động đang diễn ra); ở trạng thái (kết quả của một sự thay đổi); làm thường xuyên\"."
     },
     {
       "id": "bunpou-n5-te-iru-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "弟は今、部屋でゲームをしています。",
       "sentenceVi": "Em trai tôi hiện đang chơi game trong phòng.",
       "targetGrammar": "〜ている",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đang làm việc (hoạt động đang diễn ra); ở trạng thái (kết quả của một sự thay đổi); làm thường xuyên\":",
       "options": [
         "〜で（place of action）",
         "〜で（means）",
@@ -106,11 +106,11 @@
       "options": [
         "Hoặc (sự lựa chọn giữa các danh từ)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
-        "Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
+        "Đang làm việc (hoạt động đang diễn ra); ở trạng thái (kết quả của một sự thay đổi); làm thường xuyên",
         "Với ; cùng với (một đối tác trong một hành động)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜ている」 có nghĩa là: Đang làm (hành động đang diễn ra); ở trong trạng thái (kết quả của một sự thay đổi); làm thường xuyên."
+      "explanation": "Mẫu 「〜ている」 mang ý nghĩa: \"Đang làm việc (hoạt động đang diễn ra); ở trạng thái (kết quả của một sự thay đổi); làm thường xuyên\"."
     }
   ]
 }

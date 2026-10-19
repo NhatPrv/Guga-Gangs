@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜が（but）",
   "title": "〜が（but）",
-  "meaning": "Nhưng; mặc dù",
-  "meaningVi": "Nhưng; mặc dù",
-  "connection": "Sentence + が",
+  "meaning": "Nhưng mà... (Nối hai vế đối lập nhẹ nhàng)",
+  "meaningVi": "Nhưng mà... (Nối hai vế đối lập nhẹ nhàng)",
+  "connection": "Mệnh đề [thể thông thường/lịch sự] + が",
   "usageNotes": "Cũng được sử dụng chỉ để làm dịu đi một yêu cầu hoặc dẫn dắt vào một chủ đề: すみませんが…. Trang trọng hơn một chút so với けど (N4).",
   "examples": [
     {
@@ -41,13 +41,13 @@
       "targetGrammar": "〜が（but）",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Nhưng; mặc dù",
+        "Nhưng mà... (Nối hai vế đối lập nhẹ nhàng)",
         "Chỉ đối tượng trực tiếp của hành động",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜が（but）」 mang ý nghĩa: \"Nhưng; mặc dù\"."
+      "explanation": "Mẫu 「〜が（but）」 mang ý nghĩa: \"Nhưng mà... (Nối hai vế đối lập nhẹ nhàng)\"."
     },
     {
       "id": "bunpou-n5-ga-but-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜が（but）",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Nhưng; mặc dù",
+        "Nhưng mà... (Nối hai vế đối lập nhẹ nhàng)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜が（but）」 mang ý nghĩa: \"Nhưng; mặc dù\"."
+      "explanation": "Mẫu 「〜が（but）」 mang ý nghĩa: \"Nhưng mà... (Nối hai vế đối lập nhẹ nhàng)\"."
     },
     {
       "id": "bunpou-n5-ga-but-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "この店は安いですが、あまりおいしくないです。",
       "sentenceVi": "Nhà hàng này rẻ nhưng đồ ăn không ngon lắm.",
       "targetGrammar": "〜が（but）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nhưng; mặc dù\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nhưng mà... (Nối hai vế đối lập nhẹ nhàng)\":",
       "options": [
         "〜で（means）",
         "〜で（place of action）",
@@ -107,11 +107,11 @@
       "options": [
         "Hoặc (sự lựa chọn giữa các danh từ)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
-        "Nhưng; mặc dù",
+        "Nhưng mà... (Nối hai vế đối lập nhẹ nhàng)",
         "Với ; cùng với (một đối tác trong một hành động)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜が（but）」 có nghĩa là: Nhưng; mặc dù."
+      "explanation": "Mẫu 「〜が（but）」 mang ý nghĩa: \"Nhưng mà... (Nối hai vế đối lập nhẹ nhàng)\"."
     }
   ]
 }

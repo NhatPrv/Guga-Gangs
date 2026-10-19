@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜予定",
   "title": "〜予定",
-  "meaning": "Theo kế hoạch làm gì đó",
-  "meaningVi": "Theo kế hoạch làm gì đó",
-  "connection": "Động từ (V)-dict + 予定 / Danh từ (N) + の + 予定",
+  "meaning": "Theo kế hoạch sẽ làm gì (Lịch trình đã định trước)",
+  "meaningVi": "Theo kế hoạch sẽ làm gì (Lịch trình đã định trước)",
+  "connection": "Động từ thể từ điển (V-る) / Danh từ + の + 予定",
   "usageNotes": "Đề cập đến một lịch trình hoặc sự sắp xếp cố định, thường có sự tham gia của người khác; khách quan hơn つもり.",
   "examples": [
     {
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Ai đó làm giúp việc gì cho mình...",
-        "Theo kế hoạch làm gì đó",
+        "Theo kế hoạch sẽ làm gì (Lịch trình đã định trước)",
         "Làm gì đó giúp cho ai...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜予定」 mang ý nghĩa: \"Theo kế hoạch làm gì đó\"."
+      "explanation": "Mẫu 「〜予定」 mang ý nghĩa: \"Theo kế hoạch sẽ làm gì (Lịch trình đã định trước)\"."
     },
     {
       "id": "bunpou-n4-yotei-q2",
@@ -76,10 +76,10 @@
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm sẵn gì đó trước (Chuẩn bị)",
-        "Theo kế hoạch làm gì đó"
+        "Theo kế hoạch sẽ làm gì (Lịch trình đã định trước)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜予定」 mang ý nghĩa: \"Theo kế hoạch làm gì đó\"."
+      "explanation": "Mẫu 「〜予定」 mang ý nghĩa: \"Theo kế hoạch sẽ làm gì (Lịch trình đã định trước)\"."
     },
     {
       "id": "bunpou-n4-yotei-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "来月、大阪に引っ越す予定です。",
       "sentenceVi": "Tôi đang có kế hoạch chuyển đến Osaka vào tháng tới.",
       "targetGrammar": "〜予定",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Theo kế hoạch làm gì đó\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Theo kế hoạch sẽ làm gì (Lịch trình đã định trước)\":",
       "options": [
         "〜てみる",
         "〜とき",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜予定」 là gì?",
       "options": [
         "Nghe nói là... (Truyền đạt lại thông tin)",
-        "Theo kế hoạch làm gì đó",
+        "Theo kế hoạch sẽ làm gì (Lịch trình đã định trước)",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Trông giống như; có vẻ ; có vẻ sắp"
       ],
       "correctIndex": 1,
-      "explanation": "「〜予定」 có nghĩa là: Theo kế hoạch làm gì đó."
+      "explanation": "Mẫu 「〜予定」 mang ý nghĩa: \"Theo kế hoạch sẽ làm gì (Lịch trình đã định trước)\"."
     }
   ]
 }

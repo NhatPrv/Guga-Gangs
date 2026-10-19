@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜てはいけない",
   "title": "〜てはいけない",
-  "meaning": "Không được làm gì đó (Cấm đoán)",
-  "meaningVi": "Không được làm gì đó (Cấm đoán)",
-  "connection": "Động từ (V)-te + はいけない",
+  "meaning": "Không được phép làm gì (Cấm đoán nhẹ)",
+  "meaningVi": "Không được phép làm gì (Cấm đoán nhẹ)",
+  "connection": "Động từ thể Te (V-て) + はいけません",
   "usageNotes": "Một sự cấm đoán mạnh mẽ, thường dành cho các quy tắc. Hình thức lịch sự: 〜てはいけません. Co rút thông thường: 〜ちゃいけない / 〜じゃいけない.",
   "examples": [
     {
@@ -43,10 +43,10 @@
         "Chỉ đối tượng trực tiếp của hành động",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
-        "Không được làm gì đó (Cấm đoán)"
+        "Không được phép làm gì (Cấm đoán nhẹ)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜てはいけない」 mang ý nghĩa: \"Không được làm gì đó (Cấm đoán)\"."
+      "explanation": "Mẫu 「〜てはいけない」 mang ý nghĩa: \"Không được phép làm gì (Cấm đoán nhẹ)\"."
     },
     {
       "id": "bunpou-n5-te-wa-ikenai-q2",
@@ -74,11 +74,11 @@
       "options": [
         "Tới (người nhận hoặc là mục tiêu của một hành động)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
-        "Không được làm gì đó (Cấm đoán)",
+        "Không được phép làm gì (Cấm đoán nhẹ)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜てはいけない」 mang ý nghĩa: \"Không được làm gì đó (Cấm đoán)\"."
+      "explanation": "Mẫu 「〜てはいけない」 mang ý nghĩa: \"Không được phép làm gì (Cấm đoán nhẹ)\"."
     },
     {
       "id": "bunpou-n5-te-wa-ikenai-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "図書館で大きい声で話してはいけません。",
       "sentenceVi": "Bạn không được nói chuyện lớn tiếng trong thư viện.",
       "targetGrammar": "〜てはいけない",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không được làm gì đó (Cấm đoán)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không được phép làm gì (Cấm đoán nhẹ)\":",
       "options": [
         "〜と（and）",
         "〜で（means）",
@@ -106,11 +106,11 @@
       "options": [
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
         "Với ; cùng với (một đối tác trong một hành động)",
-        "Không được làm gì đó (Cấm đoán)",
+        "Không được phép làm gì (Cấm đoán nhẹ)",
         "Hoặc (sự lựa chọn giữa các danh từ)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜てはいけない」 có nghĩa là: Không được làm gì đó (Cấm đoán)."
+      "explanation": "Mẫu 「〜てはいけない」 mang ý nghĩa: \"Không được phép làm gì (Cấm đoán nhẹ)\"."
     }
   ]
 }

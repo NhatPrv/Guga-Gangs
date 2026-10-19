@@ -3,10 +3,10 @@
   "level": "N4",
   "pattern": "〜ないで",
   "title": "〜ないで",
-  "meaning": "Không làm gì; thay vì làm",
-  "meaningVi": "Không làm gì; thay vì làm",
+  "meaning": "Không thể làm được gì; thay vì làm",
+  "meaningVi": "Không thể làm được gì; thay vì làm",
   "connection": "Động từ (V)-nai + で",
-  "usageNotes": "〜ずに (N3) có nghĩa tương tự nhưng trang trọng hơn. Khác với 〜なくて, nó đưa ra lý do.",
+  "usageNotes": "〜ずに (N3) có nghĩa tương tự nhưng trang quan trọng hơn. Khác với 〜なくて, nó đưa ra lý do.",
   "examples": [
     {
       "ja": "今朝は朝ご飯を食べないで学校に行った。",
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Ai đó làm giúp việc gì cho mình...",
-        "Không làm gì; thay vì làm",
+        "Không thể làm được gì; thay vì làm",
         "Làm gì đó giúp cho ai...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜ないで」 mang ý nghĩa: \"Không làm gì; thay vì làm\"."
+      "explanation": "Mẫu 「〜ないで」 mang ý nghĩa: \"Không thể làm được gì; thay vì làm\"."
     },
     {
       "id": "bunpou-n4-naide-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜ないで",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Không làm gì; thay vì làm",
+        "Không thể làm được gì; thay vì làm",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm sẵn gì đó trước (Chuẩn bị)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ないで」 mang ý nghĩa: \"Không làm gì; thay vì làm\"."
+      "explanation": "Mẫu 「〜ないで」 mang ý nghĩa: \"Không thể làm được gì; thay vì làm\"."
     },
     {
       "id": "bunpou-n4-naide-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "今朝は朝ご飯を食べないで学校に行った。",
       "sentenceVi": "Sáng nay tôi đi học mà không ăn sáng.",
       "targetGrammar": "〜ないで",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không làm gì; thay vì làm\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không thể làm được gì; thay vì làm\":",
       "options": [
         "〜てある",
         "〜とき",
@@ -107,11 +107,11 @@
       "options": [
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Nghe nói là... (Truyền đạt lại thông tin)",
-        "Không làm gì; thay vì làm",
+        "Không thể làm được gì; thay vì làm",
         "Trông giống như; có vẻ ; có vẻ sắp"
       ],
       "correctIndex": 2,
-      "explanation": "「〜ないで」 có nghĩa là: Không làm gì; thay vì làm."
+      "explanation": "Mẫu 「〜ないで」 mang ý nghĩa: \"Không thể làm được gì; thay vì làm\"."
     }
   ]
 }

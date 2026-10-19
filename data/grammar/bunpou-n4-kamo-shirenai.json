@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜かもしれない",
   "title": "〜かもしれない",
-  "meaning": "Có lẽ, có thể sẽ... (Phỏng đoán 50%)",
-  "meaningVi": "Có lẽ, có thể sẽ... (Phỏng đoán 50%)",
-  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + かもしれない",
+  "meaning": "Có lẽ, có thể sẽ... (Phỏng đoán khả năng khoảng 50%)",
+  "meaningVi": "Có lẽ, có thể sẽ... (Phỏng đoán khả năng khoảng 50%)",
+  "connection": "Thể thông thường (Na-Adj/N không có だ) + かもしれない",
   "usageNotes": "Chắc chắn khoảng 50% hoặc ít hơn. Trong cách nói thông thường, nó thường được rút ngắn thành かも.",
   "examples": [
     {
@@ -44,10 +44,10 @@
         "Ai đó làm giúp việc gì cho mình...",
         "Làm gì đó giúp cho ai...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
-        "Có lẽ, có thể sẽ... (Phỏng đoán 50%)"
+        "Có lẽ, có thể sẽ... (Phỏng đoán khả năng khoảng 50%)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜かもしれない」 mang ý nghĩa: \"Có lẽ, có thể sẽ... (Phỏng đoán 50%)\"."
+      "explanation": "Mẫu 「〜かもしれない」 mang ý nghĩa: \"Có lẽ, có thể sẽ... (Phỏng đoán khả năng khoảng 50%)\"."
     },
     {
       "id": "bunpou-n4-kamo-shirenai-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
-        "Có lẽ, có thể sẽ... (Phỏng đoán 50%)",
+        "Có lẽ, có thể sẽ... (Phỏng đoán khả năng khoảng 50%)",
         "Làm sẵn gì đó trước (Chuẩn bị)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜かもしれない」 mang ý nghĩa: \"Có lẽ, có thể sẽ... (Phỏng đoán 50%)\"."
+      "explanation": "Mẫu 「〜かもしれない」 mang ý nghĩa: \"Có lẽ, có thể sẽ... (Phỏng đoán khả năng khoảng 50%)\"."
     },
     {
       "id": "bunpou-n4-kamo-shirenai-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "午後から雨が降るかもしれません。",
       "sentenceVi": "Trời có thể mưa vào buổi chiều.",
       "targetGrammar": "〜かもしれない",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có lẽ, có thể sẽ... (Phỏng đoán 50%)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có lẽ, có thể sẽ... (Phỏng đoán khả năng khoảng 50%)\":",
       "options": [
         "〜とき",
         "〜かもしれない",
@@ -108,10 +108,10 @@
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Nghe nói là... (Truyền đạt lại thông tin)",
-        "Có lẽ, có thể sẽ... (Phỏng đoán 50%)"
+        "Có lẽ, có thể sẽ... (Phỏng đoán khả năng khoảng 50%)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜かもしれない」 có nghĩa là: Có lẽ, có thể sẽ... (Phỏng đoán 50%)."
+      "explanation": "Mẫu 「〜かもしれない」 mang ý nghĩa: \"Có lẽ, có thể sẽ... (Phỏng đoán khả năng khoảng 50%)\"."
     }
   ]
 }

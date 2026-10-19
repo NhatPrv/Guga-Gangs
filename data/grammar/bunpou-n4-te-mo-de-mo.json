@@ -3,8 +3,8 @@
   "level": "N4",
   "pattern": "〜ても / 〜でも",
   "title": "〜ても / 〜でも",
-  "meaning": "Ngay cả khi; mặc dù",
-  "meaningVi": "Ngay cả khi; mặc dù",
+  "meaning": "Ngay cả khi; mặc định",
+  "meaningVi": "Ngay cả khi; mặc định",
   "connection": "Động từ (V)-te + も / i-Adj-ku + ても / na-Adj + でも / Danh từ (N) + でも",
   "usageNotes": "Với từ để hỏi hoặc いくら nó có nghĩa là 'không có vấn đề gì ...' (何を食べても, いくら待っても).",
   "examples": [
@@ -44,10 +44,10 @@
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình...",
-        "Ngay cả khi; mặc dù"
+        "Ngay cả khi; mặc định"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ても / 〜でも」 mang ý nghĩa: \"Ngay cả khi; mặc dù\"."
+      "explanation": "Mẫu 「〜ても / 〜でも」 mang ý nghĩa: \"Ngay cả khi; mặc định\"."
     },
     {
       "id": "bunpou-n4-te-mo-de-mo-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
-        "Ngay cả khi; mặc dù",
+        "Ngay cả khi; mặc định",
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜ても / 〜でも」 mang ý nghĩa: \"Ngay cả khi; mặc dù\"."
+      "explanation": "Mẫu 「〜ても / 〜でも」 mang ý nghĩa: \"Ngay cả khi; mặc định\"."
     },
     {
       "id": "bunpou-n4-te-mo-de-mo-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "雨が降っても、試合はあります。",
       "sentenceVi": "Ngay cả khi trời mưa, trò chơi vẫn tiếp tục.",
       "targetGrammar": "〜ても / 〜でも",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ngay cả khi; mặc dù\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ngay cả khi; mặc định\":",
       "options": [
         "〜ても / 〜でも",
         "〜てみる",
@@ -105,13 +105,13 @@
       "targetGrammar": "〜ても / 〜でも",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ても / 〜でも」 là gì?",
       "options": [
-        "Ngay cả khi; mặc dù",
+        "Ngay cả khi; mặc định",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Nghe nói là... (Truyền đạt lại thông tin)"
       ],
       "correctIndex": 0,
-      "explanation": "「〜ても / 〜でも」 có nghĩa là: Ngay cả khi; mặc dù."
+      "explanation": "Mẫu 「〜ても / 〜でも」 mang ý nghĩa: \"Ngay cả khi; mặc định\"."
     }
   ]
 }

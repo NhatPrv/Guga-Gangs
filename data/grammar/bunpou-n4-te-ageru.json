@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜てあげる",
   "title": "〜てあげる",
-  "meaning": "Làm gì đó giúp cho ai...",
-  "meaningVi": "Làm gì đó giúp cho ai...",
-  "connection": "Động từ (V)-te + あげる",
+  "meaning": "Làm việc gì giúp cho ai đó",
+  "meaningVi": "Làm việc gì giúp cho ai đó",
+  "connection": "Động từ thể Te (V-て) + あげる",
   "usageNotes": "Nói thẳng với cấp trên nghe có vẻ trịch thượng; thay vào đó hãy sử dụng お〜しましょうか (お持ちしましょうか) khiêm tốn.",
   "examples": [
     {
@@ -40,13 +40,13 @@
       "targetGrammar": "〜てあげる",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Làm gì đó giúp cho ai...",
+        "Làm việc gì giúp cho ai đó",
         "Được ai đó làm giúp cho việc gì...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Ai đó làm giúp việc gì cho mình..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜てあげる」 mang ý nghĩa: \"Làm gì đó giúp cho ai...\"."
+      "explanation": "Mẫu 「〜てあげる」 mang ý nghĩa: \"Làm việc gì giúp cho ai đó\"."
     },
     {
       "id": "bunpou-n4-te-ageru-q2",
@@ -74,11 +74,11 @@
       "options": [
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Thử làm gì đó...",
-        "Làm gì đó giúp cho ai...",
+        "Làm việc gì giúp cho ai đó",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜てあげる」 mang ý nghĩa: \"Làm gì đó giúp cho ai...\"."
+      "explanation": "Mẫu 「〜てあげる」 mang ý nghĩa: \"Làm việc gì giúp cho ai đó\"."
     },
     {
       "id": "bunpou-n4-te-ageru-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "妹の宿題を手伝ってあげました。",
       "sentenceVi": "Tôi đã giúp em gái tôi làm bài tập về nhà.",
       "targetGrammar": "〜てあげる",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm gì đó giúp cho ai...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm việc gì giúp cho ai đó\":",
       "options": [
         "〜とき",
         "〜てあげる",
@@ -107,10 +107,10 @@
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Rõ ràng; có vẻ như; tôi nghe thấy",
-        "Làm gì đó giúp cho ai..."
+        "Làm việc gì giúp cho ai đó"
       ],
       "correctIndex": 3,
-      "explanation": "「〜てあげる」 có nghĩa là: Làm gì đó giúp cho ai...."
+      "explanation": "Mẫu 「〜てあげる」 mang ý nghĩa: \"Làm việc gì giúp cho ai đó\"."
     }
   ]
 }

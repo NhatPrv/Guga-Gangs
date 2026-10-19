@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜はずがない",
   "title": "〜はずがない",
-  "meaning": "Không thể được; không có cách nào đó",
-  "meaningVi": "Không thể được; không có cách nào đó",
-  "connection": "Động từ (V)-plain / i-Adj + はずがない / na-Adj + な + はずがない / Danh từ (N) + の + はずがない",
+  "meaning": "Chắc chắn không thể nào... / Không đời nào...",
+  "meaningVi": "Chắc chắn không thể nào... / Không đời nào...",
+  "connection": "Thể thông thường (Na-Adj + な, N + の) + はずがない",
   "usageNotes": "Phủ nhận mạnh mẽ dựa trên lý luận. 〜ないはずだ ('không nên') là một sự mong đợi nhẹ nhàng hơn.",
   "examples": [
     {
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
-        "Không thể được; không có cách nào đó",
+        "Chắc chắn không thể nào... / Không đời nào...",
         "Ai đó làm giúp việc gì cho mình...",
         "Làm gì đó giúp cho ai..."
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜はずがない」 mang ý nghĩa: \"Không thể được; không có cách nào đó\"."
+      "explanation": "Mẫu 「〜はずがない」 mang ý nghĩa: \"Chắc chắn không thể nào... / Không đời nào...\"."
     },
     {
       "id": "bunpou-n4-hazu-ga-nai-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
-        "Không thể được; không có cách nào đó",
+        "Chắc chắn không thể nào... / Không đời nào...",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm sẵn gì đó trước (Chuẩn bị)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜はずがない」 mang ý nghĩa: \"Không thể được; không có cách nào đó\"."
+      "explanation": "Mẫu 「〜はずがない」 mang ý nghĩa: \"Chắc chắn không thể nào... / Không đời nào...\"."
     },
     {
       "id": "bunpou-n4-hazu-ga-nai-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "あんなにまじめな人がうそをつくはずがない。",
       "sentenceVi": "Không đời nào một người nghiêm túc như vậy lại có thể nói dối được.",
       "targetGrammar": "〜はずがない",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không thể được; không có cách nào đó\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chắc chắn không thể nào... / Không đời nào...\":",
       "options": [
         "〜はずがない",
         "〜てみる",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜はずがない」 là gì?",
       "options": [
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "Không thể được; không có cách nào đó",
+        "Chắc chắn không thể nào... / Không đời nào...",
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
       ],
       "correctIndex": 1,
-      "explanation": "「〜はずがない」 có nghĩa là: Không thể được; không có cách nào đó."
+      "explanation": "Mẫu 「〜はずがない」 mang ý nghĩa: \"Chắc chắn không thể nào... / Không đời nào...\"."
     }
   ]
 }

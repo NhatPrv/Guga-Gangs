@@ -3,10 +3,10 @@
   "level": "N3",
   "pattern": "〜ということだ",
   "title": "〜ということだ",
-  "meaning": "Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác",
-  "meaningVi": "Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác",
+  "meaning": "Tôi đã nghe điều đó; it có nghĩa là; nói cách khác",
+  "meaningVi": "Tôi đã nghe điều đó; it có nghĩa là; nói cách khác",
   "connection": "Sentence + ということだ",
-  "usageNotes": "Hai cách sử dụng: báo cáo thông tin (trang trọng hơn 〜そうだ) và đưa ra kết luận ('vậy điều đó có nghĩa là ...'). Việc sử dụng kết thúc thường kết thúc bằng ということですね.",
+  "usageNotes": "Hai cách sử dụng: báo cáo thông tin (trang trọng hơn 〜そうだ) và đưa ra kết luận ('vậy điều đó có nghĩa là ...'). Việc sử dụng kết thúc cuối cùng bằng ということですね.",
   "examples": [
     {
       "ja": "駅員さんの話では、事故のため電車は一時間ほど止まるということです。",
@@ -44,10 +44,10 @@
         "Không hẳn là... / Không nhất thiết là...",
         "Chắc chắn không... / Không đời nào...",
         "Thảo nào, hèn chi... / Đương nhiên là...",
-        "Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác"
+        "Tôi đã nghe điều đó; it có nghĩa là; nói cách khác"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ということだ」 mang ý nghĩa: \"Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác\"."
+      "explanation": "Mẫu 「〜ということだ」 mang ý nghĩa: \"Tôi đã nghe điều đó; it có nghĩa là; nói cách khác\"."
     },
     {
       "id": "bunpou-n3-to-iu-koto-da-q2",
@@ -76,10 +76,10 @@
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
-        "Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác"
+        "Tôi đã nghe điều đó; it có nghĩa là; nói cách khác"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ということだ」 mang ý nghĩa: \"Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác\"."
+      "explanation": "Mẫu 「〜ということだ」 mang ý nghĩa: \"Tôi đã nghe điều đó; it có nghĩa là; nói cách khác\"."
     },
     {
       "id": "bunpou-n3-to-iu-koto-da-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "駅員さんの話では、事故のため電車は一時間ほど止まるということです。",
       "sentenceVi": "Theo nhân viên nhà ga, tàu sẽ phải dừng khoảng 1 giờ vì xảy ra tai nạn.",
       "targetGrammar": "〜ということだ",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tôi đã nghe điều đó; it có nghĩa là; nói cách khác\":",
       "options": [
         "〜ということだ",
         "〜ことになっている",
@@ -107,11 +107,11 @@
       "options": [
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
         "Cố gắng ; cố gắng ; sắp sửa",
-        "Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác",
+        "Tôi đã nghe điều đó; it có nghĩa là; nói cách khác",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜ということだ」 có nghĩa là: Tôi đã nghe điều đó; nó có nghĩa là; nói cách khác."
+      "explanation": "Mẫu 「〜ということだ」 mang ý nghĩa: \"Tôi đã nghe điều đó; it có nghĩa là; nói cách khác\"."
     }
   ]
 }

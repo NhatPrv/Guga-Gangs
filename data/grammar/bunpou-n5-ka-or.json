@@ -3,10 +3,10 @@
   "level": "N5",
   "pattern": "〜か（or）",
   "title": "〜か（or）",
-  "meaning": "Hoặc (sự lựa chọn giữa các danh từ)",
-  "meaningVi": "Hoặc (sự lựa chọn giữa các danh từ)",
-  "connection": "Danh từ (N) + か + Danh từ (N)",
-  "usageNotes": "Có nghĩa là một trong các mục được chọn. Để liệt kê các mục cùng nhau, hãy sử dụng と hoặc や.",
+  "meaning": "Hoặc là, hay là... (Lựa chọn)",
+  "meaningVi": "Hoặc là, hay là... (Lựa chọn)",
+  "connection": "Danh từ 1 + か + Danh từ 2",
+  "usageNotes": "Có nghĩa là một trong các mục được chọn. Để liệt kê các mục giống nhau, hãy sử dụng と hoặc や.",
   "examples": [
     {
       "ja": "飲み物はコーヒーか紅茶がいいです。",
@@ -42,11 +42,11 @@
       "options": [
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Chỉ đối tượng trực tiếp của hành động",
-        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Hoặc là, hay là... (Lựa chọn)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜か（or）」 mang ý nghĩa: \"Hoặc (sự lựa chọn giữa các danh từ)\"."
+      "explanation": "Mẫu 「〜か（or）」 mang ý nghĩa: \"Hoặc là, hay là... (Lựa chọn)\"."
     },
     {
       "id": "bunpou-n5-ka-or-q2",
@@ -73,12 +73,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
-        "Hoặc (sự lựa chọn giữa các danh từ)",
+        "Hoặc là, hay là... (Lựa chọn)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜か（or）」 mang ý nghĩa: \"Hoặc (sự lựa chọn giữa các danh từ)\"."
+      "explanation": "Mẫu 「〜か（or）」 mang ý nghĩa: \"Hoặc là, hay là... (Lựa chọn)\"."
     },
     {
       "id": "bunpou-n5-ka-or-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "飲み物はコーヒーか紅茶がいいです。",
       "sentenceVi": "Đối với đồ uống, cà phê hoặc trà sẽ tốt.",
       "targetGrammar": "〜か（or）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hoặc (sự lựa chọn giữa các danh từ)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hoặc là, hay là... (Lựa chọn)\":",
       "options": [
         "〜で（place of action）",
         "〜で（means）",
@@ -107,10 +107,10 @@
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
         "Với ; cùng với (một đối tác trong một hành động)",
         "Cũng... (Biểu thị sự tương tự)",
-        "Hoặc (sự lựa chọn giữa các danh từ)"
+        "Hoặc là, hay là... (Lựa chọn)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜か（or）」 có nghĩa là: Hoặc (sự lựa chọn giữa các danh từ)."
+      "explanation": "Mẫu 「〜か（or）」 mang ý nghĩa: \"Hoặc là, hay là... (Lựa chọn)\"."
     }
   ]
 }

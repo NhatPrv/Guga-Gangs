@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜わけではない",
   "title": "〜わけではない",
-  "meaning": "Không hẳn là... / Không nhất thiết là...",
-  "meaningVi": "Không hẳn là... / Không nhất thiết là...",
-  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + という + わけではない",
+  "meaning": "Không hẳn là... / Không nhất thiết là như vậy",
+  "meaningVi": "Không hẳn là... / Không nhất thiết là như vậy",
+  "connection": "Thể thông thường (Na + な, N + な/である) + わけではない",
   "usageNotes": "Sự phủ nhận một phần hoặc nhẹ nhàng những gì người nghe có thể giả định. Thường đi kèm với いつも, 全部 hoặc 必ずしも. Không giống như 〜わけがない, loại trừ một cách thẳng thừng điều gì đó.",
   "examples": [
     {
@@ -41,13 +41,13 @@
       "targetGrammar": "〜わけではない",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Không hẳn là... / Không nhất thiết là...",
+        "Không hẳn là... / Không nhất thiết là như vậy",
         "Không thể làm... (Vì lý do đạo đức, xã hội)",
         "Chắc chắn không... / Không đời nào...",
         "Thảo nào, hèn chi... / Đương nhiên là..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜わけではない」 mang ý nghĩa: \"Không hẳn là... / Không nhất thiết là...\"."
+      "explanation": "Mẫu 「〜わけではない」 mang ý nghĩa: \"Không hẳn là... / Không nhất thiết là như vậy\"."
     },
     {
       "id": "bunpou-n3-wake-de-wa-nai-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜わけではない",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Không hẳn là... / Không nhất thiết là...",
+        "Không hẳn là... / Không nhất thiết là như vậy",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Không cần phải làm vậy; không cần phải làm vậy"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜わけではない」 mang ý nghĩa: \"Không hẳn là... / Không nhất thiết là...\"."
+      "explanation": "Mẫu 「〜わけではない」 mang ý nghĩa: \"Không hẳn là... / Không nhất thiết là như vậy\"."
     },
     {
       "id": "bunpou-n3-wake-de-wa-nai-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "料理が嫌いなわけではないが、毎日作る時間がない。",
       "sentenceVi": "Không phải tôi không thích nấu ăn mà là tôi không có thời gian để nấu nướng hàng ngày.",
       "targetGrammar": "〜わけではない",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không hẳn là... / Không nhất thiết là...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không hẳn là... / Không nhất thiết là như vậy\":",
       "options": [
         "〜ことになっている",
         "〜ことにしている",
@@ -108,10 +108,10 @@
         "Cố gắng ; cố gắng ; sắp sửa",
         "Không thể ; không có vẻ như nó sẽ",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
-        "Không hẳn là... / Không nhất thiết là..."
+        "Không hẳn là... / Không nhất thiết là như vậy"
       ],
       "correctIndex": 3,
-      "explanation": "「〜わけではない」 có nghĩa là: Không hẳn là... / Không nhất thiết là...."
+      "explanation": "Mẫu 「〜わけではない」 mang ý nghĩa: \"Không hẳn là... / Không nhất thiết là như vậy\"."
     }
   ]
 }

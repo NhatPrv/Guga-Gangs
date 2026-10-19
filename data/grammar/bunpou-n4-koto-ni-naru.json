@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜ことになる",
   "title": "〜ことになる",
-  "meaning": "Điều đó đã được quyết định; hóa ra là thế",
-  "meaningVi": "Điều đó đã được quyết định; hóa ra là thế",
-  "connection": "Động từ (V)-dict / Động từ (V)-nai + ことになる",
+  "meaning": "Được quyết định là... (Quy định, quyết định tập thể)",
+  "meaningVi": "Được quyết định là... (Quy định, quyết định tập thể)",
+  "connection": "Động từ thể từ điển (V-る) / V-ない + ことになる",
   "usageNotes": "Trình bày một quyết định được đưa ra bởi người khác hoặc bởi hoàn cảnh. Mọi người cũng sử dụng nó cho các quyết định của riêng họ để có vẻ ít quyết đoán hơn.",
   "examples": [
     {
@@ -43,11 +43,11 @@
       "options": [
         "Ai đó làm giúp việc gì cho mình...",
         "Làm gì đó giúp cho ai...",
-        "Điều đó đã được quyết định; hóa ra là thế",
+        "Được quyết định là... (Quy định, quyết định tập thể)",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ことになる」 mang ý nghĩa: \"Điều đó đã được quyết định; hóa ra là thế\"."
+      "explanation": "Mẫu 「〜ことになる」 mang ý nghĩa: \"Được quyết định là... (Quy định, quyết định tập thể)\"."
     },
     {
       "id": "bunpou-n4-koto-ni-naru-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
-        "Điều đó đã được quyết định; hóa ra là thế",
+        "Được quyết định là... (Quy định, quyết định tập thể)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ことになる」 mang ý nghĩa: \"Điều đó đã được quyết định; hóa ra là thế\"."
+      "explanation": "Mẫu 「〜ことになる」 mang ý nghĩa: \"Được quyết định là... (Quy định, quyết định tập thể)\"."
     },
     {
       "id": "bunpou-n4-koto-ni-naru-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "来年の春から、名古屋の店で働くことになりました。",
       "sentenceVi": "Người ta đã quyết định rằng tôi sẽ làm việc tại cửa hàng Nagoya từ mùa xuân tới.",
       "targetGrammar": "〜ことになる",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Điều đó đã được quyết định; hóa ra là thế\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Được quyết định là... (Quy định, quyết định tập thể)\":",
       "options": [
         "〜てみる",
         "〜てある",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ことになる」 là gì?",
       "options": [
         "Nghe nói là... (Truyền đạt lại thông tin)",
-        "Điều đó đã được quyết định; hóa ra là thế",
+        "Được quyết định là... (Quy định, quyết định tập thể)",
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
       ],
       "correctIndex": 1,
-      "explanation": "「〜ことになる」 có nghĩa là: Điều đó đã được quyết định; hóa ra là thế."
+      "explanation": "Mẫu 「〜ことになる」 mang ý nghĩa: \"Được quyết định là... (Quy định, quyết định tập thể)\"."
     }
   ]
 }

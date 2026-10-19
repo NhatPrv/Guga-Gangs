@@ -3,10 +3,10 @@
   "level": "N3",
   "pattern": "〜ずに",
   "title": "〜ずに",
-  "meaning": "Không làm",
-  "meaningVi": "Không làm",
-  "connection": "Động từ (V)-nai stem + ずに",
-  "usageNotes": "Trang trọng hơn, viết theo phong cách tương đương với 〜ないで. Bất quy tắc: する → せずに (không phải しずに), 来る → 来ずに (こずに).",
+  "meaning": "Không làm gì mà... (Cách nói viết trang trọng của ないで)",
+  "meaningVi": "Không làm gì mà... (Cách nói viết trang trọng của ないで)",
+  "connection": "Động từ thể Nai bỏ ない + ずに (する → せずに)",
+  "usageNotes": "Trang quan trọng hơn, viết theo phong cách tương thích với 〜ないで. Bất kỳ quy tắc nào: する → せずに (không phải しずに), 来る → 来ずに (こずに).",
   "examples": [
     {
       "ja": "けさは朝ご飯を食べずに家を出た。",
@@ -43,12 +43,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Không hẳn là... / Không nhất thiết là...",
-        "Không làm",
+        "Không làm gì mà... (Cách nói viết trang trọng của ないで)",
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Chắc chắn không... / Không đời nào..."
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜ずに」 mang ý nghĩa: \"Không làm\"."
+      "explanation": "Mẫu 「〜ずに」 mang ý nghĩa: \"Không làm gì mà... (Cách nói viết trang trọng của ないで)\"."
     },
     {
       "id": "bunpou-n3-zu-ni-q2",
@@ -76,11 +76,11 @@
       "options": [
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Nên ; điều tốt nhất là (lời khuyên)",
-        "Không làm",
+        "Không làm gì mà... (Cách nói viết trang trọng của ないで)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ずに」 mang ý nghĩa: \"Không làm\"."
+      "explanation": "Mẫu 「〜ずに」 mang ý nghĩa: \"Không làm gì mà... (Cách nói viết trang trọng của ないで)\"."
     },
     {
       "id": "bunpou-n3-zu-ni-q4",
@@ -88,7 +88,7 @@
       "sentenceJa": "けさは朝ご飯を食べずに家を出た。",
       "sentenceVi": "Sáng nay tôi rời nhà mà không ăn sáng.",
       "targetGrammar": "〜ずに",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không làm\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không làm gì mà... (Cách nói viết trang trọng của ないで)\":",
       "options": [
         "〜ずに",
         "〜ことはない",
@@ -108,11 +108,11 @@
       "options": [
         "Cố gắng ; cố gắng ; sắp sửa",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
-        "Không làm",
+        "Không làm gì mà... (Cách nói viết trang trọng của ないで)",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜ずに」 có nghĩa là: Không làm."
+      "explanation": "Mẫu 「〜ずに」 mang ý nghĩa: \"Không làm gì mà... (Cách nói viết trang trọng của ないで)\"."
     }
   ]
 }

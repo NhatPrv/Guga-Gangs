@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜ふりをする",
   "title": "〜ふりをする",
-  "meaning": "Giả vờ ; hành động như thể",
-  "meaningVi": "Giả vờ ; hành động như thể",
-  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + ふりをする",
+  "meaning": "Giả vờ như là... / Tỏ ra vẻ như là...",
+  "meaningVi": "Giả vờ như là... / Tỏ ra vẻ như là...",
+  "connection": "Thể thông thường (Na + な, N + の) + ふりをする",
   "usageNotes": "Cố tình tạo ấn tượng sai. Động từ-ta phổ biến: 寝たふり, 死んだふり.",
   "examples": [
     {
@@ -41,13 +41,13 @@
       "targetGrammar": "〜ふりをする",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Giả vờ ; hành động như thể",
+        "Giả vờ như là... / Tỏ ra vẻ như là...",
         "Chắc chắn không... / Không đời nào...",
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Không hẳn là... / Không nhất thiết là..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ふりをする」 mang ý nghĩa: \"Giả vờ ; hành động như thể\"."
+      "explanation": "Mẫu 「〜ふりをする」 mang ý nghĩa: \"Giả vờ như là... / Tỏ ra vẻ như là...\"."
     },
     {
       "id": "bunpou-n3-furi-o-suru-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
-        "Giả vờ ; hành động như thể",
+        "Giả vờ như là... / Tỏ ra vẻ như là...",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Nên ; điều tốt nhất là (lời khuyên)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜ふりをする」 mang ý nghĩa: \"Giả vờ ; hành động như thể\"."
+      "explanation": "Mẫu 「〜ふりをする」 mang ý nghĩa: \"Giả vờ như là... / Tỏ ra vẻ như là...\"."
     },
     {
       "id": "bunpou-n3-furi-o-suru-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "母に呼ばれたが、聞こえないふりをしてゲームを続けた。",
       "sentenceVi": "Mẹ gọi cho tôi nhưng tôi giả vờ như không nghe thấy và tiếp tục chơi game.",
       "targetGrammar": "〜ふりをする",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Giả vờ ; hành động như thể\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Giả vờ như là... / Tỏ ra vẻ như là...\":",
       "options": [
         "〜ふりをする",
         "〜ことになっている",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ふりをする」 là gì?",
       "options": [
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
-        "Giả vờ ; hành động như thể",
+        "Giả vờ như là... / Tỏ ra vẻ như là...",
         "Cố gắng ; cố gắng ; sắp sửa",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜ふりをする」 có nghĩa là: Giả vờ ; hành động như thể."
+      "explanation": "Mẫu 「〜ふりをする」 mang ý nghĩa: \"Giả vờ như là... / Tỏ ra vẻ như là...\"."
     }
   ]
 }

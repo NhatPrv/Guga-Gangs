@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜から（reason）",
   "title": "〜から（reason）",
-  "meaning": "Vì... nên... (Nguyên nhân, lý do)",
-  "meaningVi": "Vì... nên... (Nguyên nhân, lý do)",
-  "connection": "Sentence + から",
+  "meaning": "Vì... nên... (Nêu lý do, nguyên nhân chủ quan)",
+  "meaningVi": "Vì... nên... (Nêu lý do, nguyên nhân chủ quan)",
+  "connection": "Mệnh đề [thể thông thường/lịch sự] + から",
   "usageNotes": "Lý do đến trước: A から B (A, vậy B). Trả lời どうして bằng 〜からです. Danh từ và tính từ な cần だ: 雨だから.",
   "examples": [
     {
@@ -42,11 +42,11 @@
       "options": [
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
-        "Vì... nên... (Nguyên nhân, lý do)",
+        "Vì... nên... (Nêu lý do, nguyên nhân chủ quan)",
         "Chỉ đối tượng trực tiếp của hành động"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜から（reason）」 mang ý nghĩa: \"Vì... nên... (Nguyên nhân, lý do)\"."
+      "explanation": "Mẫu 「〜から（reason）」 mang ý nghĩa: \"Vì... nên... (Nêu lý do, nguyên nhân chủ quan)\"."
     },
     {
       "id": "bunpou-n5-kara-reason-q2",
@@ -72,13 +72,13 @@
       "targetGrammar": "〜から（reason）",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Vì... nên... (Nguyên nhân, lý do)",
+        "Vì... nên... (Nêu lý do, nguyên nhân chủ quan)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜から（reason）」 mang ý nghĩa: \"Vì... nên... (Nguyên nhân, lý do)\"."
+      "explanation": "Mẫu 「〜から（reason）」 mang ý nghĩa: \"Vì... nên... (Nêu lý do, nguyên nhân chủ quan)\"."
     },
     {
       "id": "bunpou-n5-kara-reason-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "今日は寒いから、コートを着ます。",
       "sentenceVi": "Hôm nay trời lạnh nên tôi sẽ mặc áo khoác.",
       "targetGrammar": "〜から（reason）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Vì... nên... (Nguyên nhân, lý do)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Vì... nên... (Nêu lý do, nguyên nhân chủ quan)\":",
       "options": [
         "〜で（place of action）",
         "〜で（means）",
@@ -107,10 +107,10 @@
         "Hoặc (sự lựa chọn giữa các danh từ)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
         "Với ; cùng với (một đối tác trong một hành động)",
-        "Vì... nên... (Nguyên nhân, lý do)"
+        "Vì... nên... (Nêu lý do, nguyên nhân chủ quan)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜から（reason）」 có nghĩa là: Vì... nên... (Nguyên nhân, lý do)."
+      "explanation": "Mẫu 「〜から（reason）」 mang ý nghĩa: \"Vì... nên... (Nêu lý do, nguyên nhân chủ quan)\"."
     }
   ]
 }

@@ -3,10 +3,10 @@
   "level": "N4",
   "pattern": "〜ことができる",
   "title": "〜ことができる",
-  "meaning": "Có thể; có thể ; có thể",
-  "meaningVi": "Có thể; có thể ; có thể",
-  "connection": "Động từ (V)-dict + ことができる",
-  "usageNotes": "Trang trọng hơn một chút so với hình thức tiềm năng. Cũng được dùng cho những việc có thể hoặc được phép (ここでたばこを吸うことはできません).",
+  "meaning": "Có thể làm được việc gì (Khả năng)",
+  "meaningVi": "Có thể làm được việc gì (Khả năng)",
+  "connection": "Động từ thể từ điển (V-る) + ことができる",
+  "usageNotes": "Trang trọng hơn một chút so với tiềm năng hình thức. Cũng được sử dụng cho những công việc có thể hoặc được phép (ここでたばこを吸うことはできません).",
   "examples": [
     {
       "ja": "この図書館では、本を二週間借りることができます。",
@@ -41,13 +41,13 @@
       "targetGrammar": "〜ことができる",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Có thể; có thể ; có thể",
+        "Có thể làm được việc gì (Khả năng)",
         "Ai đó làm giúp việc gì cho mình...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Làm gì đó giúp cho ai..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ことができる」 mang ý nghĩa: \"Có thể; có thể ; có thể\"."
+      "explanation": "Mẫu 「〜ことができる」 mang ý nghĩa: \"Có thể làm được việc gì (Khả năng)\"."
     },
     {
       "id": "bunpou-n4-koto-ga-dekiru-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
-        "Có thể; có thể ; có thể",
+        "Có thể làm được việc gì (Khả năng)",
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜ことができる」 mang ý nghĩa: \"Có thể; có thể ; có thể\"."
+      "explanation": "Mẫu 「〜ことができる」 mang ý nghĩa: \"Có thể làm được việc gì (Khả năng)\"."
     },
     {
       "id": "bunpou-n4-koto-ga-dekiru-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "この図書館では、本を二週間借りることができます。",
       "sentenceVi": "Tại thư viện này, bạn có thể mượn sách trong hai tuần.",
       "targetGrammar": "〜ことができる",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có thể; có thể ; có thể\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Có thể làm được việc gì (Khả năng)\":",
       "options": [
         "〜とき",
         "〜ことができる",
@@ -105,13 +105,13 @@
       "targetGrammar": "〜ことができる",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ことができる」 là gì?",
       "options": [
-        "Có thể; có thể ; có thể",
+        "Có thể làm được việc gì (Khả năng)",
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Nghe nói là... (Truyền đạt lại thông tin)"
       ],
       "correctIndex": 0,
-      "explanation": "「〜ことができる」 có nghĩa là: Có thể; có thể ; có thể."
+      "explanation": "Mẫu 「〜ことができる」 mang ý nghĩa: \"Có thể làm được việc gì (Khả năng)\"."
     }
   ]
 }

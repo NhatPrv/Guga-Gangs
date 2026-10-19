@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜で（means）",
   "title": "〜で（means）",
-  "meaning": "Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)",
-  "meaningVi": "Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)",
-  "connection": "Danh từ (N) + で",
+  "meaning": "Bằng, bằng cách... (Chỉ phương tiện, công cụ, ngôn ngữ)",
+  "meaningVi": "Bằng, bằng cách... (Chỉ phương tiện, công cụ, ngôn ngữ)",
+  "connection": "Phương tiện/Công cụ (N) + で",
   "usageNotes": "Để nói 'đi bộ', hãy sử dụng 歩いて行きます thay vì で.",
   "examples": [
     {
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Chỉ đối tượng trực tiếp của hành động",
-        "Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)",
+        "Bằng, bằng cách... (Chỉ phương tiện, công cụ, ngôn ngữ)",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜で（means）」 mang ý nghĩa: \"Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)\"."
+      "explanation": "Mẫu 「〜で（means）」 mang ý nghĩa: \"Bằng, bằng cách... (Chỉ phương tiện, công cụ, ngôn ngữ)\"."
     },
     {
       "id": "bunpou-n5-de-means-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
-        "Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)",
+        "Bằng, bằng cách... (Chỉ phương tiện, công cụ, ngôn ngữ)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜で（means）」 mang ý nghĩa: \"Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)\"."
+      "explanation": "Mẫu 「〜で（means）」 mang ý nghĩa: \"Bằng, bằng cách... (Chỉ phương tiện, công cụ, ngôn ngữ)\"."
     },
     {
       "id": "bunpou-n5-de-means-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "毎日電車で会社へ行きます。",
       "sentenceVi": "Tôi đi làm bằng tàu hỏa hàng ngày.",
       "targetGrammar": "〜で（means）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Bằng, bằng cách... (Chỉ phương tiện, công cụ, ngôn ngữ)\":",
       "options": [
         "〜で（place of action）",
         "〜で（means）",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜で（means）」 là gì?",
       "options": [
         "Cũng... (Biểu thị sự tương tự)",
-        "Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)",
+        "Bằng, bằng cách... (Chỉ phương tiện, công cụ, ngôn ngữ)",
         "Hoặc (sự lựa chọn giữa các danh từ)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜で（means）」 có nghĩa là: Bởi ; với; trong (phương tiện, công cụ, phương pháp hoặc ngôn ngữ)."
+      "explanation": "Mẫu 「〜で（means）」 mang ý nghĩa: \"Bằng, bằng cách... (Chỉ phương tiện, công cụ, ngôn ngữ)\"."
     }
   ]
 }

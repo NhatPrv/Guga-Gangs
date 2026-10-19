@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜に違いない",
   "title": "〜に違いない",
-  "meaning": "Chắc chắn là... (Phán đoán chủ quan chắc nịch)",
-  "meaningVi": "Chắc chắn là... (Phán đoán chủ quan chắc nịch)",
-  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + に違いない",
+  "meaning": "Chắc chắn là... (Khẳng định chủ quan đầy tự tin)",
+  "meaningVi": "Chắc chắn là... (Khẳng định chủ quan đầy tự tin)",
+  "connection": "Thể thông thường (Na/N không có だ) + に違いない",
   "usageNotes": "Niềm tin mạnh mẽ dựa trên bằng chứng hoặc trực giác; một giọng điệu hơi viết. So sánh 〜に決まっている, cái nào mang tính chủ quan và mang tính đối thoại hơn.",
   "examples": [
     {
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Thảo nào, hèn chi... / Đương nhiên là...",
-        "Chắc chắn là... (Phán đoán chủ quan chắc nịch)",
+        "Chắc chắn là... (Khẳng định chủ quan đầy tự tin)",
         "Chắc chắn không... / Không đời nào...",
         "Không hẳn là... / Không nhất thiết là..."
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜に違いない」 mang ý nghĩa: \"Chắc chắn là... (Phán đoán chủ quan chắc nịch)\"."
+      "explanation": "Mẫu 「〜に違いない」 mang ý nghĩa: \"Chắc chắn là... (Khẳng định chủ quan đầy tự tin)\"."
     },
     {
       "id": "bunpou-n3-ni-chigai-nai-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
-        "Chắc chắn là... (Phán đoán chủ quan chắc nịch)",
+        "Chắc chắn là... (Khẳng định chủ quan đầy tự tin)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜に違いない」 mang ý nghĩa: \"Chắc chắn là... (Phán đoán chủ quan chắc nịch)\"."
+      "explanation": "Mẫu 「〜に違いない」 mang ý nghĩa: \"Chắc chắn là... (Khẳng định chủ quan đầy tự tin)\"."
     },
     {
       "id": "bunpou-n3-ni-chigai-nai-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "隣の家は何日も電気が消えている。家族で旅行に出かけたに違いない。",
       "sentenceVi": "Đèn bên cạnh đã tắt từ nhiều ngày. Chắc hẳn gia đình đã đi du lịch.",
       "targetGrammar": "〜に違いない",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chắc chắn là... (Phán đoán chủ quan chắc nịch)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chắc chắn là... (Khẳng định chủ quan đầy tự tin)\":",
       "options": [
         "〜ことにしている",
         "〜に違いない",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜に違いない」 là gì?",
       "options": [
         "Cố gắng ; cố gắng ; sắp sửa",
-        "Chắc chắn là... (Phán đoán chủ quan chắc nịch)",
+        "Chắc chắn là... (Khẳng định chủ quan đầy tự tin)",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜に違いない」 có nghĩa là: Chắc chắn là... (Phán đoán chủ quan chắc nịch)."
+      "explanation": "Mẫu 「〜に違いない」 mang ý nghĩa: \"Chắc chắn là... (Khẳng định chủ quan đầy tự tin)\"."
     }
   ]
 }

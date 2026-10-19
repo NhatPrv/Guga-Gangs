@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜わけがない",
   "title": "〜わけがない",
-  "meaning": "Chắc chắn không... / Không đời nào...",
-  "meaningVi": "Chắc chắn không... / Không đời nào...",
-  "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + わけがない",
+  "meaning": "Chắc chắn không thể... / Không đời nào...",
+  "meaningVi": "Chắc chắn không thể... / Không đời nào...",
+  "connection": "Thể thông thường (Na + な, N + の) + わけがない",
   "usageNotes": "Niềm tin chắc chắn của người nói rằng điều gì đó là không thể. Bình thường: 〜わけない. Gần giống với 〜はずがない, nhưng nghe có vẻ cảm xúc hơn và ít dựa trên lý lẽ hơn.",
   "examples": [
     {
@@ -44,11 +44,11 @@
       "options": [
         "Không thể làm... (Vì lý do đạo đức, xã hội)",
         "Không hẳn là... / Không nhất thiết là...",
-        "Chắc chắn không... / Không đời nào...",
+        "Chắc chắn không thể... / Không đời nào...",
         "Thảo nào, hèn chi... / Đương nhiên là..."
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜わけがない」 mang ý nghĩa: \"Chắc chắn không... / Không đời nào...\"."
+      "explanation": "Mẫu 「〜わけがない」 mang ý nghĩa: \"Chắc chắn không thể... / Không đời nào...\"."
     },
     {
       "id": "bunpou-n3-wake-ga-nai-q2",
@@ -74,13 +74,13 @@
       "targetGrammar": "〜わけがない",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Chắc chắn không... / Không đời nào...",
+        "Chắc chắn không thể... / Không đời nào...",
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Không cần phải làm vậy; không cần phải làm vậy"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜わけがない」 mang ý nghĩa: \"Chắc chắn không... / Không đời nào...\"."
+      "explanation": "Mẫu 「〜わけがない」 mang ý nghĩa: \"Chắc chắn không thể... / Không đời nào...\"."
     },
     {
       "id": "bunpou-n3-wake-ga-nai-q4",
@@ -88,7 +88,7 @@
       "sentenceJa": "こんなに練習したんだから、負けるわけがない。",
       "sentenceVi": "Chúng tôi đã tập luyện chăm chỉ đến thế này nên không đời nào chúng tôi sẽ thua được.",
       "targetGrammar": "〜わけがない",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chắc chắn không... / Không đời nào...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chắc chắn không thể... / Không đời nào...\":",
       "options": [
         "〜ことになっている",
         "〜こと（instruction）",
@@ -107,12 +107,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜わけがない」 là gì?",
       "options": [
         "Cố gắng ; cố gắng ; sắp sửa",
-        "Chắc chắn không... / Không đời nào...",
+        "Chắc chắn không thể... / Không đời nào...",
         "Không thể ; không có vẻ như nó sẽ",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜わけがない」 có nghĩa là: Chắc chắn không... / Không đời nào...."
+      "explanation": "Mẫu 「〜わけがない」 mang ý nghĩa: \"Chắc chắn không thể... / Không đời nào...\"."
     }
   ]
 }

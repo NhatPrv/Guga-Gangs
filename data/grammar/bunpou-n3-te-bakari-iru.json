@@ -3,8 +3,8 @@
   "level": "N3",
   "pattern": "〜てばかりいる",
   "title": "〜てばかりいる",
-  "meaning": "Không làm gì khác ngoài; tiếp tục làm (quan trọng)",
-  "meaningVi": "Không làm gì khác ngoài; tiếp tục làm (quan trọng)",
+  "meaning": "Không làm gì khác bên ngoài; continue doing (quan trọng)",
+  "meaningVi": "Không làm gì khác bên ngoài; continue doing (quan trọng)",
   "connection": "Động từ (V)-te + ばかりいる",
   "usageNotes": "Một hành động lặp đi lặp lại hoặc liên tục, thường kèm theo sự chỉ trích hoặc không hài lòng. So sánh Danh từ N4 + ばかり (甘い物ばかり食べる).",
   "examples": [
@@ -42,13 +42,13 @@
       "targetGrammar": "〜てばかりいる",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Không làm gì khác ngoài; tiếp tục làm (quan trọng)",
+        "Không làm gì khác bên ngoài; continue doing (quan trọng)",
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Chắc chắn không... / Không đời nào...",
         "Không hẳn là... / Không nhất thiết là..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜てばかりいる」 mang ý nghĩa: \"Không làm gì khác ngoài; tiếp tục làm (quan trọng)\"."
+      "explanation": "Mẫu 「〜てばかりいる」 mang ý nghĩa: \"Không làm gì khác bên ngoài; continue doing (quan trọng)\"."
     },
     {
       "id": "bunpou-n3-te-bakari-iru-q2",
@@ -77,10 +77,10 @@
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Nên ; điều tốt nhất là (lời khuyên)",
-        "Không làm gì khác ngoài; tiếp tục làm (quan trọng)"
+        "Không làm gì khác bên ngoài; continue doing (quan trọng)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜てばかりいる」 mang ý nghĩa: \"Không làm gì khác ngoài; tiếp tục làm (quan trọng)\"."
+      "explanation": "Mẫu 「〜てばかりいる」 mang ý nghĩa: \"Không làm gì khác bên ngoài; continue doing (quan trọng)\"."
     },
     {
       "id": "bunpou-n3-te-bakari-iru-q4",
@@ -88,7 +88,7 @@
       "sentenceJa": "弟は休みの日、ゲームをしてばかりいる。",
       "sentenceVi": "Vào những ngày nghỉ, em trai tôi không làm gì khác ngoài chơi game.",
       "targetGrammar": "〜てばかりいる",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không làm gì khác ngoài; tiếp tục làm (quan trọng)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không làm gì khác bên ngoài; continue doing (quan trọng)\":",
       "options": [
         "〜ことにしている",
         "〜てばかりいる",
@@ -107,12 +107,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜てばかりいる」 là gì?",
       "options": [
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
-        "Không làm gì khác ngoài; tiếp tục làm (quan trọng)",
+        "Không làm gì khác bên ngoài; continue doing (quan trọng)",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
         "Cố gắng ; cố gắng ; sắp sửa"
       ],
       "correctIndex": 1,
-      "explanation": "「〜てばかりいる」 có nghĩa là: Không làm gì khác ngoài; tiếp tục làm (quan trọng)."
+      "explanation": "Mẫu 「〜てばかりいる」 mang ý nghĩa: \"Không làm gì khác bên ngoài; continue doing (quan trọng)\"."
     }
   ]
 }

@@ -3,8 +3,8 @@
   "level": "N3",
   "pattern": "〜ついでに",
   "title": "〜ついでに",
-  "meaning": "Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó",
-  "meaningVi": "Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó",
+  "meaning": "Trong khi (lúc đó); nhân đôi; vì dù sao thì người ta cũng đang làm việc đó",
+  "meaningVi": "Trong khi (lúc đó); nhân đôi; vì dù sao thì người ta cũng đang làm việc đó",
   "connection": "Động từ (V)-dict / Động từ (V)-ta / Danh từ (N) + の + ついでに",
   "usageNotes": "Hành động chính vẫn xảy ra; cái thứ hai được thêm vào vì nó thuận tiện. So sánh N1 〜がてら.",
   "examples": [
@@ -44,10 +44,10 @@
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Chắc chắn không... / Không đời nào...",
         "Không hẳn là... / Không nhất thiết là...",
-        "Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó"
+        "Trong khi (lúc đó); nhân đôi; vì dù sao thì người ta cũng đang làm việc đó"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ついでに」 mang ý nghĩa: \"Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó\"."
+      "explanation": "Mẫu 「〜ついでに」 mang ý nghĩa: \"Trong khi (lúc đó); nhân đôi; vì dù sao thì người ta cũng đang làm việc đó\"."
     },
     {
       "id": "bunpou-n3-tsuide-ni-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜ついでに",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó",
+        "Trong khi (lúc đó); nhân đôi; vì dù sao thì người ta cũng đang làm việc đó",
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ついでに」 mang ý nghĩa: \"Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó\"."
+      "explanation": "Mẫu 「〜ついでに」 mang ý nghĩa: \"Trong khi (lúc đó); nhân đôi; vì dù sao thì người ta cũng đang làm việc đó\"."
     },
     {
       "id": "bunpou-n3-tsuide-ni-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "郵便局へ行くついでに、この手紙も出してきてくれる？",
       "sentenceVi": "Vì bạn sắp đến bưu điện nên bạn có thể gửi lá thư này được không?",
       "targetGrammar": "〜ついでに",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong khi (lúc đó); nhân đôi; vì dù sao thì người ta cũng đang làm việc đó\":",
       "options": [
         "〜ことはない",
         "〜ついでに",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ついでに」 là gì?",
       "options": [
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
-        "Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó",
+        "Trong khi (lúc đó); nhân đôi; vì dù sao thì người ta cũng đang làm việc đó",
         "Cố gắng ; cố gắng ; sắp sửa",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜ついでに」 có nghĩa là: Trong khi (lúc đó); nhân dịp; vì dù sao thì người ta cũng đang làm việc đó."
+      "explanation": "Mẫu 「〜ついでに」 mang ý nghĩa: \"Trong khi (lúc đó); nhân đôi; vì dù sao thì người ta cũng đang làm việc đó\"."
     }
   ]
 }

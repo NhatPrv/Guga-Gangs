@@ -3,8 +3,8 @@
   "level": "N4",
   "pattern": "〜中",
   "title": "〜中",
-  "meaning": "Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)",
-  "meaningVi": "Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)",
+  "meaning": "Ở giữa; trong thời gian (ちゅう); mọi nơi; Khắp nơi (じゅう)",
+  "meaningVi": "Ở giữa; trong thời gian (ちゅう); mọi nơi; Khắp nơi (じゅう)",
   "connection": "Danh từ (N) + 中",
   "usageNotes": "ちゅう đánh dấu một hoạt động đang diễn ra hoặc một khoảng thời gian (会議中, 午前中, 今週中); じゅう có nghĩa là 'xuyên suốt' một thời gian hoặc địa điểm (一日中, 世界中).",
   "examples": [
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Ai đó làm giúp việc gì cho mình...",
-        "Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)",
+        "Ở giữa; trong thời gian (ちゅう); mọi nơi; Khắp nơi (じゅう)",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Làm gì đó giúp cho ai..."
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜中」 mang ý nghĩa: \"Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)\"."
+      "explanation": "Mẫu 「〜中」 mang ý nghĩa: \"Ở giữa; trong thời gian (ちゅう); mọi nơi; Khắp nơi (じゅう)\"."
     },
     {
       "id": "bunpou-n4-chuu-juu-q2",
@@ -76,10 +76,10 @@
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Làm sẵn gì đó trước (Chuẩn bị)",
-        "Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)"
+        "Ở giữa; trong thời gian (ちゅう); mọi nơi; Khắp nơi (じゅう)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜中」 mang ý nghĩa: \"Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)\"."
+      "explanation": "Mẫu 「〜中」 mang ý nghĩa: \"Ở giữa; trong thời gian (ちゅう); mọi nơi; Khắp nơi (じゅう)\"."
     },
     {
       "id": "bunpou-n4-chuu-juu-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "父は今、電話中です。",
       "sentenceVi": "Bố tôi hiện đang nghe điện thoại.",
       "targetGrammar": "〜中",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ở giữa; trong thời gian (ちゅう); mọi nơi; Khắp nơi (じゅう)\":",
       "options": [
         "〜てみる",
         "〜てある",
@@ -107,11 +107,11 @@
       "options": [
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)",
+        "Ở giữa; trong thời gian (ちゅう); mọi nơi; Khắp nơi (じゅう)",
         "Nghe nói là... (Truyền đạt lại thông tin)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜中」 có nghĩa là: Ở giữa; trong thời gian (ちゅう); khắp; khắp nơi (じゅう)."
+      "explanation": "Mẫu 「〜中」 mang ý nghĩa: \"Ở giữa; trong thời gian (ちゅう); mọi nơi; Khắp nơi (じゅう)\"."
     }
   ]
 }

@@ -3,8 +3,8 @@
   "level": "N5",
   "pattern": "〜は",
   "title": "〜は",
-  "meaning": "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
-  "meaningVi": "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+  "meaning": "Thì, là... (Trợ từ chỉ chủ đề của câu)",
+  "meaningVi": "Thì, là... (Trợ từ chỉ chủ đề của câu)",
   "connection": "Danh từ (N) + は",
   "usageNotes": "Viết は nhưng phát âm là 'wa'. Nó thiết lập nội dung câu nói; thông tin quan trọng sẽ xuất hiện sau nó.",
   "examples": [
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
-        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, là... (Trợ từ chỉ chủ đề của câu)",
         "Vào lúc... (Chỉ mốc thời gian cụ thể)",
         "Chỉ đối tượng trực tiếp của hành động"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜は」 mang ý nghĩa: \"Thì, là... (Trợ từ biểu thị chủ đề câu nói)\"."
+      "explanation": "Mẫu 「〜は」 mang ý nghĩa: \"Thì, là... (Trợ từ chỉ chủ đề của câu)\"."
     },
     {
       "id": "bunpou-n5-wa-q2",
@@ -76,10 +76,10 @@
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Tại, ở... (Chỉ nơi diễn ra hành động)",
-        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
+        "Thì, là... (Trợ từ chỉ chủ đề của câu)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜は」 mang ý nghĩa: \"Thì, là... (Trợ từ biểu thị chủ đề câu nói)\"."
+      "explanation": "Mẫu 「〜は」 mang ý nghĩa: \"Thì, là... (Trợ từ chỉ chủ đề của câu)\"."
     },
     {
       "id": "bunpou-n5-wa-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "私は学生です。",
       "sentenceVi": "Tôi là một sinh viên.",
       "targetGrammar": "〜は",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thì, là... (Trợ từ biểu thị chủ đề câu nói)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thì, là... (Trợ từ chỉ chủ đề của câu)\":",
       "options": [
         "〜で（means）",
         "〜と（with）",
@@ -105,13 +105,13 @@
       "targetGrammar": "〜は",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜は」 là gì?",
       "options": [
-        "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
+        "Thì, là... (Trợ từ chỉ chủ đề của câu)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
         "Hoặc (sự lựa chọn giữa các danh từ)",
         "Cũng... (Biểu thị sự tương tự)"
       ],
       "correctIndex": 0,
-      "explanation": "「〜は」 có nghĩa là: Thì, là... (Trợ từ biểu thị chủ đề câu nói)."
+      "explanation": "Mẫu 「〜は」 mang ý nghĩa: \"Thì, là... (Trợ từ chỉ chủ đề của câu)\"."
     }
   ]
 }

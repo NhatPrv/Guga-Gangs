@@ -3,10 +3,10 @@
   "level": "N3",
   "pattern": "〜しかない",
   "title": "〜しかない",
-  "meaning": "Không có lựa chọn nào khác ngoài việc; chỉ có thể",
-  "meaningVi": "Không có lựa chọn nào khác ngoài việc; chỉ có thể",
-  "connection": "Động từ (V)-dict + しかない",
-  "usageNotes": "Không có lựa chọn nào khác nên người nói chấp nhận lựa chọn này. Khác với Danh từ + しか〜ない ('chỉ'). Tương đương N2 trang trọng: 〜ほかない.",
+  "meaning": "Chỉ còn cách là... / Không còn lựa chọn nào khác",
+  "meaningVi": "Chỉ còn cách là... / Không còn lựa chọn nào khác",
+  "connection": "Động từ thể từ điển (V-る) + しかない",
+  "usageNotes": "Không có lựa chọn nào khác nên người nói chấp nhận lựa chọn này. Khác với Danh từ + しか〜ない ('chỉ'). Tương đương N2 trang quan trọng: 〜ほかない.",
   "examples": [
     {
       "ja": "終電に乗り遅れたから、タクシーで帰るしかない。",
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Thảo nào, hèn chi... / Đương nhiên là...",
-        "Không có lựa chọn nào khác ngoài việc; chỉ có thể",
+        "Chỉ còn cách là... / Không còn lựa chọn nào khác",
         "Không hẳn là... / Không nhất thiết là...",
         "Chắc chắn không... / Không đời nào..."
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜しかない」 mang ý nghĩa: \"Không có lựa chọn nào khác ngoài việc; chỉ có thể\"."
+      "explanation": "Mẫu 「〜しかない」 mang ý nghĩa: \"Chỉ còn cách là... / Không còn lựa chọn nào khác\"."
     },
     {
       "id": "bunpou-n3-shika-nai-no-choice-q2",
@@ -76,10 +76,10 @@
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Nên ; điều tốt nhất là (lời khuyên)",
-        "Không có lựa chọn nào khác ngoài việc; chỉ có thể"
+        "Chỉ còn cách là... / Không còn lựa chọn nào khác"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜しかない」 mang ý nghĩa: \"Không có lựa chọn nào khác ngoài việc; chỉ có thể\"."
+      "explanation": "Mẫu 「〜しかない」 mang ý nghĩa: \"Chỉ còn cách là... / Không còn lựa chọn nào khác\"."
     },
     {
       "id": "bunpou-n3-shika-nai-no-choice-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "終電に乗り遅れたから、タクシーで帰るしかない。",
       "sentenceVi": "Tôi đã lỡ chuyến tàu cuối cùng nên không còn cách nào khác là bắt taxi về nhà.",
       "targetGrammar": "〜しかない",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không có lựa chọn nào khác ngoài việc; chỉ có thể\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Chỉ còn cách là... / Không còn lựa chọn nào khác\":",
       "options": [
         "〜ことはない",
         "〜しかない",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜しかない」 là gì?",
       "options": [
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
-        "Không có lựa chọn nào khác ngoài việc; chỉ có thể",
+        "Chỉ còn cách là... / Không còn lựa chọn nào khác",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
         "Cố gắng ; cố gắng ; sắp sửa"
       ],
       "correctIndex": 1,
-      "explanation": "「〜しかない」 có nghĩa là: Không có lựa chọn nào khác ngoài việc; chỉ có thể."
+      "explanation": "Mẫu 「〜しかない」 mang ý nghĩa: \"Chỉ còn cách là... / Không còn lựa chọn nào khác\"."
     }
   ]
 }

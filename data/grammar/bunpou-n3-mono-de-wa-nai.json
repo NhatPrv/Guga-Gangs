@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜ものではない",
   "title": "〜ものではない",
-  "meaning": "Người ta không nên; điều đó không đúng",
-  "meaningVi": "Người ta không nên; điều đó không đúng",
-  "connection": "Động từ (V)-dict + ものではない",
+  "meaning": "Không nên làm gì đó (Lời khuyên răn đạo đức)",
+  "meaningVi": "Không nên làm gì đó (Lời khuyên răn đạo đức)",
+  "connection": "Động từ thể từ điển (V-る) + ものではない",
   "usageNotes": "Lời khuyên dựa trên lẽ thường hoặc chuẩn mực xã hội, thường là từ người lớn tuổi. Bình thường: 〜もんじゃない. Nghe có vẻ giống sự hiểu biết thông thường hơn là 〜べきではない.",
   "examples": [
     {
@@ -43,11 +43,11 @@
       "options": [
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Chắc chắn không... / Không đời nào...",
-        "Người ta không nên; điều đó không đúng",
+        "Không nên làm gì đó (Lời khuyên răn đạo đức)",
         "Không hẳn là... / Không nhất thiết là..."
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ものではない」 mang ý nghĩa: \"Người ta không nên; điều đó không đúng\"."
+      "explanation": "Mẫu 「〜ものではない」 mang ý nghĩa: \"Không nên làm gì đó (Lời khuyên răn đạo đức)\"."
     },
     {
       "id": "bunpou-n3-mono-de-wa-nai-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Không cần phải làm vậy; không cần phải làm vậy",
         "Nên ; điều tốt nhất là (lời khuyên)",
-        "Người ta không nên; điều đó không đúng",
+        "Không nên làm gì đó (Lời khuyên răn đạo đức)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ものではない」 mang ý nghĩa: \"Người ta không nên; điều đó không đúng\"."
+      "explanation": "Mẫu 「〜ものではない」 mang ý nghĩa: \"Không nên làm gì đó (Lời khuyên răn đạo đức)\"."
     },
     {
       "id": "bunpou-n3-mono-de-wa-nai-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "人の失敗を笑うものではない。",
       "sentenceVi": "Bạn không nên cười nhạo lỗi lầm của người khác.",
       "targetGrammar": "〜ものではない",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Người ta không nên; điều đó không đúng\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Không nên làm gì đó (Lời khuyên răn đạo đức)\":",
       "options": [
         "〜ものではない",
         "〜ことになっている",
@@ -105,13 +105,13 @@
       "targetGrammar": "〜ものではない",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ものではない」 là gì?",
       "options": [
-        "Người ta không nên; điều đó không đúng",
+        "Không nên làm gì đó (Lời khuyên răn đạo đức)",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
         "Không thể ; không có vẻ như nó sẽ",
         "Cố gắng ; cố gắng ; sắp sửa"
       ],
       "correctIndex": 0,
-      "explanation": "「〜ものではない」 có nghĩa là: Người ta không nên; điều đó không đúng."
+      "explanation": "Mẫu 「〜ものではない」 mang ý nghĩa: \"Không nên làm gì đó (Lời khuyên răn đạo đức)\"."
     }
   ]
 }

@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜ほうがいい",
   "title": "〜ほうがいい",
-  "meaning": "Nên làm gì đó (Lời khuyên)",
-  "meaningVi": "Nên làm gì đó (Lời khuyên)",
-  "connection": "Động từ (V)-ta / Động từ (V)-nai + ほうがいい",
+  "meaning": "Nên làm gì đó (Đưa ra lời khuyên hữu ích)",
+  "meaningVi": "Nên làm gì đó (Đưa ra lời khuyên hữu ích)",
+  "connection": "Động từ thể Ta (V-た) + ほうがいい",
   "usageNotes": "Để được tư vấn, dạng quá khứ (行ったほうがいい) là lựa chọn thông thường và nghe mạnh mẽ hơn. Thể phủ định sử dụng dạng ない, không phải quá khứ.",
   "examples": [
     {
@@ -42,11 +42,11 @@
       "options": [
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Ai đó làm giúp việc gì cho mình...",
-        "Nên làm gì đó (Lời khuyên)",
+        "Nên làm gì đó (Đưa ra lời khuyên hữu ích)",
         "Làm gì đó giúp cho ai..."
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ほうがいい」 mang ý nghĩa: \"Nên làm gì đó (Lời khuyên)\"."
+      "explanation": "Mẫu 「〜ほうがいい」 mang ý nghĩa: \"Nên làm gì đó (Đưa ra lời khuyên hữu ích)\"."
     },
     {
       "id": "bunpou-n4-hou-ga-ii-q2",
@@ -73,12 +73,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
-        "Nên làm gì đó (Lời khuyên)",
+        "Nên làm gì đó (Đưa ra lời khuyên hữu ích)",
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜ほうがいい」 mang ý nghĩa: \"Nên làm gì đó (Lời khuyên)\"."
+      "explanation": "Mẫu 「〜ほうがいい」 mang ý nghĩa: \"Nên làm gì đó (Đưa ra lời khuyên hữu ích)\"."
     },
     {
       "id": "bunpou-n4-hou-ga-ii-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "熱があるなら、病院に行ったほうがいいですよ。",
       "sentenceVi": "Nếu bị sốt thì tốt nhất nên đến bệnh viện.",
       "targetGrammar": "〜ほうがいい",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nên làm gì đó (Lời khuyên)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nên làm gì đó (Đưa ra lời khuyên hữu ích)\":",
       "options": [
         "〜てみる",
         "〜ほうがいい",
@@ -106,11 +106,11 @@
       "options": [
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "Nên làm gì đó (Lời khuyên)",
+        "Nên làm gì đó (Đưa ra lời khuyên hữu ích)",
         "Nghe nói là... (Truyền đạt lại thông tin)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜ほうがいい」 có nghĩa là: Nên làm gì đó (Lời khuyên)."
+      "explanation": "Mẫu 「〜ほうがいい」 mang ý nghĩa: \"Nên làm gì đó (Đưa ra lời khuyên hữu ích)\"."
     }
   ]
 }

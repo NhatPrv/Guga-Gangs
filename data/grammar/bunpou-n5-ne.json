@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜ね",
   "title": "〜ね",
-  "meaning": "...nhỉ, ...nhé (Xác nhận, đồng tình)",
-  "meaningVi": "...nhỉ, ...nhé (Xác nhận, đồng tình)",
-  "connection": "Sentence + ね",
+  "meaning": "...nhỉ, ...nhé (Tìm kiếm sự đồng tình, xác nhận)",
+  "meaningVi": "...nhỉ, ...nhé (Tìm kiếm sự đồng tình, xác nhận)",
+  "connection": "Cuối câu + ね",
   "usageNotes": "Được sử dụng khi người nói mong muốn người nghe chia sẻ cùng quan điểm hoặc kiến ​​thức. So sánh よ, cho người nghe biết điều gì đó mới mẻ.",
   "examples": [
     {
@@ -40,13 +40,13 @@
       "targetGrammar": "〜ね",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "...nhỉ, ...nhé (Xác nhận, đồng tình)",
+        "...nhỉ, ...nhé (Tìm kiếm sự đồng tình, xác nhận)",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
         "Chỉ đối tượng trực tiếp của hành động"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ね」 mang ý nghĩa: \"...nhỉ, ...nhé (Xác nhận, đồng tình)\"."
+      "explanation": "Mẫu 「〜ね」 mang ý nghĩa: \"...nhỉ, ...nhé (Tìm kiếm sự đồng tình, xác nhận)\"."
     },
     {
       "id": "bunpou-n5-ne-q2",
@@ -72,13 +72,13 @@
       "targetGrammar": "〜ね",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "...nhỉ, ...nhé (Xác nhận, đồng tình)",
+        "...nhỉ, ...nhé (Tìm kiếm sự đồng tình, xác nhận)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ね」 mang ý nghĩa: \"...nhỉ, ...nhé (Xác nhận, đồng tình)\"."
+      "explanation": "Mẫu 「〜ね」 mang ý nghĩa: \"...nhỉ, ...nhé (Tìm kiếm sự đồng tình, xác nhận)\"."
     },
     {
       "id": "bunpou-n5-ne-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "今日は暑いですね。",
       "sentenceVi": "Hôm nay trời nóng quá phải không?",
       "targetGrammar": "〜ね",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"...nhỉ, ...nhé (Xác nhận, đồng tình)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"...nhỉ, ...nhé (Tìm kiếm sự đồng tình, xác nhận)\":",
       "options": [
         "〜と（and）",
         "〜で（place of action）",
@@ -106,11 +106,11 @@
       "options": [
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
         "Với ; cùng với (một đối tác trong một hành động)",
-        "...nhỉ, ...nhé (Xác nhận, đồng tình)",
+        "...nhỉ, ...nhé (Tìm kiếm sự đồng tình, xác nhận)",
         "Hoặc (sự lựa chọn giữa các danh từ)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜ね」 có nghĩa là: ...nhỉ, ...nhé (Xác nhận, đồng tình)."
+      "explanation": "Mẫu 「〜ね」 mang ý nghĩa: \"...nhỉ, ...nhé (Tìm kiếm sự đồng tình, xác nhận)\"."
     }
   ]
 }

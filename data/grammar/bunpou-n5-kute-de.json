@@ -3,8 +3,8 @@
   "level": "N5",
   "pattern": "〜くて / 〜で",
   "title": "〜くて / 〜で",
-  "meaning": "Và (nối tính từ hoặc danh từ)",
-  "meaningVi": "Và (nối tính từ hoặc danh từ)",
+  "meaning": "Và (kết hợp từ hoặc danh từ)",
+  "meaningVi": "Và (kết hợp từ hoặc danh từ)",
   "connection": "i-Adj-ku + て / na-Adj + で / Danh từ (N) + で",
   "usageNotes": "いい trở thành よくて. Kết hợp những phẩm chất chỉ ra cùng một hướng (cả tốt hoặc cả xấu); để tương phản, hãy sử dụng が thay thế.",
   "examples": [
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
-        "Và (nối tính từ hoặc danh từ)",
+        "Và (kết hợp từ hoặc danh từ)",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Chỉ đối tượng trực tiếp của hành động"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜くて / 〜で」 mang ý nghĩa: \"Và (nối tính từ hoặc danh từ)\"."
+      "explanation": "Mẫu 「〜くて / 〜で」 mang ý nghĩa: \"Và (kết hợp từ hoặc danh từ)\"."
     },
     {
       "id": "bunpou-n5-kute-de-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
-        "Và (nối tính từ hoặc danh từ)",
+        "Và (kết hợp từ hoặc danh từ)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜くて / 〜で」 mang ý nghĩa: \"Và (nối tính từ hoặc danh từ)\"."
+      "explanation": "Mẫu 「〜くて / 〜で」 mang ý nghĩa: \"Và (kết hợp từ hoặc danh từ)\"."
     },
     {
       "id": "bunpou-n5-kute-de-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "この店は安くておいしいです。",
       "sentenceVi": "Quán này ngon và rẻ.",
       "targetGrammar": "〜くて / 〜で",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Và (nối tính từ hoặc danh từ)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Và (kết hợp từ hoặc danh từ)\":",
       "options": [
         "〜で（place of action）",
         "〜で（means）",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜くて / 〜で」 là gì?",
       "options": [
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
-        "Và (nối tính từ hoặc danh từ)",
+        "Và (kết hợp từ hoặc danh từ)",
         "Với ; cùng với (một đối tác trong một hành động)",
         "Hoặc (sự lựa chọn giữa các danh từ)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜くて / 〜で」 có nghĩa là: Và (nối tính từ hoặc danh từ)."
+      "explanation": "Mẫu 「〜くて / 〜で」 mang ý nghĩa: \"Và (kết hợp từ hoặc danh từ)\"."
     }
   ]
 }

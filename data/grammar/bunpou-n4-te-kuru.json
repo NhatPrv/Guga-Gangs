@@ -3,8 +3,8 @@
   "level": "N4",
   "pattern": "〜てくる",
   "title": "〜てくる",
-  "meaning": "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
-  "meaningVi": "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+  "meaning": "Làm điều đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+  "meaningVi": "Làm điều đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
   "connection": "Động từ (V)-te + くる",
   "usageNotes": "Sự chuyển động hoặc thay đổi hướng về phía người nói, hoặc từ quá khứ đến hiện tại. 行ってきます nghĩa đen là 'Tôi sẽ đi và quay lại.'",
   "examples": [
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Làm gì đó giúp cho ai...",
-        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm điều đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Ai đó làm giúp việc gì cho mình...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜てくる」 mang ý nghĩa: \"Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu\"."
+      "explanation": "Mẫu 「〜てくる」 mang ý nghĩa: \"Làm điều đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu\"."
     },
     {
       "id": "bunpou-n4-te-kuru-q2",
@@ -76,10 +76,10 @@
         "Thử làm gì đó...",
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
-        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
+        "Làm điều đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜てくる」 mang ý nghĩa: \"Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu\"."
+      "explanation": "Mẫu 「〜てくる」 mang ý nghĩa: \"Làm điều đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu\"."
     },
     {
       "id": "bunpou-n4-te-kuru-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "ちょっとコンビニに行ってきます。",
       "sentenceVi": "Tôi vừa mới đi ra cửa hàng tiện lợi.",
       "targetGrammar": "〜てくる",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm điều đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu\":",
       "options": [
         "〜間 / 〜間に",
         "〜てくる",
@@ -107,11 +107,11 @@
       "options": [
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Rõ ràng; có vẻ như; tôi nghe thấy",
-        "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
+        "Làm điều đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Trông giống như; có vẻ ; có vẻ sắp"
       ],
       "correctIndex": 2,
-      "explanation": "「〜てくる」 có nghĩa là: Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu."
+      "explanation": "Mẫu 「〜てくる」 mang ý nghĩa: \"Làm điều đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu\"."
     }
   ]
 }

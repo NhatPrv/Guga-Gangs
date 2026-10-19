@@ -3,10 +3,10 @@
   "level": "N4",
   "pattern": "〜の / 〜こと（nominalizer）",
   "title": "〜の / 〜こと（nominalizer）",
-  "meaning": "Hành động làm (chuyển cụm động từ thành danh từ)",
-  "meaningVi": "Hành động làm (chuyển cụm động từ thành danh từ)",
+  "meaning": "Action doing (chuyển động từ thành danh từ)",
+  "meaningVi": "Action doing (chuyển động từ thành danh từ)",
   "connection": "Động từ (V)-plain + の / Động từ (V)-plain + こと",
-  "usageNotes": "の được ưa chuộng hơn với các động từ nhận thức (見る, 聞こえる) và trong lời nói thông thường; こと cần được dùng trước です/だ và trong các mẫu cố định như 〜ことができる.",
+  "usageNotes": "の được ưa thích hơn các từ nhận thức (見る, 聞こえる) và trong lời nói thông thường; こと cần được sử dụng trước です/だ và trong các mẫu cố định như 〜ことができる.",
   "examples": [
     {
       "ja": "私は写真を撮るのが好きです。",
@@ -42,11 +42,11 @@
       "options": [
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình...",
-        "Hành động làm (chuyển cụm động từ thành danh từ)",
+        "Action doing (chuyển động từ thành danh từ)",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜の / 〜こと（nominalizer）」 mang ý nghĩa: \"Hành động làm (chuyển cụm động từ thành danh từ)\"."
+      "explanation": "Mẫu 「〜の / 〜こと（nominalizer）」 mang ý nghĩa: \"Action doing (chuyển động từ thành danh từ)\"."
     },
     {
       "id": "bunpou-n4-no-koto-nominalizer-q2",
@@ -72,13 +72,13 @@
       "targetGrammar": "〜の / 〜こと（nominalizer）",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Hành động làm (chuyển cụm động từ thành danh từ)",
+        "Action doing (chuyển động từ thành danh từ)",
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜の / 〜こと（nominalizer）」 mang ý nghĩa: \"Hành động làm (chuyển cụm động từ thành danh từ)\"."
+      "explanation": "Mẫu 「〜の / 〜こと（nominalizer）」 mang ý nghĩa: \"Action doing (chuyển động từ thành danh từ)\"."
     },
     {
       "id": "bunpou-n4-no-koto-nominalizer-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "私は写真を撮るのが好きです。",
       "sentenceVi": "Tôi thích chụp ảnh.",
       "targetGrammar": "〜の / 〜こと（nominalizer）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hành động làm (chuyển cụm động từ thành danh từ)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Action doing (chuyển động từ thành danh từ)\":",
       "options": [
         "〜てある",
         "〜とき",
@@ -105,12 +105,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜の / 〜こと（nominalizer）」 là gì?",
       "options": [
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "Hành động làm (chuyển cụm động từ thành danh từ)",
+        "Action doing (chuyển động từ thành danh từ)",
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
       ],
       "correctIndex": 1,
-      "explanation": "「〜の / 〜こと（nominalizer）」 có nghĩa là: Hành động làm (chuyển cụm động từ thành danh từ)."
+      "explanation": "Mẫu 「〜の / 〜こと（nominalizer）」 mang ý nghĩa: \"Action doing (chuyển động từ thành danh từ)\"."
     }
   ]
 }

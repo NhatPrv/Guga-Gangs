@@ -3,10 +3,10 @@
   "level": "N4",
   "pattern": "〜ておく",
   "title": "〜ておく",
-  "meaning": "Làm sẵn gì đó trước (Chuẩn bị)",
-  "meaningVi": "Làm sẵn gì đó trước (Chuẩn bị)",
-  "connection": "Động từ (V)-te + おく",
-  "usageNotes": "Trong cách nói thông thường 〜ておく thường trở thành 〜とく (買っとく), và 〜でおく trở thành 〜どく (読んどく).",
+  "meaning": "Làm sẵn gì đó trước (Chuẩn bị trước hoặc giữ nguyên)",
+  "meaningVi": "Làm sẵn gì đó trước (Chuẩn bị trước hoặc giữ nguyên)",
+  "connection": "Động từ thể Te (V-て) + おく",
+  "usageNotes": "Trong cách nói thông thường 〜ておく thường trở thành thành thành 〜とく (買っとく), và 〜でおく trở thành thành thành thành 〜どく (読んどく).",
   "examples": [
     {
       "ja": "旅行の前に、ホテルを予約しておきます。",
@@ -44,10 +44,10 @@
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
-        "Làm sẵn gì đó trước (Chuẩn bị)"
+        "Làm sẵn gì đó trước (Chuẩn bị trước hoặc giữ nguyên)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ておく」 mang ý nghĩa: \"Làm sẵn gì đó trước (Chuẩn bị)\"."
+      "explanation": "Mẫu 「〜ておく」 mang ý nghĩa: \"Làm sẵn gì đó trước (Chuẩn bị trước hoặc giữ nguyên)\"."
     },
     {
       "id": "bunpou-n4-te-oku-q2",
@@ -76,10 +76,10 @@
         "Thử làm gì đó...",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
-        "Làm sẵn gì đó trước (Chuẩn bị)"
+        "Làm sẵn gì đó trước (Chuẩn bị trước hoặc giữ nguyên)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ておく」 mang ý nghĩa: \"Làm sẵn gì đó trước (Chuẩn bị)\"."
+      "explanation": "Mẫu 「〜ておく」 mang ý nghĩa: \"Làm sẵn gì đó trước (Chuẩn bị trước hoặc giữ nguyên)\"."
     },
     {
       "id": "bunpou-n4-te-oku-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "旅行の前に、ホテルを予約しておきます。",
       "sentenceVi": "Tôi sẽ đặt khách sạn trước chuyến đi.",
       "targetGrammar": "〜ておく",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm sẵn gì đó trước (Chuẩn bị)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm sẵn gì đó trước (Chuẩn bị trước hoặc giữ nguyên)\":",
       "options": [
         "〜てある",
         "〜間 / 〜間に",
@@ -108,10 +108,10 @@
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Rõ ràng; có vẻ như; tôi nghe thấy",
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "Làm sẵn gì đó trước (Chuẩn bị)"
+        "Làm sẵn gì đó trước (Chuẩn bị trước hoặc giữ nguyên)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜ておく」 có nghĩa là: Làm sẵn gì đó trước (Chuẩn bị)."
+      "explanation": "Mẫu 「〜ておく」 mang ý nghĩa: \"Làm sẵn gì đó trước (Chuẩn bị trước hoặc giữ nguyên)\"."
     }
   ]
 }

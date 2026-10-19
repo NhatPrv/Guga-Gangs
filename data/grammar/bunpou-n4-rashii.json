@@ -3,10 +3,10 @@
   "level": "N4",
   "pattern": "〜らしい（hearsay/conjecture）",
   "title": "〜らしい（hearsay/conjecture）",
-  "meaning": "Rõ ràng; có vẻ như; tôi nghe thấy",
-  "meaningVi": "Rõ ràng; có vẻ như; tôi nghe thấy",
+  "meaning": "Rõ ràng xóa; có vẻ như; tôi nghe thấy",
+  "meaningVi": "Rõ ràng xóa; có vẻ như; tôi nghe thấy",
   "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + らしい",
-  "usageNotes": "Dựa vào nội dung đã nghe hoặc đọc nên loa phát ra âm thanh hơi tách biệt. 'Điển hình' らしい (男らしい) là một điểm N3 riêng biệt.",
+  "usageNotes": "Dựa vào nội dung đã nghe hoặc đọc. phát âm thanh phân chia hơi. 'Điển hình' らしい (男らしい) là một điểm đặc biệt của N3.",
   "examples": [
     {
       "ja": "駅の近くに新しいカフェができたらしい。",
@@ -43,11 +43,11 @@
       "options": [
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình...",
-        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Rõ ràng xóa; có vẻ như; tôi nghe thấy",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜らしい（hearsay/conjecture）」 mang ý nghĩa: \"Rõ ràng; có vẻ như; tôi nghe thấy\"."
+      "explanation": "Mẫu 「〜らしい（hearsay/conjecture）」 mang ý nghĩa: \"Rõ ràng xóa; có vẻ như; tôi nghe thấy\"."
     },
     {
       "id": "bunpou-n4-rashii-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Làm sẵn gì đó trước (Chuẩn bị)",
-        "Rõ ràng; có vẻ như; tôi nghe thấy",
+        "Rõ ràng xóa; có vẻ như; tôi nghe thấy",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜らしい（hearsay/conjecture）」 mang ý nghĩa: \"Rõ ràng; có vẻ như; tôi nghe thấy\"."
+      "explanation": "Mẫu 「〜らしい（hearsay/conjecture）」 mang ý nghĩa: \"Rõ ràng xóa; có vẻ như; tôi nghe thấy\"."
     },
     {
       "id": "bunpou-n4-rashii-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "駅の近くに新しいカフェができたらしい。",
       "sentenceVi": "Có vẻ như một quán cà phê mới đã mở gần nhà ga.",
       "targetGrammar": "〜らしい（hearsay/conjecture）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Rõ ràng; có vẻ như; tôi nghe thấy\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Rõ ràng xóa; có vẻ như; tôi nghe thấy\":",
       "options": [
         "〜てみる",
         "〜てある",
@@ -108,10 +108,10 @@
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "Rõ ràng; có vẻ như; tôi nghe thấy"
+        "Rõ ràng xóa; có vẻ như; tôi nghe thấy"
       ],
       "correctIndex": 3,
-      "explanation": "「〜らしい（hearsay/conjecture）」 có nghĩa là: Rõ ràng; có vẻ như; tôi nghe thấy."
+      "explanation": "Mẫu 「〜らしい（hearsay/conjecture）」 mang ý nghĩa: \"Rõ ràng xóa; có vẻ như; tôi nghe thấy\"."
     }
   ]
 }

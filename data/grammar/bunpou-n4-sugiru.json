@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜すぎる",
   "title": "〜すぎる",
-  "meaning": "Quá... (Vượt quá mức bình thường)",
-  "meaningVi": "Quá... (Vượt quá mức bình thường)",
-  "connection": "Động từ (V)-stem / i-Adj stem / na-Adj + すぎる",
+  "meaning": "Quá... (Vượt quá mức độ bình thường hoặc kiểm soát)",
+  "meaningVi": "Quá... (Vượt quá mức độ bình thường hoặc kiểm soát)",
+  "connection": "V-masu bỏ ます / Tính từ bỏ い, な + すぎる",
   "usageNotes": "Liên hợp như động từ Nhóm 2 (すぎた, すぎて). いい → よすぎる và tính từ ない → なさすぎる.",
   "examples": [
     {
@@ -40,13 +40,13 @@
       "targetGrammar": "〜すぎる",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Quá... (Vượt quá mức bình thường)",
+        "Quá... (Vượt quá mức độ bình thường hoặc kiểm soát)",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜すぎる」 mang ý nghĩa: \"Quá... (Vượt quá mức bình thường)\"."
+      "explanation": "Mẫu 「〜すぎる」 mang ý nghĩa: \"Quá... (Vượt quá mức độ bình thường hoặc kiểm soát)\"."
     },
     {
       "id": "bunpou-n4-sugiru-q2",
@@ -72,13 +72,13 @@
       "targetGrammar": "〜すぎる",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Quá... (Vượt quá mức bình thường)",
+        "Quá... (Vượt quá mức độ bình thường hoặc kiểm soát)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜すぎる」 mang ý nghĩa: \"Quá... (Vượt quá mức bình thường)\"."
+      "explanation": "Mẫu 「〜すぎる」 mang ý nghĩa: \"Quá... (Vượt quá mức độ bình thường hoặc kiểm soát)\"."
     },
     {
       "id": "bunpou-n4-sugiru-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "ゆうべ飲みすぎて、頭が痛い。",
       "sentenceVi": "Đêm qua tôi đã uống quá nhiều và bây giờ tôi bị đau đầu.",
       "targetGrammar": "〜すぎる",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Quá... (Vượt quá mức bình thường)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Quá... (Vượt quá mức độ bình thường hoặc kiểm soát)\":",
       "options": [
         "〜てある",
         "〜とき",
@@ -106,11 +106,11 @@
       "options": [
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Nghe nói là... (Truyền đạt lại thông tin)",
-        "Quá... (Vượt quá mức bình thường)",
+        "Quá... (Vượt quá mức độ bình thường hoặc kiểm soát)",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
       ],
       "correctIndex": 2,
-      "explanation": "「〜すぎる」 có nghĩa là: Quá... (Vượt quá mức bình thường)."
+      "explanation": "Mẫu 「〜すぎる」 mang ý nghĩa: \"Quá... (Vượt quá mức độ bình thường hoặc kiểm soát)\"."
     }
   ]
 }

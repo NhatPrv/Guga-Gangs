@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜のに（although）",
   "title": "〜のに（although）",
-  "meaning": "Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)",
-  "meaningVi": "Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)",
-  "connection": "Động từ (V)-plain / i-Adj + のに / na-Adj + な + のに / Danh từ (N) + な + のに",
+  "meaning": "Mặc dù... thế mà lại... (Bất ngờ, tiếc nuối, bất mãn)",
+  "meaningVi": "Mặc dù... thế mà lại... (Bất ngờ, tiếc nuối, bất mãn)",
+  "connection": "Thể thông thường (Na-Adj + な, N + な) + のに",
   "usageNotes": "Mang đến sự ngạc nhiên, thất vọng hoặc phàn nàn. Mệnh đề chính không thể là một yêu cầu hay ý định; sử dụng けど hoặc ても ở đó.",
   "examples": [
     {
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Ai đó làm giúp việc gì cho mình...",
-        "Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)",
+        "Mặc dù... thế mà lại... (Bất ngờ, tiếc nuối, bất mãn)",
         "Làm gì đó giúp cho ai...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜のに（although）」 mang ý nghĩa: \"Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)\"."
+      "explanation": "Mẫu 「〜のに（although）」 mang ý nghĩa: \"Mặc dù... thế mà lại... (Bất ngờ, tiếc nuối, bất mãn)\"."
     },
     {
       "id": "bunpou-n4-noni-although-q2",
@@ -76,10 +76,10 @@
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
-        "Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)"
+        "Mặc dù... thế mà lại... (Bất ngờ, tiếc nuối, bất mãn)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜のに（although）」 mang ý nghĩa: \"Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)\"."
+      "explanation": "Mẫu 「〜のに（although）」 mang ý nghĩa: \"Mặc dù... thế mà lại... (Bất ngờ, tiếc nuối, bất mãn)\"."
     },
     {
       "id": "bunpou-n4-noni-although-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "一生懸命勉強したのに、試験に落ちてしまった。",
       "sentenceVi": "Mặc dù tôi đã học rất chăm chỉ nhưng tôi đã trượt kỳ thi.",
       "targetGrammar": "〜のに（although）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Mặc dù... thế mà lại... (Bất ngờ, tiếc nuối, bất mãn)\":",
       "options": [
         "〜てある",
         "〜のに（although）",
@@ -108,10 +108,10 @@
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Nghe nói là... (Truyền đạt lại thông tin)",
-        "Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)"
+        "Mặc dù... thế mà lại... (Bất ngờ, tiếc nuối, bất mãn)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜のに（although）」 có nghĩa là: Mặc dù ; mặc dù (với sự ngạc nhiên hoặc không hài lòng)."
+      "explanation": "Mẫu 「〜のに（although）」 mang ý nghĩa: \"Mặc dù... thế mà lại... (Bất ngờ, tiếc nuối, bất mãn)\"."
     }
   ]
 }

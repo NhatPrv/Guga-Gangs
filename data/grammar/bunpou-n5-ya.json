@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜や",
   "title": "〜や",
-  "meaning": "Và, như là... (Liệt kê tiêu biểu, không hết)",
-  "meaningVi": "Và, như là... (Liệt kê tiêu biểu, không hết)",
-  "connection": "Danh từ (N) + や + Danh từ (N)",
+  "meaning": "Và, như là... (Liệt kê một vài đối tượng tiêu biểu)",
+  "meaningVi": "Và, như là... (Liệt kê một vài đối tượng tiêu biểu)",
+  "connection": "Danh từ 1 + や + Danh từ 2 [など]",
   "usageNotes": "Đề nghị danh sách chưa đầy đủ. Thường kết thúc bằng など: 本や雑誌など.",
   "examples": [
     {
@@ -36,12 +36,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
-        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Và, như là... (Liệt kê một vài đối tượng tiêu biểu)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
         "Chỉ đối tượng trực tiếp của hành động"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜や」 mang ý nghĩa: \"Và, như là... (Liệt kê tiêu biểu, không hết)\"."
+      "explanation": "Mẫu 「〜や」 mang ý nghĩa: \"Và, như là... (Liệt kê một vài đối tượng tiêu biểu)\"."
     },
     {
       "id": "bunpou-n5-ya-q2",
@@ -67,13 +67,13 @@
       "targetGrammar": "〜や",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜や」 là gì?",
       "options": [
-        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Và, như là... (Liệt kê một vài đối tượng tiêu biểu)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)"
       ],
       "correctIndex": 0,
-      "explanation": "「〜や」 có nghĩa là: Và, như là... (Liệt kê tiêu biểu, không hết)."
+      "explanation": "Mẫu 「〜や」 mang ý nghĩa: \"Và, như là... (Liệt kê một vài đối tượng tiêu biểu)\"."
     },
     {
       "id": "bunpou-n5-ya-q4",
@@ -81,7 +81,7 @@
       "sentenceJa": "机の上に本や雑誌があります。",
       "sentenceVi": "Trên bàn có sách, tạp chí và vân vân.",
       "targetGrammar": "〜や",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Và, như là... (Liệt kê tiêu biểu, không hết)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Và, như là... (Liệt kê một vài đối tượng tiêu biểu)\":",
       "options": [
         "〜で（means）",
         "〜や",
@@ -101,11 +101,11 @@
       "options": [
         "Cũng... (Biểu thị sự tương tự)",
         "Hoặc (sự lựa chọn giữa các danh từ)",
-        "Và, như là... (Liệt kê tiêu biểu, không hết)",
+        "Và, như là... (Liệt kê một vài đối tượng tiêu biểu)",
         "Với ; cùng với (một đối tác trong một hành động)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜や」 có nghĩa là: Và, như là... (Liệt kê tiêu biểu, không hết)."
+      "explanation": "Mẫu 「〜や」 mang ý nghĩa: \"Và, như là... (Liệt kê một vài đối tượng tiêu biểu)\"."
     }
   ]
 }

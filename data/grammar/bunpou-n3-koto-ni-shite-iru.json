@@ -3,8 +3,8 @@
   "level": "N3",
   "pattern": "〜ことにしている",
   "title": "〜ことにしている",
-  "meaning": "Biến nó thành một quy tắc; đưa ra quan điểm",
-  "meaningVi": "Biến nó thành một quy tắc; đưa ra quan điểm",
+  "meaning": "Biến it thành một quy tắc; đưa ra quan điểm",
+  "meaningVi": "Biến it thành một quy tắc; đưa ra quan điểm",
   "connection": "Động từ (V)-dict / Động từ (V)-nai + ことにしている",
   "usageNotes": "Một quy tắc cá nhân mà người nói (hoặc chủ đề) đã quyết định và tuân theo. So sánh 〜ことになっている, một quy tắc hoặc kế hoạch do người khác đặt ra.",
   "examples": [
@@ -44,10 +44,10 @@
         "Chắc chắn không... / Không đời nào...",
         "Không hẳn là... / Không nhất thiết là...",
         "Thảo nào, hèn chi... / Đương nhiên là...",
-        "Biến nó thành một quy tắc; đưa ra quan điểm"
+        "Biến it thành một quy tắc; đưa ra quan điểm"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ことにしている」 mang ý nghĩa: \"Biến nó thành một quy tắc; đưa ra quan điểm\"."
+      "explanation": "Mẫu 「〜ことにしている」 mang ý nghĩa: \"Biến it thành một quy tắc; đưa ra quan điểm\"."
     },
     {
       "id": "bunpou-n3-koto-ni-shite-iru-q2",
@@ -76,10 +76,10 @@
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Nên ; điều tốt nhất là (lời khuyên)",
-        "Biến nó thành một quy tắc; đưa ra quan điểm"
+        "Biến it thành một quy tắc; đưa ra quan điểm"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜ことにしている」 mang ý nghĩa: \"Biến nó thành một quy tắc; đưa ra quan điểm\"."
+      "explanation": "Mẫu 「〜ことにしている」 mang ý nghĩa: \"Biến it thành một quy tắc; đưa ra quan điểm\"."
     },
     {
       "id": "bunpou-n3-koto-ni-shite-iru-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "健康のために、週に三回はジムに通うことにしている。",
       "sentenceVi": "Vì sức khỏe của mình, tôi đặt ra quy tắc là đến phòng tập thể dục ít nhất ba lần một tuần.",
       "targetGrammar": "〜ことにしている",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Biến nó thành một quy tắc; đưa ra quan điểm\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Biến it thành một quy tắc; đưa ra quan điểm\":",
       "options": [
         "〜ことはない",
         "〜ことになっている",
@@ -107,11 +107,11 @@
       "options": [
         "Không thể ; không có vẻ như nó sẽ",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
-        "Biến nó thành một quy tắc; đưa ra quan điểm",
+        "Biến it thành một quy tắc; đưa ra quan điểm",
         "Cố gắng ; cố gắng ; sắp sửa"
       ],
       "correctIndex": 2,
-      "explanation": "「〜ことにしている」 có nghĩa là: Biến nó thành một quy tắc; đưa ra quan điểm."
+      "explanation": "Mẫu 「〜ことにしている」 mang ý nghĩa: \"Biến it thành một quy tắc; đưa ra quan điểm\"."
     }
   ]
 }

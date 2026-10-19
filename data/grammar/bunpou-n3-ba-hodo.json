@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜ば〜ほど",
   "title": "〜ば〜ほど",
-  "meaning": "Càng... thì càng...",
-  "meaningVi": "Càng... thì càng...",
-  "connection": "Động từ (V)-ba + Động từ (V)-dict + ほど / i-Adj stem + ければ + i-Adj + ほど / na-Adj + なら + na-Adj + な + ほど",
+  "meaning": "Càng... thì càng... (Tỷ lệ thuận)",
+  "meaningVi": "Càng... thì càng... (Tỷ lệ thuận)",
+  "connection": "[V-ば + V-る] / [A-ければ + A-い] + ほど",
   "usageNotes": "Từ đó được lặp lại, đầu tiên ở dạng ば/なら, sau đó ở dạng thông thường. Phần đầu tiên có thể bỏ đi: 考えるほど分からなくなる.",
   "examples": [
     {
@@ -44,11 +44,11 @@
       "options": [
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Chắc chắn không... / Không đời nào...",
-        "Càng... thì càng...",
+        "Càng... thì càng... (Tỷ lệ thuận)",
         "Không hẳn là... / Không nhất thiết là..."
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ば〜ほど」 mang ý nghĩa: \"Càng... thì càng...\"."
+      "explanation": "Mẫu 「〜ば〜ほど」 mang ý nghĩa: \"Càng... thì càng... (Tỷ lệ thuận)\"."
     },
     {
       "id": "bunpou-n3-ba-hodo-q2",
@@ -75,12 +75,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
-        "Càng... thì càng...",
+        "Càng... thì càng... (Tỷ lệ thuận)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Nên ; điều tốt nhất là (lời khuyên)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜ば〜ほど」 mang ý nghĩa: \"Càng... thì càng...\"."
+      "explanation": "Mẫu 「〜ば〜ほど」 mang ý nghĩa: \"Càng... thì càng... (Tỷ lệ thuận)\"."
     },
     {
       "id": "bunpou-n3-ba-hodo-q4",
@@ -88,7 +88,7 @@
       "sentenceJa": "日本語は、勉強すればするほど面白くなる。",
       "sentenceVi": "Càng học tiếng Nhật càng thấy thú vị.",
       "targetGrammar": "〜ば〜ほど",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Càng... thì càng...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Càng... thì càng... (Tỷ lệ thuận)\":",
       "options": [
         "〜ことはない",
         "〜ことにしている",
@@ -109,10 +109,10 @@
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
         "Cố gắng ; cố gắng ; sắp sửa",
-        "Càng... thì càng..."
+        "Càng... thì càng... (Tỷ lệ thuận)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜ば〜ほど」 có nghĩa là: Càng... thì càng...."
+      "explanation": "Mẫu 「〜ば〜ほど」 mang ý nghĩa: \"Càng... thì càng... (Tỷ lệ thuận)\"."
     }
   ]
 }

@@ -3,8 +3,8 @@
   "level": "N3",
   "pattern": "〜代わりに",
   "title": "〜代わりに",
-  "meaning": "Thay vì ; để đổi lấy; để bù đắp cho",
-  "meaningVi": "Thay vì ; để đổi lấy; để bù đắp cho",
+  "meaning": "Thay vì ; quên; for offset",
+  "meaningVi": "Thay vì ; quên; for offset",
   "connection": "Động từ (V)-plain / i-Adj / na-Adj + な / Danh từ (N) + の + 代わりに",
   "usageNotes": "Ba cách sử dụng: thay thế (thay vì), trao đổi (đổi lại) và bù đắp (một nhược điểm được cân bằng bởi một nhược điểm).",
   "examples": [
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Chắc chắn không... / Không đời nào...",
-        "Thay vì ; để đổi lấy; để bù đắp cho",
+        "Thay vì ; quên; for offset",
         "Không hẳn là... / Không nhất thiết là...",
         "Thảo nào, hèn chi... / Đương nhiên là..."
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜代わりに」 mang ý nghĩa: \"Thay vì ; để đổi lấy; để bù đắp cho\"."
+      "explanation": "Mẫu 「〜代わりに」 mang ý nghĩa: \"Thay vì ; quên; for offset\"."
     },
     {
       "id": "bunpou-n3-kawari-ni-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜代わりに",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Thay vì ; để đổi lấy; để bù đắp cho",
+        "Thay vì ; quên; for offset",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Nên ; điều tốt nhất là (lời khuyên)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜代わりに」 mang ý nghĩa: \"Thay vì ; để đổi lấy; để bù đắp cho\"."
+      "explanation": "Mẫu 「〜代わりに」 mang ý nghĩa: \"Thay vì ; quên; for offset\"."
     },
     {
       "id": "bunpou-n3-kawari-ni-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "今日は外で食べる代わりに、家でカレーを作った。",
       "sentenceVi": "Hôm nay thay vì đi ăn ngoài, tôi nấu cà ri ở nhà.",
       "targetGrammar": "〜代わりに",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thay vì ; để đổi lấy; để bù đắp cho\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Thay vì ; quên; for offset\":",
       "options": [
         "〜代わりに",
         "〜ことはない",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜代わりに」 là gì?",
       "options": [
         "Cố gắng ; cố gắng ; sắp sửa",
-        "Thay vì ; để đổi lấy; để bù đắp cho",
+        "Thay vì ; quên; for offset",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜代わりに」 có nghĩa là: Thay vì ; để đổi lấy; để bù đắp cho."
+      "explanation": "Mẫu 「〜代わりに」 mang ý nghĩa: \"Thay vì ; quên; for offset\"."
     }
   ]
 }

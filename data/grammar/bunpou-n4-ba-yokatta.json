@@ -3,10 +3,10 @@
   "level": "N4",
   "pattern": "〜ばよかった",
   "title": "〜ばよかった",
-  "meaning": "Giá mà... thì tốt biết mấy (Hối tiếc)",
-  "meaningVi": "Giá mà... thì tốt biết mấy (Hối tiếc)",
-  "connection": "Động từ (V)-ba + よかった / Động từ (V)-nai stem + なければよかった",
-  "usageNotes": "Thể hiện sự tiếc nuối về quá khứ. 〜たらよかった là một từ thay thế trong hội thoại phổ biến.",
+  "meaning": "Giá mà... thì tốt biết mấy (Hối tiếc việc đã qua)",
+  "meaningVi": "Giá mà... thì tốt biết mấy (Hối tiếc việc đã qua)",
+  "connection": "Động từ thể Ba (V-ば) + よかった",
+  "usageNotes": "Thể hiện sự tiếc nuối quá khứ. 〜たらよかった là một từ thay thế trong hội thoại phổ thông.",
   "examples": [
     {
       "ja": "もっと早く家を出ればよかった。",
@@ -41,12 +41,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Làm gì đó giúp cho ai...",
-        "Giá mà... thì tốt biết mấy (Hối tiếc)",
+        "Giá mà... thì tốt biết mấy (Hối tiếc việc đã qua)",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Ai đó làm giúp việc gì cho mình..."
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜ばよかった」 mang ý nghĩa: \"Giá mà... thì tốt biết mấy (Hối tiếc)\"."
+      "explanation": "Mẫu 「〜ばよかった」 mang ý nghĩa: \"Giá mà... thì tốt biết mấy (Hối tiếc việc đã qua)\"."
     },
     {
       "id": "bunpou-n4-ba-yokatta-q2",
@@ -72,13 +72,13 @@
       "targetGrammar": "〜ばよかった",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Giá mà... thì tốt biết mấy (Hối tiếc)",
+        "Giá mà... thì tốt biết mấy (Hối tiếc việc đã qua)",
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ばよかった」 mang ý nghĩa: \"Giá mà... thì tốt biết mấy (Hối tiếc)\"."
+      "explanation": "Mẫu 「〜ばよかった」 mang ý nghĩa: \"Giá mà... thì tốt biết mấy (Hối tiếc việc đã qua)\"."
     },
     {
       "id": "bunpou-n4-ba-yokatta-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "もっと早く家を出ればよかった。",
       "sentenceVi": "Lẽ ra tôi nên rời nhà sớm hơn.",
       "targetGrammar": "〜ばよかった",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Giá mà... thì tốt biết mấy (Hối tiếc)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Giá mà... thì tốt biết mấy (Hối tiếc việc đã qua)\":",
       "options": [
         "〜てみる",
         "〜ばよかった",
@@ -107,10 +107,10 @@
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "Giá mà... thì tốt biết mấy (Hối tiếc)"
+        "Giá mà... thì tốt biết mấy (Hối tiếc việc đã qua)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜ばよかった」 có nghĩa là: Giá mà... thì tốt biết mấy (Hối tiếc)."
+      "explanation": "Mẫu 「〜ばよかった」 mang ý nghĩa: \"Giá mà... thì tốt biết mấy (Hối tiếc việc đã qua)\"."
     }
   ]
 }

@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜たら",
   "title": "〜たら",
-  "meaning": "Nếu / Sau khi... (Điều kiện giả định thể Tara)",
-  "meaningVi": "Nếu / Sau khi... (Điều kiện giả định thể Tara)",
-  "connection": "Động từ (V)-ta + ら / i-Adj stem + かったら / na-Adj + だったら / Danh từ (N) + だったら",
+  "meaning": "Nếu / Sau khi... (Điều kiện giả định và trình tự thời gian)",
+  "meaningVi": "Nếu / Sau khi... (Điều kiện giả định và trình tự thời gian)",
+  "connection": "Động từ thể Ta + ら / Tính từ thể quá khứ + ら",
   "usageNotes": "Câu điều kiện linh hoạt nhất và rất phổ biến trong lời nói. Với những sự kiện chắc chắn sẽ xảy ra, nó có nghĩa là 'khi/sau'.",
   "examples": [
     {
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Ai đó làm giúp việc gì cho mình...",
-        "Nếu / Sau khi... (Điều kiện giả định thể Tara)",
+        "Nếu / Sau khi... (Điều kiện giả định và trình tự thời gian)",
         "Làm gì đó giúp cho ai...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜たら」 mang ý nghĩa: \"Nếu / Sau khi... (Điều kiện giả định thể Tara)\"."
+      "explanation": "Mẫu 「〜たら」 mang ý nghĩa: \"Nếu / Sau khi... (Điều kiện giả định và trình tự thời gian)\"."
     },
     {
       "id": "bunpou-n4-tara-q2",
@@ -76,10 +76,10 @@
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
-        "Nếu / Sau khi... (Điều kiện giả định thể Tara)"
+        "Nếu / Sau khi... (Điều kiện giả định và trình tự thời gian)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜たら」 mang ý nghĩa: \"Nếu / Sau khi... (Điều kiện giả định thể Tara)\"."
+      "explanation": "Mẫu 「〜たら」 mang ý nghĩa: \"Nếu / Sau khi... (Điều kiện giả định và trình tự thời gian)\"."
     },
     {
       "id": "bunpou-n4-tara-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "駅に着いたら、電話してください。",
       "sentenceVi": "Hãy gọi cho tôi khi bạn đến ga.",
       "targetGrammar": "〜たら",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nếu / Sau khi... (Điều kiện giả định thể Tara)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nếu / Sau khi... (Điều kiện giả định và trình tự thời gian)\":",
       "options": [
         "〜たら",
         "〜てみる",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜たら」 là gì?",
       "options": [
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
-        "Nếu / Sau khi... (Điều kiện giả định thể Tara)",
+        "Nếu / Sau khi... (Điều kiện giả định và trình tự thời gian)",
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trông giống như; có vẻ ; có vẻ sắp"
       ],
       "correctIndex": 1,
-      "explanation": "「〜たら」 có nghĩa là: Nếu / Sau khi... (Điều kiện giả định thể Tara)."
+      "explanation": "Mẫu 「〜たら」 mang ý nghĩa: \"Nếu / Sau khi... (Điều kiện giả định và trình tự thời gian)\"."
     }
   ]
 }

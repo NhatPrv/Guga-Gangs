@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜ます",
   "title": "〜ます",
-  "meaning": "Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)",
-  "meaningVi": "Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)",
-  "connection": "Động từ (V)-stem + ます",
+  "meaning": "Đuôi động từ thể lịch sự hiện tại / tương lai (Làm gì đó)",
+  "meaningVi": "Đuôi động từ thể lịch sự hiện tại / tương lai (Làm gì đó)",
+  "connection": "Động từ thể Masu (V-ます)",
   "usageNotes": "Bao gồm các thói quen và hành động trong tương lai. 飲む→飲みます, 食べる→食べます, する→します, 来る→来ます.",
   "examples": [
     {
@@ -43,11 +43,11 @@
       "options": [
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
-        "Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)",
+        "Đuôi động từ thể lịch sự hiện tại / tương lai (Làm gì đó)",
         "Chỉ đối tượng trực tiếp của hành động"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ます」 mang ý nghĩa: \"Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)\"."
+      "explanation": "Mẫu 「〜ます」 mang ý nghĩa: \"Đuôi động từ thể lịch sự hiện tại / tương lai (Làm gì đó)\"."
     },
     {
       "id": "bunpou-n5-masu-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
-        "Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)",
+        "Đuôi động từ thể lịch sự hiện tại / tương lai (Làm gì đó)",
         "Tới (người nhận hoặc là mục tiêu của một hành động)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ます」 mang ý nghĩa: \"Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)\"."
+      "explanation": "Mẫu 「〜ます」 mang ý nghĩa: \"Đuôi động từ thể lịch sự hiện tại / tương lai (Làm gì đó)\"."
     },
     {
       "id": "bunpou-n5-masu-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "毎朝コーヒーを飲みます。",
       "sentenceVi": "Tôi uống cà phê mỗi sáng.",
       "targetGrammar": "〜ます",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đuôi động từ thể lịch sự hiện tại / tương lai (Làm gì đó)\":",
       "options": [
         "〜で（means）",
         "〜ます",
@@ -105,13 +105,13 @@
       "targetGrammar": "〜ます",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ます」 là gì?",
       "options": [
-        "Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)",
+        "Đuôi động từ thể lịch sự hiện tại / tương lai (Làm gì đó)",
         "Hoặc (sự lựa chọn giữa các danh từ)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)",
         "Với ; cùng với (một đối tác trong một hành động)"
       ],
       "correctIndex": 0,
-      "explanation": "「〜ます」 có nghĩa là: Kết thúc động từ không ở quá khứ một cách lịch sự (do; will do)."
+      "explanation": "Mẫu 「〜ます」 mang ý nghĩa: \"Đuôi động từ thể lịch sự hiện tại / tương lai (Làm gì đó)\"."
     }
   ]
 }

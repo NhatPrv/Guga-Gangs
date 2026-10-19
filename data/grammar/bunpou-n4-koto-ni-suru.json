@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜ことにする",
   "title": "〜ことにする",
-  "meaning": "Quyết định làm gì đó...",
-  "meaningVi": "Quyết định làm gì đó...",
-  "connection": "Động từ (V)-dict / Động từ (V)-nai + ことにする",
+  "meaning": "Quyết định làm gì đó (Quyết định của bản thân)",
+  "meaningVi": "Quyết định làm gì đó (Quyết định của bản thân)",
+  "connection": "Động từ thể từ điển (V-る) / V-ない + ことにする",
   "usageNotes": "Một quyết định của người nói; so sánh 〜ことになる. 〜ことにしている (N3) có nghĩa là 'đặt nó thành quy tắc'.",
   "examples": [
     {
@@ -40,13 +40,13 @@
       "targetGrammar": "〜ことにする",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Quyết định làm gì đó...",
+        "Quyết định làm gì đó (Quyết định của bản thân)",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Ai đó làm giúp việc gì cho mình...",
         "Làm gì đó giúp cho ai..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ことにする」 mang ý nghĩa: \"Quyết định làm gì đó...\"."
+      "explanation": "Mẫu 「〜ことにする」 mang ý nghĩa: \"Quyết định làm gì đó (Quyết định của bản thân)\"."
     },
     {
       "id": "bunpou-n4-koto-ni-suru-q2",
@@ -72,13 +72,13 @@
       "targetGrammar": "〜ことにする",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Quyết định làm gì đó...",
+        "Quyết định làm gì đó (Quyết định của bản thân)",
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ことにする」 mang ý nghĩa: \"Quyết định làm gì đó...\"."
+      "explanation": "Mẫu 「〜ことにする」 mang ý nghĩa: \"Quyết định làm gì đó (Quyết định của bản thân)\"."
     },
     {
       "id": "bunpou-n4-koto-ni-suru-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "健康のために、毎朝歩くことにした。",
       "sentenceVi": "Tôi quyết định đi bộ mỗi sáng vì sức khỏe của mình.",
       "targetGrammar": "〜ことにする",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Quyết định làm gì đó...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Quyết định làm gì đó (Quyết định của bản thân)\":",
       "options": [
         "〜てみる",
         "〜とき",
@@ -107,10 +107,10 @@
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Nghe nói là... (Truyền đạt lại thông tin)",
-        "Quyết định làm gì đó..."
+        "Quyết định làm gì đó (Quyết định của bản thân)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜ことにする」 có nghĩa là: Quyết định làm gì đó...."
+      "explanation": "Mẫu 「〜ことにする」 mang ý nghĩa: \"Quyết định làm gì đó (Quyết định của bản thân)\"."
     }
   ]
 }

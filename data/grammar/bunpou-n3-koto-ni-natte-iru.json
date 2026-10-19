@@ -3,10 +3,10 @@
   "level": "N3",
   "pattern": "〜ことになっている",
   "title": "〜ことになっている",
-  "meaning": "Được quy định là... / Có quy định là...",
-  "meaningVi": "Được quy định là... / Có quy định là...",
-  "connection": "Động từ (V)-dict / Động từ (V)-nai + ことになっている",
-  "usageNotes": "Các quy tắc, phong tục hay kế hoạch do người khác (công ty, trường học, xã hội) quyết định chứ không phải là lựa chọn cá nhân. So sánh 〜ことにしている.",
+  "meaning": "Được quy định là... / Có luật lệ là...",
+  "meaningVi": "Được quy định là... / Có luật lệ là...",
+  "connection": "Động từ thể từ điển (V-る) / V-ない + ことになっている",
+  "usageNotes": "Các quy tắc, phong cách hay các kế hoạch khác (công ty, trường học, xã hội) đã được quyết định không phải là cá nhân. So sánh 〜ことにしている.",
   "examples": [
     {
       "ja": "この寮では、夜十一時までに戻ることになっている。",
@@ -41,13 +41,13 @@
       "targetGrammar": "〜ことになっている",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Được quy định là... / Có quy định là...",
+        "Được quy định là... / Có luật lệ là...",
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Chắc chắn không... / Không đời nào...",
         "Không hẳn là... / Không nhất thiết là..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜ことになっている」 mang ý nghĩa: \"Được quy định là... / Có quy định là...\"."
+      "explanation": "Mẫu 「〜ことになっている」 mang ý nghĩa: \"Được quy định là... / Có luật lệ là...\"."
     },
     {
       "id": "bunpou-n3-koto-ni-natte-iru-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
-        "Được quy định là... / Có quy định là...",
+        "Được quy định là... / Có luật lệ là...",
         "Nên ; điều tốt nhất là (lời khuyên)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜ことになっている」 mang ý nghĩa: \"Được quy định là... / Có quy định là...\"."
+      "explanation": "Mẫu 「〜ことになっている」 mang ý nghĩa: \"Được quy định là... / Có luật lệ là...\"."
     },
     {
       "id": "bunpou-n3-koto-ni-natte-iru-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "この寮では、夜十一時までに戻ることになっている。",
       "sentenceVi": "Ở ký túc xá này, cậu phải về trước 11 giờ đêm.",
       "targetGrammar": "〜ことになっている",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Được quy định là... / Có quy định là...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Được quy định là... / Có luật lệ là...\":",
       "options": [
         "〜ことはない",
         "〜ことにしている",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜ことになっている」 là gì?",
       "options": [
         "Không thể ; không có vẻ như nó sẽ",
-        "Được quy định là... / Có quy định là...",
+        "Được quy định là... / Có luật lệ là...",
         "Cố gắng ; cố gắng ; sắp sửa",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜ことになっている」 có nghĩa là: Được quy định là... / Có quy định là...."
+      "explanation": "Mẫu 「〜ことになっている」 mang ý nghĩa: \"Được quy định là... / Có luật lệ là...\"."
     }
   ]
 }

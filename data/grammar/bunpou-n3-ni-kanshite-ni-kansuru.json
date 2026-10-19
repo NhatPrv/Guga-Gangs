@@ -3,8 +3,8 @@
   "level": "N3",
   "pattern": "〜に関して / 〜に関する",
   "title": "〜に関して / 〜に関する",
-  "meaning": "Về ; liên quan đến; liên quan đến",
-  "meaningVi": "Về ; liên quan đến; liên quan đến",
+  "meaning": "Về ; liên kết tới; liên kết đến",
+  "meaningVi": "Về ; liên kết tới; liên kết đến",
   "connection": "Danh từ (N) + に関して / Danh từ (N) + に関する + Danh từ (N)",
   "usageNotes": "Trang trọng hơn 〜について; phổ biến trong kinh doanh, tin tức và văn bản. Trước danh từ, dùng に関する (hoặc に関しての).",
   "examples": [
@@ -43,11 +43,11 @@
       "options": [
         "Thảo nào, hèn chi... / Đương nhiên là...",
         "Chắc chắn không... / Không đời nào...",
-        "Về ; liên quan đến; liên quan đến",
+        "Về ; liên kết tới; liên kết đến",
         "Không hẳn là... / Không nhất thiết là..."
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜に関して / 〜に関する」 mang ý nghĩa: \"Về ; liên quan đến; liên quan đến\"."
+      "explanation": "Mẫu 「〜に関して / 〜に関する」 mang ý nghĩa: \"Về ; liên kết tới; liên kết đến\"."
     },
     {
       "id": "bunpou-n3-ni-kanshite-ni-kansuru-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜に関して / 〜に関する",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Về ; liên quan đến; liên quan đến",
+        "Về ; liên kết tới; liên kết đến",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜に関して / 〜に関する」 mang ý nghĩa: \"Về ; liên quan đến; liên quan đến\"."
+      "explanation": "Mẫu 「〜に関して / 〜に関する」 mang ý nghĩa: \"Về ; liên kết tới; liên kết đến\"."
     },
     {
       "id": "bunpou-n3-ni-kanshite-ni-kansuru-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "新しいサービスに関してご質問がある方は、受付までどうぞ。",
       "sentenceVi": "Mọi thắc mắc về dịch vụ mới vui lòng đến quầy lễ tân.",
       "targetGrammar": "〜に関して / 〜に関する",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Về ; liên quan đến; liên quan đến\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Về ; liên kết tới; liên kết đến\":",
       "options": [
         "〜ことにしている",
         "〜に関して / 〜に関する",
@@ -107,11 +107,11 @@
       "options": [
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
         "Cố gắng ; cố gắng ; sắp sửa",
-        "Về ; liên quan đến; liên quan đến",
+        "Về ; liên kết tới; liên kết đến",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)"
       ],
       "correctIndex": 2,
-      "explanation": "「〜に関して / 〜に関する」 có nghĩa là: Về ; liên quan đến; liên quan đến."
+      "explanation": "Mẫu 「〜に関して / 〜に関する」 mang ý nghĩa: \"Về ; liên kết tới; liên kết đến\"."
     }
   ]
 }

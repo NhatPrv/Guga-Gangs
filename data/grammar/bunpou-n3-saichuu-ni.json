@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜最中に",
   "title": "〜最中に",
-  "meaning": "Đúng vào lúc đang mải mê làm gì thì...",
-  "meaningVi": "Đúng vào lúc đang mải mê làm gì thì...",
-  "connection": "Động từ (V)-te + いる / Danh từ (N) + の + 最中に",
+  "meaning": "Đúng vào lúc đang mải mê làm gì thì sự việc chen ngang",
+  "meaningVi": "Đúng vào lúc đang mải mê làm gì thì sự việc chen ngang",
+  "connection": "V-ている / Danh từ + の + 最中に",
   "usageNotes": "Nhấn mạnh mức độ cao của một hoạt động, thường là khi có điều gì đó bất ngờ làm gián đoạn hoạt động đó. Mạnh hơn 〜中に hoặc 〜ている間に. Ngoài ra 〜最中だ.",
   "examples": [
     {
@@ -44,10 +44,10 @@
         "Chắc chắn không... / Không đời nào...",
         "Không hẳn là... / Không nhất thiết là...",
         "Thảo nào, hèn chi... / Đương nhiên là...",
-        "Đúng vào lúc đang mải mê làm gì thì..."
+        "Đúng vào lúc đang mải mê làm gì thì sự việc chen ngang"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜最中に」 mang ý nghĩa: \"Đúng vào lúc đang mải mê làm gì thì...\"."
+      "explanation": "Mẫu 「〜最中に」 mang ý nghĩa: \"Đúng vào lúc đang mải mê làm gì thì sự việc chen ngang\"."
     },
     {
       "id": "bunpou-n3-saichuu-ni-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Nên ; điều tốt nhất là (lời khuyên)",
-        "Đúng vào lúc đang mải mê làm gì thì...",
+        "Đúng vào lúc đang mải mê làm gì thì sự việc chen ngang",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜最中に」 mang ý nghĩa: \"Đúng vào lúc đang mải mê làm gì thì...\"."
+      "explanation": "Mẫu 「〜最中に」 mang ý nghĩa: \"Đúng vào lúc đang mải mê làm gì thì sự việc chen ngang\"."
     },
     {
       "id": "bunpou-n3-saichuu-ni-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "大事な会議の最中に、携帯電話が鳴ってしまった。",
       "sentenceVi": "Điện thoại di động của tôi tắt ngay giữa một cuộc họp quan trọng.",
       "targetGrammar": "〜最中に",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đúng vào lúc đang mải mê làm gì thì...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đúng vào lúc đang mải mê làm gì thì sự việc chen ngang\":",
       "options": [
         "〜最中に",
         "〜ことはない",
@@ -106,12 +106,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜最中に」 là gì?",
       "options": [
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
-        "Đúng vào lúc đang mải mê làm gì thì...",
+        "Đúng vào lúc đang mải mê làm gì thì sự việc chen ngang",
         "Cố gắng ; cố gắng ; sắp sửa",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜最中に」 có nghĩa là: Đúng vào lúc đang mải mê làm gì thì...."
+      "explanation": "Mẫu 「〜最中に」 mang ý nghĩa: \"Đúng vào lúc đang mải mê làm gì thì sự việc chen ngang\"."
     }
   ]
 }

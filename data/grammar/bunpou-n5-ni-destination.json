@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜に（destination）",
   "title": "〜に（destination）",
-  "meaning": "Đến ; vào (điểm đến của chuyển động)",
-  "meaningVi": "Đến ; vào (điểm đến của chuyển động)",
-  "connection": "Danh từ (N) + に + 行く / 来る / 帰る",
+  "meaning": "Đến, tới... (Chỉ đích đến của di chuyển)",
+  "meaningVi": "Đến, tới... (Chỉ đích đến của di chuyển)",
+  "connection": "Địa điểm (N) + に + 行く/来る/帰る",
   "usageNotes": "Gần nghĩa với へ. に đặt trọng tâm vào điểm đến, へ vào hướng đi.",
   "examples": [
     {
@@ -42,11 +42,11 @@
       "options": [
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)",
-        "Đến ; vào (điểm đến của chuyển động)",
+        "Đến, tới... (Chỉ đích đến của di chuyển)",
         "Chỉ đối tượng trực tiếp của hành động"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜に（destination）」 mang ý nghĩa: \"Đến ; vào (điểm đến của chuyển động)\"."
+      "explanation": "Mẫu 「〜に（destination）」 mang ý nghĩa: \"Đến, tới... (Chỉ đích đến của di chuyển)\"."
     },
     {
       "id": "bunpou-n5-ni-destination-q2",
@@ -74,11 +74,11 @@
       "options": [
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
         "Tại, ở... (Chỉ nơi diễn ra hành động)",
-        "Đến ; vào (điểm đến của chuyển động)",
+        "Đến, tới... (Chỉ đích đến của di chuyển)",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜に（destination）」 mang ý nghĩa: \"Đến ; vào (điểm đến của chuyển động)\"."
+      "explanation": "Mẫu 「〜に（destination）」 mang ý nghĩa: \"Đến, tới... (Chỉ đích đến của di chuyển)\"."
     },
     {
       "id": "bunpou-n5-ni-destination-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "毎日バスで学校に行きます。",
       "sentenceVi": "Tôi đi học bằng xe buýt mỗi ngày.",
       "targetGrammar": "〜に（destination）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đến ; vào (điểm đến của chuyển động)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đến, tới... (Chỉ đích đến của di chuyển)\":",
       "options": [
         "〜に（destination）",
         "〜と（with）",
@@ -105,12 +105,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜に（destination）」 là gì?",
       "options": [
         "Cũng... (Biểu thị sự tương tự)",
-        "Đến ; vào (điểm đến của chuyển động)",
+        "Đến, tới... (Chỉ đích đến của di chuyển)",
         "Hoặc (sự lựa chọn giữa các danh từ)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜に（destination）」 có nghĩa là: Đến ; vào (điểm đến của chuyển động)."
+      "explanation": "Mẫu 「〜に（destination）」 mang ý nghĩa: \"Đến, tới... (Chỉ đích đến của di chuyển)\"."
     }
   ]
 }

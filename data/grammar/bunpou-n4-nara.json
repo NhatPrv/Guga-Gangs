@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜なら",
   "title": "〜なら",
-  "meaning": "Nếu là... / Trong trường hợp... (Điều kiện Nara)",
-  "meaningVi": "Nếu là... / Trong trường hợp... (Điều kiện Nara)",
-  "connection": "Động từ (V)-plain / i-Adj / na-Adj / Danh từ (N) + なら",
+  "meaning": "Nếu là... / Trong trường hợp... (Đưa ra lời khuyên/thông tin)",
+  "meaningVi": "Nếu là... / Trong trường hợp... (Đưa ra lời khuyên/thông tin)",
+  "connection": "Danh từ (N) / Tính từ (Na) + なら",
   "usageNotes": "Tiếp thu những gì người nghe đã nói hoặc một tình huống được cho là đúng, sau đó đưa ra lời khuyên hoặc ý kiến. Không giống như たら, hành động chính có thể xảy ra trước mệnh đề なら.",
   "examples": [
     {
@@ -42,12 +42,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Làm gì đó giúp cho ai...",
-        "Nếu là... / Trong trường hợp... (Điều kiện Nara)",
+        "Nếu là... / Trong trường hợp... (Đưa ra lời khuyên/thông tin)",
         "Ai đó làm giúp việc gì cho mình...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜なら」 mang ý nghĩa: \"Nếu là... / Trong trường hợp... (Điều kiện Nara)\"."
+      "explanation": "Mẫu 「〜なら」 mang ý nghĩa: \"Nếu là... / Trong trường hợp... (Đưa ra lời khuyên/thông tin)\"."
     },
     {
       "id": "bunpou-n4-nara-q2",
@@ -73,13 +73,13 @@
       "targetGrammar": "〜なら",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Nếu là... / Trong trường hợp... (Điều kiện Nara)",
+        "Nếu là... / Trong trường hợp... (Đưa ra lời khuyên/thông tin)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜なら」 mang ý nghĩa: \"Nếu là... / Trong trường hợp... (Điều kiện Nara)\"."
+      "explanation": "Mẫu 「〜なら」 mang ý nghĩa: \"Nếu là... / Trong trường hợp... (Đưa ra lời khuyên/thông tin)\"."
     },
     {
       "id": "bunpou-n4-nara-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "京都へ行くなら、秋がいいですよ。",
       "sentenceVi": "Nếu bạn định đến Kyoto thì mùa thu là thời điểm thích hợp.",
       "targetGrammar": "〜なら",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nếu là... / Trong trường hợp... (Điều kiện Nara)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Nếu là... / Trong trường hợp... (Đưa ra lời khuyên/thông tin)\":",
       "options": [
         "〜とき",
         "〜てみる",
@@ -108,10 +108,10 @@
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "Nếu là... / Trong trường hợp... (Điều kiện Nara)"
+        "Nếu là... / Trong trường hợp... (Đưa ra lời khuyên/thông tin)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜なら」 có nghĩa là: Nếu là... / Trong trường hợp... (Điều kiện Nara)."
+      "explanation": "Mẫu 「〜なら」 mang ý nghĩa: \"Nếu là... / Trong trường hợp... (Đưa ra lời khuyên/thông tin)\"."
     }
   ]
 }

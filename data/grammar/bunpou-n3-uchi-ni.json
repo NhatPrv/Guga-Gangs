@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜うちに",
   "title": "〜うちに",
-  "meaning": "Trong khi còn... / Nhân lúc còn...",
-  "meaningVi": "Trong khi còn... / Nhân lúc còn...",
-  "connection": "Động từ (V)-dict / Động từ (V)-te + いる / Động từ (V)-nai / i-Adj / na-Adj + な / Danh từ (N) + の + うちに",
+  "meaning": "Trong khi còn... / Nhân lúc còn... (Kẻo trạng thái biến đổi)",
+  "meaningVi": "Trong khi còn... / Nhân lúc còn... (Kẻo trạng thái biến đổi)",
+  "connection": "V-る / V-ている / V-ない / A-い / Na + な / N + の + うちに",
   "usageNotes": "Hãy làm điều gì đó khi điều kiện còn tồn tại, trước khi nó thay đổi; hoặc một sự thay đổi xảy ra mà không được chú ý trong một hoạt động. So sánh 〜間に, đánh dấu một khoảng thời gian cố định mà không có tính khẩn cấp.",
   "examples": [
     {
@@ -41,13 +41,13 @@
       "targetGrammar": "〜うちに",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Trong khi còn... / Nhân lúc còn...",
+        "Trong khi còn... / Nhân lúc còn... (Kẻo trạng thái biến đổi)",
         "Không hẳn là... / Không nhất thiết là...",
         "Chắc chắn không... / Không đời nào...",
         "Thảo nào, hèn chi... / Đương nhiên là..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜うちに」 mang ý nghĩa: \"Trong khi còn... / Nhân lúc còn...\"."
+      "explanation": "Mẫu 「〜うちに」 mang ý nghĩa: \"Trong khi còn... / Nhân lúc còn... (Kẻo trạng thái biến đổi)\"."
     },
     {
       "id": "bunpou-n3-uchi-ni-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Nên ; điều tốt nhất là (lời khuyên)",
-        "Trong khi còn... / Nhân lúc còn...",
+        "Trong khi còn... / Nhân lúc còn... (Kẻo trạng thái biến đổi)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜うちに」 mang ý nghĩa: \"Trong khi còn... / Nhân lúc còn...\"."
+      "explanation": "Mẫu 「〜うちに」 mang ý nghĩa: \"Trong khi còn... / Nhân lúc còn... (Kẻo trạng thái biến đổi)\"."
     },
     {
       "id": "bunpou-n3-uchi-ni-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "若いうちに、いろいろな国を旅行したほうがいい。",
       "sentenceVi": "Bạn nên đi du lịch đến nhiều nước khi còn trẻ.",
       "targetGrammar": "〜うちに",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong khi còn... / Nhân lúc còn...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Trong khi còn... / Nhân lúc còn... (Kẻo trạng thái biến đổi)\":",
       "options": [
         "〜ことになっている",
         "〜ことはない",
@@ -107,11 +107,11 @@
       "options": [
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
-        "Trong khi còn... / Nhân lúc còn...",
+        "Trong khi còn... / Nhân lúc còn... (Kẻo trạng thái biến đổi)",
         "Cố gắng ; cố gắng ; sắp sửa"
       ],
       "correctIndex": 2,
-      "explanation": "「〜うちに」 có nghĩa là: Trong khi còn... / Nhân lúc còn...."
+      "explanation": "Mẫu 「〜うちに」 mang ý nghĩa: \"Trong khi còn... / Nhân lúc còn... (Kẻo trạng thái biến đổi)\"."
     }
   ]
 }

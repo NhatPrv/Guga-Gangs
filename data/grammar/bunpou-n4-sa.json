@@ -3,8 +3,8 @@
   "level": "N4",
   "pattern": "〜さ",
   "title": "〜さ",
-  "meaning": "-ness (chuyển tính từ thành danh từ chỉ mức độ)",
-  "meaningVi": "-ness (chuyển tính từ thành danh từ chỉ mức độ)",
+  "meaning": "-ness (chuyển từ thành phần từ chỉ độ)",
+  "meaningVi": "-ness (chuyển từ thành phần từ chỉ độ)",
   "connection": "i-Adj stem + さ / na-Adj + さ",
   "usageNotes": "いい trở thành よさ. Thường dùng cho các phép đo (高さ, 重さ, 大きさ, 長さ).",
   "examples": [
@@ -44,10 +44,10 @@
         "Ai đó làm giúp việc gì cho mình...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Làm gì đó giúp cho ai...",
-        "-ness (chuyển tính từ thành danh từ chỉ mức độ)"
+        "-ness (chuyển từ thành phần từ chỉ độ)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜さ」 mang ý nghĩa: \"-ness (chuyển tính từ thành danh từ chỉ mức độ)\"."
+      "explanation": "Mẫu 「〜さ」 mang ý nghĩa: \"-ness (chuyển từ thành phần từ chỉ độ)\"."
     },
     {
       "id": "bunpou-n4-sa-q2",
@@ -74,12 +74,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
-        "-ness (chuyển tính từ thành danh từ chỉ mức độ)",
+        "-ness (chuyển từ thành phần từ chỉ độ)",
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜さ」 mang ý nghĩa: \"-ness (chuyển tính từ thành danh từ chỉ mức độ)\"."
+      "explanation": "Mẫu 「〜さ」 mang ý nghĩa: \"-ness (chuyển từ thành phần từ chỉ độ)\"."
     },
     {
       "id": "bunpou-n4-sa-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "この橋の長さはどのくらいですか。",
       "sentenceVi": "Cây cầu này dài bao nhiêu?",
       "targetGrammar": "〜さ",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"-ness (chuyển tính từ thành danh từ chỉ mức độ)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"-ness (chuyển từ thành phần từ chỉ độ)\":",
       "options": [
         "〜てある",
         "〜さ",
@@ -107,11 +107,11 @@
       "options": [
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "-ness (chuyển tính từ thành danh từ chỉ mức độ)",
+        "-ness (chuyển từ thành phần từ chỉ độ)",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
       ],
       "correctIndex": 2,
-      "explanation": "「〜さ」 có nghĩa là: -ness (chuyển tính từ thành danh từ chỉ mức độ)."
+      "explanation": "Mẫu 「〜さ」 mang ý nghĩa: \"-ness (chuyển từ thành phần từ chỉ độ)\"."
     }
   ]
 }

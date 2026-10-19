@@ -3,10 +3,10 @@
   "level": "N4",
   "pattern": "〜なさい",
   "title": "〜なさい",
-  "meaning": "Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)",
-  "meaningVi": "Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)",
+  "meaning": "Làm (hướng dẫn của phụ huynh, giáo viên, v.v.)",
+  "meaningVi": "Làm (hướng dẫn của phụ huynh, giáo viên, v.v.)",
   "connection": "Động từ (V)-stem + なさい",
-  "usageNotes": "Nhẹ nhàng hơn dạng mệnh lệnh nhưng vẫn mang tính chỉ dẫn chắc chắn; được phụ huynh, giáo viên và trong các buổi hướng dẫn thi cử, không bao giờ hướng tới cấp trên.",
+  "usageNotes": "Im lặng hơn dạng mệnh lệnh nhưng vẫn tính chỉ dẫn chắc chắn; được phụ huynh, giáo viên và trong các buổi hướng dẫn thi cử, không bao giờ hướng tới cấp trên.",
   "examples": [
     {
       "ja": "もう九時よ。早く寝なさい。",
@@ -40,13 +40,13 @@
       "targetGrammar": "〜なさい",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)",
+        "Làm (hướng dẫn của phụ huynh, giáo viên, v.v.)",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜なさい」 mang ý nghĩa: \"Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)\"."
+      "explanation": "Mẫu 「〜なさい」 mang ý nghĩa: \"Làm (hướng dẫn của phụ huynh, giáo viên, v.v.)\"."
     },
     {
       "id": "bunpou-n4-nasai-q2",
@@ -74,11 +74,11 @@
       "options": [
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Làm sẵn gì đó trước (Chuẩn bị)",
-        "Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)",
+        "Làm (hướng dẫn của phụ huynh, giáo viên, v.v.)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜なさい」 mang ý nghĩa: \"Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)\"."
+      "explanation": "Mẫu 「〜なさい」 mang ý nghĩa: \"Làm (hướng dẫn của phụ huynh, giáo viên, v.v.)\"."
     },
     {
       "id": "bunpou-n4-nasai-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "もう九時よ。早く寝なさい。",
       "sentenceVi": "Đã chín giờ rồi. Đi ngủ bây giờ.",
       "targetGrammar": "〜なさい",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm (hướng dẫn của phụ huynh, giáo viên, v.v.)\":",
       "options": [
         "〜てみる",
         "〜なさい",
@@ -105,12 +105,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜なさい」 là gì?",
       "options": [
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)",
+        "Làm (hướng dẫn của phụ huynh, giáo viên, v.v.)",
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
       ],
       "correctIndex": 1,
-      "explanation": "「〜なさい」 có nghĩa là: Làm (sự hướng dẫn của phụ huynh, giáo viên, v.v.)."
+      "explanation": "Mẫu 「〜なさい」 mang ý nghĩa: \"Làm (hướng dẫn của phụ huynh, giáo viên, v.v.)\"."
     }
   ]
 }

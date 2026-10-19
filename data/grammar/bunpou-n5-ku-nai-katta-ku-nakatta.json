@@ -3,9 +3,9 @@
   "level": "N5",
   "pattern": "〜くない / 〜かった / 〜くなかった",
   "title": "〜くない / 〜かった / 〜くなかった",
-  "meaning": "Các dạng phủ định và quá khứ của tính từ i (is not; was; was not)",
-  "meaningVi": "Các dạng phủ định và quá khứ của tính từ i (is not; was; was not)",
-  "connection": "i-Adj stem + くない / i-Adj stem + かった / i-Adj stem + くなかった",
+  "meaning": "Phủ định và quá khứ của tính từ đuôi い: Không... / Đã...",
+  "meaningVi": "Phủ định và quá khứ của tính từ đuôi い: Không... / Đã...",
+  "connection": "Tính từ đuôi い bỏ い + くない / かった / くなかった",
   "usageNotes": "高い→高くない, 高かった, 高くなかった. Thêm です để lịch sự. いい là không đều: よくない, よかった, よくなかった.",
   "examples": [
     {
@@ -42,13 +42,13 @@
       "targetGrammar": "〜くない / 〜かった / 〜くなかった",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Các dạng phủ định và quá khứ của tính từ i (is not; was; was not)",
+        "Phủ định và quá khứ của tính từ đuôi い: Không... / Đã...",
         "Chỉ đối tượng trực tiếp của hành động",
         "Thì, chính là... (Trợ từ chỉ chủ ngữ mới, tiêu điểm)",
         "Thì, là... (Trợ từ biểu thị chủ đề câu nói)"
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜くない / 〜かった / 〜くなかった」 mang ý nghĩa: \"Các dạng phủ định và quá khứ của tính từ i (is not; was; was not)\"."
+      "explanation": "Mẫu 「〜くない / 〜かった / 〜くなかった」 mang ý nghĩa: \"Phủ định và quá khứ của tính từ đuôi い: Không... / Đã...\"."
     },
     {
       "id": "bunpou-n5-ku-nai-katta-ku-nakatta-q2",
@@ -76,11 +76,11 @@
       "options": [
         "Tới (người nhận hoặc là mục tiêu của một hành động)",
         "Hướng về, tới... (Chỉ phương hướng di chuyển)",
-        "Các dạng phủ định và quá khứ của tính từ i (is not; was; was not)",
+        "Phủ định và quá khứ của tính từ đuôi い: Không... / Đã...",
         "Mỗi; trong (bao nhiêu lần trong một khoảng thời gian)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜くない / 〜かった / 〜くなかった」 mang ý nghĩa: \"Các dạng phủ định và quá khứ của tính từ i (is not; was; was not)\"."
+      "explanation": "Mẫu 「〜くない / 〜かった / 〜くなかった」 mang ý nghĩa: \"Phủ định và quá khứ của tính từ đuôi い: Không... / Đã...\"."
     },
     {
       "id": "bunpou-n5-ku-nai-katta-ku-nakatta-q4",
@@ -88,7 +88,7 @@
       "sentenceJa": "この部屋はあまり広くないです。",
       "sentenceVi": "Căn phòng này không lớn lắm.",
       "targetGrammar": "〜くない / 〜かった / 〜くなかった",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Các dạng phủ định và quá khứ của tính từ i (is not; was; was not)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Phủ định và quá khứ của tính từ đuôi い: Không... / Đã...\":",
       "options": [
         "〜で（means）",
         "〜で（place of action）",
@@ -107,12 +107,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜くない / 〜かった / 〜くなかった」 là gì?",
       "options": [
         "Hoặc (sự lựa chọn giữa các danh từ)",
-        "Các dạng phủ định và quá khứ của tính từ i (is not; was; was not)",
+        "Phủ định và quá khứ của tính từ đuôi い: Không... / Đã...",
         "Với ; cùng với (một đối tác trong một hành động)",
         "Và, như là... (Liệt kê tiêu biểu, không hết)"
       ],
       "correctIndex": 1,
-      "explanation": "「〜くない / 〜かった / 〜くなかった」 có nghĩa là: Các dạng phủ định và quá khứ của tính từ i (is not; was; was not)."
+      "explanation": "Mẫu 「〜くない / 〜かった / 〜くなかった」 mang ý nghĩa: \"Phủ định và quá khứ của tính từ đuôi い: Không... / Đã...\"."
     }
   ]
 }

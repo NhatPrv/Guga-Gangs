@@ -3,8 +3,8 @@
   "level": "N3",
   "pattern": "〜一方だ",
   "title": "〜一方だ",
-  "meaning": "Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)",
-  "meaningVi": "Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)",
+  "meaning": "Tiếp tục -ing; ngày càng nhiều (thay đổi theo hướng)",
+  "meaningVi": "Tiếp tục -ing; ngày càng nhiều (thay đổi theo hướng)",
   "connection": "Động từ (V)-dict + 一方だ",
   "usageNotes": "Thay đổi ổn định theo một hướng, thường (không phải luôn luôn) theo chiều hướng xấu hơn. Dùng với các động từ thay đổi như 増える, 減る, 上がる, 悪くなる.",
   "examples": [
@@ -41,13 +41,13 @@
       "targetGrammar": "〜一方だ",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
-        "Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)",
+        "Tiếp tục -ing; ngày càng nhiều (thay đổi theo hướng)",
         "Không hẳn là... / Không nhất thiết là...",
         "Chắc chắn không... / Không đời nào...",
         "Thảo nào, hèn chi... / Đương nhiên là..."
       ],
       "correctIndex": 0,
-      "explanation": "Mẫu 「〜一方だ」 mang ý nghĩa: \"Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)\"."
+      "explanation": "Mẫu 「〜一方だ」 mang ý nghĩa: \"Tiếp tục -ing; ngày càng nhiều (thay đổi theo hướng)\"."
     },
     {
       "id": "bunpou-n3-ippou-da-q2",
@@ -75,11 +75,11 @@
       "options": [
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
-        "Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)",
+        "Tiếp tục -ing; ngày càng nhiều (thay đổi theo hướng)",
         "Nên ; điều tốt nhất là (lời khuyên)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜一方だ」 mang ý nghĩa: \"Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)\"."
+      "explanation": "Mẫu 「〜一方だ」 mang ý nghĩa: \"Tiếp tục -ing; ngày càng nhiều (thay đổi theo hướng)\"."
     },
     {
       "id": "bunpou-n3-ippou-da-q4",
@@ -87,7 +87,7 @@
       "sentenceJa": "この町の人口は、減る一方だ。",
       "sentenceVi": "Dân số của thị trấn này ngày càng giảm.",
       "targetGrammar": "〜一方だ",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Tiếp tục -ing; ngày càng nhiều (thay đổi theo hướng)\":",
       "options": [
         "〜ことはない",
         "〜ことになっている",
@@ -108,10 +108,10 @@
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
         "Cố gắng ; cố gắng ; sắp sửa",
-        "Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)"
+        "Tiếp tục -ing; ngày càng nhiều (thay đổi theo hướng)"
       ],
       "correctIndex": 3,
-      "explanation": "「〜一方だ」 có nghĩa là: Tiếp tục -ing; ngày càng nhiều (thay đổi theo một hướng)."
+      "explanation": "Mẫu 「〜一方だ」 mang ý nghĩa: \"Tiếp tục -ing; ngày càng nhiều (thay đổi theo hướng)\"."
     }
   ]
 }

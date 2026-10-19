@@ -3,8 +3,8 @@
   "level": "N4",
   "pattern": "〜くする / 〜にする（make）",
   "title": "〜くする / 〜にする（make）",
-  "meaning": "Làm (cái gì)...; thay đổi cái gì đó sang trạng thái",
-  "meaningVi": "Làm (cái gì)...; thay đổi cái gì đó sang trạng thái",
+  "meaning": "Làm (cái gì)...; thay đổi trạng thái",
+  "meaningVi": "Làm (cái gì)...; thay đổi trạng thái",
   "connection": "i-Adj-ku + する / na-Adj + に + する / Danh từ (N) + に + する",
   "usageNotes": "Ai đó cố tình thay đổi một cái gì đó. So sánh 〜くなる / 〜になる, nơi mà sự thay đổi tự nó xảy ra.",
   "examples": [
@@ -41,12 +41,12 @@
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",
       "options": [
         "Ai đó làm giúp việc gì cho mình...",
-        "Làm (cái gì)...; thay đổi cái gì đó sang trạng thái",
+        "Làm (cái gì)...; thay đổi trạng thái",
         "Làm gì đó giúp cho ai...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được"
       ],
       "correctIndex": 1,
-      "explanation": "Mẫu 「〜くする / 〜にする（make）」 mang ý nghĩa: \"Làm (cái gì)...; thay đổi cái gì đó sang trạng thái\"."
+      "explanation": "Mẫu 「〜くする / 〜にする（make）」 mang ý nghĩa: \"Làm (cái gì)...; thay đổi trạng thái\"."
     },
     {
       "id": "bunpou-n4-ku-suru-ni-suru-q2",
@@ -75,10 +75,10 @@
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Làm sẵn gì đó trước (Chuẩn bị)",
-        "Làm (cái gì)...; thay đổi cái gì đó sang trạng thái"
+        "Làm (cái gì)...; thay đổi trạng thái"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜くする / 〜にする（make）」 mang ý nghĩa: \"Làm (cái gì)...; thay đổi cái gì đó sang trạng thái\"."
+      "explanation": "Mẫu 「〜くする / 〜にする（make）」 mang ý nghĩa: \"Làm (cái gì)...; thay đổi trạng thái\"."
     },
     {
       "id": "bunpou-n4-ku-suru-ni-suru-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "テレビの音を小さくしてください。",
       "sentenceVi": "Làm ơn tắt TV đi.",
       "targetGrammar": "〜くする / 〜にする（make）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm (cái gì)...; thay đổi cái gì đó sang trạng thái\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Làm (cái gì)...; thay đổi trạng thái\":",
       "options": [
         "〜てみる",
         "〜くする / 〜にする（make）",
@@ -107,10 +107,10 @@
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian",
-        "Làm (cái gì)...; thay đổi cái gì đó sang trạng thái"
+        "Làm (cái gì)...; thay đổi trạng thái"
       ],
       "correctIndex": 3,
-      "explanation": "「〜くする / 〜にする（make）」 có nghĩa là: Làm (cái gì)...; thay đổi cái gì đó sang trạng thái."
+      "explanation": "Mẫu 「〜くする / 〜にする（make）」 mang ý nghĩa: \"Làm (cái gì)...; thay đổi trạng thái\"."
     }
   ]
 }

@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜と（conditional）",
   "title": "〜と（conditional）",
-  "meaning": "Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)",
-  "meaningVi": "Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)",
-  "connection": "Động từ (V)-dict / Động từ (V)-nai / i-Adj + と / na-Adj + だ + と / Danh từ (N) + だ + と",
+  "meaning": "Hễ mà... thì đương nhiên... (Quy luật tự nhiên, máy móc)",
+  "meaningVi": "Hễ mà... thì đương nhiên... (Quy luật tự nhiên, máy móc)",
+  "connection": "Động từ thể từ điển (V-る) + と",
   "usageNotes": "Để có kết quả tự nhiên, cách máy móc hoạt động, hướng dẫn và thói quen. Mệnh đề chính không thể là một yêu cầu, mong muốn hay lời mời.",
   "examples": [
     {
@@ -43,10 +43,10 @@
         "Làm gì đó giúp cho ai...",
         "Ai đó làm giúp việc gì cho mình...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
-        "Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)"
+        "Hễ mà... thì đương nhiên... (Quy luật tự nhiên, máy móc)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜と（conditional）」 mang ý nghĩa: \"Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)\"."
+      "explanation": "Mẫu 「〜と（conditional）」 mang ý nghĩa: \"Hễ mà... thì đương nhiên... (Quy luật tự nhiên, máy móc)\"."
     },
     {
       "id": "bunpou-n4-to-q2",
@@ -74,11 +74,11 @@
       "options": [
         "Làm sẵn gì đó trước (Chuẩn bị)",
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
-        "Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)",
+        "Hễ mà... thì đương nhiên... (Quy luật tự nhiên, máy móc)",
         "Làm điều gì đó và quay lại; đến làm ; (thay đổi) cho đến nay; bắt đầu"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜と（conditional）」 mang ý nghĩa: \"Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)\"."
+      "explanation": "Mẫu 「〜と（conditional）」 mang ý nghĩa: \"Hễ mà... thì đương nhiên... (Quy luật tự nhiên, máy móc)\"."
     },
     {
       "id": "bunpou-n4-to-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "このボタンを押すと、お茶が出ます。",
       "sentenceVi": "Khi bạn nhấn nút này, trà sẽ chảy ra.",
       "targetGrammar": "〜と（conditional）",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Hễ mà... thì đương nhiên... (Quy luật tự nhiên, máy móc)\":",
       "options": [
         "〜と（conditional）",
         "〜てみる",
@@ -105,12 +105,12 @@
       "prompt": "Ý nghĩa chính của cấu trúc 「〜と（conditional）」 là gì?",
       "options": [
         "Trông giống như; có vẻ ; có vẻ sắp",
-        "Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)",
+        "Hễ mà... thì đương nhiên... (Quy luật tự nhiên, máy móc)",
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Trong khi ; trong suốt (toàn bộ thời gian); tại một thời điểm nào đó trong thời gian"
       ],
       "correctIndex": 1,
-      "explanation": "「〜と（conditional）」 có nghĩa là: Hễ mà... thì... (Điều kiện tự nhiên, tất yếu)."
+      "explanation": "Mẫu 「〜と（conditional）」 mang ý nghĩa: \"Hễ mà... thì đương nhiên... (Quy luật tự nhiên, máy móc)\"."
     }
   ]
 }

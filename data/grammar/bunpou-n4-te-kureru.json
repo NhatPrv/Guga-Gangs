@@ -3,9 +3,9 @@
   "level": "N4",
   "pattern": "〜てくれる",
   "title": "〜てくれる",
-  "meaning": "Ai đó làm giúp việc gì cho mình...",
-  "meaningVi": "Ai đó làm giúp việc gì cho mình...",
-  "connection": "Động từ (V)-te + くれる",
+  "meaning": "Ai đó làm giúp việc gì cho mình/người thân của mình",
+  "meaningVi": "Ai đó làm giúp việc gì cho mình/người thân của mình",
+  "connection": "Động từ thể Te (V-て) + くれる",
   "usageNotes": "Chủ ngữ là người làm việc giúp đỡ; người được lợi là người nói hoặc người thân thiết với họ.",
   "examples": [
     {
@@ -42,11 +42,11 @@
       "options": [
         "Làm gì đó giúp cho ai...",
         "Đưa (cho người khác); đưa (cho tôi hoặc nhóm của tôi); nhận được",
-        "Ai đó làm giúp việc gì cho mình...",
+        "Ai đó làm giúp việc gì cho mình/người thân của mình",
         "Được ai đó làm giúp cho việc gì..."
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜てくれる」 mang ý nghĩa: \"Ai đó làm giúp việc gì cho mình...\"."
+      "explanation": "Mẫu 「〜てくれる」 mang ý nghĩa: \"Ai đó làm giúp việc gì cho mình/người thân của mình\"."
     },
     {
       "id": "bunpou-n4-te-kureru-q2",
@@ -74,11 +74,11 @@
       "options": [
         "Kết thúc hoàn toàn; làm một cách tình cờ; kết thúc việc làm (với sự hối tiếc)",
         "Thử làm gì đó...",
-        "Ai đó làm giúp việc gì cho mình...",
+        "Ai đó làm giúp việc gì cho mình/người thân của mình",
         "Làm sẵn gì đó trước (Chuẩn bị)"
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜てくれる」 mang ý nghĩa: \"Ai đó làm giúp việc gì cho mình...\"."
+      "explanation": "Mẫu 「〜てくれる」 mang ý nghĩa: \"Ai đó làm giúp việc gì cho mình/người thân của mình\"."
     },
     {
       "id": "bunpou-n4-te-kureru-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "友達が引っ越しを手伝ってくれた。",
       "sentenceVi": "Một người bạn đã giúp tôi di chuyển.",
       "targetGrammar": "〜てくれる",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ai đó làm giúp việc gì cho mình...\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Ai đó làm giúp việc gì cho mình/người thân của mình\":",
       "options": [
         "〜とき",
         "〜てくれる",
@@ -104,13 +104,13 @@
       "targetGrammar": "〜てくれる",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜てくれる」 là gì?",
       "options": [
-        "Ai đó làm giúp việc gì cho mình...",
+        "Ai đó làm giúp việc gì cho mình/người thân của mình",
         "Trông giống như; có vẻ ; có vẻ sắp",
         "Nghe nói là... (Truyền đạt lại thông tin)",
         "Rõ ràng; có vẻ như; tôi nghe thấy"
       ],
       "correctIndex": 0,
-      "explanation": "「〜てくれる」 có nghĩa là: Ai đó làm giúp việc gì cho mình...."
+      "explanation": "Mẫu 「〜てくれる」 mang ý nghĩa: \"Ai đó làm giúp việc gì cho mình/người thân của mình\"."
     }
   ]
 }

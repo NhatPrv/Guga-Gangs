@@ -3,9 +3,9 @@
   "level": "N3",
   "pattern": "〜にとって",
   "title": "〜にとって",
-  "meaning": "Đối với... (Đứng trên lập trường của ai)",
-  "meaningVi": "Đối với... (Đứng trên lập trường của ai)",
-  "connection": "Danh từ (N) + にとって / Danh từ (N) + にとっての + Danh từ (N)",
+  "meaning": "Đối với... (Đứng trên góc độ, lập trường của ai)",
+  "meaningVi": "Đối với... (Đứng trên góc độ, lập trường của ai)",
+  "connection": "Danh từ chỉ người/tổ chức (N) + にとって",
   "usageNotes": "Tiếp theo là sự đánh giá (大切だ, 難しい, 便利だ). Không dùng cho hành động hay thái độ đối với ai đó; sử dụng 〜に対して cho những điều đó.",
   "examples": [
     {
@@ -42,11 +42,11 @@
       "options": [
         "Chắc chắn không... / Không đời nào...",
         "Không hẳn là... / Không nhất thiết là...",
-        "Đối với... (Đứng trên lập trường của ai)",
+        "Đối với... (Đứng trên góc độ, lập trường của ai)",
         "Thảo nào, hèn chi... / Đương nhiên là..."
       ],
       "correctIndex": 2,
-      "explanation": "Mẫu 「〜にとって」 mang ý nghĩa: \"Đối với... (Đứng trên lập trường của ai)\"."
+      "explanation": "Mẫu 「〜にとって」 mang ý nghĩa: \"Đối với... (Đứng trên góc độ, lập trường của ai)\"."
     },
     {
       "id": "bunpou-n3-ni-totte-q2",
@@ -75,10 +75,10 @@
         "Nên ; điều tốt nhất là (lời khuyên)",
         "Bởi vì (lý do thông thường hoặc tự biện minh)",
         "Bởi vì ; vì (giải thích hoặc bào chữa cho một tình huống)",
-        "Đối với... (Đứng trên lập trường của ai)"
+        "Đối với... (Đứng trên góc độ, lập trường của ai)"
       ],
       "correctIndex": 3,
-      "explanation": "Mẫu 「〜にとって」 mang ý nghĩa: \"Đối với... (Đứng trên lập trường của ai)\"."
+      "explanation": "Mẫu 「〜にとって」 mang ý nghĩa: \"Đối với... (Đứng trên góc độ, lập trường của ai)\"."
     },
     {
       "id": "bunpou-n3-ni-totte-q4",
@@ -86,7 +86,7 @@
       "sentenceJa": "私にとって、家族は何よりも大切なものです。",
       "sentenceVi": "Với tôi, gia đình quan trọng hơn bất cứ điều gì.",
       "targetGrammar": "〜にとって",
-      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đối với... (Đứng trên lập trường của ai)\":",
+      "prompt": "Chọn mẫu ngữ pháp phù hợp diễn đạt ý nghĩa \"Đối với... (Đứng trên góc độ, lập trường của ai)\":",
       "options": [
         "〜ことにしている",
         "〜ことになっている",
@@ -104,13 +104,13 @@
       "targetGrammar": "〜にとって",
       "prompt": "Ý nghĩa chính của cấu trúc 「〜にとって」 là gì?",
       "options": [
-        "Đối với... (Đứng trên lập trường của ai)",
+        "Đối với... (Đứng trên góc độ, lập trường của ai)",
         "Phải ; làm (quy tắc hoặc hướng dẫn bằng văn bản)",
         "Bảo ai đó làm gì; nhờ ai làm gì (báo cáo lệnh hoặc yêu cầu)",
         "Cố gắng ; cố gắng ; sắp sửa"
       ],
       "correctIndex": 0,
-      "explanation": "「〜にとって」 có nghĩa là: Đối với... (Đứng trên lập trường của ai)."
+      "explanation": "Mẫu 「〜にとって」 mang ý nghĩa: \"Đối với... (Đứng trên góc độ, lập trường của ai)\"."
     }
   ]
 }
