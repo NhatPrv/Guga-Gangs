@@ -9,7 +9,7 @@ const fs = require('fs');
 const path = require('path');
 const url = require('url');
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 48921;
 const ROOT_DIR = __dirname;
 const WEB_DIR = path.join(ROOT_DIR, 'web');
 
@@ -94,9 +94,9 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log('='.repeat(55));
-  console.log(`🌸 JLPT N4 Master Web Server đang chạy tại:`);
+  console.log('='.repeat(60));
+  console.log(`🌸 Guga Gangs - JLPT Master Web Server đang chạy tại:`);
   console.log(`   👉 http://localhost:${PORT}`);
-  console.log('='.repeat(55));
+  console.log('='.repeat(60));
   console.log(`Nhấn Ctrl + C để dừng máy chủ.`);
 });
