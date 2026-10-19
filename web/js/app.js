@@ -550,8 +550,8 @@ function renderGrammarTree(filterKeyword = '') {
 /**
  * Chọn bài học Ngữ pháp trên cây thư mục (Bài 1, Bài 2,...)
  */
-function selectGrammarUnit(unitId) {
-  const manifest = state.grammarManifest;
+async function selectGrammarUnit(unitId) {
+  const manifest = state.grammarManifest || (state.grammar && state.grammar.manifest);
   if (!manifest) return;
 
   const unit = (manifest.units || []).find(u => u.id === unitId);
@@ -560,13 +560,18 @@ function selectGrammarUnit(unitId) {
   state.grammar.activeUnit = unit;
 
   // Cập nhật Breadcrumb
-  document.getElementById('breadcrumb-curriculum').textContent = `JLPT ${unit.level}`;
-  document.getElementById('breadcrumb-unit').textContent = unit.title;
+  const breadcrumbCurr = document.getElementById('breadcrumb-curriculum');
+  const breadcrumbUnit = document.getElementById('breadcrumb-unit');
+  if (breadcrumbCurr) breadcrumbCurr.textContent = `JLPT ${unit.level}`;
+  if (breadcrumbUnit) breadcrumbUnit.textContent = unit.title;
 
-  if (state.currentTab === 'grammar-test') {
+  if (state.currentTab === 'grammar-flashcard') {
+    await setupFlashcards('grammar');
+    renderFlashcardView();
+  } else if (state.currentTab === 'grammar-test') {
     renderGrammarCatalog();
   } else {
-    if (typeof window.switchTab === 'function') {
+    if (typeof window.switchTab === 'function' && state.currentTab !== 'grammar' && state.currentTab !== 'grammar-catalog') {
       window.switchTab('grammar-catalog');
     }
     renderGrammarOverview();
@@ -1151,9 +1156,9 @@ function toggleBookmark(id) {
  * Thiết lập dữ liệu Flashcards theo phân hệ độc lập:
  * - 'vocab': Chỉ nạp từ vựng của bài (không pha tạp Hán tự đơn lẻ)
  * - 'kanji': Chỉ nạp Hán tự của bài kèm 1-2 từ ghép tiêu biểu
- * - 'grammar': Chỉ nạp các mẫu ngữ pháp JLPT
+ * - 'grammar': Chỉ nạp các mẫu ngữ pháp JLPT theo bài học đang chọn
  */
-function setupFlashcards(deckType = 'vocab') {
+async function setupFlashcards(deckType = 'vocab') {
   state.flashcardDeckType = deckType;
   const cards = [];
 
@@ -1207,18 +1212,60 @@ function setupFlashcards(deckType = 'vocab') {
       });
     });
   } else if (deckType === 'grammar') {
-    // 3. Phân hệ NGỮ PHÁP (Flashcard 3D)
-    const items = (state.grammar && state.grammar.manifest && state.grammar.manifest.items) ? state.grammar.manifest.items : [];
-    items.forEach(g => {
+    // 3. Phân hệ NGỮ PHÁP (Flashcard theo bài học đang chọn)
+    const manifest = state.grammarManifest || (state.grammar && state.grammar.manifest);
+    const units = (manifest && manifest.units) || [];
+    let activeUnit = (state.grammar && state.grammar.activeUnit) || units[0] || null;
+    if (activeUnit && !state.grammar.activeUnit) {
+      state.grammar.activeUnit = activeUnit;
+    }
+
+    const allItems = (manifest && manifest.items) ? manifest.items : [];
+    const unitItems = activeUnit
+      ? allItems.filter(item => item.unitId === activeUnit.id || (activeUnit.grammarIds && activeUnit.grammarIds.includes(item.id)))
+      : allItems;
+
+    state.grammar.detailCache = state.grammar.detailCache || {};
+
+    const detailedItems = await Promise.all(
+      unitItems.map(async item => {
+        if (state.grammar.detailCache[item.id]) {
+          return state.grammar.detailCache[item.id];
+        }
+        try {
+          const res = await fetch(`data/grammar/${item.id}.json`);
+          if (res.ok) {
+            const data = await res.json();
+            state.grammar.detailCache[item.id] = data;
+            return data;
+          }
+        } catch (e) {
+          console.warn(`Lỗi tải chi tiết mẫu ${item.id}:`, e);
+        }
+        return item;
+      })
+    );
+
+    detailedItems.forEach(g => {
+      let exJa = '';
+      let exVi = '';
+      if (g.examples && g.examples.length > 0) {
+        exJa = g.examples[0].ja || '';
+        exVi = g.examples[0].vi || g.examples[0].en || '';
+      } else if (g.questions && g.questions.length > 0) {
+        exJa = g.questions[0].sentenceJa || '';
+        exVi = g.questions[0].sentenceVi || '';
+      }
+
       cards.push({
         type: 'grammar',
-        tag: `Ngữ pháp ${g.level || 'JLPT'}`,
+        tag: `${activeUnit ? activeUnit.title : 'Ngữ pháp'} • ${g.level || 'JLPT'}`,
         frontWord: g.title,
         frontReading: g.connection || 'Cấu trúc kết hợp',
         backMeaning: g.meaning,
         backDetailType: g.usageNotes || 'Sắc thái sử dụng',
-        exampleJa: 'Áp dụng qua bộ đề trắc nghiệm tình huống thực tế',
-        exampleVi: 'Nhấn vào Đấu trường để luyện 2 chiều'
+        exampleJa: exJa,
+        exampleVi: exVi
       });
     });
   }
@@ -1401,7 +1448,7 @@ function setupEventListeners() {
   /**
    * Chuyển đổi tab con bên trong từng Phân hệ
    */
-  function switchTab(tab) {
+  async function switchTab(tab) {
     state.currentTab = tab;
 
     // Danh sách tất cả sub-tabs
@@ -1434,7 +1481,7 @@ function setupEventListeners() {
     } else if (tab === 'vocab-flashcard' || tab === 'flashcard') {
       if (tabFlashcard) tabFlashcard.className = 'tab-btn active px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-white dark:bg-slate-800 text-brand-600 dark:text-brand-400 shadow-sm border border-slate-200 dark:border-slate-700 flex items-center gap-1.5 transition';
       if (viewFlashcard) viewFlashcard.classList.remove('hidden');
-      setupFlashcards('vocab');
+      await setupFlashcards('vocab');
       renderFlashcardView();
 
     } else if (tab === 'vocab-practice' || tab === 'practice') {
@@ -1450,7 +1497,7 @@ function setupEventListeners() {
     } else if (tab === 'kanji-flashcard') {
       if (tabKanjiFlashcard) tabKanjiFlashcard.className = 'tab-btn active px-3.5 py-1.5 rounded-lg text-xs font-bold bg-white dark:bg-slate-800 text-emerald-600 dark:text-emerald-400 shadow-sm border border-emerald-200 dark:border-emerald-800 flex items-center gap-1.5 transition';
       if (viewFlashcard) viewFlashcard.classList.remove('hidden');
-      setupFlashcards('kanji');
+      await setupFlashcards('kanji');
       renderFlashcardView();
 
     } else if (tab === 'kanji-practice') {
@@ -1462,7 +1509,7 @@ function setupEventListeners() {
       if (tabGrammarCatalog) tabGrammarCatalog.className = 'tab-btn active px-3.5 py-1.5 rounded-lg text-xs font-bold bg-white dark:bg-slate-800 text-purple-600 dark:text-purple-400 shadow-sm border border-purple-200 dark:border-purple-800 flex items-center gap-1.5 transition';
       if (viewGrammar) {
         viewGrammar.classList.remove('hidden');
-        initGrammarModule();
+        await initGrammarModule();
         // Ẩn arena & summary & catalog, chỉ hiện overview
         document.getElementById('grammar-arena')?.classList.add('hidden');
         document.getElementById('grammar-summary')?.classList.add('hidden');
@@ -1474,14 +1521,15 @@ function setupEventListeners() {
     } else if (tab === 'grammar-flashcard') {
       if (tabGrammarFlashcard) tabGrammarFlashcard.className = 'tab-btn active px-3.5 py-1.5 rounded-lg text-xs font-bold bg-white dark:bg-slate-800 text-purple-600 dark:text-purple-400 shadow-sm border border-purple-200 dark:border-purple-800 flex items-center gap-1.5 transition';
       if (viewFlashcard) viewFlashcard.classList.remove('hidden');
-      setupFlashcards('grammar');
+      await initGrammarModule();
+      await setupFlashcards('grammar');
       renderFlashcardView();
 
     } else if (tab === 'grammar-test') {
       if (tabGrammarTest) tabGrammarTest.className = 'tab-btn active px-3.5 py-1.5 rounded-lg text-xs font-bold bg-white dark:bg-slate-800 text-purple-600 dark:text-purple-400 shadow-sm border border-purple-200 dark:border-purple-800 flex items-center gap-1.5 transition';
       if (viewGrammar) {
         viewGrammar.classList.remove('hidden');
-        initGrammarModule();
+        await initGrammarModule();
         // Ẩn arena & summary & overview, chỉ hiện catalog (Đấu trường trắc nghiệm)
         document.getElementById('grammar-arena')?.classList.add('hidden');
         document.getElementById('grammar-summary')?.classList.add('hidden');
@@ -1584,6 +1632,16 @@ function setupEventListeners() {
       if (navTabsGrammar) navTabsGrammar.classList.remove('hidden');
       if (navTabsVocab) navTabsVocab.classList.add('hidden');
       if (navTabsKanji) navTabsKanji.classList.add('hidden');
+
+      if (!state.grammar.activeUnit && state.grammarManifest && state.grammarManifest.units && state.grammarManifest.units.length > 0) {
+        state.grammar.activeUnit = state.grammarManifest.units[0];
+      }
+      if (state.grammar.activeUnit) {
+        const breadcrumbCurr = document.getElementById('breadcrumb-curriculum');
+        const breadcrumbUnit = document.getElementById('breadcrumb-unit');
+        if (breadcrumbCurr) breadcrumbCurr.textContent = `JLPT ${state.grammar.activeUnit.level}`;
+        if (breadcrumbUnit) breadcrumbUnit.textContent = state.grammar.activeUnit.title;
+      }
 
       updateStatsDisplay();
       renderTreeView();
@@ -2557,6 +2615,7 @@ async function initGrammarModule() {
       const res = await fetch('data/grammar/grammar-manifest.json');
       if (res.ok) {
         state.grammar.manifest = await res.json();
+        state.grammarManifest = state.grammar.manifest;
         const badgeEl = document.getElementById('tab-grammar-badge');
         if (badgeEl && state.grammar.manifest.items) {
           badgeEl.textContent = state.grammar.manifest.items.length;
@@ -2565,6 +2624,13 @@ async function initGrammarModule() {
     } catch (err) {
       console.warn('Lỗi tải grammar manifest:', err.message);
     }
+  }
+
+  if (!state.grammarManifest && state.grammar.manifest) {
+    state.grammarManifest = state.grammar.manifest;
+  }
+  if (!state.grammar.activeUnit && state.grammar.manifest && state.grammar.manifest.units && state.grammar.manifest.units.length > 0) {
+    state.grammar.activeUnit = state.grammar.manifest.units[0];
   }
 
   setupGrammarListeners();
