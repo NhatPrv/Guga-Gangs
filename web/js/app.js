@@ -2952,6 +2952,22 @@ async function startGrammarComprehensiveQuiz(unitId, examIndex = 0) {
       [aggregatedQuestions[i], aggregatedQuestions[j]] = [aggregatedQuestions[j], aggregatedQuestions[i]];
     }
 
+    // Xáo trộn ngẫu nhiên các phương án lựa chọn A, B, C, D cho từng câu hỏi
+    aggregatedQuestions = aggregatedQuestions.map(origQ => {
+      const q = { ...origQ };
+      if (Array.isArray(q.options) && q.options.length > 0) {
+        const correctText = q.options[q.correctIndex];
+        const newOptions = [...q.options];
+        for (let i = newOptions.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [newOptions[i], newOptions[j]] = [newOptions[j], newOptions[i]];
+        }
+        q.options = newOptions;
+        q.correctIndex = newOptions.indexOf(correctText);
+      }
+      return q;
+    });
+
     const g = state.grammar;
     g.activeGrammar = {
       id: `comp-${unit.id}-${examIndex + 1}`,
@@ -2972,9 +2988,10 @@ async function startGrammarComprehensiveQuiz(unitId, examIndex = 0) {
     g.isHintVisible = false;
 
     // Chuyển sang giao diện Grammar Arena
-    document.getElementById('grammar-catalog').classList.add('hidden');
-    document.getElementById('grammar-summary').classList.add('hidden');
-    document.getElementById('grammar-arena').classList.remove('hidden');
+    document.getElementById('grammar-overview')?.classList.add('hidden');
+    document.getElementById('grammar-catalog')?.classList.add('hidden');
+    document.getElementById('grammar-summary')?.classList.add('hidden');
+    document.getElementById('grammar-arena')?.classList.remove('hidden');
 
     // Cập nhật Top bar Arena
     document.getElementById('grammar-arena-title').textContent = `${unit.title} - Đề tổng hợp #${examIndex + 1}`;
@@ -2998,7 +3015,24 @@ async function startGrammarQuiz(grammarId) {
 
     const g = state.grammar;
     g.activeGrammar = data;
-    g.questions = data.questions || [];
+
+    // Xáo trộn ngẫu nhiên options cho các câu hỏi ôn tập nhanh
+    const shuffledQuestions = (data.questions || []).map(origQ => {
+      const q = { ...origQ };
+      if (Array.isArray(q.options) && q.options.length > 0) {
+        const correctText = q.options[q.correctIndex];
+        const newOptions = [...q.options];
+        for (let i = newOptions.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [newOptions[i], newOptions[j]] = [newOptions[j], newOptions[i]];
+        }
+        q.options = newOptions;
+        q.correctIndex = newOptions.indexOf(correctText);
+      }
+      return q;
+    });
+
+    g.questions = shuffledQuestions;
     g.currentIndex = 0;
     g.scoreCorrect = 0;
     g.scoreWrong = 0;
@@ -3007,9 +3041,10 @@ async function startGrammarQuiz(grammarId) {
     g.isHintVisible = false;
 
     // Chuyển giao diện
-    document.getElementById('grammar-catalog').classList.add('hidden');
-    document.getElementById('grammar-summary').classList.add('hidden');
-    document.getElementById('grammar-arena').classList.remove('hidden');
+    document.getElementById('grammar-overview')?.classList.add('hidden');
+    document.getElementById('grammar-catalog')?.classList.add('hidden');
+    document.getElementById('grammar-summary')?.classList.add('hidden');
+    document.getElementById('grammar-arena')?.classList.remove('hidden');
 
     // Cập nhật Top bar
     document.getElementById('grammar-arena-title').textContent = data.title;
