@@ -1950,8 +1950,8 @@ function setupEventListeners() {
         activeIcon.innerHTML = '<i data-lucide="sun" class="w-4 h-4 text-amber-500"></i>';
         activeName.textContent = 'Light';
       } else if (theme === 'dark') {
-        activeIcon.innerHTML = '<i data-lucide="moon" class="w-4 h-4 text-indigo-400"></i>';
-        activeName.textContent = 'Pro Dark';
+        activeIcon.innerHTML = '<i data-lucide="moon" class="w-4 h-4 text-sky-400"></i>';
+        activeName.textContent = 'Dark';
       } else if (theme === 'guga') {
         activeIcon.innerHTML = '<span class="text-sm">🐧</span>';
         activeName.textContent = 'Guga';
@@ -1979,7 +1979,7 @@ function setupEventListeners() {
     if (showToastMsg) {
       const messages = {
         light: '☀️ Đã chuyển sang Light Mode',
-        dark: '🌙 Đã chuyển sang Pro Dark Mode (Êm mắt)',
+        dark: '🌙 Đã chuyển sang Default Dark Mode (Xám than êm mắt, chống chói)',
         guga: '🐧 Guga Mode kích hoạt! Chào mừng Đại Ca Guga 💖'
       };
       showToast(messages[theme] || 'Đã đổi giao diện');

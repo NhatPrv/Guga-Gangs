@@ -34,28 +34,28 @@
   --shadow-hover: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -1px rgba(0, 0, 0, 0.04);
 }
 
-/* PRO DARK MODE (Bảng màu Slate/Zinc sâu phân cấp công thái học) */
+/* DEFAULT DARK MODE (BẢNG MÀU TIÊU CHUẨN GITHUB DARK / NEUTRAL CHARCOAL - CHỐNG CHÓI MẮT) */
 .dark, [data-theme="dark"] {
-  --bg-primary: #0f172a; /* Slate 900 */
-  --bg-secondary: #090e17; /* Slate 950 */
-  --bg-surface: #1e293b; /* Slate 800 - Nổi bật trên nền */
-  --bg-surface-hover: #334155; /* Slate 700 */
-  --bg-input: #0f172a;
-  --border-color: #334155; /* Slate 700 */
-  --border-subtle: rgba(255, 255, 255, 0.06);
-  --text-primary: #f8fafc; /* Trắng sáng tinh khiết, tương phản cực cao */
-  --text-secondary: #cbd5e1; /* Xám xanh nhạt, dễ đọc */
-  --text-muted: #94a3b8;
-  --brand-primary: #6366f1; /* Indigo sáng */
-  --brand-hover: #818cf8;
-  --brand-surface: rgba(99, 102, 241, 0.15);
-  --tag-kanji-bg: #422006; /* Amber đậm */
-  --tag-kanji-text: #fcd34d; /* Vàng nổi bật */
-  --tag-kanji-border: #78350f;
-  --tag-kana-bg: #1e293b;
-  --tag-kana-text: #cbd5e1;
-  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.3);
-  --shadow-hover: 0 4px 14px rgba(0, 0, 0, 0.5);
+  --bg-primary: #0d1117; /* Canvas background trung tính, loại bỏ hoàn toàn ánh tím Dracula */
+  --bg-secondary: #010409; /* Lớp nền sâu */
+  --bg-surface: #161b22; /* Card surface chuẩn GitHub Dark */
+  --bg-surface-hover: #21262d; /* Hover card êm mắt */
+  --bg-input: #0d1117;
+  --border-color: #30363d; /* Viền xám mảnh dịu mắt */
+  --border-subtle: #21262d;
+  --text-primary: #c9d1d9; /* Xám trắng ngà dịu nhẹ, chống chói lóa tuyệt đối */
+  --text-secondary: #8b949e; /* Xám trung tính công thái học */
+  --text-muted: #6e7681;
+  --brand-primary: #58a6ff; /* Xanh lam tiêu chuẩn dịu mắt */
+  --brand-hover: #1f6feb;
+  --brand-surface: rgba(56, 139, 253, 0.12);
+  --tag-kanji-bg: #271d05; /* Hổ phách trầm ấm */
+  --tag-kanji-text: #d29922; /* Vàng ấm */
+  --tag-kanji-border: #4d3800;
+  --tag-kana-bg: #21262d;
+  --tag-kana-text: #8b949e;
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.4);
+  --shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.6);
 }
 
 /* GUGA MODE (Tone Hồng Pastel / Neo-Cute đặc quyền Guga Gangs) */
@@ -108,33 +108,138 @@ main {
   background-color: var(--bg-primary) !important;
 }
 
-/* Override Pro Dark Mode chi tiết */
-.dark .text-slate-900,
-.dark .text-slate-800 {
+/* ====================================================================
+   OVERRIDE TOÀN DIỆN CHO DEFAULT DARK MODE (CHUẨN GITHUB / CHARCOAL NEUTRAL)
+   ==================================================================== */
+.dark body {
+  background-color: var(--bg-primary) !important;
   color: var(--text-primary) !important;
 }
 
+.dark #sidebar,
+.dark header,
+.dark aside {
+  background-color: var(--bg-surface) !important;
+  border-color: var(--border-color) !important;
+}
+
+.dark main {
+  background-color: var(--bg-primary) !important;
+}
+
+/* Chuẩn hóa màu chữ chống chói mắt */
+.dark .text-slate-900,
+.dark .text-slate-800,
 .dark .text-slate-700,
-.dark .text-slate-600 {
+.dark .text-white,
+.dark [class*="text-slate-900"],
+.dark [class*="text-slate-800"] {
+  color: var(--text-primary) !important;
+}
+
+.dark .text-slate-600,
+.dark .text-slate-500,
+.dark .text-slate-400,
+.dark [class*="text-slate-400"],
+.dark [class*="text-slate-500"] {
   color: var(--text-secondary) !important;
 }
 
-.dark .text-slate-500 {
-  color: var(--text-muted) !important;
+.dark .text-brand-600,
+.dark .text-brand-400,
+.dark [class*="text-brand-"] {
+  color: var(--brand-primary) !important;
 }
 
+/* Nền và Bề mặt */
 .dark .bg-white {
   background-color: var(--bg-surface) !important;
 }
 
 .dark .bg-slate-50,
-.dark .bg-slate-100 {
+.dark .bg-slate-100,
+.dark [class*="bg-slate-50"],
+.dark [class*="bg-slate-100"] {
   background-color: var(--bg-secondary) !important;
 }
 
+.dark .bg-slate-800,
+.dark [class*="bg-slate-800"] {
+  background-color: var(--bg-surface) !important;
+}
+
+.dark .bg-slate-900,
+.dark [class*="bg-slate-900"] {
+  background-color: var(--bg-input) !important;
+}
+
+/* Đường viền trung tính mảnh dịu */
 .dark .border-slate-100,
-.dark .border-slate-200 {
+.dark .border-slate-200,
+.dark .border-slate-300,
+.dark .border-slate-700,
+.dark .border-slate-800,
+.dark [class*="border-slate-"] {
   border-color: var(--border-color) !important;
+}
+
+/* Màn hình Luyện gõ & Trắc nghiệm chuẩn Default Dark */
+.dark #practice-setup,
+.dark .practice-mode-card,
+.dark #arena-card,
+.dark .flashcard-card,
+.dark #grammar-test-arena,
+.dark .grammar-option-card {
+  background-color: var(--bg-surface) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-primary) !important;
+}
+
+.dark .practice-mode-card:hover {
+  background-color: var(--bg-surface-hover) !important;
+  border-color: #484f58 !important;
+}
+
+.dark .practice-mode-card.border-brand-500 {
+  border-color: var(--brand-primary) !important;
+  background-color: var(--brand-surface) !important;
+}
+
+.dark .btn-quick-delay {
+  background-color: var(--bg-surface) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-secondary) !important;
+}
+
+.dark .btn-quick-delay.border-brand-500 {
+  border-color: var(--brand-primary) !important;
+  background-color: var(--brand-surface) !important;
+  color: var(--brand-primary) !important;
+}
+
+.dark #practice-delay-slider {
+  accent-color: var(--brand-primary) !important;
+}
+
+.dark input[type="number"],
+.dark input[type="text"],
+.dark select {
+  background-color: var(--bg-input) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-primary) !important;
+}
+
+/* Nút Bắt đầu làm bài test - Xanh GitHub dịu mắt, loại bỏ tím gắt */
+.dark #btn-practice-start,
+.dark .btn-start-comprehensive-quiz {
+  background: #1f6feb !important;
+  color: #ffffff !important;
+  box-shadow: 0 4px 14px rgba(31, 111, 235, 0.3) !important;
+}
+
+.dark #btn-practice-start:hover,
+.dark .btn-start-comprehensive-quiz:hover {
+  background: #388bfd !important;
 }
 
 /* Tag Hán Việt trong Dark Mode */
@@ -142,6 +247,12 @@ main {
   background-color: var(--tag-kanji-bg) !important;
   color: var(--tag-kanji-text) !important;
   border-color: var(--tag-kanji-border) !important;
+}
+
+/* Tag Kana trong Dark Mode */
+.dark span[class*="bg-slate-100"] {
+  background-color: var(--tag-kana-bg) !important;
+  color: var(--tag-kana-text) !important;
 }
 
 /* Override Guga Mode chi tiết */
