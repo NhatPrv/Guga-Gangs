@@ -1,24 +1,24 @@
 [
   {
     "word": "出る",
-    "meaning": "xuất hiện",
+    "meaning": "ra ngoài, rời khỏi; xuất hiện; tham gia",
     "reading": "でる",
     "sinoVietnamese": "XUẤT",
-    "example": "電話には出なかったからメールしておきました。 (Anh ấy không trả lời điện thoại nên tôi đã gửi email cho anh ấy.)"
+    "example": "朝七時に家を出て学校に向かいます。(Lúc bảy giờ sáng tôi rời khỏi nhà để đi tới trường.)"
   },
   {
     "word": "戸",
-    "meaning": "tiếng Nhật",
+    "meaning": "cửa, cánh cửa (thường là cửa trượt kiểu Nhật)",
     "reading": "と",
-    "sinoVietnamese": "",
-    "example": "誰かが戸をやかましくノックしている。 (Ví dụ về từ: tiếng Nhật.)"
+    "sinoVietnamese": "HỘ",
+    "example": "風が冷たいので、戸を閉めてください。 (Gió lạnh nên xin hãy đóng cánh cửa lại.)"
   },
   {
     "word": "どうぞよろしく",
-    "meaning": "rất mong nhận được sự giúp đỡ của bạn",
+    "meaning": "rất mong nhận được sự giúp đỡ của bạn (chào hỏi khi mới gặp)",
     "reading": "どうぞよろしく",
     "sinoVietnamese": "",
-    "example": "どうぞよろしく。 (Cảm ơn rất nhiều.)"
+    "example": "初めまして、田中と申します。どうぞよろしくお願いします。(Xin chào lần đầu gặp mặt, tôi tên là Tanaka. Rất mong nhận được sự giúp đỡ của bạn.)"
   },
   {
     "word": "十日",
@@ -31,15 +31,15 @@
     "word": "時々",
     "meaning": "thỉnh thoảng, đôi khi",
     "reading": "ときどき",
-    "sinoVietnamese": "THỜI",
+    "sinoVietnamese": "THỜI THỜI",
     "example": "ジェーンはときどき学校まで走っていく。 (Jane thỉnh thoảng chạy đến trường.)"
   },
   {
     "word": "年",
-    "meaning": "năm",
+    "meaning": "năm; tuổi tác",
     "reading": "とし",
     "sinoVietnamese": "NIÊN",
-    "example": "お年をお聞きしてよろしいでしょうか。 (Tôi có thể hỏi tuổi của bạn được không?)"
+    "example": "新しい年を迎えて、目標を立てました。(Đón chào một năm mới, tôi đã đặt ra những mục tiêu cho mình.)"
   },
   {
     "word": "どの",
@@ -50,17 +50,17 @@
   },
   {
     "word": "飛ぶ",
-    "meaning": "bay",
+    "meaning": "bay; nhảy vọt",
     "reading": "とぶ",
-    "sinoVietnamese": "",
-    "example": "ヒューズが飛んだ。 (Một cầu chì đã nổ.)"
+    "sinoVietnamese": "PHI",
+    "example": "青い空を鳥たちが気持ちよさそうに飛んでいます。(Những chú chim đang bay lượn khoan khoái trên bầu trời xanh.)"
   },
   {
     "word": "止まる",
-    "meaning": "đến",
+    "meaning": "dừng lại, đỗ lại (xe cộ, máy móc)",
     "reading": "とまる",
     "sinoVietnamese": "CHỈ",
-    "example": "ちょうどその時バスが止まった。 (Ví dụ về từ: đến.)"
+    "example": "赤信号なので、車が交差点の前で止まりました。 (Vì đèn đỏ nên chiếc xe đã dừng lại trước ngã tư.)"
   },
   {
     "word": "鳥",
@@ -71,31 +71,31 @@
   },
   {
     "word": "鶏肉",
-    "meaning": "thịt",
+    "meaning": "thịt gà",
     "reading": "とりにく",
-    "sinoVietnamese": "NHỤC",
-    "example": "鶏肉を３ポンド分ください。 (Ví dụ về từ: thịt.)"
+    "sinoVietnamese": "KÊ NHỤC",
+    "example": "今夜は鶏肉と新鮮な野菜で鍋料理を作ります。 (Tối nay tôi sẽ nấu món lẩu với thịt gà và rau tươi.)"
   },
   {
     "word": "撮る",
     "meaning": "chụp ảnh hoặc quay phim",
     "reading": "とる",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TOÁT",
     "example": "外からなら撮ってもかまいません。 (Bạn có thể chụp ảnh từ bên ngoài.)"
   },
   {
     "word": "取る",
     "meaning": "lấy cái gì đó",
     "reading": "とる",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THỦ",
     "example": "そのお金はいざというときのために取っておくよ。 (Tôi sẽ tiết kiệm số tiền đó cho trường hợp khẩn cấp.)"
   },
   {
     "word": "鳴く",
-    "meaning": "tạo ra âm thanh",
+    "meaning": "kêu, hót (tiếng chim, động vật)",
     "reading": "なく",
     "sinoVietnamese": "MINH",
-    "example": "カエルが鳴いたら帰ろう。 (Hãy về nhà khi ếch gáy.)"
+    "example": "朝早くから小鳥が木の上で鳴いています。(Từ sáng sớm, những chú chim non đã hót ríu rít trên ngọn cây.)"
   },
   {
     "word": "無くす",
@@ -109,21 +109,21 @@
     "meaning": "tại sao",
     "reading": "なぜ",
     "sinoVietnamese": "",
-    "example": "あなた��なぜ働いているの。 (Tại sao bạn làm việc?)"
+    "example": "あなたはなぜ日本語を勉強しているのですか。(Tại sao bạn lại học tiếng Nhật vậy?)"
   },
   {
     "word": "夏休み",
     "meaning": "kỳ nghỉ hè",
     "reading": "なつやすみ",
-    "sinoVietnamese": "HƯU",
+    "sinoVietnamese": "HẠ HƯU",
     "example": "この夏休みはどこかへ行くのですか。 (Bạn sẽ đi đâu vào kỳ nghỉ hè này?)"
   },
   {
     "word": "など",
-    "meaning": "vân vân",
+    "meaning": "vân vân, những thứ như... (liệt kê)",
     "reading": "など",
     "sinoVietnamese": "",
-    "example": "ぬくもりなどどこにも見つからない。 (Sự ấm áp không nơi nào được tìm thấy.)"
+    "example": "カバンの中に本やノートや筆箱などが入っています。(Trong cặp có sách vở, bút và thước kẻ, vân vân.)"
   },
   {
     "word": "七日",
@@ -134,10 +134,10 @@
   },
   {
     "word": "習う",
-    "meaning": "học",
+    "meaning": "học (có người trực tiếp hướng dẫn/dạy)",
     "reading": "ならう",
     "sinoVietnamese": "TẬP",
-    "example": "車の運転を習っています。 (Ví dụ về từ: học.)"
+    "example": "週に２回、教室で日本語を習っています。 (Mỗi tuần 2 lần, tôi học tiếng Nhật tại lớp học.)"
   },
   {
     "word": "並ぶ",
@@ -148,31 +148,31 @@
   },
   {
     "word": "並べる",
-    "meaning": "xếp hàng",
+    "meaning": "sắp xếp, xếp thành hàng, bày biện",
     "reading": "ならべる",
     "sinoVietnamese": "TỊNH",
-    "example": "メイドはテーブルにナイフとフォークを並べた。 (Người giúp việc đặt dao và nĩa lên bàn.)"
+    "example": "本棚に新しい本をきれいに並べました。(Tôi đã sắp xếp những quyển sách mới gọn gàng ngay ngắn vào giá sách.)"
   },
   {
     "word": "なる",
-    "meaning": "đến",
+    "meaning": "trở thành, trở nên; đạt đến (độ tuổi, thời gian)",
     "reading": "なる",
     "sinoVietnamese": "",
-    "example": "ちまたではインターネットなるものがはやっています。 (Ví dụ về từ: đến.)"
+    "example": "将来は立派な日本語の先生になりたいです。 (Tương lai tôi muốn trở thành một giáo viên tiếng Nhật xuất sắc.)"
   },
   {
     "word": "二",
-    "meaning": "hai",
+    "meaning": "hai (số 2)",
     "reading": "に",
     "sinoVietnamese": "NHỊ",
-    "example": "このホールには人が二千人入れる。 (Hội trường này có thể chứa 2.000 người.)"
+    "example": "りんごを二つ買って帰りました。(Tôi đã mua hai quả táo rồi mang về nhà.)"
   },
   {
     "word": "賑やか",
-    "meaning": "nhộn nhịp",
+    "meaning": "nhộn nhịp, náo nhiệt, đông vui",
     "reading": "にぎやか",
-    "sinoVietnamese": "",
-    "example": "この通りは賑やかだ。 (Con phố này sôi động.)"
+    "sinoVietnamese": "CHẨN",
+    "example": "お祭りの日は通りがとても賑やかになります。(Vào ngày lễ hội, đường phố trở nên rất nhộn nhịp.)"
   },
   {
     "word": "西",
@@ -204,45 +204,45 @@
   },
   {
     "word": "登る",
-    "meaning": "leo lên",
+    "meaning": "leo lên, trèo (núi, dốc)",
     "reading": "のぼる",
-    "sinoVietnamese": "",
-    "example": "木は高ければ高いほど登りにくい。 (Cây càng cao thì càng khó trèo.)"
+    "sinoVietnamese": "ĐĂNG",
+    "example": "今年の夏休みに富士山に登るつもりです。(Vào kỳ nghỉ hè năm nay, tôi dự định sẽ leo lên núi Phú Sĩ.)"
   },
   {
     "word": "飲む",
-    "meaning": "uống",
+    "meaning": "uống (nước, trà, thuốc)",
     "reading": "のむ",
     "sinoVietnamese": "ẨM",
-    "example": "コーラはみんな飲んでしまったの。 (Ví dụ về từ: uống.)"
+    "example": "毎朝、健康のために冷たい牛乳を一杯飲みます。 (Mỗi sáng, vì sức khỏe tôi đều uống một ly sữa tươi mát.)"
   },
   {
     "word": "乗る",
-    "meaning": "tiếp tục",
+    "meaning": "lên xe, đi xe (tàu, xe buýt); cưỡi (ngựa)",
     "reading": "のる",
-    "sinoVietnamese": "",
-    "example": "ほら、あなたの乗る電車が来たわ。 (Nhìn xem, chuyến tàu bạn đang đi đã đến.)"
+    "sinoVietnamese": "THỪA",
+    "example": "毎朝地下鉄に乗って会社へ通っています。(Mỗi sáng tôi đều lên xe tàu điện ngầm để đi làm.)"
   },
   {
     "word": "灰皿",
     "meaning": "cái gạt tàn",
     "reading": "はいざら",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HÔI MÃNH",
     "example": "灰皿を下さい。 (Xin vui lòng cho tôi một cái gạt tàn.)"
   },
   {
     "word": "入る",
-    "meaning": "nhập",
+    "meaning": "vào, bước vào; nhập",
     "reading": "はいる",
     "sinoVietnamese": "NHẬP",
-    "example": "入る前にドアをノックして下さい。 (Hãy gõ cửa trước khi vào.)"
+    "example": "ドアをノックしてから部屋に入ってください。(Xin hãy gõ cửa trước khi bước vào phòng.)"
   },
   {
     "word": "はく",
-    "meaning": "mặc",
+    "meaning": "mặc, xỏ, đi (quần, tất, giày)",
     "reading": "はく",
     "sinoVietnamese": "",
-    "example": "この靴はきつすぎてはけない。 (Những đôi giày này không nên quá chật.)"
+    "example": "新しい靴をはいて出かけます。(Tôi xỏ đôi giày mới rồi ra ngoài.)"
   },
   {
     "word": "始まる",
@@ -255,7 +255,7 @@
     "word": "初め",
     "meaning": "sự khởi đầu",
     "reading": "はじめ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "SƠ",
     "example": "旅行の初めの二日間は雨降りだった。 (Trời mưa trong hai ngày đầu tiên của chuyến đi.)"
   },
   {
@@ -283,15 +283,15 @@
     "word": "二十歳",
     "meaning": "20 tuổi (độ tuổi trưởng thành)",
     "reading": "はたち",
-    "sinoVietnamese": "NHỊ THẬP",
+    "sinoVietnamese": "NHỊ THẬP TUẾ",
     "example": "ムーリエルは２０歳になりました。 (Muriel năm nay 20 tuổi.)"
   },
   {
     "word": "働く",
-    "meaning": "làm việc",
+    "meaning": "làm việc, lao động",
     "reading": "はたらく",
-    "sinoVietnamese": "",
-    "example": "スイッチは時間通りに働かなかった。 (Ví dụ về từ: làm việc.)"
+    "sinoVietnamese": "ĐỘNG",
+    "example": "兄はITの会社でプログラマーとして働いています。 (Anh trai tôi làm việc với vai trò lập trình viên tại một công ty IT.)"
   },
   {
     "word": "八",
@@ -311,7 +311,7 @@
     "word": "鼻",
     "meaning": "mũi",
     "reading": "はな",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TỴ",
     "example": "鼻が出ているよ。かみなさい。 (Mũi tôi đang lòi ra ngoài. Nhai.)"
   },
   {
@@ -323,10 +323,10 @@
   },
   {
     "word": "早い",
-    "meaning": "sớm",
+    "meaning": "sớm (về thời gian, thời điểm)",
     "reading": "はやい",
     "sinoVietnamese": "TẢO",
-    "example": "時のたつのは早いものだ。 (Thời gian trôi qua nhanh chóng.)"
+    "example": "明日は試験があるので、朝早く起きます。(Ngày mai có bài thi nên tôi sẽ thức dậy từ sáng sớm.)"
   },
   {
     "word": "速い",
@@ -337,10 +337,10 @@
   },
   {
     "word": "貼る",
-    "meaning": "cây gậy",
+    "meaning": "dán, dán lên (tem, áp phích)",
     "reading": "はる",
     "sinoVietnamese": "THIẾP",
-    "example": "その写真はアルバムに貼ったほうがよい。 (Sẽ tốt hơn nếu đưa ảnh vào album.)"
+    "example": "封筒の表に切手を貼ってポストに入れます。(Tôi dán tem vào mặt trước phong bì rồi bỏ vào hòm thư.)"
   },
   {
     "word": "晴れ",
@@ -374,15 +374,15 @@
     "word": "晩御飯",
     "meaning": "bữa tối",
     "reading": "ばんごはん",
-    "sinoVietnamese": "PHẠN",
+    "sinoVietnamese": "VÃN NGỰ PHẠN",
     "example": "晩ご飯ですよ、お父さん。 (Đây là bữa tối, bố.)"
   },
   {
     "word": "半分",
-    "meaning": "rưỡi, một nửa",
+    "meaning": "một nửa, phân nửa",
     "reading": "はんぶん",
     "sinoVietnamese": "BÁN PHÂN",
-    "example": "ケーキのどちらの半分でもとりなさい。 (Ví dụ về từ: rưỡi, một nửa.)"
+    "example": "リンゴをナイフで切って、弟と半分ずつ分けました。 (Tôi lấy dao cắt quả táo rồi chia cho em trai một nửa.)"
   },
   {
     "word": "東",
@@ -395,14 +395,14 @@
     "word": "引く",
     "meaning": "kéo",
     "reading": "ひく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DẪN",
     "example": "カーテンがゆっくり引かれた。 (Bức màn được kéo lên từ từ.)"
   },
   {
     "word": "弾く",
     "meaning": "chơi một nhạc cụ có dây",
     "reading": "ひく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐÀN",
     "example": "ギターをひくのはおもしろい。 (Chơi guitar thật thú vị.)"
   },
   {
@@ -423,7 +423,7 @@
     "word": "昼御飯",
     "meaning": "bữa trưa",
     "reading": "ひるごはん",
-    "sinoVietnamese": "PHẠN",
+    "sinoVietnamese": "TRÚ NGỰ PHẠN",
     "example": "昼ご飯を食べに外に出ませんか。 (Bạn có muốn ra ngoài ăn trưa không?)"
   },
   {
@@ -435,9 +435,9 @@
   },
   {
     "word": "吹く",
-    "meaning": "đòn",
+    "meaning": "thổi (gió); thổi (sáo, kèn)",
     "reading": "ふく",
-    "sinoVietnamese": "",
-    "example": "あの日は強い風が吹いていました。 (Ngày hôm đó có một cơn gió mạnh thổi qua.)"
+    "sinoVietnamese": "XUY",
+    "example": "今日は冷たい北風が強く吹いています。(Hôm nay gió bắc lạnh buốt đang thổi rất mạnh.)"
   }
 ]

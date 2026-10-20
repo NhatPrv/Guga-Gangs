@@ -29,23 +29,23 @@
   },
   {
     "word": "あの方",
-    "meaning": "vị kia, người kia",
+    "meaning": "vị kia, ngài kia (kính ngữ của あの人)",
     "reading": "あのかた",
     "sinoVietnamese": "PHƯƠNG",
-    "example": "あの方は富士大学の先生です。 (Người đó là giáo sư tại Đại học Fuji.)"
+    "example": "あの方は富士大学の有名な教授です。(Vị kia là vị giáo sư nổi tiếng tại Đại học Fuji.)"
   },
   {
     "word": "皆さん",
     "meaning": "mọi người, các bạn",
     "reading": "みなさん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIAI",
     "example": "皆さん、おはようございます。 (Chào buổi sáng mọi người.)"
   },
   {
     "word": "富士大学",
     "meaning": "đại học fuji",
     "reading": "ふじだいがく",
-    "sinoVietnamese": "ĐẠI HỌC",
+    "sinoVietnamese": "PHÚ SĨ ĐẠI HỌC",
     "example": "ミラーさんは富士大学の学生ではありません。 (Anh Miller không phải là sinh viên trường Đại học Fuji.)"
   },
   {
@@ -64,17 +64,17 @@
   },
   {
     "word": "～君",
-    "meaning": "cậu",
+    "meaning": "cậu, em (hậu tố gọi tên con trai)",
     "reading": "～くん",
-    "sinoVietnamese": "",
-    "example": "太郎君、一緒にサッカーをしよう。 (Taro ơi, cùng nhau đá bóng nhé.)"
+    "sinoVietnamese": "QUÂN",
+    "example": "太郎君、一緒にサッカーをしよう。(Cậu Taro ơi, chúng mình cùng nhau đá bóng nhé.)"
   },
   {
     "word": "～人",
-    "meaning": "người",
+    "meaning": "người (hậu tố chỉ quốc tịch)",
     "reading": "～じん",
     "sinoVietnamese": "NHÂN",
-    "example": "マイク・ミラーさんはアメリカ人です。 (Anh Mike Miller là người Mỹ.)"
+    "example": "マリアさんはベトナム人です。(Cô Maria là người Việt Nam.)"
   },
   {
     "word": "先生",
@@ -87,7 +87,7 @@
     "word": "教師",
     "meaning": "giáo viên, giảng viên",
     "reading": "きょうし",
-    "sinoVietnamese": "GIÁO",
+    "sinoVietnamese": "GIÁO SƯ",
     "example": "父は高校の英語の教師をしています。 (Bố tôi là giáo viên dạy tiếng Anh ở trường trung học.)"
   },
   {
@@ -169,23 +169,23 @@
   },
   {
     "word": "どなた",
-    "meaning": "vị nào",
+    "meaning": "vị nào, ai (kính ngữ của だれ)",
     "reading": "どなた",
     "sinoVietnamese": "",
-    "example": "あちらの親切な方はどなたですか。 (Người tốt bụng ở đằng kia là ai?.)"
+    "example": "あちらにおられる親切な方はどなたですか。(Vị nào tốt bụng đang đứng ở đằng kia thế ạ?)"
   },
   {
     "word": "－歳",
     "meaning": "～ tuổi",
     "reading": "～さい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TUẾ",
     "example": "私は今年二十歳になりました。 (Năm nay tôi vừa tròn 20 tuổi.)"
   },
   {
     "word": "何歳",
     "meaning": "mấy tuổi",
     "reading": "なんさい",
-    "sinoVietnamese": "HÀ",
+    "sinoVietnamese": "HÀ TUẾ",
     "example": "テレサちゃんは何歳になりましたか。 (Teresa bao nhiêu tuổi?.)"
   },
   {
@@ -213,7 +213,7 @@
     "word": "失礼ですが",
     "meaning": "xin lỗi, thất lễ nhưng...",
     "reading": "しつれいですが",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THẤT LỄ",
     "example": "失礼ですが、お名前をもう一度教えていただけますか。 (Xin lỗi mạo muội hỏi bạn có thể nhắc lại tên một lần nữa được không ạ?)"
   },
   {
@@ -227,14 +227,14 @@
     "word": "初めまして。",
     "meaning": "rất vui được làm quen (chào hỏi khi lần đầu gặp mặt)",
     "reading": "はじめまして",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "SƠ",
     "example": "初めまして、ベトナムから参りましたナムと申します。どうぞよろしく。 (Rất vui được gặp bạn lần đầu, tôi tên là Nam đến từ Việt Nam. Rất mong được giúp đỡ.)"
   },
   {
     "word": "どうぞよろしく[お願いします]。",
     "meaning": "rất vui được gặp bạn",
     "reading": "どうぞよろしくおねがいします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NGUYỆN",
     "example": "田中です。どうぞよろしくお願いします。 (Đây là Tanaka. Cảm ơn bạn rất nhiều vì sự hỗ trợ của bạn.)"
   },
   {
@@ -256,21 +256,21 @@
     "meaning": "nước Mỹ, Hoa Kỳ",
     "reading": "アメリカ",
     "sinoVietnamese": "",
-    "example": "ミラーさんはアメリカのニューヨーク出身です。 (Mr. Miller is from New York, USA.)"
+    "example": "ミラーさんはアメリカのニューヨーク出身です。 (Anh Miller đến từ New York, nước Mỹ.)"
   },
   {
     "word": "イギリス",
     "meaning": "nước Anh",
     "reading": "イギリス",
     "sinoVietnamese": "",
-    "example": "ジョンさんはイギリスから来た英語の先生です。 (John is an English teacher from England.)"
+    "example": "ジョンさんはイギリスから来た英語の先生です。 (John là giáo viên tiếng Anh đến từ nước Anh.)"
   },
   {
     "word": "インド",
     "meaning": "nước Ấn Độ",
     "reading": "インド",
     "sinoVietnamese": "",
-    "example": "ギプタさんはインドの会社で働いています。 (Gipta works for a company in India.)"
+    "example": "ギプタさんはインドの会社で働いています。 (Anh Gupta làm việc cho một công ty ở nước Ấn Độ.)"
   },
   {
     "word": "インドネシア",
@@ -283,7 +283,7 @@
     "word": "韓国",
     "meaning": "Hàn Quốc",
     "reading": "かんこく",
-    "sinoVietnamese": "QUỐC",
+    "sinoVietnamese": "HÀN QUỐC",
     "example": "キムさんは韓国のソウルから来ました。 (Ông Kim đến từ Seoul, Hàn Quốc.)"
   },
   {
@@ -319,7 +319,7 @@
     "meaning": "nước Pháp",
     "reading": "フランス",
     "sinoVietnamese": "",
-    "example": "姉はフランスのパリで料理を勉強しています。 (My sister is studying cooking in Paris, France.)"
+    "example": "姉はフランスのパリで料理を勉強しています。 (Chị gái tôi đang học nấu ăn ở Paris, nước Pháp.)"
   },
   {
     "word": "ブラジル",

@@ -17,7 +17,7 @@
     "word": "弾きます",
     "meaning": "chơi, gảy (nhạc cụ có dây, phím: ピアノを弾く)",
     "reading": "ひきます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐÀN",
     "example": "放課後の音楽室で、ショパンの美しいノクターンをピアノで弾きました。 (Trong phòng nhạc sau giờ học, tôi chơi bản dạ khúc tuyệt đẹp của Chopin trên đàn piano.)"
   },
   {
@@ -38,7 +38,7 @@
     "word": "捨てます",
     "meaning": "vứt bỏ, ném đi (rác: ごみを捨てる)",
     "reading": "すてます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "XẢ",
     "example": "古くなって破れた雑誌をリサイクルの回収ボックスに捨てました。 (Tôi bỏ những cuốn tạp chí cũ rách vào thùng thu gom rác tái chế.)"
   },
   {
@@ -64,58 +64,58 @@
   },
   {
     "word": "見学します",
-    "meaning": "học",
-    "reading": "けんかくします",
+    "meaning": "tham quan học hỏi, kiến tập",
+    "reading": "けんがくします",
     "sinoVietnamese": "KIẾN HỌC",
-    "example": "暇なときは、家でゆっくり本を見学しますのが好きです。 (Khi có thời gian rảnh, tôi thích xem sách ở nhà.)"
+    "example": "社会科の授業で自動車の製造工場を見学しました。(Trong giờ học xã hội, chúng tôi đã đi tham quan học hỏi tại nhà máy sản xuất ô tô.)"
   },
   {
     "word": "国際",
     "meaning": "quốc tế, tính chất quốc tế (mang tầm thế giới)",
     "reading": "こくさい～",
-    "sinoVietnamese": "QUỐC",
+    "sinoVietnamese": "QUỐC TẾ",
     "example": "さまざまな国籍の学生が集まる国際交流イベントでボランティアを務めました。 (Tôi đã làm tình nguyện viên tại sự kiện giao lưu quốc tế quy tụ sinh viên nhiều quốc tịch.)"
   },
   {
     "word": "現金",
     "meaning": "tiền mặt",
     "reading": "げんきん",
-    "sinoVietnamese": "KIM",
+    "sinoVietnamese": "HIỆN KIM",
     "example": "使いやすい現金のおかげで、毎日の生活がとても快適になりました。 (Tiền mặt dễ sử dụng đã làm cho cuộc sống hàng ngày của chúng ta thoải mái hơn nhiều.)"
   },
   {
     "word": "趣味",
     "meaning": "sở thích, niềm đam mê cá nhân",
     "reading": "しゅみ",
-    "sinoVietnamese": "VỊ",
+    "sinoVietnamese": "THÚ VỊ",
     "example": "私の休日の趣味は、一眼レフカメラを持って四季の風景写真を撮ることです。 (Sở thích vào ngày nghỉ của tôi là mang máy ảnh cơ đi chụp lại phong cảnh bốn mùa.)"
   },
   {
     "word": "日記",
     "meaning": "nhật ký",
     "reading": "にっき",
-    "sinoVietnamese": "NHẬT",
+    "sinoVietnamese": "NHẬT KÝ",
     "example": "忙しい日記でも、毎日少しずつ日本語の練習を続けています。 (Mặc dù có một cuốn nhật ký bận rộn nhưng tôi vẫn tiếp tục luyện tập tiếng Nhật từng chút một mỗi ngày.)"
   },
   {
     "word": "祈り",
     "meaning": "lời cầu nguyện, sự cầu chúc bình an",
     "reading": "いのり",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KỲ",
     "example": "毎年初詣で神社を参拝し、家族全員の無病息災への祈りを捧げています。 (Đầu năm mới đi lễ đền Thần đạo, tôi đều thành tâm cầu nguyện cho cả gia đình bình an khỏe mạnh.)"
   },
   {
     "word": "課長",
     "meaning": "trưởng phòng, trưởng ban (chức vụ trong công ty)",
     "reading": "かちょう",
-    "sinoVietnamese": "TRƯỜNG",
+    "sinoVietnamese": "KHÓA TRƯỜNG",
     "example": "書類の作成が完了したので、最終チェックをお願いするために課長の席へ向かった。 (Làm xong tài liệu, tôi đem sang bàn của trưởng phòng nhờ kiểm tra lần cuối.)"
   },
   {
     "word": "部長",
     "meaning": "người quản lý",
     "reading": "ぶちょう",
-    "sinoVietnamese": "TRƯỜNG",
+    "sinoVietnamese": "BỘ TRƯỜNG",
     "example": "経験豊富な部長として、多くのお客さんから信頼されています。 (Là người quản lý giàu kinh nghiệm nên được nhiều khách hàng tin tưởng.)"
   },
   {
@@ -136,7 +136,7 @@
     "word": "馬",
     "meaning": "con ngựa",
     "reading": "うま",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MÃ",
     "example": "使いやすい馬のおかげで、毎日の生活がとても快適になりました。 (Con ngựa dễ sử dụng đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
   },
   {
@@ -171,14 +171,14 @@
     "word": "牧場",
     "meaning": "trang trại",
     "reading": "ぼくじょう",
-    "sinoVietnamese": "TRƯỜNG",
+    "sinoVietnamese": "MỤC TRƯỜNG",
     "example": "引越して以来、よく近くの牧場を利用しています。 (Kể từ khi chuyển đến đây, tôi thường xuyên sử dụng trang trại gần đó.)"
   },
   {
     "word": "本当ですか",
     "meaning": "thật thế sao? (hỏi lại để xác nhận tính xác thực)",
     "reading": "ほんとうですか",
-    "sinoVietnamese": "BẢN",
+    "sinoVietnamese": "BẢN ĐƯƠNG",
     "example": "「来月から社内の公用語が英語になるらしいよ。」「えっ、それは本当ですか。」 (\"Nghe nói từ tháng sau tiếng Anh sẽ thành ngôn ngữ chính thức trong công ty đấy.\" \"Hả, chuyện đó có thật không?\")"
   },
   {

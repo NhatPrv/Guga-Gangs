@@ -3,14 +3,14 @@
     "word": "焼きます",
     "meaning": "nướng (thịt, cá, bánh: 魚を焼く)",
     "reading": "やきます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THIÊU",
     "example": "七輪の炭火で脂ののった秋刀魚を香ばしく焼きました。 (Trên bếp than hồng, tôi nướng những con cá thu đao béo ngậy thơm lừng.)"
   },
   {
     "word": "渡します",
     "meaning": "trao tận tay, đưa cho (giấy tờ, quà)",
     "reading": "わたします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐỘ",
     "example": "卒業式の壇上で、校長先生から一人ひとりに卒業証書が手渡されました。 (Trên bục lễ tốt nghiệp, thầy hiệu trưởng đã tận tay trao bằng cho từng học sinh.)"
   },
   {
@@ -31,28 +31,28 @@
     "word": "宅配便",
     "meaning": "dịch vụ chuyển phát nhanh tận nhà",
     "reading": "たくはいびん",
-    "sinoVietnamese": "PHỐI TIỆN",
+    "sinoVietnamese": "TRẠCH PHỐI TIỆN",
     "example": "田舎の実家から採れたての新鮮な野菜が宅配便で届きました。 (Thùng rau tươi vừa hái ở quê nhà đã được gửi chuyển phát nhanh tới tận cửa.)"
   },
   {
     "word": "原因",
     "meaning": "nguyên nhân, căn nguyên",
     "reading": "げんいん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NGUYÊN NHÂN",
     "example": "エンジニアがシステム障害の根本的な原因を徹底的に調査しています。 (Các kỹ sư đang điều tra kỹ lưỡng nguyên nhân gốc rễ của sự cố hệ thống.)"
   },
   {
     "word": "注射",
     "meaning": "mũi tiêm phòng, tiêm thuốc",
     "reading": "ちゅうしゃ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CHÚ XẠ",
     "example": "インフルエンザを予防するために、病院でワクチンの予防注射を受けました。 (Để phòng ngừa cúm mùa, tôi đã đến bệnh viện tiêm một mũi vắc-xin.)"
   },
   {
     "word": "食欲",
     "meaning": "sự thèm ăn, cảm giác ngon miệng",
     "reading": "しょくよく",
-    "sinoVietnamese": "THỰC",
+    "sinoVietnamese": "THỰC DỤC",
     "example": "風邪が治って元気になったら、自然と食欲が戻ってきました。 (Sau khi khỏi cảm cúm người khỏe lại, cảm giác thèm ăn của tôi tự nhiên quay trở lại.)"
   },
   {
@@ -64,10 +64,10 @@
   },
   {
     "word": "～の所",
-    "meaning": "ở chỗ ～, xung quanh ～",
-    "reading": "~のところ",
+    "meaning": "ở chỗ ～, nơi ～",
+    "reading": "～のところ",
     "sinoVietnamese": "SỞ",
-    "example": "私の弟は今年から新しい～の所に通い始めました。 (Em trai tôi bắt đầu đi đến một nơi mới trong năm nay.)"
+    "example": "週末に先生のところへ相談に行きました。(Vào cuối tuần tôi đã đến chỗ thầy giáo để trao đổi xin ý kiến.)"
   },
   {
     "word": "たった今",
@@ -78,10 +78,10 @@
   },
   {
     "word": "今いいでしょうか",
-    "meaning": "bây giờ",
+    "meaning": "bây giờ có tiện không ạ?",
     "reading": "いまいいでしょうか",
     "sinoVietnamese": "KIM",
-    "example": "今いいでしょうかは家族と一緒に楽しい旅行に出かける計画です。 (Tôi đang có kế hoạch đi du lịch vui vẻ cùng gia đình.)"
+    "example": "課長、少しご相談があるのですが、今いいでしょうか。(Thưa trưởng phòng, em có chút việc muốn bàn, bây giờ có tiện không ạ?)"
   },
   {
     "word": "ガスサービスセンター",
@@ -106,16 +106,16 @@
   },
   {
     "word": "どちら様でしょうか",
-    "meaning": "vị nào thế ạ? (lịch sự khi nghe điện thoại)",
+    "meaning": "xin hỏi ai đấy ạ? (hỏi tên lịch sự qua điện thoại)",
     "reading": "どちらさまでしょうか",
-    "sinoVietnamese": "",
-    "example": "使いやすいどちら様でしょうかのおかげで、毎日の生活がとても快適になりました。 (Nhờ sự dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+    "sinoVietnamese": "DẠNG",
+    "example": "電話に出て「恐れ入りますが、どちら様でしょうか」と尋ねました。(Nhấc máy điện thoại, tôi lịch sự hỏi: \"Xin lỗi, xin hỏi ai đấy ạ?\".)"
   },
   {
     "word": "向かいます",
     "meaning": "hướng về, đi về phía (đích đến)",
     "reading": "むかいます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HƯỚNG",
     "example": "待ち合わせのカフェへ向かって、駅から足早に歩いています。 (Tôi đang rảo bước nhanh từ nhà ga hướng về quán cà phê nơi đã hẹn.)"
   },
   {
@@ -127,16 +127,16 @@
   },
   {
     "word": "知識",
-    "meaning": "bây giờ",
+    "meaning": "kiến thức, tri thức",
     "reading": "ちしき",
-    "sinoVietnamese": "TRI",
-    "example": "知識の予定をカレンダーにしっかりと書き込みました。 (Tôi đảm bảo ghi lịch trình kiến ​​thức của mình vào lịch của mình.)"
+    "sinoVietnamese": "TRI THỨC",
+    "example": "本をたくさん読んで幅広い知識を身につけたいです。(Tôi muốn đọc thật nhiều sách để trang bị kiến thức sâu rộng.)"
   },
   {
     "word": "宝庫",
     "meaning": "nhà kho",
     "reading": "ほうこ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BẢO KHỐ",
     "example": "新しい宝庫を手に入れて、仕事の効率がぐんと上がりました。 (Tôi có được một kho báu mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
   },
   {
@@ -147,11 +147,11 @@
     "example": "週末は家族みんなで美味しいなやみを囲んで楽しく過ごします。 (Cuối tuần cả nhà cùng quây quần thưởng thức những món ăn ngon.)"
   },
   {
-    "word": "手に入ります「情報が～）",
-    "meaning": "thông báo, cho biết",
-    "reading": "てにはいります[じょうほうが~]",
-    "sinoVietnamese": "THỦ NHẬP TÌNH BÁO",
-    "example": "時間があるときは、自分のペースでゆっくり手に入りますのが好きです。 (Khi có thời gian, tôi thích có thể làm mọi việc theo tốc độ của riêng mình.)"
+    "word": "手に入ります",
+    "meaning": "có được, thu thập được (thông tin: 情報が～)",
+    "reading": "てにはいります",
+    "sinoVietnamese": "THỦ NHẬP",
+    "example": "インターネットのおかげで最新の正確な情報が手に入ります。(Nhờ có mạng Internet, chúng ta có thể thu thập được thông tin mới nhất và chuẩn xác.)"
   },
   {
     "word": "システム",
@@ -171,7 +171,7 @@
     "word": "一部分",
     "meaning": "một phần, một bộ phận",
     "reading": "いちぶぶん",
-    "sinoVietnamese": "NHẤT PHÂN",
+    "sinoVietnamese": "NHẤT BỘ PHÂN",
     "example": "激しい嵐によって屋根の一部が吹き飛ばされ、翌朝すぐに修理の手配を行った。 (Cơn bão dữ dội đã thổi bay một phần mái nhà, sáng hôm sau tôi lập tức gọi thợ sửa chữa.)"
   },
   {
@@ -185,14 +185,14 @@
     "word": "秒",
     "meaning": "giây (đơn vị đo thời gian)",
     "reading": "びょう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MIỄU",
     "example": "陸上短距離走の百メートル走で、自己ベストとなる十秒台の記録を叩き出した。 (Ở cự ly chạy nước rút 100 mét, anh ấy đã xác lập kỷ lục cá nhân tốt nhất trong khoảng 10 giây.)"
   },
   {
     "word": "出ます「本が～」",
-    "meaning": "sách được xuất bản, ra mắt",
+    "meaning": "xuất bản, phát hành (sách: 本が出ます)",
     "reading": "でます[ほんが~]",
     "sinoVietnamese": "XUẤT BẢN",
-    "example": "仕事が終わった後、家でリラックスして出ます時間が楽しみです。 (Tôi mong được dành thời gian thư giãn ở nhà sau giờ làm việc.)"
+    "example": "来月、先生の新しい本が出ます。(Tháng sau cuốn sách mới của thầy giáo sẽ được xuất bản.)"
   }
 ]

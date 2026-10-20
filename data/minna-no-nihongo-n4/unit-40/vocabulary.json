@@ -3,21 +3,21 @@
     "word": "数えます",
     "meaning": "đếm (số lượng, tiền)",
     "reading": "かぞえます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "SỐ",
     "example": "レジを閉める前に、金庫の中の現金を1枚ずつ正確に数えました。 (Trước khi chốt ca thu ngân, tôi cẩn thận đếm từng tờ tiền mặt trong két.)"
   },
   {
     "word": "測ります/量ります",
     "meaning": "đo đạc (chiều dài, cân nặng, thể tích)",
     "reading": "はかります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TRẮC LƯỢNG",
     "example": "健康診断で身長と体重を測り、視力検査を受けました。 (Trong đợt khám sức khỏe, tôi được đo chiều cao, cân nặng và kiểm tra thị lực.)"
   },
   {
     "word": "確かめます",
     "meaning": "kiểm tra, xác nhận (kiểm tra lại cho chắc chắn, tránh sai sót)",
     "reading": "たしかめます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "XÁC",
     "example": "飛行機のチケットの日時と座席番号をもう一度確かめました。 (Tôi kiểm tra lại lần nữa ngày giờ và số ghế trên vé máy bay.)"
   },
   {
@@ -31,21 +31,21 @@
     "word": "出発します",
     "meaning": "khởi hành, xuất phát",
     "reading": "しゅっぱつします",
-    "sinoVietnamese": "XUẤT",
-    "example": "新幹線は定刻通りに東京駅のホームを出発しました。 (Đoàn tàu Shinkansen đã rời ga Tokyo đúng giờ theo lịch trình.)"
+    "sinoVietnamese": "XUẤT PHÁT",
+    "example": "新幹線は定刻通りに東京駅を出発します。(Tàu Shinkansen xuất phát từ ga Tokyo đúng giờ theo lịch trình.)"
   },
   {
     "word": "到着します。",
     "meaning": "đến, đến",
     "reading": "とうちゃくします",
-    "sinoVietnamese": "TRỨ",
+    "sinoVietnamese": "ĐÁO TRỨ",
     "example": "飛行機は定刻通りに羽田空港に到着します。 (Máy bay sẽ đến sân bay Haneda đúng giờ.)"
   },
   {
     "word": "酔います",
     "meaning": "say (rượu: 酒に酔う), say xe (車に酔う)",
     "reading": "よいます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TÚY",
     "example": "山道でバスが激しく揺れたので、乗り物に酔ってしまいました。 (Xe buýt lắc lư dữ dội trên đường đèo làm tôi bị say xe mất.)"
   },
   {
@@ -73,7 +73,7 @@
     "word": "二次会",
     "meaning": "tăng hai, buổi liên hoan chầu hai",
     "reading": "にじかい",
-    "sinoVietnamese": "NHỊ HỘI",
+    "sinoVietnamese": "NHỊ THỨ HỘI",
     "example": "一次会の宴会が終わった後、有志でカラオケの二次会へ行きました。 (Sau khi tàn tiệc chầu một, mấy anh em rủ nhau đi hát karaoke tăng hai.)"
   },
   {
@@ -92,37 +92,37 @@
   },
   {
     "word": "コンテスト",
-    "meaning": "sự cạnh tranh",
+    "meaning": "cuộc thi, hội thi",
     "reading": "コンテスト",
     "sinoVietnamese": "",
-    "example": "新しいコンテストを手に入れて、仕事の効率がぐんと上がりました。 (Tôi được tham gia một cuộc thi mới và hiệu quả công việc của tôi đã được cải thiện rất nhiều.)"
+    "example": "来月開催されるスピーチコンテストに参加します。(Tôi sẽ tham gia cuộc thi hùng biện được tổ chức vào tháng sau.)"
   },
   {
     "word": "表",
     "meaning": "mặt trước, bề nổi, bảng biểu",
     "reading": "おもて",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BIỂU",
     "example": "手紙の表に宛先の住所と氏名を丁寧に毛筆で書きました。 (Mặt trước phong bì tôi nắn nót viết địa chỉ và tên người nhận bằng bút lông.)"
   },
   {
     "word": "裏",
     "meaning": "mặt sau, mặt trái",
     "reading": "うら",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LÝ",
     "example": "プリントの裏にメモスペースがあるので、そこに書き留めてください。 (Mặt sau của tờ in có chừa chỗ ghi chú, bạn hãy viết vào đó nhé.)"
   },
   {
     "word": "申し込み",
     "meaning": "sự đăng ký, đơn đăng ký",
     "reading": "もうしこみ",
-    "sinoVietnamese": "NHẬP",
+    "sinoVietnamese": "THÂN NHẬP",
     "example": "資格試験の申し込み締め切りは今週の金曜日までです。 (Hạn chót nộp đơn đăng ký dự thi chứng chỉ là đến thứ Sáu tuần này.)"
   },
   {
     "word": "本当",
     "meaning": "sự thật, tính chân thực",
     "reading": "ほんとう",
-    "sinoVietnamese": "BẢN",
+    "sinoVietnamese": "BẢN ĐƯƠNG",
     "example": "最初は信じられなかった奇跡のような出来事だが、調べてみると紛れもない本当の話だった。 (Lúc đầu chuyện kỳ diệu đó khó tin thật, nhưng kiểm tra lại thì quả đúng là câu chuyện có thật 100%.)"
   },
   {
@@ -136,7 +136,7 @@
     "word": "傷",
     "meaning": "vết trầy xước, vết thương",
     "reading": "きず",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THƯƠNG",
     "example": "テーブルの角にぶつかって、膝に小さな擦り傷ができました。 (Va vào cạnh bàn khiến đầu gối tôi bị một vết trầy xước nhỏ.)"
   },
   {
@@ -175,11 +175,11 @@
     "example": "大型で非常に強い勢力を持つ台風十号が、明日の夜遅くに九州地方へ接近する見通しです。 (Cơn bão số 10 với cường độ rất mạnh dự báo sẽ áp sát khu vực Kyushu vào đêm muộn ngày mai.)"
   },
   {
-    "word": "―こ",
-    "meaning": "các, các, thành viên",
-    "reading": "―こ",
-    "sinoVietnamese": "",
-    "example": "日本の伝統的な―この味付けがとても口に合います。 (Gia vị truyền thống của Nhật Bản - loại gia vị này rất ngon miệng.)"
+    "word": "～個",
+    "meaning": "cái, chiếc, quả (đơn vị đếm vật nhỏ)",
+    "reading": "～こ",
+    "sinoVietnamese": "CÁ",
+    "example": "リンゴを三箱、合わせて三十個買いました。(Tôi đã mua 3 hộp táo, tổng cộng là 30 quả.)"
   },
   {
     "word": "～本",
@@ -192,15 +192,15 @@
     "word": "～杯",
     "meaning": "～ chén, tách, bát, ly (đơn vị đếm đồ uống trong cốc/bát: はい/ぱい/ばい)",
     "reading": "―はい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BÔI",
     "example": "寒い冬の夜、湯気の立つ熱い味噌汁をもう一杯おかわりして体を温めた。 (Trong đêm đông giá rét, tôi xin thêm một bát súp miso bốc khói nghi ngút để sưởi ấm cơ thể.)"
   },
   {
     "word": "～キロ",
-    "meaning": "～ ki-lô (ki-lô-gam kg hoặc ki-lô-mét km)",
-    "reading": "―キロ",
+    "meaning": "ki-lô-gam (kg); ki-lô-mét (km)",
+    "reading": "～キロ",
     "sinoVietnamese": "",
-    "example": "毎日のジョギングで基礎体力を鍛えた結果、体重が無理なく三キロ減量できました。 (Nhờ chạy bộ rèn thể lực mỗi ngày, tôi đã giảm được 3 kg một cách nhẹ nhàng, khỏe khoắn.)"
+    "example": "ジョギングを続けて3キロ痩せました。(Chạy bộ đều đặn giúp tôi giảm được 3 ki-lô-gam.)"
   },
   {
     "word": "～グラム",
@@ -218,10 +218,10 @@
   },
   {
     "word": "～ミリ",
-    "meaning": "～ mi-li-mét (mm)",
-    "reading": "ーミリ",
+    "meaning": "mi-li-mét (mm)",
+    "reading": "～ミリ",
     "sinoVietnamese": "",
-    "example": "精密部品の金型加工では、わずか零点一ミリの狂いも許されない厳密さが求められる。 (Trong gia công khuôn mẫu linh kiện chính xác, độ sai số 0.1 mm cũng tuyệt đối không được phép xảy ra.)"
+    "example": "精密機械の製造では1ミリの狂いも許されません。(Trong chế tạo máy móc chính xác, sai lệch dù chỉ 1 mi-li-mét cũng không được phép.)"
   },
   {
     "word": "～以上",
@@ -248,35 +248,35 @@
     "word": "成績",
     "meaning": "kết quả học tập, thành tích thi đua",
     "reading": "せいせき",
-    "sinoVietnamese": "THÀNH",
+    "sinoVietnamese": "THÀNH TÍCH",
     "example": "毎日真面目に勉強を続けた結果、期末テストで優秀な成績を収めました。 (Chăm chỉ học tập mỗi ngày, tôi đã đạt thành tích xuất sắc trong kỳ thi cuối kỳ.)"
   },
   {
     "word": "様子",
     "meaning": "tình hình, trạng thái, dáng vẻ",
     "reading": "ようす",
-    "sinoVietnamese": "TỬ",
+    "sinoVietnamese": "DẠNG TỬ",
     "example": "体調を崩した友達の様子を見に、お見舞いに行ってきました。 (Tôi ghé thăm để xem tình hình sức khỏe của người bạn bị ốm.)"
   },
   {
     "word": "事件",
     "meaning": "vụ án, biến cố, sự việc bất thường",
     "reading": "じけん",
-    "sinoVietnamese": "SỰ",
+    "sinoVietnamese": "SỰ KIỆN",
     "example": "警察は目撃者の証言をもとに、昨夜起きた事件の真相を追っています。 (Cảnh sát đang lần theo lời khai nhân chứng để điều tra chân tướng vụ án đêm qua.)"
   },
   {
     "word": "爆弾",
     "meaning": "quả bom",
     "reading": "ばくだん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BẠO ĐÀN",
     "example": "使いやすい爆弾のおかげで、毎日の生活がとても快適になりました。 (Những quả bom dễ sử dụng đã làm cho cuộc sống hàng ngày trở nên dễ dàng hơn nhiều.)"
   },
   {
     "word": "積みます",
     "meaning": "chất lên xe, xếp hàng hóa (荷物を積む)",
     "reading": "つみます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TÍCH",
     "example": "キャンプ場へ向かう前に、車の広いトランクにテントやバーベキュー用品を積みました。 (Trước khi lên đường đi cắm trại, tôi đã xếp lều bạt và dụng cụ nướng thịt vào cốp xe ô tô.)"
   },
   {
@@ -290,14 +290,14 @@
     "word": "離れた",
     "meaning": "cách xa, cách biệt (về khoảng cách)",
     "reading": "はなれた",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LY",
     "example": "都会の喧騒から遠く離れた静かな山里で、澄んだ空気を吸って心身を癒やした。 (Tại một ngôi làng trên núi cách xa sự ồn ào của phố thị, tôi hít thở bầu không khí trong lành thanh lọc tâm hồn.)"
   },
   {
     "word": "急に",
-    "meaning": "đột ngột, bất thình lình (đã sửa lỗi chính tả từ ゆうに)",
+    "meaning": "đột ngột, bất thình lình",
     "reading": "きゅうに",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CẤP",
     "example": "夕方に空が暗くなったかと思うと、前ぶれもなく急に大粒の雨が激しく降り出した。 (Chiều muộn trời sầm tối lại, rồi bất thình lình cơn mưa rào trút nước như trút không báo trước.)"
   },
   {
@@ -311,14 +311,14 @@
     "word": "一所懸命",
     "meaning": "rất chăm chỉ",
     "reading": "いっしょけんめい",
-    "sinoVietnamese": "NHẤT SỞ",
+    "sinoVietnamese": "NHẤT SỞ HUYỀN MỆNH",
     "example": "一所懸命のスタッフは親切に案内してくれました。 (Các nhân viên làm việc chăm chỉ vui lòng hướng dẫn chúng tôi xung quanh.)"
   },
   {
     "word": "犯人",
     "meaning": "thủ phạm",
     "reading": "はんにん",
-    "sinoVietnamese": "NHÂN",
+    "sinoVietnamese": "PHẠM NHÂN",
     "example": "誕生日に犯人へ感謝の気持ちを込めて手紙を書きました。 (Tôi đã viết một lá thư cho thủ phạm vào ngày sinh nhật của anh ấy để bày tỏ lòng biết ơn của mình.)"
   },
   {

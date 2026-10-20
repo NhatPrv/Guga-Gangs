@@ -45,7 +45,7 @@
     "word": "元気[な]",
     "meaning": "khỏe mạnh, tràn đầy năng lượng",
     "reading": "げんき「な」",
-    "sinoVietnamese": "KHÍ",
+    "sinoVietnamese": "NGUYÊN KHÍ",
     "example": "祖父は80歳を過ぎても毎朝散歩をしてとても元気です。 (Ông tôi dù đã ngoài 80 tuổi nhưng sáng nào cũng đi dạo và rất khỏe mạnh.)"
   },
   {
@@ -106,10 +106,10 @@
   },
   {
     "word": "いい",
-    "meaning": "tốt, hay, được",
+    "meaning": "tốt, đẹp, hay; được",
     "reading": "いい",
     "sinoVietnamese": "",
-    "example": "今日は雲ひとつない青空で、洗濯日和のとてもいい天気です。 (Hôm nay trời xanh không một gợn mây, thời tiết rất đẹp thích hợp để phơi đồ.)"
+    "example": "今日は天気がとてもいいので洗濯物を干します。(Hôm nay thời tiết rất tốt và đẹp nên tôi đem quần áo ra phơi.)"
   },
   {
     "word": "悪い",
@@ -148,16 +148,16 @@
   },
   {
     "word": "優しい",
-    "meaning": "dễ dàng",
+    "meaning": "hiền từ, dịu dàng, tốt bụng",
     "reading": "やさしい",
-    "sinoVietnamese": "",
-    "example": "困っているときにいつも優しく声をかけてくれる友達がいます。 (Tôi có một người bạn luôn ân cần hỏi han mỗi khi tôi gặp khó khăn.)"
+    "sinoVietnamese": "ƯU",
+    "example": "彼女はいつも誰に対しても優しい笑顔で接してくれます。(Cô ấy lúc nào cũng đối xử hiền từ dịu dàng với mọi người bằng nụ cười ấm áp.)"
   },
   {
     "word": "厳しい",
     "meaning": "nghiêm khắc",
     "reading": "きびしい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NGHIÊM",
     "example": "先生は授業中はとても厳しいですが、普段は気さくで優しいです。 (Thầy giáo trong giờ học rất nghiêm khắc nhưng ngày thường lại rất gần gũi.)"
   },
   {
@@ -169,16 +169,16 @@
   },
   {
     "word": "高い",
-    "meaning": "đắt đỏ (giá tiền), cao (độ cao)",
+    "meaning": "cao (chiều cao, vị trí); đắt (giá cả tiền bạc)",
     "reading": "たかい",
     "sinoVietnamese": "CAO",
-    "example": "銀座の高級レストランは料理の値段が高いですが、味は一流です。 (Nhà hàng cao cấp ở Ginza giá đồ ăn khá đắt nhưng chất lượng thì đỉnh cao.)"
+    "example": "この山の頂上はとても高くて、景色が素晴らしいです。(Đỉnh núi này rất cao và phong cảnh vô cùng tuyệt vời.)"
   },
   {
     "word": "低い",
     "meaning": "thấp",
     "reading": "ひくい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐÊ",
     "example": "天井が少し低い部屋ですが、落ち着いていて居心地が良いです。 (Căn phòng trần hơi thấp một chút nhưng lại rất ấm cúng và yên tĩnh.)"
   },
   {
@@ -190,10 +190,10 @@
   },
   {
     "word": "つまらない",
-    "meaning": "nhàm chán",
+    "meaning": "nhàm chán, buồn tẻ, tẻ nhạt",
     "reading": "つまらない",
     "sinoVietnamese": "",
-    "example": "ストーリーの展開が予想通りで、少しつまらない映画でした。 (Diễn biến cốt truyện quá dễ đoán nên bộ phim hơi tẻ nhạt một chút.)"
+    "example": "ストーリーの展開が予想通りで、少しつまらない映画でした。(Nội dung phim dễ đoán nên là một bộ phim hơi nhàm chán tẻ nhạt.)"
   },
   {
     "word": "おいしい",
@@ -204,10 +204,10 @@
   },
   {
     "word": "楽しい",
-    "meaning": "thú vị",
+    "meaning": "vui vẻ, vui tươi, thú vị",
     "reading": "たのしい",
     "sinoVietnamese": "LẠC",
-    "example": "休日に友達とテーマパークで一日中遊んでとても楽しかったです。 (Ngày nghỉ đi chơi cả ngày ở công viên giải trí cùng bạn bè thật là vui.)"
+    "example": "休日に遊園地へ行って一日中楽しく過ごしました。(Vào ngày nghỉ tôi đến công viên giải trí và trải qua cả ngày rất vui vẻ.)"
   },
   {
     "word": "白い",
@@ -239,10 +239,10 @@
   },
   {
     "word": "桜",
-    "meaning": "anh đào",
+    "meaning": "hoa anh đào (Sakura)",
     "reading": "さくら",
-    "sinoVietnamese": "",
-    "example": "使いやすい桜のおかげで、毎日の生活がとても快適になりました。 (Nhờ có Sakura dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+    "sinoVietnamese": "ANH",
+    "example": "春になると公園の桜が一斉に咲いて美しいです。(Khi mùa xuân đến, hoa anh đào trong công viên đồng loạt nở rộ tuyệt đẹp.)"
   },
   {
     "word": "山",
@@ -283,7 +283,7 @@
     "word": "寮",
     "meaning": "ký túc xá",
     "reading": "りょう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LIÊU",
     "example": "新しい寮を手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một ký túc xá mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
   },
   {
@@ -297,14 +297,14 @@
     "word": "生活",
     "meaning": "cuộc sống, sinh hoạt hằng ngày",
     "reading": "せいかつ",
-    "sinoVietnamese": "SINH",
+    "sinoVietnamese": "SINH HOẠT",
     "example": "初めての一人暮らしですが、東京での生活にもだんだん慣れてきました。 (Lần đầu sống tự lập một mình, tôi cũng dần quen với nhịp sống tại Tokyo.)"
   },
   {
     "word": "[お] 仕事",
     "meaning": "công việc, nghề nghiệp",
     "reading": "(お)しごと [をします]",
-    "sinoVietnamese": "SỰ",
+    "sinoVietnamese": "SĨ SỰ",
     "example": "「お仕事は何をなさっているのですか。」「高校で英語を教えています。」 (\"Công việc của bạn là gì vậy ạ?\" \"Tôi đang dạy tiếng Anh ở trường cấp ba.\")"
   },
   {
@@ -336,11 +336,11 @@
     "example": "使いやすいとてものおかげで、毎日の生活がとても快適になりました。 (Nhờ tính dễ sử dụng, nó đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
   },
   {
-    "word": "あまり～ません(くない)",
-    "meaning": "không phải vậy",
-    "reading": "あまり～ません(くない)",
+    "word": "あまり～ません",
+    "meaning": "không... lắm (đi với phủ định)",
+    "reading": "あまり～ません",
     "sinoVietnamese": "",
-    "example": "新しいあまり～ませんを手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một cái mới và hiệu quả công việc của tôi đã được cải thiện rất nhiều.)"
+    "example": "この料理はあまり辛くありません。(Món ăn này không cay lắm.)"
   },
   {
     "word": "そして",
@@ -360,15 +360,15 @@
     "word": "お元気ですか。",
     "meaning": "bạn có khỏe không?",
     "reading": "おげんきですか",
-    "sinoVietnamese": "KHÍ",
+    "sinoVietnamese": "NGUYÊN KHÍ",
     "example": "新しいお元気ですかを手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một cái mới Bạn khỏe không? Hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
   },
   {
     "word": "そうですね",
-    "meaning": "ừ nhỉ, để xem nào",
+    "meaning": "ừ đúng nhỉ, để xem nào",
     "reading": "そうですね",
     "sinoVietnamese": "",
-    "example": "そうですねが時間通りに来たので、待ち合わせに間に合いました。 (Vâng, tôi đến đúng giờ nên tôi đã đến cuộc họp đúng giờ.)"
+    "example": "「今日はいい天気ですね」「そうですね、散歩に行きましょう」。(\"Hôm nay thời tiết đẹp nhỉ\" \"Ừ đúng nhỉ, chúng ta cùng đi dạo nhé\".)"
   },
   {
     "word": "ふじさん",
@@ -409,15 +409,15 @@
     "word": "日本の生活に慣れましたか。",
     "meaning": "bạn đã quen với cuộc sống ở Nhật Bản chưa?",
     "reading": "にほんのせいかつになれましたか",
-    "sinoVietnamese": "NHẬT BẢN SINH QUÁN",
+    "sinoVietnamese": "NHẬT BẢN SINH HOẠT QUÁN",
     "example": "日本の生活に慣れましたかの予定をカレンダーにしっかりと書き込みました。 (Tôi đảm bảo ghi lại kế hoạch của mình vào lịch khi tôi đã quen với cuộc sống ở Nhật Bản.)"
   },
   {
     "word": "もう いっぱいいかがですか",
-    "meaning": "bạn có muốn dùng thêm một ly/chén nữa không?",
+    "meaning": "dùng thêm một ly nữa nhé, uống thêm nữa không?",
     "reading": "もう いっぱいいかがですか",
     "sinoVietnamese": "",
-    "example": "新しいもう いっぱいいかがですかを手に入れて、仕事の効率がぐんと上がりました。 (Tôi nhận được một bản sao mới của cuốn sách và hiệu quả công việc của tôi đã tăng vọt.)"
+    "example": "温かいお茶をもう一杯いかがですか。(Bạn có muốn dùng thêm một ly trà ấm nóng nữa nhé?)"
   },
   {
     "word": "いいえ、けっこうです",

@@ -1,10 +1,10 @@
 [
   {
     "word": "着ます",
-    "meaning": "mặc (áo sơ mi, áo khoác, vest: シャツを着る)",
+    "meaning": "mặc (áo sơ mi, áo khoác, vest)",
     "reading": "きます",
     "sinoVietnamese": "TRỨ",
-    "example": "面接を受けるために、清潔感のある白いシャツとスーツを着ました。 (Để đi phỏng vấn, tôi diện bộ vest lịch lãm cùng chiếc áo sơ mi trắng tinh tươm.)"
+    "example": "面接を受けるために清潔なスーツを着ます。(Để đi phỏng vấn, tôi mặc một bộ đồ vest gọn gàng tinh tươm.)"
   },
   {
     "word": "はきます「くつを～」",
@@ -36,7 +36,7 @@
   },
   {
     "word": "コート",
-    "meaning": "áo khoác dài, áo măng-tô (đã chuẩn hóa chính tả)",
+    "meaning": "áo khoác dài, áo măng-tô",
     "reading": "コート",
     "sinoVietnamese": "",
     "example": "木枯らしが吹いて寒くなったので、クローゼットからウールのコートを出しました。 (Gió lạnh đầu đông thổi buốt nên tôi lấy chiếc áo khoác măng tô bằng len trong tủ ra mặc.)"
@@ -57,16 +57,16 @@
   },
   {
     "word": "帽子",
-    "meaning": "mũ",
+    "meaning": "mũ, nón",
     "reading": "ぼうし",
-    "sinoVietnamese": "TỬ",
-    "example": "帽子とよく電話で最近の出来事について話します。 (Hat và tôi thường nói chuyện qua điện thoại về những sự kiện gần đây.)"
+    "sinoVietnamese": "MẠO TỬ",
+    "example": "日差しが強いので、帽子をかぶって出かけます。(Trời nắng gắt nên tôi đội mũ trước khi ra ngoài.)"
   },
   {
     "word": "眼鏡",
     "meaning": "kính",
     "reading": "めがね",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NHÃN KÍNH",
     "example": "使いやすい眼鏡のおかげで、毎日の生活がとても快適になりました。 (Nhờ chiếc kính dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
   },
   {
@@ -80,7 +80,7 @@
     "word": "家賃",
     "meaning": "tiền thuê nhà hàng tháng",
     "reading": "やちん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIA NHẪM",
     "example": "毎月二十五日までに、指定された大家さんの口座へアパートの家賃を振り込みます。 (Trước ngày 25 hàng tháng, tôi đều chuyển khoản tiền thuê căn hộ vào tài khoản của chủ nhà.)"
   },
   {
@@ -94,21 +94,21 @@
     "word": "和室",
     "meaning": "phòng kiểu Nhật (phòng trải chiếu tatami truyền thống)",
     "reading": "わしつ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HÒA THẤT",
     "example": "い草の爽やかな香りが漂う和室で、正座をして静かにお抹茶をいただきました。 (Trong gian phòng kiểu Nhật thoang thoảng hương chiếu cói, tôi ngồi ngay ngắn thưởng trà matcha.)"
   },
   {
     "word": "押入れ",
     "meaning": "tủ âm tường kiểu Nhật (ngăn chứa chăn đệm futon)",
     "reading": "おしいれ",
-    "sinoVietnamese": "NHẬP",
+    "sinoVietnamese": "ÁP NHẬP",
     "example": "朝起きたら敷いていた布団を畳んで、和室の押入れの上の段に収納しました。 (Sáng dậy, tôi gấp gọn tấm đệm nằm rồi cất vào ngăn trên của chiếc tủ âm tường trong phòng.)"
   },
   {
     "word": "布団",
     "meaning": "đệm và chăn nằm kiểu Nhật (futon)",
     "reading": "ふとん",
-    "sinoVietnamese": "BỐ",
+    "sinoVietnamese": "BỐ ĐOÀN",
     "example": "天気の良い休日に、畳の上で使っている布団をベランダに干して日光に当てた。 (Vào ngày nghỉ trời đẹp, tôi mang tấm đệm nằm trải sàn ra ban công phơi dưới ánh nắng.)"
   },
   {
@@ -127,16 +127,16 @@
   },
   {
     "word": "万里の長城",
-    "meaning": "vạn lý trường thành",
+    "meaning": "Vạn Lý Trường Thành (công trình lịch sử nổi tiếng của Trung Quốc)",
     "reading": "ばんりのちょうじょう",
-    "sinoVietnamese": "VẠN TRƯỜNG",
-    "example": "彼女は優秀な万里の長城としてチームを引っ張っています。 (Cô ấy dẫn dắt đội như một bức tường thành xuất sắc.)"
+    "sinoVietnamese": "VẠN LÝ TRƯỜNG THÀNH",
+    "example": "万里の長城は世界で最も有名な歴史的建造物の一つです。(Vạn Lý Trường Thành là một trong những công trình lịch sử nổi tiếng nhất thế giới.)"
   },
   {
     "word": "余暇開発センター",
     "meaning": "Trung tâm Phát triển Hoạt động Giải trí (cơ quan nghiên cứu về đời sống thư giãn tại Nhật)",
     "reading": "よかかいはつセンター",
-    "sinoVietnamese": "HẠ KHAI",
+    "sinoVietnamese": "DƯ HẠ KHAI PHÁT",
     "example": "余暇開発センターが発表した統計資料を参考に、日本人の休日の過ごし方を考察した。 (Tham khảo số liệu của Trung tâm Phát triển Giải trí, tôi đã phân tích thói quen nghỉ ngơi của người Nhật.)"
   },
   {

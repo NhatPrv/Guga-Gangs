@@ -36,17 +36,17 @@
   },
   {
     "word": "上げる",
-    "meaning": "tặng, cho",
+    "meaning": "nâng lên, giơ lên; tặng, cho",
     "reading": "あげる",
     "sinoVietnamese": "THƯỢNG",
-    "example": "左手を上げなさい。 (Hãy giơ tay trái của bạn lên.)"
+    "example": "質問がある人は手を高く上げてください。(Người nào có câu hỏi xin hãy giơ tay lên cao.)"
   },
   {
     "word": "朝ごはん",
-    "meaning": "bữa sáng",
+    "meaning": "bữa sáng, điểm tâm",
     "reading": "あさごはん",
-    "sinoVietnamese": "",
-    "example": "��ごはんにはなにがよろしいですか。 (Ví dụ về từ: bữa sáng.)"
+    "sinoVietnamese": "TRIÊU",
+    "example": "朝ごはんをしっかり食べてから学校へ行きます。 (Tôi ăn bữa sáng thật no rồi mới đến trường.)"
   },
   {
     "word": "明日",
@@ -71,10 +71,10 @@
   },
   {
     "word": "厚い",
-    "meaning": "loại",
+    "meaning": "dày (sách, áo); nồng hậu, sâu đậm",
     "reading": "あつい",
-    "sinoVietnamese": "",
-    "example": "それは４ｃｍの厚さです。 (Nó dày 4cm.)"
+    "sinoVietnamese": "HẬU",
+    "example": "この本はとても厚いので、読むのに時間がかかります。(Quyển sách này rất dày nên mất nhiều thời gian để đọc.)"
   },
   {
     "word": "暑い",
@@ -122,7 +122,7 @@
     "word": "飴",
     "meaning": "kẹo",
     "reading": "あめ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DI",
     "example": "いい子にしていたら、あめをあげよう。 (Nếu bạn là một cậu bé ngoan, tôi sẽ cho bạn một viên kẹo.)"
   },
   {
@@ -148,10 +148,10 @@
   },
   {
     "word": "ある",
-    "meaning": "được",
+    "meaning": "có, ở (tồn tại đồ vật, sự vật); xảy ra, diễn ra",
     "reading": "ある",
     "sinoVietnamese": "",
-    "example": "話があったら電話をかけて下さい。 (Ví dụ về từ: to be.)"
+    "example": "机の上に日本語の教科書があります。 (Trên bàn có cuốn sách giáo khoa tiếng Nhật.)"
   },
   {
     "word": "歩く",
@@ -171,15 +171,15 @@
     "word": "家",
     "meaning": "nhà ở",
     "reading": "いえ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIA",
     "example": "木立の間に家が見える。 (Một ngôi nhà có thể được nhìn thấy giữa những cái cây.)"
   },
   {
     "word": "いかが",
-    "meaning": "làm thế nào",
+    "meaning": "như thế nào, ra sao (cách nói lịch sự)",
     "reading": "いかが",
     "sinoVietnamese": "",
-    "example": "食後のお茶のおかわりはいかがですか。(Bạn có muốn dùng thêm một tách trà sau bữa ăn không?)"
+    "example": "食後に温かいお茶はいかがですか。(Sau bữa ăn, bạn có muốn dùng thêm một tách trà nóng như thế nào không?)"
   },
   {
     "word": "行く",
@@ -204,17 +204,17 @@
   },
   {
     "word": "いただきます",
-    "meaning": "tôi xin phép ăn/uống",
+    "meaning": "xin phép ăn, xin phép uống (lời nói lịch sự trước bữa ăn); nhận (khiêm nhường ngữ)",
     "reading": "いただきます",
     "sinoVietnamese": "",
-    "example": "８ドル５０セントいただきます。 (Bạn sẽ phải trả 8 đô la và 50 xu.)"
+    "example": "ご飯を食べる前に、手を合わせて「いただきます」と言います。(Trước khi ăn cơm, chúng ta chắp tay và nói \"xin phép ăn\".)"
   },
   {
     "word": "一",
-    "meaning": "một",
+    "meaning": "duy nhất, số một (1)",
     "reading": "いち",
     "sinoVietnamese": "NHẤT",
-    "example": "これは東京一のインドレストランです。 (Đây là nhà hàng Ấn Độ tốt nhất ở Tokyo.)"
+    "example": "テーブルの上にリンゴがただ一つ、唯一置いてあります。(Ở trên bàn có duy nhất một quả táo được đặt ở đó.)"
   },
   {
     "word": "一日",
@@ -241,14 +241,14 @@
     "word": "一緒",
     "meaning": "cùng nhau",
     "reading": "いっしょ",
-    "sinoVietnamese": "NHẤT",
+    "sinoVietnamese": "NHẤT TỰ",
     "example": "来週の日曜日に友達と一緒に上野動物園へ遊びに行きます。(Chủ Nhật tuần tới tôi sẽ cùng bạn bè đi chơi ở sở thú Ueno.)"
   },
   {
     "word": "嫌",
     "meaning": "khó chịu, ghét, không thích",
     "reading": "いや",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HIỀM",
     "example": "毎日うっとうしくていやですね。 (Thật khó chịu và khó chịu mỗi ngày.)"
   },
   {
@@ -260,10 +260,10 @@
   },
   {
     "word": "いる",
-    "meaning": "được",
+    "meaning": "có, ở (tồn tại người hoặc động vật)",
     "reading": "いる",
     "sinoVietnamese": "",
-    "example": "すっかり食べ終わってはいない。 (Ví dụ về từ: to be.)"
+    "example": "庭にかわいい子猫がいます。 (Ở ngoài sân có một chú mèo con rất dễ thương.)"
   },
   {
     "word": "要る",
@@ -274,10 +274,10 @@
   },
   {
     "word": "入れる",
-    "meaning": "cho vào, bỏ vào",
+    "meaning": "cho vào, bỏ vào; pha (trà, cà phê)",
     "reading": "いれる",
     "sinoVietnamese": "NHẬP",
-    "example": "それは引き出しに入れておきました。 (Tôi giữ nó trong ngăn kéo.)"
+    "example": "コーヒーに砂糖とミルクを入れます。(Tôi cho đường và sữa vào cà phê.)"
   },
   {
     "word": "色",
@@ -302,10 +302,10 @@
   },
   {
     "word": "薄い",
-    "meaning": "mỏng, nhạt",
+    "meaning": "mỏng (giấy, áo); nhạt (vị, màu sắc); loãng",
     "reading": "うすい",
-    "sinoVietnamese": "",
-    "example": "コーヒーは薄いのが好きです。 (Tôi thích cà phê của tôi yếu.)"
+    "sinoVietnamese": "BẠC",
+    "example": "この紙はとても薄いので気をつけてめくってください。(Tờ giấy này rất mỏng nên xin hãy lật cẩn thận nhé.)"
   },
   {
     "word": "歌う",
@@ -332,7 +332,7 @@
     "word": "煩い",
     "meaning": "ồn ào",
     "reading": "うるさい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "PHIỀN",
     "example": "あの子はなんてうるさい子だろう。 (Đúng là một đứa trẻ ồn ào!)"
   },
   {
@@ -358,38 +358,38 @@
   },
   {
     "word": "大勢",
-    "meaning": "đông người",
+    "meaning": "đông người, nhiều người",
     "reading": "おおぜい",
-    "sinoVietnamese": "ĐẠI",
-    "example": "大ぜいの人たちがいた。 (Có rất nhiều người ở đó.)"
+    "sinoVietnamese": "ĐẠI THẾ",
+    "example": "駅前の広場に大勢の人が集まっています。(Ở quảng trường trước nhà ga có rất đông người đang tụ tập.)"
   },
   {
     "word": "起きる",
-    "meaning": "thức dậy, xảy ra",
+    "meaning": "thức dậy; xảy ra (sự cố, tai nạn)",
     "reading": "おきる",
     "sinoVietnamese": "KHỞI",
-    "example": "お子さんはまだ起きているのですか。 (Con bạn đã tỉnh chưa?)"
+    "example": "私は毎朝六時に起きて散歩をします。(Mỗi sáng tôi thức dậy lúc sáu giờ rồi đi dạo.)"
   },
   {
     "word": "置く",
     "meaning": "đặt, để",
     "reading": "おく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TRÍ",
     "example": "それをテーブルの上に置きなさい。 (Đặt nó lên bàn.)"
   },
   {
     "word": "お皿",
     "meaning": "cái đĩa, dĩa đựng thức ăn",
     "reading": "おさら",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MÃNH",
     "example": "焼き上がったばかりの温かい魚を、大きなお皿に盛り付けました。 (Tôi đã bày con cá vừa nướng chín nóng hổi lên một chiếc đĩa lớn.)"
   },
   {
     "word": "お祖父さん",
-    "meaning": "bố, cha",
+    "meaning": "ông (nội/ngoại); cụ già",
     "reading": "おじいさん",
     "sinoVietnamese": "TỔ PHỤ",
-    "example": "おじいさんはとてもゆっくりと話す。 (Lão nói rất chậm.)"
+    "example": "私のお祖父さんは毎朝新聞を読みます。(Ông tôi đọc báo vào mỗi buổi sáng.)"
   },
   {
     "word": "教える",
@@ -400,17 +400,17 @@
   },
   {
     "word": "押す",
-    "meaning": "đẩy",
+    "meaning": "ấn, bấm (nút); đẩy",
     "reading": "おす",
-    "sinoVietnamese": "",
-    "example": "シャッターを押してくれますか。 (Bạn sẽ nhấn nút chụp chứ?)"
+    "sinoVietnamese": "ÁP",
+    "example": "エレベーターのボタンを押してください。(Xin hãy bấm nút thang máy.)"
   },
   {
     "word": "お手洗い",
-    "meaning": "căn phòng",
+    "meaning": "nhà vệ sinh, phòng vệ sinh",
     "reading": "おてあらい",
     "sinoVietnamese": "THỦ TẨY",
-    "example": "お手洗いはどこですか。 (Ví dụ về từ: căn phòng.)"
+    "example": "すみません、お手洗いはどこにありますか。 (Xin lỗi, nhà vệ sinh ở đâu vậy ạ?)"
   },
   {
     "word": "男",
@@ -423,14 +423,14 @@
     "word": "一昨日",
     "meaning": "hôm qua",
     "reading": "おととい",
-    "sinoVietnamese": "NHẤT NHẬT",
+    "sinoVietnamese": "NHẤT TÁC NHẬT",
     "example": "一昨日、彼は学校を休んだかもしれない。 (Có lẽ hôm qua anh ấy đã nghỉ học.)"
   },
   {
     "word": "一昨年",
     "meaning": "năm trước năm ngoái",
     "reading": "おととし",
-    "sinoVietnamese": "NHẤT NIÊN",
+    "sinoVietnamese": "NHẤT TÁC NIÊN",
     "example": "彼女は、一昨年よりもはるかに暮らし向きがよい。 (Cô ấy đã khá hơn nhiều so với năm trước.)"
   },
   {
@@ -442,44 +442,44 @@
   },
   {
     "word": "お願いします",
-    "meaning": "làm ơn",
+    "meaning": "xin vui lòng, làm ơn (lời nhờ vả lịch sự)",
     "reading": "おねがいします",
-    "sinoVietnamese": "",
-    "example": "ファーストクラスでお願いします。 (Xin vui lòng cho lớp học đầu tiên.)"
+    "sinoVietnamese": "NGUYỆN",
+    "example": "すみません、田中さんをお願いします。(Xin lỗi, làm ơn cho tôi gặp anh Tanaka.)"
   },
   {
     "word": "おばあさん",
-    "meaning": "bà",
+    "meaning": "bà (của mình hoặc của người khác); bà cụ",
     "reading": "おばあさん",
     "sinoVietnamese": "",
-    "example": "トムのおばあさんは元気そうですよ。 (Ví dụ về từ: mẹ.)"
+    "example": "私のおばあさんはとても元気で優しいです。 (Bà của tôi rất khỏe mạnh và hiền hậu.)"
   },
   {
     "word": "伯母さん",
     "meaning": "dì",
     "reading": "おばさん",
-    "sinoVietnamese": "MẪU",
+    "sinoVietnamese": "BÁ MẪU",
     "example": "叔母さんを訪ねた時はすごいごちそうだったね。 (Đó là một bữa tiệc lớn khi tôi đến thăm dì của tôi.)"
   },
   {
     "word": "おはよう",
-    "meaning": "buổi sáng",
+    "meaning": "chào buổi sáng (lời chào thân mật)",
     "reading": "おはよう",
     "sinoVietnamese": "",
-    "example": "おはよう。ご飯をよそっても良いかしら？ (Ví dụ về từ: buổi sáng.)"
+    "example": "友達に会ったので「おはよう」と元気にあいさつしました。 (Khi gặp bạn bè, tôi chào buổi sáng thật rạng rỡ.)"
   },
   {
     "word": "お風呂",
     "meaning": "bồn tắm",
     "reading": "おふろ",
-    "sinoVietnamese": "PHONG",
+    "sinoVietnamese": "PHONG LỮ",
     "example": "私はほとんど毎日お風呂に入ります。 (Hầu như ngày nào tôi cũng tắm.)"
   },
   {
     "word": "覚える",
     "meaning": "nhớ",
     "reading": "おぼえる",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIÁC",
     "example": "日本語は外人にとって覚えにくい。 (Tiếng Nhật rất khó nhớ đối với người nước ngoài.)"
   },
   {
@@ -493,14 +493,14 @@
     "word": "泳ぐ",
     "meaning": "bơi lội",
     "reading": "およぐ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "VỊNH",
     "example": "トムはすぐに泳げるようになるよ。 (Tom sẽ có thể bơi sớm thôi.)"
   },
   {
     "word": "降りる",
     "meaning": "xuống xe",
     "reading": "おりる",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIÁNG",
     "example": "ここで降りましょう。 (Hãy xuống xe ở đây.)"
   }
 ]

@@ -17,15 +17,15 @@
     "word": "留学します",
     "meaning": "du học (ở nước ngoài: 日本へ留学する)",
     "reading": "りゅうがくします",
-    "sinoVietnamese": "HỌC",
+    "sinoVietnamese": "LƯU HỌC",
     "example": "先端のロボット工学を学ぶために、来年の秋から日本へ留学します。 (Để theo đuổi ngành kỹ thuật robot tiên tiến, tôi sẽ sang Nhật du học từ mùa thu tới.)"
   },
   {
     "word": "田舎",
-    "meaning": "đất nước, quốc gia",
+    "meaning": "vùng quê, nông thôn; quê nhà",
     "reading": "いなか",
-    "sinoVietnamese": "",
-    "example": "田舎で新鮮な野菜や美味しい特産品を買いました。 (We bought fresh vegetables and delicious specialty products in the countryside.)"
+    "sinoVietnamese": "ĐIỀN XÁ",
+    "example": "田舎で新鮮な野菜や美味しい特産品を買いました。 (Tôi đã mua rau tươi và các món đặc sản thơm ngon ở vùng quê.)"
   },
   {
     "word": "大使館",
@@ -52,42 +52,42 @@
     "word": "億",
     "meaning": "trăm triệu (đơn vị số 100.000.000)",
     "reading": "おく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ỨC",
     "example": "新しく開発されたその画期的な薬は、世界中で一億人以上の命を救った。 (Loại thuốc đột phá mới phát triển ấy đã cứu sống hơn một trăm triệu người trên khắp thế giới.)"
   },
   {
     "word": "もし",
-    "meaning": "nếu",
+    "meaning": "nếu, giả sử (dùng trong câu điều kiện)",
     "reading": "もし",
     "sinoVietnamese": "",
-    "example": "使いやすいもしのおかげで、毎日の生活がとても快適になりました。 (Thanks to easy-to-use tools, my daily life has become much more comfortable.)"
+    "example": "もし明日雨が降ったら、家でゆっくり本を読みます。 (Nếu ngày mai trời mưa, tôi sẽ ở nhà thong thả đọc sách.)"
   },
   {
     "word": "転勤",
     "meaning": "chuyển công tác (chuyển sang chi nhánh khác)",
     "reading": "てんきん",
-    "sinoVietnamese": "CHUYỂN",
+    "sinoVietnamese": "CHUYỂN CẦN",
     "example": "来月から福岡支店への転勤を命じられたので、週末に部屋探しの準備を始めた。 (Vì được điều động chuyển công tác tới chi nhánh Fukuoka từ tháng sau, cuối tuần tôi bắt đầu tìm thuê nhà.)"
   },
   {
     "word": "こと",
-    "meaning": "công việc",
+    "meaning": "việc, điều, chuyện (sự việc trừu tượng)",
     "reading": "こと",
     "sinoVietnamese": "",
-    "example": "新しいことを手に入れて、仕事の効率がぐんと上がりました。 (I learned new things and became more efficient at work.)"
+    "example": "日本文化についていろいろなことを学びたいです。 (Tôi muốn học hỏi nhiều điều thú vị về văn hóa Nhật Bản.)"
   },
   {
     "word": "一杯飲みます",
-    "meaning": "uống",
-    "reading": "いっぱいのみましょう",
-    "sinoVietnamese": "NHẤT ẨM",
-    "example": "朝ご飯に美味しいパンと牛乳を一杯飲みます。 (Tôi có bánh mì ngon và một ly sữa cho bữa sáng.)"
+    "meaning": "uống một ly, đi uống giải khuây",
+    "reading": "いっぱいのみます",
+    "sinoVietnamese": "NHẤT BÔI ẨM",
+    "example": "仕事が終わったあと、同僚と一緒に一杯飲みました。 (Sau khi tan ca, tôi đã đi uống một ly cùng đồng nghiệp.)"
   },
   {
     "word": "どうぞ元気で",
     "meaning": "chúc bạn lên đường mạnh khỏe nhé (lời chúc người sắp đi xa)",
     "reading": "どうぞおげんきで",
-    "sinoVietnamese": "KHÍ",
+    "sinoVietnamese": "NGUYÊN KHÍ",
     "example": "遠くの街へ引っ越していく親友と空港で握手を交わし、「どうぞ元気でね」と伝えた。 (Bắt tay người bạn thân sắp chuyển nhà đi một thành phố xa tại sân bay, tôi chúc bạn: \"Cậu đi mạnh khỏe nhé!\")"
   },
   {
@@ -101,7 +101,7 @@
     "word": "頑張ります",
     "meaning": "cố gắng, nỗ lực hết mình",
     "reading": "がんばります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NGOAN TRƯƠNG",
     "example": "日本語能力試験で必ず満点合格できるように、最後まで諦めずに頑張ります。 (Để đạt điểm tuyệt đối trong kỳ thi JLPT, tôi sẽ dốc sức nỗ lực đến cùng không bỏ cuộc.)"
   }
 ]

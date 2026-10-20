@@ -52,7 +52,7 @@
     "word": "猫",
     "meaning": "con mèo",
     "reading": "ねこ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MIÊU",
     "example": "日当たりのいい縁側で丸くなって気持ちよさそうに猫が眠っています。 (Bên hiên nhà ngập tràn ánh nắng, chú mèo nằm cuộn tròn ngủ say sưa.)"
   },
   {
@@ -87,29 +87,29 @@
     "word": "箱",
     "meaning": "cái hộp, thùng các-tông",
     "reading": "はこ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TƯƠNG",
     "example": "頑丈な段ボールの箱に引っ越しの荷物をきれいに詰め込みました。 (Tôi xếp gọn gàng đồ đạc chuyển nhà vào những chiếc thùng các-tông cứng cáp.)"
   },
   {
     "word": "スイッチ",
-    "meaning": "chuyển đổi",
+    "meaning": "công tắc (bật/tắt điện)",
     "reading": "スイッチ",
     "sinoVietnamese": "",
-    "example": "部屋に入ったら、まず入り口の壁にある電灯のスイッチを押しました。 (Bước vào phòng, trước tiên tôi bấm công tắc đèn trên tường ở lối ra vào.)"
+    "example": "部屋に入ってすぐに壁の電気のスイッチを入れました。(Vừa vào phòng tôi đã bật ngay công tắc điện trên tường.)"
   },
   {
     "word": "冷蔵庫",
     "meaning": "chiếc tủ lạnh",
     "reading": "れいぞうこ",
-    "sinoVietnamese": "LÃNH",
+    "sinoVietnamese": "LÃNH TÀNG KHỐ",
     "example": "スーパーで買ってきた新鮮な牛乳と卵を冷蔵庫にしまいました。 (Tôi cất sữa tươi và trứng mới mua từ siêu thị vào trong tủ lạnh.)"
   },
   {
     "word": "テーブル",
-    "meaning": "bảng",
+    "meaning": "bàn, bàn ăn",
     "reading": "テーブル",
     "sinoVietnamese": "",
-    "example": "温かい料理が並ぶダイニングテーブルの周りに家族が集まりました。 (Cả gia đình quây quần bên chiếc bàn ăn thơm nức những món ăn nóng hổi.)"
+    "example": "家族みんなで温かい料理が並ぶテーブルを囲みます。(Cả gia đình quây quần bên chiếc bàn ăn bày những món nóng hổi.)"
   },
   {
     "word": "ベッド",
@@ -122,7 +122,7 @@
     "word": "棚",
     "meaning": "kệ",
     "reading": "たな",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BẰNG",
     "example": "部屋の隅に置いた木製の飾り棚にお気に入りの小物を並べました。 (Tôi xếp những món đồ lưu niệm xinh xắn lên chiếc kệ trang trí ở góc phòng.)"
   },
   {
@@ -157,7 +157,7 @@
     "word": "喫茶店",
     "meaning": "quán cà phê, quán giải khát",
     "reading": "きっさてん",
-    "sinoVietnamese": "TRÀ ĐIẾM",
+    "sinoVietnamese": "KHIẾT TRÀ ĐIẾM",
     "example": "レトロな雰囲気の落ち着いた喫茶店で名物のプリンを味わいました。 (Tại quán cà phê mang phong vị cổ điển, tôi thưởng thức món bánh flan nức tiếng.)"
   },
   {
@@ -178,7 +178,7 @@
     "word": "乗り場",
     "meaning": "xe taxi",
     "reading": "のりば",
-    "sinoVietnamese": "TRƯỜNG",
+    "sinoVietnamese": "THỪA TRƯỜNG",
     "example": "案内板を確認して、空港行きのリムジンバス乗り場へ向かいました。 (Xem bảng chỉ dẫn, tôi rảo bước ra đúng điểm đón xe buýt đi sân bay.)"
   },
   {
@@ -193,7 +193,7 @@
     "meaning": "bên trên, phía trên",
     "reading": "うえ",
     "sinoVietnamese": "THƯỢNG",
-    "example": "机の真ん中の上に置いたノートパソコンを開いて勉強を始めました。 (Tôi mở chiếc máy tính xách tay đặt ở chính giữa mặt bàn bắt đầu học bài.)"
+    "example": "机の上に教科書とノートを広げて勉強します。(Tôi mở sách vở trên mặt bàn để học bài.)"
   },
   {
     "word": "下",
@@ -248,7 +248,7 @@
     "word": "隣",
     "meaning": "bên cạnh, sát vách (cùng chủng loại hoặc ngay liền kề)",
     "reading": "となり",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LÂN",
     "example": "私の部屋のすぐ隣の部屋には、大学の同級生が住んでいます。 (Ngay phòng bên cạnh phòng tôi là một người bạn cùng lớp đại học đang ở.)"
   },
   {
@@ -266,11 +266,11 @@
     "example": "授業と授業の間の短い休憩時間に、友達と楽しく談笑しました。 (Trong giờ giải lao ngắn ngủi giữa hai tiết học, tôi rôm rả trò chuyện với bạn bè.)"
   },
   {
-    "word": "～や～「など」",
-    "meaning": "～ và ～, vân vân (liệt kê tiêu biểu một vài thứ)",
-    "reading": "～や～「など」",
+    "word": "～や～など",
+    "meaning": "như là ～ và ～, vân vân (liệt kê)",
+    "reading": "～や～など",
     "sinoVietnamese": "",
-    "example": "デスクの上には、仕事で使うノートパソコンや書類、電卓などが置いてあります。 (Trên bàn làm việc có đặt laptop, tài liệu, máy tính bỏ túi, v.v. phục vụ công việc.)"
+    "example": "机の上に本やペンなどがあります。(Trên bàn có sách, bút, vân vân.)"
   },
   {
     "word": "いちばん～",
@@ -280,11 +280,11 @@
     "example": "学年全体の中で、彼が一番数学の成績が優秀です。 (Trong toàn khối, cậu ấy là người có thành tích môn toán xuất sắc nhất.)"
   },
   {
-    "word": "ー段目",
-    "meaning": "ngăn thứ ～, tầng kệ thứ ～",
-    "reading": "ーだんめ",
+    "word": "～段目",
+    "meaning": "ngăn thứ ～, tầng thứ ～ (kệ, tủ)",
+    "reading": "～だんめ",
     "sinoVietnamese": "ĐOẠN MỤC",
-    "example": "朝ご飯に温かいスープと美味しいー段目をいただきました。 (Tôi đã ăn súp nóng và món danmachi ngon tuyệt cho bữa sáng.)"
+    "example": "本棚の二段目にお気に入りの小説を並べました。(Tôi xếp những cuốn tiểu thuyết yêu thích vào tầng thứ hai của giá sách.)"
   },
   {
     "word": "「どうも」すみません。",
@@ -304,7 +304,7 @@
     "word": "奥",
     "meaning": "phía trong cùng, tận sâu bên trong",
     "reading": "奥",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ÁO",
     "example": "クローゼットの奥から、昔着ていた懐かしい冬用のコートを取り出しました。 (Từ tận sâu trong tủ quần áo, tôi lấy ra chiếc áo khoác mùa đông thân quen đã mặc ngày xưa.)"
   },
   {
@@ -322,10 +322,10 @@
     "example": "東京ディズニーランドにはたくさんの観光客が訪れていて賑やかです。 (Tokyo Disneyland là một nơi sôi động với nhiều khách du lịch ghé thăm.)"
   },
   {
-    "word": "ユニューや ストア",
-    "meaning": "siêu thị",
-    "reading": "ユニューや ストア",
+    "word": "スーパー",
+    "meaning": "siêu thị (cửa hàng bách hóa)",
+    "reading": "スーパー",
     "sinoVietnamese": "",
-    "example": "ユニューや ストアで新鮮な野菜や美味しい特産品を買いました。 (Chúng tôi mua rau tươi và các sản phẩm đặc sản thơm ngon tại cửa hàng Yunuya.)"
+    "example": "駅前のスーパーで新鮮な果物と野菜を買いました。(Tôi đã mua rau quả tươi ở siêu thị trước nhà ga.)"
   }
 ]

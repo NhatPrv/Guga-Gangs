@@ -10,7 +10,7 @@
     "word": "踊ります",
     "meaning": "nhảy múa, khiêu vũ",
     "reading": "おどります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DŨNG",
     "example": "音楽に合わせてステージの上で楽しそうに踊りました。 (Họ hòa theo điệu nhạc và nhảy múa vui vẻ trên sân khấu.)"
   },
   {
@@ -57,16 +57,16 @@
   },
   {
     "word": "偉い",
-    "meaning": "vĩ đại, xuất sắc, tài giỏi",
+    "meaning": "vĩ đại, xuất sắc, tài giỏi; đáng khâm phục",
     "reading": "えらい",
-    "sinoVietnamese": "",
-    "example": "どんな困難にも負けずに夢を叶えた彼は本当に偉いです。 (Vượt qua mọi khó khăn để thực hiện ước mơ, anh ấy thực sự rất đáng khâm phục.)"
+    "sinoVietnamese": "VĨ",
+    "example": "どんな困難にも負けずに夢を叶えた彼は本当に偉いです。(Vượt qua mọi khó khăn để thực hiện ước mơ, anh ấy thực sự rất đáng khâm phục.)"
   },
   {
     "word": "丁度いい",
     "meaning": "vừa vặn, vừa vặn khít khao (kích cỡ, thời gian)",
     "reading": "ちょうどいい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐINH ĐỘ",
     "example": "この靴はサイズが足に丁度よくて、歩きやすいです。 (Đôi giày này cỡ chân vừa in nên đi bộ rất êm và dễ chịu.)"
   },
   {
@@ -80,7 +80,7 @@
     "word": "経験",
     "meaning": "kinh nghiệm, trải nghiệm thực tế",
     "reading": "けいけん",
-    "sinoVietnamese": "NGHIỆM",
+    "sinoVietnamese": "KINH NGHIỆM",
     "example": "若いころの海外留学の経験が、今の仕事に大きく役立っています。 (Kinh nghiệm du học thời trẻ đã giúp ích rất nhiều cho công việc hiện tại của tôi.)"
   },
   {
@@ -92,10 +92,10 @@
   },
   {
     "word": "人気",
-    "meaning": "sự hâm mộ, được yêu thích (nổi tiếng)",
+    "meaning": "ưa chuộng, được yêu thích; nổi tiếng",
     "reading": "にんき",
     "sinoVietnamese": "NHÂN KHÍ",
-    "example": "駅前のラーメン屋は安くて美味しいので、若者に大人気です。 (Quán mì ramen trước ga vừa rẻ vừa ngon nên rất được giới trẻ ưa chuộng.)"
+    "example": "駅前のラーメン屋は安くて美味しいので、若者にとても人気があります。(Quán mì ramen trước ga vừa rẻ vừa ngon nên rất được giới trẻ ưa chuộng.)"
   },
   {
     "word": "味",
@@ -115,21 +115,21 @@
     "word": "品物",
     "meaning": "hàng hóa, mặt hàng",
     "reading": "しなもの",
-    "sinoVietnamese": "VẬT",
+    "sinoVietnamese": "PHẨM VẬT",
     "example": "デパートの特売場で質の良い品物を安く手に入れました。 (Tại hội chợ giảm giá của trung tâm thương mại, tôi đã mua được món hàng chất lượng với giá rẻ.)"
   },
   {
     "word": "値段",
     "meaning": "giá cả, giá tiền",
     "reading": "ねだん",
-    "sinoVietnamese": "ĐOẠN",
+    "sinoVietnamese": "TRỊ ĐOẠN",
     "example": "この服はデザインも素敵ですが、値段もお手頃です。 (Bộ quần áo này thiết kế vừa đẹp mà giá cả lại rất phải chăng.)"
   },
   {
     "word": "給料",
     "meaning": "tiền lương",
     "reading": "きゅうりょう",
-    "sinoVietnamese": "LIỆU",
+    "sinoVietnamese": "CẤP LIỆU",
     "example": "初任給が出たので、両親に美味しいご飯をごちそうしました。 (Nhận được tháng lương đầu tiên, tôi đã mời bố mẹ một bữa ăn thật ngon.)"
   },
   {
@@ -150,14 +150,14 @@
     "word": "小説",
     "meaning": "cuốn tiểu thuyết",
     "reading": "しょうせつ",
-    "sinoVietnamese": "TIỂU",
+    "sinoVietnamese": "TIỂU THUYẾT",
     "example": "休日の午後はカフェでゆっくり長編小説を読んで過ごします。 (Chiều ngày nghỉ, tôi thảnh thơi ngồi quán cà phê đọc cuốn tiểu thuyết dài tập.)"
   },
   {
     "word": "小説家",
     "meaning": "nhà văn, tiểu thuyết gia",
     "reading": "しょうせつか",
-    "sinoVietnamese": "TIỂU",
+    "sinoVietnamese": "TIỂU THUYẾT GIA",
     "example": "将来は人々の心を打つような物語を書く小説家になりたいです。 (Tương lai tôi muốn trở thành nhà văn viết nên những câu chuyện lay động lòng người.)"
   },
   {
@@ -171,21 +171,21 @@
     "word": "管理人",
     "meaning": "người quản lý, bác bảo vệ chung cư",
     "reading": "かんりにん",
-    "sinoVietnamese": "LÝ NHÂN",
+    "sinoVietnamese": "QUẢN LÝ NHÂN",
     "example": "マンションの管理人に留守中の荷物を預かってもらいました。 (Tôi nhờ bác quản lý chung cư nhận hộ bưu phẩm trong lúc đi vắng.)"
   },
   {
     "word": "息子",
     "meaning": "con trai (của mình)",
     "reading": "むすこ",
-    "sinoVietnamese": "TỬ",
+    "sinoVietnamese": "TỨC TỬ",
     "example": "息子は今年小学校に入学して、毎日元気に通っています。 (Năm nay con trai tôi vào lớp một và ngày nào cũng đi học rất vui vẻ.)"
   },
   {
     "word": "息子さん",
     "meaning": "con trai (của người khác - cách gọi lịch sự)",
     "reading": "むすこさん",
-    "sinoVietnamese": "TỬ",
+    "sinoVietnamese": "TỨC TỬ",
     "example": "山田さんの息子さんは大学で医学を専攻しているそうです。 (Nghe nói con trai của bác Yamada đang theo học ngành y ở đại học.)"
   },
   {
@@ -204,10 +204,10 @@
   },
   {
     "word": "しばらく",
-    "meaning": "một thoáng, một thời gian ngắn/dài",
+    "meaning": "chờ một lát, chốc lát; một thời gian",
     "reading": "しばらく",
     "sinoVietnamese": "",
-    "example": "雨が激しいので、雨宿りをしてしばらく待ちましょう。 (Vì mưa to quá nên chúng ta hãy trú mưa chờ một lát nhé.)"
+    "example": "雨が激しいので、ここでしばらく雨宿りしましょう。(Vì mưa to quá nên chúng ta hãy trú mưa chờ một lát nhé.)"
   },
   {
     "word": "たいてい",
@@ -234,7 +234,7 @@
     "word": "「ちょっと」お願いがあるんですが",
     "meaning": "tôi có một thỉnh cầu nhỏ...",
     "reading": "ちょっとおねがいがあるんですが",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NGUYỆN",
     "example": "先生、恐れ入りますが、ちょっとお願いがあるんですがよろしいでしょうか。 (Thưa thầy, em xin lỗi làm phiền một chút, em có việc muốn nhờ thầy có được không ạ?)"
   },
   {

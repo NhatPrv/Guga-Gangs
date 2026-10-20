@@ -3,7 +3,7 @@
     "word": "包みます",
     "meaning": "bọc, gói ghém (quà tặng, bánh kẹo)",
     "reading": "つつみます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BAO",
     "example": "割れないように、ガラスのコップを新聞紙で丁寧に包みました。 (Để không bị vỡ, tôi bọc chiếc cốc thủy tinh cẩn thận bằng giấy báo.)"
   },
   {
@@ -17,28 +17,28 @@
     "word": "混ぜます",
     "meaning": "khuấy đều, trộn lẫn",
     "reading": "まぜます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HỖN",
     "example": "ボウルに卵と牛乳を入れて、泡立て器でしっかり混ぜました。 (Tôi cho trứng và sữa vào tô rồi dùng phới lồng khuấy đều.)"
   },
   {
     "word": "計算します",
     "meaning": "tính toán (chi phí, sổ sách)",
     "reading": "けいさんします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KẾ TOÁN",
     "example": "旅行にかかる全体の費用を電卓を使って正確に計算しました。 (Tôi dùng máy tính bỏ túi tính toán chính xác tổng chi phí cho chuyến du lịch.)"
   },
   {
     "word": "弁護士",
     "meaning": "luật sư",
     "reading": "べんごし",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BIỆN HỘ SĨ",
     "example": "契約のトラブルを解決するために、専門の弁護士に相談しました。 (Để giải quyết rắc rối hợp đồng, tôi đã tham vấn ý kiến luật sư chuyên môn.)"
   },
   {
     "word": "音楽家",
     "meaning": "nhạc sĩ, nhà soạn nhạc",
     "reading": "おんがくか",
-    "sinoVietnamese": "ÂM LẠC",
+    "sinoVietnamese": "ÂM LẠC GIA",
     "example": "世界的に有名な音楽家が作曲したピアノ曲に深く感動しました。 (Tôi vô cùng xúc động trước bản dương cầm của nhà soạn nhạc danh tiếng thế giới.)"
   },
   {
@@ -52,14 +52,14 @@
     "word": "歴史",
     "meaning": "lịch sử",
     "reading": "れきし",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LỊCH SỬ",
     "example": "新しい歴史を手に入れて、仕事の効率がぐんと上がりました。 (Với lịch sử mới trong tay, hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
   },
   {
     "word": "文化",
     "meaning": "văn hóa",
     "reading": "ぶんか",
-    "sinoVietnamese": "VĂN",
+    "sinoVietnamese": "VĂN HÓA",
     "example": "京都の古い街並みを歩きながら、日本の伝統文化を肌で感じました。 (Dạo bước giữa phố cổ Kyoto, tôi cảm nhận sâu sắc nét đẹp văn hóa truyền thống Nhật.)"
   },
   {
@@ -73,49 +73,49 @@
     "word": "法律",
     "meaning": "luật pháp, pháp luật",
     "reading": "ほうりつ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "PHÁP LUẬT",
     "example": "公正で安全な社会を守るために、定められた法律を守りましょう。 (Để duy trì xã hội công bằng và an toàn, chúng ta hãy sống thượng tôn pháp luật.)"
   },
   {
     "word": "戦争",
     "meaning": "chiến tranh",
     "reading": "せんそう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CHIẾN TRANH",
     "example": "二度と悲惨な戦争を繰り返してはならないと平和資料館で誓いました。 (Tại bảo tàng chứng tích hòa bình, tôi tự nhủ không bao giờ được để chiến tranh tái diễn.)"
   },
   {
     "word": "平和",
     "meaning": "hòa bình",
     "reading": "へいわ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BÌNH HÒA",
     "example": "世界中の人々が安心して暮らせる平和な社会を心から願っています。 (Tôi tha thiết mong ước một xã hội hòa bình nơi mọi người khắp năm châu được an cư.)"
   },
   {
     "word": "目的",
     "meaning": "mục đích, mục tiêu",
     "reading": "もくてき",
-    "sinoVietnamese": "MỤC",
+    "sinoVietnamese": "MỤC ĐÍCH",
     "example": "日本へ来た最大の目的は、最先端のIT技術を学ぶことです。 (Mục đích lớn nhất khi tôi sang Nhật là để học hỏi công nghệ IT tối tân.)"
   },
   {
     "word": "安全",
     "meaning": "an toàn, bình an vô sự",
     "reading": "あんぜん",
-    "sinoVietnamese": "AN",
+    "sinoVietnamese": "AN TOÀN",
     "example": "工事現場ではヘルメットと安全靴を必ず着用し、作業員の安全を最優先にしている。 (Tại công trường, công nhân luôn đội mũ bảo hộ và đi giày bảo hộ, đặt sự an toàn lên hàng đầu.)"
   },
   {
     "word": "論文",
     "meaning": "luận văn, bài báo khoa học",
     "reading": "ろんぶん",
-    "sinoVietnamese": "VĂN",
+    "sinoVietnamese": "LUẬN VĂN",
     "example": "図書館で多くの参考文献を読み込み、卒業論文を書き上げました。 (Nghiên cứu kỹ nhiều tài liệu tham khảo trong thư viện, tôi đã hoàn thành khóa luận.)"
   },
   {
     "word": "関係",
     "meaning": "mối quan hệ, mối liên hệ qua lại",
     "reading": "かんけい",
-    "sinoVietnamese": "QUAN",
+    "sinoVietnamese": "QUAN HỆ",
     "example": "近隣の住民同士で日頃から挨拶を交わし、良好な人間関係を築くよう心がけている。 (Hàng xóm láng giềng thường xuyên chào hỏi nhau để cùng xây dựng mối quan hệ tốt đẹp.)"
   },
   {
@@ -136,21 +136,21 @@
     "word": "栓抜き",
     "meaning": "cái mở nắp chai bia, bật nắp",
     "reading": "せんぬき",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "XUYÊN BẠT",
     "example": "瓶ビールの王冠を開けるために栓抜きを探しました。 (Tôi đi tìm chiếc mở nắp chai để bật nắp chai bia thủy tinh.)"
   },
   {
     "word": "缶切り",
     "meaning": "cái khui đồ hộp",
     "reading": "かんきり",
-    "sinoVietnamese": "THIẾT",
+    "sinoVietnamese": "PHẪU THIẾT",
     "example": "キャンプ場で缶詰を開けるために缶切りを使いました。 (Ở khu cắm trại, tôi dùng chiếc khui đồ hộp để mở hộp thức ăn.)"
   },
   {
     "word": "缶詰",
     "meaning": "đồ hộp, thực phẩm đóng hộp",
     "reading": "かんづめ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "PHẪU CẬT",
     "example": "非常用の備蓄食料として、ツナや果物の缶詰を常備しています。 (Tôi luôn dự trữ sẵn đồ hộp cá ngừ và trái cây để làm thực phẩm phòng chống thiên tai.)"
   },
   {
@@ -171,14 +171,14 @@
     "word": "体温計",
     "meaning": "nhiệt kế đo thân nhiệt",
     "reading": "たいおんけい",
-    "sinoVietnamese": "THỂ ÔN",
+    "sinoVietnamese": "THỂ ÔN KẾ",
     "example": "熱っぽいと感じたので、電子体温計で熱を測りました。 (Thấy người nong nóng, tôi liền lấy nhiệt kế điện tử đo nhiệt độ cơ thể.)"
   },
   {
     "word": "石",
     "meaning": "hòn đá, tảng đá",
     "reading": "いし",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THẠCH",
     "example": "小川の浅瀬に並んだ丸い平らな石の上を、滑らないように慎重に渡った。 (Tôi bước cẩn thận qua những hòn đá tròn nhẵn xếp thành hàng dưới con suối nông để không bị trượt chân.)"
   },
   {
@@ -211,9 +211,9 @@
   },
   {
     "word": "一生懸命",
-    "meaning": "chăm chỉ, hết mình, nỗ lực hết sức (đã sửa lỗi chính tả)",
+    "meaning": "chăm chỉ, hết mình, nỗ lực hết sức",
     "reading": "いっしょうけんめい",
-    "sinoVietnamese": "SINH",
+    "sinoVietnamese": "NHẤT SINH HUYỀN MỆNH",
     "example": "憧れの第一志望校に合格するため、毎日一生懸命受験勉強に励んでいます。 (Để thi đỗ vào ngôi trường mơ ước, ngày nào tôi cũng nỗ lực hết mình ôn luyện thi cử.)"
   },
   {
@@ -227,7 +227,7 @@
     "word": "国際連合",
     "meaning": "liên hiệp quốc",
     "reading": "こくさいれんごう",
-    "sinoVietnamese": "QUỐC LIÊN HỢP",
+    "sinoVietnamese": "QUỐC TẾ LIÊN HỢP",
     "example": "自然が豊かな国際連合でのんびり過ごすのが好きです。 (Tôi thích dành thời gian thư giãn ở Liên Hợp Quốc, nơi có thiên nhiên phong phú.)"
   },
   {
@@ -246,10 +246,10 @@
   },
   {
     "word": "セット",
-    "meaning": "bộ (set đồ, combo suất ăn)",
+    "meaning": "bộ combo, set đồ ăn; bộ",
     "reading": "セット",
     "sinoVietnamese": "",
-    "example": "ランチタイム限定のセットメニューを注文し、ハンバーグとサラダを満喫した。 (Tôi gọi set cơm trưa khuyến mãi và thưởng thức món thịt bò băm viên kèm salad.)"
+    "example": "ハンバーガーとポテトのお得なセットを注文しました。(Tôi đã gọi một bộ combo bánh kẹp và khoai tây chiên ưu đãi.)"
   },
   {
     "word": "あとは",
@@ -274,10 +274,10 @@
   },
   {
     "word": "食品",
-    "meaning": "thức ăn",
+    "meaning": "thực phẩm, đồ ăn",
     "reading": "しょくひん",
-    "sinoVietnamese": "THỰC",
-    "example": "スーパーの地下食品売り場には新鮮な食材がたくさん並んでいます。(Quầy thực phẩm dưới tầng hầm của siêu thị bày bán rất nhiều nguyên liệu tươi ngon.)"
+    "sinoVietnamese": "THỰC PHẨM",
+    "example": "デパ地下の食品売り場で新鮮な食材を買いました。(Tôi đã mua thực phẩm tươi sống tại quầy bán đồ ăn dưới tầng hầm bách hóa.)"
   },
   {
     "word": "調査",
@@ -290,14 +290,14 @@
     "word": "～の代わりに",
     "meaning": "thay cho ～, thay vì ～",
     "reading": "～のかわりに",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐẠI",
     "example": "健康管理のために白米の代わりに、食物繊維が豊富な玄米を主食にしています。 (Để giữ gìn sức khỏe, thay vì ăn cơm trắng tôi dùng gạo lứt giàu chất xơ làm bữa chính.)"
   },
   {
     "word": "どこででも",
-    "meaning": "bất cứ nơi nào",
+    "meaning": "ở bất cứ đâu, bất kỳ nơi nào",
     "reading": "どこででも",
     "sinoVietnamese": "",
-    "example": "今度の週末、友達と一緒にどこででもへ出かけます。 (Cuối tuần này tôi sẽ đi đâu đó cùng bạn bè.)"
+    "example": "パソコンとネットがあれば、どこででも仕事ができます。(Chỉ cần có máy tính và mạng là có thể làm việc ở bất cứ đâu.)"
   }
 ]

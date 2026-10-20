@@ -102,6 +102,22 @@ function speakJapanese(text, onEndCallback = null) {
   }
 
   synth.speak(utterance);
+  triggerGugaCelebrate();
+}
+
+/**
+ * Hiệu ứng bé cánh cụt Gugugaga ăn mừng khi học tập
+ */
+function triggerGugaCelebrate() {
+  if (document.documentElement.getAttribute('data-theme') !== 'guga') return;
+  const mascotBody = document.querySelector('.guga-mascot-body');
+  if (!mascotBody) return;
+  mascotBody.classList.remove('guga-celebrating');
+  void mascotBody.offsetWidth; // Force reflow
+  mascotBody.classList.add('guga-celebrating');
+  setTimeout(() => {
+    mascotBody.classList.remove('guga-celebrating');
+  }, 700);
 }
 
 /**
@@ -1475,6 +1491,7 @@ function flipFlashcard() {
   state.isFlashcardFlipped = !state.isFlashcardFlipped;
   const innerCard = document.getElementById('flashcard-inner');
   innerCard.classList.toggle('rotate-y-180');
+  triggerGugaCelebrate();
 }
 
 function nextFlashcard() {
@@ -1906,13 +1923,242 @@ function setupEventListeners() {
     showToast(state.showOnlyBookmarks ? 'Chỉ hiển thị các từ đã đánh dấu' : 'Hiển thị tất cả');
   };
 
-  // Dark Mode Toggle
+  // ==========================================
+  // HỆ THỐNG QUẢN LÝ THEME (LIGHT / PRO DARK / GUGA MODE)
+  // ==========================================
   const btnThemeToggle = document.getElementById('btn-theme-toggle');
-  btnThemeToggle.onclick = () => {
-    const isDark = document.documentElement.classList.toggle('dark');
-    localStorage.setItem('theme', isDark ? 'dark' : 'light');
-    showToast(isDark ? 'Giao diện Tối' : 'Giao diện Sáng');
+  const themeDropdown = document.getElementById('theme-dropdown-menu');
+
+  window.applyAppTheme = function(themeName, showToastMsg = true) {
+    const validThemes = ['light', 'dark', 'guga'];
+    const theme = validThemes.includes(themeName) ? themeName : 'light';
+
+    document.documentElement.setAttribute('data-theme', theme);
+    if (theme === 'dark') {
+      document.documentElement.classList.add('dark');
+    } else {
+      document.documentElement.classList.remove('dark');
+    }
+
+    localStorage.setItem('theme', theme);
+
+    // Cập nhật nhãn và icon trên nút Topbar
+    const activeIcon = document.getElementById('theme-active-icon');
+    const activeName = document.getElementById('theme-active-name');
+    if (activeIcon && activeName) {
+      if (theme === 'light') {
+        activeIcon.innerHTML = '<i data-lucide="sun" class="w-4 h-4 text-amber-500"></i>';
+        activeName.textContent = 'Light';
+      } else if (theme === 'dark') {
+        activeIcon.innerHTML = '<i data-lucide="moon" class="w-4 h-4 text-indigo-400"></i>';
+        activeName.textContent = 'Pro Dark';
+      } else if (theme === 'guga') {
+        activeIcon.innerHTML = '<span class="text-sm">🐧</span>';
+        activeName.textContent = 'Guga';
+      }
+    }
+
+    // Cập nhật dấu tích chọn trong menu
+    if (themeDropdown) {
+      themeDropdown.querySelectorAll('.theme-choice-btn').forEach(btn => {
+        const check = btn.querySelector('.theme-check-mark');
+        if (check) {
+          if (btn.getAttribute('data-theme-val') === theme) {
+            check.classList.remove('hidden');
+          } else {
+            check.classList.add('hidden');
+          }
+        }
+      });
+    }
+
+    if (window.lucide && typeof window.lucide.createIcons === 'function') {
+      window.lucide.createIcons();
+    }
+
+    if (showToastMsg) {
+      const messages = {
+        light: '☀️ Đã chuyển sang Light Mode',
+        dark: '🌙 Đã chuyển sang Pro Dark Mode (Êm mắt)',
+        guga: '🐧 Guga Mode kích hoạt! Chào mừng Đại Ca Guga 💖'
+      };
+      showToast(messages[theme] || 'Đã đổi giao diện');
+    }
   };
+
+  if (btnThemeToggle && themeDropdown) {
+    btnThemeToggle.onclick = (e) => {
+      e.stopPropagation();
+      const isHidden = themeDropdown.classList.toggle('hidden');
+      btnThemeToggle.setAttribute('aria-expanded', !isHidden);
+    };
+
+    // Đóng dropdown khi click ra ngoài
+    document.addEventListener('click', (e) => {
+      if (!btnThemeToggle.contains(e.target) && !themeDropdown.contains(e.target)) {
+        themeDropdown.classList.add('hidden');
+        btnThemeToggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+
+    // Chọn theme từ dropdown
+    themeDropdown.querySelectorAll('.theme-choice-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const selectedTheme = btn.getAttribute('data-theme-val');
+        window.applyAppTheme(selectedTheme, true);
+        themeDropdown.classList.add('hidden');
+        btnThemeToggle.setAttribute('aria-expanded', 'false');
+      });
+    });
+  }
+
+  // Khôi phục theme đã lưu
+  const initialTheme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+  window.applyAppTheme(initialTheme, false);
+
+  // ==========================================
+  // ==========================================
+  // LINH VẬT BÉ CÁNH CỤT AI GUGUGAGA (GUGA MODE)
+  // ==========================================
+  const GUGA_SPEECHES = [
+    "Đại ca Guga vạn tuế! 🐧💖",
+    "Cố lên bạn ơi, N4 trong tầm tay! 🔥",
+    "Gugugaga học chăm chỉ cùng bạn nè! 📚✨",
+    "Đại ca Guga luôn đồng hành cùng bạn! 🐧👑",
+    "Tuyệt vời lắm! Tiếp tục phát huy nhé! 🌟",
+    "Nhớ ôn lại từ vựng cũ nữa nha bạn ơi! 🌸",
+    "Gugugaga chúc bạn đỗ JLPT điểm tuyệt đối! 🎯",
+    "Bé Gugugaga vẫy tay chào bạn nè! 🐧👋",
+    "Hôm nay bạn học rất chăm chỉ đó! Siêu cấp tuyệt vời! 💖",
+    "Gugugaga bắn tim cho bạn nè! Bùm chíu! 💕"
+  ];
+
+  // Bộ câu thoại CHÚC MỪNG khi làm test đúng (không trùng lặp, đa dạng)
+  const GUGA_CORRECT_SPEECHES = [
+    "Waa giỏi quá! Chính xác 100% luôn nè! 🎉✨",
+    "Đại ca Guga vỗ tay khen bạn đó nha! 🐧👏",
+    "Tuyệt đỉnh! Trả lời xuất sắc lắm bạn ơi! 🌟",
+    "Gugugaga tự hào về bạn quá đi! Max điểm JLPT! 💯💖",
+    "Chuẩn không cần chỉnh! Bạn học đỉnh thật sự! 🔥",
+    "Bắn tim bùm bùm cho sự xuất sắc này! 💕🥰",
+    "Đúng rồi nè! Thêm một bước gần hơn tới N4 rồi! 🎯",
+    "Siêu cấp thông minh! Tiếp tục giữ phong độ nha! 🚀",
+    "Xuất sắc quá bạn ơi! Gugugaga khâm phục luôn đó! 🐧👑"
+  ];
+
+  // Bộ câu thoại AN ỦI / ĐỘNG VIÊN khi làm test sai (ấm áp, khích lệ)
+  const GUGA_WRONG_SPEECHES = [
+    "Đừng buồn nha, sai một lần là nhớ thêm mười lần đó! 🐧💪",
+    "Không sao đâu bạn ơi, cùng Gugugaga làm lại nhé! 🌸",
+    "Hít một hơi thật sâu nè, Đại ca Guga luôn ở cạnh bạn! 💖",
+    "Sai là mẹ của thành công! Tự tin câu sau làm lại nha! ✨",
+    "Gugugaga ôm bạn một cái nè, cố lên bạn của tui ơi! 🫂",
+    "Chút nhầm lẫn xíu thôi, câu tiếp theo nhất định sẽ đúng! 🔥",
+    "Đừng nản lòng nha, bạn đã rất nỗ lực rồi mà! 🌟",
+    "Gugugaga tin bạn sẽ làm được, thử lại nào! 🐧💕",
+    "Học từ lỗi sai mới nhớ lâu! Cố lên bạn ơi! 📚🌈"
+  ];
+
+  let gugaSpeechTimer = null;
+  let gugaForceShowTimer = null;
+  const mascotWidget = document.getElementById('gugugaga-mascot-widget');
+  const speechBubble = document.getElementById('gugugaga-speech-bubble');
+  const heartsContainer = document.getElementById('gugugaga-hearts-container');
+
+  /**
+   * Phản hồi của Bé Gugugaga khi người dùng làm bài Test (Đúng / Sai)
+   */
+  window.triggerGugaTestFeedback = function(isCorrect) {
+    if (!speechBubble) return;
+
+    // Tự động bật widget để Bé Gugugaga tương tác kể cả khi đang ở Light Mode hoặc Pro Dark
+    if (mascotWidget && document.documentElement.getAttribute('data-theme') !== 'guga') {
+      mascotWidget.classList.add('force-show');
+      if (gugaForceShowTimer) clearTimeout(gugaForceShowTimer);
+      gugaForceShowTimer = setTimeout(() => {
+        if (document.documentElement.getAttribute('data-theme') !== 'guga') {
+          mascotWidget.classList.remove('force-show');
+        }
+      }, 4200);
+    }
+
+    // Kích hoạt hoạt ảnh tương ứng của Bé Gugugaga
+    const mascotBody = document.querySelector('.guga-mascot-body');
+    if (mascotBody) {
+      mascotBody.classList.remove('guga-celebrating', 'guga-comforting');
+      void mascotBody.offsetWidth; // Force reflow
+      if (isCorrect) {
+        mascotBody.classList.add('guga-celebrating');
+        setTimeout(() => mascotBody.classList.remove('guga-celebrating'), 750);
+      } else {
+        mascotBody.classList.add('guga-comforting');
+        setTimeout(() => mascotBody.classList.remove('guga-comforting'), 850);
+      }
+    }
+
+    // Chọn ngẫu nhiên câu thoại tương ứng
+    const speechList = isCorrect ? GUGA_CORRECT_SPEECHES : GUGA_WRONG_SPEECHES;
+    const randomSpeech = speechList[Math.floor(Math.random() * speechList.length)];
+
+    speechBubble.textContent = randomSpeech;
+    speechBubble.className = isCorrect ? 'bubble-correct active' : 'bubble-wrong active';
+
+    if (gugaSpeechTimer) clearTimeout(gugaSpeechTimer);
+    gugaSpeechTimer = setTimeout(() => {
+      speechBubble.classList.remove('active', 'bubble-correct', 'bubble-wrong');
+    }, 3800);
+
+    // Nếu đúng, bắn các hạt tim/ngôi sao bay chúc mừng
+    if (isCorrect && heartsContainer) {
+      for (let i = 0; i < 3; i++) {
+        setTimeout(() => {
+          const heart = document.createElement('div');
+          heart.className = 'guga-floating-heart';
+          const icons = ['🎉', '💖', '✨', '🌟', '💕'];
+          heart.textContent = icons[Math.floor(Math.random() * icons.length)];
+          const randomX = (Math.random() - 0.5) * 50;
+          heart.style.left = `calc(50% + ${randomX}px)`;
+          heart.style.bottom = '45px';
+          heartsContainer.appendChild(heart);
+          setTimeout(() => heart.remove(), 1000);
+        }, i * 140);
+      }
+    }
+  };
+
+  if (mascotWidget && speechBubble) {
+    mascotWidget.addEventListener('click', (e) => {
+      e.stopPropagation();
+      triggerGugaCelebrate();
+
+      // Đổi câu thoại ngẫu nhiên khi click trò chuyện
+      const randomSpeech = GUGA_SPEECHES[Math.floor(Math.random() * GUGA_SPEECHES.length)];
+      speechBubble.textContent = randomSpeech;
+      speechBubble.className = 'active';
+
+      if (gugaSpeechTimer) clearTimeout(gugaSpeechTimer);
+      gugaSpeechTimer = setTimeout(() => {
+        speechBubble.classList.remove('active');
+      }, 3500);
+
+      // Bắn 3 hạt tim/ngôi sao bay lên
+      if (heartsContainer) {
+        for (let i = 0; i < 3; i++) {
+          setTimeout(() => {
+            const heart = document.createElement('div');
+            heart.className = 'guga-floating-heart';
+            const icons = ['💖', '💕', '✨', '🌸', '🐧', '❤️'];
+            heart.textContent = icons[Math.floor(Math.random() * icons.length)];
+            const randomX = (Math.random() - 0.5) * 50;
+            heart.style.left = `calc(50% + ${randomX}px)`;
+            heart.style.bottom = '45px';
+            heartsContainer.appendChild(heart);
+            setTimeout(() => heart.remove(), 1000);
+          }, i * 150);
+        }
+      }
+    });
+  }
 
   // GitHub Dropdown Menu Toggle
   const btnGithubMenu = document.getElementById('btn-github-menu');
@@ -1932,21 +2178,13 @@ function setupEventListeners() {
       }
     });
 
-    // Tự động đóng dropdown khi nhấn vào một trong hai liên kết
+    // Tự động đóng dropdown khi nhấn vào một trong các liên kết
     githubDropdown.querySelectorAll('.github-link-item').forEach(link => {
       link.addEventListener('click', () => {
         githubDropdown.classList.add('hidden');
         btnGithubMenu.setAttribute('aria-expanded', 'false');
       });
     });
-  }
-
-  // Khôi phục theme đã lưu
-  const savedTheme = localStorage.getItem('theme');
-  if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-    document.documentElement.classList.add('dark');
-  } else {
-    document.documentElement.classList.remove('dark');
   }
 
   // Pronounce All Button
@@ -2589,6 +2827,11 @@ function submitPracticeAnswer(isSkipped = false) {
     statusText.className = 'font-bold text-sm text-rose-600 dark:text-rose-400';
     statusIcon.className = 'w-6 h-6 rounded-full flex items-center justify-center font-bold text-xs bg-rose-500 text-white';
     statusIcon.innerHTML = '<i data-lucide="info" class="w-4 h-4"></i>';
+  }
+
+  // Phản hồi tương tác của Bé Gugugaga khi luyện gõ (Đúng chúc mừng / Sai an ủi)
+  if (typeof window.triggerGugaTestFeedback === 'function') {
+    window.triggerGugaTestFeedback(isCorrect);
   }
 
   // Điền thông tin chi tiết: Có cả Hira/Kanji/Kata và nghĩa tiếng Việt
@@ -3448,6 +3691,11 @@ function selectGrammarOption(selectedIndex) {
     statusIcon.innerHTML = '<i data-lucide="x" class="w-4 h-4"></i>';
     statusText.textContent = `Chưa chính xác! Đáp án đúng: ${q.options[q.correctIndex]}`;
     statusText.className = 'font-bold text-sm text-rose-600 dark:text-rose-400';
+  }
+
+  // Phản hồi tương tác của Bé Gugugaga khi làm bài Test (Đúng chúc mừng / Sai an ủi)
+  if (typeof window.triggerGugaTestFeedback === 'function') {
+    window.triggerGugaTestFeedback(isCorrect);
   }
 
   // 1. Hiển thị nghĩa dịch tiếng Việt của câu

@@ -17,8 +17,8 @@
     "word": "働きます",
     "meaning": "làm việc, lao động",
     "reading": "はたらきます",
-    "sinoVietnamese": "",
-    "example": "月曜日から金曜日まで都内のIT企業でシステムエンジニアとして働きます。 (Từ thứ Hai đến thứ Sáu tôi làm kỹ sư hệ thống tại công ty IT ở Tokyo.)"
+    "sinoVietnamese": "ĐỘNG",
+    "example": "東京の会社でシステムエンジニアとして働いています。(Tôi làm việc với vai trò là kỹ sư hệ thống tại công ty ở Tokyo.)"
   },
   {
     "word": "休みます",
@@ -59,7 +59,7 @@
     "word": "郵便局",
     "meaning": "bưu điện",
     "reading": "ゆうびんきょく",
-    "sinoVietnamese": "TIỆN",
+    "sinoVietnamese": "BƯU TIỆN CỤC",
     "example": "ベトナムの実家へ荷物を送るために、ダンボールを持って郵便局へ行きました。 (Mang theo thùng hàng ra bưu điện, tôi gửi bưu phẩm về cho gia đình ở Việt Nam.)"
   },
   {
@@ -73,7 +73,7 @@
     "word": "美術館",
     "meaning": "bảo tàng mỹ thuật",
     "reading": "びじゅつかん",
-    "sinoVietnamese": "QUÁN",
+    "sinoVietnamese": "MỸ THUẬT QUÁN",
     "example": "上野公園の美術館で開かれている印象派の絵画展を見に行きました。 (Tôi đến bảo tàng mỹ thuật ở công viên Ueno ngắm triển lãm tranh trường phái ấn tượng.)"
   },
   {
@@ -85,10 +85,10 @@
   },
   {
     "word": "何番",
-    "meaning": "cái gì",
+    "meaning": "số mấy, số nào",
     "reading": "なんばん",
     "sinoVietnamese": "HÀ PHIÊN",
-    "example": "あなたの部屋は何番ですか。 (Phòng của bạn số mấy?.)"
+    "example": "あなたの部屋の番号は何番ですか。(Phòng của bạn mang số mấy vậy?)"
   },
   {
     "word": "今",
@@ -106,17 +106,17 @@
   },
   {
     "word": "～分",
-    "meaning": "～ phút",
-    "reading": "～ふん（～ぷん）",
+    "meaning": "～ phút (đơn vị thời gian)",
+    "reading": "～ふん / ～ぷん",
     "sinoVietnamese": "PHÂN",
-    "example": "電車は8時15分に発車します。 (Tàu sẽ khởi hành lúc 8h15.)"
+    "example": "電車は八時十五分に出発します。(Tàu điện sẽ xuất phát lúc tám giờ mười lăm phút.)"
   },
   {
     "word": "半",
-    "meaning": "rưỡi, một nửa",
+    "meaning": "rưỡi, một nửa (thời gian)",
     "reading": "はん",
     "sinoVietnamese": "BÁN",
-    "example": "毎朝7時半に家を出ます。 (Tôi rời nhà lúc 7h30 mỗi sáng.)"
+    "example": "毎朝七時半に家を出て学校へ行きます。(Mỗi sáng tôi rời nhà lúc bảy giờ rưỡi để đến trường.)"
   },
   {
     "word": "何時",
@@ -150,28 +150,28 @@
     "word": "朝",
     "meaning": "buổi sáng",
     "reading": "あさ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TRIÊU",
     "example": "朝は空気が澄んでいて気持ちがいいです。 (Buổi sáng, không khí trong lành và dễ chịu.)"
   },
   {
     "word": "昼",
     "meaning": "ban ngày, buổi trưa",
     "reading": "ひる",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TRÚ",
     "example": "昼は友達と一緒に学食で定食を食べます。 (Buổi trưa, tôi ăn một bữa theo thực đơn sẵn với bạn bè ở căng tin trường.)"
   },
   {
     "word": "晩",
     "meaning": "đêm, buổi tối",
     "reading": "ばん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "VÃN",
     "example": "晩ご飯を食べた後、散歩をします。 (Ăn tối xong tôi sẽ đi dạo.)"
   },
   {
     "word": "夜",
     "meaning": "đêm, buổi tối",
     "reading": "よる",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DẠ",
     "example": "夜の十時を過ぎると、近所の道路も静かになります。 (Quá 10 giờ đêm là đường sá quanh xóm bắt đầu trở nên vắng vẻ.)"
   },
   {
@@ -211,16 +211,16 @@
   },
   {
     "word": "けさ",
-    "meaning": "cái này",
+    "meaning": "sáng nay",
     "reading": "けさ",
     "sinoVietnamese": "",
-    "example": "けさは小鳥の澄んだ鳴き声で気持ちよく目を覚ますことができました。 (Sáng nay nghe tiếng chim líu lo trong trẻo, tôi tỉnh giấc thấy thật khoan khoái.)"
+    "example": "けさ、小鳥のさえずりを聞いて目が覚めました。(Sáng nay nghe tiếng chim líu lo, tôi đã thức giấc.)"
   },
   {
     "word": "今晩",
     "meaning": "tối nay, đêm nay",
     "reading": "こんばん",
-    "sinoVietnamese": "KIM",
+    "sinoVietnamese": "KIM VÃN",
     "example": "今晩は仕事が早く終わるので、家でゆっくり手料理を作ります。 (Tối nay được về sớm nên tôi sẽ thong thả tự nấu một bữa cơm tại nhà.)"
   },
   {
@@ -241,21 +241,21 @@
     "word": "昼休み",
     "meaning": "giờ nghỉ trưa",
     "reading": "ひるやすみ",
-    "sinoVietnamese": "HƯU",
+    "sinoVietnamese": "TRÚ HƯU",
     "example": "昼休みに同僚と社員食堂で定食を食べながら談笑しました。 (Vào giờ nghỉ trưa, tôi cùng đồng nghiệp ăn cơm và trò chuyện ở nhà ăn công ty.)"
   },
   {
     "word": "毎朝",
     "meaning": "mỗi buổi sáng",
     "reading": "まいあさ",
-    "sinoVietnamese": "MỖI",
+    "sinoVietnamese": "MỖI TRIÊU",
     "example": "毎朝起きたらまず窓を開けて新鮮な空気を部屋に入れます。 (Mỗi sáng thức dậy tôi đều mở toang cửa sổ để đón không khí trong lành vào phòng.)"
   },
   {
     "word": "毎晩",
     "meaning": "mỗi tối, hằng đêm",
     "reading": "まいばん",
-    "sinoVietnamese": "MỖI",
+    "sinoVietnamese": "MỖI VÃN",
     "example": "就寝前の三十分間、今日覚えた単語の復習を毎晩欠かさず行っています。 (Ba mươi phút trước khi ngủ, tối nào tôi cũng kiên trì ôn lại những từ vựng đã học hôm nay.)"
   },
   {
@@ -267,10 +267,10 @@
   },
   {
     "word": "大変ですね",
-    "meaning": "cái đó",
+    "meaning": "vất vả quá nhỉ, gay go nhỉ",
     "reading": "たいへんですね",
     "sinoVietnamese": "ĐẠI BIẾN",
-    "example": "毎日夜遅くまで残業するのは大変ですね。 (Thật khó để làm việc thêm giờ đến tận đêm khuya mỗi ngày.)"
+    "example": "毎晩遅くまで残業ですか。それは大変ですね。(Tối nào cũng làm thêm đến muộn à? Như thế thì vất vả quá nhỉ.)"
   },
   {
     "word": "ばんごうあんない",
@@ -304,56 +304,56 @@
     "word": "月曜日",
     "meaning": "thứ hai (trong tuần)",
     "reading": "げつようび",
-    "sinoVietnamese": "NGUYỆT NHẬT",
+    "sinoVietnamese": "NGUYỆT DIỆU NHẬT",
     "example": "週の始まりである月曜日の朝九時から、部署の定例ミーティングを開きます。 (Từ 9 giờ sáng thứ Hai đầu tuần, chúng tôi tiến hành buổi họp định kỳ của bộ phận.)"
   },
   {
     "word": "火曜日",
     "meaning": "thứ Ba",
     "reading": "かようび",
-    "sinoVietnamese": "HỎA NHẬT",
+    "sinoVietnamese": "HỎA DIỆU NHẬT",
     "example": "火曜日は燃えるゴミを出す日です。 (Thứ Ba là ngày bạn phải vứt rác đốt được.)"
   },
   {
     "word": "水曜日",
     "meaning": "thứ Tư",
     "reading": "すいようび",
-    "sinoVietnamese": "THỦY NHẬT",
+    "sinoVietnamese": "THỦY DIỆU NHẬT",
     "example": "水曜日の夜はジムで汗を流します。 (Tối thứ Tư, tôi tập luyện đổ mồ hôi ở phòng tập thể dục.)"
   },
   {
     "word": "木曜日",
     "meaning": "thứ Năm",
     "reading": "もくようび",
-    "sinoVietnamese": "MỘC NHẬT",
+    "sinoVietnamese": "MỘC DIỆU NHẬT",
     "example": "木曜日は図書館で本を借ります。 (Tôi mượn sách từ thư viện vào thứ năm.)"
   },
   {
     "word": "金曜日",
     "meaning": "thứ sáu",
     "reading": "きんようび",
-    "sinoVietnamese": "KIM NHẬT",
+    "sinoVietnamese": "KIM DIỆU NHẬT",
     "example": "金曜日の仕事が終わるとほっとします。 (Tôi cảm thấy nhẹ nhõm sau giờ làm việc vào thứ Sáu.)"
   },
   {
     "word": "土曜日",
     "meaning": "thứ Bảy",
     "reading": "どようび",
-    "sinoVietnamese": "THỔ NHẬT",
+    "sinoVietnamese": "THỔ DIỆU NHẬT",
     "example": "土曜日は家族と買い物に行きます。 (Tôi đi mua sắm với gia đình vào thứ bảy.)"
   },
   {
     "word": "日曜日",
     "meaning": "Chủ Nhật",
     "reading": "にちようび",
-    "sinoVietnamese": "NHẬT NHẬT",
+    "sinoVietnamese": "NHẬT DIỆU NHẬT",
     "example": "日曜日は公園で子供とサッカーをします。 (Vào Chủ nhật, tôi chơi bóng đá với các con ở công viên.)"
   },
   {
     "word": "何曜日",
     "meaning": "cái gì",
     "reading": "なんようび",
-    "sinoVietnamese": "HÀ NHẬT",
+    "sinoVietnamese": "HÀ DIỆU NHẬT",
     "example": "今日は何曜日ですか。水曜日です。 (Hôm nay là ngày gì. Hôm nay là thứ Tư.)"
   },
   {
@@ -361,14 +361,14 @@
     "meaning": "từ ～ (thời gian, địa điểm)",
     "reading": "～から",
     "sinoVietnamese": "",
-    "example": "学校は朝9時から始まります。 (Trường học bắt đầu lúc 9 giờ sáng.)"
+    "example": "学校の授業は朝九時から始まります。(Tiết học ở trường bắt đầu từ chín giờ sáng.)"
   },
   {
     "word": "～まで",
-    "meaning": "to～",
+    "meaning": "đến ～ (thời gian, địa điểm)",
     "reading": "～まで",
     "sinoVietnamese": "",
-    "example": "午後5時まで図書館で勉強します。 (Tôi sẽ học ở thư viện đến 5 giờ chiều.)"
+    "example": "夕方五時まで図書館で勉強します。(Tôi học bài ở thư viện đến năm giờ chiều.)"
   },
   {
     "word": "～と～",
@@ -379,24 +379,24 @@
   },
   {
     "word": "ペキン",
-    "meaning": "bắc kinh",
+    "meaning": "thành phố Bắc Kinh (Trung Quốc)",
     "reading": "ペキン",
     "sinoVietnamese": "",
-    "example": "新しいペキンを手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã có một chiếc Pekin mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+    "example": "来週、仕事で中国のペキンへ出張します。(Tuần sau tôi đi công tác ở thành phố Bắc Kinh Trung Quốc.)"
   },
   {
     "word": "ロンドン",
-    "meaning": "luân đôn",
+    "meaning": "thành phố Luân Đôn (London, Anh)",
     "reading": "ロンドン",
     "sinoVietnamese": "",
-    "example": "新しいロンドンを手に入れて、仕事の効率がぐんと上がりました。 (Bây giờ tôi có một London mới, tôi có thể làm việc hiệu quả hơn nhiều.)"
+    "example": "兄はイギリスのロンドンに留学しています。(Anh trai tôi đang đi du học ở thành phố Luân Đôn nước Anh.)"
   },
   {
     "word": "バンコク",
-    "meaning": "băng cốc",
+    "meaning": "thành phố Băng Cốc (Bangkok, Thái Lan)",
     "reading": "バンコク",
     "sinoVietnamese": "",
-    "example": "来月タイのバンコクへ出張に行く予定です。(Tháng sau tôi dự định đi công tác tại Bangkok, Thái Lan.)"
+    "example": "夏休みにタイのバンコクへ観光旅行に行きました。(Kỳ nghỉ hè tôi đã đi du lịch tới thành phố Băng Cốc Thái Lan.)"
   },
   {
     "word": "ロサンゼルス",
@@ -407,9 +407,9 @@
   },
   {
     "word": "えーと",
-    "meaning": "được, để tôi xem",
+    "meaning": "ừm, để tôi xem nào (câu đệm suy nghĩ)",
     "reading": "えーと",
     "sinoVietnamese": "",
-    "example": "えーとの窓から見える景色がとても素晴らしいです。 (Khung cảnh nhìn từ cửa sổ thật tuyệt vời.)"
+    "example": "「集合時間は何時でしたっけ」「えーと、確か朝八時です」。(\"Giờ tập trung là mấy giờ ấy nhỉ?\" \"Ừm để tôi xem nào, chắc là tám giờ sáng\".)"
   }
 ]

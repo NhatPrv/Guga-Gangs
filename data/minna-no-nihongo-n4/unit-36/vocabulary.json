@@ -3,7 +3,7 @@
     "word": "届きます",
     "meaning": "được giao đến (tự động từ: thư từ, hàng hóa)",
     "reading": "とどきます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIỚI",
     "example": "田舎の母から美味しい手作りの味噌がクール便で届きました。 (Thùng tương miso mẹ tự tay làm thơm ngon đã được giao đến tận nhà.)"
   },
   {
@@ -15,9 +15,9 @@
   },
   {
     "word": "貯金します",
-    "meaning": "tiết kiệm tiền, gửi tiền tiết kiệm (đã sửa lỗi chính tả)",
+    "meaning": "tiết kiệm tiền, gửi tiền tiết kiệm",
     "reading": "ちょきんします",
-    "sinoVietnamese": "KIM",
+    "sinoVietnamese": "TRỮ KIM",
     "example": "将来自分のカフェを開業するという夢を叶えるため、毎月の給料から五万円ずつ貯金しています。 (Để hiện thực hóa ước mơ mở quán cà phê, mỗi tháng tôi đều trích 50.000 yên từ tiền lương để tiết kiệm.)"
   },
   {
@@ -38,7 +38,7 @@
     "word": "過ぎます",
     "meaning": "quá giờ, trôi qua (thời gian)",
     "reading": "すぎます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "QUÁ",
     "example": "約束の時間を30分も過ぎてから友達が慌ててやって来ました。 (Quá giờ hẹn đến 30 phút thì người bạn mới hớt hải chạy đến.)"
   },
   {
@@ -52,14 +52,14 @@
     "word": "固い",
     "meaning": "cứng cáp, rắn chắc",
     "reading": "かたい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CỐ",
     "example": "このフランスパンは外側がとても固いですが、中はふわふわです。 (Ổ bánh mì Pháp này vỏ ngoài rất giòn cứng nhưng ruột lại rất mềm.)"
   },
   {
     "word": "軟らかい",
     "meaning": "mềm mại, êm ái",
     "reading": "やわらかい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NHUYỄN",
     "example": "よく煮込んだ牛肉がとても軟らかくて美味しかったです。 (Thịt bò hầm kỹ rất mềm và thơm ngon vô cùng.)"
   },
   {
@@ -70,24 +70,24 @@
     "example": "分からない単語を電子辞書ですぐに調べました。 (Tôi ngay lập tức tra cứu những từ tôi không hiểu trong từ điển điện tử.)"
   },
   {
-    "word": "携帯ー",
-    "meaning": "di động, cầm tay",
-    "reading": "けいたいー",
-    "sinoVietnamese": "",
-    "example": "外出中は携帯電話のバッテリーを切らさないように気をつけています。 (Khi ra ngoài, tôi cẩn thận để điện thoại không hết pin.)"
+    "word": "携帯電話",
+    "meaning": "điện thoại di động",
+    "reading": "けいたいでんわ",
+    "sinoVietnamese": "HUỀ ĐỚI ĐIỆN THOẠI",
+    "example": "外出中は携帯電話のバッテリーを切らさないように気をつけています。(Khi ra ngoài, tôi chú ý không để điện thoại di động bị hết pin.)"
   },
   {
     "word": "工場",
     "meaning": "nhà máy, xưởng sản xuất",
     "reading": "こうじょう",
-    "sinoVietnamese": "TRƯỜNG",
+    "sinoVietnamese": "CÔNG TRƯỜNG",
     "example": "最新のロボットが自動車を組み立てる工場を見学しました。 (Tôi đã đến tham quan nhà máy nơi robot hiện đại lắp ráp ô tô.)"
   },
   {
     "word": "剣道",
     "meaning": "kiếm đạo Nhật Bản (Kendo)",
     "reading": "けんどう",
-    "sinoVietnamese": "ĐẠO",
+    "sinoVietnamese": "KIẾM ĐẠO",
     "example": "精神を鍛えるために、放課後に道場で剣道を習っています。 (Để rèn luyện tinh thần, sau giờ học tôi tập kiếm đạo tại võ đường.)"
   },
   {
@@ -99,10 +99,10 @@
   },
   {
     "word": "かなり",
-    "meaning": "khá là, tương đối nhiều",
+    "meaning": "khá là, tương đối",
     "reading": "かなり",
     "sinoVietnamese": "",
-    "example": "今朝の通勤ラッシュはいつもよりかなり混雑していました。 (Giờ cao điểm sáng nay đông đúc hơn hẳn mọi khi.)"
+    "example": "今朝の通勤ラッシュはいつもよりかなり混雑していました。(Giờ cao điểm sáng nay đông đúc khá là nhiều so với mọi khi.)"
   },
   {
     "word": "必ず",
@@ -115,15 +115,15 @@
     "word": "絶対に",
     "meaning": "tuyệt đối (thường đi với phủ định: tuyệt đối không...)",
     "reading": "ぜったいに",
-    "sinoVietnamese": "ĐỐI",
+    "sinoVietnamese": "TUYỆT ĐỐI",
     "example": "大切な友達との約束は絶対に破りません。 (Lời hứa với người bạn thân quý tôi tuyệt đối không bao giờ phá vỡ.)"
   },
   {
     "word": "上手に",
-    "meaning": "một cách khéo léo, giỏi giang (đã sửa lỗi chính tả)",
+    "meaning": "giỏi, khéo léo, điêu luyện",
     "reading": "じょうずに",
     "sinoVietnamese": "THƯỢNG THỦ",
-    "example": "毎日の練習の成果を発揮して、発表会でショパンのピアノ曲をとても上手に演奏できた。 (Phát huy thành quả luyện tập mỗi ngày, tôi đã biểu diễn bản nhạc piano của Chopin vô cùng điêu luyện trong buổi hòa nhạc.)"
+    "example": "発表会でショパンのピアノ曲をとても上手に演奏できました。(Trong buổi biểu diễn, tôi đã chơi bản nhạc piano của Chopin rất giỏi.)"
   },
   {
     "word": "このごろ",
@@ -143,7 +143,7 @@
     "word": "お客様",
     "meaning": "quý khách hàng (kính cẩn)",
     "reading": "おきゃくさま",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KHÁCH DẠNG",
     "example": "お客様のご要望に寄り添った丁寧なサービスを心がけています。 (Chúng tôi luôn nỗ lực phục vụ chu đáo theo đúng mong muốn của quý khách.)"
   },
   {
@@ -157,7 +157,7 @@
     "word": "水泳",
     "meaning": "môn bơi lội",
     "reading": "すいえい",
-    "sinoVietnamese": "THỦY",
+    "sinoVietnamese": "THỦY VỊNH",
     "example": "全身の筋肉をバランスよく使う水泳は健康維持に最適です。 (Môn bơi lội vận động đều cơ bắp toàn thân rất tốt cho sức khỏe.)"
   },
   {
@@ -183,51 +183,51 @@
   },
   {
     "word": "乗り物",
-    "meaning": "phương tiện đi lại, phương tiện giao thông",
+    "meaning": "phương tiện giao thông, phương tiện đi lại",
     "reading": "のりもの",
-    "sinoVietnamese": "VẬT",
-    "example": "遊園地でジェットコースターなどの楽しい乗り物に乗りました。 (Tại công viên giải trí, tôi đã chơi những trò cảm giác mạnh rất vui.)"
+    "sinoVietnamese": "THỪA VẬT",
+    "example": "電車やバスなどの便利な乗り物を利用します。(Tôi sử dụng các phương tiện giao thông tiện lợi như tàu điện và xe buýt.)"
   },
   {
     "word": "歴史",
-    "meaning": "lịch sử, bề dày lịch sử (đã sửa lỗi chính tả)",
+    "meaning": "lịch sử, bề dày lịch sử",
     "reading": "れきし",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LỊCH SỬ",
     "example": "古都奈良には、千三百年以上の古い歴史を持つ貴重な寺院や仏像が数多く残されています。 (Ở cố đô Nara còn lưu giữ vô vàn chùa chiền và pho tượng Phật quý giá với bề dày lịch sử hơn 1.300 năm.)"
   },
   {
     "word": "～世紀",
     "meaning": "thế kỷ thứ ～ (đơn vị 100 năm)",
     "reading": "ーせいき",
-    "sinoVietnamese": "THẾ",
+    "sinoVietnamese": "THẾ KỶ",
     "example": "情報通信技術の急速な進歩によって、二十一世紀の人々の生活様式は劇的に変化した。 (Nhờ sự tiến bộ vượt bậc của công nghệ thông tin, lối sống của con người thế kỷ 21 đã thay đổi ngoạn mục.)"
   },
   {
     "word": "遠く",
     "meaning": "phía xa, nơi xa xôi",
     "reading": "とおく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "VIỄN",
     "example": "展望台のデッキに立つと、遠くの青空にくっきりと雪化粧した富士山の姿が見えた。 (Đứng trên đài quan sát phóng tầm mắt, tôi nhìn thấy đỉnh núi Phú Sĩ phủ tuyết trắng xóa từ phía xa tít tắp.)"
   },
   {
     "word": "汽車",
     "meaning": "tàu hỏa chạy bằng hơi nước",
     "reading": "きしゃ",
-    "sinoVietnamese": "XA",
+    "sinoVietnamese": "KHÍ XA",
     "example": "昔懐かしい蒸気機関車の汽車が黒い煙を上げて走っています。 (Đoàn tàu hỏa hơi nước cổ xưa phun khói đen chạy xình xịch.)"
   },
   {
     "word": "汽船",
     "meaning": "tàu thủy chạy bằng hơi nước",
     "reading": "きせん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KHÍ THUYỀN",
     "example": "博物館で近代化を支えた巨大な汽船の模型を見ました。 (Tại bảo tàng tôi đã xem mô hình con tàu thủy chạy bằng hơi nước khổng lồ.)"
   },
   {
-    "word": "大勢の（人）",
-    "meaning": "đông người, đám đông quần chúng",
-    "reading": "おおぜいのひと",
-    "sinoVietnamese": "ĐẠI NHÂN",
+    "word": "大勢の",
+    "meaning": "đông người, nhiều người",
+    "reading": "おおぜいの",
+    "sinoVietnamese": "ĐẠI THẾ",
     "example": "駅前広場で開催された音楽フェスティバルには、大勢の観客が詰めかけて熱気に包まれていた。 (Tại lễ hội âm nhạc tổ chức ở quảng trường trước ga, đông đảo khán giả đã kéo đến tạo nên bầu không khí vô cùng sôi động.)"
   },
   {

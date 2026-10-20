@@ -10,21 +10,21 @@
     "word": "かならず",
     "reading": "かならず",
     "meaning": "nhất định (quy luật, lời hứa)",
-    "sinoVietnamese": "TẤT",
+    "sinoVietnamese": "",
     "example": "借りたお金は必ず返します。 (Tiền đã mượn tôi nhất định sẽ trả.)"
   },
   {
     "word": "ぜひ",
     "reading": "ぜひ",
     "meaning": "nhất định, rất mong (bày tỏ mong muốn tha thiết hoặc lời mời chân thành)",
-    "sinoVietnamese": "THỊ PHI",
+    "sinoVietnamese": "",
     "example": "日本へ来たら、ぜひ私の家に遊びに来てください。 (Khi đến Nhật Bản, bạn nhất định phải ghé nhà tôi chơi nhé.)"
   },
   {
     "word": "たぶん",
     "reading": "たぶん",
     "meaning": "có lẽ, có thể (phỏng đoán khả năng xảy ra khoảng 70-80%)",
-    "sinoVietnamese": "ĐA PHẦN",
+    "sinoVietnamese": "",
     "example": "彼は忙しいので、たぶんパーティーには来ないでしょう。 (Anh ấy bận rộn nên có lẽ sẽ không đến bữa tiệc đâu.)"
   },
   {
@@ -59,7 +59,7 @@
     "word": "ついに",
     "reading": "ついに",
     "meaning": "rốt cuộc thì, sau cùng thì",
-    "sinoVietnamese": "CHUNG",
+    "sinoVietnamese": "",
     "example": "長年の研究がついに実を結びました。 (Nhiều năm nghiên cứu rốt cuộc cũng đã gặt hái thành quả.)"
   },
   {
@@ -72,9 +72,9 @@
   {
     "word": "せっかく",
     "reading": "せっかく",
-    "meaning": "cất công, mất công, hiếm có dịp (diễn tả sự trân trọng cơ hội/công sức hoặc sự tiếc nuối)",
+    "meaning": "cất công, mất công; hiếm có dịp (diễn tả sự trân trọng hoặc tiếc nuối)",
     "sinoVietnamese": "",
-    "example": "せっかく料理を作ったのに、誰も食べてくれませんでした。 (Đã cất công nấu nướng thế mà chẳng có ai ăn giúp cho.)"
+    "example": "せっかく京都に来たのだから、有名な金閣寺を見に行きましょう。(Đã cất công đến tận Kyoto rồi thì chúng ta hãy đi ngắm chùa Kinkaku-ji nổi tiếng nhé.)"
   },
   {
     "word": "わざわざ",
@@ -199,7 +199,7 @@
     "word": "たいして",
     "reading": "たいして",
     "meaning": "không đến mức... lắm (với phủ định)",
-    "sinoVietnamese": "ĐẠI",
+    "sinoVietnamese": "",
     "example": "ニュースで騒ぐほど、大して大きな被害はありませんでした。 (Không có thiệt hại quá lớn đến mức ồn ào như tin tức đưa.)"
   },
   {

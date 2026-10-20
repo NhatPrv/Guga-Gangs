@@ -45,7 +45,7 @@
     "word": "「傘を～」さします",
     "meaning": "che ô, giương dù [傘をさす]",
     "reading": "[かさを~] さします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TẢN",
     "example": "突然ポツポツと大粒の雨が降ってきたので、カバンから折りたたみ傘を出してさしました。 (Bất thình lình mưa hạt to trút xuống, tôi liền lấy cây dù gấp trong cặp ra giương lên che.)"
   },
   {
@@ -53,7 +53,7 @@
     "meaning": "tồi tệ, khủng khiếp, nghiêm trọng",
     "reading": "ひどい",
     "sinoVietnamese": "",
-    "example": "台風が直撃した沿岸地域では、強風と高波によってひどい被害がもたらされた。 (Tại vùng duyên hải nơi tâm bão quét qua, gió bão và sóng lớn đã gây ra thiệt hại vô cùng nặng nề.)"
+    "example": "昨夜の台風のせいで各地にひどい被害が出ました。(Do cơn bão đêm qua nên nhiều nơi đã phải gánh chịu thiệt hại nghiêm trọng.)"
   },
   {
     "word": "天気予報",
@@ -66,14 +66,14 @@
     "word": "発表",
     "meaning": "công bố, trình bày",
     "reading": "はっぴょう",
-    "sinoVietnamese": "PHÁT",
+    "sinoVietnamese": "PHÁT BIỂU",
     "example": "新しい発表を手に入れて、仕事の効率がぐんと上がりました。 (Tôi nhận được thông báo mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
   },
   {
     "word": "実験",
     "meaning": "thí nghiệm khoa học, thử nghiệm",
     "reading": "じっけん",
-    "sinoVietnamese": "NGHIỆM",
+    "sinoVietnamese": "THỰC NGHIỆM",
     "example": "理科の実験室で薬品を慎重に配合し、化学反応の変化をフラスコの中で観察した。 (Trong phòng thí nghiệm khoa học, tôi cẩn thận phối trộn hóa chất quan sát phản ứng hóa học trong bình tam giác.)"
   },
   {
@@ -94,7 +94,7 @@
     "word": "科学",
     "meaning": "khoa học, công nghệ tự nhiên",
     "reading": "かがく",
-    "sinoVietnamese": "HỌC",
+    "sinoVietnamese": "KHOA HỌC",
     "example": "最新の科学技術の進展によって、かつては不治の病とされた難病の治療法が確立された。 (Nhờ sự tiến bộ của khoa học kỹ thuật hiện đại, các phương pháp chữa trị căn bệnh nan y đã được xác lập.)"
   },
   {
@@ -108,29 +108,29 @@
     "word": "文学",
     "meaning": "văn học",
     "reading": "ぶんがく",
-    "sinoVietnamese": "HỌC",
-    "example": "健康的な生活を送るために、毎日新鮮な文学をとるようにしています。 (Để có một cuộc sống lành mạnh, tôi cố gắng đọc sách mới mỗi ngày.)"
+    "sinoVietnamese": "VĂN HỌC",
+    "example": "大学で日本の古典文学を熱心に研究しています。(Tôi đang say mê nghiên cứu văn học cổ điển Nhật Bản tại trường đại học.)"
   },
   {
     "word": "パトカー",
-    "meaning": "xe tuần tra",
+    "meaning": "xe cảnh sát tuần tra",
     "reading": "パトカー",
     "sinoVietnamese": "",
-    "example": "切符を買って、指定されたパトカに乗り込みました。 (Tôi mua vé và lên chiếc patka được chỉ định.)"
+    "example": "サイレンを鳴らしながらパトカーが猛スピードで走っていきました。(Hụ còi inh ỏi, chiếc xe cảnh sát tuần tra phóng đi với tốc độ cao.)"
   },
   {
     "word": "救急車",
     "meaning": "xe cứu thương",
     "reading": "きゅうきゅうしゃ",
-    "sinoVietnamese": "CẤP XA",
+    "sinoVietnamese": "CỨU CẤP XA",
     "example": "切符を買って、指定された救急車に乗り込みました。 (Tôi mua vé và lên xe cấp cứu được chỉ định.)"
   },
   {
     "word": "賛成",
-    "meaning": "đồng ý, đồng ý",
+    "meaning": "tán thành, đồng ý",
     "reading": "さんせい",
     "sinoVietnamese": "TÁN THÀNH",
-    "example": "使いやすい賛成のおかげで、毎日の生活がとても快適になりました。 (Nhờ những tính năng dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+    "example": "会議の参加者全員が彼の新しい提案に賛成しました。(Toàn bộ người tham gia cuộc họp đều tán thành với đề xuất mới của anh ấy.)"
   },
   {
     "word": "反対",
@@ -143,14 +143,14 @@
     "word": "男性",
     "meaning": "nam giới, phái nam",
     "reading": "だんせい",
-    "sinoVietnamese": "NAM",
+    "sinoVietnamese": "NAM TÍNH",
     "example": "料理教室には女性だけでなく、男性の参加者も多く集まっています。 (Tại lớp học nấu ăn không chỉ có nữ giới mà rất nhiều nam giới cũng tham gia.)"
   },
   {
     "word": "女性",
     "meaning": "nữ giới, phái nữ",
     "reading": "じょせい",
-    "sinoVietnamese": "NỮ",
+    "sinoVietnamese": "NỮ TÍNH",
     "example": "多くの女性が社会の様々な分野でリーダーとして活躍しています。 (Rất nhiều phụ nữ đang tỏa sáng và giữ vai trò lãnh đạo ở nhiều lĩnh vực.)"
   },
   {
@@ -178,7 +178,7 @@
     "word": "相手",
     "meaning": "đối phương, đối tác, bạn đời",
     "reading": "あいて",
-    "sinoVietnamese": "THỦ",
+    "sinoVietnamese": "TƯƠNG THỦ",
     "example": "ビジネスの商談を円滑に進めるためには、交渉相手の立場に立った配慮が欠かせない。 (Để đàm phán kinh doanh diễn ra thuận lợi, việc suy nghĩ cho lập trường của đối tác là điều không thể thiếu.)"
   },
   {
@@ -189,36 +189,36 @@
     "example": "日本語学校のオリエンテーションで世界各国の留学生と知り合いました。 (Trong buổi định hướng của trường tiếng Nhật, tôi đã làm quen với nhiều bạn bè quốc tế.)"
   },
   {
-    "word": "平均十冥",
-    "meaning": "tuổi thọ",
+    "word": "平均寿命",
+    "meaning": "tuổi thọ trung bình",
     "reading": "へいきんじゅみょう",
-    "sinoVietnamese": "THẬP",
-    "example": "新しい平均十冥を手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã nhận được Jumei Trung bình mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+    "sinoVietnamese": "BÌNH QUÂN THỌ MỆNH",
+    "example": "医療の進歩により、人々の平均寿命は年々伸びています。(Nhờ sự tiến bộ của y tế, tuổi thọ trung bình của con người ngày càng tăng lên.)"
   },
   {
     "word": "比べます「男性」",
     "meaning": "so sánh với nam giới",
     "reading": "くらべます[だんせい]",
-    "sinoVietnamese": "NAM",
+    "sinoVietnamese": "TỶ NAM TÍNH",
     "example": "毎日の生活の中で、無理をせずに比べますように心がけています。 (Trong cuộc sống hàng ngày, tôi cố gắng so sánh mọi thứ mà không làm quá.)"
   },
   {
     "word": "博士",
-    "meaning": "tiến sĩ (học vị cao nhất, đã sửa nghĩa từ bác sĩ)",
+    "meaning": "tiến sĩ (học vị cao nhất)",
     "reading": "はかせ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BÁC SĨ",
     "example": "ノーベル物理学賞を受賞した高名な博士が、大学のホールで記念講演を行った。 (Vị tiến sĩ lừng danh từng nhận giải Nobel Vật lý đã có buổi thuyết trình kỷ niệm tại giảng đường đại học.)"
   },
   {
     "word": "脳",
     "meaning": "não",
     "reading": "のう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NÃO",
     "example": "使いやすい脳のおかげで、毎日の生活がとても快適になりました。 (Bộ não dễ sử dụng của tôi đã giúp cuộc sống hàng ngày của tôi dễ dàng hơn nhiều.)"
   },
   {
     "word": "ホルモン",
-    "meaning": "hoóc-môn, nội tiết tố cơ thể (đã sửa lỗi chính tả)",
+    "meaning": "hoóc-môn, nội tiết tố cơ thể",
     "reading": "ホルモン",
     "sinoVietnamese": "",
     "example": "成長ホルモンの分泌を促すためには、毎晩十分な質の高い睡眠を確保することが不可欠です。 (Để kích thích sự tiết hoóc-môn tăng trưởng, việc đảm bảo giấc ngủ sâu mỗi đêm là vô cùng cần thiết.)"
@@ -227,7 +227,7 @@
     "word": "化粧品",
     "meaning": "mỹ phẩm làm đẹp",
     "reading": "けしょうひん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HÓA TRANG PHẨM",
     "example": "敏感肌でも安心して毎日使えるように、無香料で肌に優しい天然成分の化粧品を選んだ。 (Để da nhạy cảm cũng an tâm dùng hằng ngày, tôi chọn mỹ phẩm thiên nhiên dịu nhẹ không hương liệu.)"
   },
   {
@@ -241,7 +241,7 @@
     "word": "化粧「～をします」",
     "meaning": "trang điểm",
     "reading": "けしょう「～をします」",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HÓA TRANG",
     "example": "使いやすい化粧のおかげで、毎日の生活がとても快適になりました。 (Trang điểm dễ sử dụng đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
   }
 ]

@@ -3,14 +3,14 @@
     "word": "降ろします、下ろします",
     "meaning": "hạ xuống, dỡ xuống (hành lý từ trên cao)",
     "reading": "おろします",
-    "sinoVietnamese": "HẠ",
+    "sinoVietnamese": "GIÁNG HẠ",
     "example": "電車の網棚から重いスーツケースを両手で慎重に下ろしました。 (Tôi dùng cả hai tay cẩn thận nhấc chiếc vali nặng trên giá để đồ xuống.)"
   },
   {
     "word": "届けます",
     "meaning": "giao tới, chuyển đến (tận nhà)",
     "reading": "とどけます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIỚI",
     "example": "郵便局の配達員さんが大切な書留の手紙を玄関まで届けてくれました。 (Nhân viên bưu điện đã giao tận tay lá thư bảo đảm đến cửa nhà tôi.)"
   },
   {
@@ -24,7 +24,7 @@
     "word": "塾",
     "meaning": "lớp học thêm, lò luyện thi (Juku)",
     "reading": "じゅく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THỤC",
     "example": "高校受験を目指して、放課後は毎日駅前の進学塾に通っています。 (Hướng tới kỳ thi vào cấp ba, mỗi chiều sau giờ học tôi đều đến lò luyện thi.)"
   },
   {
@@ -45,14 +45,14 @@
     "word": "入管",
     "meaning": "Cục Quản lý Xuất nhập cảnh (viết tắt của 入国管理局)",
     "reading": "にゅうかん",
-    "sinoVietnamese": "NHẬP QUÁN",
+    "sinoVietnamese": "NHẬP QUẢN",
     "example": "ビザの在留資格更新の手続きを行うため、品川にある東京入管の窓口を訪ねた。 (Để làm thủ tục gia hạn tư cách lưu trú visa, tôi đã đến quầy làm việc của Cục Xuất nhập cảnh Tokyo ở Shinagawa.)"
   },
   {
     "word": "再入国ビザ",
     "meaning": "thị thực tái nhập cảnh",
     "reading": "さいにゅうこくビザ",
-    "sinoVietnamese": "NHẬP QUỐC",
+    "sinoVietnamese": "TÁI NHẬP QUỐC",
     "example": "一度は歴史のある有名な再入国ビザに行ってみたいです。 (Tôi muốn đến thăm thị thực tái nhập cảnh lịch sử nổi tiếng ít nhất một lần.)"
   },
   {
@@ -80,15 +80,15 @@
     "word": "久しぶり",
     "meaning": "sau một khoảng thời gian dài lâu ngày",
     "reading": "ひさしぶり",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CỬU",
     "example": "故郷を離れて三年ぶりに帰省し、久しぶりに幼馴染たちと昔話に花を咲かせた。 (Xa quê 3 năm mới có dịp về thăm, sau bao ngày xa cách tôi đã hàn huyên ôn lại kỷ niệm cùng lũ bạn thuở nhỏ.)"
   },
   {
     "word": "営業",
     "meaning": "kinh doanh, mở cửa phục vụ",
     "reading": "えいぎょう",
-    "sinoVietnamese": "",
-    "example": "使いやすい営業のおかげで、毎日の生活がとても快適になりました。 (Nhờ bán hàng dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+    "sinoVietnamese": "DOANH NGHIỆP",
+    "example": "このスーパーは夜遅くまで営業しているので助かります。(Siêu thị này mở cửa phục vụ kinh doanh đến tận đêm khuya nên rất tiện.)"
   },
   {
     "word": "それまでに",
@@ -122,7 +122,7 @@
     "word": "代わりをします",
     "meaning": "làm thay, đảm nhiệm thay vai trò của người khác",
     "reading": "かわりをします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐẠI",
     "example": "風邪で急に休んだ先輩の代わりをして、午後のプレゼンテーションの大役を務め上げた。 (Đảm nhiệm vai trò thay cho người tiền bối bị ốm đột xuất, tôi đã hoàn thành xuất sắc bài thuyết trình buổi chiều.)"
   },
   {
@@ -136,28 +136,28 @@
     "word": "競走します",
     "meaning": "chạy đua, thi đua tốc độ",
     "reading": "きょうそうします",
-    "sinoVietnamese": "TẨU",
+    "sinoVietnamese": "CẠNH TẨU",
     "example": "運動会の花形種目である学級対抗リレーで、クラスの代表選手たちが全力で競走した。 (Tại phần thi chạy tiếp sức sôi nổi nhất của hội thao, các vận động viên đại diện lớp đã dốc sức chạy đua.)"
   },
   {
     "word": "サーカス",
-    "meaning": "rạp xiếc",
+    "meaning": "rạp xiếc, xiếc",
     "reading": "サーカス",
     "sinoVietnamese": "",
-    "example": "使いやすいサーカスのおかげで、毎日の生活がとても快適になりました。 (Circus dễ sử dụng đã giúp cuộc sống hàng ngày của tôi dễ dàng hơn nhiều.)"
+    "example": "休日に子どもたちを連れて賑やかなサーカスを見に行きました。(Vào ngày nghỉ tôi dẫn các con đi xem biểu diễn rạp xiếc sôi động.)"
   },
   {
     "word": "芸",
-    "meaning": "diễn xuất, tiết mục, tài năng",
+    "meaning": "tiết mục, tài nghệ, diễn xuất",
     "reading": "げい",
-    "sinoVietnamese": "",
-    "example": "レストランで人気の芸を注文して味わいました。 (Chúng tôi gọi món và thưởng thức những chiêu trò phổ biến ở nhà hàng.)"
+    "sinoVietnamese": "NGHỆ",
+    "example": "水族館のイルカが見事な芸を披露して観客を沸かせました。(Chú cá heo ở thủy cung đã biểu diễn tiết mục tài nghệ xuất sắc khiến khán giả thích thú.)"
   },
   {
     "word": "姿",
     "meaning": "bóng dáng, vóc dáng, diện mạo",
     "reading": "すがた",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TƯ",
     "example": "遠くの改札口に向かって歩いていく友人の後ろ姿を、見えなくなるまでずっと見送った。 (Tôi dõi mắt nhìn theo bóng dáng người bạn bước về phía cửa soát vé xa xa cho đến khi khuất hẳn.)"
   },
   {

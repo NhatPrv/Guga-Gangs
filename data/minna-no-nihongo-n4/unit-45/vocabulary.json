@@ -24,7 +24,7 @@
     "word": "用意します",
     "meaning": "chuẩn bị sẵn sàng (đồ đạc, dụng cụ)",
     "reading": "よういします",
-    "sinoVietnamese": "Ý",
+    "sinoVietnamese": "DỤNG Ý",
     "example": "明日の大事な面接に向けて、履歴書とスーツを前もって用意しました。 (Chuẩn bị cho buổi phỏng vấn quan trọng ngày mai, tôi soạn sẵn sơ yếu lý lịch và âu phục.)"
   },
   {
@@ -38,28 +38,28 @@
     "word": "保証書",
     "meaning": "phiếu bảo hành sản phẩm",
     "reading": "ほしょうしょ",
-    "sinoVietnamese": "THƯ",
+    "sinoVietnamese": "BẢO CHỨNG THƯ",
     "example": "故障したときのために、購入時の領収書と製品の保証書を大切に保管しています。 (Để phòng khi hỏng hóc, tôi cất giữ cẩn thận hóa đơn mua hàng và phiếu bảo hành.)"
   },
   {
     "word": "領収書",
     "meaning": "hóa đơn thanh toán, biên lai",
     "reading": "りょうしゅうしょ",
-    "sinoVietnamese": "THƯ",
+    "sinoVietnamese": "LÃNH THU THƯ",
     "example": "経費精算をするために、タクシーを降りる際に領収書を受け取りました。 (Để thanh toán công tác phí, lúc xuống taxi tôi đã lấy hóa đơn biên lai.)"
   },
   {
     "word": "贈り物",
     "meaning": "món quà tặng, quà biếu tri ân",
     "reading": "おくりもの（をします）",
-    "sinoVietnamese": "VẬT",
+    "sinoVietnamese": "TẶNG VẬT",
     "example": "長年お世話になった恩師への贈り物として、高級な万年筆を選んで包んでもらった。 (Làm quà biếu tri ân người thầy dạy dỗ bao năm, tôi đã chọn chiếc bút máy cao cấp bọc hộp trang trọng.)"
   },
   {
     "word": "間違い電話",
     "meaning": "cuộc gọi nhầm số (điện thoại gọi nhầm)",
     "reading": "まちがいでんわ",
-    "sinoVietnamese": "GIAN ĐIỆN THOẠI",
+    "sinoVietnamese": "GIAN VI ĐIỆN THOẠI",
     "example": "深夜にベルが鳴って受話器を取ったら、全く知らない人からの間違い電話だった。 (Nửa đêm chuông reo nhấc máy lên nghe, hóa ra lại là một cuộc gọi nhầm số từ người lạ hoắc.)"
   },
   {
@@ -71,10 +71,10 @@
   },
   {
     "word": "係",
-    "meaning": "nhân viên, người phụ trách",
+    "meaning": "nhân viên phụ trách, người phụ trách",
     "reading": "かかり",
-    "sinoVietnamese": "",
-    "example": "専門的な知識を持った係に相談することをおすすめします。 (Chúng tôi khuyên bạn nên tham khảo ý kiến ​​của người có kiến ​​thức chuyên môn.)"
+    "sinoVietnamese": "HỆ",
+    "example": "受付の係の人に案内してもらいました。(Tôi đã được nhân viên phụ trách ở bàn tiếp tân hướng dẫn tận tình.)"
   },
   {
     "word": "中止",
@@ -85,10 +85,10 @@
   },
   {
     "word": "点",
-    "meaning": "điểm",
+    "meaning": "điểm số; điểm (vấn đề)",
     "reading": "てん",
-    "sinoVietnamese": "",
-    "example": "使いやすい点のおかげで、毎日の生活がとても快適になりました。 (Nhờ tính dễ sử dụng, nó đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
+    "sinoVietnamese": "ĐIỂM",
+    "example": "一生懸命勉強して、テストで満点の百点を取りました。(Chăm chỉ học tập, tôi đã đạt được điểm số tối đa 100 điểm trong bài thi.)"
   },
   {
     "word": "レバー",
@@ -101,7 +101,7 @@
     "word": "～円札",
     "meaning": "tờ tiền giấy mệnh giá ～ yên (千円札, 一万円札)",
     "reading": "[えん」さつ",
-    "sinoVietnamese": "VIÊN",
+    "sinoVietnamese": "VIÊN TRÁT",
     "example": "自動券売機に一万円札を投入して、Suicaに五千円分チャージした。 (Đút tờ tiền giấy một vạn yên vào máy bán vé tự động, tôi nạp 5.000 yên vào thẻ Suica.)"
   },
   {
@@ -136,42 +136,42 @@
     "word": "係員",
     "meaning": "nhân viên phụ trách, người trực ban",
     "reading": "かかりいん",
-    "sinoVietnamese": "VIÊN",
+    "sinoVietnamese": "HỆ VIÊN",
     "example": "チケットの購入方法が分からなかったので、窓口の係員に親切に教えてもらった。 (Không biết cách mua vé trên máy, tôi đã được anh nhân viên trực quầy hướng dẫn rất tận tình.)"
   },
   {
     "word": "コース",
-    "meaning": "lộ trình, cung đường chạy (đã sửa lỗi chính tả từ ロース)",
+    "meaning": "lộ trình, cung đường chạy",
     "reading": "コース",
     "sinoVietnamese": "",
     "example": "マラソン大会のランナーたちは、海岸線沿いの風光明媚なコースを一斉に駆け抜けた。 (Các vận động viên chạy marathon cùng nhau sải bước trên cung đường tuyệt đẹp men theo bờ biển.)"
   },
   {
     "word": "スタート",
-    "meaning": "xuất phát, vạch bắt đầu (start, đã sửa nghĩa sai từ ngôi sao)",
+    "meaning": "xuất phát, vạch bắt đầu (vạch xuất phát)",
     "reading": "スタート",
     "sinoVietnamese": "",
     "example": "ピストルの合図と同時に、選手たちが勢いよくスタートラインから飛び出した。 (Đúng lúc tiếng súng hiệu vang lên, các tuyển thủ bứt phá lao nhanh khỏi vạch xuất phát.)"
   },
   {
     "word": "優勝します",
-    "meaning": "đoạt chức vô địch, giành giải quán quân (đã sửa nghĩa từ đầu tiên)",
+    "meaning": "đoạt chức vô địch, giành giải quán quân",
     "reading": "ゆうしょうします",
-    "sinoVietnamese": "THẮNG",
+    "sinoVietnamese": "ƯU THẮNG",
     "example": "厳しい日々の猛練習を乗り越えて、全国高校野球大会で見事に優勝を飾った。 (Vượt qua chuỗi ngày khổ luyện khắc nghiệt, đội tuyển đã xuất sắc giành chức vô địch giải bóng chày.)"
   },
   {
     "word": "悩み",
     "meaning": "những điều lo lắng, trăn trở, phiền muộn",
     "reading": "なやみ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NÃO",
     "example": "一人で深い悩みを抱え込まずに、信頼できる友達に相談してください。(Đừng ôm nỗi muộn phiền một mình, hãy tâm sự với người bạn đáng tin cậy nhé.)"
   },
   {
     "word": "目覚まし「時計」",
     "meaning": "đồng hồ báo thức",
     "reading": "めざまし「とけい」",
-    "sinoVietnamese": "MỤC THỜI",
+    "sinoVietnamese": "MỤC GIÁC THỜI KẾ",
     "example": "使いやすい目覚ましのおかげで、毎日の生活がとても快適になりました。 (Nhờ chiếc đồng hồ báo thức dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
   },
   {
@@ -185,7 +185,7 @@
     "word": "回答",
     "meaning": "câu trả lời, lời giải đáp thắc mắc",
     "reading": "かいとう",
-    "sinoVietnamese": "TIỆN ĐÁP",
+    "sinoVietnamese": "HỒI ĐÁP",
     "example": "お客様相談室へ問い合わせた内容について、専門の担当部署から詳細な回答を受け取った。 (Về nội dung thắc mắc gửi phòng chăm sóc khách hàng, tôi đã nhận được câu trả lời chi tiết.)"
   },
   {
@@ -197,9 +197,9 @@
   },
   {
     "word": "それでも",
-    "meaning": "tuy nhiên",
+    "meaning": "dù vậy, tuy nhiên",
     "reading": "それでも",
     "sinoVietnamese": "",
-    "example": "使いやすいそれでものおかげで、毎日の生活がとても快適になりました。 (Nhờ tính dễ sử dụng, nó đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
+    "example": "外は大雨でしたが、それでも彼らは出かけていきました。(Bên ngoài trời mưa to, dù vậy họ vẫn quyết định ra ngoài.)"
   }
 ]

@@ -73,14 +73,14 @@
     "word": "昼間",
     "meaning": "ban ngày",
     "reading": "ひるま",
-    "sinoVietnamese": "GIAN",
+    "sinoVietnamese": "TRÚ GIAN",
     "example": "昼間は日差しが暖かくて過ごしやすい季節になりました。 (Đã sang mùa ban ngày có nắng ấm áp rất dễ chịu.)"
   },
   {
     "word": "昔",
     "meaning": "ngày xưa, thời xưa",
     "reading": "むかし",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TÍCH",
     "example": "祖父から昔の日本の暮らしについて面白い話を聞きました。 (Tôi được nghe ông kể những câu chuyện thú vị về cuộc sống thời xưa ở Nhật.)"
   },
   {
@@ -94,14 +94,14 @@
     "word": "自動販売機",
     "meaning": "máy bán hàng tự động",
     "reading": "じどうはんばいき",
-    "sinoVietnamese": "TỰ ĐỘNG MẠI KI",
+    "sinoVietnamese": "TỰ ĐỘNG PHIẾN MẠI CƠ",
     "example": "駅のホームにある自動販売機でお茶を買いました。 (Tôi đã mua chai trà ở máy bán hàng tự động trên sân ga.)"
   },
   {
     "word": "通信販売",
     "meaning": "mua sắm qua mạng, đặt hàng từ xa",
     "reading": "つうしんはんばい",
-    "sinoVietnamese": "THÔNG TÍN MẠI",
+    "sinoVietnamese": "THÔNG TÍN PHIẾN MẠI",
     "example": "通信販売を利用すれば、重い荷物も家まで届けてもらえます。 (Sử dụng mua hàng qua mạng thì đồ nặng cũng được giao tận nhà.)"
   },
   {
@@ -157,21 +157,21 @@
     "word": "秋葉原",
     "meaning": "khu phố điện tử Akihabara",
     "reading": "あきはばら",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THU DIỆP NGUYÊN",
     "example": "最新のパソコンやアニメグッズを買いに秋葉原へ行きました。 (Tôi đến Akihabara để mua linh kiện máy tính mới nhất và đồ lưu niệm anime.)"
   },
   {
     "word": "伊豆",
     "meaning": "bán đảo Izu (nổi tiếng về suối nước nóng)",
     "reading": "いず",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "Y ĐẬU",
     "example": "週末に伊豆の温泉旅館でゆっくり日頃の疲れを癒やしました。 (Cuối tuần tôi thư giãn xua tan mệt mỏi tại quán trọ suối nước nóng ở Izu.)"
   },
   {
     "word": "日曜日大工",
     "meaning": "việc tự sửa chữa đồ gỗ vào ngày nghỉ (DIY)",
     "reading": "にちようだいく",
-    "sinoVietnamese": "NHẬT NHẬT ĐẠI",
+    "sinoVietnamese": "NHẬT DIỆU NHẬT ĐẠI CÔNG",
     "example": "父は日曜大工が得意で、庭に手作りのベンチを作りました。 (Bố tôi rất khéo tay làm mộc ngày nghỉ, ông đã tự đóng một chiếc ghế gỗ trong vườn.)"
   },
   {
@@ -185,15 +185,15 @@
     "word": "夢",
     "meaning": "ước mơ, giấc mơ",
     "reading": "ゆめ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MỘNG",
     "example": "日本語の通訳者になるという夢に向かって毎日努力しています。 (Tôi đang nỗ lực mỗi ngày hướng tới ước mơ trở thành thông dịch viên tiếng Nhật.)"
   },
   {
-    "word": "開きます素晴らしい",
-    "meaning": "mở rộng, khai mạc (tuyệt vời)",
+    "word": "開きます",
+    "meaning": "mở (lớp học), tổ chức, khai mạc",
     "reading": "ひらきます",
-    "sinoVietnamese": "KHAI TÌNH",
-    "example": "盛大に開かれた素晴らしい文化祭に多くの人が訪れました。 (Rất nhiều người đã đến tham dự ngày hội văn hóa tuyệt vời được tổ chức hoành tráng.)"
+    "sinoVietnamese": "KHAI",
+    "example": "来月から駅前で新しい日本語教室が開かれます。(Từ tháng sau một lớp học tiếng Nhật mới sẽ được mở ra ở trước nhà ga.)"
   },
   {
     "word": "子どもたち",
@@ -206,35 +206,35 @@
     "word": "漫画",
     "meaning": "truyện tranh Manga",
     "reading": "まんが",
-    "sinoVietnamese": "HỌA",
+    "sinoVietnamese": "MẠN HỌA",
     "example": "日本語の勉強のために、ふりがな付きの漫画を読んでいます。 (Để học tiếng Nhật, tôi thường đọc truyện tranh có kèm chữ furigana.)"
   },
   {
     "word": "主人公",
     "meaning": "nhân vật chính",
     "reading": "しゅじんこう",
-    "sinoVietnamese": "NHÂN CÔNG",
+    "sinoVietnamese": "CHỦ NHÂN CÔNG",
     "example": "この小説の主人公は逆境に負けずに前向きに生きる青年です。 (Nhân vật chính của cuốn tiểu thuyết này là chàng trai luôn kiên cường trước nghịch cảnh.)"
   },
   {
     "word": "形",
     "meaning": "hình dáng, hình thù",
     "reading": "かたち",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HÌNH",
     "example": "夜空に浮かぶ雲がまるでハートの形のように見えます。 (Đám mây lơ lửng trên bầu trời đêm trông hệt như hình trái tim vậy.)"
   },
   {
     "word": "不思議な",
     "meaning": "kỳ lạ, huyền bí, kỳ diệu",
     "reading": "ふしぎな",
-    "sinoVietnamese": "BẤT TƯ",
+    "sinoVietnamese": "BẤT TƯ NGHỊ",
     "example": "森の中で見たこともない不思議な植物を見つけました。 (Tôi đã bắt gặp một loài thực vật kỳ lạ chưa từng thấy bao giờ trong rừng.)"
   },
   {
     "word": "例えば",
     "meaning": "ví dụ như...",
     "reading": "たとえば",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LỆ",
     "example": "例えば、困ったときはすぐに周りの人に相談しましょう。 (Ví dụ như khi gặp khó khăn, hãy trao đổi ngay với những người xung quanh nhé.)"
   },
   {
@@ -248,21 +248,21 @@
     "word": "自由に",
     "meaning": "tự do, một cách thoải mái",
     "reading": "じゆうに",
-    "sinoVietnamese": "TỰ",
+    "sinoVietnamese": "TỰ DO",
     "example": "どうぞご自由に温かいお茶をお召し上がりください。 (Xin mời quý khách tự do dùng trà nóng thoải mái ạ.)"
   },
   {
     "word": "飛びます",
     "meaning": "bay (chim chóc, máy bay)",
     "reading": "とびます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "PHI",
     "example": "青空高くカモメが気持ちよさそうに飛んでいます。 (Đàn hải âu đang bay lượn thật êm ả trên nền trời xanh biếc.)"
   },
   {
     "word": "将来",
     "meaning": "tương lai",
     "reading": "しょうらい",
-    "sinoVietnamese": "LAI",
+    "sinoVietnamese": "TƯỚNG LAI",
     "example": "将来のために今できる勉強を一生懸命頑張っています。 (Vì tương lai, tôi đang dốc sức học tập thật tốt những gì có thể ở hiện tại.)"
   },
   {

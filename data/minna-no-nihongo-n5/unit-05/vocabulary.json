@@ -52,14 +52,14 @@
     "word": "飛行機",
     "meaning": "máy bay",
     "reading": "ひこうき",
-    "sinoVietnamese": "HÀNH KI",
+    "sinoVietnamese": "PHI HÀNH CƠ",
     "example": "飛行機に乗って北海道へ旅行に行きます。 (Tôi sẽ lên máy bay và đi du lịch đến Hokkaido.)"
   },
   {
     "word": "船",
     "meaning": "thuyền và tàu",
     "reading": "ふね",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THUYỀN",
     "example": "船に乗って瀬戸内海の島へ渡りました。 (Chúng tôi đi thuyền đến một hòn đảo ở Biển nội địa Seto.)"
   },
   {
@@ -73,15 +73,15 @@
     "word": "地下鉄",
     "meaning": "tàu điện ngầm",
     "reading": "ちかてつ",
-    "sinoVietnamese": "ĐỊA HẠ",
+    "sinoVietnamese": "ĐỊA HẠ THIẾT",
     "example": "地下鉄に乗れば渋滞せずに早く着きます。 (Nếu bạn đi tàu điện ngầm, bạn sẽ đến đó nhanh chóng mà không bị kẹt xe.)"
   },
   {
     "word": "新幹線",
-    "meaning": "tiếng Nhật",
+    "meaning": "tàu siêu tốc Shinkansen",
     "reading": "しんかんせん",
-    "sinoVietnamese": "TÂN TUYẾN",
-    "example": "新幹線は速くてとても快適です。 (Shinkansen nhanh và rất thoải mái.)"
+    "sinoVietnamese": "TÂN CÁN TUYẾN",
+    "example": "東京から新幹線に乗って京都へ向かいました。(Tôi lên tàu siêu tốc Shinkansen từ Tokyo để đi đến Kyoto.)"
   },
   {
     "word": "バス",
@@ -113,58 +113,58 @@
   },
   {
     "word": "人",
-    "meaning": "mọi người",
+    "meaning": "con người, nhân vật",
     "reading": "ひと",
     "sinoVietnamese": "NHÂN",
-    "example": "駅前にはたくさんの人が集まっています。 (Nhiều người tập trung trước nhà ga.)"
+    "example": "駅前の広場にたくさんの人が集まっています。(Ở quảng trường trước nhà ga có rất đông con người tụ tập.)"
   },
   {
     "word": "友達",
     "meaning": "bạn, anh, chị",
     "reading": "ともだち",
-    "sinoVietnamese": "HỮU",
+    "sinoVietnamese": "HỮU ĐẠT",
     "example": "休日は仲のいい友達とカフェでおしゃべりします。 (Vào những ngày nghỉ, tôi trò chuyện với những người bạn tốt ở quán cà phê.)"
   },
   {
     "word": "彼",
-    "meaning": "bạn bè",
+    "meaning": "anh ấy, bạn trai; người ấy",
     "reading": "かれ",
-    "sinoVietnamese": "",
-    "example": "彼は優しくて頼りになる人です。 (Anh ấy là một người tốt bụng và đáng tin cậy.)"
+    "sinoVietnamese": "BỈ",
+    "example": "彼はいつも親切で頼りになる友達です。(Anh ấy luôn là một người bạn tốt bụng và đáng tin cậy.)"
   },
   {
     "word": "彼女",
     "meaning": "cô ấy, bạn gái",
     "reading": "かのじょ",
-    "sinoVietnamese": "NỮ",
+    "sinoVietnamese": "BỈ NỮ",
     "example": "彼女は歌がとても上手です。 (Cô ấy hát rất hay.)"
   },
   {
     "word": "家族",
     "meaning": "gia đình",
     "reading": "かぞく",
-    "sinoVietnamese": "TỘC",
+    "sinoVietnamese": "GIA TỘC",
     "example": "家族みんなで旅行に行くのが楽しみです。 (Tôi rất mong được đi du lịch cùng gia đình.)"
   },
   {
     "word": "先週",
     "meaning": "tuần trước",
     "reading": "せんしゅう",
-    "sinoVietnamese": "TIÊN",
+    "sinoVietnamese": "TIÊN CHU",
     "example": "先週の日曜日に新しい靴を買いました。 (Tôi đã mua đôi giày mới vào Chủ nhật tuần trước.)"
   },
   {
     "word": "今週",
     "meaning": "tuần này",
     "reading": "こんしゅう",
-    "sinoVietnamese": "KIM",
+    "sinoVietnamese": "KIM CHU",
     "example": "今週は予定がたくさんあって忙しいです。 (Tuần này tôi có rất nhiều kế hoạch và đang bận.)"
   },
   {
     "word": "来週",
     "meaning": "tuần sau",
     "reading": "らいしゅう",
-    "sinoVietnamese": "LAI",
+    "sinoVietnamese": "LAI CHU",
     "example": "来週から新しいプロジェクトが始まります。 (Một dự án mới sẽ bắt đầu vào tuần tới.)"
   },
   {
@@ -192,7 +192,7 @@
     "word": "去年",
     "meaning": "năm ngoái",
     "reading": "きょねん",
-    "sinoVietnamese": "NIÊN",
+    "sinoVietnamese": "KHỨ NIÊN",
     "example": "去年日本に来て、日本語の勉強を始めました。 (Tôi đến Nhật Bản vào năm ngoái và bắt đầu học tiếng Nhật.)"
   },
   {
@@ -204,10 +204,10 @@
   },
   {
     "word": "来年",
-    "meaning": "năm sau",
+    "meaning": "năm sau, sang năm",
     "reading": "らいねん",
     "sinoVietnamese": "LAI NIÊN",
-    "example": "来年の春に大学を卒業する予定です。 (Tôi dự định sẽ tốt nghiệp đại học vào mùa xuân tới.)"
+    "example": "来年の春に大学を卒業する予定です。(Tôi dự định sẽ tốt nghiệp đại học vào mùa xuân năm sau.)"
   },
   {
     "word": "―月",
@@ -339,14 +339,14 @@
     "word": "誕生日",
     "meaning": "sinh nhật, ngày sinh",
     "reading": "たんじょうび",
-    "sinoVietnamese": "SINH NHẬT",
+    "sinoVietnamese": "ĐẢN SINH NHẬT",
     "example": "友達の誕生日にプレゼントを贈りました。 (Tôi đã tặng một món quà cho bạn tôi nhân dịp sinh nhật cô ấy.)"
   },
   {
     "word": "普通",
     "meaning": "thông thường, tàu chợ",
     "reading": "ふつう",
-    "sinoVietnamese": "THÔNG",
+    "sinoVietnamese": "PHỔ THÔNG",
     "example": "普通列車に乗ってのんびり旅をします。 (Thực hiện một hành trình nhàn nhã trên một chuyến tàu địa phương.)"
   },
   {
@@ -367,7 +367,7 @@
     "word": "次の",
     "meaning": "tiếp theo, kế tiếp",
     "reading": "つぎの",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THỨ",
     "example": "次の信号を右に曲がってください。 (Rẽ phải ở đèn giao thông tiếp theo.)"
   },
   {

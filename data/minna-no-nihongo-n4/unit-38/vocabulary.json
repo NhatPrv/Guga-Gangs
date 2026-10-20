@@ -10,7 +10,7 @@
     "word": "亡くなります",
     "meaning": "mất đi, qua đời (người thân qua đời)",
     "reading": "なくなります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "VONG",
     "example": "長年地域医療に貢献した優しい町医者の先生が亡くなりました。 (Bác sĩ tận tụy cống hiến bao năm cho y tế địa phương đã qua đời.)"
   },
   {
@@ -24,7 +24,7 @@
     "word": "退院します",
     "meaning": "xuất viện (khỏi bệnh về nhà)",
     "reading": "たいいんします",
-    "sinoVietnamese": "VIỆN",
+    "sinoVietnamese": "THOÁI VIỆN",
     "example": "手術が無事に成功して、おかげさまで昨日無事に退院しました。 (Ca phẫu thuật thành công mỹ mãn, nhờ ơn trời hôm qua tôi đã xuất viện bình an.)"
   },
   {
@@ -87,7 +87,7 @@
     "word": "海岸",
     "meaning": "bờ biển, dải bờ biển",
     "reading": "かいがん",
-    "sinoVietnamese": "HẢI",
+    "sinoVietnamese": "HẢI NGẠN",
     "example": "夕暮れ時に波の音を聞きながら美しい海岸を散歩しました。 (Lúc hoàng hôn buông xuống, tôi đi dạo dọc bờ biển tuyệt đẹp nghe tiếng sóng vỗ.)"
   },
   {
@@ -101,14 +101,14 @@
     "word": "電源",
     "meaning": "nguồn điện (công tắc nguồn)",
     "reading": "でんげん",
-    "sinoVietnamese": "ĐIỆN",
+    "sinoVietnamese": "ĐIỆN NGUYÊN",
     "example": "落雷の恐れがあるときは、家電製品の主電源を切っておきましょう。 (Khi có nguy cơ sấm sét đánh, chúng ta hãy ngắt nguồn điện chính của đồ gia dụng.)"
   },
   {
     "word": "～製",
     "meaning": "sản xuất tại ～, chế tạo bằng chất liệu ～ (日本製, ドイツ製)",
     "reading": "―せい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CHẾ",
     "example": "日本の熟練職人が一つずつ丁寧に仕上げた革靴は、耐久性に優れた日本製です。 (Đôi giày da do các nghệ nhân lành nghề Nhật Bản tỉ mỉ hoàn thiện là sản phẩm chất lượng cao sản xuất tại Nhật.)"
   },
   {
@@ -129,7 +129,7 @@
     "word": "回覧",
     "meaning": "tờ thông báo luân chuyển (khu dân cư)",
     "reading": "かいらん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HỒI LÃM",
     "example": "町内会の清掃活動に関する回覧板にサインをして隣の家に回しました。 (Tôi ký tên vào bản tin cư dân về buổi dọn vệ sinh rồi chuyển sang nhà bên cạnh.)"
   },
   {
@@ -150,7 +150,7 @@
     "word": "整理します。",
     "meaning": "sắp xếp, chỉnh đốn (tài liệu, đồ đạc)",
     "reading": "せいりします",
-    "sinoVietnamese": "LÝ",
+    "sinoVietnamese": "CHỈNH LÝ",
     "example": "週末に机の上の古い書類や領収書をきれいに整理しました。 (Vào cuối tuần, tôi đã dọn dẹp và sắp xếp lại giấy tờ cũ trên bàn làm việc.)"
   },
   {
@@ -164,7 +164,7 @@
     "word": "双子",
     "meaning": "cặp song sinh, anh/chị em sinh đôi",
     "reading": "ふたご",
-    "sinoVietnamese": "TỬ",
+    "sinoVietnamese": "SONG TỬ",
     "example": "うちのクラスに顔も声もそっくりな双子の姉妹がいます。 (Lớp tôi có hai chị em sinh đôi giống nhau như đúc cả khuôn mặt lẫn giọng nói.)"
   },
   {
@@ -192,7 +192,7 @@
     "word": "性格",
     "meaning": "tính cách, phẩm chất",
     "reading": "せいかく",
-    "sinoVietnamese": "CÁCH",
+    "sinoVietnamese": "TÍNH CÁCH",
     "example": "彼女は明るく前向きな性格で、誰からも好かれています。 (Cô ấy có tính cách vui vẻ lạc quan nên ai ai cũng quý mến.)"
   },
   {
@@ -234,7 +234,7 @@
     "word": "不思議（な）",
     "meaning": "kỳ lạ, huyền bí, khó tin",
     "reading": "ふしぎ「な」",
-    "sinoVietnamese": "BẤT TƯ",
+    "sinoVietnamese": "BẤT TƯ NGHỊ",
     "example": "手品師が一瞬でコインを消してしまう不思議な技に驚きました。 (Tôi ngạc nhiên trước kỹ thuật ảo thuật kỳ diệu biến mất đồng xu trong chớp mắt.)"
   }
 ]

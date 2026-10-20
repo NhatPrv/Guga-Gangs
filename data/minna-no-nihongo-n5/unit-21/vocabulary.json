@@ -38,7 +38,7 @@
     "word": "役に立ちます",
     "meaning": "có ích, giúp ích (hữu dụng trong đời sống)",
     "reading": "やくにたちます",
-    "sinoVietnamese": "LẬP",
+    "sinoVietnamese": "DỊCH LẬP",
     "example": "学生時代に培ったパソコンのスキルが、現在の職場で大いに役に立っています。 (Kỹ năng tin học tích lũy thời sinh viên đang giúp ích rất nhiều cho công việc hiện tại.)"
   },
   {
@@ -57,37 +57,37 @@
   },
   {
     "word": "同じ",
-    "meaning": "thích",
+    "meaning": "giống nhau, tương đồng, cùng",
     "reading": "おなじ",
     "sinoVietnamese": "ĐỒNG",
-    "example": "新しい同じを手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một cái mới và hiệu quả công việc của tôi đã được cải thiện rất nhiều.)"
+    "example": "彼と私は同じ大学のクラスで勉強しています。(Anh ấy và tôi cùng học chung một lớp ở trường đại học.)"
   },
   {
     "word": "すごい",
-    "meaning": "tuyệt vời, ghê gớm, cừ khôi (khen ngợi)",
+    "meaning": "tuyệt vời, siêu phàm, ghê gớm",
     "reading": "すごい",
     "sinoVietnamese": "",
-    "example": "彼はわずか半年で難関の日本語能力試験N1に合格したなんて、本当にすごいです。 (Anh ấy chỉ mất vỏn vẹn nửa năm để đỗ kỳ thi JLPT N1 khó nhằn, thực sự quá đỉnh.)"
+    "example": "独学で日本語能力試験の一級に合格するなんて本当にすごいです。(Tự học mà đỗ chứng chỉ N1 tiếng Nhật thì thực sự quá là tuyệt vời.)"
   },
   {
     "word": "首相",
     "meaning": "thủ tướng chính phủ",
     "reading": "しゅしょう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THỦ TƯƠNG",
     "example": "内外の重要課題について説明するため、首相が国会で所信表明演説を行った。 (Để giải trình về các vấn đề trọng đại trong và ngoài nước, thủ tướng đã đọc diễn văn tại quốc hội.)"
   },
   {
     "word": "大統領",
     "meaning": "tổng thống",
     "reading": "だいとうりょう",
-    "sinoVietnamese": "ĐẠI",
-    "example": "新しい大統領を手に入れて、仕事の効率がぐんと上がりました。 (Bây giờ chúng tôi có chủ tịch mới, hiệu quả công việc của chúng tôi đã được cải thiện đáng kể.)"
+    "sinoVietnamese": "ĐẠI THỐNG LÃNH",
+    "example": "ニュースで新しく就任した大統領の演説を見ました。(Tôi đã xem bài diễn văn của vị tân tổng thống trên bản tin truyền hình.)"
   },
   {
     "word": "政治",
     "meaning": "chính trị, nền chính trị quốc gia",
     "reading": "せいじ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CHÍNH TRỊ",
     "example": "若い世代も無関心にならず、国の将来を決める政治に積極的に関心を持つべきだ。 (Thế hệ trẻ cũng không nên thờ ơ mà cần tích cực quan tâm đến nền chính trị định đoạt tương lai đất nước.)"
   },
   {
@@ -137,7 +137,7 @@
     "meaning": "khiếu hài hước, tính khôi hài",
     "reading": "ユーモア",
     "sinoVietnamese": "",
-    "example": "課長はいつもユーモアを交えて話してくれるので、職場の雰囲気が明るくなります。 (Trưởng phòng nói chuyện lúc nào cũng pha chút hóm hỉnh nên không khí nơi làm việc rất vui vẻ.)"
+    "example": "先生はいつもユーモアを交えて楽しく教えてくれます。(Thầy giáo lúc nào cũng giảng dạy vui vẻ với khiếu hài hước hóm hỉnh.)"
   },
   {
     "word": "デザイン",
@@ -155,16 +155,16 @@
   },
   {
     "word": "ラッシュ",
-    "meaning": "đỉnh cao",
+    "meaning": "giờ cao điểm (giao thông đông đúc)",
     "reading": "ラッシュ",
     "sinoVietnamese": "",
-    "example": "使いやすいラッシュのおかげで、毎日の生活がとても快適になりました。 (Nhờ Lush dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+    "example": "朝の通勤ラッシュの満員電車に乗るのは本当に大変です。(Đi chuyến tàu điện chật ních người vào giờ cao điểm sáng sớm thực sự rất vất vả.)"
   },
   {
     "word": "最近",
     "meaning": "dạo gần đây, thời gian gần đây",
     "reading": "さいきん",
-    "sinoVietnamese": "CẬN",
+    "sinoVietnamese": "TỐI CẬN",
     "example": "最近は気温の寒暖差が激しいので、体調管理に十分気をつけて過ごしています。 (Dạo gần đây nhiệt độ chênh lệch nóng lạnh thất thường nên tôi rất chú ý giữ gìn sức khỏe.)"
   },
   {
@@ -185,7 +185,7 @@
     "word": "本当に",
     "meaning": "thực sự, quả thật là (nhấn mạnh sự thật)",
     "reading": "ほんとうに",
-    "sinoVietnamese": "BẢN",
+    "sinoVietnamese": "BẢN ĐƯƠNG",
     "example": "困っていたときに親身になって助けていただき、本当にありがとうございました。 (Lúc gặp khó khăn được bạn hết lòng giúp đỡ, tôi thực sự cảm ơn bạn rất nhiều.)"
   },
   {
@@ -204,10 +204,10 @@
   },
   {
     "word": "しかたがありません",
-    "meaning": "ở đây",
+    "meaning": "không còn cách nào khác, đành chịu thôi",
     "reading": "しかたがありません",
     "sinoVietnamese": "",
-    "example": "新しいしかたがありませんを手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã có được một phương pháp mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+    "example": "台風で電車が止まってしまったので、家に帰るしかたがありません。(Vì bão làm tàu điện dừng chạy nên không còn cách nào khác đành ở nhà.)"
   },
   {
     "word": "しばらくですね",
@@ -224,11 +224,11 @@
     "example": "仕事が一区切りついたので、駅前のカフェで温かいコーヒーでも飲みませんか。 (Công việc xong xuôi một chặng rồi, mình ra quán cà phê trước ga uống chút cà phê nóng nhé?)"
   },
   {
-    "word": "見ないと。。。",
+    "word": "見ないと…",
     "meaning": "phải xem mới được...",
-    "reading": "みないと。。。",
+    "reading": "みないと",
     "sinoVietnamese": "KIẾN",
-    "example": "見ないとの窓から見える景色がとても素晴らしいです。 (Khung cảnh nhìn từ cửa sổ thật tuyệt vời.)"
+    "example": "話題の新作映画だから、早く映画館へ見に行かないと…。(Vì là bộ phim mới đang gây sốt, nên phải đi xem sớm mới được...)"
   },
   {
     "word": "もちろん",

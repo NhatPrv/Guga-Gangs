@@ -49,10 +49,10 @@
     "example": "指定されたコインパーキングに車をバックできちんと止めました。 (Tôi lùi xe đỗ cẩn thận và ngay ngắn vào bãi đỗ xe trả tiền tự động quy định.)"
   },
   {
-    "word": "曲がります [右へ～]",
-    "meaning": "rẽ (sang phải/trái)",
+    "word": "曲がります",
+    "meaning": "rẽ, quẹo (sang phải: 右へ～)",
     "reading": "まがります",
-    "sinoVietnamese": "HỮU",
+    "sinoVietnamese": "KHÚC",
     "example": "次の大きな交差点を右へ曲がると、左手に郵便局が見えてきます。 (Rẽ phải ở ngã tư lớn tiếp theo là bạn sẽ thấy bưu điện nằm ở phía tay trái.)"
   },
   {
@@ -66,21 +66,21 @@
     "word": "取ります",
     "meaning": "lấy giúp (muối, tài liệu: 塩を取る)",
     "reading": "とります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THỦ",
     "example": "すみませんが、そこのテーブルの上にある塩を取っていただけませんか。 (Xin lỗi bạn lấy giùm tôi lọ muối ở trên chiếc bàn kia với được không ạ?)"
   },
   {
     "word": "手伝います",
     "meaning": "giúp đỡ, phụ giúp (công việc, dọn dẹp)",
     "reading": "てつだいます",
-    "sinoVietnamese": "THỦ",
+    "sinoVietnamese": "THỦ TRUYỀN",
     "example": "週末に引越しをする同僚の荷造りをみんなで手伝いました。 (Chúng tôi cùng xắn tay giúp người đồng nghiệp đóng gói đồ đạc chuyển nhà cuối tuần.)"
   },
   {
     "word": "呼びます",
     "meaning": "gọi (taxi: タクシーを呼ぶ / gọi tên)",
     "reading": "よびます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HÔ",
     "example": "雨が激しく降ってきたので、スマホの配車アプリでタクシーを呼びました。 (Trời đổ mưa to dữ dội nên tôi dùng ứng dụng gọi taxi trên điện thoại để bắt xe.)"
   },
   {
@@ -115,7 +115,7 @@
     "word": "降ります",
     "meaning": "rơi [mưa, tuyết: 雨/雪が降る]",
     "reading": "ふります I",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIÁNG",
     "example": "午後から冷たい雨がポツポツと降り始めました。 (Từ buổi chiều những hạt mưa lạnh bắt đầu rơi lác đác.)"
   },
   {
@@ -141,10 +141,10 @@
   },
   {
     "word": "名前",
-    "meaning": "tên",
+    "meaning": "tên, họ tên",
     "reading": "なまえ",
     "sinoVietnamese": "DANH TIỀN",
-    "example": "昨日の名前は久しぶりにゆっくり家で休むことができました。 (Hôm qua tôi đã có thể nghỉ ngơi ở nhà lần đầu tiên sau một thời gian dài.)"
+    "example": "用紙の指定された場所にカタカナで名前を書いてください。(Xin hãy viết họ tên bằng chữ Katakana vào vị trí quy định trên tờ giấy.)"
   },
   {
     "word": "住所",
@@ -164,21 +164,21 @@
     "word": "塩",
     "meaning": "muối ăn (gia vị)",
     "reading": "しお",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DIÊM",
     "example": "スープの味が少し薄かったので、塩を少々振って味を調えました。 (Vị món súp hơi nhạt một chút nên tôi đã rắc thêm một ít muối để nêm lại cho vừa miệng.)"
   },
   {
     "word": "砂糖",
     "meaning": "đường ăn (gia vị ngọt)",
     "reading": "さとう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "SA ĐƯỜNG",
     "example": "ブラックコーヒーに角砂糖を一つ入れて、スプーンでよくかき混ぜた。 (Tôi thả một viên đường vào tách cà phê đen rồi dùng thìa khuấy đều.)"
   },
   {
     "word": "読み方",
     "meaning": "cách đọc (chữ Kanji, từ ngữ)",
     "reading": "よみかた",
-    "sinoVietnamese": "ĐỘC",
+    "sinoVietnamese": "ĐỘC PHƯƠNG",
     "example": "この難しい漢字の読み方が分からないので、電子辞書で調べました。 (Vì không biết cách đọc của chữ Hán khó này nên tôi đã tra trong từ điển điện tử.)"
   },
   {
@@ -204,10 +204,10 @@
   },
   {
     "word": "また",
-    "meaning": "đến",
+    "meaning": "lại, hẹn gặp lại; ngoài ra",
     "reading": "また",
     "sinoVietnamese": "",
-    "example": "使いやすいまたのおかげで、毎日の生活がとても快適になりました。 (Sự dễ sử dụng đã làm cho cuộc sống hàng ngày của tôi thoải mái hơn nhiều.)"
+    "example": "分からないことがあれば、またいつでも質問してください。(Nếu có chỗ nào chưa hiểu, bạn lại cứ thoải mái hỏi bất cứ lúc nào nhé.)"
   },
   {
     "word": "あとで",
@@ -262,14 +262,14 @@
     "word": "お釣り",
     "meaning": "tiền thừa, tiền thối lại",
     "reading": "おつり",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐIẾU",
     "example": "売店で千円札を出して新聞を買い、百円玉三枚のお釣りを受け取りました。 (Tôi đưa tờ một nghìn yên mua tờ báo ở sạp và nhận lại ba đồng xu một trăm yên tiền thừa.)"
   },
   {
     "word": "これでお願いします",
     "meaning": "xin gửi khoản này / nhờ bạn thanh toán giúp cái này",
     "reading": "これでおねがいします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NGUYỆN",
     "example": "お会計の際に、レジの店員さんに「これでお願いします」とクレジットカードを渡した。 (Lúc thanh toán, tôi đưa thẻ tín dụng cho nhân viên thu ngân và nói \"Làm ơn thanh toán giúp tôi bằng thẻ này ạ\".)"
   }
 ]

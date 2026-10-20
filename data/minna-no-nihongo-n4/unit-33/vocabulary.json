@@ -10,7 +10,7 @@
     "word": "騒ぎます",
     "meaning": "làm ồn ào, hò hét gây mất trật tự",
     "reading": "さわぎます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TAO",
     "example": "夜遅くにアパートの廊下で大声で騒いではいけません。 (Không được hò hét làm ồn lớn tiếng ở hành lang chung cư vào đêm muộn.)"
   },
   {
@@ -24,7 +24,7 @@
     "word": "投げま",
     "meaning": "ném (bóng, đồ vật)",
     "reading": "なげます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐẦU",
     "example": "ピッチャーがキャッチャーに向かって力強くボールを投げました。 (Cầu thủ ném bóng đã ném thật mạnh quả bóng về phía người bắt bóng.)"
   },
   {
@@ -32,7 +32,7 @@
     "meaning": "bảo vệ, tuân thủ (lời hứa, luật lệ)",
     "reading": "まもります",
     "sinoVietnamese": "THỦ",
-    "example": "社会で信頼されるためには、約束の時間を守ることが大切です。 (Để được tin tưởng trong xã hội, việc giữ đúng hẹn là vô cùng quan trọng.)"
+    "example": "社会で信頼されるためには、約束の時間を守ることが大切です。(Để được tin tưởng trong xã hội, việc tuân thủ đúng giờ giấc đã hẹn là điều rất quan trọng.)"
   },
   {
     "word": "上げます",
@@ -52,14 +52,14 @@
     "word": "伝えます",
     "meaning": "truyền đạt, nhắn lại (thông tin, lời nhắn)",
     "reading": "つたえます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TRUYỀN",
     "example": "部長が戻られたら、折り返し電話するようにお伝えいただけますか。 (Khi trưởng phòng quay lại, nhờ anh nhắn lại giúp tôi gọi điện lại nhé.)"
   },
   {
     "word": "注意します",
     "meaning": "nhắc nhở, chú ý cẩn thận",
     "reading": "ちゅういします",
-    "sinoVietnamese": "Ý",
+    "sinoVietnamese": "CHÚ Ý",
     "example": "交差点を渡るときは、左右の安全をよく注意してください。 (Khi băng qua ngã tư, xin hãy chú ý cẩn thận quan sát hai bên đường.)"
   },
   {
@@ -80,14 +80,14 @@
     "word": "席",
     "meaning": "chỗ ngồi, ghế ngồi",
     "reading": "せき",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TỊCH",
     "example": "電車でお年寄りに笑顔で席を譲りました。 (Tôi đã mỉm cười nhường chỗ ngồi trên tàu điện cho người cao tuổi.)"
   },
   {
     "word": "逃げます",
-    "meaning": "chạy trốn, bỏ trốn (đã chuẩn hóa từ lỗi)",
+    "meaning": "chạy trốn, bỏ trốn",
     "reading": "にげます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐÀO",
     "example": "火災警報器のけたたましいベルが鳴り響いたので、慌てて非常口から外へ逃げました。 (Chuông báo cháy vang lên inh ỏi nên tôi vội vàng chạy trốn ra ngoài qua lối thoát hiểm.)"
   },
   {
@@ -108,28 +108,28 @@
     "word": "洗濯機",
     "meaning": "máy giặt",
     "reading": "せんたくき",
-    "sinoVietnamese": "TẨY KI",
+    "sinoVietnamese": "TẨY TRẠC CƠ",
     "example": "汚れた服を洗濯機に入れてスイッチを押しました。 (Tôi bỏ quần áo bẩn vào máy giặt rồi nhấn nút khởi động.)"
   },
   {
     "word": "～機",
     "meaning": "～ máy, chiếc máy (hậu tố: コピー機, 洗濯機)",
     "reading": "―き",
-    "sinoVietnamese": "KI",
+    "sinoVietnamese": "CƠ",
     "example": "オフィスの片隅に最新型の高速カラー印刷機が新しく導入されました。 (Ở góc văn phòng vừa được trang bị thêm một chiếc máy in màu tốc độ cao đời mới nhất.)"
   },
   {
     "word": "規則",
     "meaning": "quy tắc, quy định, luật lệ",
     "reading": "きそく",
-    "sinoVietnamese": "TẮC",
+    "sinoVietnamese": "QUY TẮC",
     "example": "寮の共同生活では、決められた規則を守らなければなりません。 (Trong đời sống chung tại ký túc xá, ta phải tuân thủ nghiêm quy định đã đề ra.)"
   },
   {
     "word": "使用禁止",
     "meaning": "cấm sử dụng (biển báo)",
     "reading": "しようきんし",
-    "sinoVietnamese": "SỬ CẤM CHỈ",
+    "sinoVietnamese": "SỬ DỤNG CẤM CHỈ",
     "example": "故障中のエレベーターの扉に「点検中につき使用禁止」の貼り紙が貼ってあった。 (Trên cửa thang máy đang hỏng có dán tấm biển \"Đang bảo trì - Cấm sử dụng\".)"
   },
   {
@@ -141,30 +141,30 @@
   },
   {
     "word": "非常口",
-    "meaning": "cửa thoát hiểm, lối thoát khẩn cấp (đã sửa lỗi chính tả)",
+    "meaning": "cửa thoát hiểm, lối thoát khẩn cấp",
     "reading": "ひじょうぐち",
-    "sinoVietnamese": "VŨ KHẨU",
+    "sinoVietnamese": "PHI THƯỜNG KHẨU",
     "example": "映画館や劇場の館内に入ったら、万が一に備えてまず非常口の場所を確認しておく。 (Khi bước vào rạp chiếu phim hay nhà hát, việc đầu tiên là phải xác nhận vị trí cửa thoát hiểm đề phòng sự cố.)"
   },
   {
     "word": "本日休業",
     "meaning": "hôm nay đóng cửa, tạm nghỉ",
     "reading": "ほんじつきゅうぎょう",
-    "sinoVietnamese": "BẢN NHẬT HƯU",
+    "sinoVietnamese": "BẢN NHẬT HƯU NGHIỆP",
     "example": "楽しみにしていたカフェのドアに「本日休業」と書いてありました。 (Cánh cửa quán cà phê tôi mong chờ đến có ghi dòng chữ \"Hôm nay tạm nghỉ\".)"
   },
   {
     "word": "営業中",
     "meaning": "đang mở cửa kinh doanh",
     "reading": "えいぎょうちゅう",
-    "sinoVietnamese": "TRUNG",
+    "sinoVietnamese": "DOANH NGHIỆP TRUNG",
     "example": "お店の看板が「営業中」になっていたので中に入りました。 (Tấm biển ngoài quán ghi \"Đang mở cửa\" nên tôi đã bước vào trong.)"
   },
   {
     "word": "使用中",
     "meaning": "đang sử dụng",
     "reading": "しようちゅう",
-    "sinoVietnamese": "SỬ TRUNG",
+    "sinoVietnamese": "SỬ DỤNG TRUNG",
     "example": "お手洗いのドアが「使用中」になっていたので少し待ちました。 (Cửa phòng vệ sinh hiện \"Đang có người dùng\" nên tôi đợi một chút.)"
   },
   {
@@ -175,11 +175,11 @@
     "example": "ただいま役員会議の真っ最中ですので、お急ぎのご用件以外はお控えください。 (Hiện tại đang trong cuộc họp ban giám đốc nên xin vui lòng không làm phiền trừ việc khẩn cấp.)"
   },
   {
-    "word": "どういうー",
-    "meaning": "như thế nào, ra sao",
-    "reading": "どういうー",
+    "word": "どういう～",
+    "meaning": "loại... nào, có nghĩa là gì",
+    "reading": "どういう",
     "sinoVietnamese": "",
-    "example": "時間があるときは、自分のペースでゆっくりどういうのが好きです。 (Khi có thời gian, tôi thích làm mọi việc theo tốc độ của riêng mình.)"
+    "example": "「立入禁止」とはどういう意味ですか。(Biển báo này có nghĩa là gì vậy ạ?)"
   },
   {
     "word": "あと",
@@ -192,7 +192,7 @@
     "word": "駐車違反",
     "meaning": "vi phạm đỗ xe trái phép",
     "reading": "ちゅうしゃいはん",
-    "sinoVietnamese": "XA PHẢN",
+    "sinoVietnamese": "TRÚ XA VI PHẢN",
     "example": "駐停車禁止の場所に車を止めて、駐車違反の切符を切られました。 (Đỗ xe ở nơi cấm dừng đỗ nên tôi đã bị công an phạt vi phạm đỗ xe.)"
   },
   {
@@ -206,21 +206,21 @@
     "word": "～以内",
     "meaning": "trong vòng ～, trong phạm vi ～ (thời gian, khoảng cách)",
     "reading": "～いない",
-    "sinoVietnamese": "NỘI",
+    "sinoVietnamese": "DĨ NỘI",
     "example": "ご注文いただいた商品は、営業日の三日以内にお手元へ迅速に発送いたします。 (Sản phẩm quý khách đặt mua sẽ được gửi nhanh chóng tới tận tay trong vòng 3 ngày làm việc.)"
   },
   {
     "word": "警察",
     "meaning": "cảnh sát, cơ quan công an",
     "reading": "けいさつ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CẢNH SÁT",
     "example": "道に迷って困っていたら、親切な警察官が道を教えてくれました。 (Lúc lạc đường bối rối, một chú cảnh sát tốt bụng đã chỉ đường cho tôi.)"
   },
   {
     "word": "罰金",
     "meaning": "tiền phạt",
     "reading": "ばっきん",
-    "sinoVietnamese": "KIM",
+    "sinoVietnamese": "PHẠT KIM",
     "example": "交通ルールを破って高額な罰金を払うことになりました。 (Vì vi phạm luật giao thông nên tôi đã phải nộp một khoản tiền phạt khá lớn.)"
   },
   {
@@ -234,28 +234,28 @@
     "word": "人々",
     "meaning": "mọi người, người dân",
     "reading": "ひとびと",
-    "sinoVietnamese": "NHÂN",
+    "sinoVietnamese": "NHÂN NHÂN",
     "example": "お祭りの広場には、笑顔にあふれた多くの人々が集まっています。 (Tại quảng trường lễ hội, rất đông người dân rạng rỡ tiếng cười tụ họp về.)"
   },
   {
     "word": "急用",
     "meaning": "việc gấp, việc khẩn cấp",
     "reading": "きゅうよう",
-    "sinoVietnamese": "CẤP",
+    "sinoVietnamese": "CẤP DỤNG",
     "example": "急用ができたので、申し訳ありませんが先に失礼します。 (Vì có việc khẩn cấp đột xuất, xin thứ lỗi cho tôi xin phép về trước ạ.)"
   },
   {
-    "word": "打ちます（電報を）",
-    "meaning": "gửi",
-    "reading": "うちます（でんぽうを）",
-    "sinoVietnamese": "ĐẢ ĐIỆN BÁO",
+    "word": "打ちます",
+    "meaning": "đánh, gửi (điện báo: 電報を～)",
+    "reading": "うちます",
+    "sinoVietnamese": "ĐẢ",
     "example": "急ぎの用事で電報を打ちました。 (Vì có việc khẩn cấp nên tôi đã gửi một bức điện tín.)"
   },
   {
     "word": "電報代",
     "meaning": "cước phí gửi điện báo",
     "reading": "でんぽうだい",
-    "sinoVietnamese": "ĐIỆN BÁO",
+    "sinoVietnamese": "ĐIỆN BÁO ĐẠI",
     "example": "祝電を慶事の会場へ打電してもらうため、電報代を手元の小銭で支払った。 (Để gửi bức điện mừng tới hội trường tiệc vui, tôi đã thanh toán tiền cước điện báo bằng tiền lẻ.)"
   },
   {
@@ -276,7 +276,7 @@
     "word": "危篤",
     "meaning": "nguy kịch (tình trạng bệnh nặng sắp mất)",
     "reading": "きとく",
-    "sinoVietnamese": "NGUY",
+    "sinoVietnamese": "NGUY ĐỐC",
     "example": "故郷の祖父が危篤だという連絡を受け、急いで病院へ駆けつけました。 (Nhận được tin báo ông ở quê đang nguy kịch, tôi tức tốc bắt xe về bệnh viện.)"
   },
   {
@@ -290,22 +290,22 @@
     "word": "留守",
     "meaning": "sự vắng nhà, đi vắng",
     "reading": "るす",
-    "sinoVietnamese": "THỦ",
+    "sinoVietnamese": "LƯU THỦ",
     "example": "留守の間に友達が遊びに来てくれたようです。 (Trong lúc tôi vắng nhà, dường như có người bạn đã ghé qua chơi.)"
   },
   {
     "word": "留守番",
     "meaning": "việc trông coi nhà khi người lớn vắng mặt",
     "reading": "るすばん",
-    "sinoVietnamese": "THỦ PHIÊN",
+    "sinoVietnamese": "LƯU THỦ PHIÊN",
     "example": "両親が買い物に出かけている間、一人でしっかり留守番をしました。 (Trong lúc bố mẹ đi mua sắm, tôi ở nhà trông nhà rất cẩn thận.)"
   },
   {
-    "word": "(お）いわい",
-    "meaning": "lễ kỷ niệm",
-    "reading": "(お）いわい",
-    "sinoVietnamese": "",
-    "example": "友達の結婚のお祝いにプレゼントを贈りました。 (Tôi đã gửi quà chúc mừng đám cưới của bạn.)"
+    "word": "お祝い",
+    "meaning": "lời chúc mừng; quà chúc mừng, lễ kỷ niệm",
+    "reading": "おいわい",
+    "sinoVietnamese": "CHÚC",
+    "example": "友達の結婚のお祝いにプレゼントを贈りました。(Tôi đã gửi tặng một món quà để chúc mừng đám cưới của bạn mình.)"
   },
   {
     "word": "なくなります",
@@ -325,7 +325,7 @@
     "word": "利用します",
     "meaning": "tận dụng, sử dụng (tiện ích, dịch vụ)",
     "reading": "りようします",
-    "sinoVietnamese": "LỢI",
+    "sinoVietnamese": "LỢI DỤNG",
     "example": "時間を有効に利用して、通勤電車の中で英単語を覚えています。 (Tận dụng thời gian hiệu quả, tôi học từ vựng tiếng Anh ngay trên tàu điện.)"
   }
 ]

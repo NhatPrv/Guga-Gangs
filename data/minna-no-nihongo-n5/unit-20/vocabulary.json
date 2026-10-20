@@ -1,10 +1,10 @@
 [
   {
     "word": "要ります",
-    "meaning": "cần thiết (cần có: ビザが要る)",
+    "meaning": "cần thiết, cần có",
     "reading": "いります",
     "sinoVietnamese": "YẾU",
-    "example": "海外へ旅行するときは、有効期限内のパスポートが絶対に要ります。 (Khi đi du lịch nước ngoài, hộ chiếu còn hạn là thứ tuyệt đối bắt buộc phải có.)"
+    "example": "海外旅行に行くときは有効なパスポートが絶対に要ります。(Khi đi du lịch nước ngoài thì hộ chiếu còn hạn là thứ nhất định cần có.)"
   },
   {
     "word": "調べます",
@@ -24,7 +24,7 @@
     "word": "修理します",
     "meaning": "sửa chữa (máy móc, xe cộ, đồ gia dụng)",
     "reading": "しゅうりします",
-    "sinoVietnamese": "LÝ",
+    "sinoVietnamese": "TU LÝ",
     "example": "画面が割れてしまったスマートフォンを専門の修理店で直してもらいました。 (Chiếc điện thoại vỡ màn hình đã được thợ ở tiệm sửa chữa phục hồi lại như mới.)"
   },
   {
@@ -38,22 +38,22 @@
     "word": "僕",
     "meaning": "tôi, mình, tớ (đại từ xưng hô thân mật của nam giới)",
     "reading": "ぼく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BỘC",
     "example": "僕の将来の夢は、世界中を飛び回る国際的なジャーナリストになることです。 (Ước mơ tương lai của tớ là trở thành một nhà báo quốc tế đi khắp năm châu bốn bể.)"
   },
   {
     "word": "君",
     "meaning": "cậu, em, bạn (cách gọi thân mật với người ngang hàng hoặc nhỏ tuổi)",
     "reading": "きみ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "QUÂN",
     "example": "「君が書いたプレゼンの企画案、とても独創的で素晴らしいね。」 (\"Bản đề xuất thuyết trình mà cậu viết rất độc đáo và tuyệt vời đấy.\")"
   },
   {
     "word": "うん",
-    "meaning": "ừ, vâng (thân mật)",
+    "meaning": "đồng ý, ừ (thân mật)",
     "reading": "うん",
     "sinoVietnamese": "",
-    "example": "新しいうんを手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã có phân mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+    "example": "「明日も学校へ行く？」「うん、行くよ」。(\"Mai cậu cũng đi học chứ?\" \"Ừ, tớ đồng ý đi cùng nhé\".)"
   },
   {
     "word": "ううん",
@@ -66,7 +66,7 @@
     "word": "言葉",
     "meaning": "từ ngữ, ngôn ngữ",
     "reading": "ことば",
-    "sinoVietnamese": "NGÔN",
+    "sinoVietnamese": "NGÔN DIỆP",
     "example": "使いやすい言葉のおかげで、毎日の生活がとても快適になりました。 (Nhờ những ngôn từ dễ sử dụng, cuộc sống thường ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
   },
   {
@@ -99,17 +99,17 @@
   },
   {
     "word": "どっち",
-    "meaning": "ở đâu",
+    "meaning": "cái nào, bên nào, phía nào",
     "reading": "どっち",
     "sinoVietnamese": "",
-    "example": "「肉と魚と、どっちが好きですか」「魚のほうが好きです」(“Thịt và cá, bạn thích món nào hơn?” - “Tôi thích cá hơn”)"
+    "example": "「肉と魚と、どっちが好きですか」「魚のほうが好きです」。(\"Thịt và cá, bạn thích cái nào hơn?\" \"Tôi thích cá hơn\".)"
   },
   {
     "word": "この間",
-    "meaning": "ngày nọ",
+    "meaning": "hôm nọ, dạo gần đây",
     "reading": "このあいだ",
     "sinoVietnamese": "GIAN",
-    "example": "この間になると、涼しい風が吹いて過ごしやすくなります。 (Trong thời gian này, một làn gió mát sẽ thổi qua và thời tiết sẽ dễ chịu.)"
+    "example": "この間デパートでばったり高校の同級生に会いました。(Hôm nọ tôi tình cờ gặp lại người bạn cùng lớp cấp ba ở trung tâm bách hóa.)"
   },
   {
     "word": "みんなで",
@@ -150,7 +150,7 @@
     "word": "色々",
     "meaning": "nhiều điều, đa dạng thứ",
     "reading": "いろいろ",
-    "sinoVietnamese": "SẮC",
+    "sinoVietnamese": "SẮC SẮC",
     "example": "日本に留学している間に、文化や習慣の違いについて色々と体験しました。 (Trong thời gian du học tại Nhật, tôi đã trải nghiệm nhiều điều về sự khác biệt văn hóa và tập quán.)"
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
     "word": "ここ",
-    "meaning": "ở đây",
+    "meaning": "chỗ này, ở đây (gần người nói)",
     "reading": "ここ",
     "sinoVietnamese": "",
-    "example": "ここは日本語の教室です。 (Đây là lớp học tiếng Nhật.)"
+    "example": "ここは大学の図書館です。(Ở đây là thư viện của trường đại học.)"
   },
   {
     "word": "そこ",
-    "meaning": "ở đằng kia",
+    "meaning": "chỗ đó, đó (ở gần người nghe)",
     "reading": "そこ",
     "sinoVietnamese": "",
-    "example": "そこは会社の会議室です。 (Đó là phòng họp của công ty.)"
+    "example": "そこは会社の会議室です。(Chỗ đó là phòng họp của công ty.)"
   },
   {
     "word": "あそこ",
@@ -29,10 +29,10 @@
   },
   {
     "word": "こちら",
-    "meaning": "phía này, nơi này",
+    "meaning": "phía này, nơi này (lịch sự của ここ)",
     "reading": "こちら",
     "sinoVietnamese": "",
-    "example": "受付はこちらでございます。 (Nhấn vào đây để đăng ký.)"
+    "example": "どうぞこちらへお入りください。(Xin mời bạn bước vào phía này nhé.)"
   },
   {
     "word": "あちら",
@@ -59,21 +59,21 @@
     "word": "食堂",
     "meaning": "nhà ăn, căn tin",
     "reading": "しょくどう",
-    "sinoVietnamese": "THỰC",
+    "sinoVietnamese": "THỰC ĐƯỜNG",
     "example": "お昼休みは社員食堂でうどんを食べます。 (Trong giờ nghỉ trưa, tôi ăn mì udon tại căng tin công ty.)"
   },
   {
     "word": "事務所",
     "meaning": "văn phòng làm việc",
     "reading": "じむしょ",
-    "sinoVietnamese": "SỞ",
+    "sinoVietnamese": "SỰ VỤ SỞ",
     "example": "書類を取りに事務所へ行きます。 (Tôi đang đến văn phòng để lấy tài liệu.)"
   },
   {
     "word": "会議室",
     "meaning": "phòng họp",
     "reading": "かいぎしつ",
-    "sinoVietnamese": "HỘI THẤT",
+    "sinoVietnamese": "HỘI NGHỊ THẤT",
     "example": "10時から第2会議室でミーティングを行います。 (Cuộc họp sẽ được tổ chức tại phòng họp thứ hai từ 10:00.)"
   },
   {
@@ -85,16 +85,16 @@
   },
   {
     "word": "ロビー",
-    "meaning": "hội trường",
+    "meaning": "sảnh chờ, tiền sảnh, hành lang",
     "reading": "ロビー",
     "sinoVietnamese": "",
-    "example": "ホテルのロビーで友達と待ち合わせをしています。 (Tôi đang gặp một người bạn ở sảnh khách sạn.)"
+    "example": "ホテルのロビーで友達と待ち合わせをしています。(Tôi đang hẹn gặp bạn ở sảnh chờ khách sạn.)"
   },
   {
     "word": "部屋",
     "meaning": "căn phòng",
     "reading": "へや",
-    "sinoVietnamese": "ỐC",
+    "sinoVietnamese": "BỘ ỐC",
     "example": "私の部屋は日当たりが良くて静かです。 (Phòng tôi đầy nắng và yên tĩnh.)"
   },
   {
@@ -127,10 +127,10 @@
   },
   {
     "word": "国",
-    "meaning": "quốc gia, đất nước",
+    "meaning": "quốc gia, đất nước; quê hương",
     "reading": "くに",
     "sinoVietnamese": "QUỐC",
-    "example": "「お国はどちらですか」「東南アジアのベトナムです」 (Quê hương bạn ở đâu vậy? - Dạ là Việt Nam ở Đông Nam Á ạ.)"
+    "example": "お国はどちらですか。ベトナムです。(Quốc gia đất nước của bạn là ở đâu vậy? - Dạ là Việt Nam ạ.)"
   },
   {
     "word": "会社",
@@ -157,7 +157,7 @@
     "word": "靴",
     "meaning": "đôi giày",
     "reading": "くつ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NGOA",
     "example": "玄関で靴を脱いで上がってください。 (Vui lòng cởi giày ở lối vào.)"
   },
   {
@@ -185,7 +185,7 @@
     "word": "売り場",
     "meaning": "quầy bán hàng",
     "reading": "うりば",
-    "sinoVietnamese": "MẠI",
+    "sinoVietnamese": "MẠI TRƯỜNG",
     "example": "デパートの地下の食品売り場で買い物をします。 (Tôi mua sắm ở khu thực phẩm ở tầng hầm của một cửa hàng bách hóa.)"
   },
   {
@@ -204,24 +204,24 @@
   },
   {
     "word": "百",
-    "meaning": "trăm",
+    "meaning": "trăm (100)",
     "reading": "ひゃく",
     "sinoVietnamese": "BÁCH",
-    "example": "このノートは百円均一で買いました。 (Tôi đã mua cuốn sổ này với giá 100 yên.)"
+    "example": "このノートを百円で買いました。(Tôi đã mua cuốn vở này với giá một trăm yên.)"
   },
   {
     "word": "千",
-    "meaning": "nghìn",
+    "meaning": "nghìn (1.000)",
     "reading": "せん",
     "sinoVietnamese": "THIÊN",
-    "example": "本代として千円払いました。 (Tôi đã trả 1.000 yên cho cuốn sách.)"
+    "example": "この本に千円払いました。(Tôi đã trả một nghìn yên cho cuốn sách.)"
   },
   {
     "word": "万",
-    "meaning": "mười nghìn, vạn",
+    "meaning": "mười nghìn, vạn (10.000)",
     "reading": "まん",
     "sinoVietnamese": "VẠN",
-    "example": "新しいパソコンは十万円でした。 (Máy tính mới có giá 100.000 yên.)"
+    "example": "新しいパソコンの代金は十万円でした。(Chiếc máy tính mới có giá mười vạn yên.)"
   },
   {
     "word": "すみません",

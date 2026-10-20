@@ -10,7 +10,7 @@
     "word": "座ります",
     "meaning": "ngồi xuống (ghế: いすに座る)",
     "reading": "すわります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TỌA",
     "example": "公園の木陰のベンチに座って、持ってきたお弁当を食べました。 (Ngồi trên chiếc ghế dài dưới bóng râm công viên, tôi ăn hộp cơm mang theo.)"
   },
   {
@@ -22,16 +22,16 @@
   },
   {
     "word": "置きます",
-    "meaning": "đặt, để (đồ vật lên bàn)",
+    "meaning": "đặt, để (đồ vật)",
     "reading": "おきます",
-    "sinoVietnamese": "",
-    "example": "脱いだ靴を玄関の隅にきれいに揃えて置きました。 (Tôi xếp đôi giày đã cởi ngay ngắn gọn gàng vào góc tiền sảnh.)"
+    "sinoVietnamese": "TRÍ",
+    "example": "脱いだ靴を玄関の隅にきちんと置きます。(Tôi đặt đôi giày đã cởi ngay ngắn vào góc lối vào nhà.)"
   },
   {
     "word": "作ります，造ります",
     "meaning": "chế tạo, nấu nướng, làm ra",
     "reading": "つくります",
-    "sinoVietnamese": "TÁC",
+    "sinoVietnamese": "TÁC TẠO",
     "example": "週末に市場で買った新鮮な材料を使って、美味しいカレーを作りました。 (Dùng nguyên liệu tươi ngon mua ở chợ cuối tuần, tôi đã nấu nồi cà ri tuyệt hảo.)"
   },
   {
@@ -70,17 +70,17 @@
     "example": "「あの有名なピアニストを知っていますか」「はい、よく知っています」 (Bạn có biết người nghệ sĩ dương cầm nổi tiếng kia không? - Vâng, tôi biết rất rõ ạ.)"
   },
   {
-    "word": "住んで います [大阪に～]",
-    "meaning": "đang cư trú, đang sống tại",
+    "word": "住んでいます",
+    "meaning": "sống, cư trú (ở Osaka: 大阪に～)",
     "reading": "すんでいます",
-    "sinoVietnamese": "TRÚ ĐẠI",
+    "sinoVietnamese": "TRÚ",
     "example": "私は現在、緑が多くて静かな神奈川県の横浜市に住んでいます。 (Hiện tại tôi đang sống tại thành phố Yokohama thanh bình nhiều cây xanh ở Kanagawa.)"
   },
   {
     "word": "資料",
     "meaning": "tài liệu, tư liệu phục vụ cuộc họp/học tập",
     "reading": "しりょう",
-    "sinoVietnamese": "LIỆU",
+    "sinoVietnamese": "TƯ LIỆU",
     "example": "明日のプレゼンに向けて、グラフを含めた発表用の資料を印刷しました。 (Chuẩn bị cho bài thuyết trình ngày mai, tôi đã in tập tài liệu gồm các biểu đồ.)"
   },
   {
@@ -92,23 +92,23 @@
   },
   {
     "word": "時刻表",
-    "meaning": "lịch trình tàu hỏa",
+    "meaning": "lịch trình tàu xe, thời gian biểu",
     "reading": "じこくひょう",
-    "sinoVietnamese": "THỜI",
-    "example": "環境のために、休日はできるだけ時刻表で移動しています。 (Vì lợi ích môi trường, chúng tôi tuân theo thời gian biểu nhiều nhất có thể vào các ngày nghỉ.)"
+    "sinoVietnamese": "THỜI KHẮC BIỂU",
+    "example": "駅の掲示板で次の電車の発車時刻表を確認しました。(Tôi kiểm tra thời gian biểu chuyến tàu tiếp theo trên bảng tin ở nhà ga.)"
   },
   {
     "word": "服",
     "meaning": "quần áo",
     "reading": "ふく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "PHỤC",
     "example": "新しい服を手に入れて、仕事の効率がぐんと上がりました。 (Tôi có quần áo mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
   },
   {
     "word": "製品",
     "meaning": "sản phẩm",
     "reading": "せいひん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CHẾ PHẨM",
     "example": "新しい製品を手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã có được một sản phẩm mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
   },
   {
@@ -122,21 +122,21 @@
     "word": "専門",
     "meaning": "chuyên môn, ngành nghề chuyên sâu",
     "reading": "せんもん",
-    "sinoVietnamese": "MÔN",
+    "sinoVietnamese": "CHUYÊN MÔN",
     "example": "大学院では、人工知能と自然言語処理の分野を専門に研究しています。 (Ở bậc cao học, tôi nghiên cứu chuyên sâu về lĩnh vực trí tuệ nhân tạo và xử lý ngôn ngữ tự nhiên.)"
   },
   {
     "word": "歯医者",
     "meaning": "nha sĩ",
     "reading": "はいしゃ",
-    "sinoVietnamese": "Y GIẢ",
+    "sinoVietnamese": "XỈ Y GIẢ",
     "example": "誕生日に歯医者へ感謝の気持ちを込めて手紙を書きました。 (Vào ngày sinh nhật của tôi, tôi đã viết một lá thư cho nha sĩ để bày tỏ lòng biết ơn của mình.)"
   },
   {
     "word": "床屋",
     "meaning": "tiệm làm tóc",
     "reading": "とこや",
-    "sinoVietnamese": "ỐC",
+    "sinoVietnamese": "SÀNG ỐC",
     "example": "床屋にはたくさんの観光客が訪れていて賑やかです。 (Có rất nhiều khách du lịch ghé thăm tiệm cắt tóc và nó rất sôi động.)"
   },
   {
@@ -148,10 +148,10 @@
   },
   {
     "word": "独身",
-    "meaning": "một mình",
+    "meaning": "độc thân (chưa kết hôn)",
     "reading": "どくしん",
-    "sinoVietnamese": "",
-    "example": "新しい独身を手に入れて、仕事の効率がぐんと上がりました。 (Bây giờ tôi mới độc thân nên tôi đã làm việc hiệu quả hơn rất nhiều.)"
+    "sinoVietnamese": "ĐỘC THÂN",
+    "example": "彼はまだ独身で、アパートで気ままに一人暮らしをしています。(Anh ấy vẫn còn độc thân, sống một mình thoải mái trong căn hộ.)"
   },
   {
     "word": "特に",
@@ -171,7 +171,7 @@
     "word": "ご家族",
     "meaning": "gia đình của bạn (kính ngữ khi nhắc đến người thân của đối phương)",
     "reading": "ご家族",
-    "sinoVietnamese": "TỘC",
+    "sinoVietnamese": "GIA TỘC",
     "example": "「国のご家族はお元気でいらっしゃいますか。」「はい、おかげさまで。」 (\"Gia đình của bạn ở quê nhà vẫn mạnh khỏe chứ ạ?\" \"Vâng, trộm vía mọi người vẫn khỏe ạ.\")"
   },
   {

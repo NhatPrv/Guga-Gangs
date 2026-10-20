@@ -21,7 +21,7 @@
       "vi": "Chúng tôi đã gọi quá nhiều và không thể ăn hết đồ ăn."
     },
     {
-      "ja": "山の上では、数え���れないほどの星が見えた。",
+      "ja": "山の上では、数えきれないほどの星が見えた。",
       "furigana": "{山|やま}の{上|うえ}では、{数|かぞ}え{切|き}れないほどの{星|ほし}が{見|み}えた。",
       "en": "From the mountaintop we could see more stars than we could count.",
       "vi": "Từ đỉnh núi chúng tôi có thể nhìn thấy nhiều ngôi sao hơn chúng tôi có thể đếm được."
@@ -68,7 +68,7 @@
     {
       "id": "bunpou-n3-kiru-kirenai-q3",
       "type": "grammar-to-meaning",
-      "sentenceJa": "山の上では、数え���れないほどの星が見えた。",
+      "sentenceJa": "山の上では、数えきれないほどの星が見えた。",
       "sentenceVi": "Từ đỉnh núi chúng tôi có thể nhìn thấy nhiều ngôi sao hơn chúng tôi có thể đếm được.",
       "targetGrammar": "〜切る / 〜切れない",
       "prompt": "Chọn ý nghĩa phù hợp của mẫu ngữ pháp trong câu trên:",

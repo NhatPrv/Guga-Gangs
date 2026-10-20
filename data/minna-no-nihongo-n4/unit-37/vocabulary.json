@@ -3,7 +3,7 @@
     "word": "褒めます",
     "meaning": "khen ngợi, tán dương",
     "reading": "ほめます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BAO",
     "example": "テストで満点を取ったので、先生にたくさん褒められました。 (Đạt điểm tối đa trong bài kiểm tra nên tôi được thầy giáo khen ngợi rất nhiều.)"
   },
   {
@@ -17,7 +17,7 @@
     "word": "誘いますね",
     "meaning": "mời, rủ rê (đi chơi, xem phim)",
     "reading": "さそいます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DÙ",
     "example": "今度の週末、映画を見に行こうと仲のいい友達を誘いました。 (Tôi đã rủ người bạn thân cùng đi xem phim vào cuối tuần này.)"
   },
   {
@@ -31,21 +31,21 @@
     "word": "招待します",
     "meaning": "mời, chiêu đãi (dự tiệc, đến nhà)",
     "reading": "しょうたいします",
-    "sinoVietnamese": "ĐÃI",
+    "sinoVietnamese": "CHIÊU ĐÃI",
     "example": "来月新居の引っ越し祝いに、会社の同僚を自宅に招待します。 (Tháng sau nhân dịp tân gia, tôi sẽ mời các đồng nghiệp công ty đến nhà chung vui.)"
   },
   {
     "word": "頼みます",
     "meaning": "nhờ vả, yêu cầu, gọi món",
     "reading": "たのみます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LẠI",
     "example": "出張中の留守番とペットの世話を信頼できる親友に頼みました。 (Tôi đã nhờ người bạn thân trông nhà và chăm sóc thú cưng giúp trong chuyến công tác.)"
   },
   {
     "word": "注意します。",
     "meaning": "nhắc nhở, cảnh báo",
     "reading": "ちゅういします",
-    "sinoVietnamese": "Ý",
+    "sinoVietnamese": "CHÚ Ý",
     "example": "歩きスマホをしていたら、駅員さんに危ないと注意されました。 (Vừa đi vừa bấm điện thoại nên tôi đã bị nhân viên nhà ga nhắc nhở nguy hiểm.)"
   },
   {
@@ -59,7 +59,7 @@
     "word": "踏みます",
     "meaning": "dẫm lên, giẫm phải (chân, đuôi)",
     "reading": "ふみます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐẠP",
     "example": "満員電車で後ろの人に革靴の先を踏まれてしまいました。 (Trên chuyến tàu điện chật ních, tôi bị người phía sau giẫm phải mũi giày da.)"
   },
   {
@@ -87,70 +87,70 @@
     "word": "輸出します",
     "meaning": "xuất khẩu (hàng hóa sang nước ngoài)",
     "reading": "ゆしゅつします",
-    "sinoVietnamese": "XUẤT",
+    "sinoVietnamese": "THÂU XUẤT",
     "example": "日本は高品質な自動車や精密機械を世界各国へ輸出しています。 (Nhật Bản xuất khẩu ô tô chất lượng cao và máy móc cơ khí chính xác sang nhiều nước.)"
   },
   {
     "word": "輸入します",
     "meaning": "nhập khẩu (nguyên liệu, thực phẩm)",
     "reading": "ゆにゅうします",
-    "sinoVietnamese": "NHẬP",
+    "sinoVietnamese": "THÂU NHẬP",
     "example": "日本は多くの石油や天然資源を中東の国々から輸入しています。 (Nhật Bản nhập khẩu phần lớn dầu mỏ và tài nguyên thiên nhiên từ các nước Trung Đông.)"
   },
   {
     "word": "翻訳します",
     "meaning": "dịch thuật (văn bản viết)",
     "reading": "ほんやくします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "PHIÊN DỊCH",
     "example": "有名な日本のベストセラー小説をベトナム語に翻訳しました。 (Tôi đã dịch cuốn tiểu thuyết bán chạy nổi tiếng của Nhật sang tiếng Việt.)"
   },
   {
     "word": "発明します",
     "meaning": "phát minh (tạo ra sản phẩm mới chưa từng có)",
     "reading": "はつめいします",
-    "sinoVietnamese": "MINH",
+    "sinoVietnamese": "PHÁT MINH",
     "example": "安藤百福によって世界初のインスタントラーメンが発明されました。 (Gói mì ăn liền đầu tiên trên thế giới đã được phát minh bởi ông Momofuku Ando.)"
   },
   {
     "word": "発見します",
     "meaning": "phát hiện (tìm ra điều vốn có sẵn)",
     "reading": "はっけんします",
-    "sinoVietnamese": "KIẾN",
+    "sinoVietnamese": "PHÁT KIẾN",
     "example": "天文学者が望遠鏡を使って新しい太陽系外惑星を発見しました。 (Các nhà thiên văn học dùng kính thiên văn đã phát hiện ra một hành tinh mới ngoài hệ mặt trời.)"
   },
   {
     "word": "設計します",
     "meaning": "thiết kế (công trình, bản vẽ)",
     "reading": "せっけいします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THIẾT KẾ",
     "example": "有名な建築家によって地震に強い近代的なビルが設計されました。 (Tòa nhà hiện đại có khả năng chống động đất tốt được thiết kế bởi kiến trúc sư nổi tiếng.)"
   },
   {
     "word": "米",
     "meaning": "gạo, hạt thóc",
     "reading": "こめ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MỄ",
     "example": "新潟県で作られるコシヒカリという品種のお米はとても美味しいです。 (Gạo giống Koshihikari được trồng ở tỉnh Niigata ăn rất dẻo và thơm ngon.)"
   },
   {
     "word": "麦",
     "meaning": "lúa mạch, lúa mì",
     "reading": "むぎ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MẠCH",
     "example": "一面に黄金色に実った広大な麦畑の風景に感動しました。 (Tôi xúc động trước khung cảnh cánh đồng lúa mì rộng lớn chín vàng ươm.)"
   },
   {
     "word": "石油",
     "meaning": "dầu mỏ, dầu thô",
     "reading": "せきゆ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THẠCH DU",
     "example": "エネルギーやプラスチック製品の原料として石油は欠かせません。 (Dầu mỏ là nguyên liệu không thể thiếu cho năng lượng và sản phẩm nhựa.)"
   },
   {
     "word": "原料",
     "meaning": "nguyên liệu thô (chế tạo công nghiệp)",
     "reading": "げんりょう",
-    "sinoVietnamese": "LIỆU",
+    "sinoVietnamese": "NGUYÊN LIỆU",
     "example": "この美味しいビールは大麦とホップを主原料として作られています。 (Thứ bia hảo hạng này được ủ từ nguyên liệu chính là đại mạch và hoa bia.)"
   },
   {
@@ -164,29 +164,29 @@
     "word": "泥棒",
     "meaning": "kẻ trộm, tên đạo chích",
     "reading": "どろぼう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NÊ BỔNG",
     "example": "留守中に泥棒に入られないように、二重ロックを掛けました。 (Để không bị trộm đột nhập lúc vắng nhà, tôi đã cài khóa hai lớp.)"
   },
   {
     "word": "建築家",
     "meaning": "kiến trúc sư",
     "reading": "けんちくか",
-    "sinoVietnamese": "KIẾN",
+    "sinoVietnamese": "KIẾN TRÚC GIA",
     "example": "その建築家は自然と調和した美しい木造住宅を手がけています。 (Vị kiến trúc sư đó chuyên thiết kế những ngôi nhà gỗ đẹp hài hòa với thiên nhiên.)"
   },
   {
     "word": "科学者",
     "meaning": "nhà khoa học",
     "reading": "かがくしゃ",
-    "sinoVietnamese": "HỌC GIẢ",
+    "sinoVietnamese": "KHOA HỌC GIẢ",
     "example": "ノーベル賞を受賞した科学者の記念講演を真剣に聴きました。 (Tôi chăm chú lắng nghe bài thuyết trình kỷ niệm của nhà khoa học đoạt giải Nobel.)"
   },
   {
-    "word": "―によって",
-    "meaning": "bởi... (chỉ tác giả của hành động trong câu bị động)",
-    "reading": "によって",
+    "word": "～によって",
+    "meaning": "bởi (chỉ tác giả trong câu bị động)",
+    "reading": "～によって",
     "sinoVietnamese": "",
-    "example": "この素晴らしい交響曲は若きベートーヴェンによって作曲されました。 (Bản giao hưởng tuyệt diệu này được sáng tác bởi nhạc sĩ Beethoven thời trẻ.)"
+    "example": "この素晴らしい交響曲はベートーヴェンによって作曲されました。(Bản giao hưởng tuyệt diệu này được sáng tác bởi nhạc sĩ Beethoven.)"
   },
   {
     "word": "よかったですね",
@@ -199,14 +199,14 @@
     "word": "埋め立てます",
     "meaning": "san lấp, lấn biển",
     "reading": "うめたてます",
-    "sinoVietnamese": "LẬP",
+    "sinoVietnamese": "MAI LẬP",
     "example": "海を埋め立てて、新しい国際空港の滑走路が建設されました。 (Bằng cách san lấp lấn biển, đường băng của sân bay quốc tế mới đã được xây dựng.)"
   },
   {
     "word": "技術",
     "meaning": "kỹ thuật, công nghệ",
     "reading": "ぎじゅつ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KỸ THUẬT",
     "example": "日本のものづくりを支える高度な職人技術に感銘を受けました。 (Tôi rất ấn tượng với tay nghề kỹ thuật thủ công đỉnh cao của các nghệ nhân Nhật.)"
   },
   {
@@ -220,7 +220,7 @@
     "word": "騒音",
     "meaning": "tiếng ồn khó chịu",
     "reading": "そうおん",
-    "sinoVietnamese": "ÂM",
+    "sinoVietnamese": "TAO ÂM",
     "example": "大通りの近くに住んでいるので、車の騒音に悩まされています。 (Sống gần đường lớn nên tôi khá phiền lòng vì tiếng ồn của xe cộ qua lại.)"
   },
   {
@@ -241,35 +241,35 @@
     "word": "豪華（な）",
     "meaning": "sang trọng, lộng lẫy, xa hoa",
     "reading": "ごうか「な」",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HÀO HOA",
     "example": "豪華な客船に乗ってカリブ海を巡るクルーズ旅に出ました。 (Tôi lên chiếc du thuyền sang trọng du ngoạn vòng quanh biển Caribe.)"
   },
   {
     "word": "彫刻",
     "meaning": "tác phẩm điêu khắc",
     "reading": "ちょうこく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐIÊU KHẮC",
     "example": "美術館の庭園にミケランジェロの素晴らしい大理石の彫刻が展示されています。 (Trong khuôn viên bảo tàng trưng bày bức tượng điêu khắc đá cẩm thạch tuyệt tác của Michelangelo.)"
   },
   {
     "word": "眠ります",
     "meaning": "chìm vào giấc ngủ, ngủ say",
     "reading": "ねむります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MIÊN",
     "example": "心地よいアロマの香りに包まれて、朝までぐっすり眠りました。 (Hòa mình trong hương tinh dầu dễ chịu, tôi ngủ một giấc say sưa tới sáng.)"
   },
   {
     "word": "彫ります",
     "meaning": "chạm khắc, đục đẽo",
     "reading": "ほります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐIÊU",
     "example": "木彫りの職人さんが一本の木から見事な仏像を彫り上げました。 (Nghệ nhân mộc đã đục đẽo nên một pho tượng Phật tuyệt đẹp từ một khúc gỗ.)"
   },
   {
     "word": "仲間",
     "meaning": "bạn bè thân thiết, đồng đội",
     "reading": "なかま",
-    "sinoVietnamese": "GIAN",
+    "sinoVietnamese": "TRỌNG GIAN",
     "example": "苦しい練習を共にした部活の仲間は、一生の宝物です。 (Những đồng đội cùng sát cánh trong những buổi tập gian khổ là tài sản trọn đời.)"
   },
   {
@@ -283,7 +283,7 @@
     "word": "一生懸命",
     "meaning": "dốc hết sức mình, chăm chỉ hết lòng",
     "reading": "いっしょうけんめい",
-    "sinoVietnamese": "NHẤT SINH",
+    "sinoVietnamese": "NHẤT SINH HUYỀN MỆNH",
     "example": "夢を叶えるために、毎日一生懸命日本語の勉強に励んでいます。 (Để biến ước mơ thành hiện thực, ngày ngày tôi dốc hết sức học tiếng Nhật.)"
   },
   {
@@ -297,7 +297,7 @@
     "word": "一匹もいません",
     "meaning": "không có lấy một con nào cả (đếm động vật nhỏ)",
     "reading": "いっぴきもいません",
-    "sinoVietnamese": "NHẤT",
+    "sinoVietnamese": "NHẤT THẤT",
     "example": "近所の野良猫を捜して路地裏をくまなく歩き回ったが、今日は一匹も見当たりませんでした。 (Đi lùng khắp các ngõ hẻm tìm chú mèo hoang quen thuộc nhưng hôm nay chẳng thấy bóng dáng con nào cả.)"
   }
 ]

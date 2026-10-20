@@ -31,7 +31,7 @@
     "word": "紹介します",
     "meaning": "giới thiệu (bạn bè, đối tác)",
     "reading": "しょうかいします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THIỆU GIỚI",
     "example": "同じクラスに新しく入ってきた留学生のみんなを先生に紹介しました。 (Tôi giới thiệu những bạn du học sinh mới vào lớp cho thầy giáo làm quen.)"
   },
   {
@@ -45,7 +45,7 @@
     "word": "説明します",
     "meaning": "giải thích, thuyết minh (cách dùng, nội quy)",
     "reading": "せつめいします",
-    "sinoVietnamese": "MINH",
+    "sinoVietnamese": "THUYẾT MINH",
     "example": "新入社員に向けて、社内システムの基本的な使い方を分かりやすく説明しました。 (Tôi giải thích dễ hiểu về cách sử dụng hệ thống nội bộ cho các bạn nhân viên mới.)"
   },
   {
@@ -57,14 +57,14 @@
   },
   {
     "word": "おじいさん / おじいちゃん",
-    "meaning": "bố, cha",
+    "meaning": "ông, ông nội, ông ngoại",
     "reading": "おじいさん / おじいちゃん",
     "sinoVietnamese": "",
-    "example": "おじいさん / おじいちゃんの笑顔を見ると、とても元気が出ます。 (Ông/Nhìn thấy nụ cười của ông mà tôi thấy vui quá.)"
+    "example": "おじいさんの笑顔を見ると家族みんなが元気になります。(Nhìn nụ cười hiền hậu của ông, cả gia đình ai nấy đều thấy vui vẻ.)"
   },
   {
     "word": "おばあさん",
-    "meaning": "người bà, cụ bà (đã sửa nghĩa từ mẹ thành bà)",
+    "meaning": "người bà, cụ bà",
     "reading": "おばあさん /　おばあちゃん",
     "sinoVietnamese": "",
     "example": "電車の中で立っているおばあさんに気付き、すぐに席を譲りました。 (Thấy một cụ bà đang đứng trên toa tàu, tôi liền đứng dậy nhường ghế ngay lập tức.)"
@@ -73,8 +73,8 @@
     "word": "準備",
     "meaning": "chuẩn bị",
     "reading": "じゅんび",
-    "sinoVietnamese": "",
-    "example": "使いやすい準備のおかげで、毎日の生活がとても快適になりました。 (Các chế phẩm dễ sử dụng đã giúp cuộc sống hàng ngày của tôi dễ dàng hơn nhiều.)"
+    "sinoVietnamese": "CHUẨN BỊ",
+    "example": "明日からの旅行のために今夜荷物を準備します。(Tôi chuẩn bị hành lý tối nay để sẵn sàng cho chuyến du lịch từ ngày mai.)"
   },
   {
     "word": "意味",
@@ -87,14 +87,14 @@
     "word": "お菓子",
     "meaning": "bánh kẹo",
     "reading": "おかし",
-    "sinoVietnamese": "TỬ",
+    "sinoVietnamese": "QUẢ TỬ",
     "example": "お菓子はいつも優しくて、私のことを応援してくれます。 (Kẹo luôn tốt bụng và ủng hộ tôi.)"
   },
   {
     "word": "全部",
     "meaning": "toàn bộ, tất cả mọi thứ",
     "reading": "ぜんぶ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TOÀN BỘ",
     "example": "テーブルの上に並べられたおいしい料理を、残さず全部きれいに平らげた。 (Những món ăn ngon bày trên bàn, tôi đã ăn sạch sẽ toàn bộ không để lại chút nào.)"
   },
   {
@@ -108,14 +108,14 @@
     "word": "他に",
     "meaning": "ngoài ra, bên cạnh đó (chỉ sự vật khác)",
     "reading": "ほかに",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THA",
     "example": "「この書類の他に、何か提出するものはありますか。」「身分証明書が必要です。」 (\"Ngoài tài liệu này ra thì còn cần nộp thêm gì nữa không ạ?\" \"Cần thêm giấy tờ tùy thân nữa ạ.\")"
   },
   {
     "word": "お弁当",
     "meaning": "cơm hộp bento (bữa ăn mang theo)",
     "reading": "おべんとう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BIỆN ĐƯƠNG",
     "example": "母が毎朝早起きして作ってくれる彩り豊かなお弁当を、職場で食べるのが楽しみです。 (Được thưởng thức hộp cơm bento đầy màu sắc mẹ dậy sớm nấu cho mỗi sáng là niềm vui ở chỗ làm của tôi.)"
   },
   {

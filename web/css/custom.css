@@ -3,17 +3,251 @@
 /* Font chữ tiếng Nhật và giao diện */
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&display=swap');
 
-:root {
+/* ====================================================================
+   DESIGN SYSTEM - THEME TOKENS (LIGHT, PRO DARK & GUGA MODE)
+   ==================================================================== */
+
+:root, [data-theme="light"] {
   --font-main: 'Plus Jakarta Sans', sans-serif;
   --font-jp: 'Noto Sans JP', sans-serif;
+
+  /* Bảng màu Light Mode */
+  --bg-primary: #f8fafc;
+  --bg-secondary: #f1f5f9;
+  --bg-surface: #ffffff;
+  --bg-surface-hover: #f8fafc;
+  --bg-input: #f1f5f9;
+  --border-color: #e2e8f0;
+  --border-subtle: #f1f5f9;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-muted: #94a3b8;
+  --brand-primary: #4f46e5;
+  --brand-hover: #4338ca;
+  --brand-surface: #eef2ff;
+  --tag-kanji-bg: #fef3c7;
+  --tag-kanji-text: #92400e;
+  --tag-kanji-border: #fde68a;
+  --tag-kana-bg: #f1f5f9;
+  --tag-kana-text: #475569;
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
+  --shadow-hover: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -1px rgba(0, 0, 0, 0.04);
+}
+
+/* PRO DARK MODE (Bảng màu Slate/Zinc sâu phân cấp công thái học) */
+.dark, [data-theme="dark"] {
+  --bg-primary: #0f172a; /* Slate 900 */
+  --bg-secondary: #090e17; /* Slate 950 */
+  --bg-surface: #1e293b; /* Slate 800 - Nổi bật trên nền */
+  --bg-surface-hover: #334155; /* Slate 700 */
+  --bg-input: #0f172a;
+  --border-color: #334155; /* Slate 700 */
+  --border-subtle: rgba(255, 255, 255, 0.06);
+  --text-primary: #f8fafc; /* Trắng sáng tinh khiết, tương phản cực cao */
+  --text-secondary: #cbd5e1; /* Xám xanh nhạt, dễ đọc */
+  --text-muted: #94a3b8;
+  --brand-primary: #6366f1; /* Indigo sáng */
+  --brand-hover: #818cf8;
+  --brand-surface: rgba(99, 102, 241, 0.15);
+  --tag-kanji-bg: #422006; /* Amber đậm */
+  --tag-kanji-text: #fcd34d; /* Vàng nổi bật */
+  --tag-kanji-border: #78350f;
+  --tag-kana-bg: #1e293b;
+  --tag-kana-text: #cbd5e1;
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-hover: 0 4px 14px rgba(0, 0, 0, 0.5);
+}
+
+/* GUGA MODE (Tone Hồng Pastel / Neo-Cute đặc quyền Guga Gangs) */
+[data-theme="guga"] {
+  --bg-primary: #fff1f2; /* Rose 50 hồng tro cực nhạt */
+  --bg-secondary: #ffe4e6; /* Rose 100 */
+  --bg-surface: #ffffff; /* Trắng tinh khôi */
+  --bg-surface-hover: #fff1f2; /* Hồng phấn nhẹ */
+  --bg-input: #fff1f2;
+  --border-color: #fecdd3; /* Rose 200 viền hồng phấn */
+  --border-subtle: #ffe4e6;
+  --text-primary: #881337; /* Rose 900 - Đỏ mận/hồng đen đậm, nét chữ cực nét */
+  --text-secondary: #9f1239; /* Rose 800 */
+  --text-muted: #be123c;
+  --brand-primary: #f43f5e; /* Neon Rose 500 */
+  --brand-hover: #e11d48; /* Rose 600 */
+  --brand-surface: #ffe4e6; /* Rose 100 */
+  --tag-kanji-bg: #fef08a; /* Vàng bơ / Kem phô mai */
+  --tag-kanji-text: #854d0e; /* Nâu sẫm */
+  --tag-kanji-border: #fde047;
+  --tag-kana-bg: #f3e8ff; /* Tím lavender nhạt */
+  --tag-kana-text: #7e22ce; /* Tím đậm */
+  --shadow-card: 0 2px 5px rgba(244, 63, 94, 0.08);
+  --shadow-hover: 0 6px 16px rgba(244, 63, 94, 0.16);
 }
 
 body {
   font-family: var(--font-main);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
 }
 
 .font-jp {
   font-family: var(--font-jp);
+}
+
+/* Áp dụng tokens cho các thành phần chính khi đổi theme */
+#sidebar {
+  background-color: var(--bg-surface) !important;
+  border-color: var(--border-color) !important;
+}
+
+header {
+  background-color: var(--bg-surface) !important;
+  border-color: var(--border-color) !important;
+}
+
+main {
+  background-color: var(--bg-primary) !important;
+}
+
+/* Override Pro Dark Mode chi tiết */
+.dark .text-slate-900,
+.dark .text-slate-800 {
+  color: var(--text-primary) !important;
+}
+
+.dark .text-slate-700,
+.dark .text-slate-600 {
+  color: var(--text-secondary) !important;
+}
+
+.dark .text-slate-500 {
+  color: var(--text-muted) !important;
+}
+
+.dark .bg-white {
+  background-color: var(--bg-surface) !important;
+}
+
+.dark .bg-slate-50,
+.dark .bg-slate-100 {
+  background-color: var(--bg-secondary) !important;
+}
+
+.dark .border-slate-100,
+.dark .border-slate-200 {
+  border-color: var(--border-color) !important;
+}
+
+/* Tag Hán Việt trong Dark Mode */
+.dark span[class*="bg-amber-"] {
+  background-color: var(--tag-kanji-bg) !important;
+  color: var(--tag-kanji-text) !important;
+  border-color: var(--tag-kanji-border) !important;
+}
+
+/* Override Guga Mode chi tiết */
+[data-theme="guga"] .text-slate-900,
+[data-theme="guga"] .text-slate-800,
+[data-theme="guga"] .text-slate-700 {
+  color: var(--text-primary) !important;
+}
+
+[data-theme="guga"] .text-slate-600,
+[data-theme="guga"] .text-slate-500 {
+  color: var(--text-secondary) !important;
+}
+
+[data-theme="guga"] .text-slate-400 {
+  color: var(--text-muted) !important;
+}
+
+[data-theme="guga"] .text-brand-600,
+[data-theme="guga"] .text-brand-700 {
+  color: var(--brand-primary) !important;
+}
+
+[data-theme="guga"] .bg-brand-50,
+[data-theme="guga"] .bg-brand-100 {
+  background-color: var(--brand-surface) !important;
+  color: var(--brand-primary) !important;
+}
+
+[data-theme="guga"] .bg-brand-600 {
+  background-color: var(--brand-primary) !important;
+}
+
+[data-theme="guga"] .bg-white {
+  background-color: var(--bg-surface) !important;
+}
+
+[data-theme="guga"] .bg-slate-50,
+[data-theme="guga"] .bg-slate-100 {
+  background-color: var(--bg-secondary) !important;
+}
+
+[data-theme="guga"] .border-slate-100,
+[data-theme="guga"] .border-slate-200,
+[data-theme="guga"] .border-slate-300 {
+  border-color: var(--border-color) !important;
+}
+
+/* Tag Hán Việt trong Guga Mode */
+[data-theme="guga"] span[class*="bg-amber-"] {
+  background-color: var(--tag-kanji-bg) !important;
+  color: var(--tag-kanji-text) !important;
+  border-color: var(--tag-kanji-border) !important;
+}
+
+/* Tag Kana trong Guga Mode */
+[data-theme="guga"] span[class*="bg-slate-100"] {
+  background-color: var(--tag-kana-bg) !important;
+  color: var(--tag-kana-text) !important;
+}
+
+/* Thẻ bài học và card */
+.vocab-card, .kanji-card, .grammar-card, .grammar-item, .curriculum-item, .level-group {
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.dark .vocab-card,
+.dark .kanji-card,
+.dark .grammar-card,
+.dark .grammar-item {
+  background-color: var(--bg-surface) !important;
+  border-color: var(--border-color) !important;
+  box-shadow: var(--shadow-card) !important;
+}
+
+.dark .vocab-card:hover,
+.dark .kanji-card:hover,
+.dark .grammar-card:hover,
+.dark .grammar-item:hover {
+  background-color: var(--bg-surface-hover) !important;
+  border-color: #475569 !important;
+  box-shadow: var(--shadow-hover) !important;
+}
+
+[data-theme="guga"] .vocab-card,
+[data-theme="guga"] .kanji-card,
+[data-theme="guga"] .grammar-card,
+[data-theme="guga"] .grammar-item {
+  background-color: var(--bg-surface) !important;
+  border-color: var(--border-color) !important;
+  box-shadow: var(--shadow-card) !important;
+}
+
+[data-theme="guga"] .vocab-card:hover,
+[data-theme="guga"] .kanji-card:hover,
+[data-theme="guga"] .grammar-card:hover,
+[data-theme="guga"] .grammar-item:hover {
+  border-color: var(--brand-primary) !important;
+  box-shadow: var(--shadow-hover) !important;
+}
+
+/* Watermark cánh cụt chìm trong Guga Mode */
+[data-theme="guga"] #main-content-scroll {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' opacity='0.05'%3E%3Cellipse cx='50' cy='55' rx='30' ry='35' fill='%23f43f5e'/%3E%3Cellipse cx='50' cy='58' rx='22' ry='26' fill='%23ffffff'/%3E%3Ccircle cx='40' cy='42' r='4' fill='%23881337'/%3E%3Ccircle cx='60' cy='42' r='4' fill='%23881337'/%3E%3Cpolygon points='50,47 44,53 56,53' fill='%23fbbf24'/%3E%3Ccircle cx='36' cy='49' r='3.5' fill='%23fda4af'/%3E%3Ccircle cx='64' cy='49' r='3.5' fill='%23fda4af'/%3E%3Cpath d='M20,50 Q12,65 24,70 Q26,60 22,50' fill='%23f43f5e'/%3E%3Cpath d='M80,50 Q88,65 76,70 Q74,60 78,50' fill='%23f43f5e'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 160px 160px;
 }
 
 /* Custom Scrollbar */
@@ -199,9 +433,177 @@ body {
   background-color: rgba(244, 63, 94, 0.1) !important;
   color: #e11d48 !important;
 }
-
 .dark .grammar-option-card.wrong {
   color: #fb7185 !important;
+}
+
+/* ====================================================================
+   LINH VẬT BÉ CÁNH CỤT GUGUGAGA (CHỈ HIỂN THỊ KHI Ở GUGA MODE)
+   ==================================================================== */
+
+#gugugaga-mascot-widget {
+  display: none;
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 50;
+  cursor: pointer;
+  user-select: none;
+  flex-direction: column;
+  align-items: center;
+}
+
+[data-theme="guga"] #gugugaga-mascot-widget,
+#gugugaga-mascot-widget.force-show {
+  display: flex !important;
+}
+
+@keyframes guga-pop {
+  0% { transform: scale(0.6) translateY(20px); opacity: 0; }
+  100% { transform: scale(1) translateY(0); opacity: 1; }
+}
+
+#gugugaga-mascot-widget.force-show {
+  animation: guga-pop 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+/* Hoạt ảnh bồng bềnh nhẹ nhàng khi nghỉ (idle floating/breathing) */
+@keyframes guga-float {
+  0%, 100% {
+    transform: translateY(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-8px) rotate(2deg);
+  }
+}
+
+.guga-mascot-body {
+  animation: guga-float 3s ease-in-out infinite;
+  filter: drop-shadow(0 8px 16px rgba(244, 63, 94, 0.35));
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.guga-mascot-body:hover {
+  transform: scale(1.1) translateY(-4px);
+}
+
+.guga-mascot-body:active {
+  transform: scale(0.95);
+}
+
+/* Hoạt ảnh vẫy cánh mừng rỡ khi flip flashcard hoặc phát âm từ vựng */
+@keyframes guga-celebrate {
+  0%, 100% { transform: scale(1) rotate(0deg); }
+  25% { transform: scale(1.2) rotate(-8deg); }
+  50% { transform: scale(1.25) rotate(8deg); }
+  75% { transform: scale(1.2) rotate(-5deg); }
+}
+
+.guga-celebrating {
+  animation: guga-celebrate 0.65s ease-in-out !important;
+}
+
+/* Hoạt ảnh bé an ủi/vỗ về khi làm sai câu hỏi */
+@keyframes guga-comfort {
+  0%, 100% { transform: scale(1) rotate(0deg); }
+  25% { transform: scale(0.96) rotate(-8deg) translateY(2px); }
+  50% { transform: scale(0.98) rotate(6deg); }
+  75% { transform: scale(0.98) rotate(-4deg); }
+}
+
+.guga-comforting {
+  animation: guga-comfort 0.8s ease-in-out !important;
+}
+
+/* Hoạt ảnh vẫy tay chào ngộ nghĩnh của bé Gugugaga */
+@keyframes guga-waving {
+  0%, 100% { transform-origin: 84px 66px; transform: rotate(0deg); }
+  50% { transform-origin: 84px 66px; transform: rotate(-18deg); }
+}
+
+.guga-waving-arm {
+  animation: guga-waving 1.6s ease-in-out infinite;
+}
+
+/* Bong bóng thoại mini phát ngôn của bé Gugugaga */
+#gugugaga-speech-bubble {
+  position: absolute;
+  bottom: 78px;
+  right: 0;
+  width: max-content;
+  max-width: 260px;
+  background: #ffffff;
+  color: #881337;
+  border: 2px solid #f43f5e;
+  border-radius: 16px;
+  padding: 8px 14px;
+  font-size: 11px;
+  font-weight: 800;
+  box-shadow: 0 10px 25px rgba(244, 63, 94, 0.25);
+  opacity: 0;
+  transform: translateY(10px) scale(0.85);
+  pointer-events: none;
+  transition: all 0.25s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+#gugugaga-speech-bubble.active {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  pointer-events: auto;
+}
+
+#gugugaga-speech-bubble::after {
+  content: '';
+  position: absolute;
+  bottom: -6px;
+  right: 32px;
+  width: 10px;
+  height: 10px;
+  background: #ffffff;
+  border-right: 2px solid #f43f5e;
+  border-bottom: 2px solid #f43f5e;
+  transform: rotate(45deg);
+}
+
+/* Kiểu dáng bong bóng thoại khi Trả lời ĐÚNG */
+#gugugaga-speech-bubble.bubble-correct {
+  border-color: #10b981;
+  color: #065f46;
+  box-shadow: 0 10px 25px rgba(16, 185, 129, 0.25);
+}
+#gugugaga-speech-bubble.bubble-correct::after {
+  border-right: 2px solid #10b981;
+  border-bottom: 2px solid #10b981;
+}
+
+/* Kiểu dáng bong bóng thoại khi Trả lời SAI */
+#gugugaga-speech-bubble.bubble-wrong {
+  border-color: #f59e0b;
+  color: #92400e;
+  box-shadow: 0 10px 25px rgba(245, 158, 11, 0.25);
+}
+#gugugaga-speech-bubble.bubble-wrong::after {
+  border-right: 2px solid #f59e0b;
+  border-bottom: 2px solid #f59e0b;
+}
+
+/* Hiệu ứng hạt tim bay (Floating Hearts) */
+@keyframes heart-rise {
+  0% {
+    opacity: 1;
+    transform: translateY(0) scale(0.8) rotate(0deg);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-90px) scale(1.4) rotate(25deg);
+  }
+}
+
+.guga-floating-heart {
+  position: absolute;
+  pointer-events: none;
+  font-size: 18px;
+  animation: heart-rise 1s ease-out forwards;
 }
 
 

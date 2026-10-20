@@ -3,7 +3,7 @@
     "word": "覚えます",
     "meaning": "ghi nhớ, học thuộc",
     "reading": "おぼえます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIÁC",
     "example": "毎日寝る前の15分間を使って、新しい英単語を10個ずつ覚えます。 (Mỗi tối tôi dành 15 phút trước khi đi ngủ để học thuộc 10 từ vựng mới.)"
   },
   {
@@ -31,7 +31,7 @@
     "word": "返します",
     "meaning": "trả lại (đồ đã mượn, tiền vay)",
     "reading": "かえします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "PHẢN",
     "example": "図書館から借りていた本を、返却期限の前にきちんとカウンターへ返しました。 (Tôi đã mang trả những cuốn sách mượn từ thư viện về đúng quầy trước kỳ hạn.)"
   },
   {
@@ -73,14 +73,14 @@
     "word": "残業します",
     "meaning": "làm thêm giờ, tăng ca ngoài giờ",
     "reading": "ざんぎょうします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TÀN NGHIỆP",
     "example": "月末の決算処理で仕事が山積みだったので、夜の九時まで残業しました。 (Cuối tháng công việc quyết toán sổ sách dồn ứ nên tôi phải làm thêm giờ đến 9 giờ tối.)"
   },
   {
     "word": "出張します",
     "meaning": "đi công tác xa nhà",
     "reading": "しゅっちょうします",
-    "sinoVietnamese": "XUẤT",
+    "sinoVietnamese": "XUẤT TRƯƠNG",
     "example": "来週の月曜日から三日間の日程で、大阪支社へ出張することになりました。 (Tôi vừa nhận lịch đi công tác tại chi nhánh Osaka trong ba ngày từ thứ Hai tuần tới.)"
   },
   {
@@ -98,18 +98,18 @@
     "example": "寒い冬の夜は、温かいお風呂にゆっくり入って体の芯まで温まります。 (Vào những đêm mùa đông giá rét, tôi ngâm mình thong thả trong bồn tắm nước ấm cho ấm người.)"
   },
   {
-    "word": "大切「な」",
-    "meaning": "quan trọng",
-    "reading": "たいせつ[な]",
+    "word": "大切 [な]",
+    "meaning": "quan trọng, quý giá",
+    "reading": "たいせつ",
     "sinoVietnamese": "ĐẠI THIẾT",
-    "example": "使いやすい大切のおかげで、毎日の生活がとても快適になりました。 (Nhờ những tính năng dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+    "example": "健康は何よりも大切ですから、無理をしないでください。(Sức khỏe là quan trọng hơn bất cứ thứ gì, nên xin đừng làm việc quá sức.)"
   },
   {
-    "word": "大丈夫「な」",
-    "meaning": "không vấn đề gì, không vấn đề gì",
-    "reading": "だいじょうぶ[な]",
-    "sinoVietnamese": "ĐẠI",
-    "example": "誕生日に大丈夫へ感謝の気持ちを込めて手紙を書きました。 (Tôi đã viết một lá thư cho Okina vào ngày sinh nhật của mình để bày tỏ lòng biết ơn.)"
+    "word": "大丈夫 [な]",
+    "meaning": "không sao, ổn thỏa, an toàn",
+    "reading": "だいじょうぶ",
+    "sinoVietnamese": "ĐẠI TRƯỢNG PHU",
+    "example": "「怪我はありませんか」「はい、大丈夫です、ご心配なく」。(\"Bạn có bị thương không?\" \"Dạ vâng, tôi không sao ổn cả, xin đừng lo lắng\".)"
   },
   {
     "word": "危ない",
@@ -136,14 +136,14 @@
     "word": "禁煙",
     "meaning": "cấm hút thuốc lá (khu vực không khói thuốc)",
     "reading": "きんえん",
-    "sinoVietnamese": "CẤM",
+    "sinoVietnamese": "CẤM YÊN",
     "example": "駅のホームや車内は全席禁煙ですので、加熱式たばこもご遠慮ください。 (Toàn bộ sân ga và trên tàu đều cấm hút thuốc nên xin vui lòng không hút cả thuốc lá điện tử.)"
   },
   {
     "word": "健康保険証",
     "meaning": "thẻ, quân bài",
     "reading": "[けんこう] ほけんしょう",
-    "sinoVietnamese": "HIỂM",
+    "sinoVietnamese": "KIỆN KHANG BẢO HIỂM CHỨNG",
     "example": "使いやすい健康保険証のおかげで、毎日の生活がとても快適になりました。 (Thẻ bảo hiểm y tế dễ sử dụng đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
   },
   {
@@ -204,10 +204,10 @@
   },
   {
     "word": "２、３～",
-    "meaning": "vài ba ～ (ngày, cái...)",
-    "reading": "２、３～",
+    "meaning": "vài ba ～ (ngày, lần...)",
+    "reading": "に、さん",
     "sinoVietnamese": "",
-    "example": "風邪気味なので、２、３日家でゆっくり休みたいです。(Vì hơi bị cảm nên tôi muốn nghỉ ngơi ở nhà 2-3 ngày.)"
+    "example": "風邪気味なので、家で二、三日ゆっくり休養を取ります。(Vì hơi bị cảm nên tôi sẽ nghỉ ngơi dưỡng sức ở nhà vài ba ngày.)"
   },
   {
     "word": "～までに",

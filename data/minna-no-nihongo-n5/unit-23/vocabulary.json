@@ -8,9 +8,9 @@
   },
   {
     "word": "交差点",
-    "meaning": "ngã tư đường, giao lộ (đã sửa lỗi chính tả từ 操作店 thành 交差点)",
+    "meaning": "ngã tư đường, giao lộ",
     "reading": "こうさてん",
-    "sinoVietnamese": "TÁC ĐIẾM",
+    "sinoVietnamese": "GIAO SAI ĐIỂM",
     "example": "歩行者の安全のため、信号のある大きな交差点を渡る際は左右をよく確認した。 (Để đảm bảo an toàn cho người đi bộ, khi băng qua ngã tư lớn có đèn tín hiệu tôi nhìn kỹ hai bên.)"
   },
   {
@@ -24,21 +24,21 @@
     "word": "引越しします",
     "meaning": "chuyển nhà sang nơi ở mới",
     "reading": "ひっこしします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DẪN VIỆT",
     "example": "転勤が決まったため、来月の初旬に会社の寮から新しいマンションへ引越しします。 (Vì có quyết định chuyển công tác, đầu tháng sau tôi sẽ chuyển nhà từ ký túc xá sang căn hộ mới.)"
   },
   {
     "word": "回します",
     "meaning": "vặn, xoay (núm xoay, chìa khóa)",
     "reading": "まわします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HỒI",
     "example": "水道の蛇口を右へ回すと、勢いよくきれいな水が流れ出しました。 (Vặn vòi nước sang bên phải, dòng nước trong veo liền tuôn trào mát rượi.)"
   },
   {
     "word": "引きます",
     "meaning": "kéo (cửa kéo, dây: ドアを引く)",
     "reading": "ひきます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DẪN",
     "example": "ドアの取っ手を強く引いて開けると、中から温かい光が漏れてきました。 (Tôi kéo mạnh tay nắm cửa mở ra, ánh sáng ấm áp bên trong liền ùa tới.)"
   },
   {
@@ -52,7 +52,7 @@
     "word": "触ります",
     "meaning": "chạm vào, sờ vào (đồ vật: ボタンに触る)",
     "reading": "さわります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "XÚC",
     "example": "展示室の美術品は壊れやすいので、絶対に手で触らないでください。 (Các hiện vật mỹ thuật trong phòng trưng bày rất dễ vỡ, xin tuyệt đối không sờ tay vào.)"
   },
   {
@@ -71,16 +71,16 @@
   },
   {
     "word": "歩きます",
-    "meaning": "đi bộ (tản bộ trên vỉa hè)",
+    "meaning": "đi bộ, tản bộ",
     "reading": "あるきます",
     "sinoVietnamese": "BỘ",
-    "example": "春のうららかな陽気の中、桜並木の下を気持ちよく歩きました。 (Dưới tiết trời xuân ấm áp, tôi thảnh thơi rảo bước dưới những hàng cây hoa anh đào rực rỡ.)"
+    "example": "健康のために毎日駅から家まで歩きます。(Để giữ gìn sức khỏe, mỗi ngày tôi đều đi bộ từ nhà ga về nhà.)"
   },
   {
     "word": "渡ります",
     "meaning": "băng qua (cầu, đường: 橋/道を渡る)",
     "reading": "わたります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐỘ",
     "example": "信号が青に変わったのを確認してから、横断歩道を渡りました。 (Chờ đèn tín hiệu chuyển xanh an toàn, tôi mới bước qua vạch sang đường.)"
   },
   {
@@ -101,7 +101,7 @@
     "word": "故障",
     "meaning": "sự cố hỏng hóc (máy móc, thiết bị)",
     "reading": "こしょう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CỐ CHƯỚNG",
     "example": "洗濯機が突然故障して動かなくなってしまったので、修理センターに電話した。 (Máy giặt đột nhiên bị hỏng không hoạt động nên tôi đã gọi điện tới trung tâm sửa chữa.)"
   },
   {
@@ -129,7 +129,7 @@
     "word": "機械",
     "meaning": "máy móc, thiết bị cơ khí",
     "reading": "きかい",
-    "sinoVietnamese": "KI GIỚI",
+    "sinoVietnamese": "CƠ GIỚI",
     "example": "工場の生産ラインでは、最新鋭の精密機械が休みなく稼働しています。 (Trên dây chuyền sản xuất của nhà máy, các cỗ máy chính xác tối tân hoạt động không ngừng nghỉ.)"
   },
   {
@@ -143,21 +143,21 @@
     "word": "角",
     "meaning": "góc phố, khúc quanh ngã rẽ",
     "reading": "かど",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIÁC",
     "example": "二つ目の角を左に曲がると、目の前に目指していたカフェが現れます。 (Rẽ trái ở góc phố thứ hai, quán cà phê bạn đang tìm sẽ hiện ra ngay trước mắt.)"
   },
   {
     "word": "橋",
     "meaning": "cây cầu bắc qua sông",
     "reading": "はし",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KIỀU",
     "example": "大きな川にかかる石造りの古い橋を渡って、対岸の城下町へと向かった。 (Tôi đi qua cây cầu đá cổ kính bắc qua dòng sông lớn để sang khu phố cổ bên kia bờ.)"
   },
   {
     "word": "駐車場",
     "meaning": "bãi đỗ xe, bãi gửi xe ô tô",
     "reading": "ちゅうしゃじょう",
-    "sinoVietnamese": "XA",
+    "sinoVietnamese": "TRÚ XA TRƯỜNG",
     "example": "週末のショッピングモールは大変混雑していて、駐車場に入るまで三十分も待った。 (Trung tâm thương mại cuối tuần đông nghẹt người, tôi phải chờ 30 phút mới vào được bãi đỗ xe.)"
   },
   {
@@ -175,11 +175,11 @@
     "example": "美味しい夕食を食べ終わって、「ごちそうさまでした」と笑顔で挨拶しました。(Ăn xong bữa tối ngon lành, tôi mỉm cười nói: \"Cảm ơn vì bữa ăn ngon\".)"
   },
   {
-    "word": "ー目",
-    "meaning": "-th / -số",
-    "reading": "ーめ",
+    "word": "～目",
+    "meaning": "thứ ～ (hậu tố chỉ số thứ tự)",
+    "reading": "～め",
     "sinoVietnamese": "MỤC",
-    "example": "使いやすいー目のおかげで、毎日の生活がとても快適になりました。 (Đôi mắt dễ sử dụng đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
+    "example": "二つ目の角を右に曲がると銀行があります。(Rẽ phải ở góc cua thứ hai thì sẽ có một ngân hàng.)"
   },
   {
     "word": "建物",
@@ -192,7 +192,7 @@
     "word": "外国人登録証",
     "meaning": "thẻ, quân bài",
     "reading": "がいこくじんとうろくしょう",
-    "sinoVietnamese": "NGOẠI QUỐC NHÂN",
+    "sinoVietnamese": "NGOẠI QUỐC NHÂN ĐĂNG LỤC CHỨNG",
     "example": "誕生日に外国人登録証へ感謝の気持ちを込めて手紙を書きました。 (Vào ngày sinh nhật của tôi, tôi đã viết một lá thư để bày tỏ lòng biết ơn về thẻ đăng ký người nước ngoài của tôi.)"
   }
 ]

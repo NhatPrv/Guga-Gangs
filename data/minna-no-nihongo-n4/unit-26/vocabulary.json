@@ -31,7 +31,7 @@
     "word": "会議に間に合う",
     "meaning": "kịp giờ họp",
     "reading": "かいぎにまにあう",
-    "sinoVietnamese": "HỘI GIAN HỢP",
+    "sinoVietnamese": "HỘI NGHỊ GIAN HỢP",
     "example": "タクシーに乗ったので、午後の大事な会議に間に合いました。 (Nhờ bắt taxi nên tôi đã kịp giờ cuộc họp quan trọng buổi chiều.)"
   },
   {
@@ -45,7 +45,7 @@
     "word": "ごみを拾う",
     "meaning": "nhặt rác",
     "reading": "ごみをひろう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THẬP",
     "example": "公園のボランティア活動でみんなでごみを拾いました。 (Trong hoạt động tình nguyện ở công viên, mọi người cùng nhau nhặt rác.)"
   },
   {
@@ -80,7 +80,7 @@
     "word": "盆踊り",
     "meaning": "điệu múa Bon (múa lễ hội truyền thống mùa hè)",
     "reading": "ぼんおどり",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BỒN DŨNG",
     "example": "浴衣を着て夏祭りの盆踊りに参加しました。 (Tôi mặc áo Yukata và tham gia điệu múa Bon tại lễ hội mùa hè.)"
   },
   {
@@ -94,7 +94,7 @@
     "word": "場所",
     "meaning": "địa điểm, nơi chốn",
     "reading": "ばしょ",
-    "sinoVietnamese": "SỞ",
+    "sinoVietnamese": "TRƯỜNG SỞ",
     "example": "明日のバーベキューをする場所はどこですか。 (Địa điểm tổ chức tiệc nướng ngày mai là ở đâu vậy?)"
   },
   {
@@ -115,28 +115,28 @@
     "word": "国会議事堂",
     "meaning": "tòa nhà Quốc hội",
     "reading": "こっかいぎじどう",
-    "sinoVietnamese": "QUỐC HỘI",
+    "sinoVietnamese": "QUỐC HỘI NGHỊ SỰ ĐƯỜNG",
     "example": "東京観光で歴史のある国会議事堂を見学しました。 (Trong chuyến tham quan Tokyo, tôi đã đến thăm tòa nhà Quốc hội có bề dày lịch sử.)"
   },
   {
     "word": "平日/週末",
     "meaning": "ngày thường / cuối tuần",
     "reading": "へいじつ / しゅうまつ",
-    "sinoVietnamese": "NHẬT",
+    "sinoVietnamese": "BÌNH NHẬT CHU MẠT",
     "example": "平日は会社で働き、週末は家でゆっくり休みます。 (Ngày thường tôi làm việc ở công ty, còn cuối tuần thì nghỉ ngơi thảnh thơi ở nhà.)"
   },
   {
-    "word": "大阪弁(方言）",
-    "meaning": "tiếng địa phương Osaka (phương ngữ)",
+    "word": "大阪弁",
+    "meaning": "tiếng Osaka, giọng Osaka (phương ngôn: 方言)",
     "reading": "おおさかべん",
-    "sinoVietnamese": "ĐẠI NGÔN",
+    "sinoVietnamese": "ĐẠI PHẢN BIỆN",
     "example": "関西に住んでいるうちに、自然と大阪弁を覚えました。 (Trong thời gian sống ở vùng Kansai, tôi đã tự nhiên học được tiếng Osaka.)"
   },
   {
     "word": "今度",
     "meaning": "lần tới, dịp tới (sắp tới)",
     "reading": "こんど",
-    "sinoVietnamese": "KIM",
+    "sinoVietnamese": "KIM ĐỘ",
     "example": "今度の日曜日にみんなで映画を見に行きませんか。 (Chủ nhật tới này mọi người cùng đi xem phim nhé?)"
   },
   {
@@ -189,11 +189,11 @@
     "example": "こんなに綺麗な桜を見るのは生まれて初めてです。 (Đây là lần đầu tiên trong đời tôi được ngắm hoa anh đào đẹp như thế này.)"
   },
   {
-    "word": "そんな…",
-    "meaning": "như thế đó...",
-    "reading": "そんな",
+    "word": "そんなに",
+    "meaning": "đến mức đó, như thế đó",
+    "reading": "そんなに",
     "sinoVietnamese": "",
-    "example": "そんなに心配しなくても、彼はきっと合格しますよ。 (Không cần lo lắng đến mức đó đâu, anh ấy chắc chắn sẽ đỗ thôi.)"
+    "example": "そんなに心配しなくても、彼はきっと合格しますよ。(Không cần lo lắng đến mức đó đâu, anh ấy chắc chắn sẽ đỗ thôi.)"
   },
   {
     "word": "あんな…",
@@ -206,7 +206,7 @@
     "word": "片付く",
     "meaning": "được dọn dẹp ngăn nắp (tự động từ)",
     "reading": "かたづく",
-    "sinoVietnamese": "PHÓ",
+    "sinoVietnamese": "PHIẾN PHÓ",
     "example": "大掃除をしたので、散らかっていた部屋が綺麗に片付きました。 (Sau khi tổng vệ sinh, căn phòng bừa bộn đã được dọn dẹp ngăn nắp.)"
   },
   {
@@ -220,21 +220,21 @@
     "word": "置き場",
     "meaning": "nơi để, chỗ quy định để đồ/rác",
     "reading": "おきば",
-    "sinoVietnamese": "TRƯỜNG",
+    "sinoVietnamese": "TRÍ TRƯỜNG",
     "example": "アパートのごみ置き場のルールをしっかり守りましょう。 (Hãy tuân thủ nghiêm túc quy định tại nơi tập kết rác của khu chung cư.)"
   },
   {
     "word": "瓶",
     "meaning": "chai, lọ thủy tinh",
     "reading": "びん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BÌNH",
     "example": "ジャムの空き瓶を洗ってリサイクルに出しました。 (Tôi rửa sạch lọ mứt rỗng rồi đem đi tái chế.)"
   },
   {
     "word": "缶",
     "meaning": "lon, hộp kim loại",
     "reading": "かん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "PHẪU",
     "example": "自動販売機で温かい缶コーヒーを買いました。 (Tôi đã mua một lon cà phê ấm ở máy bán hàng tự động.)"
   },
   {
@@ -262,28 +262,28 @@
     "word": "田中様、お客様",
     "meaning": "Ngài Tanaka, Quý khách hàng (cách gọi kính trọng)",
     "reading": "たなかさま、おきゃくさま",
-    "sinoVietnamese": "TRUNG",
+    "sinoVietnamese": "ĐIỀN TRUNG DẠNG KHÁCH DẠNG",
     "example": "お客様、お待たせいたしました。こちらへどうぞ。 (Kính thưa quý khách, xin lỗi đã để quý khách đợi lâu. Mời quý khách đi lối này.)"
   },
   {
     "word": "宇宙船",
     "meaning": "tàu vũ trụ",
     "reading": "うちゅうせん",
-    "sinoVietnamese": "VŨ TRỤ",
+    "sinoVietnamese": "VŨ TRỤ THUYỀN",
     "example": "宇宙船が国際宇宙ステーションに無事ドッキングしました。 (Tàu vũ trụ đã kết nối thành công và an toàn với trạm vũ trụ quốc tế.)"
   },
   {
     "word": "怖い",
     "meaning": "đáng sợ, sợ hãi",
     "reading": "こわい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BỐ",
     "example": "夜遅くに一人で暗い夜道を歩くのはとても怖いです。 (Đi bộ một mình trên con đường tối lúc đêm muộn thật là đáng sợ.)"
   },
   {
     "word": "宇宙飛行士",
     "meaning": "phi hành gia",
     "reading": "うちゅうひこうし",
-    "sinoVietnamese": "VŨ TRỤ HÀNH",
+    "sinoVietnamese": "VŨ TRỤ PHI HÀNH SĨ",
     "example": "将来宇宙飛行士になって月面を歩くのが彼の夢です。 (Trở thành phi hành gia và bước đi trên mặt trăng là ước mơ của cậu ấy.)"
   }
 ]

@@ -10,7 +10,7 @@
     "word": "続ける",
     "meaning": "tiếp tục, duy trì (tha động từ)",
     "reading": "つづける",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TỤC",
     "example": "どんなに忙しくても、毎日の日本語の勉強を続けます。 (Dù bận rộn đến mấy tôi cũng sẽ tiếp tục việc học tiếng Nhật mỗi ngày.)"
   },
   {
@@ -38,14 +38,14 @@
     "word": "卒業します",
     "meaning": "tốt nghiệp (ra trường)",
     "reading": "そつぎょうします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TỐT NGHIỆP",
     "example": "来年の春に専門学校を卒業してIT企業に就職します。 (Mùa xuân năm sau tôi sẽ tốt nghiệp trường chuyên môn và đi làm ở công ty IT.)"
   },
   {
     "word": "休憩します",
     "meaning": "nghỉ giải lao, giải lao giữa giờ",
     "reading": "きゅうけいします",
-    "sinoVietnamese": "HƯU",
+    "sinoVietnamese": "HƯU KHẾ",
     "example": "2時間集中して勉強したので、お茶を飲んで10分休憩します。 (Sau 2 tiếng học tập tập trung, tôi uống trà và nghỉ giải lao 10 phút.)"
   },
   {
@@ -59,28 +59,28 @@
     "word": "展覧会",
     "meaning": "triển lãm (tranh ảnh, nghệ thuật)",
     "reading": "てんらんかい",
-    "sinoVietnamese": "HỘI",
+    "sinoVietnamese": "TRIỂN LÃM HỘI",
     "example": "上野の美術館で開かれている近代絵画の展覧会を見に行きました。 (Tôi đến xem buổi triển lãm tranh hội họa cận đại được tổ chức ở bảo tàng Ueno.)"
   },
   {
     "word": "結婚式",
     "meaning": "lễ thành hôn, đám cưới",
     "reading": "けっこんしき",
-    "sinoVietnamese": "KẾT HÔN",
+    "sinoVietnamese": "KẾT HÔN THỨC",
     "example": "親友の結婚式に出席して、心からのお祝いを伝えました。 (Tôi đã đến dự đám cưới của người bạn thân và gửi lời chúc phúc chân thành.)"
   },
   {
     "word": "「お」葬式",
     "meaning": "lễ tang, đám tang",
     "reading": "おそうしき",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TÁNG THỨC",
     "example": "お葬式には黒いスーツを着て参列するのが日本のマナーです。 (Mặc âu phục màu đen đi viếng tang lễ là phép lịch sự ở Nhật Bản.)"
   },
   {
     "word": "式",
     "meaning": "buổi lễ, nghi lễ",
     "reading": "しき",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THỨC",
     "example": "明日の朝9時から講堂で新入社員の入社式が行われます。 (Lễ đón nhân viên mới sẽ diễn ra tại hội trường vào 9 giờ sáng mai.)"
   },
   {
@@ -94,7 +94,7 @@
     "word": "支店",
     "meaning": "chi nhánh (ngân hàng, công ty)",
     "reading": "してん",
-    "sinoVietnamese": "ĐIẾM",
+    "sinoVietnamese": "CHI ĐIẾM",
     "example": "来月から大阪の支店に転勤することになりました。 (Từ tháng sau, tôi được điều chuyển công tác về chi nhánh Osaka.)"
   },
   {
@@ -122,14 +122,14 @@
     "word": "温泉",
     "meaning": "suối nước nóng thiên nhiên",
     "reading": "おんせん",
-    "sinoVietnamese": "ÔN",
+    "sinoVietnamese": "ÔN TUYỀN",
     "example": "寒い冬の日に露天風呂の温泉に浸かると最高の気分です。 (Vào ngày đông giá rét, ngâm mình trong suối nước nóng ngoài trời thật là sảng khoái.)"
   },
   {
     "word": "お客「さん」",
     "meaning": "khách hàng, khách quý",
     "reading": "おきゃくさん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KHÁCH",
     "example": "お店のスタッフがお客さんに笑顔で丁寧に対応しています。 (Nhân viên quán mỉm cười phục vụ khách hàng rất chu đáo.)"
   },
   {
@@ -140,17 +140,17 @@
     "example": "部屋の外でだれかが呼んでいるような声が聞こえました。 (Nghe như có tiếng ai đó đang gọi ở bên ngoài phòng.)"
   },
   {
-    "word": "～の　方",
-    "meaning": "hướng về phía ～",
+    "word": "～の方",
+    "meaning": "hướng về phía ～, về phía ～",
     "reading": "～のほう",
     "sinoVietnamese": "PHƯƠNG",
-    "example": "新しい～の　方を手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã có một ~ mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+    "example": "駅の改札を出て、右の方へ進んでください。(Sau khi ra khỏi cửa soát vé nhà ga, xin hãy đi về phía bên phải.)"
   },
   {
     "word": "残ります",
     "meaning": "còn lại, sót lại (tự động từ)",
     "reading": "のこります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TÀN",
     "example": "仕事がまだ終わっていないので、今夜は会社に残って残業します。 (Vì công việc vẫn chưa xong nên tối nay tôi sẽ ở lại công ty để làm thêm giờ.)"
   },
   {
@@ -164,7 +164,7 @@
     "word": "普通の",
     "meaning": "bình thường, thông thường",
     "reading": "ふつうの",
-    "sinoVietnamese": "THÔNG",
+    "sinoVietnamese": "PHỔ THÔNG",
     "example": "特別な日ではなくても、普通の日常を大切に過ごしたいです。 (Dù chẳng phải ngày đặc biệt, tôi vẫn muốn trân trọng những ngày thường bình dị.)"
   },
   {
@@ -192,7 +192,7 @@
     "word": "子供たち",
     "meaning": "các em nhỏ, lũ trẻ",
     "reading": "こどもたち",
-    "sinoVietnamese": "TỬ",
+    "sinoVietnamese": "TỬ CUNG",
     "example": "公園の広場で子供たちが元気に鬼ごっこをして遊んでいます。 (Ở bãi đất trống trong công viên, lũ trẻ đang chơi trò đuổi bắt vui vẻ.)"
   },
   {
@@ -213,14 +213,14 @@
     "word": "美しい",
     "meaning": "xinh đẹp, tuyệt mỹ, trong sáng",
     "reading": "うつくしい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MỸ",
     "example": "夕暮れ時に富士山の頂上を染める夕焼けがとても美しいです。 (Ánh hoàng hôn nhuộm đỏ đỉnh núi Phú Sĩ lúc chiều tà đẹp vô cùng.)"
   },
   {
     "word": "自然",
     "meaning": "tự nhiên, giới tự nhiên",
     "reading": "しぜん",
-    "sinoVietnamese": "TỰ",
+    "sinoVietnamese": "TỰ NHIÊN",
     "example": "週末は都会を離れて、豊かな自然の中でリフレッシュします。 (Cuối tuần tôi rời khỏi thành phố để thư giãn giữa thiên nhiên phong phú.)"
   },
   {

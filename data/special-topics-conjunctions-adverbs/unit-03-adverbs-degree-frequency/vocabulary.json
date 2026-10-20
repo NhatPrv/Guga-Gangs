@@ -10,7 +10,7 @@
     "word": "たいへん",
     "reading": "たいへん",
     "meaning": "rất nhiều, vô cùng (lịch sự)",
-    "sinoVietnamese": "ĐẠI BIẾN",
+    "sinoVietnamese": "",
     "example": "昨日は大変お世話になりました。 (Hôm qua tôi đã nhận được sự giúp đỡ rất nhiều từ bạn.)"
   },
   {
@@ -31,7 +31,7 @@
     "word": "すこし",
     "reading": "すこし",
     "meaning": "một chút, một ít",
-    "sinoVietnamese": "THIỂU",
+    "sinoVietnamese": "",
     "example": "日本語が少し話せます。 (Tôi có thể nói được một chút tiếng Nhật.)"
   },
   {
@@ -59,7 +59,7 @@
     "word": "だいたい",
     "reading": "だいたい",
     "meaning": "đại khái, hầu như",
-    "sinoVietnamese": "ĐẠI THỂ",
+    "sinoVietnamese": "",
     "example": "今日の宿題はだいたい終わりました。 (Bài tập hôm nay tôi đã làm đại khái xong rồi.)"
   },
   {
@@ -108,7 +108,7 @@
     "word": "ときどき",
     "reading": "ときどき",
     "meaning": "thỉnh thoảng, đôi khi",
-    "sinoVietnamese": "THỜI",
+    "sinoVietnamese": "",
     "example": "週末は時々家族で外食します。 (Cuối tuần tôi thỉnh thoảng đi ăn ngoài cùng gia đình.)"
   },
   {
@@ -129,7 +129,7 @@
     "word": "ぜんぜん",
     "reading": "ぜんぜん",
     "meaning": "hoàn toàn không (đi với phủ định)",
-    "sinoVietnamese": "TOÀN NHIÊN",
+    "sinoVietnamese": "",
     "example": "彼の話は全然分かりませんでした。 (Tôi hoàn toàn không hiểu câu chuyện của anh ấy.)"
   },
   {
@@ -171,21 +171,21 @@
     "word": "きわめて",
     "reading": "きわめて",
     "meaning": "cực kỳ, vô cùng (văn trang trọng)",
-    "sinoVietnamese": "CỰC",
+    "sinoVietnamese": "",
     "example": "この問題の解決は極めて重要です。 (Việc giải quyết vấn đề này là cực kỳ quan trọng.)"
   },
   {
     "word": "いっそう",
     "reading": "いっそう",
     "meaning": "càng thêm, hơn một bậc",
-    "sinoVietnamese": "NHẤT TẦNG",
+    "sinoVietnamese": "",
     "example": "雨が止んで、寒さがいっそう厳しくなりました。 (Mưa tạnh, cái lạnh lại càng thêm khắc nghiệt.)"
   },
   {
     "word": "だんだん",
     "reading": "だんだん",
     "meaning": "dần dần, từ từ",
-    "sinoVietnamese": "ĐOÀN",
+    "sinoVietnamese": "",
     "example": "暖かくなって、だんだん春らしくなってきました。 (Trời ấm lên, dần dần đã mang không khí mùa xuân.)"
   },
   {
@@ -199,7 +199,7 @@
     "word": "徐々に",
     "reading": "じょじょに",
     "meaning": "chầm chậm, từng bước một",
-    "sinoVietnamese": "TỪ",
+    "sinoVietnamese": "TỪ TỪ",
     "example": "病気は徐々に良くなっています。 (Bệnh tình đang dần dần tiến triển tốt lên từng bước.)"
   },
   {

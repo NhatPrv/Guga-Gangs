@@ -1,30 +1,30 @@
 [
   {
-    "word": "乗ります [電車に～]",
-    "meaning": "lên xe, đi tàu (phương tiện: 電車に乗る)",
+    "word": "乗ります",
+    "meaning": "lên xe, đi tàu (tàu điện: 電車に～)",
     "reading": "のります",
-    "sinoVietnamese": "ĐIỆN XA",
+    "sinoVietnamese": "THỪA",
     "example": "毎朝7時半に最寄りの駅から山手線に乗って通勤しています。 (Mỗi sáng vào lúc 7 rưỡi tôi lên tuyến Yamanote từ ga gần nhà để đi làm.)"
   },
   {
-    "word": "降ります [電車に～]",
-    "meaning": "xuống tàu xe (phương tiện: 電車を降りる)",
+    "word": "降ります",
+    "meaning": "xuống (xe, tàu: 電車に～)",
     "reading": "おります",
-    "sinoVietnamese": "ĐIỆN XA",
+    "sinoVietnamese": "GIÁNG",
     "example": "新宿駅に着いたら、混雑する人の波に気をつけて電車を降ります。 (Khi tàu đến ga Shinjuku, tôi chú ý dòng người đông đúc rồi bước xuống tàu.)"
   },
   {
     "word": "乗り換えます",
     "meaning": "chuyển tuyến, đổi tàu xe",
     "reading": "のりかえます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THỪA HOÁN",
     "example": "東京駅で新幹線から在来線の東海道線にスムーズに乗り換えました。 (Tại ga Tokyo, tôi chuyển tuyến nhịp nhàng từ tàu Shinkansen sang tuyến Tokaido.)"
   },
   {
     "word": "浴びます",
     "meaning": "tắm (vòi sen: シャワーを浴びる)",
     "reading": "あびます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DỤC",
     "example": "朝起きたらまず熱いシャワーをサッと浴びて頭をすっきりさせます。 (Mỗi sáng ngủ dậy tôi tắm nhanh bằng vòi sen nước ấm để tinh thần tỉnh táo.)"
   },
   {
@@ -42,17 +42,17 @@
     "example": "銀行のATMにキャッシュカードを入れて、生活費のお金を下ろしました。 (Tôi đút thẻ rút tiền vào cây ATM của ngân hàng để rút tiền sinh hoạt.)"
   },
   {
-    "word": "入ります [大学に～]",
-    "meaning": "vào đại học, nhập học (大学に入る)",
+    "word": "入ります",
+    "meaning": "nhập học, vào học (đại học: 大学に～)",
     "reading": "はいります",
-    "sinoVietnamese": "NHẬP ĐẠI HỌC",
+    "sinoVietnamese": "NHẬP",
     "example": "長年の猛勉強が実を結び、念願だった国立大学の工学部に入りました。 (Bao năm miệt mài đèn sách đơm hoa kết trái, tôi đã đỗ vào khoa kỹ thuật đại học công lập.)"
   },
   {
-    "word": "出ます [大学を～]",
-    "meaning": "tốt nghiệp đại học (大学を出る)",
+    "word": "出ます",
+    "meaning": "tốt nghiệp, ra trường (đại học: 大学を～)",
     "reading": "でます",
-    "sinoVietnamese": "XUẤT ĐẠI HỌC",
+    "sinoVietnamese": "XUẤT",
     "example": "来年の春に無事に大学を出て、日本の商社で働き始めます。 (Mùa xuân năm sau tốt nghiệp đại học suôn sẻ, tôi sẽ đi làm tại công ty thương mại Nhật.)"
   },
   {
@@ -66,14 +66,14 @@
     "word": "押します",
     "meaning": "nhấn, ấn (nút bấm: ボタンを押す)",
     "reading": "おします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ÁP",
     "example": "目的の階に着く前に、エレベーターの押しボタンを軽く押しました。 (Trước khi thang máy lên tới tầng mong muốn, tôi nhấn nhẹ vào nút bấm bảng điều khiển.)"
   },
   {
     "word": "若い",
     "meaning": "trẻ",
     "reading": "わかい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NHƯỢC",
     "example": "多くの若い留学生たちが将来の夢に向かって一生懸命学んでいます。 (Rất nhiều bạn trẻ du học sinh đang miệt mài học tập vì ước mơ tương lai.)"
   },
   {
@@ -108,7 +108,7 @@
     "word": "背が 高い",
     "meaning": "dáng người cao ráo",
     "reading": "せが たかい",
-    "sinoVietnamese": "CAO",
+    "sinoVietnamese": "BỐI CAO",
     "example": "このカバンはとても背が 高いですね。 (Chiếc túi này rất cao.)"
   },
   {
@@ -133,11 +133,11 @@
     "example": "階段で転びそうになり、危うく壁に頭をぶつけるところでした。 (Tôi suýt trượt chân ở cầu thang, tí nữa thì va đầu vào tường.)"
   },
   {
-    "word": "髪",
-    "meaning": "tóc, mái tóc",
+    "word": "かみ",
+    "meaning": "giấy",
     "reading": "かみ",
     "sinoVietnamese": "",
-    "example": "夏に向けて涼しく過ごせるように、美容院で髪を短くカットしてもらいました。 (Để đón mùa hè cho mát mẻ, tôi đã ra tiệm làm tóc cắt ngắn mái tóc của mình.)"
+    "example": "ノートの白い紙にペンで丁寧に文字を書きます。(Tôi dùng bút nắn nót viết chữ lên trang giấy trắng của cuốn vở.)"
   },
   {
     "word": "顔",
@@ -164,7 +164,7 @@
     "word": "歯",
     "meaning": "răng",
     "reading": "は",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "XỈ",
     "example": "毎食後の歯磨きを習慣にして、健康な白い歯を保つように心がけています。 (Tôi luôn tạo thói quen đánh răng sau mỗi bữa ăn để giữ gìn hàm răng trắng khỏe.)"
   },
   {
@@ -197,30 +197,30 @@
   },
   {
     "word": "シャワー",
-    "meaning": "vòi hoa sen",
+    "meaning": "vòi hoa sen, tắm vòi sen",
     "reading": "シャワー",
     "sinoVietnamese": "",
-    "example": "新しいシャワを手に入れて、仕事の効率がぐんと上がりました。 (Tôi được tắm mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+    "example": "朝起きてすぐに温かいシャワーを浴びてすっきりしました。(Thức dậy vào buổi sáng tôi tắm vòi hoa sen ấm cho tỉnh táo người.)"
   },
   {
     "word": "緑",
     "meaning": "màu xanh lá cây, cây cối xanh tươi",
     "reading": "みどり",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LỤC",
     "example": "窓の外には山々の豊かな緑が広がっていて、眺めているだけで癒やされます。 (Bên ngoài cửa sổ trải dài màu xanh bạt ngàn của cây cỏ vùng núi, ngắm thôi cũng thấy thanh thản.)"
   },
   {
-    "word": "[お]寺",
-    "meaning": "đền thờ",
-    "reading": "[お]てら",
-    "sinoVietnamese": "",
-    "example": "使いやすい寺のおかげで、毎日の生活がとても快適になりました。 (Ngôi chùa dễ sử dụng đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
+    "word": "お寺",
+    "meaning": "chùa, ngôi chùa",
+    "reading": "おてら",
+    "sinoVietnamese": "TỰ",
+    "example": "京都の有名で歴史のある古いお寺を観光して回りました。(Tôi đi tham quan ngôi chùa cổ kính nổi tiếng ở Kyoto.)"
   },
   {
     "word": "神社",
     "meaning": "đền thờ thần đạo",
     "reading": "じんじゃ",
-    "sinoVietnamese": "XÃ",
+    "sinoVietnamese": "THẦN XÃ",
     "example": "神社のスタッフは親切に案内してくれました。 (Các nhân viên tại ngôi đền đã vui lòng hướng dẫn chúng tôi đi tham quan.)"
   },
   {
@@ -276,28 +276,28 @@
     "word": "暗証番号",
     "meaning": "mã PIN, mã số bí mật của thẻ ngân hàng",
     "reading": "あんしょうばんごう",
-    "sinoVietnamese": "ÁM PHIÊN HIỆU",
+    "sinoVietnamese": "ÁM CHỨNG PHIÊN HIỆU",
     "example": "ATMで現金を引き出す際は、他人に暗証番号を見られないように手で隠した。 (Khi rút tiền mặt tại cây ATM, tôi lấy tay che lại để người khác không nhìn thấy mã PIN.)"
   },
   {
     "word": "次に",
     "meaning": "tiếp theo",
     "reading": "つぎ に",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THỨ",
     "example": "新しい次にを手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã có được bước tiếp theo mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
   },
   {
     "word": "確認",
     "meaning": "xác nhận, kiểm tra lại (để đảm bảo tính chắc chắn, chính xác)",
     "reading": "かくにん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "XÁC NHẬN",
     "example": "メールを送信する前に、添付ファイルの漏れや誤字がないか再確認した。 (Trước khi gửi email, tôi đã kiểm tra lại xem có quên đính kèm tệp hay sai chính tả không.)"
   },
   {
     "word": "金額",
     "meaning": "tiền bạc",
     "reading": "きんがく",
-    "sinoVietnamese": "KIM",
+    "sinoVietnamese": "KIM NGẠCH",
     "example": "新しい金額を手に入れて、仕事の効率がぐんと上がりました。 (Tôi đã có được một số tiền mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
   },
   {

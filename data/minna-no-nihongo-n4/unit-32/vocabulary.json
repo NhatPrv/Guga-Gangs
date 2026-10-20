@@ -10,28 +10,28 @@
     "word": "成功します",
     "meaning": "thành công",
     "reading": "せいこうします",
-    "sinoVietnamese": "THÀNH",
+    "sinoVietnamese": "THÀNH CÔNG",
     "example": "一生懸命頑張れば、計画はきっと成功するでしょう。 (Nếu cố gắng hết mình, kế hoạch chắc chắn sẽ thành công thôi.)"
   },
   {
-    "word": "失敗します（試験に～）",
-    "meaning": "thất bại, thi trượt (kỳ thi)",
-    "reading": "しっぱいします（しけんに～）",
-    "sinoVietnamese": "THÍ NGHIỆM",
+    "word": "失敗します",
+    "meaning": "thất bại, thi trượt (kỳ thi: 試験に～)",
+    "reading": "しっぱいします",
+    "sinoVietnamese": "THẤT BẠI",
     "example": "失敗を恐れずに、新しいことに挑戦しましょう。 (Đừng sợ thất bại, chúng ta hãy thử sức với những điều mới mẻ.)"
   },
   {
-    "word": "合格します（試験に～）",
-    "meaning": "thi đỗ, đỗ (kỳ thi)",
-    "reading": "ごうかくします（しけんに～）",
-    "sinoVietnamese": "HỢP CÁCH THÍ NGHIỆM",
+    "word": "合格します",
+    "meaning": "thi đỗ, thi đạt (kỳ thi: 試験に～)",
+    "reading": "ごうかくします",
+    "sinoVietnamese": "HỢP CÁCH",
     "example": "毎日真面目に勉強したので、N4の試験に合格できました。 (Vì ngày nào cũng chăm chỉ học nên tôi đã đỗ kỳ thi N4.)"
   },
   {
     "word": "戻ります",
     "meaning": "quay lại, trở lại",
     "reading": "もどります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LỆ",
     "example": "田中さんは3時ごろ会社に戻る予定です。 (Anh Tanaka dự kiến khoảng 3 giờ sẽ quay lại công ty.)"
   },
   {
@@ -56,17 +56,17 @@
     "example": "午後から空が曇って、雨が降るかもしれません。 (Từ chiều bầu trời nhiều mây âm u, có thể sẽ có mưa.)"
   },
   {
-    "word": "吹きます（風が～）",
-    "meaning": "thổi (gió)",
-    "reading": "ふきます（かぜが～）",
-    "sinoVietnamese": "PHONG",
+    "word": "吹きます",
+    "meaning": "thổi (gió: 風が～)",
+    "reading": "ふきます",
+    "sinoVietnamese": "XUY",
     "example": "強い風が吹いているので、窓をしっかり閉めてください。 (Vì gió đang thổi rất mạnh nên xin hãy đóng chặt cửa sổ.)"
   },
   {
     "word": "治ります、直ります",
     "meaning": "khỏi bệnh / được sửa xong",
     "reading": "なおります",
-    "sinoVietnamese": "TRỰC",
+    "sinoVietnamese": "TRỊ TRỰC",
     "example": "薬を飲んでゆっくり休んだら、風邪が治りました。 (Sau khi uống thuốc và nghỉ ngơi thì bệnh cảm của tôi đã khỏi.)"
   },
   {
@@ -143,22 +143,22 @@
     "word": "太陽",
     "meaning": "mặt trời",
     "reading": "たいよう",
-    "sinoVietnamese": "THÁI",
+    "sinoVietnamese": "THÁI DƯƠNG",
     "example": "太陽の光を浴びて、洗濯物を外に干しました。 (Tôi phơi quần áo ngoài trời dưới ánh nắng mặt trời.)"
   },
   {
     "word": "星",
     "meaning": "ngôi sao",
     "reading": "ほし",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TINH",
     "example": "今夜は空気が澄んでいて、夜空の星がとても綺麗です。 (Tối nay không khí trong lành nên các vì sao trên bầu trời đêm rất đẹp.)"
   },
   {
-    "word": "隧道",
-    "meaning": "máy móc",
-    "reading": "すいどう",
-    "sinoVietnamese": "ĐẠO",
-    "example": "長いトンネルを抜けると、目の前に美しい雪景色が広がっていました。 (Khi chúng tôi đi qua đường hầm dài, một khung cảnh tuyết rơi tuyệt đẹp trải ra trước mặt chúng tôi.)"
+    "word": "トンネル",
+    "meaning": "đường hầm",
+    "reading": "トンネル",
+    "sinoVietnamese": "",
+    "example": "長いトンネルを抜けると、目の前に美しい雪景色が広がっていました。(Khi đi qua một đường hầm dài, khung cảnh tuyết trắng tuyệt đẹp đã hiện ra trước mắt.)"
   },
   {
     "word": "エンジン",
@@ -178,7 +178,7 @@
     "word": "今夜",
     "meaning": "tối nay, đêm nay",
     "reading": "こんや",
-    "sinoVietnamese": "KIM",
+    "sinoVietnamese": "KIM DẠ",
     "example": "今夜は家族と一緒に家で美味しい料理を食べます。 (Tối nay tôi sẽ cùng gia đình ăn món ngon tại nhà.)"
   },
   {
@@ -227,14 +227,14 @@
     "word": "胃",
     "meaning": "dạ dày, bao tử",
     "reading": "い",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "VỊ",
     "example": "辛いものを食べすぎて、胃が痛くなってしまいました。 (Ăn quá nhiều đồ cay làm dạ dày của tôi bị đau mất rồi.)"
   },
   {
     "word": "働きすぎ",
     "meaning": "làm việc quá sức",
     "reading": "はたらきすぎ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐỘNG",
     "example": "働きすぎは体に毒ですから、週末はゆっくり休んでください。 (Làm việc quá sức rất có hại cho cơ thể nên cuối tuần hãy nghỉ ngơi nhé.)"
   },
   {
@@ -262,14 +262,14 @@
     "word": "星占い",
     "meaning": "thuật chiêm tinh, bói toán theo các chòm sao",
     "reading": "ほしうらない",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TINH CHIÊM",
     "example": "朝のテレビ番組の星占いで今日の運勢をチェックするのが、毎日のささやかな楽しみです。 (Xem vận mệnh hôm nay qua mục bói sao trên chương trình truyền hình buổi sáng là niềm vui nho nhỏ mỗi ngày của tôi.)"
   },
   {
     "word": "牡牛座",
     "meaning": "kim ngưu",
     "reading": "おうしざ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MẪU NGƯU TỌA",
     "example": "私の星座は5月生まれの牡牛座です。 (Cung hoàng đạo của tôi là Kim Ngưu, sinh vào tháng 5.)"
   },
   {
@@ -283,36 +283,36 @@
     "word": "「宝くじ",
     "meaning": "xổ số",
     "reading": "たからくじ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BẢO",
     "example": "年末に買った宝くじが当たったら嬉しいです。 (Tôi sẽ rất vui nếu trúng được tấm vé số mua cuối năm.)"
   },
   {
-    "word": "当たります（宝くじが～）",
-    "meaning": "đánh",
-    "reading": "あたります（たからくじが～）",
-    "sinoVietnamese": "",
-    "example": "いつか宝くじが当たったら、世界一周の旅に出たいです。 (Nếu một ngày nào đó tôi trúng số, tôi muốn đi du lịch vòng quanh thế giới.)"
+    "word": "当たります",
+    "meaning": "trúng (xổ số, vé số: 宝くじが～)",
+    "reading": "あたります",
+    "sinoVietnamese": "ĐƯƠNG",
+    "example": "もし宝くじが当たったら、世界一周の旅に出たいです。(Nếu mà trúng xổ số, tôi muốn đi du lịch vòng quanh thế giới.)"
   },
   {
     "word": "健康",
     "meaning": "sức khỏe, sự lành mạnh về thể chất",
     "reading": "けんこう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KIỆN KHANG",
     "example": "日頃の規則正しい生活習慣と適度な運動が、健やかな健康の土台となります。 (Thói quen sinh hoạt điều độ và tập luyện thể dục vừa sức hằng ngày chính là nền tảng của một sức khỏe dẻo dai.)"
   },
   {
     "word": "恋愛",
     "meaning": "tình yêu, sự lãng mạn lứa đôi",
     "reading": "れんあい",
-    "sinoVietnamese": "ÁI",
+    "sinoVietnamese": "LUYẾN ÁI",
     "example": "青春時代の甘酸っぱい恋愛をテーマにした純愛小説を読んで、深く胸を打たれた。 (Đọc cuốn tiểu thuyết lấy chủ đề về tình yêu ngọt ngào thời thanh xuân, lòng tôi xúc động khôn nguôi.)"
   },
   {
     "word": "恋人",
-    "meaning": "người yêu",
+    "meaning": "người yêu, bạn trai/bạn gái",
     "reading": "こいびと",
-    "sinoVietnamese": "NHÂN",
-    "example": "休日は恋人と一緒に美味しいご飯を食べに行きます。 (Vào những ngày nghỉ, tôi đi ăn đồ ăn ngon với bạn trai.)"
+    "sinoVietnamese": "LUYẾN NHÂN",
+    "example": "休日は恋人と一緒に映画を見に行きます。(Vào ngày nghỉ tôi cùng người yêu đi xem phim.)"
   },
   {
     "word": "お金持ち",

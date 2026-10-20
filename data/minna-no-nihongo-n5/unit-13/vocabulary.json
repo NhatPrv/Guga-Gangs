@@ -10,42 +10,42 @@
     "word": "泳ぎます",
     "meaning": "bơi lội (ở hồ bơi, biển)",
     "reading": "およぎます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "VỊNH",
     "example": "夏休みに南の島の透き通ったきれいな海で泳ぎました。 (Kỳ nghỉ hè tôi đã bơi lội thỏa thích ở vùng biển trong vắt của hòn đảo phía nam.)"
   },
   {
     "word": "迎えます",
     "meaning": "đón (ai đó tại ga, sân bay)",
     "reading": "むかえます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NGHÊNH",
     "example": "成田空港の到着ロビーで、ベトナムから来た両親を笑顔で迎えました。 (Tại sảnh đến sân bay Narita, tôi mỉm cười đón bố mẹ từ Việt Nam sang chơi.)"
   },
   {
     "word": "疲れます",
     "meaning": "mệt mỏi, kiệt sức",
     "reading": "つかれます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BÌ",
     "example": "1日中歩き回ったので、足がパンパンに疲れてしまいました。 (Đi bộ loanh quanh suốt cả ngày làm đôi chân tôi mỏi rã rời.)"
   },
   {
-    "word": "出します [手紙を～]",
-    "meaning": "gửi [thư], nộp [đơn]",
-    "reading": "だします [てがみを～]",
-    "sinoVietnamese": "XUẤT THỦ CHỈ",
+    "word": "出します",
+    "meaning": "gửi (thư: 手紙を～)",
+    "reading": "だします",
+    "sinoVietnamese": "XUẤT",
     "example": "ポストに投函するのではなく、郵便局の窓口から海外の親友へ航空便の手紙を出しました。 (Thay vì thả thùng thư, tôi ra quầy bưu điện gửi lá thư đường hàng không cho người bạn thân ở nước ngoài.)"
   },
   {
-    "word": "入ります [喫茶店に～]",
-    "meaning": "vào, bước vào [quán giải khát, cửa hàng]",
-    "reading": "はいります [きっさてんに～]",
-    "sinoVietnamese": "NHẬP TRÀ ĐIẾM",
+    "word": "入ります",
+    "meaning": "vào (quán giải khát: 喫茶店に～)",
+    "reading": "はいります",
+    "sinoVietnamese": "NHẬP",
     "example": "街を歩き疲れてのどが渇いたので、駅前の小さな喫茶店に入って冷たいコーヒーを頼んだ。 (Đi bộ rã cả chân và khát nước nên tôi ghé vào một quán cà phê nhỏ trước ga gọi ly cà phê mát lạnh.)"
   },
   {
-    "word": "出ます [喫茶店を～]",
-    "meaning": "rời khỏi, bước ra khỏi [quán giải khát, phòng ốc]",
-    "reading": "でます [きっさてんを～]",
-    "sinoVietnamese": "XUẤT TRÀ ĐIẾM",
+    "word": "出ます",
+    "meaning": "ra khỏi (quán giải khát: 喫茶店を～)",
+    "reading": "でます",
+    "sinoVietnamese": "XUẤT",
     "example": "友人と2時間ほど楽しくおしゃべりをした後、会計を済ませて喫茶店を出ました。 (Sau khi trò chuyện vui vẻ cùng bạn chừng 2 tiếng, tôi thanh toán tiền rồi bước ra khỏi quán cà phê.)"
   },
   {
@@ -66,14 +66,14 @@
     "word": "食事します",
     "meaning": "dùng bữa, ăn uống",
     "reading": "しょくじします",
-    "sinoVietnamese": "THỰC",
+    "sinoVietnamese": "THỰC SỰ",
     "example": "久しぶりに会った昔の友達と落ち着いた和食店で食事しました。 (Tôi cùng người bạn cũ lâu ngày mới gặp đi ăn cơm ở một quán ăn Nhật thanh tịnh.)"
   },
   {
-    "word": "散歩します [公園を～]",
-    "meaning": "đi dạo (trong công viên)",
+    "word": "散歩します",
+    "meaning": "đi dạo, tản bộ (công viên: 公園を～)",
     "reading": "さんぽします",
-    "sinoVietnamese": "BỘ CÔNG VIÊN",
+    "sinoVietnamese": "TÁN BỘ",
     "example": "夕暮れ時の涼しい風を感じながら、愛犬と一緒に近所の公園を散歩しました。 (Đón làn gió mát lúc hoàng hôn, tôi cùng chú chó cưng dạo bộ trong công viên gần nhà.)"
   },
   {
@@ -87,14 +87,14 @@
     "word": "欲しい",
     "meaning": "muốn có (đồ vật, bạn bè)",
     "reading": "ほしい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DỤC",
     "example": "通勤がもっと便利になるように、新しい折りたたみ自転車が欲しいです。 (Để đi lại thuận tiện hơn, tôi rất muốn có một chiếc xe đạp gấp mới.)"
   },
   {
     "word": "寂しい",
     "meaning": "cô đơn, buồn bã (thiếu vắng)",
     "reading": "さびしい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TỊCH",
     "example": "家族と離れて外国で一人暮らしを始めたころは、とても寂しかったです。 (Hồi mới rời xa gia đình bắt đầu cuộc sống tự lập ở xứ người, tôi thấy rất cô đơn.)"
   },
   {
@@ -106,17 +106,17 @@
   },
   {
     "word": "狭い",
-    "meaning": "thu hẹp",
+    "meaning": "hẹp, chật hẹp",
     "reading": "せまい",
     "sinoVietnamese": "HIỆP",
-    "example": "少し狭い部屋ですが、掃除が簡単で一人暮らしには十分です。 (Căn phòng hơi nhỏ một chút nhưng dễ quét dọn và quá đủ cho cuộc sống độc thân.)"
+    "example": "この部屋は少し狭いですが、家賃が安くて静かです。(Căn phòng này hơi chật hẹp một chút nhưng tiền thuê rẻ và yên tĩnh.)"
   },
   {
     "word": "市役所",
-    "meaning": "văn phòng làm việc",
+    "meaning": "tòa thị chính, ủy ban thành phố",
     "reading": "しやくしょ",
-    "sinoVietnamese": "THỊ SỞ",
-    "example": "市役所の近くには緑豊かな公園があって散歩に最適です。 (Có một công viên tươi tốt gần tòa thị chính, nơi hoàn hảo để đi dạo.)"
+    "sinoVietnamese": "THỊ DỊCH SỞ",
+    "example": "市役所へ行って住民票の手続きを済ませました。(Tôi đến tòa thị chính để hoàn tất thủ tục đăng ký cư trú.)"
   },
   {
     "word": "プール",
@@ -136,49 +136,49 @@
     "word": "経済",
     "meaning": "kinh tế, tình hình kinh tế học",
     "reading": "けいざい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KINH TẾ",
     "example": "大学の講義で、東南アジア諸国の目覚ましい経済発展について詳しく学びました。 (Trong bài giảng đại học, tôi đã học chi tiết về sự phát triển kinh tế vượt bậc của các nước Đông Nam Á.)"
   },
   {
     "word": "美術",
     "meaning": "mỹ thuật, nghệ thuật tạo hình",
     "reading": "びじゅつ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MỸ THUẬT",
     "example": "学生時代から美術に関心があり、休日はよく美術館で世界の名画を鑑賞します。 (Từ thời sinh viên tôi đã đam mê mỹ thuật, ngày nghỉ tôi thường tới bảo tàng chiêm ngưỡng các danh tác thế giới.)"
   },
   {
     "word": "釣り",
     "meaning": "việc câu cá, thú vui đi câu",
     "reading": "つり",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐIẾU",
     "example": "週末の早朝から父と一緒に海へ出かけて、一日中のんびりと船釣りを楽しんだ。 (Cuối tuần từ sáng sớm, tôi cùng bố ra biển và tận hưởng thú vui câu cá trên thuyền suốt cả ngày.)"
   },
   {
     "word": "スキー",
-    "meaning": "môn trượt tuyết",
+    "meaning": "môn trượt tuyết, ván trượt tuyết",
     "reading": "スキー",
     "sinoVietnamese": "",
-    "example": "スキのニュースを聞いて、安全のために窓を閉めました。 (Sau khi nghe tin Suki, tôi đóng cửa sổ lại cho an toàn.)"
+    "example": "冬休みに長野県の雪山へスキーに行きました。(Kỳ nghỉ đông tôi đã đi trượt tuyết ở vùng núi tuyết của tỉnh Nagano.)"
   },
   {
     "word": "会議",
     "meaning": "cuộc họp, hội nghị bàn công việc",
     "reading": "かいぎ",
-    "sinoVietnamese": "HỘI",
+    "sinoVietnamese": "HỘI NGHỊ",
     "example": "新プロジェクトの進捗を確認するため、関係者全員が集まって緊急会議を開きました。 (Để kiểm tra tiến độ dự án mới, toàn bộ những người liên quan đã họp mặt tổ chức một cuộc họp khẩn.)"
   },
   {
     "word": "登録",
     "meaning": "đăng ký",
     "reading": "とうろく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐĂNG LỤC",
     "example": "ウェブサイトで新しいアカウントの会員登録を行いました。(Tôi đã tiến hành đăng ký tài khoản thành viên mới trên trang web.)"
   },
   {
     "word": "週末",
     "meaning": "cuối tuần",
     "reading": "しゅうまつ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CHU MẠT",
     "example": "忙しい週末でも、毎日少しずつ日本語の練習を続けています。 (Ngay cả vào những ngày cuối tuần bận rộn, tôi vẫn tiếp tục luyện tập tiếng Nhật từng chút một mỗi ngày.)"
   },
   {
@@ -238,11 +238,11 @@
     "example": "新しいロシアを手に入れて、仕事の効率がぐんと上がりました。 (Giờ đây tôi đã có nước Nga mới, hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
   },
   {
-    "word": "そうしましょう。",
-    "meaning": "cái đó",
-    "reading": "そうしましょう。",
+    "word": "そうしましょう",
+    "meaning": "chúng ta làm như thế đi, nhất trí như vậy nhé",
+    "reading": "そうしましょう",
     "sinoVietnamese": "",
-    "example": "「少し疲れたから休憩しませんか」「ええ、そうしましょう」(“Hơi mệt rồi, chúng ta nghỉ một chút nhé?” - “Vâng, làm thế đi!”)"
+    "example": "「少し疲れたから休憩しましょうか」「はい、そうしましょう」。(\"Hơi mệt rồi chúng ta nghỉ chút nhé?\" \"Vâng, chúng ta làm như thế đi\".)"
   },
   {
     "word": "ていしょく",
@@ -255,28 +255,28 @@
     "word": "ご注文は",
     "meaning": "quý khách muốn gọi món gì ạ? (lời phục vụ hỏi khách)",
     "reading": "ごちゅうもんは",
-    "sinoVietnamese": "VĂN",
+    "sinoVietnamese": "CHÚ VĂN",
     "example": "カフェの店員さんがメニューを持ってテーブルに来て、「ご注文はお決まりですか」と尋ねた。 (Nhân viên quán cà phê mang thực đơn tới bàn và nhẹ nhàng hỏi: \"Dạ quý khách đã chọn được đồ uống chưa ạ?\")"
   },
   {
     "word": "牛どん",
     "meaning": "món cơm bò",
     "reading": "ぎゅうどん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NGƯU",
     "example": "駅前の吉野家で温かくて安くておいしい牛丼を食べました。 (Tại quán Yoshinoya trước ga, tôi ăn bát cơm bò xào nóng hổi giá rẻ.)"
   },
   {
     "word": "少々お待ちください。",
     "meaning": "xin vui lòng đợi một lát",
     "reading": "しょうしょう　おまちください",
-    "sinoVietnamese": "THIỂU ĐÃI",
+    "sinoVietnamese": "THIỂU THIỂU ĐÃI",
     "example": "この部屋は明るくて静かで、とても少々お待ちください雰囲気が漂っています。 (Căn phòng này sáng sủa và yên tĩnh, có bầu không khí rất chờ đợi.)"
   },
   {
     "word": "別々に",
-    "meaning": "đặt chúng riêng biệt",
+    "meaning": "riêng biệt, riêng rẽ (tính tiền riêng)",
     "reading": "べつべつに",
     "sinoVietnamese": "BIỆT",
-    "example": "使いやすい別々にのおかげで、毎日の生活がとても快適になりました。 (Những chiếc ngăn cách dễ sử dụng đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
+    "example": "お会計は一緒ではなく、別々にお願いします。(Làm ơn tính tiền riêng biệt từng người chứ không gộp chung ạ.)"
   }
 ]

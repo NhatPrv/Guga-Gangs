@@ -10,7 +10,7 @@
     "word": "挨拶",
     "meaning": "lời chào",
     "reading": "あいさつ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "AI TẢN",
     "example": "彼女はにっこり挨拶をした。 (Cô mỉm cười chào đón.)"
   },
   {
@@ -22,10 +22,10 @@
   },
   {
     "word": "合図",
-    "meaning": "ký tên",
+    "meaning": "dấu hiệu, ám hiệu; hiệu lệnh, ra hiệu",
     "reading": "あいず",
     "sinoVietnamese": "HỢP ĐỒ",
-    "example": "すぐにゴーの合図をしてください。 (Hãy ra hiệu đi ngay.)"
+    "example": "手を振って出発の合図をしました。 (Tôi vẫy tay ra hiệu xuất phát.)"
   },
   {
     "word": "愛する",
@@ -50,10 +50,10 @@
   },
   {
     "word": "アウト",
-    "meaning": "ra ngoài",
+    "meaning": "bị loại (trong thể thao: out); hỏng chuyện, vi phạm (quy tắc)",
     "reading": "アウト",
     "sinoVietnamese": "",
-    "example": "最初の打者はアウトになった。 (Người đánh bóng đầu tiên đã hết.)"
+    "example": "３ストライクでバッターはアウトになった。 (Ba lần đánh trượt, người đánh bóng đã bị loại.)"
   },
   {
     "word": "明かり",
@@ -64,100 +64,100 @@
   },
   {
     "word": "空き",
-    "meaning": "phòng",
+    "meaning": "chỗ trống, phòng trống; thời gian rảnh; vị trí tuyển dụng còn trống",
     "reading": "あき",
     "sinoVietnamese": "KHÔNG",
-    "example": "字と字の間の空きをもっと広くしなさい。 (Làm cho khoảng cách giữa các chữ cái rộng hơn.)"
+    "example": "ホテルの部屋にまだ空きがありますか。 (Khách sạn còn phòng trống nào không ạ?)"
   },
   {
     "word": "明らか",
-    "meaning": "hiển nhiên",
+    "meaning": "rõ ràng, minh bạch; hiển nhiên",
     "reading": "あきらか",
     "sinoVietnamese": "MINH",
-    "example": "その船が沈んだのは明らかだ。 (Rõ ràng là tàu đã chìm.)"
+    "example": "調査の結果、事故の原因が明らかになった。 (Kết quả điều tra đã làm rõ ràng nguyên nhân của vụ tai nạn.)"
   },
   {
     "word": "諦める",
-    "meaning": "từ bỏ",
+    "meaning": "từ bỏ, bỏ cuộc (ước mơ, hy vọng)",
     "reading": "あきらめる",
-    "sinoVietnamese": "",
-    "example": "その少年は死んだものとしてあきらめられた。 (Cậu bé được cho là đã chết.)"
+    "sinoVietnamese": "ĐẾ",
+    "example": "どんなに困難でも、夢を諦めないでください。 (Dù khó khăn đến đâu cũng xin đừng từ bỏ ước mơ.)"
   },
   {
     "word": "飽きる",
-    "meaning": "cảm thấy mệt mỏi",
+    "meaning": "ngán, chán, ngấy (do lặp đi lặp lại nhiều lần)",
     "reading": "あきる",
-    "sinoVietnamese": "",
-    "example": "息子はハンバーガーにあきています。 (Con trai tôi nghiện hamburger.)"
+    "sinoVietnamese": "BÃO",
+    "example": "毎日同じ料理を食べて飽きてしまった。 (Ngày nào cũng ăn cùng một món nên tôi đã ngán rồi.)"
   },
   {
     "word": "握手",
     "meaning": "cái bắt tay",
     "reading": "あくしゅ",
-    "sinoVietnamese": "THỦ",
+    "sinoVietnamese": "ÁC THỦ",
     "example": "彼は友人と握手した。 (Anh bắt tay với người bạn của mình.)"
   },
   {
     "word": "悪魔",
     "meaning": "ma quỷ",
     "reading": "あくま",
-    "sinoVietnamese": "ÁC",
+    "sinoVietnamese": "ÁC MA",
     "example": "悪魔がやってくるかもしれないよ。 (Ma quỷ có thể đến.)"
   },
   {
     "word": "明ける",
-    "meaning": "đến bình minh",
+    "meaning": "rạng sáng, bình minh lên; kết thúc, sang (năm mới, mùa mưa)",
     "reading": "あける",
     "sinoVietnamese": "MINH",
-    "example": "夜が明ける。 (Màn đêm buông xuống.)"
+    "example": "夜が明けて、東の空が明るくなってきた。 (Trời rạng sáng, bầu trời phía đông dần bừng sáng.)"
   },
   {
     "word": "預ける",
-    "meaning": "giao quyền giám hộ",
+    "meaning": "gửi (tiền, đồ đạc, con cái); giao phó, gửi gắm",
     "reading": "あずける",
-    "sinoVietnamese": "",
-    "example": "銀行にそのお金を預けてください。 (Hãy gửi tiền vào ngân hàng.)"
+    "sinoVietnamese": "DỰ",
+    "example": "駅のロッカーに重い荷物を預けました。 (Tôi đã gửi hành lý nặng vào tủ khóa ở nhà ga.)"
   },
   {
     "word": "与える",
     "meaning": "cho",
     "reading": "あたえる",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DỮ",
     "example": "彼は娘にたくさんのお金を与えた。 (Ông ấy đã cho con gái mình rất nhiều tiền.)"
   },
   {
     "word": "辺り",
-    "meaning": "vùng lân cận",
+    "meaning": "quanh đây, khu vực lân cận, xung quanh",
     "reading": "あたり",
-    "sinoVietnamese": "",
-    "example": "昔この辺りにホテルがあったんだ。 (Đã từng có một khách sạn quanh đây.)"
+    "sinoVietnamese": "BIÊN",
+    "example": "この辺りは夜になると人通りが少なくなります。 (Khu vực quanh đây khi về đêm thì người qua lại trở nên thưa thớt.)"
   },
   {
     "word": "当たる",
-    "meaning": "bị đánh",
+    "meaning": "trúng (vé số, mục tiêu); va chạm, đập vào; đúng (dự đoán)",
     "reading": "あたる",
-    "sinoVietnamese": "",
-    "example": "私は顔に冷たい風が当たるのを感じた。 (Tôi cảm thấy gió lạnh quất vào mặt.)"
+    "sinoVietnamese": "ĐƯƠNG",
+    "example": "宝くじを買ったら、見事に一等賞が当たりました。 (Tôi mua vé số và đã trúng giải nhất một cách ngoạn mục.)"
   },
   {
     "word": "あちこち",
-    "meaning": "ở đây và ở đó",
+    "meaning": "khắp nơi, đây đó, chỗ này chỗ kia",
     "reading": "あちこち",
     "sinoVietnamese": "",
-    "example": "本が部屋のあちこちに散らばっていた。 (Sách nằm rải rác khắp phòng.)"
+    "example": "休日に友達と街のあちこちを散歩しました。 (Vào ngày nghỉ, tôi cùng bạn bè đi dạo khắp nơi trong thành phố.)"
   },
   {
     "word": "あっ",
-    "meaning": "a!, ối! (tiếng thốt lên bất ngờ)",
+    "meaning": "a!, ối! (thốt lên bất ngờ)",
     "reading": "あっ",
     "sinoVietnamese": "",
-    "example": "あっ、部屋の鍵を机の上に忘れてきてしまいました。 (A, tôi lỡ để quên chìa khóa phòng trên bàn mất rồi.)"
+    "example": "あっ、部屋の鍵を机の上に忘れてきてしまいました。(A! Tôi lỡ để quên chìa khóa phòng trên bàn mất rồi.)"
   },
   {
     "word": "扱う",
     "meaning": "xử lý",
     "reading": "あつかう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TRÁP",
     "example": "心理学は人間の感情を扱う。 (Tâm lý học liên quan đến cảm xúc của con người.)"
   },
   {
@@ -169,44 +169,44 @@
   },
   {
     "word": "当てる",
-    "meaning": "đánh",
+    "meaning": "bắn trúng, ném trúng; đoán trúng; áp vào, đặt vào",
     "reading": "あてる",
-    "sinoVietnamese": "",
-    "example": "かろうじて車に当てられずにすんだ。 (Tôi suýt bị xe tông.)"
+    "sinoVietnamese": "ĐƯƠNG",
+    "example": "クイズの正解を見事に当てました。 (Tôi đã đoán trúng đáp án của câu đố một cách xuất sắc.)"
   },
   {
     "word": "穴",
-    "meaning": "lỗ",
+    "meaning": "lỗ, hang; hố sâu; khuyết điểm",
     "reading": "あな",
-    "sinoVietnamese": "",
-    "example": "注意して！道路に穴があいてるよ。 (Hãy cẩn thận! Có một cái hố trên đường.)"
+    "sinoVietnamese": "HUYỆT",
+    "example": "庭に深い穴を掘って、花の種を植えました。(Tôi đã đào một cái lỗ sâu trong vườn để gieo hạt giống hoa.)"
   },
   {
     "word": "油",
     "meaning": "dầu",
     "reading": "あぶら",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DU",
     "example": "オリーブの実から油が取れます。 (Dầu có thể được chiết xuất từ ​​​​quả ô liu.)"
   },
   {
     "word": "誤り",
-    "meaning": "lỗi",
+    "meaning": "sai lầm, sai sót, lỗi lầm",
     "reading": "あやまり",
     "sinoVietnamese": "NGỘ",
-    "example": "私の誤りは彼の怒りを招いた。 (Sai lầm của tôi đã chọc giận anh ấy.)"
+    "example": "自分の誤りを素直に認めて謝罪しました。 (Tôi thành thật thừa nhận sai lầm của mình và xin lỗi.)"
   },
   {
     "word": "粗",
-    "meaning": "khiếm khuyết",
+    "meaning": "khuyết điểm, tì vết; thô ráp, sơ sài",
     "reading": "あら",
-    "sinoVietnamese": "",
-    "example": "あら、アンジェラと呼んでください。 (Ồ, hãy gọi tôi là Angela.)"
+    "sinoVietnamese": "THÔ",
+    "example": "人の粗を探すのではなく、長所を見つけよう。 (Thay vì bới móc khuyết điểm của người khác, hãy tìm kiếm điểm tốt của họ.)"
   },
   {
     "word": "嵐",
     "meaning": "cơn bão",
     "reading": "あらし",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LAM",
     "example": "この風は嵐の印だ。 (Cơn gió này là dấu hiệu của một cơn bão.)"
   },
   {
@@ -218,31 +218,31 @@
   },
   {
     "word": "あらゆる",
-    "meaning": "tất cả",
+    "meaning": "tất cả, mọi, toàn bộ (đi với danh từ)",
     "reading": "あらゆる",
     "sinoVietnamese": "",
-    "example": "私はあらゆる言論の自由に賛成だ。 (Tôi hoàn toàn ủng hộ quyền tự do ngôn luận.)"
+    "example": "あらゆる可能性を考えて対策を立てました。 (Chúng tôi đã xem xét tất cả các khả năng để lập phương án đối phó.)"
   },
   {
     "word": "現す",
-    "meaning": "hiển thị",
+    "meaning": "xuất hiện, lộ diện; biểu hiện ra ngoài",
     "reading": "あらわす",
     "sinoVietnamese": "HIỆN",
-    "example": "＆のマークはａｎｄの文字を表す。 (Dấu & đại diện cho ký tự và.)"
+    "example": "犯人は夜遅くに現場に姿を現しました。 (Tên tội phạm đã lộ diện tại hiện trường vào đêm muộn.)"
   },
   {
     "word": "表す",
-    "meaning": "bày tỏ",
+    "meaning": "bày tỏ, biểu thị (cảm xúc, ý kiến); tượng trưng cho",
     "reading": "あらわす",
-    "sinoVietnamese": "",
-    "example": "＆のマークはａｎｄの文字を表す。 (Dấu & đại diện cho ký tự và.)"
+    "sinoVietnamese": "BIỂU",
+    "example": "感謝の気持ちを言葉で表しました。 (Tôi đã bày tỏ lòng biết ơn bằng lời nói.)"
   },
   {
     "word": "現れ",
-    "meaning": "hiện thân",
+    "meaning": "sự thể hiện ra ngoài, biểu hiện (của tâm lý, tình cảm)",
     "reading": "あらわれ",
     "sinoVietnamese": "HIỆN",
-    "example": "それは彼女の性格の表れだ。 (Đó là sự phản ánh tính cách của cô ấy.)"
+    "example": "その笑顔は彼の優しさの現れです。 (Nụ cười ấy chính là sự thể hiện lòng tốt của anh ấy.)"
   },
   {
     "word": "現れる",
@@ -253,51 +253,51 @@
   },
   {
     "word": "或",
-    "meaning": "hoặc là, có thể là (dùng để đưa ra lựa chọn hoặc khả năng khác)",
+    "meaning": "hoặc là, có thể là (lựa chọn khác)",
     "reading": "ある",
-    "sinoVietnamese": "",
-    "example": "ある学生に会うところです。 (Tôi sắp gặp một sinh viên.)"
+    "sinoVietnamese": "HOẶC",
+    "example": "或る日の午後、不思議な手紙が届いた。 (Vào một ngày nọ, có một bức thư kỳ lạ gửi đến.)"
   },
   {
     "word": "あるいは",
     "meaning": "hoặc là, hoặc có thể (liên từ nối giữa các lựa chọn)",
     "reading": "あるいは",
     "sinoVietnamese": "",
-    "example": "ガスで調理しますか、あるいは電気ですか。 (Bạn nấu ăn bằng ga hay điện?)"
+    "example": "メール、あるいは電話でご連絡ください。 (Xin vui lòng liên hệ qua email hoặc là gọi điện thoại.)"
   },
   {
     "word": "泡",
     "meaning": "bong bóng",
     "reading": "あわ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "PHAO",
     "example": "くだける波が泡を作った。 (Sóng vỗ tạo thành bong bóng.)"
   },
   {
     "word": "合わせる",
-    "meaning": "tham gia cùng nhau",
+    "meaning": "kết hợp, chắp lại (tay); điều chỉnh cho khớp",
     "reading": "あわせる",
     "sinoVietnamese": "HỢP",
-    "example": "あなたの計画を私に合わせなさい。 (Điều chỉnh kế hoạch của bạn cho tôi.)"
+    "example": "みんなで力を合わせて困難を乗り越えましょう。 (Mọi người hãy cùng nhau hợp lực để vượt qua khó khăn.)"
   },
   {
     "word": "哀れ",
-    "meaning": "bất lực",
+    "meaning": "đáng thương, tội nghiệp; bi thương",
     "reading": "あわれ",
-    "sinoVietnamese": "",
-    "example": "彼女は哀れを誘う有様だった。 (Cô ấy trông thật đáng thương.)"
+    "sinoVietnamese": "AI",
+    "example": "雨に濡れて震えている子猫がとても哀れに見えた。 (Chú mèo con ướt mưa run rẩy trông thật đáng thương.)"
   },
   {
     "word": "案",
-    "meaning": "kế hoạch",
+    "meaning": "phương án, đề án, ý tưởng",
     "reading": "あん",
     "sinoVietnamese": "ÁN",
-    "example": "どちらの案がよりよいと思いますか。 (Bạn nghĩ phương án nào tốt hơn?)"
+    "example": "会議で新しいプロジェクトの案を提案しました。 (Tôi đã đề xuất phương án cho dự án mới trong cuộc họp.)"
   },
   {
     "word": "暗記",
     "meaning": "sự ghi nhớ",
     "reading": "あんき",
-    "sinoVietnamese": "ÁM",
+    "sinoVietnamese": "ÁM KÝ",
     "example": "彼はその会話を暗記しようとした。 (Anh cố gắng ghi nhớ cuộc trò chuyện.)"
   },
   {
@@ -318,15 +318,15 @@
     "word": "委員",
     "meaning": "thành viên ủy ban",
     "reading": "いいん",
-    "sinoVietnamese": "VIÊN",
+    "sinoVietnamese": "ỦY VIÊN",
     "example": "委員は全員出席している。 (Tất cả các thành viên ủy ban đều có mặt.)"
   },
   {
     "word": "いえ",
-    "meaning": "không",
+    "meaning": "không (từ chối hoặc phủ định lịch sự)",
     "reading": "いえ",
     "sinoVietnamese": "",
-    "example": "新しいいえを手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một thiết bị mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+    "example": "「何か手伝いましょうか」「いえ、大丈夫です」。 (\"Tôi giúp gì được không?\" - \"Không, tôi tự làm được rồi ạ\".)"
   },
   {
     "word": "意外",
@@ -346,15 +346,15 @@
     "word": "息",
     "meaning": "hơi thở",
     "reading": "いき",
-    "sinoVietnamese": "",
-    "example": "おぼれかけた人は息を吹き返した。 (Người chết đuối đã sống lại.)"
+    "sinoVietnamese": "TỨC",
+    "example": "深呼吸をして、ゆっくり息を吐き出しました。 (Tôi hít thở sâu rồi từ từ thở ra một hơi dài.)"
   },
   {
     "word": "勢い",
-    "meaning": "lực lượng",
+    "meaning": "khí thế, sức mạnh; đà tiến",
     "reading": "いきおい",
-    "sinoVietnamese": "",
-    "example": "勢いに流されているんですよ。 (Tôi đang bị đà cuốn đi.)"
+    "sinoVietnamese": "THẾ",
+    "example": "川の水が強い勢いで流れています。 (Nước sông đang chảy xiết với khí thế mạnh mẽ.)"
   },
   {
     "word": "生き物",
@@ -365,353 +365,353 @@
   },
   {
     "word": "いけない",
-    "meaning": "không được làm",
+    "meaning": "không được, cấm; dở, hỏng chuyện",
     "reading": "いけない",
     "sinoVietnamese": "",
-    "example": "友人は助け合わなければいけない。 (Bạn bè phải giúp đỡ lẫn nhau.)"
+    "example": "図書館で大声で話してはいけません。 (Không được nói chuyện lớn tiếng trong thư viện.)"
   },
   {
     "word": "意志",
-    "meaning": "sẽ",
+    "meaning": "ý chí, quyết tâm, nghị lực",
     "reading": "いし",
-    "sinoVietnamese": "Ý",
-    "example": "私は辞職する意志はまったくない。 (Tôi không có ý định từ chức.)"
+    "sinoVietnamese": "Ý CHÍ",
+    "example": "彼はどんな困難にも負けない強い意志を持っています。 (Anh ấy có một ý chí kiên cường không chịu khuất phục trước bất kỳ khó khăn nào.)"
   },
   {
     "word": "意思",
-    "meaning": "ý định",
+    "meaning": "ý định, mong muốn, nguyện vọng",
     "reading": "いし",
     "sinoVietnamese": "Ý TƯ",
-    "example": "人間は互いに言葉で意思を通じ合う。 (Con người giao tiếp với nhau bằng lời nói.)"
+    "example": "自分の意思をはっきりと相手に伝えました。 (Tôi đã truyền đạt rõ ràng ý định của bản thân cho đối phương.)"
   },
   {
     "word": "医師",
-    "meaning": "bác sĩ",
+    "meaning": "bác sĩ, thầy thuốc",
     "reading": "いし",
-    "sinoVietnamese": "Y",
-    "example": "彼は医師になるために勉強している。 (Anh ấy đang học để trở thành bác sĩ.)"
+    "sinoVietnamese": "Y SƯ",
+    "example": "病気を治すために、経験豊富な医師に相談しました。 (Để chữa khỏi bệnh, tôi đã xin tư vấn từ một bác sĩ giàu kinh nghiệm.)"
   },
   {
     "word": "維持",
-    "meaning": "bảo trì",
+    "meaning": "duy trì, gìn giữ (trạng thái, sức khỏe, hòa bình)",
     "reading": "いじ",
-    "sinoVietnamese": "TRÌ",
-    "example": "この車の維持は高くつく。 (Chiếc xe này đắt tiền để bảo trì.)"
+    "sinoVietnamese": "DUY TRÌ",
+    "example": "健康を維持するために、毎朝ジョギングをしています。 (Để duy trì sức khỏe, tôi chạy bộ mỗi sáng.)"
   },
   {
     "word": "意識",
-    "meaning": "ý thức",
+    "meaning": "ý thức, nhận thức; sự tỉnh táo",
     "reading": "いしき",
-    "sinoVietnamese": "Ý",
-    "example": "このお料理は、パリのエスプリを意識して、味付けしてみました。 (Món ăn này được tẩm ướp đậm đà tinh thần Paris.)"
+    "sinoVietnamese": "Ý THỨC",
+    "example": "事故に遭ったが、幸い意識ははっきりしていた。 (Dù gặp tai nạn nhưng may mắn thay ý thức của anh ấy vẫn rất tỉnh táo.)"
   },
   {
     "word": "異常",
-    "meaning": "sự kỳ lạ",
+    "meaning": "bất thường, khác thường, dị thường",
     "reading": "いじょう",
-    "sinoVietnamese": "",
-    "example": "そんなにたくさん食べるのは異常だ。 (Ăn nhiều như vậy là bất thường.)"
+    "sinoVietnamese": "DỊ THƯỜNG",
+    "example": "健康診断で血液検査に異常は見つかりませんでした。 (Trong đợt khám sức khỏe, không phát hiện bất kỳ điều gì bất thường trong xét nghiệm máu.)"
   },
   {
     "word": "泉",
-    "meaning": "mùa xuân",
+    "meaning": "con suối, nguồn suối; suối nguồn (cảm hứng)",
     "reading": "いずみ",
-    "sinoVietnamese": "",
-    "example": "泉はおよそ１７０フィートの高さまで温水を吹き出す。 (Suối phun nước ấm khoảng 170 feet vào không khí.)"
+    "sinoVietnamese": "TUYỀN",
+    "example": "森の奥に澄んだ水が湧き出る泉を見つけました。 (Tận sâu trong rừng, tôi tìm thấy một con suối tuôn trào dòng nước trong vắt.)"
   },
   {
     "word": "いずれ",
-    "meaning": "ở đâu",
+    "meaning": "sớm muộn gì, chẳng mấy chốc; một trong các...",
     "reading": "いずれ",
     "sinoVietnamese": "",
-    "example": "人間はいずれ死ぬのだ。 (Con người sẽ chết một ngày nào đó.)"
+    "example": "練習を続ければ、いずれ上手に話せるようになります。 (Nếu kiên trì luyện tập, sớm muộn gì bạn cũng sẽ nói lưu loát thôi.)"
   },
   {
     "word": "以前",
-    "meaning": "trước đây",
+    "meaning": "trước đây, ngày trước, dạo trước",
     "reading": "いぜん",
-    "sinoVietnamese": "TIỀN",
-    "example": "彼女はもはや以前の彼女ではない。 (Cô ấy không còn như xưa nữa.)"
+    "sinoVietnamese": "DĨ TIỀN",
+    "example": "以前ここに住んでいましたが、今は東京に引っ越しました。 (Trước đây tôi từng sống ở đây, nhưng giờ đã chuyển lên Tokyo.)"
   },
   {
     "word": "板",
-    "meaning": "bảng",
+    "meaning": "tấm ván, tấm gỗ, bảng",
     "reading": "いた",
-    "sinoVietnamese": "",
-    "example": "この鉄の板はすずでメッキしてある。 (Tấm sắt này được mạ thiếc.)"
+    "sinoVietnamese": "BẢN",
+    "example": "大工さんが厚い木の板を切って棚を作っています。 (Bác thợ mộc đang cắt tấm ván gỗ dày để đóng kệ sách.)"
   },
   {
     "word": "偉大",
-    "meaning": "sự vĩ đại",
+    "meaning": "vĩ đại, to lớn, kiệt xuất",
     "reading": "いだい",
-    "sinoVietnamese": "ĐẠI",
-    "example": "リンカーンは偉大な政治家であった。 (Lincoln là một chính trị gia vĩ đại.)"
+    "sinoVietnamese": "VĨ ĐẠI",
+    "example": "彼は歴史に名を残した偉大な科学者です。 (Ông ấy là một nhà khoa học vĩ đại lưu danh trong lịch sử.)"
   },
   {
     "word": "抱く",
-    "meaning": "ôm ấp (người thân: だく), ấp ủ (hoài bão, ước mơ: いだく)",
+    "meaning": "ôm, ấp ủ (ước mơ, hy vọng); ôm vào lòng",
     "reading": "だく / いだく",
-    "sinoVietnamese": "",
-    "example": "母親が泣き叫ぶ赤ちゃんを優しく胸に抱いてあやしました。 (Người mẹ âu yếm ôm em bé đang khóc vào lòng vỗ về.)"
+    "sinoVietnamese": "BÃO",
+    "example": "将来日本で働くという大きな夢を抱いています。 (Tôi luôn ấp ủ ước mơ lớn là sẽ được làm việc tại Nhật Bản trong tương lai.)"
   },
   {
     "word": "いたずら",
-    "meaning": "trêu chọc",
+    "meaning": "nghịch ngợm, trêu chọc; trò đùa tinh quái",
     "reading": "いたずら",
     "sinoVietnamese": "",
-    "example": "私はいたずらな子供を大目に見る事ができない。 (Tôi không thể chịu đựng được những đứa trẻ nghịch ngợm.)"
+    "example": "弟はいたずら好きで、いつも家族を笑わせています。 (Em trai tôi rất thích nghịch ngợm và luôn làm cả nhà bật cười.)"
   },
   {
     "word": "痛み",
-    "meaning": "cơn đau, cảm giác đau đớn",
+    "meaning": "cơn đau, nỗi đau (thể xác hoặc tinh thần)",
     "reading": "いたみ",
     "sinoVietnamese": "THỐNG",
-    "example": "薬を飲んだら、胃の痛みが少し治まりました。 (Uống thuốc xong, cơn đau dạ dày của tôi đã dịu đi một chút.)"
+    "example": "薬を飲んだら、頭の痛みがすっかり消えました。 (Sau khi uống thuốc, cơn đau đầu của tôi đã biến mất hoàn toàn.)"
   },
   {
     "word": "至る",
-    "meaning": "đến",
+    "meaning": "đạt đến, đi đến, dẫn đến (kết quả, nơi chốn)",
     "reading": "いたる",
-    "sinoVietnamese": "",
-    "example": "その語は広い意味を持つに至った。 (Từ này đã có một ý nghĩa rộng.)"
+    "sinoVietnamese": "CHÍ",
+    "example": "この道を通ると山の頂上に至ります。 (Đi qua con đường này sẽ dẫn đến đỉnh núi.)"
   },
   {
     "word": "いち",
-    "meaning": "thị trường",
+    "meaning": "chợ, phiên chợ, nơi buôn bán",
     "reading": "いち",
     "sinoVietnamese": "",
-    "example": "市は月曜ごとに立つ。 (Thành phố đứng vào thứ Hai hàng tuần.)"
+    "example": "毎週月曜日に広場で朝市が開かれます。 (Phiên chợ buổi sáng được mở tại quảng trường vào thứ Hai hàng tuần.)"
   },
   {
     "word": "位置",
-    "meaning": "địa điểm",
+    "meaning": "vị trí, địa điểm",
     "reading": "いち",
-    "sinoVietnamese": "VỊ",
-    "example": "私はパレードが見えるいい位置にいた。 (Tôi đã ở một vị trí tốt để xem cuộc diễu hành.)"
+    "sinoVietnamese": "VỊ TRÍ",
+    "example": "地図で現在地とホテルの位置を確認しました。 (Tôi đã kiểm tra vị trí hiện tại và vị trí khách sạn trên bản đồ.)"
   },
   {
     "word": "一時",
-    "meaning": "khoảnh khắc",
+    "meaning": "tạm thời, chốc lát; một giờ (1:00)",
     "reading": "いちじ",
     "sinoVietnamese": "NHẤT THỜI",
-    "example": "彼は一時ここに住んでいた。 (Anh ấy đã sống ở đây một thời gian.)"
+    "example": "大雨のため、電車の運行が一時に停止しました。 (Do mưa lớn, hoạt động của tàu điện tạm thời bị dừng lại.)"
   },
   {
     "word": "一度に",
-    "meaning": "tất cả cùng một lúc",
+    "meaning": "cùng một lúc, đồng thời",
     "reading": "いちどに",
     "sinoVietnamese": "NHẤT ĐỘ",
-    "example": "一度にひとつのことをするようにしなさい。 (Hãy cố gắng làm từng việc một.)"
+    "example": "一度にたくさんのことを覚えるのは難しいです。 (Thật khó để ghi nhớ nhiều thứ cùng một lúc.)"
   },
   {
     "word": "市場",
-    "meaning": "(the) thị trường (như một khái niệm)",
+    "meaning": "chợ, khu chợ; thị trường (kinh tế)",
     "reading": "いちば",
-    "sinoVietnamese": "THỊ",
-    "example": "彼は市場に出す牛を育てている。 (Anh ta nuôi gia súc để bán.)"
+    "sinoVietnamese": "THỊ TRƯỜNG",
+    "example": "朝早く地元の市場へ行って新鮮な魚を買いました。 (Sáng sớm tôi đã ra khu chợ địa phương để mua cá tươi.)"
   },
   {
     "word": "一家",
-    "meaning": "một ngôi nhà",
+    "meaning": "cả gia đình, cả nhà",
     "reading": "いっか",
-    "sinoVietnamese": "NHẤT",
-    "example": "ジョンソン一家はパーティーをするのが大好きだ。 (Gia đình Johnson thích tiệc tùng.)"
+    "sinoVietnamese": "NHẤT GIA",
+    "example": "日曜日、一家そろって近所の公園へ出かけました。 (Chủ nhật, cả gia đình cùng nhau đi chơi ở công viên gần nhà.)"
   },
   {
     "word": "一種",
-    "meaning": "một loài",
+    "meaning": "một loại, một dạng, một kiểu",
     "reading": "いっしゅ",
-    "sinoVietnamese": "NHẤT",
-    "example": "記事の論調は一種の悲観論だった。 (Giọng điệu của bài báo có vẻ bi quan.)"
+    "sinoVietnamese": "NHẤT CHỦNG",
+    "example": "これは南の島にしか生息しない珍しい鳥の一種です。 (Đây là một loại chim quý hiếm chỉ sinh sống ở hòn đảo phía nam.)"
   },
   {
     "word": "一瞬",
-    "meaning": "một lát",
+    "meaning": "một khoảnh khắc, trong chớp mắt",
     "reading": "いっしゅん",
-    "sinoVietnamese": "NHẤT",
-    "example": "それは私にとってはらはらする一瞬だった。 (Đó là một khoảnh khắc thú vị đối với tôi.)"
+    "sinoVietnamese": "NHẤT THUẤN",
+    "example": "花火が一瞬で夜空に咲いて消えました。 (Pháo hoa nở rộ trên bầu trời đêm trong chớp mắt rồi vụt tắt.)"
   },
   {
     "word": "一生",
-    "meaning": "cả cuộc đời",
+    "meaning": "cả cuộc đời, suốt đời",
     "reading": "いっしょう",
     "sinoVietnamese": "NHẤT SINH",
-    "example": "あなたは、一生勉強しなければならない。 (Phải học suốt đời.)"
+    "example": "あなたに出会えたことは、私の一生の宝物です。 (Được gặp bạn chính là báu vật suốt đời của tôi.)"
   },
   {
     "word": "一層",
-    "meaning": "nhiều hơn nữa",
+    "meaning": "hơn một bậc, càng thêm, thêm nữa",
     "reading": "いっそう",
-    "sinoVietnamese": "NHẤT",
-    "example": "君が一緒だったおかげで休日がいっそう楽しめた。 (Tôi tận hưởng những ngày nghỉ của mình nhiều hơn vì bạn đã ở bên tôi.)"
+    "sinoVietnamese": "NHẤT TẦNG",
+    "example": "寒さが一段と厳しくなり、風邪に一層注意が必要です。 (Thời tiết trở nên lạnh hơn, ta càng thêm phải chú ý giữ gìn để không bị cảm cúm.)"
   },
   {
     "word": "一体",
-    "meaning": "một đối tượng",
+    "meaning": "rốt cuộc là... (thể hiện sự ngạc nhiên, thắc mắc); một thể",
     "reading": "いったい",
     "sinoVietnamese": "NHẤT THỂ",
-    "example": "一体どこで彼に会ったんだ。 (Bạn đã gặp anh ấy ở đâu?)"
+    "example": "一体どこへ行っていたのですか、みんな心配していましたよ。 (Rốt cuộc là bạn đã đi đâu vậy, mọi người lo lắng lắm đấy.)"
   },
   {
     "word": "一致",
-    "meaning": "sự trùng hợp ngẫu nhiên",
+    "meaning": "thống nhất, đồng nhất, trùng khớp",
     "reading": "いっち",
-    "sinoVietnamese": "NHẤT",
-    "example": "彼は言葉と行動が一致していない。 (Lời nói và hành động của anh ấy không khớp nhau.)"
+    "sinoVietnamese": "NHẤT TRÍ",
+    "example": "二人の意見が見事に一致しました。 (Ý kiến của hai người đã hoàn toàn trùng khớp với nhau.)"
   },
   {
     "word": "一般",
-    "meaning": "chung",
+    "meaning": "phổ biến, thông thường; đại chúng",
     "reading": "いっぱん",
-    "sinoVietnamese": "NHẤT",
-    "example": "その理論はまだ一般に認められていない。 (Lý thuyết này vẫn chưa được chấp nhận rộng rãi.)"
+    "sinoVietnamese": "NHẤT BÁT",
+    "example": "この本は一般の人にも分かりやすく書かれています。 (Cuốn sách này được viết rất dễ hiểu cho cả người phổ thông.)"
   },
   {
     "word": "一方",
-    "meaning": "mặt khác",
+    "meaning": "mặt khác, ngược lại; không ngừng (tăng, giảm)",
     "reading": "いっぽう",
-    "sinoVietnamese": "NHẤT",
-    "example": "一方は赤で、また一方は白である。 (Một cái màu đỏ và cái kia màu trắng.)"
+    "sinoVietnamese": "NHẤT PHƯƠNG",
+    "example": "彼は仕事を頑張る一方で、家族との時間も大切にしている。 (Một mặt anh ấy nỗ lực trong công việc, mặt khác anh ấy cũng rất trân trọng thời gian bên gia đình.)"
   },
   {
     "word": "いつまでも",
-    "meaning": "mãi mãi, mãi không thôi (diễn tả trạng thái kéo dài vô tận hoặc không dứt)",
+    "meaning": "mãi mãi, bất tận, bao lâu đi nữa",
     "reading": "いつまでも",
     "sinoVietnamese": "",
-    "example": "祖父の優しい笑顔を、いつまでも忘れません。 (Tôi sẽ không bao giờ quên nụ cười hiền hậu của ông nội.)"
+    "example": "あなたの優しい笑顔をいつまでも忘れません。 (Tôi sẽ mãi mãi không bao giờ quên nụ cười hiền hậu của bạn.)"
   },
   {
     "word": "移動",
-    "meaning": "loại bỏ",
+    "meaning": "di chuyển, chuyển động (vị trí)",
     "reading": "いどう",
-    "sinoVietnamese": "ĐỘNG",
-    "example": "彼らはあちこちへと移動してきます。 (Họ di chuyển từ nơi này sang nơi khác.)"
+    "sinoVietnamese": "DI ĐỘNG",
+    "example": "東京から大阪まで新幹線で移動しました。 (Tôi đã di chuyển từ Tokyo đến Osaka bằng tàu Shinkansen.)"
   },
   {
     "word": "従兄弟",
-    "meaning": "anh họ (nam)",
+    "meaning": "anh em họ (con chú, bác, cô, dì)",
     "reading": "いとこ",
-    "sinoVietnamese": "",
-    "example": "彼は私の兄ではなくて、いとこである。 (Anh ấy không phải là anh trai tôi mà là anh họ của tôi.)"
+    "sinoVietnamese": "TÙNG HUYNH ĐỆ",
+    "example": "お正月に親戚が集まり、従兄弟と久しぶりに遊んだ。 (Dịp Tết họ hàng sum họp, tôi đã chơi đùa sau thời gian dài gặp lại anh em họ.)"
   },
   {
     "word": "稲",
     "meaning": "cây lúa",
     "reading": "いね",
-    "sinoVietnamese": "",
-    "example": "稲は雨の多い地域で作られる。 (Lúa được trồng ở những vùng có nhiều mưa.)"
+    "sinoVietnamese": "ĐẠO",
+    "example": "秋になると、黄金色に実った稲が風に揺れています。 (Khi mùa thu về, những cây lúa chín vàng trĩu hạt lại đung đưa trước gió.)"
   },
   {
     "word": "居眠り",
-    "meaning": "ngủ gật",
+    "meaning": "ngủ gật, ngủ mơ màng",
     "reading": "いねむり",
-    "sinoVietnamese": "CƯ",
-    "example": "授業中に居眠りすることは許しません。 (Tôi sẽ không chịu được việc ngủ gật trong giờ học.)"
+    "sinoVietnamese": "CƯ MIÊN",
+    "example": "授業中に居眠りをして先生に注意されました。 (Tôi đã ngủ gật trong giờ học và bị giáo viên nhắc nhở.)"
   },
   {
     "word": "命",
-    "meaning": "lệnh",
+    "meaning": "tính mạng, sinh mạng, mạng sống",
     "reading": "いのち",
-    "sinoVietnamese": "",
-    "example": "その犬は少女の命を救った。 (Con chó đã cứu sống cô gái.)"
+    "sinoVietnamese": "MỆNH",
+    "example": "命を大切にして、安全運転を心がけましょう。 (Hãy trân trọng sinh mạng và chú ý lái xe an toàn.)"
   },
   {
     "word": "違反",
-    "meaning": "vi phạm (luật)",
+    "meaning": "vi phạm (luật pháp, nội quy, hợp đồng)",
     "reading": "いはん",
-    "sinoVietnamese": "PHẢN",
-    "example": "それはルール違反です。 (Điều đó trái với quy định.)"
+    "sinoVietnamese": "VI PHẢN",
+    "example": "交通ルールに違反すると、罰金が科せられます。 (Nếu vi phạm luật giao thông, bạn sẽ bị phạt tiền.)"
   },
   {
     "word": "衣服",
-    "meaning": "quần áo",
+    "meaning": "quần áo, trang phục, y phục",
     "reading": "いふく",
-    "sinoVietnamese": "",
-    "example": "彼らは衣服をほとんど着用しない。 (Họ mặc rất ít quần áo.)"
+    "sinoVietnamese": "Y PHỤC",
+    "example": "季節の変わり目に合わせて、新しい衣服を買いそろえました。 (Nhân dịp giao mùa, tôi đã mua sắm thêm quần áo mới.)"
   },
   {
     "word": "居間",
-    "meaning": "phòng khách (kiểu phương tây)",
+    "meaning": "phòng khách, phòng sinh hoạt chung",
     "reading": "いま",
     "sinoVietnamese": "CƯ GIAN",
-    "example": "彼らは居間でお茶を飲んでいます。 (Họ đang uống trà trong phòng khách.)"
+    "example": "夕食後、家族みんなで居間に集まってテレビを見ました。 (Sau bữa tối, cả nhà cùng quây quần ở phòng khách xem tivi.)"
   },
   {
     "word": "今に",
-    "meaning": "chẳng bao lâu nữa",
+    "meaning": "chẳng mấy chốc, rồi sẽ, sớm muộn gì",
     "reading": "いまに",
     "sinoVietnamese": "KIM",
-    "example": "今にバチがあたるぞ。 (Dùi trống sắp đánh.)"
+    "example": "努力を続けていれば、今にきっと良い結果が出るよ。 (Nếu bạn tiếp tục nỗ lực, chẳng mấy chốc chắc chắn sẽ đạt kết quả tốt đẹp thôi.)"
   },
   {
     "word": "否",
-    "meaning": "không",
+    "meaning": "phủ định, không; lời từ chối",
     "reading": "いや",
     "sinoVietnamese": "PHỦ",
-    "example": "いや、当初の考えはそうでした。 (Không, đó là suy nghĩ ban đầu của tôi.)"
+    "example": "彼の提案に対して、出席者全員が否の意見を出した。 (Đối với đề xuất của anh ấy, toàn bộ người tham dự đều đưa ra ý kiến phủ định.)"
   },
   {
     "word": "以来",
-    "meaning": "kể từ khi",
+    "meaning": "kể từ đó, từ đó đến nay",
     "reading": "いらい",
-    "sinoVietnamese": "LAI",
-    "example": "１９８８年以来トムに会っていません。 (Tôi đã không gặp Tom kể từ năm 1988.)"
+    "sinoVietnamese": "DĨ LAI",
+    "example": "卒業して以来、彼とは一度も会っていません。 (Kể từ khi tốt nghiệp đến nay, tôi chưa từng gặp lại anh ấy một lần nào.)"
   },
   {
     "word": "依頼",
-    "meaning": "yêu cầu",
+    "meaning": "nhờ vả, yêu cầu, ủy thác",
     "reading": "いらい",
-    "sinoVietnamese": "",
-    "example": "彼女は彼に資金を集めるように依頼した。 (Cô yêu cầu anh gây quỹ.)"
+    "sinoVietnamese": "Y LẠI",
+    "example": "専門家にウェブサイトのデザイン作成を依頼しました。 (Tôi đã ủy thác cho chuyên gia thiết kế trang web.)"
   },
   {
     "word": "いらいら",
-    "meaning": "trở nên lo lắng",
+    "meaning": "sốt ruột, bực bội, bồn chồn",
     "reading": "いらいら",
     "sinoVietnamese": "",
-    "example": "ビルは試験のことでいらいらしている。 (Bill đang thất vọng về kỳ thi.)"
+    "example": "バスがなかなか来なくて、いらいらしてしまった。 (Xe buýt mãi không đến khiến tôi vô cùng sốt ruột và bực bội.)"
   },
   {
     "word": "医療",
-    "meaning": "chăm sóc y tế",
+    "meaning": "y tế, chăm sóc sức khỏe, chữa trị",
     "reading": "いりょう",
-    "sinoVietnamese": "Y",
-    "example": "彼は医療に一生を捧げた。 (Ông đã cống hiến cuộc đời mình cho y học.)"
+    "sinoVietnamese": "Y LIỆU",
+    "example": "最新の医療技術のおかげで、多くの病気が治るようになりました。 (Nhờ kỹ thuật y tế tiên tiến, nhiều căn bệnh đã được chữa khỏi.)"
   },
   {
     "word": "岩",
-    "meaning": "đá",
+    "meaning": "tảng đá, hòn đá lớn",
     "reading": "いわ",
-    "sinoVietnamese": "",
-    "example": "この岩は何に似ていますか。 (Tảng đá này trông như thế nào?)"
+    "sinoVietnamese": "NHAM",
+    "example": "海岸に大きな岩がたくさん並んでいます。 (Có rất nhiều tảng đá lớn nằm dọc bờ biển.)"
   },
   {
     "word": "祝い",
-    "meaning": "lễ kỷ niệm",
+    "meaning": "lễ mừng, sự chúc mừng; quà mừng",
     "reading": "いわい",
-    "sinoVietnamese": "",
-    "example": "私は彼の卒業祝いに電報を打った。 (Tôi đã gửi một bức điện tín để chúc mừng anh ấy tốt nghiệp.)"
+    "sinoVietnamese": "CHÚC",
+    "example": "友達の結婚の祝いに素敵な花束を贈りました。 (Tôi đã tặng một bó hoa tuyệt đẹp làm quà chúc mừng đám cưới của bạn.)"
   },
   {
     "word": "祝う",
-    "meaning": "chúc mừng",
+    "meaning": "chúc mừng, ăn mừng",
     "reading": "いわう",
-    "sinoVietnamese": "",
-    "example": "私たちは彼の試験合格を祝った。 (Chúng tôi chúc mừng anh ấy đã vượt qua kỳ thi.)"
+    "sinoVietnamese": "CHÚC",
+    "example": "家族で集まって祖母の８０歳の誕生日を祝いました。 (Gia đình sum họp để chúc mừng sinh nhật lần thứ 80 của bà.)"
   },
   {
     "word": "言わば",
-    "meaning": "có thể nói như vậy",
+    "meaning": "có thể nói như là, ví như là",
     "reading": "いわば",
     "sinoVietnamese": "NGÔN",
-    "example": "この犬は言わばうちの家族の一員だ。 (Con chó này là thành viên của gia đình chúng tôi.)"
+    "example": "彼女は言わば我が家の一員のような存在です。 (Cô ấy có thể nói như là một thành viên trong gia đình chúng tôi vậy.)"
   },
   {
     "word": "いわゆる",
-    "meaning": "cái gọi là",
+    "meaning": "cái gọi là, thường được gọi là",
     "reading": "いわゆる",
     "sinoVietnamese": "",
-    "example": "これがいわゆる「天ぷら」というものです。 (Đây là thứ được gọi là \"tempura\".)"
+    "example": "彼はいわゆる天才肌のプログラマーです。 (Anh ấy chính là cái gọi là lập trình viên thiên bẩm.)"
   },
   {
     "word": "インク",
@@ -722,31 +722,31 @@
   },
   {
     "word": "印刷",
-    "meaning": "in ấn",
+    "meaning": "in ấn, sự in ấn",
     "reading": "いんさつ",
-    "sinoVietnamese": "",
-    "example": "そのニュースは急いで印刷された。 (Tin tức được in vội vàng.)"
+    "sinoVietnamese": "ẤN LOÁT",
+    "example": "会議の前に必要な資料をプリンターで印刷しました。 (Trước cuộc họp, tôi đã in ấn các tài liệu cần thiết bằng máy in.)"
   },
   {
     "word": "印象",
     "meaning": "ấn tượng",
     "reading": "いんしょう",
-    "sinoVietnamese": "TƯỢNG",
-    "example": "彼女は気の利く女の子である印象を強く受けた。 (Tôi có ấn tượng mạnh mẽ rằng cô ấy là một cô gái tốt bụng.)"
+    "sinoVietnamese": "ẤN TƯỢNG",
+    "example": "初めて彼に会ったとき、とても誠実な印象を受けました。 (Lần đầu gặp anh ấy, tôi đã có một ấn tượng vô cùng chân thành.)"
   },
   {
     "word": "引退",
-    "meaning": "nghỉ hưu",
+    "meaning": "giải nghệ, nghỉ hưu, rút lui khỏi sự nghiệp",
     "reading": "いんたい",
-    "sinoVietnamese": "THOÁI",
-    "example": "彼は商売をたたんで引退した。 (Ông đóng cửa công việc kinh doanh của mình và nghỉ hưu.)"
+    "sinoVietnamese": "DẪN THOÁI",
+    "example": "長年活躍した有名なサッカー選手がついに引退を発表した。 (Cầu thủ bóng đá nổi tiếng thi đấu nhiều năm cuối cùng đã tuyên bố giải nghệ.)"
   },
   {
     "word": "引用",
-    "meaning": "trích dẫn",
+    "meaning": "trích dẫn (lời nói, văn bản)",
     "reading": "いんよう",
-    "sinoVietnamese": "DỤNG",
-    "example": "ハムレットから１行引用できますか。 (Bạn có thể trích dẫn một dòng trong Hamlet được không?)"
+    "sinoVietnamese": "DẪN DỤNG",
+    "example": "論文の中で有名な学者の言葉を引用しました。 (Trong bài luận văn, tôi đã trích dẫn câu nói của một học giả nổi tiếng.)"
   },
   {
     "word": "ウイスキー",
@@ -757,598 +757,598 @@
   },
   {
     "word": "うがい",
-    "meaning": "súc miệng",
+    "meaning": "súc miệng, súc họng",
     "reading": "うがい",
     "sinoVietnamese": "",
-    "example": "熱があるので家にいたほうがいい。 (Bạn nên ở nhà vì bạn bị sốt.)"
+    "example": "外から帰ったら、すぐに手洗いとうがいをしましょう。 (Sau khi đi ngoài về, hãy rửa tay và súc miệng ngay nhé.)"
   },
   {
     "word": "受け取る",
-    "meaning": "nhận",
+    "meaning": "nhận, tiếp nhận (hàng hóa, tin nhắn, ý tứ)",
     "reading": "うけとる",
-    "sinoVietnamese": "THỤ",
-    "example": "この贈り物は受け取れません。 (Món quà này không thể được chấp nhận.)"
+    "sinoVietnamese": "THỤ THỦ",
+    "example": "郵便局の配達員から大切な荷物を受け取りました。 (Tôi đã nhận được bưu kiện quan trọng từ nhân viên bưu điện.)"
   },
   {
     "word": "動かす",
-    "meaning": "di chuyển",
+    "meaning": "di chuyển, vận hành (máy móc); làm chuyển động",
     "reading": "うごかす",
     "sinoVietnamese": "ĐỘNG",
-    "example": "音楽は気持ちを動かします。 (Âm nhạc làm bạn cảm động.)"
+    "example": "重い机を一人で動かすのは大変です。 (Một mình di chuyển chiếc bàn nặng nề này thật là vất vả.)"
   },
   {
     "word": "兎",
     "meaning": "con thỏ",
     "reading": "うさぎ",
-    "sinoVietnamese": "",
-    "example": "私はウサギの世話をしなければならない。 (Tôi phải chăm sóc con thỏ.)"
+    "sinoVietnamese": "THỎ",
+    "example": "庭で白い兎が楽しそうに飛び跳ねています。 (Một chú thỏ trắng đang nhảy nhót vui vẻ ngoài vườn.)"
   },
   {
     "word": "牛",
-    "meaning": "gia súc",
+    "meaning": "con bò",
     "reading": "うし",
-    "sinoVietnamese": "",
-    "example": "彼は市場に出す牛を育てている。 (Anh ta nuôi gia súc để bán.)"
+    "sinoVietnamese": "NGƯU",
+    "example": "牧場でたくさんの牛がのんびりと草を食べています。 (Tại nông trại, rất nhiều con bò đang thong thả gặm cỏ.)"
   },
   {
     "word": "失う",
-    "meaning": "thua",
+    "meaning": "đánh mất, mất đi (cơ hội, người thân, hy vọng)",
     "reading": "うしなう",
     "sinoVietnamese": "THẤT",
-    "example": "ミスで財産を失った。 (Tôi bị mất tài sản do nhầm lẫn.)"
+    "example": "事故で大切な記憶を失ってしまいました。 (Tôi đã đánh mất những ký ức quan trọng sau vụ tai nạn.)"
   },
   {
     "word": "疑う",
-    "meaning": "nghi ngờ",
+    "meaning": "nghi ngờ, ngờ vực",
     "reading": "うたがう",
     "sinoVietnamese": "NGHI",
-    "example": "僕の言葉をまだ疑っているんですか。 (Bạn vẫn còn nghi ngờ lời nói của tôi?)"
+    "example": "証拠が見つかるまで、人を疑ってはいけません。 (Trước khi tìm thấy chứng cứ, ta không được nghi ngờ người khác.)"
   },
   {
     "word": "撃つ",
     "meaning": "bắn (súng, cung tên)",
     "reading": "うつ",
-    "sinoVietnamese": "",
-    "example": "警察官は威嚇のために空に向けてピストルを撃った。 (Viên cảnh sát đã bắn chỉ thiên một phát súng để đe dọa.)"
+    "sinoVietnamese": "KÍCH",
+    "example": "警官が犯人に向けて威嚇射撃を撃ちました。 (Cảnh sát đã bắn phát súng cảnh cáo về phía tên tội phạm.)"
   },
   {
     "word": "移す",
-    "meaning": "loại bỏ",
+    "meaning": "chuyển, dời (đồ vật, chỗ ở); lây (bệnh)",
     "reading": "うつす",
-    "sinoVietnamese": "",
-    "example": "知っていることと行動に移すことは別だ。 (Biết điều gì đó và hành động là hai việc khác nhau.)"
+    "sinoVietnamese": "DI",
+    "example": "風邪を人に移さないように、マスクを着用しましょう。 (Hãy đeo khẩu trang để không làm lây bệnh cảm sang cho người khác.)"
   },
   {
     "word": "訴える",
-    "meaning": "kiện (một người)",
+    "meaning": "kiện, khiếu nại (ra tòa); kêu gọi (sự đồng cảm)",
     "reading": "うったえる",
-    "sinoVietnamese": "",
-    "example": "その患者はいつも頭が痛いと訴えている。 (Bệnh nhân luôn than phiền đau đầu.)"
+    "sinoVietnamese": "TỐ",
+    "example": "不当な扱いを受けたので、会社を裁判所に訴えました。 (Vì bị đối xử bất công, tôi đã kiện công ty ra tòa án.)"
   },
   {
     "word": "うなる",
-    "meaning": "rên rỉ",
+    "meaning": "rên rỉ, gầm gừ; kêu vo vo",
     "reading": "うなる",
     "sinoVietnamese": "",
-    "example": "その犬は小さな男の子に向かって唸った。 (Con chó gầm gừ với cậu bé.)"
+    "example": "傷口の激しい痛みに耐えかねて、一晩中うなっていました。 (Không chịu nổi cơn đau dữ dội ở vết thương, anh ấy đã rên rỉ suốt cả đêm.)"
   },
   {
     "word": "奪う",
-    "meaning": "cướp đi",
+    "meaning": "cướp đoạt, cướp đi, tước đoạt",
     "reading": "うばう",
-    "sinoVietnamese": "",
-    "example": "彼女は若い男にバッグを奪われた。 (Cô bị một chàng trai trẻ lấy trộm túi xách của mình.)"
+    "sinoVietnamese": "ĐOẠT",
+    "example": "強盗が銀行から大金を奪って逃走しました。 (Kẻ cướp đã cướp đi số tiền lớn từ ngân hàng rồi tẩu thoát.)"
   },
   {
     "word": "生まれ",
-    "meaning": "sinh",
+    "meaning": "nơi sinh, quê quán; xuất thân",
     "reading": "うまれ",
     "sinoVietnamese": "SINH",
-    "example": "私は生まれも育ちも東京だ。 (Tôi sinh ra và lớn lên ở Tokyo.)"
+    "example": "私はベトナムのダナン生まれですが、ハノイで育ちました。 (Tôi có xuất thân sinh ra ở Đà Nẵng, Việt Nam nhưng lớn lên ở Hà Nội.)"
   },
   {
     "word": "梅",
-    "meaning": "quả mận",
+    "meaning": "cây mai, hoa mận, hoa mơ; quả mơ",
     "reading": "うめ",
-    "sinoVietnamese": "",
-    "example": "梅の花は今週が見頃です。 (Tuần này là thời điểm đẹp nhất để ngắm hoa mận.)"
+    "sinoVietnamese": "MAI",
+    "example": "春の初めに庭の梅の花が美しく咲きました。 (Vào đầu mùa xuân, hoa mơ ngoài vườn đã nở rộ tuyệt đẹp.)"
   },
   {
     "word": "裏切る",
-    "meaning": "phản bội",
+    "meaning": "phản bội, phụ bạc (niềm tin, sự kỳ vọng)",
     "reading": "うらぎる",
-    "sinoVietnamese": "THIẾT",
-    "example": "私が信じていた人が私を裏切った。 (Người tôi tin tưởng đã phản bội tôi.)"
+    "sinoVietnamese": "LÝ THIẾT",
+    "example": "親友に秘密をばらされて、信頼を裏切られました。 (Bị người bạn thân tiết lộ bí mật, niềm tin của tôi đã bị phản bội.)"
   },
   {
     "word": "売れる",
-    "meaning": "được bán",
+    "meaning": "bán chạy, bán chạy đắt hàng",
     "reading": "うれる",
     "sinoVietnamese": "MẠI",
-    "example": "この本は最近よく売れている。 (Cuốn sách này gần đây đã được bán rất chạy.)"
+    "example": "新しく発売されたゲームが飛ぶように売れています。 (Tựa game mới ra mắt đang bán chạy như tôm tươi.)"
   },
   {
     "word": "噂",
-    "meaning": "tin đồn",
+    "meaning": "lời đồn, tin đồn, chuyện bàn tán",
     "reading": "うわさ",
-    "sinoVietnamese": "",
-    "example": "うわさは四方八方に広がった。 (Tin đồn lan truyền khắp mọi hướng.)"
+    "sinoVietnamese": "ĐỒN",
+    "example": "根拠のない悪い噂を信じてはいけません。 (Đừng vội tin vào những lời đồn vô căn cứ.)"
   },
   {
     "word": "運",
-    "meaning": "vận may",
+    "meaning": "vận may, số phận, vận mệnh",
     "reading": "うん",
     "sinoVietnamese": "VẬN",
-    "example": "そうすればやがて運が開けるでしょう。 (Nếu làm được điều đó, bạn sẽ sớm gặp may mắn.)"
+    "example": "試験の日に運よく勉強したところばかりが出題された。 (Vào ngày thi, nhờ vận may mà đề toàn ra vào những phần tôi đã ôn tập.)"
   },
   {
     "word": "柄",
-    "meaning": "hoa văn, họa tiết (áo, vải)",
+    "meaning": "họa tiết, hoa văn; tính cách, cốt cách",
     "reading": "がら",
-    "sinoVietnamese": "",
-    "example": "この着物は鮮やかな桜の花の柄が美しく描かれています。 (Bộ kimono này được vẽ họa tiết hoa anh đào tươi tắn rất đẹp.)"
+    "sinoVietnamese": "BÍNH",
+    "example": "伝統的な和風の柄が描かれた着物を着ました。 (Tôi đã mặc bộ kimono có in họa tiết phong cách Nhật Bản truyền thống.)"
   },
   {
     "word": "永遠",
-    "meaning": "vĩnh cửu",
+    "meaning": "vĩnh viễn, mãi mãi, bất diệt",
     "reading": "えいえん",
-    "sinoVietnamese": "VIỄN",
-    "example": "その画家は、いわば永遠の少年だ。 (Có thể nói, họa sĩ là một cậu bé vĩnh cửu.)"
+    "sinoVietnamese": "VĨNH VIỄN",
+    "example": "二人は永遠の愛を誓い合いました。 (Hai người đã cùng nhau thề nguyện một tình yêu vĩnh viễn.)"
   },
   {
     "word": "永久",
-    "meaning": "vĩnh cửu",
+    "meaning": "vĩnh cửu, lâu dài, vĩnh viễn",
     "reading": "えいきゅう",
-    "sinoVietnamese": "",
-    "example": "彼は永久に日本を離れた。 (Anh ấy đã vĩnh viễn rời khỏi Nhật Bản.)"
+    "sinoVietnamese": "VĨNH CỬU",
+    "example": "世界中の人々が永久の平和を心から願っています。 (Người dân khắp thế giới đều tha thiết cầu mong một nền hòa bình vĩnh cửu.)"
   },
   {
     "word": "影響",
-    "meaning": "ảnh hưởng",
+    "meaning": "ảnh hưởng, tác động",
     "reading": "えいきょう",
     "sinoVietnamese": "ẢNH HƯỞNG",
-    "example": "このデザインには中国の影響がみられる。 (Thiết kế này cho thấy ảnh hưởng của Trung Quốc.)"
+    "example": "親の読書習慣は子供の成長に大きな影響を与えます。 (Thói quen đọc sách của cha mẹ có ảnh hưởng rất lớn đến sự phát triển của con cái.)"
   },
   {
     "word": "衛星",
-    "meaning": "vệ tinh",
+    "meaning": "vệ tinh (tự nhiên hoặc nhân tạo)",
     "reading": "えいせい",
-    "sinoVietnamese": "",
-    "example": "衛星は今軌道に乗っている。 (Vệ tinh hiện đang ở trên quỹ đạo.)"
+    "sinoVietnamese": "VỆ TINH",
+    "example": "通信衛星を使って、世界中に映像を生中継しています。 (Người ta sử dụng vệ tinh viễn thông để truyền hình trực tiếp hình ảnh ra toàn thế giới.)"
   },
   {
     "word": "栄養",
-    "meaning": "dinh dưỡng",
+    "meaning": "dinh dưỡng, chất bổ dưỡng",
     "reading": "えいよう",
-    "sinoVietnamese": "",
-    "example": "この魚は安くてしかも栄養がある。 (Loại cá này rẻ và bổ dưỡng.)"
+    "sinoVietnamese": "VINH DƯỠNG",
+    "example": "健康な体を保つために、栄養バランスの良い食事をとりましょう。 (Để duy trì cơ thể khỏe mạnh, hãy ăn những bữa ăn cân bằng dinh dưỡng.)"
   },
   {
     "word": "笑顔",
-    "meaning": "khuôn mặt tươi cười",
+    "meaning": "khuôn mặt cười, nụ cười rạng rỡ",
     "reading": "えがお",
     "sinoVietnamese": "TIẾU NHAN",
-    "example": "彼らは私を笑顔で迎えてくれた。 (Họ chào đón tôi bằng một nụ cười.)"
+    "example": "彼女の明るい笑顔を見ると、こちらまで元気になります。 (Nhìn thấy nụ cười rạng rỡ của cô ấy, lòng tôi cũng thấy vui lây.)"
   },
   {
     "word": "描く",
-    "meaning": "vẽ",
+    "meaning": "vẽ (tranh); miêu tả, khắc họa (hình ảnh)",
     "reading": "えがく",
-    "sinoVietnamese": "",
-    "example": "やっと絵を描き終えた。 (Cuối cùng tôi đã vẽ xong bức tranh.)"
+    "sinoVietnamese": "MIÊU",
+    "example": "休日に公園で美しい風景の絵を描きました。 (Vào ngày nghỉ, tôi đã vẽ tranh phong cảnh tuyệt đẹp ở công viên.)"
   },
   {
     "word": "餌",
-    "meaning": "thức ăn",
+    "meaning": "thức ăn (cho thú cưng, chim, cá); mồi câu",
     "reading": "えさ",
-    "sinoVietnamese": "",
-    "example": "犬に毎日えさをあげてください。 (Hãy cho chó ăn hàng ngày.)"
+    "sinoVietnamese": "NHỊ",
+    "example": "毎朝、水槽の金魚に新鮮な餌をあげています。 (Mỗi sáng, tôi đều cho đàn cá vàng trong bể ăn thức ăn.)"
   },
   {
     "word": "エネルギー",
-    "meaning": "năng lượng (de: năng lượng)",
+    "meaning": "năng lượng (nhiệt, điện, tinh thần)",
     "reading": "エネルギー",
     "sinoVietnamese": "",
-    "example": "熱はエネルギーの一種である。 (Nhiệt là một loại năng lượng.)"
+    "example": "太陽光発電はクリーンな自然エネルギーとして注目されています。 (Điện mặt trời đang được chú ý như một nguồn năng lượng tự nhiên sạch.)"
   },
   {
     "word": "得る",
-    "meaning": "có được",
+    "meaning": "đạt được, có được (kiến thức, kinh nghiệm, thông tin)",
     "reading": "える",
-    "sinoVietnamese": "",
-    "example": "１０チームが賞を得ようと争った。 (Mười đội tranh tài để giành giải thưởng.)"
+    "sinoVietnamese": "ĐẮC",
+    "example": "留学生活を通じて、貴重な経験と広い視野を得ることができました。 (Qua quãng đời du học, tôi đã có được những kinh nghiệm quý giá và tầm nhìn rộng mở.)"
   },
   {
     "word": "円",
-    "meaning": "vòng tròn",
+    "meaning": "đồng Yên (tiền Nhật); hình tròn",
     "reading": "えん",
     "sinoVietnamese": "VIÊN",
-    "example": "私はそのレコードを買うのに３０００円かかった。 (Tôi phải tốn 3000 yên để mua cái đĩa đó.)"
+    "example": "この辞書は書店で３０００円で買いました。 (Tôi đã mua cuốn từ điển này ở hiệu sách với giá 3000 yên.)"
   },
   {
     "word": "延期",
-    "meaning": "sự trì hoãn",
+    "meaning": "trì hoãn, hoãn lại (lịch trình)",
     "reading": "えんき",
-    "sinoVietnamese": "KỲ",
-    "example": "私たちは会合を延期しなければならなかった。 (Chúng tôi đã phải hoãn cuộc họp.)"
+    "sinoVietnamese": "DUYÊN KỲ",
+    "example": "台風の接近により、野外コンサートは来週に延期されました。 (Do bão đến gần, buổi hòa nhạc ngoài trời đã bị hoãn lại sang tuần sau.)"
   },
   {
     "word": "演技",
-    "meaning": "diễn xuất",
+    "meaning": "diễn xuất, kỹ năng diễn; hành vi giả tạo",
     "reading": "えんぎ",
-    "sinoVietnamese": "",
-    "example": "彼女は演技の才能がある。 (Cô ấy có tài năng diễn xuất.)"
+    "sinoVietnamese": "DIỄN KỸ",
+    "example": "主役の俳優の迫力ある演技に観客全員が感動しました。 (Diễn xuất đầy nội lực của nam diễn viên chính đã làm toàn bộ khán giả xúc động.)"
   },
   {
     "word": "援助",
-    "meaning": "sự giúp đỡ",
+    "meaning": "viện trợ, giúp đỡ, hỗ trợ (tài chính, vật chất)",
     "reading": "えんじょ",
-    "sinoVietnamese": "VIỆN",
-    "example": "私は喜んであなたの援助をします。 (Tôi sẽ sẵn lòng hỗ trợ bạn.)"
+    "sinoVietnamese": "VIỆN TRỢ",
+    "example": "災害で被災した地域へ政府から食料や資金の援助が行われた。 (Chính phủ đã hỗ trợ lương thực và tài chính cho các khu vực bị thiên tai.)"
   },
   {
     "word": "演説",
-    "meaning": "lời nói",
+    "meaning": "diễn thuyết, phát biểu trước công chúng",
     "reading": "えんぜつ",
-    "sinoVietnamese": "",
-    "example": "彼女たちの演説はすばらしかった。 (Bài phát biểu của họ thật tuyệt vời.)"
+    "sinoVietnamese": "DIỄN THUYẾT",
+    "example": "大統領候補が広場で大勢の市民を前に熱心な演説を行いました。 (Ứng viên tổng thống đã có bài diễn thuyết đầy nhiệt huyết trước đông đảo công chúng tại quảng trường.)"
   },
   {
     "word": "演奏",
-    "meaning": "biểu diễn âm nhạc",
+    "meaning": "biểu diễn âm nhạc, tấu nhạc",
     "reading": "えんそう",
-    "sinoVietnamese": "",
-    "example": "演奏は終わりかけていた。 (Buổi biểu diễn đã sắp kết thúc.)"
+    "sinoVietnamese": "DIỄN TẤU",
+    "example": "オーケストラによる素晴らしいピアノの演奏を聴いて感動した。 (Tôi vô cùng xúc động khi lắng nghe màn biểu diễn đàn piano tuyệt vời của dàn nhạc giao hưởng.)"
   },
   {
     "word": "御",
-    "meaning": "đáng kính",
-    "reading": "お",
-    "sinoVietnamese": "",
-    "example": "御社のお考えを先におっしゃってください。 (Hãy cho chúng tôi biết suy nghĩ của bạn trước tiên.)"
+    "meaning": "kính ngữ; quý (tiền tố tôn kính đặt trước danh từ)",
+    "reading": "お / ご",
+    "sinoVietnamese": "NGỰ",
+    "example": "お客様、ご意見をお聞かせください。(Thưa quý khách, xin vui lòng cho chúng tôi lắng nghe ý kiến quý báu của quý khách.)"
   },
   {
     "word": "老い",
-    "meaning": "tuổi già",
+    "meaning": "sự già đi, tuổi già",
     "reading": "おい",
-    "sinoVietnamese": "",
-    "example": "少年老い易く学成り難し。 (Con trai dễ già và việc học rất khó khăn.)"
+    "sinoVietnamese": "LÃO",
+    "example": "誰にでも老いは訪れますが、心はいつも若々しくありたいです。 (Ai rồi cũng sẽ bước vào tuổi già, nhưng tôi mong tâm hồn mình luôn tươi trẻ.)"
   },
   {
     "word": "追い付く",
-    "meaning": "vượt qua",
+    "meaning": "đuổi kịp, bắt kịp",
     "reading": "おいつく",
-    "sinoVietnamese": "PHÓ",
-    "example": "トムに追いつくために走らなければならなかった。 (Tôi phải chạy để đuổi kịp Tom.)"
+    "sinoVietnamese": "TRUY PHÓ",
+    "example": "毎日必死に勉強して、ついにクラスのトップに追い付きました。 (Học tập chăm chỉ mỗi ngày, cuối cùng tôi đã bắt kịp người đứng đầu lớp.)"
   },
   {
     "word": "王",
-    "meaning": "vua",
+    "meaning": "vua, quốc vương",
     "reading": "おう",
-    "sinoVietnamese": "",
-    "example": "彼らは王の殺害をたくらんでいる。 (Họ đang âm mưu giết nhà vua.)"
+    "sinoVietnamese": "VƯƠNG",
+    "example": "国民から深く愛された賢い王が国を治めていました。 (Một vị vua thông thái được muôn dân yêu mến đã cai trị đất nước.)"
   },
   {
     "word": "追う",
-    "meaning": "đuổi theo",
+    "meaning": "đuổi theo, theo đuổi (giấc mơ, mục tiêu)",
     "reading": "おう",
-    "sinoVietnamese": "",
-    "example": "今日は時間に追われていてね。 (Hôm nay tôi bị ép về thời gian.)"
+    "sinoVietnamese": "TRUY",
+    "example": "自分の理想を叶えるために、どこまでも夢を追い続けます。 (Để hiện thực hóa lý tưởng của mình, tôi sẽ tiếp tục theo đuổi ước mơ đến cùng.)"
   },
   {
     "word": "王様",
-    "meaning": "vua",
+    "meaning": "ông vua, vị vua (cách gọi tôn kính hoặc trong cổ tích)",
     "reading": "おうさま",
-    "sinoVietnamese": "",
-    "example": "その王様はいつも王冠をかぶっている。 (Nhà vua luôn đội vương miện.)"
+    "sinoVietnamese": "VƯƠNG DẠNG",
+    "example": "昔々ある国に、とても心の優しい王様が住んでいました。 (Ngày xửa ngày xưa ở một vương quốc nọ, có một vị vua vô cùng nhân hậu.)"
   },
   {
     "word": "王子",
     "meaning": "hoàng tử",
     "reading": "おうじ",
-    "sinoVietnamese": "TỬ",
-    "example": "王子は森で道に迷った。 (Hoàng tử bị lạc trong rừng.)"
+    "sinoVietnamese": "VƯƠNG TỬ",
+    "example": "絵本の中で勇敢な王子がお姫様を助け出しました。 (Trong cuốn truyện tranh, vị hoàng tử dũng cảm đã giải cứu nàng công chúa.)"
   },
   {
     "word": "応じる",
-    "meaning": "đáp lại",
+    "meaning": "đáp ứng, trả lời; nhận lời, tuân theo",
     "reading": "おうじる",
-    "sinoVietnamese": "",
-    "example": "彼は収入に応じた生活をしている。 (Anh ấy sống theo thu nhập của mình.)"
+    "sinoVietnamese": "ỨNG",
+    "example": "お客様のご要望に応じて、柔軟にプランを変更いたします。 (Chúng tôi sẽ linh hoạt thay đổi kế hoạch nhằm đáp ứng yêu cầu của quý khách.)"
   },
   {
     "word": "横断",
-    "meaning": "băng qua",
+    "meaning": "băng qua, đi qua (đường sá, lục địa)",
     "reading": "おうだん",
-    "sinoVietnamese": "ĐOẠN",
-    "example": "彼はヨットで太平洋を横断した。 (Anh ấy đã đi thuyền qua Thái Bình Dương.)"
+    "sinoVietnamese": "HOÀNH ĐOÁN",
+    "example": "手を挙げて、安全を確認しながら横断歩道を横断しました。 (Tôi giơ tay và quan sát an toàn rồi mới băng qua vạch sang đường.)"
   },
   {
     "word": "終える",
-    "meaning": "kết thúc",
+    "meaning": "kết thúc, hoàn thành (công việc, khóa học)",
     "reading": "おえる",
     "sinoVietnamese": "CHUNG",
-    "example": "その仕事をもう終えましたか。 (Bạn đã làm xong công việc đó chưa?)"
+    "example": "三日間の集中講義を無事に終えることができました。 (Tôi đã hoàn thành tốt đẹp khóa giảng dạy tập trung trong ba ngày.)"
   },
   {
     "word": "大いに",
-    "meaning": "rất",
+    "meaning": "rất nhiều, vô cùng, hết sức",
     "reading": "おおいに",
     "sinoVietnamese": "ĐẠI",
-    "example": "私は彼を大いに尊敬しています。 (Tôi rất tôn trọng anh ấy.)"
+    "example": "久しぶりに集まった親友たちと大いに語り合いました。 (Tôi đã trò chuyện rất nhiều và vui vẻ hết mình cùng nhóm bạn thân sau thời gian dài hội ngộ.)"
   },
   {
     "word": "覆う",
-    "meaning": "che đậy",
+    "meaning": "bao phủ, che phủ, trùm lên",
     "reading": "おおう",
-    "sinoVietnamese": "",
-    "example": "机はほこりで覆われている。 (Bàn làm việc phủ đầy bụi.)"
+    "sinoVietnamese": "PHÚC",
+    "example": "冬になると、美しい白雪が一面をすっぽりと覆います。 (Khi mùa đông đến, tuyết trắng tuyệt đẹp lại bao phủ khắp mọi nẻo đường.)"
   },
   {
     "word": "オーバー",
-    "meaning": "áo khoác ngoài",
+    "meaning": "vượt quá, quá mức (over); áo khoác dài",
     "reading": "オーバー",
     "sinoVietnamese": "",
-    "example": "あなたはオーバーなしですますつもりですか。 (Bạn sẽ làm điều đó mà không có áo khoác ngoài?)"
+    "example": "荷物の重さが規定の制限を２キロオーバーしてしまった。 (Trọng lượng hành lý đã vượt quá mức quy định 2 kg.)"
   },
   {
     "word": "大家",
-    "meaning": "chủ nhà",
+    "meaning": "chủ nhà trọ; chuyên gia bậc thầy",
     "reading": "おおや",
-    "sinoVietnamese": "ĐẠI",
-    "example": "その大家は以前は暮らし向きがよかったそうだ。 (Có vẻ như chủ nhà đã từng khá giả.)"
+    "sinoVietnamese": "ĐẠI GIA",
+    "example": "アパートの優しい大家さんが美味しい野菜を分けてくれました。 (Bác chủ nhà trọ tốt bụng đã chia sẻ cho tôi một ít rau tươi ngon.)"
   },
   {
     "word": "丘",
-    "meaning": "đồi núi",
+    "meaning": "ngọn đồi, quả đồi",
     "reading": "おか",
-    "sinoVietnamese": "",
-    "example": "その丘は見晴らしがよい。 (Ngọn đồi có tầm nhìn đẹp.)"
+    "sinoVietnamese": "KHÂU",
+    "example": "緑豊かな丘の上に登ると、街全体が一望できます。 (Lên trên đỉnh ngọn đồi xanh mướt, ta có thể ngắm nhìn toàn cảnh thành phố.)"
   },
   {
     "word": "沖",
-    "meaning": "biển khơi",
+    "meaning": "ngoài khơi, biển khơi",
     "reading": "おき",
-    "sinoVietnamese": "",
-    "example": "その島は海岸から１マイル沖にある。 (Hòn đảo cách bờ biển một dặm.)"
+    "sinoVietnamese": "TRÙNG",
+    "example": "遠い沖の方で漁船がゆっくりと網を引いています。 (Ở mãi ngoài khơi xa, con tàu đánh cá đang chầm chậm kéo lưới.)"
   },
   {
     "word": "贈る",
-    "meaning": "gửi",
+    "meaning": "tặng, trao tặng (quà tặng, lời chúc)",
     "reading": "おくる",
-    "sinoVietnamese": "",
-    "example": "ドロシーは彼にすばらしい贈り物を贈った。 (Dorothy đã tặng anh ấy một món quà tuyệt vời.)"
+    "sinoVietnamese": "TẶNG",
+    "example": "卒業式の日、お世話になった先生に感謝の花束を贈りました。 (Vào ngày lễ tốt nghiệp, tôi đã trao tặng bó hoa tri ân gửi đến người thầy đã dạy dỗ mình.)"
   },
   {
     "word": "起こる",
-    "meaning": "xảy ra",
+    "meaning": "xảy ra, phát sinh (sự cố, biến cố)",
     "reading": "おこる",
     "sinoVietnamese": "KHỞI",
-    "example": "あとで起こったことはなお悪かった。 (Những gì xảy ra sau đó thậm chí còn tồi tệ hơn.)"
+    "example": "深夜に大きな地震が起こり、街中が停電しました。 (Nửa đêm đã xảy ra một trận động đất lớn khiến toàn thành phố mất điện.)"
   },
   {
     "word": "幼い",
-    "meaning": "rất trẻ",
+    "meaning": "ngây thơ, thơ ấu, còn nhỏ tuổi",
     "reading": "おさない",
-    "sinoVietnamese": "",
-    "example": "彼の考えはとても幼い。 (Suy nghĩ của anh còn rất trẻ.)"
+    "sinoVietnamese": "ẤU",
+    "example": "彼女は幼い頃からピアノを熱心に習っていました。 (Cô ấy đã chăm chỉ học đàn piano từ thuở còn thơ ấu.)"
   },
   {
     "word": "収める",
-    "meaning": "có được",
+    "meaning": "thu vào, đạt được (thành công); cất giữ",
     "reading": "おさめる",
-    "sinoVietnamese": "",
-    "example": "そのアメリカ映画は大成功を収めた。 (Bộ phim Mỹ đã thành công rực rỡ.)"
+    "sinoVietnamese": "THU",
+    "example": "厳しい練習の成果を発揮して、大会で見事に優勝を収めました。 (Phát huy kết quả luyện tập gian khổ, anh ấy đã đạt được chức vô địch thuyết phục tại đại hội.)"
   },
   {
     "word": "おしゃべり",
-    "meaning": "huyên thuyên",
+    "meaning": "nói chuyện, tán gẫu; người nhiều chuyện",
     "reading": "おしゃべり",
     "sinoVietnamese": "",
-    "example": "彼らは天気についておしゃべりした。 (Họ trò chuyện về thời tiết.)"
+    "example": "カフェで友達と何時間もおしゃべりを楽しんだ。 (Tôi đã có thời gian tán gẫu vui vẻ cùng bạn bè hàng giờ liền tại quán cà phê.)"
   },
   {
     "word": "汚染",
-    "meaning": "sự ô nhiễm",
+    "meaning": "ô nhiễm (môi trường, nguồn nước)",
     "reading": "おせん",
-    "sinoVietnamese": "Ô",
-    "example": "汚染が地球を傷つけている。 (Ô nhiễm đang làm tổn thương trái đất.)"
+    "sinoVietnamese": "Ô NHIỄM",
+    "example": "工場からの排水によって川の水が深刻に汚染されている。 (Nước sông đang bị ô nhiễm nghiêm trọng do nước thải từ nhà máy xả ra.)"
   },
   {
     "word": "おそらく",
-    "meaning": "có lẽ, có thể (dùng trong suy đoán có độ tin cậy khá cao, văn phong lịch sự)",
+    "meaning": "có lẽ, có thể, e rằng (xác suất cao)",
     "reading": "おそらく",
     "sinoVietnamese": "",
-    "example": "首相はおそらく辞任するであろう。 (Thủ tướng chắc chắn sẽ từ chức.)"
+    "example": "空が暗くなってきたので、おそらく夕方には激しい雨が降るでしょう。 (Trời đã tối sầm lại nên có lẽ chiều tối nay sẽ có mưa to.)"
   },
   {
     "word": "恐れる",
-    "meaning": "sợ hãi",
+    "meaning": "lo sợ, e sợ, sợ hãi",
     "reading": "おそれる",
     "sinoVietnamese": "KHỦNG",
-    "example": "大人はしばしば変化を恐れる。 (Người lớn thường sợ sự thay đổi.)"
+    "example": "失敗を恐れずに、新しいことに積極的に挑戦してください。 (Xin đừng lo sợ thất bại mà hãy tự tin thử sức với những điều mới mẻ.)"
   },
   {
     "word": "恐ろしい",
-    "meaning": "khủng khiếp",
+    "meaning": "đáng sợ, ghê gớm, kinh khủng",
     "reading": "おそろしい",
     "sinoVietnamese": "KHỦNG",
-    "example": "その嵐の天候は恐ろしかった。 (Trời giông bão thật đáng sợ.)"
+    "example": "昨夜、巨大な怪物に追いかけられる恐ろしい夢を見ました。 (Đêm qua tôi đã mơ thấy một giấc mơ đáng sợ khi bị quái vật khổng lồ rượt đuổi.)"
   },
   {
     "word": "お互い",
-    "meaning": "lẫn nhau",
+    "meaning": "lẫn nhau, cùng nhau (cả hai bên)",
     "reading": "おたがい",
-    "sinoVietnamese": "",
-    "example": "お互い相性がいい。 (Chúng tôi tương thích với nhau.)"
+    "sinoVietnamese": "HỖ",
+    "example": "困ったときはお互いに助け合うことが大切です。 (Khi gặp hoạn nạn, việc giúp đỡ lẫn nhau là điều vô cùng quan trọng.)"
   },
   {
     "word": "穏やか",
-    "meaning": "bình tĩnh",
+    "meaning": "ôn hòa, điềm đạm, yên bình (thời tiết, tính cách)",
     "reading": "おだやか",
-    "sinoVietnamese": "",
-    "example": "海は穏やかに、そしてなめらかに見える。 (Biển có vẻ êm đềm và êm ả.)"
+    "sinoVietnamese": "ỔN",
+    "example": "春の穏やかな日差しを浴びながら散歩しました。 (Tôi đi dạo dưới ánh nắng ấm áp và ôn hòa của mùa xuân.)"
   },
   {
     "word": "劣る",
-    "meaning": "tụt lại phía sau",
+    "meaning": "kém hơn, thua kém (về chất lượng, khả năng)",
     "reading": "おとる",
-    "sinoVietnamese": "",
-    "example": "彼女は、彼より、数学において劣っている。 (Cô kém anh về môn toán.)"
+    "sinoVietnamese": "LIỆT",
+    "example": "この国産品は外国の高級品と比べても決して性能は劣りません。 (Sản phẩm trong nước này so với hàng cao cấp ngoại nhập thì chất lượng hoàn toàn không hề thua kém.)"
   },
   {
     "word": "鬼",
-    "meaning": "yêu tinh",
+    "meaning": "con quỷ, yêu quái; người nghiêm khắc như quỷ",
     "reading": "おに",
-    "sinoVietnamese": "",
-    "example": "遅れたやつは鬼に食われろ。 (Ai đến muộn sẽ bị quỷ ăn thịt.)"
+    "sinoVietnamese": "QUỶ",
+    "example": "日本の節分の行事では、豆をまいて鬼を追い払います。 (Trong lễ Setsubun ở Nhật, người ta ném đậu để xua đuổi con quỷ đi.)"
   },
   {
     "word": "帯",
-    "meaning": "dải (ví dụ: độ dẫn, hóa trị)",
+    "meaning": "dây đai, đai lưng (kimono); dải băng",
     "reading": "おび",
-    "sinoVietnamese": "",
-    "example": "彼女の着物と帯の取り合わせはおつだね。 (Sự kết hợp giữa kimono và obi của cô ấy thật hoàn hảo.)"
+    "sinoVietnamese": "ĐỚI",
+    "example": "着物を着たあと、華やかな柄の帯をきれいに結びました。 (Sau khi mặc kimono, tôi thắt chiếc đai lưng có hoa văn rực rỡ thật ngay ngắn.)"
   },
   {
     "word": "お昼",
-    "meaning": "bữa trưa",
+    "meaning": "buổi trưa; bữa trưa, cơm trưa",
     "reading": "おひる",
-    "sinoVietnamese": "",
-    "example": "お昼をおごってくれたのを覚えてますか。 (Bạn có nhớ khi bạn mua bữa trưa cho tôi không?)"
+    "sinoVietnamese": "TRÚ",
+    "example": "お昼休みに同僚と近くのレストランへ食事に行きました。 (Vào giờ nghỉ buổi trưa, tôi cùng đồng nghiệp đến quán ăn gần đó dùng bữa.)"
   },
   {
     "word": "オフィス",
-    "meaning": "văn phòng",
+    "meaning": "văn phòng làm việc (office)",
     "reading": "オフィス",
     "sinoVietnamese": "",
-    "example": "いつでも私のオフィスを訪ねなさい。 (Hãy ghé thăm văn phòng của tôi bất cứ lúc nào.)"
+    "example": "新しいオフィスは広々としていて、とても仕事がしやすいです。 (Văn phòng làm việc mới rất rộng rãi và vô cùng tiện lợi cho công việc.)"
   },
   {
     "word": "溺れる",
-    "meaning": "bị chết đuối",
+    "meaning": "chết đuối, chìm đắm (trong men rượu, cờ bạc)",
     "reading": "おぼれる",
-    "sinoVietnamese": "",
-    "example": "彼女は危うく溺れるところだった。 (Cô gần như bị chết đuối.)"
+    "sinoVietnamese": "NỊCH",
+    "example": "川で溺れそうになった子供を近所の人が素早く救助した。 (Người dân gần đó đã nhanh chóng cứu đứa bé sắp bị chết đuối dưới sông.)"
   },
   {
     "word": "おまえ",
-    "meaning": "(quen thuộc) bạn (hát)",
+    "meaning": "mày, cậu (đại từ xưng hô thân mật hoặc suồng sã)",
     "reading": "おまえ",
     "sinoVietnamese": "",
-    "example": "お前を娘の夫にしよう。 (Tôi sẽ biến anh thành chồng của con gái tôi.)"
+    "example": "「おまえならきっと試験に合格できるよ」と親友が励ましてくれた。 (Bạn thân động viên tôi: \"Cậu mà thi thì chắc chắn sẽ đỗ thôi!\".)"
   },
   {
     "word": "おめでとう",
-    "meaning": "xin chúc mừng!",
+    "meaning": "chúc mừng (sinh nhật, năm mới, thành công)",
     "reading": "おめでとう",
     "sinoVietnamese": "",
-    "example": "クリスマスおめでとうございます。 (Chúc mừng Giáng sinh!)"
+    "example": "大学の合格通知を受け取った親友に「本当におめでとう！」と伝えた。 (Tôi gửi lời chúc mừng chân thành đến người bạn thân vừa nhận giấy báo đỗ đại học.)"
   },
   {
     "word": "お目に掛かる",
-    "meaning": "gặp (ai đó có địa vị cao hơn)",
+    "meaning": "gặp mặt (kính ngữ khiêm nhường của 会う)",
     "reading": "おめにかかる",
     "sinoVietnamese": "MỤC QUẢI",
-    "example": "家内もお目にかかることを楽しみにしておりますから。 (Vợ tôi và tôi rất mong được gặp bạn.)"
+    "example": "来週の火曜日に先生にお目に掛かるのを楽しみにしております。 (Em rất mong chờ được gặp mặt thầy vào thứ Ba tuần tới.)"
   },
   {
     "word": "思い出",
-    "meaning": "ký ức",
+    "meaning": "kỷ niệm, ký ức đáng nhớ",
     "reading": "おもいで",
     "sinoVietnamese": "TƯ XUẤT",
-    "example": "この旅行はいい思い出になるでしょう。 (Chuyến đi này sẽ là một kỷ niệm tuyệt vời.)"
+    "example": "高校時代の友達と過ごした日々は、かけがえのない思い出です。 (Những ngày tháng bên bạn bè thời cấp ba là những kỷ niệm vô giá của tôi.)"
   },
   {
     "word": "主に",
-    "meaning": "chủ yếu",
+    "meaning": "chủ yếu, phần lớn",
     "reading": "おもに",
     "sinoVietnamese": "CHỦ",
-    "example": "スペインの雨は主に平原に降る。 (Mưa ở Tây Ban Nha chủ yếu rơi ở vùng đồng bằng.)"
+    "example": "このレストランでは主に北海道産の新鮮な食材を使用しています。 (Nhà hàng này chủ yếu sử dụng các nguyên liệu tươi ngon từ vùng Hokkaido.)"
   },
   {
     "word": "思わず",
-    "meaning": "vô tình",
+    "meaning": "bất giác, vô tình, không kìm được",
     "reading": "おもわず",
     "sinoVietnamese": "TƯ",
-    "example": "彼は思わず笑った。 (Anh không thể không cười.)"
+    "example": "映画の感動的なラストシーンを見て、思わず涙がこぼれました。 (Xem đoạn kết xúc động của bộ phim, tôi đã bất giác rơi nước mắt.)"
   },
   {
     "word": "泳ぎ",
-    "meaning": "bơi lội",
+    "meaning": "bơi lội, kiểu bơi, môn bơi",
     "reading": "およぎ",
-    "sinoVietnamese": "",
-    "example": "このごろは子供は学校で泳ぎを習う。 (Ngày nay, trẻ em học bơi ở trường.)"
+    "sinoVietnamese": "VỊNH",
+    "example": "夏休みには毎日市民プールに通って、泳ぎの練習をしました。 (Vào kỳ nghỉ hè, tôi đến hồ bơi thành phố mỗi ngày để luyện bơi lội.)"
   },
   {
     "word": "およそ",
     "meaning": "khoảng chừng, đại khái, xấp xỉ",
     "reading": "およそ",
     "sinoVietnamese": "",
-    "example": "駅から目的地までは、およそ徒歩十五分ほどかかります。 (Từ nhà ga đến điểm đến mất khoảng chừng 15 phút đi bộ.)"
+    "example": "東京から京都までは新幹線でおよそ２時間半かかります。 (Từ Tokyo đến Kyoto đi tàu Shinkansen mất khoảng chừng hai tiếng rưỡi.)"
   },
   {
     "word": "及ぼす",
-    "meaning": "nỗ lực",
+    "meaning": "gây ra, mang lại (ảnh hưởng xấu, tác động lớn)",
     "reading": "およぼす",
-    "sinoVietnamese": "",
-    "example": "あなたに被害を及ぼそうなどとは夢にも思いませんでした。 (Tôi chưa bao giờ mơ rằng tôi sẽ làm hại bạn.)"
+    "sinoVietnamese": "CẬP",
+    "example": "大気汚染は人々の健康に深刻な悪影響を及ぼしています。 (Ô nhiễm không khí đang gây ra những ảnh hưởng tiêu cực nghiêm trọng đến sức khỏe con người.)"
   },
   {
     "word": "居る",
-    "meaning": "trở thành (hoạt hình)",
+    "meaning": "ở, có mặt (người, động vật); cư ngụ",
     "reading": "おる",
     "sinoVietnamese": "CƯ",
-    "example": "おかげで元気にしております。 (Nhờ có bạn mà tôi vẫn ổn.)"
+    "example": "リビングのソファでお父さんがくつろいで居ます。 (Bố đang có mặt và thư giãn trên chiếc ghế sofa trong phòng khách.)"
   },
   {
     "word": "降ろす",
-    "meaning": "hạ gục",
+    "meaning": "hạ xuống, dỡ xuống (hành lý); cho xuống xe",
     "reading": "おろす",
-    "sinoVietnamese": "",
-    "example": "あの信号の手前で降ろしてください。 (Hãy xuống xe trước đèn giao thông đó.)"
+    "sinoVietnamese": "GIÁNG",
+    "example": "車のトランクから重い旅行鞄を慎重に降ろしました。 (Tôi cẩn thận dỡ chiếc vali du lịch nặng từ cốp xe ô tô xuống.)"
   },
   {
     "word": "恩",
-    "meaning": "ủng hộ",
+    "meaning": "ơn nghĩa, ân huệ, công ơn",
     "reading": "おん",
-    "sinoVietnamese": "",
-    "example": "お前は恩を仇で返したな。 (Bạn đã trả ơn kẻ thù.)"
+    "sinoVietnamese": "ƠN",
+    "example": "育ててくれた両親への恩を一生忘れません。 (Suốt đời tôi sẽ không bao giờ quên công ơn nuôi nấng của cha mẹ.)"
   },
   {
     "word": "温暖",
-    "meaning": "sự ấm áp",
+    "meaning": "ấm áp, ôn hòa (khí hậu)",
     "reading": "おんだん",
-    "sinoVietnamese": "",
-    "example": "島の天候はとても温暖です。 (Thời tiết trên đảo rất ấm áp.)"
+    "sinoVietnamese": "ÔN NOÃN",
+    "example": "この地域は一年を通して気候が温暖で、とても暮らしやすいです。 (Vùng đất này quanh năm khí hậu ấm áp, vô cùng thuận lợi để sinh sống.)"
   },
   {
     "word": "温度",
-    "meaning": "nhiệt độ",
+    "meaning": "nhiệt độ (không khí, nước, cơ thể)",
     "reading": "おんど",
-    "sinoVietnamese": "ĐỘ",
-    "example": "物質は温度によって形を変える。 (Các chất thay đổi hình dạng theo nhiệt độ.)"
+    "sinoVietnamese": "ÔN ĐỘ",
+    "example": "部屋のエアコンの温度を快適な２５度に設定しました。 (Tôi đã cài đặt nhiệt độ điều hòa trong phòng ở mức 25 độ thoải mái.)"
   },
   {
     "word": "可",
     "meaning": "có thể qua được",
     "reading": "か",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KHẢ",
     "example": "この試験は辞書持ち込み可です。 (Bạn có thể mang theo từ điển của riêng bạn vào kỳ thi này.)"
   },
   {
     "word": "課",
-    "meaning": "bộ đếm số chương (của một cuốn sách)",
+    "meaning": "bài (học); phòng, ban (trong công ty)",
     "reading": "か",
-    "sinoVietnamese": "",
-    "example": "１０課から始めましょう。 (Hãy bắt đầu với bài học 10.)"
+    "sinoVietnamese": "KHÓA",
+    "example": "教科書の第５課をみんなで声を出して読みました。 (Cả lớp cùng đọc to bài số 5 trong sách giáo khoa.)"
   },
   {
     "word": "カー",
-    "meaning": "xe hơi",
+    "meaning": "xe ô tô, xe hơi (car)",
     "reading": "カー",
     "sinoVietnamese": "",
-    "example": "あいつはカーマニアだから、車のことならなんでも知ってるよ。 (Anh ấy là người đam mê ô tô nên biết mọi thứ về ô tô.)"
+    "example": "休日に家族でレンタカーを借りてドライブに行きました。 (Vào ngày nghỉ, tôi cùng gia đình thuê xe ô tô đi dạo mát.)"
   },
   {
     "word": "会",
@@ -1359,37 +1359,37 @@
   },
   {
     "word": "回",
-    "meaning": "bộ đếm sự xuất hiện",
+    "meaning": "lần, lượt (đơn vị đếm số lần)",
     "reading": "かい",
-    "sinoVietnamese": "",
-    "example": "彼女は毎週１回映画を見に行く。 (Cô ấy đi xem phim mỗi tuần một lần.)"
+    "sinoVietnamese": "HỒI",
+    "example": "一週間に３回、日本語のオンラインレッスンを受けています。 (Mỗi tuần 3 lần, tôi tham gia lớp học tiếng Nhật trực tuyến.)"
   },
   {
     "word": "害",
-    "meaning": "chấn thương",
+    "meaning": "tổn hại, tác hại; sự có hại",
     "reading": "がい",
     "sinoVietnamese": "HẠI",
-    "example": "ワインは本来害にならない。 (Rượu vốn không có hại.)"
+    "example": "タバコは健康に大きな害を及ぼします。 (Thuốc lá gây ra tác hại rất lớn đối với sức khỏe.)"
   },
   {
     "word": "絵画",
     "meaning": "bức tranh",
     "reading": "かいが",
-    "sinoVietnamese": "HỌA",
+    "sinoVietnamese": "HỘI HỌA",
     "example": "その絵画を見たらおもしろかった。 (Thật thú vị khi xem bức tranh đó.)"
   },
   {
     "word": "会計",
-    "meaning": "tài khoản",
+    "meaning": "kế toán; sự thanh toán, thanh toán hóa đơn",
     "reading": "かいけい",
     "sinoVietnamese": "HỘI KẾ",
-    "example": "チェックアウトしたいので、会計をおねがいします。 (Tôi muốn trả phòng nên vui lòng thanh toán hóa đơn.)"
+    "example": "食事の後、レジで会計を済ませました。 (Sau bữa ăn, tôi đã thanh toán hóa đơn tại quầy thu ngân.)"
   },
   {
     "word": "解決",
     "meaning": "giải quyết",
     "reading": "かいけつ",
-    "sinoVietnamese": "QUYẾT",
+    "sinoVietnamese": "GIẢI QUYẾT",
     "example": "その問題はまだ解決されていない。 (Vấn đề đó vẫn chưa được giải quyết.)"
   },
   {
@@ -1417,15 +1417,15 @@
     "word": "解釈",
     "meaning": "lời giải thích",
     "reading": "かいしゃく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIẢI THÍCH",
     "example": "それは２通りに解釈できる。 (Nó có thể được giải thích theo hai cách.)"
   },
   {
     "word": "外出",
-    "meaning": "chuyến đi chơi",
+    "meaning": "đi ra ngoài, ra ngoài (có việc)",
     "reading": "がいしゅつ",
     "sinoVietnamese": "NGOẠI XUẤT",
-    "example": "ヒーターをつけたまま外出した。 (Tôi ra ngoài với máy sưởi đang bật.)"
+    "example": "午後から急な用事で外出します。 (Từ chiều tôi phải đi ra ngoài vì có việc đột xuất.)"
   },
   {
     "word": "改善",
@@ -1436,58 +1436,58 @@
   },
   {
     "word": "快適",
-    "meaning": "dễ chịu",
+    "meaning": "thoải mái, dễ chịu, tiện nghi",
     "reading": "かいてき",
-    "sinoVietnamese": "",
-    "example": "この家は住むのにとても快適だ。 (Ngôi nhà này rất thoải mái để ở.)"
+    "sinoVietnamese": "KHOÁI THÍCH",
+    "example": "このホテルは部屋が広くてとても快適です。 (Khách sạn này phòng rộng rãi nên rất thoải mái.)"
   },
   {
     "word": "回復",
     "meaning": "hồi phục (sau bệnh tật)",
     "reading": "かいふく",
-    "sinoVietnamese": "PHỤC",
+    "sinoVietnamese": "HỒI PHỤC",
     "example": "回復はほとんど不可能だった。 (Việc phục hồi gần như là không thể.)"
   },
   {
     "word": "飼う",
-    "meaning": "giữ",
+    "meaning": "nuôi (thú cưng, gia súc)",
     "reading": "かう",
     "sinoVietnamese": "TỰ",
-    "example": "ナンシーは犬を飼いたがっていますか。 (Nancy có muốn nuôi chó không?)"
+    "example": "子供の頃から家で白い犬を飼っています。 (Từ thuở nhỏ tôi đã nuôi một chú chó trắng ở nhà.)"
   },
   {
     "word": "換える",
     "meaning": "trao đổi",
     "reading": "かえる",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HOÁN",
     "example": "銀行に行けばその５０ドルの小切手を現金に換えてくれる。 (Nếu bạn đến ngân hàng, họ sẽ đổi séc 50 đô la cho bạn.)"
   },
   {
     "word": "替える",
-    "meaning": "trao đổi",
+    "meaning": "thay, đổi (nước, pin, đồ vật)",
     "reading": "かえる",
-    "sinoVietnamese": "",
-    "example": "お花の水を替えましょう。 (Thay nước cho hoa của bạn.)"
+    "sinoVietnamese": "THẾ",
+    "example": "花瓶の水をきれいな水に替えてください。 (Xin hãy thay nước mới sạch sẽ cho bình hoa.)"
   },
   {
     "word": "香り",
     "meaning": "hương thơm",
     "reading": "かおり",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HƯƠNG",
     "example": "そのバラはよい香りを発散した。 (Hoa hồng tỏa ra một mùi thơm dễ chịu.)"
   },
   {
     "word": "画家",
     "meaning": "họa sĩ",
     "reading": "がか",
-    "sinoVietnamese": "HỌA",
+    "sinoVietnamese": "HỌA GIA",
     "example": "その画家は、いわば永遠の少年だ。 (Có thể nói, họa sĩ là một cậu bé vĩnh cửu.)"
   },
   {
     "word": "抱える",
     "meaning": "giữ hoặc mang theo hoặc trong vòng tay",
     "reading": "かかえる",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BÃO",
     "example": "彼は両手に大きな箱を抱えていた。 (Anh ta đang cầm một chiếc hộp lớn bằng cả hai tay.)"
   },
   {
@@ -1508,22 +1508,22 @@
     "word": "輝く",
     "meaning": "tỏa sáng",
     "reading": "かがやく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HUY",
     "example": "空には太陽が輝いています。 (Mặt trời đang chiếu sáng trên bầu trời.)"
   },
   {
     "word": "罹る",
-    "meaning": "phải chịu đựng",
+    "meaning": "mắc (bệnh), nhiễm bệnh",
     "reading": "かかる",
-    "sinoVietnamese": "",
-    "example": "私はかつて大病にかかったことがあった。 (Có lần tôi mắc một căn bệnh hiểm nghèo.)"
+    "sinoVietnamese": "LI",
+    "example": "冬の寒い時期にインフルエンザに罹ってしまいました。 (Vào thời điểm mùa đông giá lạnh, tôi đã mắc bệnh cúm.)"
   },
   {
     "word": "限る",
-    "meaning": "chỉ riêng, giới hạn (hoặc dùng trong cấu trúc: không hẳn là...)",
+    "meaning": "giới hạn, chỉ riêng; là nhất (lựa chọn tốt nhất)",
     "reading": "かぎる",
-    "sinoVietnamese": "",
-    "example": "値段が高いものが、必ずしも品質が良いとは限らない。 (Đồ đắt tiền chưa chắc chất lượng đã luôn tốt.)"
+    "sinoVietnamese": "HẠN",
+    "example": "暑い夏の日には冷たいスイカを食べるに限ります。 (Vào ngày hè nóng nực thì ăn dưa hấu mát lạnh là nhất.)"
   },
   {
     "word": "学",
@@ -1534,24 +1534,24 @@
   },
   {
     "word": "額",
-    "meaning": "(hình ảnh) khung",
+    "meaning": "trán; khung (tranh); số tiền, kim ngạch",
     "reading": "がく",
-    "sinoVietnamese": "",
-    "example": "この額は税込みです。 (Số tiền này đã bao gồm thuế.)"
+    "sinoVietnamese": "NGẠCH",
+    "example": "今月の電気代の請求額を見て驚きました。 (Tôi đã giật mình khi nhìn thấy số tiền thanh toán tiền điện tháng này.)"
   },
   {
     "word": "覚悟",
-    "meaning": "độ phân giải",
+    "meaning": "chuẩn bị tâm lý, sẵn sàng tinh thần; giác ngộ",
     "reading": "かくご",
-    "sinoVietnamese": "",
-    "example": "私はすでに覚悟はできています。 (Tôi đã chuẩn bị sẵn rồi.)"
+    "sinoVietnamese": "GIÁC NGỘ",
+    "example": "どんな困難があっても諦めないと覚悟を決めました。 (Tôi đã sẵn sàng tinh thần là dù có khó khăn thế nào cũng sẽ không từ bỏ.)"
   },
   {
     "word": "確実",
-    "meaning": "chắc chắn, xác thực (mức độ tin cậy cao, không còn nghi ngờ)",
+    "meaning": "chắc chắn, xác thực, đáng tin cậy",
     "reading": "かくじつ",
     "sinoVietnamese": "XÁC THỰC",
-    "example": "これは遅いけど確実な方法だ。 (Đây là một phương pháp chậm nhưng đáng tin cậy.)"
+    "example": "毎日コツコツ勉強することが合格への確実な道です。 (Học tập đều đặn mỗi ngày là con đường chắc chắn dẫn đến đỗ đạt.)"
   },
   {
     "word": "学者",
@@ -1571,15 +1571,15 @@
     "word": "隠す",
     "meaning": "giấu",
     "reading": "かくす",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ẨN",
     "example": "私は母がケーキを隠すのを見た。 (Tôi thấy mẹ tôi giấu chiếc bánh.)"
   },
   {
     "word": "拡大",
-    "meaning": "phóng đại",
+    "meaning": "mở rộng, phóng to (quy mô, hình ảnh)",
     "reading": "かくだい",
-    "sinoVietnamese": "ĐẠI",
-    "example": "今年は事業が５０％拡大した。 (Hoạt động kinh doanh đã mở rộng 50% trong năm nay.)"
+    "sinoVietnamese": "KHUẾCH ĐẠI",
+    "example": "会社は海外市場に向けてビジネスを拡大しています。 (Công ty đang mở rộng hoạt động kinh doanh ra thị trường nước ngoài.)"
   },
   {
     "word": "学問",
@@ -1590,17 +1590,17 @@
   },
   {
     "word": "隠れる",
-    "meaning": "giấu",
+    "meaning": "trốn, ẩn náu, ẩn mình; khuất (sau mây)",
     "reading": "かくれる",
-    "sinoVietnamese": "",
-    "example": "太陽が雲のかげに隠れた。 (Mặt trời ẩn sau những đám mây.)"
+    "sinoVietnamese": "ẨN",
+    "example": "太陽が厚い雲の向こうに隠れてしまいました。 (Mặt trời đã ẩn mình khuất sau những đám mây dày.)"
   },
   {
     "word": "陰",
-    "meaning": "bóng râm",
+    "meaning": "bóng râm, bóng tối; mặt sau",
     "reading": "かげ",
-    "sinoVietnamese": "",
-    "example": "あの木の陰に腰をおろしましょう。 (Chúng ta hãy ngồi xuống dưới gốc cây đó.)"
+    "sinoVietnamese": "ÂM",
+    "example": "暑いので大きな木の陰で少し休みましょう。 (Vì trời nóng nên chúng ta hãy nghỉ ngơi một chút dưới bóng râm của cái cây to.)"
   },
   {
     "word": "影",
@@ -1613,119 +1613,119 @@
     "word": "欠ける",
     "meaning": "bị thiếu",
     "reading": "かける",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KHIẾM",
     "example": "メアリーは思いやりに欠けている。 (Mary thiếu lòng trắc ẩn.)"
   },
   {
     "word": "加減",
-    "meaning": "mức độ, sự điều chỉnh (sức khỏe, lửa)",
+    "meaning": "sự điều chỉnh, mức độ (nhiệt độ, sức khỏe, gia vị)",
     "reading": "かげん",
-    "sinoVietnamese": "GIA",
-    "example": "おばあちゃん、最近のお体の加減はいかがですか。 (Bà ơi, dạo này tình hình sức khỏe trong người bà thế nào rồi ạ?)"
+    "sinoVietnamese": "GIA GIẢM",
+    "example": "お風呂のお湯の加減はいかがですか。 (Mức độ nóng của nước bồn tắm đã vừa phải chưa ạ?)"
   },
   {
     "word": "過去",
     "meaning": "quá khứ, thời gian đã qua",
     "reading": "かこ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "QUÁ KHỨ",
     "example": "過去の失敗を悔やむより、未来のことを考えよう。 (Thay vì hối tiếc về những thất bại trong quá khứ, hãy nghĩ về tương lai.)"
   },
   {
     "word": "籠",
     "meaning": "cái giỏ",
     "reading": "かご",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LUNG",
     "example": "そのかごはリンゴでいっぱいだった。 (Giỏ đầy táo.)"
   },
   {
     "word": "囲む",
     "meaning": "bao quanh",
     "reading": "かこむ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "VI",
     "example": "庭は木のフェンスで囲まれていた。 (Khu vườn được bao quanh bởi một hàng rào gỗ.)"
   },
   {
     "word": "火災",
     "meaning": "đám cháy",
     "reading": "かさい",
-    "sinoVietnamese": "HỎA",
+    "sinoVietnamese": "HỎA TAI",
     "example": "火災の理由は何か。 (Nguyên nhân của vụ cháy là gì?)"
   },
   {
     "word": "菓子",
-    "meaning": "bánh ngọt",
+    "meaning": "bánh kẹo, đồ ngọt",
     "reading": "かし",
-    "sinoVietnamese": "TỬ",
-    "example": "この菓子を自由にお取り下さい。 (Xin vui lòng nhận kẹo này.)"
+    "sinoVietnamese": "QUẢ TỬ",
+    "example": "日本のお土産に美味しい和菓子を買いました。 (Tôi đã mua bánh kẹo truyền thống Nhật Bản thơm ngon làm quà lưu niệm.)"
   },
   {
     "word": "貸し",
-    "meaning": "tiền vay",
+    "meaning": "cho vay, cho mượn; món nợ ơn nghĩa",
     "reading": "かし",
     "sinoVietnamese": "THẢI",
-    "example": "でも、これで１つ貸しだね。 (Nhưng bây giờ tôi sẽ cho bạn mượn một cái.)"
+    "example": "友達にノートの貸しがあります。 (Tôi có cho mượn cuốn vở ghi chép cho người bạn.)"
   },
   {
     "word": "家事",
     "meaning": "việc nhà",
     "reading": "かじ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIA SỰ",
     "example": "私は両親が家事をするのを手伝った。 (Tôi đã giúp bố mẹ tôi làm việc nhà.)"
   },
   {
     "word": "賢い",
-    "meaning": "khôn ngoan",
+    "meaning": "thông minh, khôn ngoan, sáng dạ",
     "reading": "かしこい",
-    "sinoVietnamese": "",
-    "example": "あなたは何と賢い生徒なのでしょう。 (Bạn quả là một học sinh thông minh!)"
+    "sinoVietnamese": "HIỀN",
+    "example": "彼は困難な問題も賢い方法で解決しました。 (Anh ấy đã giải quyết vấn đề khó khăn bằng một phương pháp thông minh.)"
   },
   {
     "word": "数",
     "meaning": "con số",
     "reading": "かず",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "SỐ",
     "example": "旅行者の数が近年大きく増加した。 (Số lượng khách du lịch đã tăng lên đáng kể trong những năm gần đây.)"
   },
   {
     "word": "稼ぐ",
     "meaning": "kiếm thu nhập",
     "reading": "かせぐ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIÁ",
     "example": "彼は使い切れない程のお金を稼ぐ。 (Anh ta kiếm được nhiều tiền hơn mức anh ta có thể chi tiêu.)"
   },
   {
     "word": "数える",
     "meaning": "đếm",
     "reading": "かぞえる",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "SỐ",
     "example": "あの子は２０まで数えられる。 (Đứa trẻ đó có thể đếm đến 20.)"
   },
   {
     "word": "型",
     "meaning": "khuôn",
     "reading": "かた",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HÌNH",
     "example": "その像は型に入れられて作られた。 (Bức tượng được làm bằng khuôn.)"
   },
   {
     "word": "肩",
     "meaning": "vai",
     "reading": "かた",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KIÊN",
     "example": "パソコンを長時間使ったので、肩がひどく凝って痛いです。 (Vì dùng máy tính trong thời gian dài nên vai tôi bị mỏi và đau nhức.)"
   },
   {
     "word": "硬い",
-    "meaning": "chất rắn",
+    "meaning": "cứng, rắn chắc (vật chất, thái độ)",
     "reading": "かたい",
-    "sinoVietnamese": "",
-    "example": "卵は硬くゆでてください。 (Hãy luộc trứng thật chín nhé.)"
+    "sinoVietnamese": "NGẠNH",
+    "example": "このパンは時間が経って硬くなってしまいました。 (Chiếc bánh mì này để lâu nên đã trở nên cứng đơ rồi.)"
   },
   {
     "word": "方々",
-    "meaning": "người",
+    "meaning": "các vị, quý vị, mọi người (kính ngữ)",
     "reading": "かたがた",
-    "sinoVietnamese": "",
-    "example": "わからなかったら方々の人に聞いた方がいいよ。 (Nếu bạn không hiểu, tốt hơn là hỏi người khác.)"
+    "sinoVietnamese": "PHƯƠNG",
+    "example": "本日お集まりいただいた方々に心より感謝申し上げます。(Tôi xin chân thành cảm ơn các vị đã dành thời gian đến tham dự hôm nay.)"
   }
 ]

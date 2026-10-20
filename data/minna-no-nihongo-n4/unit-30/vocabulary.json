@@ -38,7 +38,7 @@
     "word": "戻します",
     "meaning": "đưa trở lại vị trí cũ",
     "reading": "もどします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LỆ",
     "example": "辞書を使い終わったら、必ず元の場所に戻してください。 (Sau khi dùng từ điển xong, nhất định hãy cất lại chỗ cũ nhé.)"
   },
   {
@@ -66,7 +66,7 @@
     "word": "決めます",
     "meaning": "quyết định (kế hoạch, mục tiêu)",
     "reading": "きめます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "QUYẾT",
     "example": "話し合いの末、来月の旅行先を京都に決めました。 (Sau khi bàn bạc, chúng tôi đã quyết định chọn Kyoto làm điểm đến du lịch tháng sau.)"
   },
   {
@@ -80,7 +80,7 @@
     "word": "祖横断します",
     "meaning": "bàn bạc, thảo luận (相談します)",
     "reading": "そうだんします",
-    "sinoVietnamese": "TỔ",
+    "sinoVietnamese": "TỔ HOÀNH ĐOÁN",
     "example": "進路について悩んだときは、信頼できる先輩に相談します。 (Khi băn khoăn về định hướng tương lai, tôi thường bàn bạc với tiền bối đáng tin cậy.)"
   },
   {
@@ -106,16 +106,16 @@
   },
   {
     "word": "お子さん",
-    "meaning": "con của quý vị (cách gọi tôn trọng)",
+    "meaning": "con của quý vị, các cháu (tôn kính)",
     "reading": "おこさん",
     "sinoVietnamese": "TỬ",
-    "example": "お子さんは元気でいらっしゃいますか。 (Các cháu nhà anh/chị dạo này vẫn khỏe mạnh cả chứ ạ?)"
+    "example": "お子さんはお元気でいらっしゃいますか。(Các cháu nhà anh chị dạo này vẫn khỏe mạnh cả chứ ạ?)"
   },
   {
     "word": "講義",
     "meaning": "bài giảng đại học",
     "reading": "こうぎ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIẢNG NGHĨA",
     "example": "大学で日本経済についての専門的な講義を聴講しました。 (Tôi đã nghe bài giảng chuyên sâu về kinh tế Nhật Bản tại trường đại học.)"
   },
   {
@@ -127,10 +127,10 @@
   },
   {
     "word": "予定",
-    "meaning": "kế hoạch, dự định",
+    "meaning": "kế hoạch, dự định, lịch trình",
     "reading": "よてい",
     "sinoVietnamese": "DỰ ĐỊNH",
-    "example": "来週の出張の予定をカレンダーに登録しておきました。 (Tôi đã lưu lịch trình chuyến công tác tuần tới vào lịch biểu.)"
+    "example": "来週の出張の予定をカレンダーに登録しておきました。(Tôi đã lưu lịch trình dự định của chuyến công tác tuần tới vào lịch biểu.)"
   },
   {
     "word": "案内書",
@@ -150,42 +150,42 @@
     "word": "ごみ箱",
     "meaning": "thùng rác",
     "reading": "ごみばこ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TƯƠNG",
     "example": "燃えるゴミとリサイクル用でごみ箱を分けて設置しています。 (Chúng tôi bố trí thùng rác riêng biệt cho rác cháy được và đồ tái chế.)"
   },
   {
     "word": "人形",
     "meaning": "búp bê, con rối",
     "reading": "にんぎょう",
-    "sinoVietnamese": "NHÂN",
+    "sinoVietnamese": "NHÂN HÌNH",
     "example": "ひな祭りの日に伝統的な日本人形を床の間に飾りました。 (Vào ngày hội búp bê Hina, chúng tôi bài trí búp bê truyền thống Nhật ở góc phòng.)"
   },
   {
     "word": "鏡",
     "meaning": "tấm gương soi",
     "reading": "かがみ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KÍNH",
     "example": "出かける前に玄関の鏡で身だしなみをチェックします。 (Trước khi ra ngoài, tôi chỉnh lại trang phục chỉnh tề trước gương sảnh.)"
   },
   {
     "word": "引き出し",
     "meaning": "ngăn kéo bàn tủ",
     "reading": "ひきだし",
-    "sinoVietnamese": "XUẤT",
+    "sinoVietnamese": "DẪN XUẤT",
     "example": "机の上の引き出しに印鑑と通帳を大切に保管しています。 (Tôi cất giữ con dấu và sổ tiết kiệm cẩn thận trong ngăn kéo bàn làm việc.)"
   },
   {
     "word": "元の　所",
     "meaning": "chỗ cũ, vị trí ban đầu",
     "reading": "もとのところ",
-    "sinoVietnamese": "SỞ",
+    "sinoVietnamese": "NGUYÊN SỞ",
     "example": "使ったハサミは引き出しの元の所に戻しておいてください。 (Sau khi dùng kéo xong, bạn hãy cất lại đúng vị trí ban đầu trong ngăn kéo nhé.)"
   },
   {
     "word": "周り",
     "meaning": "xung quanh, vùng lân cận",
     "reading": "まわり",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CHU",
     "example": "家の周りは緑の木々に囲まれていて静かで住みやすいです。 (Xung quanh nhà được bao bọc bởi cây xanh, vừa yên tĩnh lại rất dễ sống.)"
   },
   {
@@ -213,7 +213,7 @@
     "word": "予定表",
     "meaning": "bảng kế hoạch, thời gian biểu",
     "reading": "よていひょう",
-    "sinoVietnamese": "DỰ ĐỊNH",
+    "sinoVietnamese": "DỰ ĐỊNH BIỂU",
     "example": "オフィスのホワイトボードに今週の予定表を書き込みました。 (Tôi đã viết thời gian biểu tuần này lên bảng trắng của văn phòng.)"
   },
   {
@@ -227,14 +227,14 @@
     "word": "希望",
     "meaning": "nguyện vọng, niềm hy vọng",
     "reading": "きぼう",
-    "sinoVietnamese": "HY VỌNG",
+    "sinoVietnamese": "HI VỌNG",
     "example": "将来への大きな希望を胸に抱いて日本へやって来ました。 (Tôi đã sang Nhật Bản với niềm hy vọng to lớn về tương lai trong tim.)"
   },
   {
     "word": "何かご希望がありますか",
     "meaning": "quý khách có yêu cầu/nguyện vọng gì không ạ?",
     "reading": "なにかごきぼうがありますか",
-    "sinoVietnamese": "HÀ HY VỌNG",
+    "sinoVietnamese": "HÀ HI VỌNG",
     "example": "お部屋の広さや場所について、何かご希望がありますか。 (Về diện tích hay vị trí căn hộ, quý khách có nguyện vọng gì đặc biệt không ạ?)"
   },
   {
@@ -262,7 +262,7 @@
     "word": "地球",
     "meaning": "Trái Đất",
     "reading": "ちきゅう",
-    "sinoVietnamese": "ĐỊA",
+    "sinoVietnamese": "ĐỊA CẦU",
     "example": "環境を守るために、地球に優しい生活を心がけましょう。 (Để bảo vệ môi trường, chúng ta hãy hướng tới lối sống thân thiện với Trái Đất.)"
   },
   {
@@ -290,7 +290,7 @@
     "word": "目が覚めます",
     "meaning": "tỉnh giấc, thức giấc (tự động từ)",
     "reading": "めがさめます",
-    "sinoVietnamese": "MỤC",
+    "sinoVietnamese": "MỤC GIÁC",
     "example": "小鳥の爽やかな鳴き声を聞いて、自然と朝6時に目が覚めました。 (Nghe tiếng chim hót líu lo, tôi tự nhiên tỉnh giấc vào lúc 6 giờ sáng.)"
   }
 ]

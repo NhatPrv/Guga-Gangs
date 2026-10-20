@@ -10,14 +10,14 @@
     "word": "焼けます",
     "meaning": "cháy, bị thiêu rụi (nhà: 家が焼ける), nướng chín",
     "reading": "やけます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THIÊU",
     "example": "近所の工場で深夜に大規模な火災が発生し、倉庫が一棟丸ごと焼けてしまいました。 (Vụ hỏa hoạn lớn lúc nửa đêm tại nhà máy gần xóm đã thiêu rụi hoàn toàn một dãy nhà kho.)"
   },
   {
     "word": "入院します",
     "meaning": "nhập viện điều trị (đã tách rời nhầm lẫn với nướng)",
     "reading": "にゅういんします",
-    "sinoVietnamese": "NHẬP VIỆN NHỤC",
+    "sinoVietnamese": "NHẬP VIỆN",
     "example": "交通事故で骨折してしまったため、総合病院の整形外科に二週間入院することになりました。 (Bị gãy xương sau tai nạn giao thông, tôi phải nằm viện điều trị hai tuần ở khoa chỉnh hình.)"
   },
   {
@@ -29,10 +29,10 @@
   },
   {
     "word": "死にます",
-    "meaning": "chết, qua đời (sinh vật)",
+    "meaning": "chết, qua đời",
     "reading": "しにます",
-    "sinoVietnamese": "",
-    "example": "長年飼っていた愛犬が寿命で静かに息を引き取って死にました。 (Chú chó cưng nuôi nhiều năm đã thanh thản trút hơi thở cuối cùng vì tuổi già.)"
+    "sinoVietnamese": "TỬ",
+    "example": "長年飼っていた愛犬が寿命で死にました。(Chú chó cưng nuôi nhiều năm đã qua đời vì tuổi già.)"
   },
   {
     "word": "びっくりします",
@@ -59,21 +59,21 @@
     "word": "遅刻します",
     "meaning": "đến muộn, trễ giờ (học, làm: 会社/学校に遅刻する)",
     "reading": "ちこくします",
-    "sinoVietnamese": "TRÌ",
+    "sinoVietnamese": "TRÌ KHẮC",
     "example": "人身事故で電車の運行ダイヤが大幅に乱れたため、午前の重要講義に遅刻してしまった。 (Sự cố đường sắt khiến lịch tàu chạy bị đảo lộn nghiêm trọng nên tôi đã đến muộn buổi giảng quan trọng sáng nay.)"
   },
   {
     "word": "早退します",
     "meaning": "về sớm trước giờ quy định (do ốm hoặc có việc bận)",
     "reading": "そうたいします",
-    "sinoVietnamese": "TẢO",
+    "sinoVietnamese": "TẢO THOÁI",
     "example": "午後から急に激しい頭痛と寒気がしてきたので、上司に事情を説明して一時間早退しました。 (Đột nhiên bị đau đầu dữ dội và ớn lạnh vào buổi chiều, tôi đã báo cáo cấp trên xin phép về sớm một tiếng.)"
   },
   {
     "word": "離婚します",
     "meaning": "ly hôn, ly dị (chấm dứt hôn nhân)",
     "reading": "りこんします",
-    "sinoVietnamese": "HÔN",
+    "sinoVietnamese": "LY HÔN",
     "example": "夫婦でお互いの価値観のズレについて長い間話し合った結果、円満に離婚することを選んだ。 (Sau thời gian dài cùng trao đổi về sự bất đồng quan điểm sống, hai vợ chồng đã chọn cách ly hôn trong hòa bình.)"
   },
   {
@@ -87,7 +87,7 @@
     "word": "邪魔（な）",
     "meaning": "vướng víu, cản trở, ngáng đường",
     "reading": "じゃま（な）",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TÀ MA",
     "example": "狭い廊下に大きな段ボール箱を放置しておくと、他の人の通行の邪魔になって危険です。 (Để các thùng các-tông to bừa bãi ở hành lang hẹp sẽ ngáng đường đi của người khác và rất nguy hiểm.)"
   },
   {
@@ -101,21 +101,21 @@
     "word": "台風",
     "meaning": "cơn bão biển, lốc xoáy nhiệt đới",
     "reading": "たいふう",
-    "sinoVietnamese": "PHONG",
+    "sinoVietnamese": "ĐÀI PHONG",
     "example": "超大型の台風が接近しているため、電車が計画運休を行いました。 (Vì cơn bão siêu mạnh đang tiến gần nên các tuyến tàu đã chủ động tạm dừng chạy.)"
   },
   {
     "word": "火事",
     "meaning": "hỏa hoạn, vụ cháy",
     "reading": "かじ",
-    "sinoVietnamese": "HỎA",
+    "sinoVietnamese": "HỎA SỰ",
     "example": "近所で火事が発生しましたが、消防隊の迅速な活動で鎮火しました。 (Vụ hỏa hoạn xảy ra gần nhà nhưng đã được đội cứu hỏa dập tắt kịp thời.)"
   },
   {
     "word": "事故",
     "meaning": "tai nạn, sự cố (giao thông)",
     "reading": "じこ",
-    "sinoVietnamese": "SỰ",
+    "sinoVietnamese": "SỰ CỐ",
     "example": "雪道ではスリップ事故が起きやすいので、スピードを落として運転します。 (Trên đường tuyết rất dễ xảy ra tai nạn trơn trượt nên cần giảm tốc độ khi lái xe.)"
   },
   {
@@ -129,14 +129,14 @@
     "word": "電話代",
     "meaning": "tiền cước điện thoại hằng tháng",
     "reading": "でんわだい",
-    "sinoVietnamese": "ĐIỆN THOẠI",
+    "sinoVietnamese": "ĐIỆN THOẠI ĐẠI",
     "example": "携帯料金のプランを格安SIMに見直したことで、毎月の電話代を半分近くに抑えられた。 (Nhờ xem xét đổi gói cước di động sang SIM giá rẻ, tôi đã tiết kiệm được gần một nửa tiền điện thoại mỗi tháng.)"
   },
   {
     "word": "～代",
     "meaning": "tiền cước phí, chi phí cho khoản ～ (hậu tố: 部屋代, 食事代)",
     "reading": "ーだい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐẠI",
     "example": "今月は友人たちとの外食の機会が多かったので、家計簿の飲食代が予算を大幅にオーバーした。 (Tháng này ăn ngoài cùng bạn bè nhiều lần nên tiền ăn uống trong sổ chi tiêu đã vượt xa ngân sách.)"
   },
   {
@@ -157,7 +157,7 @@
     "word": "汗",
     "meaning": "mồ hôi cơ thể",
     "reading": "あせ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HÃN",
     "example": "急な坂道を自転車で懸命に漕ぎ上がったら、額から大粒の汗が吹き出してきた。 (Gò lưng đạp xe leo con dốc dựng đứng, mồ hôi trên trán tôi vã ra từng giọt to tướng.)"
   },
   {
@@ -171,21 +171,21 @@
     "word": "お疲れさまでした",
     "meaning": "anh/chị đã vất vả rồi! (lời chào trân trọng sau khi hoàn thành công việc)",
     "reading": "おつかれさまでした",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BÌ",
     "example": "定時になりオフィスの全員に向かって「今日も一日お疲れさまでした」と挨拶して退勤した. (Đúng giờ tan sở, tôi cất lời chào mọi người \"Hôm nay cả nhà vất vả rồi ạ\" rồi bấm thẻ ra về.)"
   },
   {
     "word": "伺います",
     "meaning": "đến thăm, hỏi thăm (khiêm nhường ngữ của 行く, 来る, 聞く)",
     "reading": "うかがいます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TÝ",
     "example": "明日のお約束の時間である午後二時ちょうどに、貴社の受付へ伺います。 (Đúng 2 giờ chiều theo lịch hẹn ngày mai, tôi xin phép được đến quầy lễ tân quý công ty.)"
   },
   {
     "word": "途中で",
     "meaning": "giữa chừng, trên đường đi",
     "reading": "とちゅうで",
-    "sinoVietnamese": "TRUNG",
+    "sinoVietnamese": "ĐỒ TRUNG",
     "example": "会社へ向かう途中で突然の夕立に遭い、雨宿りをしました。 (Trên đường tới công ty gặp cơn mưa rào bất chợt nên tôi phải ghé vào trú mưa.)"
   },
   {
@@ -213,21 +213,21 @@
     "word": "西洋化します",
     "meaning": "Tây âu hóa, theo phong cách phương Tây",
     "reading": "せいようかします",
-    "sinoVietnamese": "TÂY",
+    "sinoVietnamese": "TÂY DƯƠNG HÓA",
     "example": "明治時代以降、日本人の食生活や服装は急速に西洋化しました。 (Kể từ thời Meiji, chế độ ăn uống và trang phục người Nhật Tây hóa nhanh chóng.)"
   },
   {
     "word": "今では",
-    "meaning": "bây giờ",
+    "meaning": "hiện nay, ngày nay",
     "reading": "いまでは",
     "sinoVietnamese": "KIM",
-    "example": "昨日の今ではは久しぶりにゆっくり家で休むことができました。 (Hôm qua, lần đầu tiên sau một thời gian dài tôi đã có thể thư giãn ở nhà.)"
+    "example": "昔は不便でしたが、今ではインターネットで何でも買えます。(Ngày xưa thì bất tiện, nhưng hiện nay có thể mua mọi thứ qua mạng Internet.)"
   },
   {
     "word": "成人式",
     "meaning": "buổi lễ",
     "reading": "せいじんしき",
-    "sinoVietnamese": "THÀNH NHÂN",
+    "sinoVietnamese": "THÀNH NHÂN THỨC",
     "example": "成人式が健康で幸せに暮らせることをいつも願っています。 (Tôi luôn mong Lễ trưởng thành sẽ có một cuộc sống khỏe mạnh, hạnh phúc.)"
   }
 ]

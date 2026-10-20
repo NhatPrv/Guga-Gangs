@@ -1,10 +1,10 @@
 [
   {
     "word": "参ります",
-    "meaning": "đi, đến (khiêm nhường ngữ của 行く, 来る)",
+    "meaning": "đi đến (khiêm nhường ngữ của 行く, 来る)",
     "reading": "まいります",
     "sinoVietnamese": "THAM",
-    "example": "ただいまから明日の会議の資料をお届けに参ります。 (Ngay bây giờ tôi xin phép mang tài liệu cuộc họp ngày mai sang trình bày ạ.)"
+    "example": "ただいまから資料をお届けに参ります。(Ngay bây giờ tôi xin phép mang tài liệu đi đến chỗ ngài ạ.)"
   },
   {
     "word": "おります",
@@ -17,28 +17,28 @@
     "word": "申します",
     "meaning": "tên là, nói là (khiêm nhường ngữ của 言う)",
     "reading": "もうします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THÂN",
     "example": "初めまして、ベトナムのハノイから参りましたグエンと申します。 (Kính chào anh/chị, tôi tên là Nguyễn, đến từ Hà Nội, Việt Nam ạ.)"
   },
   {
     "word": "いたします",
-    "meaning": "làm, thực hiện (khiêm nhường ngữ của する)",
+    "meaning": "tiến hành, thực hiện (khiêm nhường ngữ của する)",
     "reading": "いたします",
     "sinoVietnamese": "",
-    "example": "お荷物は私がお部屋までお運びいたします。 (Hành lý của quý khách xin phép để tôi mang lên tận phòng giúp ạ.)"
+    "example": "荷物はお部屋まで私がお運びいたします。(Hành lý của quý khách xin phép để tôi tiến hành mang lên tận phòng giúp ạ.)"
   },
   {
     "word": "拝見します",
     "meaning": "xem, nhìn (khiêm nhường ngữ của 見る)",
     "reading": "はいけんします",
-    "sinoVietnamese": "KIẾN",
+    "sinoVietnamese": "BÁI KIẾN",
     "example": "送っていただいた素晴らしい企画書をじっくり拝見いたしました。 (Tôi đã được xem rất kỹ bản đề án tuyệt vời mà quý công ty gửi sang ạ.)"
   },
   {
     "word": "存じます",
     "meaning": "nghĩ là, biết là (khiêm nhường ngữ của 思う, 知る)",
     "reading": "ぞんじます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TỒN",
     "example": "皆様のご多幸を心よりお祈り申し上げて存じます。 (Tôi xin thành tâm cầu chúc mọi điều tốt lành, may mắn nhất đến với quý vị.)"
   },
   {
@@ -46,7 +46,7 @@
     "meaning": "gặp mặt (khiêm nhường ngữ của 会う)",
     "reading": "おめにかかります",
     "sinoVietnamese": "MỤC",
-    "example": "本日は先生にお目にかかることができて、大変光栄でございます。 (Hôm nay được diện kiến thầy, em cảm thấy vô cùng vinh dự ạ.)"
+    "example": "本日先生にお目にかかることができ、大変光栄に存じます。(Hôm nay được gặp mặt thầy, em cảm thấy vô cùng vinh dự ạ.)"
   },
   {
     "word": "ございます",
@@ -73,14 +73,14 @@
     "word": "お宅",
     "meaning": "nhà của quý vị, tư gia (kính ngữ của 家)",
     "reading": "おたく",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TRẠCH",
     "example": "「お近くにお越しの際は、ぜひ私どものお宅へもお立ち寄りください。」 (\"Khi nào có dịp đi ngang qua khu này, rất mong quý vị bớt chút thời gian ghé chơi tư gia của chúng tôi.\")"
   },
   {
     "word": "郊外",
     "meaning": "ngoại ô, vùng ven đô thị",
     "reading": "こうがい",
-    "sinoVietnamese": "NGOẠI",
+    "sinoVietnamese": "GIAO NGOẠI",
     "example": "休日は都心の喧騒を離れて、緑豊かで閑静な郊外のドライブコースへ車を走らせた。 (Ngày nghỉ tôi rời xa khói bụi trung tâm đô thị, lái xe thong dong trên cung đường ngoại ô rợp bóng cây.)"
   },
   {
@@ -94,56 +94,56 @@
     "word": "再来週",
     "meaning": "tuần tới",
     "reading": "さらいしゅう",
-    "sinoVietnamese": "LAI",
+    "sinoVietnamese": "TÁI LAI CHU",
     "example": "再来週は家族と一緒に楽しい旅行に出かける計画です。 (Tôi dự định sẽ có một chuyến du lịch vui vẻ cùng gia đình vào tuần tới.)"
   },
   {
     "word": "再来月",
     "meaning": "tháng tới",
     "reading": "さらいげつ",
-    "sinoVietnamese": "LAI NGUYỆT",
+    "sinoVietnamese": "TÁI LAI NGUYỆT",
     "example": "再来月の予定をカレンダーにしっかりと書き込みました。 (Tôi đảm bảo viết ra kế hoạch của mình cho tháng tới trên lịch của mình.)"
   },
   {
     "word": "半年",
-    "meaning": "nửa năm",
+    "meaning": "nửa năm, sáu tháng",
     "reading": "はんとし",
     "sinoVietnamese": "BÁN NIÊN",
-    "example": "忙しい半年でも、毎日少しずつ日本語の練習を続けています。 (Mặc dù tôi đã có sáu tháng bận rộn nhưng tôi vẫn tiếp tục luyện tập tiếng Nhật từng chút một mỗi ngày.)"
+    "example": "日本に留学してからあっという間に半年が過ぎました。(Kể từ khi sang Nhật du học, thoắt cái nửa năm đã trôi qua rồi.)"
   },
   {
     "word": "最後に",
     "meaning": "cuối cùng",
     "reading": "さいごに",
-    "sinoVietnamese": "HẬU",
+    "sinoVietnamese": "TỐI HẬU",
     "example": "昨日の最後には久しぶりにゆっくり家で休むことができました。 (Vào cuối ngày hôm qua, lần đầu tiên sau một thời gian dài tôi đã có thể thư giãn ở nhà.)"
   },
   {
     "word": "ただ今",
-    "meaning": "tôi đã về rồi đây / ngay bây giờ",
+    "meaning": "bây giờ, ngay bây giờ; tôi đã về rồi đây",
     "reading": "ただいま",
     "sinoVietnamese": "KIM",
-    "example": "ただ今になると、涼しい風が吹いて過ごしやすくなります。 (Ngày nay, một làn gió mát thổi qua và việc tiêu tốn thời gian trở nên dễ dàng hơn.)"
+    "example": "ただ今ご紹介にあずかりました田中と申します。(Tôi là Tanaka, người vừa được giới thiệu ngay bây giờ ạ.)"
   },
   {
     "word": "緊張します",
     "meaning": "hồi hộp, căng thẳng (tâm lý)",
     "reading": "きんちょうします",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "KHẨN TRƯƠNG",
     "example": "大勢の人の前でスピーチをするのは、とても緊張するものです。 (Đứng phát biểu trước đông người quả thực là một điều rất hồi hộp.)"
   },
   {
     "word": "放送します",
     "meaning": "phát sóng đài phát thanh/truyền hình",
     "reading": "ほうそうします",
-    "sinoVietnamese": "TỐNG",
+    "sinoVietnamese": "PHÓNG TỐNG",
     "example": "災害発生時には、緊急避難情報を住民へいち早く伝達するため自治体の防災行政無線で放送します。 (Khi có thiên tai, thông tin sơ tán khẩn cấp sẽ được phát sóng trên hệ thống truyền thanh để người dân kịp thời nắm bắt.)"
   },
   {
     "word": "賞金",
     "meaning": "tiền thưởng",
     "reading": "しょうきん",
-    "sinoVietnamese": "KIM",
+    "sinoVietnamese": "THƯỞNG KIM",
     "example": "使いやすい賞金のおかげで、毎日の生活がとても快適になりました。 (Tiền thưởng dễ sử dụng đã giúp cuộc sống hàng ngày của tôi dễ dàng hơn nhiều.)"
   },
   {
@@ -151,25 +151,25 @@
     "meaning": "hươu cao cổ",
     "reading": "きりん",
     "sinoVietnamese": "",
-    "example": "使いやすいきりんのおかげで、毎日の生活がとても快適になりました。 (Nhờ có chiếc Kindle dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+    "example": "動物園できりんが長い首を伸ばして木の葉を食べていました。(Ở vườn bách thú, chú hươu cao cổ vươn chiếc cổ dài ăn lá cây.)"
   },
   {
     "word": "像",
     "meaning": "bức tượng điêu khắc (銅像: tượng đồng, 仏像: tượng phật)",
     "reading": "ぞう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TƯỢNG",
     "example": "渋谷駅前の広場には、飼い主の帰りを待ち続けた忠犬ハチ公の有名な銅像が鎮座しています。 (Tại quảng trường trước ga Shibuya có đặt bức tượng đồng nổi tiếng của chú chó trung thành Hachiko.)"
   },
   {
     "word": "ころ",
-    "meaning": "lần, ngày",
+    "meaning": "khoảng chừng, hồi, thời gian",
     "reading": "ころ",
     "sinoVietnamese": "",
-    "example": "ころは家族と一緒に楽しい旅行に出かける計画です。 (Tôi đang có kế hoạch đi du lịch vui vẻ cùng gia đình.)"
+    "example": "子どものころ、よく友達とこの野原を走り回っていました。(Hồi còn là trẻ con, tôi thường cùng bạn bè chạy nhảy khắp cánh đồng này.)"
   },
   {
     "word": "かないます",
-    "meaning": "[ước mơ, nguyện vọng] thành hiện thực [夢/願いが叶う] (đã sửa lỗi màu đỏ)",
+    "meaning": "[ước mơ, nguyện vọng] thành hiện thực [夢/願いが叶う]",
     "reading": "かないます",
     "sinoVietnamese": "",
     "example": "長年の地道な努力が実を結び、ついに念願のプロサッカー選手になるという夢がかないました。 (Những nỗ lực không ngừng nghỉ suốt bao năm đã đơm hoa kết trái, ước mơ trở thành cầu thủ bóng đá chuyên nghiệp đã thành hiện thực.)"
@@ -185,7 +185,7 @@
     "word": "協力します",
     "meaning": "chung sức hiệp lực, hợp tác cùng làm",
     "reading": "きょうりょくします",
-    "sinoVietnamese": "LỰC",
+    "sinoVietnamese": "HIỆP LỰC",
     "example": "地域の防犯パトロール活動を円滑に進めるため、住民全員が一丸となって積極的に協力している。 (Để hoạt động tuần tra phòng chống tội phạm địa phương hiệu quả, toàn thể cư dân đều đồng lòng nhiệt tình hợp tác.)"
   },
   {
@@ -206,12 +206,12 @@
     "word": "拝啓",
     "meaning": "kính gửi (từ mở đầu trang trọng trong thư từ Nhật Bản)",
     "reading": "はいけい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BÁI KHẢI",
     "example": "ビジネスの公式な書簡では、冒頭に「拝啓」と記し、末尾を結語の「敬具」で締めくくります。 (Trong thư tín thương mại trang trọng, mở đầu thư luôn viết \"Kính gửi\" và kết thúc bằng chữ \"Trân trọng\".)"
   },
   {
     "word": "おげんきでいらっしゃいますか?",
-    "meaning": "quý vị dạo này vẫn mạnh khỏe chứ ạ? (lời thăm hỏi đầu thư, đã sửa lỗi màu đỏ)",
+    "meaning": "quý vị dạo này vẫn mạnh khỏe chứ ạ? (lời thăm hỏi đầu thư)",
     "reading": "おげんきでいらっしゃいますか?",
     "sinoVietnamese": "",
     "example": "手紙の書き出しに「初夏の候、皆様におかれましては益々お元気でいらっしゃいますか」と筆を執った。 (Mở đầu lá thư, tôi đặt bút viết lời thăm hỏi: \"Tiết trời đầu hạ, quý vị dạo này vẫn mạnh khỏe vạn an chứ ạ?\")"
@@ -220,7 +220,7 @@
     "word": "迷惑をかけます",
     "meaning": "gây phiền hà, làm phiền người khác",
     "reading": "めいわくをかけます",
-    "sinoVietnamese": "HOẶC",
+    "sinoVietnamese": "MÊ HOẶC",
     "example": "私の確認ミスによって納品が遅れ、取引先の皆様に多大なご迷惑をおかけしてしまいました。 (Do sơ suất của tôi trong khâu kiểm tra khiến hàng giao chậm, làm phiền hà rất nhiều tới quý khách hàng.)"
   },
   {
@@ -232,23 +232,23 @@
   },
   {
     "word": "お城",
-    "meaning": "tòa thành quách, lâu đài cổ (đã sửa lỗi chính tả)",
+    "meaning": "lâu đài, thành trì; tường thành",
     "reading": "おしろ",
-    "sinoVietnamese": "",
-    "example": "春になると満開の桜の花に包まれる大阪城は、国内外から多くの観光客が訪れる名城です。 (Vào mùa xuân ngập tràn trong sắc hoa anh đào rực rỡ, thành Osaka là tòa thành nổi tiếng đón lượng lớn du khách muôn phương.)"
+    "sinoVietnamese": "THÀNH",
+    "example": "姫路城は日本で最も美しいお城の一つとして有名です。(Thành Himeji nổi tiếng là một trong những lâu đài đẹp nhất Nhật Bản.)"
   },
   {
     "word": "敬具",
     "meaning": "trân trọng, kính thư (từ kết thúc trang trọng đi liền với 拝啓)",
     "reading": "けいぐ",
-    "sinoVietnamese": "CỤ",
+    "sinoVietnamese": "KÍNH CỤ",
     "example": "手紙の結びの挨拶を丁寧に添えた後、右下に小さく「敬具」と記して封筒に納めた。 (Sau khi viết trọn vẹn lời chào kết thúc lá thư, tôi ghi chữ \"Kính thư\" ở góc phải rồi bỏ vào phong bì.)"
   },
   {
-    "word": "ミュ��ヘン",
-    "meaning": "münchen",
-    "reading": "ミュ��ヘン",
+    "word": "ミュンヘン",
+    "meaning": "thành phố München (Munich, Đức)",
+    "reading": "ミュンヘン",
     "sinoVietnamese": "",
-    "example": "友達と一緒に、珍しくて面白いミュ��ヘンを見に行きました。 (Tôi và bạn bè đã đến thăm Munich, điều đó thật khác thường và thú vị.)"
+    "example": "去年の冬休みにドイツのミュンヘンへ旅行に行きました。(Kỳ nghỉ đông năm ngoái tôi đã đi du lịch tới thành phố München ở nước Đức.)"
   }
 ]

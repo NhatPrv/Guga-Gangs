@@ -17,7 +17,7 @@
     "word": "乾きます",
     "meaning": "khô ráo (tự động từ: quần áo khô: 洗濯物が乾く)",
     "reading": "かわきます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CAN",
     "example": "天気が良くて風があったので、外に干した洗濯物がよく乾きました。 (Thời tiết đẹp và có gió nên quần áo phơi ngoài trời đã khô cong.)"
   },
   {
@@ -31,28 +31,28 @@
     "word": "滑ります",
     "meaning": "trơn trượt (tuyết, sàn ướt)",
     "reading": "すべります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HOẠT",
     "example": "冬の凍った坂道は滑りやすいので、足元に十分気をつけて歩きます。 (Con dốc đóng băng mùa đông rất trơn trượt nên cần hết sức cẩn thận từng bước chân.)"
   },
   {
     "word": "調節します",
     "meaning": "điều chỉnh (nhiệt độ, âm lượng, dây đeo: 温度/音量を調節する)",
     "reading": "ちょうせつします Ⅲ",
-    "sinoVietnamese": "ĐIỀU",
+    "sinoVietnamese": "ĐIỀU TIẾT",
     "example": "外の気温の変化に合わせて、エアコンの設定温度をこまめに調節しています。 (Để thích ứng với nhiệt độ ngoài trời, tôi thường xuyên điều chỉnh nhiệt độ điều hòa cho phù hợp.)"
   },
   {
     "word": "安全［な］",
     "meaning": "an toàn",
     "reading": "あんぜん［な］",
-    "sinoVietnamese": "AN",
+    "sinoVietnamese": "AN TOÀN",
     "example": "この街は夜遅く歩いてもとても安全な所です。 (Thành phố này là một nơi rất an toàn để đi dạo vào đêm khuya.)"
   },
   {
     "word": "丁寧［な］",
     "meaning": "lịch sự",
     "reading": "ていねい［な］",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐINH NINH",
     "example": "店員さんがとても丁寧な言葉遣いで対応してくれました。 (Nhân viên cửa hàng trả lời rất lịch sự.)"
   },
   {
@@ -66,7 +66,7 @@
     "word": "濃い",
     "meaning": "đậm đặc (trà, cà phê, màu sắc)",
     "reading": "こい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NỒNG",
     "example": "眠気を覚ますために、濃いめのブラックコーヒーを淹れました。 (Để tỉnh ngủ, tôi đã pha một tách cà phê đen thật đậm đặc.)"
   },
   {
@@ -80,21 +80,21 @@
     "word": "涙",
     "meaning": "giọt nước mắt",
     "reading": "なみだ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LỆ",
     "example": "卒業式で先生への感謝の手紙を読みながら、感動の涙を流しました。 (Đọc lá thư tri ân thầy cô trong lễ tốt nghiệp, tôi đã rơi những giọt nước mắt xúc động.)"
   },
   {
     "word": "和食",
     "meaning": "ẩm thực truyền thống Nhật Bản (Washoku)",
     "reading": "わしょく",
-    "sinoVietnamese": "THỰC",
+    "sinoVietnamese": "HÒA THỰC",
     "example": "ユネスコ無形文化遺産にも登録された和食は、素材の味が生きています。 (Ẩm thực truyền thống Nhật Bản được UNESCO công nhận luôn tôn vinh hương vị tự nhiên.)"
   },
   {
     "word": "洋食",
     "meaning": "món ăn kiểu Tây phương",
     "reading": "ようしょく",
-    "sinoVietnamese": "THỰC",
+    "sinoVietnamese": "DƯƠNG THỰC",
     "example": "老舗のレストランで名物のオムライスやハンバーグなどの洋食を味わいました。 (Tại nhà hàng lâu đời, tôi thưởng thức các món Tây nức tiếng như cơm cuộn trứng và thịt băm nướng.)"
   },
   {
@@ -106,16 +106,16 @@
   },
   {
     "word": "量",
-    "meaning": "lượng, khối lượng",
+    "meaning": "lượng, số lượng, khối lượng",
     "reading": "りょう",
-    "sinoVietnamese": "",
-    "example": "この食堂の定食はご飯とおかずの量がとても多くて大満足です。 (Suất cơm của quán này thức ăn và cơm đầy đặn ăn no nê thỏa thích.)"
+    "sinoVietnamese": "LƯỢNG",
+    "example": "この食堂の定食はご飯の量が多くて満足できます。(Suất ăn của quán này lượng cơm rất nhiều khiến tôi thấy thỏa mãn.)"
   },
   {
     "word": "倍",
     "meaning": "gấp ～ lần (bội số: hai lần, ba lần)",
     "reading": "…ばい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BỘI",
     "example": "オンライン販売を強化した成果が現れ、今年の売上は去年の二倍に急増した。 (Nhờ đẩy mạnh bán hàng trực tuyến, doanh thu năm nay đã tăng vọt gấp đôi so với năm ngoái.)"
   },
   {
@@ -127,10 +127,10 @@
   },
   {
     "word": "ツイン",
-    "meaning": "phòng đôi",
+    "meaning": "phòng đôi (khách sạn hai giường đơn)",
     "reading": "ツイン",
     "sinoVietnamese": "",
-    "example": "新しいツインを手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một cặp song sinh mới và hiệu quả công việc của tôi đã được cải thiện rất nhiều.)"
+    "example": "出張先のホテルでツインの部屋を予約しました。(Tôi đã đặt một phòng đôi hai giường đơn ở khách sạn nơi công tác.)"
   },
   {
     "word": "たんす",
@@ -143,22 +143,22 @@
     "word": "洗濯物",
     "meaning": "quần áo giặt, đồ cần giặt/phơi",
     "reading": "せんたくもの",
-    "sinoVietnamese": "TẨY VẬT",
+    "sinoVietnamese": "TẨY TRẠC VẬT",
     "example": "晴天の心地よい風が吹くベランダに、朝一番で洗濯物をたくさん干した。 (Trên ban công lộng gió ngày nắng đẹp, tôi mang thật nhiều quần áo giặt ra phơi từ sáng sớm.)"
   },
   {
     "word": "理由",
-    "meaning": "lý do",
+    "meaning": "lý do, nguyên cớ",
     "reading": "りゆう",
-    "sinoVietnamese": "LÝ",
-    "example": "使いやすい理由のおかげで、毎日の生活がとても快適になりました。 (Nhờ tính dễ sử dụng, nó đã giúp cuộc sống hàng ngày của tôi thoải mái hơn rất nhiều.)"
+    "sinoVietnamese": "LÝ DO",
+    "example": "遅刻した理由を先生にきちんと説明しました。(Tôi đã giải thích rõ ràng lý do mình đi muộn cho thầy giáo.)"
   },
   {
-    "word": "どう なさいますか",
-    "meaning": "quý khách muốn làm thế nào ạ?",
-    "reading": "どう なさいますか",
+    "word": "どうなさいますか",
+    "meaning": "quý khách muốn làm thế nào ạ? (kính ngữ)",
+    "reading": "どうなさいますか",
     "sinoVietnamese": "",
-    "example": "新しいどう なさいますかを手に入れて、仕事の効率がぐんと上がりました。 (Tôi có một công cụ mới và hiệu quả công việc của tôi đã được cải thiện đáng kể.)"
+    "example": "美容院で「本日は髪をどうなさいますか」と聞かれました。(Ở tiệm làm tóc, thợ hỏi: \"Hôm nay quý khách muốn làm tóc như thế nào ạ?\".)"
   },
   {
     "word": "カット",
@@ -175,11 +175,11 @@
     "example": "シトラスの爽やかな香りが広がるオーガニックのシャンプーで髪を丁寧に洗った。 (Tôi gội đầu nhẹ nhàng bằng loại dầu gội hữu cơ thoang thoảng hương cam chanh sảng khoái.)"
   },
   {
-    "word": "どういうふうに なさいますか",
-    "meaning": "quý khách muốn kiểu dáng ra sao ạ?",
-    "reading": "どういうふうに なさいますか",
+    "word": "どういうふうになさいますか",
+    "meaning": "quý khách muốn kiểu dáng như thế nào ạ?",
+    "reading": "どういうふうになさいますか",
     "sinoVietnamese": "",
-    "example": "使いやすいどういうふうに なさいますかのおかげで、毎日の生活がとても快適になりました。 (Nhờ phương pháp dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+    "example": "「髪の長さはどういうふうになさいますか」「少し短くしてください」。(\"Độ dài tóc quý khách muốn cắt như thế nào ạ?\" \"Xin hãy cắt ngắn bớt một chút ạ\".)"
   },
   {
     "word": "ショート",
@@ -206,29 +206,29 @@
     "word": "［どうも］お疲れさまでした",
     "meaning": "cảm ơn vì đã làm cho tôi",
     "reading": "［どうも］お疲れさまでした",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BÌ",
     "example": "一日の厳しい仕事が終わって、同僚に「お疲れさまでした」と声をかけました。(Kết thúc một ngày làm việc vất vả, tôi nói với đồng nghiệp: \"Anh/chị đã vất vả rồi\".)"
   },
   {
     "word": "嫌がります",
     "meaning": "tỏ ra ghét bỏ, khó chịu, không muốn làm (ngôi thứ ba)",
     "reading": "いやがります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HIỀM",
     "example": "うちの飼い犬は水に濡れるのを嫌がるので、お風呂に入れるのに一苦労します。 (Chú cún nhà tôi rất ghét bị ướt lông nên mỗi lần tắm cho nó là cả một trận chiến vất vả.)"
   },
   {
     "word": "順序",
-    "meaning": "thứ tự, tuần tự các bước (đã sửa nghĩa từ thu dọn thành thứ tự)",
+    "meaning": "thứ tự, tuần tự các bước",
     "reading": "じゅんじょ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THUẬN TỰ",
     "example": "マニュアルに記載された正しい順序に従って組み立てれば、誰でも簡単に完成できます。 (Nếu lắp ráp theo đúng trình tự hướng dẫn trong sổ tay, bất cứ ai cũng hoàn thành dễ dàng.)"
   },
   {
     "word": "表現",
-    "meaning": "cách nói",
+    "meaning": "cách nói, diễn đạt, biểu hiện",
     "reading": "ひょうげん",
-    "sinoVietnamese": "",
-    "example": "週末は家族みんなで美味しい表現を囲んで楽しく過ごします。 (Cuối tuần, cả gia đình cùng tận hưởng khoảng thời gian được bao quanh bởi những món ăn ngon.)"
+    "sinoVietnamese": "BIỂU HIỆN",
+    "example": "日本語には敬語など様々な表現があります。(Trong tiếng Nhật có rất nhiều cách nói biểu đạt phong phú như kính ngữ.)"
   },
   {
     "word": "別れます",
@@ -246,9 +246,9 @@
   },
   {
     "word": "縁起が 悪い",
-    "meaning": "điềm gở, không may mắn, xui xẻo (đã sửa nghĩa từ đáng lo ngại)",
+    "meaning": "điềm gở, không may mắn, xui xẻo",
     "reading": "えんぎが わるい",
-    "sinoVietnamese": "KHỞI ÁC",
+    "sinoVietnamese": "DUYÊN KHỞI ÁC",
     "example": "鏡が割れるのは昔から縁起が悪いと言い伝えられていますが、迷信にすぎません。 (Gương vỡ xưa nay vẫn bị coi là điềm xui xẻo, nhưng đó chẳng qua chỉ là điều mê tín.)"
   }
 ]

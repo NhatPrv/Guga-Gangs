@@ -22,17 +22,17 @@
   },
   {
     "word": "二つ",
-    "meaning": "2 cái, 2 chiếc",
+    "meaning": "hai cái, hai chiếc (vật chung)",
     "reading": "ふたつ",
     "sinoVietnamese": "NHỊ",
-    "example": "お土産に有名な京都の八ツ橋の箱を二つ購入しました。 (Tôi mua hai hộp bánh Yatsuhashi nổi tiếng của Kyoto làm quà biếu.)"
+    "example": "パン屋で美味しいクロワッサンを二つ買いました。(Tôi đã mua hai chiếc bánh sừng bò thơm ngon ở tiệm bánh.)"
   },
   {
     "word": "三つ",
-    "meaning": "3 cái, 3 chiếc (đồ vật chung)",
+    "meaning": "ba cái, ba chiếc (vật chung)",
     "reading": "みっつ",
     "sinoVietnamese": "TAM",
-    "example": "机の上の果物かごの中に、みずみずしいリンゴが三つ入っています。 (Trong giỏ hoa quả trên bàn có ba quả táo mọng nước.)"
+    "example": "テーブルの上にリンゴが三つ置いてあります。(Ở trên bàn có đặt ba quả táo.)"
   },
   {
     "word": "四つ",
@@ -43,10 +43,10 @@
   },
   {
     "word": "五つ",
-    "meaning": "năm",
+    "meaning": "năm cái, năm chiếc (vật chung)",
     "reading": "いつつ",
     "sinoVietnamese": "NGŨ",
-    "example": "忙しい五つでも、毎日少しずつ日本語の練習を続けています。 (Mặc dù là một sinh viên bận rộn nhưng tôi vẫn tiếp tục luyện tập tiếng Nhật từng chút một mỗi ngày.)"
+    "example": "お土産に美味しいお菓子を五つ買いました。(Tôi đã mua năm chiếc bánh kẹo ngon để làm quà lưu niệm.)"
   },
   {
     "word": "六つ",
@@ -57,10 +57,10 @@
   },
   {
     "word": "七つ",
-    "meaning": "7 cái, 7 chiếc (đồ vật chung)",
+    "meaning": "bảy cái, bảy chiếc (vật chung)",
     "reading": "ななつ",
     "sinoVietnamese": "THẤT",
-    "example": "夜空を見上げると、北斗七星の七つの星が美しく輝いていました。 (Ngước nhìn lên bầu trời đêm, bảy ngôi sao của chòm sao Bắc Đẩu đang tỏa sáng lấp lánh.)"
+    "example": "お皿の上にみかんが七つ並んでいます。(Trên đĩa có bày bảy quả quýt.)"
   },
   {
     "word": "八つ",
@@ -71,10 +71,10 @@
   },
   {
     "word": "九つ",
-    "meaning": "9 cái, 9 chiếc (đồ vật chung)",
+    "meaning": "chín cái, chín chiếc (vật chung)",
     "reading": "ここのつ",
     "sinoVietnamese": "CỬU",
-    "example": "箱の中に詰められたチョコレートのうち、すでに九つを食べてしまいました。 (Trong số kẹo sô cô la xếp trong hộp, tôi đã ăn mất chín viên rồi.)"
+    "example": "箱の中にチョコレートが九つ入っています。(Trong hộp có chín viên kẹo sô-cô-la.)"
   },
   {
     "word": "とお",
@@ -85,10 +85,10 @@
   },
   {
     "word": "いくつ",
-    "meaning": "có bao nhiêu",
+    "meaning": "bao nhiêu cái, mấy cái; mấy tuổi",
     "reading": "いくつ",
     "sinoVietnamese": "",
-    "example": "健康を維持するために、欠かさずいくつことにしています。 (Để duy trì sức khỏe của mình, tôi đảm bảo thực hiện một số việc nhất định.)"
+    "example": "「卵はいくつ要りますか」「三つください」。(\"Cần bao nhiêu quả trứng?\" \"Cho tôi ba quả\".)"
   },
   {
     "word": "一人",
@@ -112,11 +112,11 @@
     "example": "会社の広い敷地の駐車場には、社用車が十台以上停まっています。 (Tại bãi đỗ xe trong khuôn viên rộng của công ty có hơn mười chiếc xe công vụ đang đậu.)"
   },
   {
-    "word": "～まい",
-    "meaning": "tờ giấy",
+    "word": "～枚",
+    "meaning": "tờ, chiếc, lá (đơn vị đếm vật mỏng)",
     "reading": "～まい",
-    "sinoVietnamese": "",
-    "example": "日々の生活の中で、～まい時間を大切に過ごしたいです。 (Tôi muốn trân trọng thời gian của mình trong cuộc sống hàng ngày.)"
+    "sinoVietnamese": "MAI",
+    "example": "郵便局で切手を二枚買って封筒に貼りました。(Tôi mua hai tờ tem ở bưu điện rồi dán lên phong bì.)"
   },
   {
     "word": "～かい",
@@ -169,30 +169,30 @@
   },
   {
     "word": "葉書",
-    "meaning": "thẻ, quân bài",
+    "meaning": "bưu thiếp, bưu ảnh",
     "reading": "はがき",
-    "sinoVietnamese": "THƯ",
-    "example": "旅先から友達へ現地の美しい景色が印刷された葉書を送りました。 (Từ nơi du lịch tôi gửi cho bạn tấm bưu thiếp in cảnh sắc tuyệt đẹp.)"
+    "sinoVietnamese": "DIỆP THƯ",
+    "example": "旅先から友達へ綺麗な景色が印刷された葉書を送りました。(Từ nơi du lịch tôi đã gửi tấm bưu thiếp in phong cảnh đẹp cho bạn mình.)"
   },
   {
     "word": "封筒",
     "meaning": "chiếc phong bì",
     "reading": "ふうとう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "PHONG ĐỒNG",
     "example": "願書の書類を折り曲げずに大きな白い封筒に入れました。 (Tôi bỏ hồ sơ đăng ký vào chiếc phong bì lớn màu trắng không gập lại.)"
   },
   {
     "word": "速達",
-    "meaning": "giao hàng đặc biệt",
+    "meaning": "thư hỏa tốc, chuyển phát nhanh",
     "reading": "そくたつ",
-    "sinoVietnamese": "TỐC",
-    "example": "大切な書類を少しでも早く届けるために速達で送りました。 (Để tài liệu quan trọng đến sớm nhất có thể, tôi gửi bằng thư hỏa tốc.)"
+    "sinoVietnamese": "TỐC ĐẠT",
+    "example": "大事な手紙を速達で送ると翌朝には届きます。(Gửi bức thư quan trọng bằng thư hỏa tốc thì sáng hôm sau sẽ tới nơi.)"
   },
   {
     "word": "書留",
     "meaning": "thư đã đăng ký",
     "reading": "かきとめ",
-    "sinoVietnamese": "THƯ",
+    "sinoVietnamese": "THƯ LƯU",
     "example": "パスポートの更新書類を郵便局から書留で郵送しました。 (Tôi gửi hồ sơ làm lại hộ chiếu qua đường bưu điện bằng thư bảo đảm.)"
   },
   {
@@ -206,14 +206,14 @@
     "word": "船便",
     "meaning": "thư đường biển",
     "reading": "ふなびん",
-    "sinoVietnamese": "TIỆN",
+    "sinoVietnamese": "THUYỀN TIỆN",
     "example": "環境のために、休日はできるだけ船便で移動しています。 (Vì lợi ích môi trường, tôi đi du lịch bằng đường biển nhiều nhất có thể vào những ngày nghỉ.)"
   },
   {
     "word": "両親",
     "meaning": "cha mẹ",
     "reading": "りょうしん",
-    "sinoVietnamese": "THÂN",
+    "sinoVietnamese": "LƯỠNG THÂN",
     "example": "両親の笑顔を見ると、とても元気が出ます。 (Nhìn thấy nụ cười trên khuôn mặt của bố mẹ, tôi thực sự vui mừng.)"
   },
   {
@@ -225,10 +225,10 @@
   },
   {
     "word": "兄",
-    "meaning": "HUYNH (anh trai, huynh đệ)",
+    "meaning": "anh trai (của mình)",
     "reading": "あに",
     "sinoVietnamese": "HUYNH",
-    "example": "休日は兄と一緒に美味しいご飯を食べに行きます。 (Vào những ngày nghỉ, tôi đi ăn đồ ăn ngon cùng anh trai.)"
+    "example": "私の兄は会社員で、東京で働いています。(Anh trai tôi là nhân viên công ty, đang làm việc ở Tokyo.)"
   },
   {
     "word": "お兄さん",
@@ -287,32 +287,32 @@
     "example": "一度は歴史のある有名な外国に行ってみたいです。 (Tôi muốn đến một đất nước xa lạ nổi tiếng có lịch sử ít nhất một lần.)"
   },
   {
-    "word": "&lt;～時間",
-    "meaning": "～ tiếng đồng hồ",
+    "word": "～時間",
+    "meaning": "～ tiếng đồng hồ (khoảng thời gian)",
     "reading": "～じかん",
     "sinoVietnamese": "THỜI GIAN",
-    "example": "&lt;～時間になると、涼しい風が吹いて過ごしやすくなります。 (<～Khi thời cơ đến, một làn gió mát thổi qua, khiến cả ngày trôi qua dễ dàng hơn.)"
+    "example": "毎日二時間日本語を熱心に勉強しています。(Mỗi ngày tôi đều chăm chỉ học tiếng Nhật suốt hai tiếng đồng hồ.)"
   },
   {
-    "word": "&lt;～週間&gt;",
+    "word": "～週間",
     "meaning": "～ tuần lễ",
     "reading": "～しゅうかん",
-    "sinoVietnamese": "GIAN",
-    "example": "&lt;～週間&gt;は家族と一緒に楽しい旅行に出かける計画です。 (Tôi dự định sẽ có một chuyến du lịch vui vẻ cùng gia đình trong <~tuần>.)"
+    "sinoVietnamese": "CHU GIAN",
+    "example": "二週間の夏休みを利用して北海道へ旅行しました。(Tôi tận dụng kỳ nghỉ hè hai tuần lễ để đi du lịch Hokkaido.)"
   },
   {
-    "word": "&lt;～ヶ月&gt;",
-    "meaning": "～ tháng",
+    "word": "～か月",
+    "meaning": "～ tháng (khoảng thời gian)",
     "reading": "～かげつ",
     "sinoVietnamese": "NGUYỆT",
-    "example": "昨日の&lt;～ヶ月&gt;は久しぶりにゆっくり家で休むことができました。 (Hôm qua <~tháng> là lần đầu tiên sau một thời gian dài tôi có thể thư giãn ở nhà.)"
+    "example": "日本に来てから三か月が経ちました。(Kể từ khi tôi đến Nhật Bản đã trôi qua ba tháng.)"
   },
   {
-    "word": "&lt;～年&gt;",
-    "meaning": "～ năm",
+    "word": "～年",
+    "meaning": "～ năm (khoảng thời gian, năm thứ)",
     "reading": "～ねん",
     "sinoVietnamese": "NIÊN",
-    "example": "昨日の&lt;～年&gt;は久しぶりにゆっくり家で休むことができました。 (Hôm qua, lần đầu tiên sau một thời gian dài tôi đã có thể thư giãn ở nhà.)"
+    "example": "日本に来てから三年の年月が経ちました。(Kể từ khi tôi đến Nhật Bản đã ba năm trôi qua.)"
   },
   {
     "word": "～ぐらい",
@@ -332,7 +332,7 @@
     "word": "全部で",
     "meaning": "tổng cộng, tất cả gồm có",
     "reading": "ぜんぶで",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TOÀN BỘ",
     "example": "「文房具をいろいろ買いましたが、全部でいくらになりますか。」「三千円です。」 (\"Tôi đã mua nhiều món văn phòng phẩm, tất cả hết bao nhiêu tiền ạ?\" \"Dạ ba nghìn yên ạ.\")"
   },
   {
@@ -358,10 +358,10 @@
   },
   {
     "word": "いいお天気ですね",
-    "meaning": "thời tiết đẹp nhỉ!",
-    "reading": "いい (お)てんきですね",
+    "meaning": "thời tiết đẹp nhỉ (lời chào xã giao)",
+    "reading": "いいおてんきですね",
     "sinoVietnamese": "THIÊN KHÍ",
-    "example": "使いやすいいいお天気ですねのおかげで、毎日の生活がとても快適になりました。 (Nhờ ứng dụng dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+    "example": "ご近所さんに「いいお天気ですね」と笑顔で挨拶しました。(Tôi tươi cười chào người hàng xóm: \"Hôm nay thời tiết đẹp nhỉ\".)"
   },
   {
     "word": "お出かけですか",
@@ -379,10 +379,10 @@
   },
   {
     "word": "いってらっしゃい",
-    "meaning": "đến",
+    "meaning": "anh/chị đi nhé, đi cẩn thận nhé",
     "reading": "いってらっしゃい",
     "sinoVietnamese": "",
-    "example": "出かける家族に向かって「気をつけて、いってらっしゃい」と見送りました。 (Tôi tiễn người thân ra cửa: \"Anh/chị đi cẩn thận nhé, chúc một ngày tốt lành\".)"
+    "example": "出かける子どもに「気をつけて、いってらっしゃい」と声をかけました。(Tôi dặn đứa con lúc đi ra ngoài: \"Con đi cẩn thận nhé\".)"
   },
   {
     "word": "いって いらっしゃい",

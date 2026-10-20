@@ -3,7 +3,7 @@
     "word": "磨きます",
     "meaning": "đánh (răng: 歯を磨く), đánh bóng",
     "reading": "みがきます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MA",
     "example": "毎食後に虫歯を予防するために丁寧に歯を磨きます。 (Sau mỗi bữa ăn tôi đều đánh răng cẩn thận để phòng ngừa sâu răng.)"
   },
   {
@@ -52,7 +52,7 @@
     "word": "家具",
     "meaning": "đồ nội thất gia đình",
     "reading": "かぐ",
-    "sinoVietnamese": "CỤ",
+    "sinoVietnamese": "GIA CỤ",
     "example": "新しいアパートに合わせて、シンプルで温かみのある木製家具を揃えました。 (Phù hợp với căn hộ mới, tôi sắm sửa đồ nội thất gỗ giản dị ấm cúng.)"
   },
   {
@@ -73,7 +73,7 @@
     "word": "説明書",
     "meaning": "bản hướng dẫn sử dụng",
     "reading": "せつめいしょ",
-    "sinoVietnamese": "MINH THƯ",
+    "sinoVietnamese": "THUYẾT MINH THƯ",
     "example": "電子レンジを使う前に、付属の取扱説明書をよく読みました。 (Trước khi dùng lò vi sóng, tôi đã đọc kỹ bản hướng dẫn sử dụng đi kèm.)"
   },
   {
@@ -94,14 +94,14 @@
     "word": "矢印",
     "meaning": "mũi tên chỉ hướng",
     "reading": "やじるし",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THỈ ẤN",
     "example": "駅の案内板の黄色い矢印に従って進むと改札口に着きました。 (Đi theo mũi tên màu vàng trên biển chỉ dẫn nhà ga là tới cổng soát vé.)"
   },
   {
     "word": "紺",
     "meaning": "màu xanh tím than, xanh lam sẫm",
     "reading": "こん",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CÁM",
     "example": "面接のために紺色の落ち着いたスーツを新調しました。 (Tôi đã may một bộ vest màu xanh tím than lịch lãm để đi phỏng vấn.)"
   },
   {
@@ -140,17 +140,17 @@
     "example": "茶筅を使って心を込めて美味しい抹茶のお茶をたてました。 (Tôi dùng chổi đót đánh trà chuyên dụng để pha một chén trà matcha thơm ngon.)"
   },
   {
-    "word": "今夜先に/td&gt;",
-    "meaning": "trước đây",
+    "word": "先に",
+    "meaning": "trước, đi trước (hành động)",
     "reading": "さきに",
-    "sinoVietnamese": "KIM TIÊN",
-    "example": "今夜先に/td&gt;は家族と一緒に楽しい旅行に出かける計画です。 (/td> đang có kế hoạch đi du lịch vui vẻ cùng gia đình tối nay.)"
+    "sinoVietnamese": "TIÊN",
+    "example": "用事がありますので、お先に失礼します。(Vì có chút việc bận nên tôi xin phép về trước ạ.)"
   },
   {
     "word": "載せます",
     "meaning": "đặt lên, chở lên (xe, giá)",
     "reading": "のせます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TẢI",
     "example": "お皿の上に焼き立てのパンと目玉焼きをきれいに載せました。 (Tôi bày bánh mì mới nướng và trứng ốp la ngay ngắn lên đĩa.)"
   },
   {
@@ -178,15 +178,15 @@
     "word": "材料",
     "meaning": "nguyên liệu nấu ăn, vật liệu",
     "reading": "ざいりょう",
-    "sinoVietnamese": "LIỆU",
+    "sinoVietnamese": "TÀI LIỆU",
     "example": "カレーを作るために、スーパーで新鮮な材料を買い揃えました。 (Để nấu món cà ri, tôi đã ra siêu thị mua đầy đủ các nguyên liệu tươi ngon.)"
   },
   {
-    "word": "ー分",
-    "meaning": "-chất lượng / -con người",
-    "reading": "ーぶん",
+    "word": "～分",
+    "meaning": "phần, khẩu phần (đơn vị lượng)",
+    "reading": "～ぶん",
     "sinoVietnamese": "PHÂN",
-    "example": "ー分になると、涼しい風が吹いて過ごしやすくなります。 (Sau vài phút, một làn gió mát sẽ thổi qua và bạn sẽ dễ dàng dành thời gian hơn.)"
+    "example": "スーパーで三人分の夕食の材料を買いました。(Tôi đã mua nguyên liệu làm bữa tối cho ba phần người ăn ở siêu thị.)"
   },
   {
     "word": "～グラム",
@@ -241,14 +241,14 @@
     "word": "煮ます",
     "meaning": "nấu, kho, hầm (thực phẩm)",
     "reading": "にます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CHỬ",
     "example": "大根と豚肉をしょうゆとみりんで柔らかく煮ました。 (Tôi kho củ cải và thịt heo cùng nước tương và rượu mirin cho thật mềm.)"
   },
   {
     "word": "煮えます",
     "meaning": "chín nhừ, sôi chín (tự động từ)",
     "reading": "にえます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CHỬ",
     "example": "スープの野菜が柔らかく煮えたので、火を止めました。 (Rau củ trong súp đã chín nhừ mềm mại nên tôi tắt bếp.)"
   },
   {

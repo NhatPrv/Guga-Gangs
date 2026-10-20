@@ -1,45 +1,45 @@
 [
   {
     "word": "これ",
-    "meaning": "cái này",
+    "meaning": "cái này, đây (ở gần người nói)",
     "reading": "これ",
     "sinoVietnamese": "",
-    "example": "これは日本語の辞書です。 (Đây là một từ điển tiếng Nhật.)"
+    "example": "これは日本語の辞書です。(Cái này là cuốn từ điển tiếng Nhật.)"
   },
   {
     "word": "それ",
-    "meaning": "cái đó",
+    "meaning": "cái đó (gần người nghe)",
     "reading": "それ",
     "sinoVietnamese": "",
-    "example": "それは何の本ですか。 (Đó là cuốn sách gì?.)"
+    "example": "それは日本語の辞書ですか。(Cái đó có phải là cuốn từ điển tiếng Nhật không?)"
   },
   {
     "word": "あれ",
-    "meaning": "cái đó",
+    "meaning": "cái kia (ở xa cả hai người)",
     "reading": "あれ",
     "sinoVietnamese": "",
-    "example": "あれは私の傘ではありません。 (Đó không phải là chiếc ô của tôi.)"
+    "example": "あれは誰の車ですか。(Cái kia là xe ô tô của ai thế?)"
   },
   {
     "word": "この",
-    "meaning": "này, cái... này (chỉ vật ở gần người nói)",
+    "meaning": "cuốn này, chiếc này (gần người nói)",
     "reading": "この",
     "sinoVietnamese": "",
-    "example": "この本は日本語の勉強にとても役に立ちます。 (Cuốn sách này rất có ích cho việc học tiếng Nhật.)"
+    "example": "この本は日本語の学習にとても役に立ちます。(Cuốn này là sách rất có ích cho việc học tiếng Nhật.)"
   },
   {
     "word": "その",
-    "meaning": "cái đó",
+    "meaning": "đó, ấy (đứng trước danh từ, gần người nghe)",
     "reading": "その",
     "sinoVietnamese": "",
-    "example": "その青い傘はだれのものですか。 (Chiếc ô màu xanh đó thuộc về ai?.)"
+    "example": "その本を読んでもいいですか。(Tôi có thể đọc cuốn sách đó được không?)"
   },
   {
     "word": "あの",
-    "meaning": "cái đó",
+    "meaning": "kia (đứng trước danh từ, xa cả hai người)",
     "reading": "あの",
     "sinoVietnamese": "",
-    "example": "あのかばんは田中さんのです。 (Cái túi đó là của Tanaka-san.)"
+    "example": "あの方はどなたですか。(Vị kia là ai thế ạ?)"
   },
   {
     "word": "本",
@@ -52,14 +52,14 @@
     "word": "辞書",
     "meaning": "cuốn từ điển",
     "reading": "じしょ",
-    "sinoVietnamese": "THƯ",
+    "sinoVietnamese": "TỪ THƯ",
     "example": "分からない単語に出会ったら、すぐにスマートフォンの電子辞書を引きます。 (Khi gặp từ vựng không hiểu, tôi liền tra từ điển điện tử trên điện thoại ngay.)"
   },
   {
     "word": "雑誌",
     "meaning": "cuốn tạp chí",
     "reading": "ざっし",
-    "sinoVietnamese": "TẠP",
+    "sinoVietnamese": "TẠP CHÍ",
     "example": "駅の売店で最新のファッションや旅行の雑誌を買いました。 (Tại sạp báo nhà ga, tôi đã mua cuốn tạp chí thời trang và du lịch mới nhất.)"
   },
   {
@@ -80,14 +80,14 @@
     "word": "手帳",
     "meaning": "sổ tay cá nhân, sổ lịch trình",
     "reading": "てちょう",
-    "sinoVietnamese": "THỦ",
+    "sinoVietnamese": "THỦ TRƯỚNG",
     "example": "仕事のスケジュールや大事な約束を手帳にしっかり書き留めています。 (Tôi luôn ghi chép cẩn thận lịch trình công việc và các cuộc hẹn vào sổ tay.)"
   },
   {
     "word": "名詞",
     "meaning": "danh thiếp (名刺)",
     "reading": "めいし",
-    "sinoVietnamese": "DANH",
+    "sinoVietnamese": "DANH TỪ",
     "example": "初対面の取引先のお客様に両手で丁寧に名刺をお渡ししました。 (Tôi dùng hai tay trao danh thiếp một cách lịch sự cho đối tác trong lần đầu gặp gỡ.)"
   },
   {
@@ -108,7 +108,7 @@
     "word": "鉛筆",
     "meaning": "cây bút chì",
     "reading": "えんぴつ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DUYÊN BÚT",
     "example": "試験のマークシートは2Bの鉛筆で濃く塗りつぶしてください。 (Phiếu trả lời trắc nghiệm xin hãy dùng bút chì 2B để tô thật đậm.)"
   },
   {
@@ -136,14 +136,14 @@
     "word": "時計",
     "meaning": "đồng hồ (đeo tay, treo tường)",
     "reading": "とけい",
-    "sinoVietnamese": "THỜI",
+    "sinoVietnamese": "THỜI KẾ",
     "example": "成人のお祝いに祖父からプレゼントされた腕時計を愛用しています。 (Tôi rất trân quý chiếc đồng hồ đeo tay được ông tặng nhân dịp trưởng thành.)"
   },
   {
     "word": "傘",
     "meaning": "chiếc ô, cây dù",
     "reading": "かさ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TẢN",
     "example": "急に雨が降ってきたので、駅前のコンビニでビニール傘を買いました。 (Trời bất chợt đổ mưa nên tôi ghé cửa hàng tiện lợi trước ga mua chiếc ô trong suốt.)"
   },
   {
@@ -206,7 +206,7 @@
     "word": "机",
     "meaning": "bàn học, bàn làm việc",
     "reading": "つくえ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CƠ",
     "example": "勉強が終わったら、机の上の消しゴムのカスをきれいに掃除します。 (Học bài xong, tôi dọn sạch vụn tẩy trên bàn làm việc cho gọn gàng.)"
   },
   {
@@ -234,7 +234,7 @@
     "word": "英語",
     "meaning": "tiếng Anh",
     "reading": "えいご",
-    "sinoVietnamese": "NGỮ",
+    "sinoVietnamese": "ANH NGỮ",
     "example": "将来海外で働くために英語を勉強しています。 (Tôi đang học tiếng Anh để đi làm ở nước ngoài trong tương lai.)"
   },
   {
@@ -269,22 +269,22 @@
     "word": "違います。",
     "meaning": "không, không phải",
     "reading": "ちがいます。",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "VI",
     "example": "いいえ、私の意見は少し違います。 (Không, ý kiến ​​của tôi hơi khác một chút.)"
   },
   {
-    "word": "そうですか。",
-    "meaning": "cái đó",
-    "reading": "そうですか。",
+    "word": "そうですか",
+    "meaning": "thế à, vậy à (tiếp nhận thông tin)",
+    "reading": "そうですか",
     "sinoVietnamese": "",
-    "example": "そうですか。教えてくれてありがとうございます。 (có phải vậy không? Cảm ơn bạn đã cho tôi biết.)"
+    "example": "「明日は休みですよ」「そうですか、知らなかった」。(\"Ngày mai được nghỉ đấy\" \"Thế à, tôi không biết đấy\".)"
   },
   {
     "word": "あのう",
-    "meaning": "à, ừm, này (từ đệm ngập ngừng khi bắt đầu nói hoặc hỏi)",
+    "meaning": "xin lỗi, à ừm (từ đệm ngập ngừng)",
     "reading": "あのう",
     "sinoVietnamese": "",
-    "example": "あのう、すみませんが、駅へ行く道を教えていただけませんか。 (À này, xin lỗi làm phiền bạn có thể chỉ đường ra nhà ga cho tôi được không?)"
+    "example": "あのう、駅へ行く道を教えていただけませんか。(Xin lỗi làm phiền, bạn có thể chỉ đường ra nhà ga cho tôi được không?)"
   },
   {
     "word": "ほんの気持ちです",
@@ -295,10 +295,10 @@
   },
   {
     "word": "どうぞ",
-    "meaning": "ở đây",
+    "meaning": "xin mời (mời ăn, mời vào, đưa đồ)",
     "reading": "どうぞ",
     "sinoVietnamese": "",
-    "example": "お茶が入りましたので、どうぞお召し上がりください。 (Trà đã sẵn sàng, mời các bạn thưởng thức nhé.)"
+    "example": "温かいお茶をどうぞお召し上がりください。(Xin mời bạn dùng tách trà ấm nóng nhé.)"
   },
   {
     "word": "どうも",

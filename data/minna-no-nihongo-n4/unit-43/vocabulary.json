@@ -3,14 +3,14 @@
     "word": "増えます",
     "meaning": "tăng lên (tự động từ: số lượng, cân nặng, xuất khẩu)",
     "reading": "ふえます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TĂNG",
     "example": "最近この街に住む外国人観光客の数が急速に増えています。 (Dạo gần đây số lượng du khách nước ngoài đến thành phố này đang tăng vọt.)"
   },
   {
     "word": "減ります",
     "meaning": "giảm đi (tự động từ: dân số, chi phí, rác thải)",
     "reading": "へります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIẢM",
     "example": "ペーパーレス化を進めたことで、職場の紙の消費量が減りました。 (Đẩy mạnh số hóa không dùng giấy đã giúp lượng giấy tiêu thụ ở văn phòng giảm rõ rệt.)"
   },
   {
@@ -43,17 +43,17 @@
   },
   {
     "word": "落ちます",
-    "meaning": "rơi, rớt xuống [đồ đạc, quả: 荷物/果物が落ちる] (đã sửa lỗi chính tả)",
+    "meaning": "rơi, rớt xuống [đồ đạc, quả: 荷物/果物が落ちる]",
     "reading": "おちます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "LẠC",
     "example": "秋風が木々を揺らし、枝の上から赤く熟したリンゴの実がポトリと落ちた。 (Gió thu lay động tán cây, từ trên cành một quả táo chín đỏ mọng rơi rụng xuống đất.)"
   },
   {
-    "word": "丈夫「な」",
-    "meaning": "chắc chắn, bền bỉ (dùng cho đồ vật bền, hoặc sức khỏe dẻo dai)",
-    "reading": "じょうぶ「な」",
-    "sinoVietnamese": "",
-    "example": "休日は丈夫と一緒に美味しいご飯を食べに行きます。 (Vào những ngày nghỉ, tôi đi ăn đồ ăn ngon với Tsuyoshi.)"
+    "word": "丈夫 [な]",
+    "meaning": "chắc chắn, bền; khỏe mạnh",
+    "reading": "じょうぶ",
+    "sinoVietnamese": "TRƯỢNG PHU",
+    "example": "この革の鞄はとても丈夫で長く使えます。(Chiếc cặp da này rất bền chắc chắn và dùng được lâu dài.)"
   },
   {
     "word": "変「な」",
@@ -66,15 +66,15 @@
     "word": "幸せ",
     "meaning": "hạnh phúc, niềm vui sướng an lành",
     "reading": "しあわせ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HẠNH",
     "example": "家族みんなが病気もせず、笑顔で食卓を囲める日常が何よりの幸せです。 (Cả gia đình không ốm đau gì, cùng quây quần bên mâm cơm rộn rã tiếng cười là niềm hạnh phúc lớn nhất.)"
   },
   {
     "word": "うまい",
-    "meaning": "ngon miệng, khéo léo (văn nói thân mật)",
+    "meaning": "ngon; giỏi, khéo léo",
     "reading": "うまい",
     "sinoVietnamese": "",
-    "example": "運動した後に飲む冷たい一杯の水は本当にうまいですね。 (Sau khi vận động xong, uống một cốc nước mát lạnh thật là đã!)"
+    "example": "運動のあとに冷たい水を飲むと本当にうまいです。(Uống một cốc nước lạnh sau khi vận động thực sự rất ngon đã khát.)"
   },
   {
     "word": "ガソリン",
@@ -87,14 +87,14 @@
     "word": "暖房",
     "meaning": "lò sưởi, chế độ sưởi ấm mùa đông",
     "reading": "だんぼう",
-    "sinoVietnamese": "NOÃN",
+    "sinoVietnamese": "NOÃN PHÒNG",
     "example": "雪が降り積もって冷え込んできたので、リビングの暖房をつけて部屋を暖めた。 (Tuyết rơi dày trời trở lạnh căm căm nên tôi bật máy sưởi phòng khách cho ấm áp.)"
   },
   {
     "word": "冷房",
     "meaning": "máy lạnh, chế độ làm mát mùa hè",
     "reading": "れいぼう",
-    "sinoVietnamese": "LÃNH",
+    "sinoVietnamese": "LÃNH PHÒNG",
     "example": "真夏の厳しい猛暑が続く日は、無理をせず室内の冷房を適切に利用しましょう。 (Những ngày hè nắng nóng gay gắt kéo dài, chúng ta hãy bật điều hòa mát trong phòng để giữ sức.)"
   },
   {
@@ -113,10 +113,10 @@
   },
   {
     "word": "わあ",
-    "meaning": "oa! chà! (thán từ thốt lên khi kinh ngạc, thích thú)",
+    "meaning": "oa, chà (thán từ ngạc nhiên, thích thú)",
     "reading": "わあ",
     "sinoVietnamese": "",
-    "example": "夜空に色とりどりの巨大な花火が打ち上がると、観客から「わあ」と大歓声が上がった。 (Khi chùm pháo hoa khổng lồ rực rỡ bừng sáng trên trời đêm, khán giả đồng thanh reo lên: \"Oa, đẹp quá!\")"
+    "example": "夜空に大きな花火が上がって、みんな「わあ、きれい」と歓声をあげました。(Pháo hoa lớn bừng sáng trên trời đêm, mọi người cùng reo lên oa đẹp quá.)"
   },
   {
     "word": "会員",
@@ -129,21 +129,21 @@
     "word": "適当「な」",
     "meaning": "thích hợp, vừa phải, phù hợp",
     "reading": "てきとう「な」",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "THÍCH ĐƯƠNG",
     "example": "健康を保つためには、自分の体力に合った適当な運動を毎日継続することが大切だ。 (Để giữ sức khỏe, việc duy trì bài tập thể dục vừa sức với thể lực mỗi ngày là rất quan trọng.)"
   },
   {
     "word": "年齢",
     "meaning": "một tuổi",
     "reading": "ねんれい",
-    "sinoVietnamese": "NIÊN",
+    "sinoVietnamese": "NIÊN LINH",
     "example": "年齢の澄んだ空を見上げると、爽やかな気持ちになります。 (Khi nhìn lên bầu trời trong trẻo của tuổi mình, tôi cảm thấy sảng khoái.)"
   },
   {
     "word": "収入",
     "meaning": "thu nhập, tiền kiếm được hằng tháng",
     "reading": "しゅうにゅう",
-    "sinoVietnamese": "NHẬP",
+    "sinoVietnamese": "THU NHẬP",
     "example": "毎月の安定した給与収入の中から、将来の投資資金を計画的に積み立てている。 (Từ nguồn thu nhập lương ổn định hàng tháng, tôi trích một phần tích lũy cho quỹ đầu tư tương lai.)"
   },
   {

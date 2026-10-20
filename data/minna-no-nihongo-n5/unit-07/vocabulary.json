@@ -22,10 +22,10 @@
   },
   {
     "word": "もらう",
-    "meaning": "nhận được (từ ai đó)",
+    "meaning": "nhận, được tặng",
     "reading": "もらう",
     "sinoVietnamese": "",
-    "example": "日本を離れるときに、先生から記念の万年筆をもらいました。 (Khi chuẩn bị rời Nhật Bản, tôi được thầy giáo tặng cho chiếc bút mực kỷ niệm.)"
+    "example": "先生から記念に万年筆をもらいました。(Tôi đã nhận được chiếc bút máy kỷ niệm do thầy giáo trao tặng.)"
   },
   {
     "word": "貸す",
@@ -113,10 +113,10 @@
   },
   {
     "word": "パンチ",
-    "meaning": "chỗ ngồi",
+    "meaning": "kìm dập lỗ, cái dập lỗ (giấy)",
     "reading": "パンチ",
     "sinoVietnamese": "",
-    "example": "書類をバインダーにきれいに綴じるために、穴あけパンチで穴を開けました。 (Tôi dùng kìm dập lỗ bấm hai lỗ ngay ngắn để kẹp tài liệu vào bìa còng.)"
+    "example": "書類をファイルにとじるためにパンチで穴を開けます。(Tôi dùng kìm dập lỗ để bấm lỗ kẹp tài liệu vào bìa còng.)"
   },
   {
     "word": "ホッチキス",
@@ -141,10 +141,10 @@
   },
   {
     "word": "かみ",
-    "meaning": "tóc",
+    "meaning": "giấy",
     "reading": "かみ",
     "sinoVietnamese": "",
-    "example": "ノートの白いかみの上に、万年筆で丁寧な文字を書きました。 (Trên trang giấy trắng tinh của cuốn vở, tôi dùng bút mực nắn nót viết chữ.)"
+    "example": "ノートの白い紙にペンで丁寧に文字を書きます。(Tôi dùng bút nắn nót viết chữ lên trang giấy trắng của cuốn vở.)"
   },
   {
     "word": "花",
@@ -171,7 +171,7 @@
     "word": "荷物",
     "meaning": "hành lý, kiện hàng",
     "reading": "にもつ",
-    "sinoVietnamese": "VẬT",
+    "sinoVietnamese": "HÀ VẬT",
     "example": "旅行の重い荷物をホテルのフロントに預けて観光に出かけました。 (Tôi gửi hành lý cồng kềnh tại quầy lễ tân khách sạn rồi thảnh thơi đi tham quan.)"
   },
   {
@@ -211,10 +211,10 @@
   },
   {
     "word": "これから",
-    "meaning": "từ bây giờ",
+    "meaning": "từ bây giờ, sau đây",
     "reading": "これから",
     "sinoVietnamese": "",
-    "example": "これからの予定をカレンダーにしっかりと書き込みました。 (Tôi viết ra những kế hoạch sắp tới của mình trên lịch.)"
+    "example": "これから友達と一緒に晩ご飯を食べに行きます。(Từ bây giờ tôi cùng bạn bè đi ăn bữa tối.)"
   },
   {
     "word": "お父さん",
@@ -274,16 +274,16 @@
   },
   {
     "word": "旅行",
-    "meaning": "du lịch",
+    "meaning": "du lịch, chuyến đi",
     "reading": "りょこう",
     "sinoVietnamese": "LỮ HÀNH",
-    "example": "旅行が終わった後、参加者みんなで記念写真を撮りました。 (Sau chuyến đi, tất cả các đại biểu tham gia chụp ảnh lưu niệm.)"
+    "example": "夏休みに家族みんなで温泉旅行に行きました。(Vào kỳ nghỉ hè cả gia đình tôi đã đi du lịch suối nước nóng.)"
   },
   {
     "word": "お土産",
     "meaning": "quà lưu niệm",
     "reading": "おみやげ",
-    "sinoVietnamese": "THỔ",
+    "sinoVietnamese": "THỔ SẢN",
     "example": "京都へ行った友達から美味しいお土産をもらいました。 (Tôi đã nhận được một món quà lưu niệm ngon lành từ một người bạn đã đến Kyoto.)"
   },
   {

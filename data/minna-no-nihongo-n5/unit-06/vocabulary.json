@@ -3,7 +3,7 @@
     "word": "吸います",
     "meaning": "hút (thuốc lá: たばこを吸う), hít vào",
     "reading": "すいます",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "HẤP",
     "example": "このフロアは完全禁煙ですので、たばこを吸わないでください。 (Tầng này hoàn toàn cấm hút thuốc nên xin quý khách đừng hút thuốc ở đây.)"
   },
   {
@@ -32,7 +32,7 @@
     "meaning": "xem, nhìn (phim, tivi, phong cảnh)",
     "reading": "みます",
     "sinoVietnamese": "KIẾN",
-    "example": "休日の夜に映画館の大きなスクリーンで話題の邦画を見ました。 (Tối ngày nghỉ tôi đến rạp chiếu bóng thưởng thức bộ phim Nhật đang gây sốt.)"
+    "example": "休日の夜に映画館で話題の映画を見ます。(Tối ngày nghỉ tôi đến rạp chiếu bóng để xem bộ phim đang được chú ý.)"
   },
   {
     "word": "聞きます",
@@ -66,22 +66,22 @@
     "word": "撮ります",
     "meaning": "chụp (ảnh: 写真を撮る), quay phim",
     "reading": "とります",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TOÁT",
     "example": "満開の桜の木の下で、満面の笑みの家族の記念写真を撮りました。 (Dưới tán hoa anh đào nở rộ, tôi chụp bức ảnh kỷ niệm gia đình cười rạng rỡ.)"
   },
   {
     "word": "写真を撮りす。",
     "meaning": "chụp ảnh",
     "reading": "しゃしんをとります",
-    "sinoVietnamese": "TẢ CHÂN",
+    "sinoVietnamese": "TẢ CHÂN TOÁT",
     "example": "旅行先の歴史ある名所で綺麗な風景の写真をたくさん撮りました。 (Tại danh lam thắng cảnh trong chuyến du lịch, tôi chụp rất nhiều bức ảnh phong cảnh đẹp.)"
   },
   {
     "word": "します",
-    "meaning": "làm, chơi (thể thao, bài tập)",
+    "meaning": "làm, chơi (thể thao, bài tập); đeo",
     "reading": "します",
     "sinoVietnamese": "",
-    "example": "放課後に学校のグラウンドで友達と汗を流してサッカーをしました。 (Sau giờ học, tôi cùng bạn bè đá bóng thỏa thích trên sân vận động của trường.)"
+    "example": "放課後、グラウンドで友達と一緒にサッカーをします。(Sau giờ học, tôi cùng bạn bè chơi đá bóng ở sân trường.)"
   },
   {
     "word": "会います",
@@ -94,7 +94,7 @@
     "word": "友達に会いす。",
     "meaning": "gặp gỡ bạn bè",
     "reading": "ともだちにあいます",
-    "sinoVietnamese": "HỮU HỘI",
+    "sinoVietnamese": "HỮU ĐẠT HỘI",
     "example": "日曜日の午後に駅前の落ち着いたカフェで親しい友達に会います。 (Chiều Chủ nhật tôi sẽ gặp người bạn thân tại quán cà phê thanh tịnh trước ga.)"
   },
   {
@@ -108,21 +108,21 @@
     "word": "朝ご飯",
     "meaning": "bữa sáng",
     "reading": "あさごはん",
-    "sinoVietnamese": "PHẠN",
+    "sinoVietnamese": "TRIÊU PHẠN",
     "example": "朝ご飯にトーストと目玉焼きを美味しく食べました。 (Bữa sáng tôi đã ăn bánh mì nướng và trứng ốp la rất ngon.)"
   },
   {
     "word": "昼ご飯",
     "meaning": "bữa trưa",
     "reading": "ひるごはん",
-    "sinoVietnamese": "PHẠN",
+    "sinoVietnamese": "TRÚ PHẠN",
     "example": "お昼休みに社員食堂で日替わり定食を食べました。 (Giờ nghỉ trưa tôi ăn suất cơm theo ngày ở căng tin công ty.)"
   },
   {
     "word": "晩ご飯",
     "meaning": "bữa tối",
     "reading": "ばんごはん",
-    "sinoVietnamese": "PHẠN",
+    "sinoVietnamese": "VÃN PHẠN",
     "example": "今日の晩ご飯は家族のリクエストでカレーライスを作ります。(Bữa tối hôm nay tôi nấu món cơm cà ri theo yêu cầu của gia đình.)"
   },
   {
@@ -136,7 +136,7 @@
     "word": "卵",
     "meaning": "quả trứng gà",
     "reading": "たまご",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NOÃN",
     "example": "朝食に新鮮な生卵をご飯にかけて卵かけご飯にして食べました。 (Bữa sáng tôi đập quả trứng gà tươi lên bát cơm nóng làm món Tamago-kake-gohan.)"
   },
   {
@@ -157,14 +157,14 @@
     "word": "野菜",
     "meaning": "rau xanh, rau củ",
     "reading": "やさい",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "DÃ THÁI",
     "example": "健康的な食生活のために、毎食たっぷりの生野菜サラダを食べます。 (Để có chế độ ăn uống lành mạnh, mỗi bữa tôi đều ăn thật nhiều salad rau tươi.)"
   },
   {
     "word": "果物",
     "meaning": "trái cây, hoa quả",
     "reading": "くだもの",
-    "sinoVietnamese": "VẬT",
+    "sinoVietnamese": "QUẢ VẬT",
     "example": "スーパーのくだもの売り場で甘くて瑞々しいりんごとぶどうを買いました。 (Tại quầy hoa quả siêu thị, tôi mua những trái táo và chùm nho ngọt mọng nước.)"
   },
   {
@@ -185,14 +185,14 @@
     "word": "紅茶",
     "meaning": "trà đen, hồng trà",
     "reading": "こうちゃ",
-    "sinoVietnamese": "TRÀ",
+    "sinoVietnamese": "HỒNG TRÀ",
     "example": "アフタヌーンティーにミルクを入れた香りの高い紅茶を楽しみました。 (Vào tiệc trà chiều, tôi thưởng thức tách hồng trà pha sữa thơm ngát.)"
   },
   {
     "word": "牛乳",
     "meaning": "sữa tươi, sữa bò",
     "reading": "ぎゅうにゅう",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "NGƯU NHŨ",
     "example": "毎朝パンと一緒にカルシウムが豊富な冷たい牛乳を1杯飲みます。 (Mỗi sáng tôi đều uống một ly sữa tươi mát lạnh giàu canxi cùng với bánh mì.)"
   },
   {
@@ -220,7 +220,7 @@
     "word": "お酒",
     "meaning": "rượu sake truyền thống Nhật Bản",
     "reading": "おさけ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TỬU",
     "example": "お祝いの席で日本のおいしい純米酒を一杯いただきました。 (Trong bữa tiệc chúc mừng, tôi nâng một chén rượu sake thơm ngon.)"
   },
   {
@@ -304,15 +304,15 @@
     "word": "庭",
     "meaning": "khu vườn",
     "reading": "にわ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐÌNH",
     "example": "家の庭に季節の花が色とりどりに咲いていてきれいです。 (Ngoài sân vườn nhà tôi có nhiều loài hoa theo mùa nở rộ tuyệt đẹp.)"
   },
   {
     "word": "宿題",
-    "meaning": "làm việc",
+    "meaning": "bài tập về nhà",
     "reading": "しゅくだい [をします]",
     "sinoVietnamese": "TÚC ĐỀ",
-    "example": "テレビを見る前に、明日の授業の宿題を終わらせました。 (Trước khi xem tivi, tôi đã làm xong bài tập về nhà cho ngày mai.)"
+    "example": "テレビを見る前に、明日の宿題を終わらせました。(Trước khi xem tivi, tôi đã hoàn thành xong bài tập về nhà cho ngày mai.)"
   },
   {
     "word": "レポート",
@@ -333,7 +333,7 @@
     "meaning": "luôn luôn, lúc nào cũng",
     "reading": "いつも",
     "sinoVietnamese": "",
-    "example": "使いやすいいつものおかげで、毎日の生活がとても快適になりました。 (Nhờ sự dễ sử dụng, cuộc sống hàng ngày của tôi đã trở nên thoải mái hơn rất nhiều.)"
+    "example": "彼はいつも朝早く起きて散歩しています。(Anh ấy lúc nào cũng dậy sớm đi dạo.)"
   },
   {
     "word": "いっしょに",
@@ -379,23 +379,23 @@
   },
   {
     "word": "大阪城公園",
-    "meaning": "công viên lâu đài osaka",
+    "meaning": "công viên thành Osaka (địa điểm ngắm hoa anh đào nổi tiếng)",
     "reading": "おおさかじょうこうえん",
-    "sinoVietnamese": "ĐẠI CÔNG VIÊN",
-    "example": "春の暖かな日差しの中で大阪城公園の満開の桜を散策しました。 (Dưới nắng xuân ấm áp, tôi dạo bước ngắm hoa anh đào nở rộ ở công viên thành Osaka.)"
+    "sinoVietnamese": "ĐẠI PHẢN THÀNH CÔNG VIÊN",
+    "example": "春になると、大阪城公園は満開の桜を楽しむ人々で賑わいます。(Vào mùa xuân, công viên thành Osaka nhộn nhịp người đến thưởng ngoạn hoa anh đào nở rộ.)"
   },
   {
-    "word": "分かりまた。",
-    "meaning": "tôi thấy",
-    "reading": "わかりました。",
+    "word": "分かりました",
+    "meaning": "tôi hiểu rồi, tôi rõ rồi",
+    "reading": "わかりました",
     "sinoVietnamese": "PHÂN",
-    "example": "分かりまたの澄んだ空を見上げると、爽やかな気持ちになります。 (Nhìn lên bầu trời trong xanh mang lại cho bạn cảm giác sảng khoái.)"
+    "example": "先生、丁寧なご説明ありがとうございます。よく分かりました。(Em cảm ơn thầy đã giải thích tận tình, em đã hiểu rất rõ rồi ạ.)"
   },
   {
-    "word": "じゃ、また。",
-    "meaning": "ngày mai",
-    "reading": "じゃ、また。",
+    "word": "じゃ、また",
+    "meaning": "hẹn gặp lại nhé, chào nhé",
+    "reading": "じゃ、また",
     "sinoVietnamese": "",
-    "example": "じゃまたの予定をカレンダーにしっかりと書き込みました。 (Tôi đảm bảo ghi lại kế hoạch của mình cho Jamata trên lịch của mình.)"
+    "example": "今日は楽しかったね。じゃ、また明日。(Hôm nay vui quá nhỉ. Hẹn gặp lại cậu vào ngày mai nhé.)"
   }
 ]

@@ -122,21 +122,21 @@
     "word": "片付けます",
     "meaning": "dọn dẹp, thu dọn",
     "reading": "かたづけます",
-    "sinoVietnamese": "PHÓ",
+    "sinoVietnamese": "PHIẾN PHÓ",
     "example": "勉強が終わったら、使った辞書やノートを片付けましょう。 (Sau khi học xong, chúng ta hãy dọn dẹp từ điển và vở đã dùng nhé.)"
   },
   {
     "word": "皿",
     "meaning": "cái đĩa ăn",
     "reading": "さら",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "MÃNH",
     "example": "料理を盛り付けるために大きなお皿を用意しました。 (Tôi chuẩn bị một chiếc đĩa lớn để bày biện món ăn.)"
   },
   {
     "word": "茶碗",
     "meaning": "cái bát ăn cơm, chén trà",
     "reading": "ちゃわん",
-    "sinoVietnamese": "TRÀ",
+    "sinoVietnamese": "TRÀ OẢN",
     "example": "炊きたてのご飯をお茶碗によそいました。 (Tôi xới cơm vừa mới nấu chín vào chiếc bát ăn cơm.)"
   },
   {
@@ -150,21 +150,21 @@
     "word": "袋",
     "meaning": "túi, bao bì",
     "reading": "ふくろ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "ĐẠI",
     "example": "スーパーのレジでビニール袋を1枚もらいました。 (Tại quầy thu ngân siêu thị tôi xin một chiếc túi nilon.)"
   },
   {
     "word": "書類",
     "meaning": "tài liệu, giấy tờ công việc",
     "reading": "しょるい",
-    "sinoVietnamese": "THƯ",
+    "sinoVietnamese": "THƯ LOẠI",
     "example": "会議で配る大切な書類をファイルにまとめました。 (Tôi đã tập hợp những tài liệu quan trọng phát trong cuộc họp vào bìa hồ sơ.)"
   },
   {
     "word": "枝",
     "meaning": "cành cây",
     "reading": "えだ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CHI",
     "example": "公園の木の枝に小さな小鳥が止まって鳴いています。 (Trên cành cây trong công viên có một chú chim nhỏ đang đậu hót.)"
   },
   {
@@ -178,7 +178,7 @@
     "word": "返事",
     "meaning": "câu trả lời, sự đáp lại",
     "reading": "へんじ",
-    "sinoVietnamese": "SỰ",
+    "sinoVietnamese": "PHẢN SỰ",
     "example": "名前を呼ばれたら、大きな声で「はい」と返事をします。 (Khi được gọi tên, ta hãy đáp lại thật to \"Có\" nhé.)"
   },
   {
@@ -192,7 +192,7 @@
     "word": "源氏物語",
     "meaning": "Truyện Genji (tiểu thuyết cổ điển Nhật Bản)",
     "reading": "げんじものがたり",
-    "sinoVietnamese": "VẬT NGỮ",
+    "sinoVietnamese": "NGUYÊN THỊ VẬT NGỮ",
     "example": "平安時代に紫式部によって書かれた源氏物語を読みました。 (Tôi đã đọc cuốn Truyện Genji do nữ sĩ Murasaki Shikibu viết thời Heian.)"
   },
   {
@@ -220,28 +220,28 @@
     "word": "側",
     "meaning": "phía, bên (hướng)",
     "reading": "がわ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "TRẮC",
     "example": "道路の右側を一列になって安全に歩きましょう。 (Chúng ta hãy xếp thành một hàng đi an toàn bên phía tay phải con đường.)"
   },
   {
     "word": "覚えていません",
     "meaning": "tôi không nhớ",
     "reading": "おぼえていません",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "GIÁC",
     "example": "パスワードをメモしていなかったので、覚えていません。 (Vì không ghi chép lại mật khẩu nên giờ tôi không nhớ nữa.)"
   },
   {
     "word": "網棚",
     "meaning": "giá để hành lý trên tàu xe",
     "reading": "あみだな",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "VÕNG BẰNG",
     "example": "電車の網棚に重い荷物を載せて席に座りました。 (Tôi đặt hành lý nặng lên giá để đồ trên tàu rồi ngồi vào ghế.)"
   },
   {
     "word": "確か",
     "meaning": "chắc là, hình như (nhớ mang máng nhưng khá tự tin)",
     "reading": "たしか",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "XÁC",
     "example": "確か駅前のロータリーの右側に、処方箋を扱っている調剤薬局があったはずです。 (Tôi nhớ chắc mẩm là phía bên phải vòng xoay trước ga có một hiệu thuốc bán theo đơn.)"
   },
   {
@@ -255,21 +255,21 @@
     "word": "地震",
     "meaning": "trận động đất",
     "reading": "じしん",
-    "sinoVietnamese": "ĐỊA",
+    "sinoVietnamese": "ĐỊA CHẤN",
     "example": "大きな地震が起きたときは、まず頭を守って机の下に入ります。 (Khi xảy ra động đất lớn, trước tiên hãy bảo vệ đầu và chui xuống gầm bàn.)"
   },
   {
     "word": "壁",
     "meaning": "bức tường",
     "reading": "かべ",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "BÍCH",
     "example": "白い壁にお気に入りの絵葉書を貼って飾りました。 (Tôi dán tấm bưu thiếp yêu thích lên bức tường trắng để trang trí.)"
   },
   {
     "word": "針",
     "meaning": "kim đồng hồ, cây kim may",
     "reading": "はり",
-    "sinoVietnamese": "",
+    "sinoVietnamese": "CHÂM",
     "example": "時計の針がちょうど正午の12時を指しています。 (Kim đồng hồ đang chỉ đúng 12 giờ trưa.)"
   },
   {
@@ -290,7 +290,7 @@
     "word": "西の方",
     "meaning": "phía tây, hướng tây",
     "reading": "にしのほう",
-    "sinoVietnamese": "TÂY",
+    "sinoVietnamese": "TÂY PHƯƠNG",
     "example": "夕方になると西の方の空が赤く染まっていきます。 (Khi hoàng hôn buông xuống, bầu trời phía tây dần nhuộm một màu đỏ rực.)"
   },
   {
