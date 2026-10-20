@@ -2058,11 +2058,47 @@ function setupEventListeners() {
     "Học từ lỗi sai mới nhớ lâu! Cố lên bạn ơi! 📚🌈"
   ];
 
+  // Bộ câu thoại khi NHẬP CHƯA ĐÚNG (gợi ý gõ lại hoặc bấm Tab xem đáp án)
+  const GUGA_RETRY_SPEECHES = [
+    "Chưa đúng rồi nè, thử nhớ lại xem nào! 🐧💭",
+    "Gần đúng rồi đó, kiểm tra lại chính tả xem sao! ✨",
+    "Cố lên bạn ơi, gõ lại lần nữa xem nào! 🔥",
+    "Đừng vội nản nha, thử gõ lại một lần nữa nhé! 🌸",
+    "Suýt đúng rồi! Để ý trường âm hoặc âm ngắt xem nha! 🎯",
+    "Bình tĩnh gõ lại nào, Gugugaga đang chờ tin vui của bạn! 🐧💕",
+    "Thử lại lần nữa nào bạn ơi, bạn làm được mà! 🌟",
+    "Nếu chưa nhớ từ này, hãy bấm phím Tab để xem đáp án nha! 💡"
+  ];
+
   let gugaSpeechTimer = null;
   let gugaForceShowTimer = null;
   const mascotWidget = document.getElementById('gugugaga-mascot-widget');
   const speechBubble = document.getElementById('gugugaga-speech-bubble');
   const heartsContainer = document.getElementById('gugugaga-hearts-container');
+
+  /**
+   * Phản hồi khi người dùng gõ chưa chính xác (yêu cầu gõ lại hoặc bấm Tab)
+   */
+  window.triggerGugaRetryFeedback = function() {
+    if (!speechBubble) return;
+
+    const mascotBody = document.querySelector('.guga-mascot-body');
+    if (mascotBody) {
+      mascotBody.classList.remove('guga-celebrating', 'guga-comforting');
+      void mascotBody.offsetWidth; // Force reflow
+      mascotBody.classList.add('guga-comforting');
+      setTimeout(() => mascotBody.classList.remove('guga-comforting'), 850);
+    }
+
+    const randomSpeech = GUGA_RETRY_SPEECHES[Math.floor(Math.random() * GUGA_RETRY_SPEECHES.length)];
+    speechBubble.textContent = randomSpeech;
+    speechBubble.className = 'bubble-wrong active';
+
+    if (gugaSpeechTimer) clearTimeout(gugaSpeechTimer);
+    gugaSpeechTimer = setTimeout(() => {
+      speechBubble.classList.remove('active', 'bubble-wrong');
+    }, 3800);
+  };
 
   /**
    * Phản hồi của Bé Gugugaga khi người dùng làm bài Test (Đúng / Sai)
@@ -2377,6 +2413,9 @@ function setupPracticeListeners() {
       if (e.key === 'Enter') {
         e.preventDefault();
         submitPracticeAnswer(false);
+      } else if (e.key === 'Tab') {
+        e.preventDefault();
+        submitPracticeAnswer(true);
       }
     };
 
@@ -2398,6 +2437,17 @@ function setupPracticeListeners() {
       inputEl.focus();
     };
   }
+
+  // Lắng nghe phím tắt Tab toàn cục khi đang làm bài Test Luyện gõ
+  window.addEventListener('keydown', (e) => {
+    if (e.key === 'Tab') {
+      const arenaEl = document.getElementById('practice-arena');
+      if (arenaEl && !arenaEl.classList.contains('hidden') && !state.practice.isAnswered) {
+        e.preventDefault();
+        submitPracticeAnswer(true);
+      }
+    }
+  });
 }
 
 /**
@@ -2745,7 +2795,7 @@ function submitPracticeAnswer(isSkipped = false) {
   const isCorrect = !isSkipped && checkPracticeAnswerMatch(userText, q);
 
   if (!isCorrect && !isSkipped) {
-    // Trả lời sai
+    // Trả lời chưa chính xác: rung thẻ, đổi viền đỏ và Bé Gugugaga động viên/nhắc phím Tab
     const arenaCard = document.getElementById('arena-card');
     arenaCard.classList.remove('shake-error');
     void arenaCard.offsetWidth; // trigger reflow
@@ -2757,7 +2807,13 @@ function submitPracticeAnswer(isSkipped = false) {
     }, 600);
 
     inputEl.select();
-    showToast('Chưa chính xác! Hãy thử lại hoặc bấm "Xem đáp án"', 'warning');
+
+    // Bé Gugugaga phản hồi động viên và nhắc phím tắt Tab
+    if (typeof window.triggerGugaRetryFeedback === 'function') {
+      window.triggerGugaRetryFeedback();
+    }
+
+    showToast('Chưa chính xác! Thử lại hoặc bấm Tab để xem đáp án', 'warning');
     return;
   }
 
