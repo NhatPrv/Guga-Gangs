@@ -226,28 +226,40 @@ main {
   box-shadow: var(--shadow-hover) !important;
 }
 
+/* Hình nền Bé Gugugaga trên đồng hoa rực rỡ cho Guga Mode (kèm lớp phủ mờ Glassmorphism cao cấp) */
+[data-theme="guga"] main,
+[data-theme="guga"] #main-content-scroll {
+  background-image: 
+    linear-gradient(rgba(255, 241, 242, 0.82), rgba(255, 241, 242, 0.88)),
+    url('/assets/guga-bg.png') !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center bottom !important;
+  background-attachment: fixed !important;
+}
+
+/* Hiệu ứng Glassmorphism cho các thẻ card khi ở Guga Mode */
 [data-theme="guga"] .vocab-card,
 [data-theme="guga"] .kanji-card,
 [data-theme="guga"] .grammar-card,
-[data-theme="guga"] .grammar-item {
-  background-color: var(--bg-surface) !important;
-  border-color: var(--border-color) !important;
-  box-shadow: var(--shadow-card) !important;
+[data-theme="guga"] .grammar-item,
+[data-theme="guga"] #arena-card,
+[data-theme="guga"] .flashcard-card {
+  background-color: rgba(255, 255, 255, 0.92) !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+  border-color: rgba(254, 205, 211, 0.9) !important;
+  box-shadow: 0 4px 20px rgba(244, 63, 94, 0.08) !important;
 }
 
 [data-theme="guga"] .vocab-card:hover,
 [data-theme="guga"] .kanji-card:hover,
 [data-theme="guga"] .grammar-card:hover,
 [data-theme="guga"] .grammar-item:hover {
+  background-color: rgba(255, 255, 255, 0.98) !important;
   border-color: var(--brand-primary) !important;
-  box-shadow: var(--shadow-hover) !important;
-}
-
-/* Watermark cánh cụt chìm trong Guga Mode */
-[data-theme="guga"] #main-content-scroll {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' opacity='0.05'%3E%3Cellipse cx='50' cy='55' rx='30' ry='35' fill='%23f43f5e'/%3E%3Cellipse cx='50' cy='58' rx='22' ry='26' fill='%23ffffff'/%3E%3Ccircle cx='40' cy='42' r='4' fill='%23881337'/%3E%3Ccircle cx='60' cy='42' r='4' fill='%23881337'/%3E%3Cpolygon points='50,47 44,53 56,53' fill='%23fbbf24'/%3E%3Ccircle cx='36' cy='49' r='3.5' fill='%23fda4af'/%3E%3Ccircle cx='64' cy='49' r='3.5' fill='%23fda4af'/%3E%3Cpath d='M20,50 Q12,65 24,70 Q26,60 22,50' fill='%23f43f5e'/%3E%3Cpath d='M80,50 Q88,65 76,70 Q74,60 78,50' fill='%23f43f5e'/%3E%3C/svg%3E");
-  background-repeat: repeat;
-  background-size: 160px 160px;
+  box-shadow: 0 8px 25px rgba(244, 63, 94, 0.18) !important;
+  transform: translateY(-2px);
 }
 
 /* Custom Scrollbar */
