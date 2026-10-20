@@ -106,10 +106,9 @@ function speakJapanese(text, onEndCallback = null) {
 }
 
 /**
- * Hiệu ứng bé cánh cụt Gugugaga ăn mừng khi học tập
+ * Hiệu ứng bé cánh cụt Gugugaga ăn mừng khi học tập (luôn hoạt động ở mọi mode)
  */
 function triggerGugaCelebrate() {
-  if (document.documentElement.getAttribute('data-theme') !== 'guga') return;
   const mascotBody = document.querySelector('.guga-mascot-body');
   if (!mascotBody) return;
   mascotBody.classList.remove('guga-celebrating');
